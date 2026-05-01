@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ticalasi</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background-color: #0a0e17;
+        }
+        .brand-image {
+            max-width: 90%;
+            max-height: 85vh;
+            object-fit: contain;
+        }
+        .brand-name {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-size: 12px;
+            letter-spacing: 4px;
+            color: rgba(255, 255, 255, 0.15);
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <img src="images/brand.jpg" alt="Ticalasi" class="brand-image">
+    <div class="brand-name">Ticalasi</div>
+</body>
+</html>
