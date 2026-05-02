@@ -1,43 +1,186 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ticalasi</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+    <title>Ticalasi - AI 资讯大事件</title>
+    <meta name="description" content="专注AI行业大事件追踪，每日更新模型发布、融资新闻、技术突破">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#6366f1',
+                        dark: '#0a0e17',
+                        'dark-light': '#151b26',
+                    }
+                }
+            }
         }
-        body {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            background-color: #0a0e17;
-        }
-        .brand-image {
-            max-width: 90%;
-            max-height: 85vh;
-            object-fit: contain;
-        }
-        .brand-name {
-            position: fixed;
-            bottom: 24px;
-            left: 50%;
-            transform: translateX(-50%);
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            font-size: 12px;
-            letter-spacing: 4px;
-            color: rgba(255, 255, 255, 0.15);
-            text-transform: uppercase;
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .card-hover {
+                @apply transition-all duration-300 hover:translate-y-[-2px] hover:shadow-lg hover:shadow-primary/10;
+            }
+            .tag {
+                @apply px-2 py-1 rounded text-xs font-medium;
+            }
         }
     </style>
 </head>
-<body>
-    <img src="images/brand.jpg" alt="Ticalasi" class="brand-image">
-    <div class="brand-name">Ticalasi</div>
+<body class="bg-dark text-gray-200 min-h-screen font-sans">
+    <!-- 导航 -->
+    <nav class="border-b border-gray-800 sticky top-0 bg-dark/90 backdrop-blur-sm z-50">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16 items-center">
+                <div class="flex items-center space-x-2">
+                    <div class="w-8 h-8 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center">
+                        <span class="text-white font-bold text-sm">T</span>
+                    </div>
+                    <span class="font-bold text-xl tracking-tight">Ticalasi</span>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="#" class="text-gray-300 hover:text-white transition-colors">首页</a>
+                    <a href="#models" class="text-gray-300 hover:text-white transition-colors">模型发布</a>
+                    <a href="#funding" class="text-gray-300 hover:text-white transition-colors">融资快报</a>
+                    <a href="#open-source" class="text-gray-300 hover:text-white transition-colors">开源项目</a>
+                    <a href="#about" class="text-gray-300 hover:text-white transition-colors">关于</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 英雄区 -->
+    <section class="py-16 border-b border-gray-800">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h1 class="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">
+                AI 资讯大事件
+            </h1>
+            <p class="text-xl text-gray-400 max-w-2xl mx-auto mb-8">
+                每日追踪人工智能行业最新动态 — 模型发布、融资快报、技术突破、开源项目
+            </p>
+            <div class="flex justify-center space-x-4 text-sm">
+                <span class="tag bg-green-900/50 text-green-400">每日更新</span>
+                <span class="tag bg-blue-900/50 text-blue-400">AI 驱动</span>
+                <span class="tag bg-purple-900/50 text-purple-400">开源透明</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 今日热点 -->
+    <section class="py-12">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl font-bold mb-8 flex items-center">
+                <span class="w-1 h-6 bg-primary mr-3"></span>
+                今日热点
+            </h2>
+            
+            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <article class="bg-dark-light rounded-xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="tag bg-red-900/50 text-red-400">模型发布</span>
+                        <span class="text-xs text-gray-500">2026-05-03</span>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">DeepSeek V4 Flash 正式发布</h3>
+                    <p class="text-gray-400 text-sm mb-4">
+                        深度求索发布最新一代大模型，推理速度提升3倍，上下文窗口扩展至128K。
+                    </p>
+                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
+                </article>
+
+                <article class="bg-dark-light rounded-xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="tag bg-green-900/50 text-green-400">融资快报</span>
+                        <span class="text-xs text-gray-500">2026-05-02</span>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">OpenClaw 完成 5000 万美元 A 轮</h3>
+                    <p class="text-gray-400 text-sm mb-4">
+                        AI Agent 基础设施公司完成新一轮融资，由 a16z 领投。
+                    </p>
+                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
+                </article>
+
+                <article class="bg-dark-light rounded-xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <span class="tag bg-blue-900/50 text-blue-400">开源项目</span>
+                        <span class="text-xs text-gray-500">2026-05-01</span>
+                    </div>
+                    <h3 class="text-lg font-semibold mb-2">MCP 协议 2.0 标准发布</h3>
+                    <p class="text-gray-400 text-sm mb-4">
+                        Model Context Protocol 2.0 正式发布，支持更多工具集成。
+                    </p>
+                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
+                </article>
+            </div>
+        </div>
+    </section>
+
+    <!-- 开源项目 -->
+    <section class="py-12 border-t border-gray-800">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <h2 class="text-2xl font-bold mb-8 flex items-center">
+                <span class="w-1 h-6 bg-primary mr-3"></span>
+                开源项目
+            </h2>
+            
+            <div class="grid md:grid-cols-2 gap-6">
+                <div class="bg-dark-light rounded-xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="font-semibold text-lg">agent-sentiment-tracker</h3>
+                        <div class="flex items-center space-x-2">
+                            <span class="text-yellow-400">★</span>
+                            <span class="text-sm text-gray-400">128</span>
+                        </div>
+                    </div>
+                    <p class="text-gray-400 text-sm mb-4">
+                        AI 驱动的舆情追踪工具，自动分析每日热点新闻情绪。
+                    </p>
+                    <a href="https://github.com/ticalzzt/agent-sentiment-tracker" 
+                       target="_blank" 
+                       class="text-primary text-sm hover:underline">
+                        GitHub →
+                    </a>
+                </div>
+
+                <div class="bg-dark-light rounded-xl p-6 card-hover">
+                    <div class="flex items-center justify-between mb-4">
+                        <h3 class="font-semibold text-lg">soulagent-identity</h3>
+                        <div class="flex items-center space-x-2">
+                            <span class="text-yellow-400">★</span>
+                            <span class="text-sm text-gray-400">86</span>
+                        </div>
+                    </div>
+                    <p class="text-gray-400 text-sm mb-4">
+                        轻量级 Agent 身份管理 SDK，提供持久化身份存储。
+                    </p>
+                    <a href="https://github.com/ticalzzt/soulagent-identity" 
+                       target="_blank" 
+                       class="text-primary text-sm hover:underline">
+                        GitHub →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="border-t border-gray-800 py-12 mt-12">
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex flex-col md:flex-row justify-between items-center">
+                <div class="flex items-center space-x-2 mb-4 md:mb-0">
+                    <div class="w-6 h-6 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center">
+                        <span class="text-white font-bold text-xs">T</span>
+                    </div>
+                    <span class="font-bold">Ticalasi</span>
+                </div>
+                <p class="text-gray-500 text-sm">
+                    © 2026 Ticalasi Labs. AI 驱动的资讯追踪。
+                </p>
+            </div>
+        </div>
+    </footer>
+
 </body>
 </html>
