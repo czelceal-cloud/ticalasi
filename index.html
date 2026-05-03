@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ticalasi - AI 前沿资讯</title>
+    <meta name="description" content="ticalasi 追踪全球AI技术前沿，提供深度分析与行业洞察。">
+    <meta name="keywords" content="AI,人工智能,大模型,机器学习,深度学习,GPT,技术前沿">
+    <meta property="og:title" content="ticalasi - AI 前沿资讯">
+    <meta property="og:description" content="追踪全球AI技术前沿，提供深度分析与行业洞察。">
+    <link rel="canonical" href="https://ticalasi.com">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+        .gradient-text { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        article { transition: transform 0.2s; }
+        article:hover { transform: translateY(-2px); }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900">
+    <header class="bg-white border-b sticky top-0 z-10">
+        <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+            <a href="/" class="text-2xl font-bold gradient-text">ticalasi</a>
+            <nav class="flex gap-6 text-sm text-gray-600">
+                <a href="/" class="hover:text-gray-900">首页</a>
+                <a href="/articles" class="hover:text-gray-900">文章</a>
+                <a href="/about" class="hover:text-gray-900">关于</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 py-8">
+        <section class="mb-12">
+            <h1 class="text-4xl font-bold mb-4">AI 技术前沿</h1>
+            <p class="text-gray-600 text-lg">追踪全球人工智能技术发展，提供深度的行业分析与洞察</p>
+        </section>
+
+        <section>
+            <h2 class="text-xl font-semibold mb-6 border-b pb-2">最新资讯</h2>
+            <div id="articles" class="grid gap-6 md:grid-cols-2">
+                <p class="text-gray-400 col-span-2">内容加载中...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="border-t mt-16 py-8 text-center text-sm text-gray-400">
+        <p>&copy; 2026 ticalasi. All rights reserved.</p>
+    </footer>
+
+    <script>
+        const ARTICLES = [
+            {
+                title: "大模型推理能力提升：新架构突破注意力瓶颈",
+                summary: "研究人员提出了一种新型注意力机制，在大规模推理任务中实现了显著性能提升，同时降低了计算成本。",
+                date: "2026-05-03",
+                tags: ["大模型", "架构创新"]
+            },
+            {
+                title: "多模态AI模型迎来统一架构时代",
+                summary: "最新研究展示了一种统一的视觉-语言模型架构，可在图像、视频、文本间无缝转换推理。",
+                date: "2026-05-02",
+                tags: ["多模态", "统一模型"]
+            },
+            {
+                title: "AI Agent 自主协作系统取得突破",
+                summary: "多个AI Agent能够在没有人类干预的情况下自主分工协作，完成复杂的长周期任务。",
+                date: "2026-05-01",
+                tags: ["Agent", "自主系统"]
+            },
+            {
+                title: "开源LLM性能逼近闭源模型",
+                summary: "最新开源大语言模型在多项基准测试中达到与顶尖闭源模型相当的水平，开源生态加速发展。",
+                date: "2026-04-30",
+                tags: ["开源", "LLM"]
+            }
+        ];
+
+        document.getElementById('articles').innerHTML = ARTICLES.map(a => `
+            <article class="bg-white rounded-lg shadow-sm p-6 border cursor-pointer">
+                <div class="flex gap-2 mb-3 flex-wrap">
+                    ${a.tags.map(t => `<span class="text-xs bg-purple-50 text-purple-600 px-2 py-0.5 rounded">${t}</span>`).join('')}
+                </div>
+                <h3 class="font-semibold mb-2">${a.title}</h3>
+                <p class="text-sm text-gray-600 mb-3">${a.summary}</p>
+                <span class="text-xs text-gray-400">${a.date}</span>
+            </article>
+        `).join('');
+    </script>
+</body>
+</html>

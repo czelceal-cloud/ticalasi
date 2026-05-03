@@ -1,0 +1,34 @@
+name: 内容自动化 + 部署
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 每6小时更新一次
+  push:
+    branches: [main]
+  workflow_dispatch:         # 手动触发
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 配置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 生成内容
+        run: python3 scripts/generate_content.py
+
+      - name: 部署到GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          force_orphan: true
