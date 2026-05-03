@@ -119,25 +119,49 @@ def generate_article_pages():
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <title>{a['title']} - ticalasi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{a['title']} — ticalasi</title>
     <meta name="description" content="{a['summary']}">
     <link rel="canonical" href="{SITE_URL}/articles/{a['id']}">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+        body {{ font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif; background: #fafafa; color: #1a1a1a; -webkit-font-smoothing: antialiased; line-height: 1.6; }}
+        .container {{ max-width: 720px; margin: 0 auto; padding: 0 24px; }}
+        nav {{ display: flex; align-items: center; justify-content: space-between; padding: 20px 0; border-bottom: 1px solid #e8e8e8; margin-bottom: 64px; }}
+        .logo {{ font-size: 18px; font-weight: 600; letter-spacing: -0.3px; color: #1a1a1a; text-decoration: none; }}
+        .nav-links {{ display: flex; gap: 24px; }}
+        .nav-links a {{ font-size: 14px; color: #888; text-decoration: none; }}
+        .nav-links a:hover {{ color: #1a1a1a; }}
+        .meta {{ font-size: 13px; color: #aaa; margin-bottom: 16px; display: flex; gap: 12px; align-items: center; }}
+        .tag {{ font-size: 11px; color: #666; background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }}
+        h1 {{ font-size: 32px; font-weight: 700; letter-spacing: -0.5px; line-height: 1.3; margin-bottom: 24px; }}
+        .summary {{ font-size: 16px; color: #888; line-height: 1.6; margin-bottom: 32px; padding-bottom: 32px; border-bottom: 1px solid #e8e8e8; }}
+        .content {{ font-size: 15px; color: #444; line-height: 1.8; }}
+        footer {{ border-top: 1px solid #e8e8e8; padding: 32px 0; margin-top: 64px; font-size: 13px; color: #aaa; }}
+    </style>
 </head>
-<body class="bg-gray-50">
-    <article class="max-w-3xl mx-auto px-4 py-8">
-        <header class="mb-8">
-            <h1 class="text-3xl font-bold mb-2">{a['title']}</h1>
-            <time class="text-gray-400 text-sm">{a['date']}</time>
-            <div class="flex gap-2 mt-3">
-                {''.join(f'<span class="text-xs bg-purple-50 text-purple-600 px-2 py-0.5 rounded">{t}</span>' for t in a['tags'])}
+<body>
+    <div class="container">
+        <nav>
+            <a href="/" class="logo">ticalasi</a>
+            <div class="nav-links">
+                <a href="/">文章</a>
+                <a href="/about">关于</a>
             </div>
-        </header>
-        <div class="prose max-w-none">
-            <p class="text-lg text-gray-600 mb-6">{a['summary']}</p>
-            <p>{a['content']}</p>
-        </div>
-    </article>
+        </nav>
+
+        <article>
+            <div class="meta">
+                <span>{a['date']}</span>
+                <span class="tag">{a['tags'][0]}</span>
+            </div>
+            <h1>{a['title']}</h1>
+            <p class="summary">{a['summary']}</p>
+            <div class="content"><p>{a['content']}</p></div>
+        </article>
+
+        <footer><span>&copy; 2026 ticalasi</span></footer>
+    </div>
 </body>
 </html>"""
         with open(f"articles/{a['id']}.html", "w", encoding="utf-8") as f:

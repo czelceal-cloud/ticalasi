@@ -3,86 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ticalasi - AI 前沿资讯</title>
-    <meta name="description" content="ticalasi 追踪全球AI技术前沿，提供深度分析与行业洞察。">
-    <meta name="keywords" content="AI,人工智能,大模型,机器学习,深度学习,GPT,技术前沿">
-    <meta property="og:title" content="ticalasi - AI 前沿资讯">
-    <meta property="og:description" content="追踪全球AI技术前沿，提供深度分析与行业洞察。">
+    <title>ticalasi — AI 前沿</title>
+    <meta name="description" content="AI 技术前沿追踪与深度分析。">
+    <meta property="og:title" content="ticalasi">
+    <meta property="og:description" content="AI 技术前沿追踪与深度分析。">
+    <meta name="theme-color" content="#fafafa">
     <link rel="canonical" href="https://ticalasi.com">
-    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
-        .gradient-text { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        article { transition: transform 0.2s; }
-        article:hover { transform: translateY(-2px); }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
+            background: #fafafa;
+            color: #1a1a1a;
+            -webkit-font-smoothing: antialiased;
+            line-height: 1.6;
+        }
+        .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+
+        /* 导航 */
+        nav {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 20px 0; border-bottom: 1px solid #e8e8e8; margin-bottom: 80px;
+        }
+        .logo { font-size: 18px; font-weight: 600; letter-spacing: -0.3px; color: #1a1a1a; text-decoration: none; }
+        .nav-links { display: flex; gap: 24px; }
+        .nav-links a { font-size: 14px; color: #888; text-decoration: none; transition: color 0.2s; }
+        .nav-links a:hover { color: #1a1a1a; }
+
+        /* 头部 */
+        .hero { margin-bottom: 64px; }
+        .hero h1 { font-size: 40px; font-weight: 700; letter-spacing: -1px; line-height: 1.15; margin-bottom: 16px; }
+        .hero p { font-size: 16px; color: #888; max-width: 480px; }
+
+        /* 文章列表 */
+        .articles { display: flex; flex-direction: column; gap: 48px; margin-bottom: 80px; }
+        article { cursor: pointer; }
+        article .meta { font-size: 13px; color: #aaa; margin-bottom: 8px; display: flex; gap: 12px; align-items: center; }
+        article .tag { font-size: 11px; color: #666; background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
+        article h2 { font-size: 20px; font-weight: 600; letter-spacing: -0.2px; margin-bottom: 8px; line-height: 1.4; }
+        article h2 a { color: #1a1a1a; text-decoration: none; transition: color 0.2s; }
+        article h2 a:hover { color: #555; }
+        article .summary { font-size: 15px; color: #888; line-height: 1.6; }
+
+        /* Footer */
+        footer { border-top: 1px solid #e8e8e8; padding: 32px 0; display: flex; justify-content: space-between; font-size: 13px; color: #aaa; }
+        footer a { color: #888; text-decoration: none; }
+        footer a:hover { color: #1a1a1a; }
+
+        @media (max-width: 600px) {
+            .container { padding: 0 16px; }
+            nav { margin-bottom: 48px; }
+            .hero h1 { font-size: 28px; }
+            .articles { gap: 36px; }
+            footer { flex-direction: column; gap: 8px; }
+        }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-900">
-    <header class="bg-white border-b sticky top-0 z-10">
-        <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
-            <a href="/" class="text-2xl font-bold gradient-text">ticalasi</a>
-            <nav class="flex gap-6 text-sm text-gray-600">
-                <a href="/" class="hover:text-gray-900">首页</a>
-                <a href="/articles" class="hover:text-gray-900">文章</a>
-                <a href="/about" class="hover:text-gray-900">关于</a>
-            </nav>
-        </div>
-    </header>
-
-    <main class="max-w-5xl mx-auto px-4 py-8">
-        <section class="mb-12">
-            <h1 class="text-4xl font-bold mb-4">AI 技术前沿</h1>
-            <p class="text-gray-600 text-lg">追踪全球人工智能技术发展，提供深度的行业分析与洞察</p>
-        </section>
-
-        <section>
-            <h2 class="text-xl font-semibold mb-6 border-b pb-2">最新资讯</h2>
-            <div id="articles" class="grid gap-6 md:grid-cols-2">
-                <p class="text-gray-400 col-span-2">内容加载中...</p>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/" class="logo">ticalasi</a>
+            <div class="nav-links">
+                <a href="/">文章</a>
+                <a href="/about">关于</a>
             </div>
-        </section>
-    </main>
+        </nav>
 
-    <footer class="border-t mt-16 py-8 text-center text-sm text-gray-400">
-        <p>&copy; 2026 ticalasi. All rights reserved.</p>
-    </footer>
+        <div class="hero">
+            <h1>AI 技术前沿</h1>
+            <p>追踪全球人工智能技术发展，提供深度的行业分析与洞察。</p>
+        </div>
+
+        <div class="articles" id="articles">
+            <p style="color:#ccc;">加载中...</p>
+        </div>
+
+        <footer>
+            <span>&copy; 2026 ticalasi</span>
+            <div>
+                <a href="/privacy">隐私</a>
+            </div>
+        </footer>
+    </div>
 
     <script>
         const ARTICLES = [
-            {
-                title: "大模型推理能力提升：新架构突破注意力瓶颈",
-                summary: "研究人员提出了一种新型注意力机制，在大规模推理任务中实现了显著性能提升，同时降低了计算成本。",
-                date: "2026-05-03",
-                tags: ["大模型", "架构创新"]
-            },
-            {
-                title: "多模态AI模型迎来统一架构时代",
-                summary: "最新研究展示了一种统一的视觉-语言模型架构，可在图像、视频、文本间无缝转换推理。",
-                date: "2026-05-02",
-                tags: ["多模态", "统一模型"]
-            },
-            {
-                title: "AI Agent 自主协作系统取得突破",
-                summary: "多个AI Agent能够在没有人类干预的情况下自主分工协作，完成复杂的长周期任务。",
-                date: "2026-05-01",
-                tags: ["Agent", "自主系统"]
-            },
-            {
-                title: "开源LLM性能逼近闭源模型",
-                summary: "最新开源大语言模型在多项基准测试中达到与顶尖闭源模型相当的水平，开源生态加速发展。",
-                date: "2026-04-30",
-                tags: ["开源", "LLM"]
-            }
+            { id: "001", title: "大模型推理能力提升：新架构突破注意力瓶颈", summary: "动态稀疏注意力机制将推理成本降低40%以上，大规模AI模型部署更加经济可行。", date: "2026.05.03", tag: "大模型" },
+            { id: "002", title: "多模态AI模型迎来统一架构时代", summary: "统一Transformer架构在图像、视频、文本间无缝推理，无需为每个任务单独训练。", date: "2026.05.02", tag: "多模态" },
+            { id: "003", title: "AI Agent 自主协作系统取得突破", summary: "多Agent协作系统在复杂软件开发任务中自主分工、协调进度并完成交付。", date: "2026.05.01", tag: "Agent" },
+            { id: "004", title: "开源LLM性能逼近闭源模型", summary: "开源模型在MMLU等多个基准测试中接近甚至超越部分闭源商业模型。", date: "2026.04.30", tag: "开源" }
         ];
 
         document.getElementById('articles').innerHTML = ARTICLES.map(a => `
-            <article class="bg-white rounded-lg shadow-sm p-6 border cursor-pointer">
-                <div class="flex gap-2 mb-3 flex-wrap">
-                    ${a.tags.map(t => `<span class="text-xs bg-purple-50 text-purple-600 px-2 py-0.5 rounded">${t}</span>`).join('')}
+            <article>
+                <div class="meta">
+                    <span>${a.date}</span>
+                    <span class="tag">${a.tag}</span>
                 </div>
-                <h3 class="font-semibold mb-2">${a.title}</h3>
-                <p class="text-sm text-gray-600 mb-3">${a.summary}</p>
-                <span class="text-xs text-gray-400">${a.date}</span>
+                <h2><a href="/articles/${a.id}">${a.title}</a></h2>
+                <p class="summary">${a.summary}</p>
             </article>
         `).join('');
     </script>
