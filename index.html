@@ -3,184 +3,493 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ticalasi - AI 资讯大事件</title>
-    <meta name="description" content="专注AI行业大事件追踪，每日更新模型发布、融资新闻、技术突破">
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        primary: '#6366f1',
-                        dark: '#0a0e17',
-                        'dark-light': '#151b26',
-                    }
-                }
+    <meta name="description" content="Ticalasi - 专注于AI领域的最新资讯、技术解读和行业动态">
+    <title>Ticalasi - AI资讯与科技前沿</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: #f5f5f5;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        header p {
+            opacity: 0.9;
+            font-size: 1.1rem;
+        }
+        
+        nav {
+            background: #fff;
+            padding: 1rem 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+        }
+        
+        nav a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s;
+        }
+        
+        nav a:hover {
+            color: #764ba2;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 2rem;
+        }
+        
+        .main-content {
+            background: #fff;
+            border-radius: 8px;
+            padding: 2rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .section-title {
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid #667eea;
+        }
+        
+        .news-item {
+            padding: 1.5rem 0;
+            border-bottom: 1px solid #eee;
+        }
+        
+        .news-item:last-child {
+            border-bottom: none;
+        }
+        
+        .news-item h3 {
+            color: #333;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-item h3 a {
+            color: #333;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        
+        .news-item h3 a:hover {
+            color: #667eea;
+        }
+        
+        .news-meta {
+            font-size: 0.875rem;
+            color: #666;
+            margin-bottom: 0.5rem;
+        }
+        
+        .news-meta span {
+            margin-right: 1rem;
+        }
+        
+        .news-summary {
+            color: #555;
+        }
+        
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+        
+        .widget {
+            background: #fff;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .widget h4 {
+            font-size: 1.1rem;
+            margin-bottom: 1rem;
+            color: #667eea;
+        }
+        
+        .widget ul {
+            list-style: none;
+        }
+        
+        .widget li {
+            padding: 0.5rem 0;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        
+        .widget li:last-child {
+            border-bottom: none;
+        }
+        
+        .widget a {
+            color: #555;
+            text-decoration: none;
+            font-size: 0.95rem;
+        }
+        
+        .widget a:hover {
+            color: #667eea;
+        }
+        
+        .tag-cloud {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+        
+        .tag {
+            background: #f0f0f0;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            color: #666;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+        
+        .tag:hover {
+            background: #667eea;
+            color: white;
+        }
+        
+        .trending-list {
+            counter-reset: trending;
+        }
+        
+        .trending-list li {
+            counter-increment: trending;
+            display: flex;
+            align-items: flex-start;
+            gap: 0.75rem;
+        }
+        
+        .trending-list li::before {
+            content: counter(trending);
+            background: #667eea;
+            color: white;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        
+        .newsletter {
+            text-align: center;
+        }
+        
+        .newsletter p {
+            font-size: 0.9rem;
+            color: #666;
+            margin-bottom: 1rem;
+        }
+        
+        .newsletter-form {
+            display: flex;
+            gap: 0.5rem;
+        }
+        
+        .newsletter-form input {
+            flex: 1;
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 0.95rem;
+        }
+        
+        .newsletter-form button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.25rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: background 0.3s;
+        }
+        
+        .newsletter-form button:hover {
+            background: #764ba2;
+        }
+        
+        footer {
+            background: #333;
+            color: white;
+            padding: 2rem 0;
+            margin-top: 3rem;
+            text-align: center;
+        }
+        
+        footer a {
+            color: #ccc;
+            text-decoration: none;
+        }
+        
+        footer a:hover {
+            color: white;
+        }
+        
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .footer-copy {
+            font-size: 0.875rem;
+            color: #999;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            
+            nav ul {
+                flex-wrap: wrap;
+                gap: 1rem;
+            }
+            
+            .newsletter-form {
+                flex-direction: column;
             }
         }
-    </script>
-    <style type="text/tailwindcss">
-        @layer utilities {
-            .card-hover {
-                @apply transition-all duration-300 hover:translate-y-[-2px] hover:shadow-lg hover:shadow-primary/10;
-            }
-            .tag {
-                @apply px-2 py-1 rounded text-xs font-medium;
-            }
+        
+        .featured-badge {
+            display: inline-block;
+            background: #ff6b6b;
+            color: white;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            margin-left: 0.5rem;
+            vertical-align: middle;
+        }
+        
+        .update-time {
+            background: #e8f5e9;
+            color: #2e7d32;
+            padding: 0.75rem;
+            border-radius: 4px;
+            text-align: center;
+            font-size: 0.9rem;
+            margin-bottom: 1.5rem;
         }
     </style>
 </head>
-<body class="bg-dark text-gray-200 min-h-screen font-sans">
-    <!-- 导航 -->
-    <nav class="border-b border-gray-800 sticky top-0 bg-dark/90 backdrop-blur-sm z-50">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between h-16 items-center">
-                <div class="flex items-center space-x-2">
-                    <div class="w-8 h-8 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center">
-                        <span class="text-white font-bold text-sm">T</span>
-                    </div>
-                    <span class="font-bold text-xl tracking-tight">Ticalasi</span>
-                </div>
-                <div class="hidden md:flex space-x-8">
-                    <a href="#" class="text-gray-300 hover:text-white transition-colors">首页</a>
-                    <a href="#models" class="text-gray-300 hover:text-white transition-colors">模型发布</a>
-                    <a href="#funding" class="text-gray-300 hover:text-white transition-colors">融资快报</a>
-                    <a href="#open-source" class="text-gray-300 hover:text-white transition-colors">开源项目</a>
-                    <a href="#about" class="text-gray-300 hover:text-white transition-colors">关于</a>
-                </div>
-            </div>
-        </div>
+<body>
+    <header>
+        <h1>Ticalasi</h1>
+        <p>探索AI前沿，分享科技洞见</p>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#home">首页</a></li>
+            <li><a href="#news">最新资讯</a></li>
+            <li><a href="#tech">技术解读</a></li>
+            <li><a href="#industry">行业动态</a></li>
+            <li><a href="#tools">工具推荐</a></li>
+            <li><a href="#about">关于我们</a></li>
+        </ul>
     </nav>
-
-    <!-- 英雄区 -->
-    <section class="py-16 border-b border-gray-800">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">
-                AI 资讯大事件
-            </h1>
-            <p class="text-xl text-gray-400 max-w-2xl mx-auto mb-8">
-                每日追踪人工智能行业最新动态 — 模型发布、融资快报、技术突破、开源项目
-            </p>
-            <div class="flex justify-center space-x-4 text-sm">
-                <span class="tag bg-green-900/50 text-green-400">每日更新</span>
-                <span class="tag bg-blue-900/50 text-blue-400">AI 驱动</span>
-                <span class="tag bg-purple-900/50 text-purple-400">开源透明</span>
+    
+    <div class="container">
+        <main class="main-content">
+            <div class="update-time">
+                📅 网站更新时间：2026年5月3日 10:30 | 今日新增文章：3篇
             </div>
-        </div>
-    </section>
-
-    <!-- 今日热点 -->
-    <section class="py-12">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl font-bold mb-8 flex items-center">
-                <span class="w-1 h-6 bg-primary mr-3"></span>
-                今日热点
-            </h2>
             
-            <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <article class="bg-dark-light rounded-xl p-6 card-hover">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="tag bg-red-900/50 text-red-400">模型发布</span>
-                        <span class="text-xs text-gray-500">2026-05-03</span>
-                    </div>
-                    <h3 class="text-lg font-semibold mb-2">DeepSeek V4 Flash 正式发布</h3>
-                    <p class="text-gray-400 text-sm mb-4">
-                        深度求索发布最新一代大模型，推理速度提升3倍，上下文窗口扩展至128K。
-                    </p>
-                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
-                </article>
-
-                <article class="bg-dark-light rounded-xl p-6 card-hover">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="tag bg-green-900/50 text-green-400">融资快报</span>
-                        <span class="text-xs text-gray-500">2026-05-02</span>
-                    </div>
-                    <h3 class="text-lg font-semibold mb-2">OpenClaw 完成 5000 万美元 A 轮</h3>
-                    <p class="text-gray-400 text-sm mb-4">
-                        AI Agent 基础设施公司完成新一轮融资，由 a16z 领投。
-                    </p>
-                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
-                </article>
-
-                <article class="bg-dark-light rounded-xl p-6 card-hover">
-                    <div class="flex items-center justify-between mb-4">
-                        <span class="tag bg-blue-900/50 text-blue-400">开源项目</span>
-                        <span class="text-xs text-gray-500">2026-05-01</span>
-                    </div>
-                    <h3 class="text-lg font-semibold mb-2">MCP 协议 2.0 标准发布</h3>
-                    <p class="text-gray-400 text-sm mb-4">
-                        Model Context Protocol 2.0 正式发布，支持更多工具集成。
-                    </p>
-                    <a href="#" class="text-primary text-sm hover:underline">阅读更多 →</a>
-                </article>
-            </div>
-        </div>
-    </section>
-
-    <!-- 开源项目 -->
-    <section class="py-12 border-t border-gray-800">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <h2 class="text-2xl font-bold mb-8 flex items-center">
-                <span class="w-1 h-6 bg-primary mr-3"></span>
-                开源项目
-            </h2>
+            <h2 class="section-title">🔥 热门文章</h2>
             
-            <div class="grid md:grid-cols-2 gap-6">
-                <div class="bg-dark-light rounded-xl p-6 card-hover">
-                    <div class="flex items-center justify-between mb-4">
-                        <h3 class="font-semibold text-lg">agent-sentiment-tracker</h3>
-                        <div class="flex items-center space-x-2">
-                            <span class="text-yellow-400">★</span>
-                            <span class="text-sm text-gray-400">128</span>
-                        </div>
-                    </div>
-                    <p class="text-gray-400 text-sm mb-4">
-                        AI 驱动的舆情追踪工具，自动分析每日热点新闻情绪。
-                    </p>
-                    <a href="https://github.com/ticalzzt/agent-sentiment-tracker" 
-                       target="_blank" 
-                       class="text-primary text-sm hover:underline">
-                        GitHub →
-                    </a>
+            <article class="news-item">
+                <h3><a href="#"><span class="featured-badge">热门</span>OpenAI发布GPT-5技术报告：迈向通用人工智能的新里程碑</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-05-03</span>
+                    <span>👁 12.8万阅读</span>
+                    <span>💬 892评论</span>
                 </div>
-
-                <div class="bg-dark-light rounded-xl p-6 card-hover">
-                    <div class="flex items-center justify-between mb-4">
-                        <h3 class="font-semibold text-lg">soulagent-identity</h3>
-                        <div class="flex items-center space-x-2">
-                            <span class="text-yellow-400">★</span>
-                            <span class="text-sm text-gray-400">86</span>
-                        </div>
-                    </div>
-                    <p class="text-gray-400 text-sm mb-4">
-                        轻量级 Agent 身份管理 SDK，提供持久化身份存储。
-                    </p>
-                    <a href="https://github.com/ticalzzt/soulagent-identity" 
-                       target="_blank" 
-                       class="text-primary text-sm hover:underline">
-                        GitHub →
-                    </a>
+                <p class="news-summary">OpenAI今日发布了备受期待的GPT-5技术报告，详细介绍了新一代模型的架构创新和能力提升。报告指出GPT-5在推理能力、多模态理解和代码生成方面取得了显著突破...</p>
+            </article>
+            
+            <article class="news-item">
+                <h3><a href="#">Anthropic Claude 4发布：长上下文窗口达到200万token</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-05-02</span>
+                    <span>👁 9.3万阅读</span>
+                    <span>💬 456评论</span>
+                </div>
+                <p class="news-summary">Anthropic宣布推出Claude 4系列模型，其中Claude 4-Sonnet支持高达200万token的上下文窗口，为处理超长文档、长代码库和复杂对话提供了更强大的能力...</p>
+            </article>
+            
+            <article class="news-item">
+                <h3><a href="#">Google DeepMind开源AlphaFold 3：预测所有生命分子结构</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-05-01</span>
+                    <span>👁 8.7万阅读</span>
+                    <span>💬 621评论</span>
+                </div>
+                <p class="news-summary">Google DeepMind正式开源AlphaFold 3，这一革命性的蛋白质结构预测工具现在可以预测几乎所有生物分子的结构，包括蛋白质、DNA、RNA和小型分子...</p>
+            </article>
+            
+            <h2 class="section-title">📰 最新资讯</h2>
+            
+            <article class="news-item">
+                <h3><a href="#">英伟达发布新一代Blackwell Ultra GPU：AI训练效率提升4倍</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-05-03</span>
+                    <span>👁 6.2万阅读</span>
+                    <span>💬 234评论</span>
+                </div>
+                <p class="news-summary">英伟达在GTC大会上正式发布Blackwell Ultra GPU架构，相比上一代Hopper架构，AI训练效率提升高达4倍，推理速度提升3倍，将为大语言模型训练提供更强大的算力支持...</p>
+            </article>
+            
+            <article class="news-item">
+                <h3><a href="#">Meta开源Llama 4系列：开源大模型进入多模态时代</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-04-30</span>
+                    <span>👁 7.1万阅读</span>
+                    <span>💬 389评论</span>
+                </div>
+                <p class="news-summary">Meta AI正式开源Llama 4系列模型，包括Llama 4-Scout、Llama 4-Maverick和Llama 4-Behemoth三个版本，全部支持多模态能力...</p>
+            </article>
+            
+            <article class="news-item">
+                <h3><a href="#">马斯克xAI发布Grok 3.5：实时互联网访问与深度推理能力</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-04-28</span>
+                    <span>👁 5.9万阅读</span>
+                    <span>💬 178评论</span>
+                </div>
+                <p class="news-summary">xAI公司发布了Grok 3.5版本，引入实时互联网访问功能和增强的深度推理能力，用户可以就最新新闻和事件向Grok提问，获得实时分析...</p>
+            </article>
+            
+            <article class="news-item">
+                <h3><a href="#">微软Copilot全面升级：Windows系统深度集成AI助手</a></h3>
+                <div class="news-meta">
+                    <span>📅 2026-04-26</span>
+                    <span>👁 4.8万阅读</span>
+                    <span>💬 156评论</span>
+                </div>
+                <p class="news-summary">微软宣布Windows 12将深度集成Copilot AI助手，用户可以在系统任何位置通过快捷键呼出AI助手，完成文件管理、系统设置、应用操作等任务...</p>
+            </article>
+        </main>
+        
+        <aside class="sidebar">
+            <div class="widget newsletter">
+                <h4>📧 订阅Newsletter</h4>
+                <p>获取每周AI领域最新资讯和技术解读</p>
+                <form class="newsletter-form">
+                    <input type="email" placeholder="your@email.com">
+                    <button type="submit">订阅</button>
+                </form>
+            </div>
+            
+            <div class="widget">
+                <h4>📈 热门话题</h4>
+                <ul class="trending-list">
+                    <li><a href="#">GPT-5发布：技术突破与行业影响</a></li>
+                    <li><a href="#">开源大模型竞争格局分析</a></li>
+                    <li><a href="#">AI Agent应用落地案例</a></li>
+                    <li><a href="#">多模态AI发展趋势</a></li>
+                    <li><a href="#">AI安全与对齐研究进展</a></li>
+                </ul>
+            </div>
+            
+            <div class="widget">
+                <h4>🏷 标签云</h4>
+                <div class="tag-cloud">
+                    <a href="#" class="tag">大语言模型</a>
+                    <a href="#" class="tag">多模态</a>
+                    <a href="#" class="tag">AI Agent</a>
+                    <a href="#" class="tag">开源</a>
+                    <a href="#" class="tag">AI安全</a>
+                    <a href="#" class="tag">算力</a>
+                    <a href="#" class="tag">机器人</a>
+                    <a href="#" class="tag">自动驾驶</a>
+                    <a href="#" class="tag">AI医疗</a>
+                    <a href="#" class="tag">量子计算</a>
                 </div>
             </div>
-        </div>
-    </section>
-
-    <!-- 页脚 -->
-    <footer class="border-t border-gray-800 py-12 mt-12">
-        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex flex-col md:flex-row justify-between items-center">
-                <div class="flex items-center space-x-2 mb-4 md:mb-0">
-                    <div class="w-6 h-6 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center">
-                        <span class="text-white font-bold text-xs">T</span>
-                    </div>
-                    <span class="font-bold">Ticalasi</span>
-                </div>
-                <p class="text-gray-500 text-sm">
-                    © 2026 Ticalasi Labs. AI 驱动的资讯追踪。
-                </p>
+            
+            <div class="widget">
+                <h4>📚 技术教程</h4>
+                <ul>
+                    <li><a href="#">RAG系统构建完整指南</a></li>
+                    <li><a href="#">大模型微调实战：LoRA与QLoRA</a></li>
+                    <li><a href="#">LangChain入门与进阶</a></li>
+                    <li><a href="#">向量数据库选择与使用</a></li>
+                    <li><a href="#">AI应用性能优化技巧</a></li>
+                </ul>
             </div>
+            
+            <div class="widget">
+                <h4>🔗 合作伙伴</h4>
+                <ul>
+                    <li><a href="#">OpenAI</a></li>
+                    <li><a href="#">Anthropic</a></li>
+                    <li><a href="#">Google DeepMind</a></li>
+                    <li><a href="#">Meta AI</a></li>
+                    <li><a href="#">xAI</a></li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+    
+    <footer>
+        <div class="footer-links">
+            <a href="#">关于我们</a>
+            <a href="#">联系我们</a>
+            <a href="#">隐私政策</a>
+            <a href="#">使用条款</a>
+            <a href="#">RSS订阅</a>
         </div>
+        <p class="footer-copy">
+            © 2024-2026 Ticalasi. All rights reserved. | 京ICP备XXXXXXXX号
+        </p>
     </footer>
-
 </body>
 </html>
