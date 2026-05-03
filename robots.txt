@@ -1,0 +1,34 @@
+# Ticalasi - robots.txt
+# https://ticalasi.com/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ticalasi.com/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
+
+# Disallow API endpoints (if any)
+Disallow: /api/
+Disallow: /admin/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Sogou Spider
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

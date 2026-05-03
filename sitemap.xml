@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://ticalasi.com/</loc>
+    <lastmod>2026-05-03T10:30:00+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Main Sections -->
+  <url>
+    <loc>https://ticalasi.com/news/</loc>
+    <lastmod>2026-05-03T10:30:00+08:00</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tech/</loc>
+    <lastmod>2026-05-03T08:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/industry/</loc>
+    <lastmod>2026-05-03T09:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/deep/</loc>
+    <lastmod>2026-05-02T18:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tools/</loc>
+    <lastmod>2026-05-01T12:00:00+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/about/</loc>
+    <lastmod>2026-01-15T00:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <!-- News Articles -->
+  <url>
+    <loc>https://ticalasi.com/news/gpt5-technical-report/</loc>
+    <lastmod>2026-05-03T10:30:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Ticalasi</news:name>
+        <news:language>zh-cn</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03</news:publication_date>
+      <news:title>OpenAI发布GPT-5技术报告：迈向通用人工智能的新里程碑</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/claude-4-release/</loc>
+    <lastmod>2026-05-02T14:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Ticalasi</news:name>
+        <news:language>zh-cn</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-02</news:publication_date>
+      <news:title>Anthropic Claude 4发布：长上下文窗口达到200万token</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/alphafold-3-open-source/</loc>
+    <lastmod>2026-05-01T10:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Ticalasi</news:name>
+        <news:language>zh-cn</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-01</news:publication_date>
+      <news:title>Google DeepMind开源AlphaFold 3：预测所有生命分子结构</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/nvidia-blackwell-ultra/</loc>
+    <lastmod>2026-05-03T08:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Ticalasi</news:name>
+        <news:language>zh-cn</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-03</news:publication_date>
+      <news:title>英伟达发布Blackwell Ultra GPU：AI训练效率提升4倍</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/llama-4-open-source/</loc>
+    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Ticalasi</news:name>
+        <news:language>zh-cn</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-30</news:publication_date>
+      <news:title>Meta开源Llama 4系列：开源大模型进入多模态时代</news:title>
+    </news:news>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/grok-35-release/</loc>
+    <lastmod>2026-04-28T12:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/microsoft-copilot-upgrade/</loc>
+    <lastmod>2026-04-26T10:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/mo-shu-resonance-action/</loc>
+    <lastmod>2026-05-02T09:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/anthropic-900b-funding/</loc>
+    <lastmod>2026-05-02T11:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/glm-5v-turbo-release/</loc>
+    <lastmod>2026-05-01T08:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/deepseek-v4-open-source/</loc>
+    <lastmod>2026-05-01T10:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/hangzhou-embodied-ai-law/</loc>
+    <lastmod>2026-05-02T08:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/us-dod-ai-military/</loc>
+    <lastmod>2026-05-02T14:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/google-io-2026-preview/</loc>
+    <lastmod>2026-05-03T07:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/news/embodied-ai-major-education/</loc>
+    <lastmod>2026-05-01T09:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Deep Analysis Articles -->
+  <url>
+    <loc>https://ticalasi.com/deep/ai-agent-guide-2026/</loc>
+    <lastmod>2026-05-02T12:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/deep/humanoid-robot-market-2026/</loc>
+    <lastmod>2026-05-01T15:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/deep/claude-code-leak-analysis/</loc>
+    <lastmod>2026-04-30T18:00:00+08:00</lastmod>
+    <changefreq>never</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Tech Tutorial Pages -->
+  <url>
+    <loc>https://ticalasi.com/tech/rag-complete-guide/</loc>
+    <lastmod>2026-04-25T10:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tech/lora-finetuning-guide/</loc>
+    <lastmod>2026-04-20T14:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tech/langchain-tutorial/</loc>
+    <lastmod>2026-04-18T11:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tech/vector-database-comparison/</loc>
+    <lastmod>2026-04-15T09:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ticalasi.com/tech/ai-performance-optimization/</loc>
+    <lastmod>2026-04-10T16:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
