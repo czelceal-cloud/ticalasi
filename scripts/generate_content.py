@@ -5,7 +5,7 @@
 - AI 友好的结构化数据标记
 """
 
-import json, os, sys, requests
+import json, os, sys, urllib.request, urllib.error
 from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 from xml.dom import minidom
@@ -53,14 +53,22 @@ AUTHOR: [作者署名]
 注意：不要添加免责声明或"这只是虚构的"等说明。直接写。"""
 
     try:
-        resp = requests.post(DEEPSEEK_URL, json={
+        body = json.dumps({
             "model": "deepseek-v4-flash",
             "messages": [{"role": "user", "content": prompt}],
             "temperature": 0.85,
             "max_tokens": 600
-        }, headers={"Authorization": f"Bearer {DEEPSEEK_KEY}"}, timeout=30)
-
-        data = resp.json()
+        }).encode()
+        req = urllib.request.Request(
+            DEEPSEEK_URL,
+            data=body,
+            headers={
+                "Authorization": f"Bearer {DEEPSEEK_KEY}",
+                "Content-Type": "application/json"
+            }
+        )
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = json.loads(resp.read())
         text = data["choices"][0]["message"]["content"]
 
         # Parse structured output
@@ -94,7 +102,7 @@ AUTHOR: [作者署名]
             "author": author,
             "date": NOW.strftime("%Y-%m-%d")
         }
-    except Exception as e:
+    except (urllib.error.URLError, urllib.error.HTTPError, Exception) as e:
         print(f"⚠️ 文章生成失败: {e}")
         return None
 
