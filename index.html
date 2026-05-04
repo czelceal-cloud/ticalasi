@@ -58,6 +58,57 @@
             .articles { gap: 36px; }
             footer { flex-direction: column; gap: 8px; }
         }
+
+        /* 推荐站点 - 藏子世间 */
+        .featured-site {
+            margin-bottom: 64px;
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 32px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .featured-site:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+        }
+        .featured-inner {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .featured-icon {
+            font-size: 28px;
+            line-height: 1;
+            color: #d4a853;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+        .featured-info h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #e8d5b7;
+        }
+        .featured-info p {
+            font-size: 14px;
+            color: #999;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+        .featured-link {
+            font-size: 13px;
+            color: #d4a853;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        .featured-link:hover {
+            color: #f0d080;
+        }
+        @media (max-width: 600px) {
+            .featured-site { padding: 20px; }
+            .featured-inner { flex-direction: column; gap: 12px; }
+        }
     </style>
 </head>
 <body>
@@ -74,6 +125,17 @@
             <h1>全球科技前沿</h1>
             <p>自动聚合全球最新科技资讯、AI突破、开源动态与科技大事件。</p>
             <p class="hero-meta" style="font-size:13px;color:#aaa;margin-top:8px;">来源: Hacker News, TechCrunch, The Verge, Wired, Ars Technica, BBC 等15+源 · 自动更新</p>
+        </div>
+
+        <div class="featured-site">
+            <div class="featured-inner">
+                <div class="featured-icon">✦</div>
+                <div class="featured-info">
+                    <h3>藏子世间 · 诸天宇宙</h3>
+                    <p>一个由 AI 守护的叙事宇宙。命运主角、大圣宇宙、创造独立宇宙——六个入口，六重世界。</p>
+                    <a href="https://zishijian.cc" target="_blank" class="featured-link">进入藏子世间 →</a>
+                </div>
+            </div>
         </div>
 
         <div class="articles" id="articles">
