@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ticalasi — AI 前沿</title>
-    <meta name="description" content="AI 技术前沿追踪与深度分析。">
-    <meta property="og:title" content="ticalasi">
-    <meta property="og:description" content="AI 技术前沿追踪与深度分析。">
+    <title>ticalasi — 全球科技前沿</title>
+    <meta name="description" content="全球最新科技资讯与大事件自动聚合。">
+    <meta property="og:title" content="ticalasi — 全球科技前沿">
+    <meta property="og:description" content="全球最新科技资讯与大事件自动聚合。">
     <meta name="theme-color" content="#fafafa">
     <link rel="canonical" href="https://ticalasi.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,8 +71,9 @@
         </nav>
 
         <div class="hero">
-            <h1>AI 技术前沿</h1>
-            <p>追踪全球人工智能技术发展，提供深度的行业分析与洞察。</p>
+            <h1>全球科技前沿</h1>
+            <p>自动聚合全球最新科技资讯、AI突破、开源动态与科技大事件。</p>
+            <p class="hero-meta" style="font-size:13px;color:#aaa;margin-top:8px;">来源: Hacker News, TechCrunch, The Verge, Wired, Ars Technica, BBC 等15+源 · 自动更新</p>
         </div>
 
         <div class="articles" id="articles">
@@ -87,18 +88,9 @@
         </footer>
     </div>
 
-    <!-- 资讯流 — 极细自滚动文字条 -->
-    <div class="ticker-wrap">
-        <div class="ticker-text">
-            <span>◆</span> DeepSeek V4 Flash 推理速度提升 3 倍
-            <span>◆</span> Gemini 2.5 Pro 支持百万级上下文窗口
-            <span>◆</span> Claude Opus 4.6 在编程基准测试中再刷新纪录
-            <span>◆</span> 开源社区发布首个全自主 AI Agent 框架
-            <span>◆</span> AI 芯片初创公司获 20 亿美元新融资
-            <span>◆</span> 多模态模型实现视频实时理解与推理
-            <span>◆</span> SoulAgent 平台完成三 Agent 自主协作链路
-            <span>◆</span> zishijian 观测站上线：三AI命运档案
-        </div>
+    <!-- 资讯流 — 极细自滚动文字条（动态从articles.json生成） -->
+    <div class="ticker-wrap" id="ticker-container" style="display:none;">
+        <div class="ticker-text" id="ticker-text"></div>
     </div>
 
     <style>
@@ -134,23 +126,37 @@
     </style>
 
     <script>
-        const ARTICLES = [
-            { id: "001", title: "大模型推理能力提升：新架构突破注意力瓶颈", summary: "动态稀疏注意力机制将推理成本降低40%以上，大规模AI模型部署更加经济可行。", date: "2026.05.03", tag: "大模型" },
-            { id: "002", title: "多模态AI模型迎来统一架构时代", summary: "统一Transformer架构在图像、视频、文本间无缝推理，无需为每个任务单独训练。", date: "2026.05.02", tag: "多模态" },
-            { id: "003", title: "AI Agent 自主协作系统取得突破", summary: "多Agent协作系统在复杂软件开发任务中自主分工、协调进度并完成交付。", date: "2026.05.01", tag: "Agent" },
-            { id: "004", title: "开源LLM性能逼近闭源模型", summary: "开源模型在MMLU等多个基准测试中接近甚至超越部分闭源商业模型。", date: "2026.04.30", tag: "开源" }
-        ];
+        // 从 articles.json 加载数据
+        fetch('/articles.json')
+            .then(r => {
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.json();
+            })
+            .then(articles => {
+                // 渲染文章列表
+                document.getElementById('articles').innerHTML = articles.map(a => `
+                    <article onclick="window.open('${a.url.replace(/'/g, "\\'")}','_blank')">
+                        <div class="meta">
+                            <span>${a.date}</span>
+                            <span class="tag">${a.source}</span>
+                        </div>
+                        <h2><a href="${a.url.replace(/'/g, "\\'")}" target="_blank">${a.title}</a></h2>
+                        <p class="summary">${a.summary}</p>
+                    </article>
+                `).join('');
 
-        document.getElementById('articles').innerHTML = ARTICLES.map(a => `
-            <article>
-                <div class="meta">
-                    <span>${a.date}</span>
-                    <span class="tag">${a.tag}</span>
-                </div>
-                <h2><a href="/articles/${a.id}">${a.title}</a></h2>
-                <p class="summary">${a.summary}</p>
-            </article>
-        `).join('');
+                // 动态生成跑马灯
+                const tickerText = articles.slice(0, 10).map(a =>
+                    `<span>◆</span> ${a.title}`
+                ).join(' ');
+                document.getElementById('ticker-text').innerHTML = tickerText + ' ' + tickerText;
+                document.getElementById('ticker-container').style.display = '';
+            })
+            .catch(err => {
+                document.getElementById('articles').innerHTML =
+                    '<p style="color:#999;">加载失败，请稍后再试</p>';
+                console.error('Failed to load articles:', err);
+            });
     </script>
 </body>
 </html>

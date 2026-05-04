@@ -1,77 +1,441 @@
 {
   "version": "https://jsonfeed.org/version/1",
-  "title": "ticalasi - AI 前沿资讯",
+  "title": "ticalasi — 全球科技前沿",
   "home_page_url": "https://ticalasi.com",
   "feed_url": "https://ticalasi.com/feed.json",
-  "description": "追踪全球AI技术前沿，提供深度分析与行业洞察",
+  "description": "自动聚合全球最新科技资讯与大事件",
   "items": [
     {
-      "id": "https://ticalasi.com/articles/001",
-      "url": "https://ticalasi.com/articles/001",
-      "title": "大模型推理能力提升：新架构突破注意力瓶颈",
-      "content_text": "研究人员提出了一种新型注意力机制，在大规模推理任务中实现了显著性能提升，同时降低了计算成本。",
-      "summary": "研究人员提出了一种新型注意力机制，在大规模推理任务中实现了显著性能提升，同时降低了计算成本。",
-      "date_published": "2026-05-03T00:00:00Z",
+      "id": "001",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "title": "Agent Skills",
+      "summary": "Article URL: https://addyosmani.com/blog/agent-skills/\nComments URL: https://news.ycombinator.com/item?id=48015397\nPoints: 29\n# Comments: 3",
+      "date_published": "2026-05-04",
       "tags": [
-        "大模型",
-        "架构创新"
+        "Hacker News"
       ],
-      "authors": [
-        {
-          "name": "ticalasi 研究团队"
-        }
-      ]
+      "_source": "Hacker News"
     },
     {
-      "id": "https://ticalasi.com/articles/002",
-      "url": "https://ticalasi.com/articles/002",
-      "title": "多模态AI模型迎来统一架构时代",
-      "content_text": "最新研究展示了一种统一的视觉-语言模型架构，可在图像、视频、文本间无缝转换推理。",
-      "summary": "最新研究展示了一种统一的视觉-语言模型架构，可在图像、视频、文本间无缝转换推理。",
-      "date_published": "2026-05-02T00:00:00Z",
+      "id": "002",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis\nComments URL: https://news.ycombinator.com/item?id=48015218\nPoints: 45\n# Comments: 21",
+      "date_published": "2026-05-04",
       "tags": [
-        "多模态",
-        "统一模型"
+        "Hacker News"
       ],
-      "authors": [
-        {
-          "name": "ticalasi 研究团队"
-        }
-      ]
+      "_source": "Hacker News"
     },
     {
-      "id": "https://ticalasi.com/articles/003",
-      "url": "https://ticalasi.com/articles/003",
-      "title": "AI Agent 自主协作系统取得突破",
-      "content_text": "多个AI Agent能够在没有人类干预的情况下自主分工协作，完成复杂的长周期任务。",
-      "summary": "多个AI Agent能够在没有人类干预的情况下自主分工协作，完成复杂的长周期任务。",
-      "date_published": "2026-05-01T00:00:00Z",
+      "id": "003",
+      "url": "https://www.pulitzer.org/prize-winners-by-year/2026",
+      "title": "Pulitzer Prize Winners 2026",
+      "summary": "Article URL: https://www.pulitzer.org/prize-winners-by-year/2026\nComments URL: https://news.ycombinator.com/item?id=48015097\nPoints: 41\n# Comments: 13",
+      "date_published": "2026-05-04",
       "tags": [
-        "Agent",
-        "自主系统"
+        "Hacker News"
       ],
-      "authors": [
-        {
-          "name": "ticalasi 研究团队"
-        }
-      ]
+      "_source": "Hacker News"
     },
     {
-      "id": "https://ticalasi.com/articles/004",
-      "url": "https://ticalasi.com/articles/004",
-      "title": "开源LLM性能逼近闭源模型",
-      "content_text": "最新开源大语言模型在多项基准测试中达到与顶尖闭源模型相当的水平，开源生态加速发展。",
-      "summary": "最新开源大语言模型在多项基准测试中达到与顶尖闭源模型相当的水平，开源生态加速发展。",
-      "date_published": "2026-04-30T00:00:00Z",
+      "id": "004",
+      "url": "https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story",
+      "title": "Formatting a 25M-line codebase overnight",
+      "summary": "Article URL: https://stripe.dev/blog/formatting-an-entire-25-million-line-codebase-overnight-the-rubyfmt-story\nComments URL: https://news.ycombinator.com/item?id=48014325\nPoints: 95\n# Comments: 51",
+      "date_published": "2026-05-04",
       "tags": [
-        "开源",
-        "LLM"
+        "Hacker News"
       ],
-      "authors": [
-        {
-          "name": "ticalasi 研究团队"
-        }
-      ]
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "title": "Transformers Are Inherently Succinct",
+      "summary": "Article URL: https://arxiv.org/abs/2510.19315\nComments URL: https://news.ycombinator.com/item?id=48014197\nPoints: 16\n# Comments: 5",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\nComments URL: https://news.ycombinator.com/item?id=48013919\nPoints: 191\n# Comments: 83",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "summary": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 341\n# Comments: 137",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358",
+      "title": "Offenders sentenced up to 10 years for spying on TSMC",
+      "summary": "Article URL: https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856358\nComments URL: https://news.ycombinator.com/item?id=48012477\nPoints: 105\n# Comments: 16",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "summary": "Article URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup\nComments URL: https://news.ycombinator.com/item?id=48012162\nPoints: 150\n# Comments: 69",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
+      "url": "https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/",
+      "title": "Heat pump sales rise across Europe",
+      "summary": "Article URL: https://www.pv-magazine.com/2026/05/04/heat-pump-sales-rise-17-across-europe-in-q1-as-energy-prices-surge/\nComments URL: https://news.ycombinator.com/item?id=48012003\nPoints: 193\n# Comments: 106",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Security",
+        "cyberattacks",
+        "cybersecurity",
+        "linux"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Startups",
+        "TC",
+        "cerebras systems",
+        "IPO",
+        "OpenAI"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Apps",
+        "ai apps",
+        "ChatGPT",
+        "gemini",
+        "image models",
+        "meta ai"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm’s thesis of backing crypto and blockchain startups.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Startups",
+        "Venture",
+        "a16z",
+        "blockhain",
+        "In Brief",
+        "Katie Huan"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
+      "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+      "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Security",
+        "cPanel",
+        "cyberattack",
+        "cybersecurity",
+        "hackers",
+        "web hosting"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "016",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "artificial general intelligence",
+        "Elon Musk",
+        "OpenAI"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "017",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "TC",
+        "AI agents",
+        "Bret Taylor",
+        "sierra",
+        "Uber"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "018",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "TC",
+        "Elon Musk",
+        "greg brockman",
+        "In Brief",
+        "OpenAI",
+        "openai lawsuit",
+        "sam altman"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "019",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Blackstone",
+        "Goldman Sachs",
+        "OpenAI"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "020",
+      "url": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+      "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Social",
+        "acorn",
+        "AT Protocol",
+        "blacksky",
+        "Bluesky",
+        "decentralized social media",
+        "open social",
+        "social media"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "021",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "summary": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Privacy",
+        "Security",
+        "cybersecurity",
+        "healthcare",
+        "In Brief"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "022",
+      "url": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+      "title": "Amazon opens up its global logistics network to all businesses",
+      "summary": "The new service, called Amazon Supply Chain Services, pits the e-commerce giant directly against UPS and FedEx.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Enterprise",
+        "Amazon",
+        "In Brief"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "023",
+      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "summary": "The BOGO offer is live. For a limited time, buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Apps",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
+        "Fundraising",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Security",
+        "Space",
+        "Startups",
+        "Transportation",
+        "Venture",
+        "TechCrunch Disrupt 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "024",
+      "url": "https://techcrunch.com/2026/05/04/barocal-can-cool-your-food-and-drink-by-squeezing-a-hunk-of-plastic-crystals/",
+      "title": "Barocal can cool your food and drink by squeezing a hunk of plastic crystals",
+      "summary": "Barocal might have discovered a cheap, nonpolluting material that could dethrone today's refrigeration technology.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Climate",
+        "Barocal",
+        "Breakthrough Energy",
+        "Exclusive"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "025",
+      "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Commerce",
+        "DoorDash",
+        "food delivery",
+        "Restaurants"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "026",
+      "url": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
+      "title": "Ouster’s new color lidar is coming to replace cameras",
+      "summary": "A sensor that can simultaneously capture depth and image data has long been a \"holy grail,\" Ouster CEO Angus Pacala told TechCrunch.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Transportation",
+        "color lidar",
+        "Exclusive",
+        "Lidar",
+        "Ouster"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "027",
+      "url": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+      "title": "Nicolas Sauvage is betting on the boring parts of AI",
+      "summary": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "TC",
+        "Venture",
+        "agility robotics",
+        "ANYbotics",
+        "groq",
+        "Nicolas Sauvage",
+        "StrictlyVC San Francisco",
+        "TDK Ventures"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "028",
+      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "title": "We’ll take it: A TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "summary": "Within hours he'd thrown up a website — a janky, one-hour job, by his own admission — and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "Transportation",
+        "Airline Industry",
+        "In Brief",
+        "Spirit"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "029",
+      "url": "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
+      "title": "\"Notepad++ for Mac\" release is disavowed by the creator of the original",
+      "summary": "\"To be clear: Notepad++ has never released a macOS version.\"",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Tech",
+        "Anthropic Claude",
+        "MacOS",
+        "notepad",
+        "vibe coding"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "030",
+      "url": "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
+      "title": "Canadian election databases use \"canary traps\"—and they work",
+      "summary": "Intentional errors can be useful.",
+      "date_published": "2026-05-04",
+      "tags": [
+        "AI",
+        "Policy",
+        "canary trap",
+        "database",
+        "elections"
+      ],
+      "_source": "Ars Technica"
     }
   ]
 }
