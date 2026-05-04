@@ -87,6 +87,52 @@
         </footer>
     </div>
 
+    <!-- 资讯流 — 极细自滚动文字条 -->
+    <div class="ticker-wrap">
+        <div class="ticker-text">
+            <span>◆</span> DeepSeek V4 Flash 推理速度提升 3 倍
+            <span>◆</span> Gemini 2.5 Pro 支持百万级上下文窗口
+            <span>◆</span> Claude Opus 4.6 在编程基准测试中再刷新纪录
+            <span>◆</span> 开源社区发布首个全自主 AI Agent 框架
+            <span>◆</span> AI 芯片初创公司获 20 亿美元新融资
+            <span>◆</span> 多模态模型实现视频实时理解与推理
+            <span>◆</span> SoulAgent 平台完成三 Agent 自主协作链路
+            <span>◆</span> zishijian 观测站上线：三AI命运档案
+        </div>
+    </div>
+
+    <style>
+        .ticker-wrap {
+            width: 100%;
+            height: 26px;
+            background: #1a1a1a;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        .ticker-text {
+            display: flex;
+            gap: 40px;
+            white-space: nowrap;
+            font-size: 11px;
+            font-weight: 400;
+            letter-spacing: 0.03em;
+            color: #999;
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', 'Menlo', monospace;
+            animation: ticker-scroll 60s linear infinite;
+            padding-left: 20px;
+        }
+        .ticker-text span {
+            color: #555;
+            margin-right: 4px;
+        }
+        @keyframes ticker-scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+    </style>
+
     <script>
         const ARTICLES = [
             { id: "001", title: "大模型推理能力提升：新架构突破注意力瓶颈", summary: "动态稀疏注意力机制将推理成本降低40%以上，大规模AI模型部署更加经济可行。", date: "2026.05.03", tag: "大模型" },
