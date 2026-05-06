@@ -1,118 +1,71 @@
 [
   {
     "id": "001",
-    "title": "Inkscape 1.4.4 Is Out",
-    "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 17\n# Comments: 0",
-    "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
     "date": "2026-05-06",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "AI",
+      "Media & Entertainment",
+      "Barry Diller",
+      "sam altman"
     ]
   },
   {
     "id": "002",
-    "title": "Learning the Integral of a Diffusion Model",
-    "summary": "Article URL: https://sander.ai/2026/05/06/flow-maps.html\nComments URL: https://news.ycombinator.com/item?id=48040002\nPoints: 17\n# Comments: 2",
-    "url": "https://sander.ai/2026/05/06/flow-maps.html",
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
     "date": "2026-05-06",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "AI",
+      "Apps",
+      "Social",
+      "Perplexity",
+      "Snap",
+      "Snapchat"
     ]
   },
   {
     "id": "003",
-    "title": "BYD overtakes Tesla and Kia as the best-selling EV brand in key overseas markets",
-    "summary": "Article URL: https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/\nComments URL: https://news.ycombinator.com/item?id=48039739\nPoints: 133\n# Comments: 161",
-    "url": "https://electrek.co/2026/05/05/byd-overtakes-tesla-kia-best-selling-ev-brand-key-overseas-markets/",
+    "title": "Is xAI a neocloud now?",
+    "summary": "xAI's real business may be more about building data centers than training AI models.",
+    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
     "date": "2026-05-06",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "AI",
+      "Anthropic",
+      "data center",
+      "Elon Musk",
+      "neocloud",
+      "SpaceX",
+      "xAI"
     ]
   },
   {
     "id": "004",
-    "title": "Proton Meet",
-    "summary": "Article URL: https://proton.me/business/blog/introducing-proton-meet\nComments URL: https://news.ycombinator.com/item?id=48039674\nPoints: 43\n# Comments: 7",
-    "url": "https://proton.me/business/blog/introducing-proton-meet",
+    "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
+    "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
+    "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
     "date": "2026-05-06",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "Startups",
+      "Venture",
+      "In Brief",
+      "InsuranceTech",
+      "Y Combinator",
+      "yc"
     ]
   },
   {
     "id": "005",
-    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 46\n# Comments: 33",
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Going Full Time on Open Source",
-    "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 80\n# Comments: 8",
-    "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "From Supabase to Clerk to Better Auth",
-    "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 100\n# Comments: 40",
-    "url": "https://blog.val.town/better-auth",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
-    "summary": "Article URL: https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non\nComments URL: https://news.ycombinator.com/item?id=48038750\nPoints: 10\n# Comments: 1",
-    "url": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Colombia hosts talks on exiting fossil fuels as global energy crisis deepens",
-    "summary": "Article URL: https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens\nComments URL: https://news.ycombinator.com/item?id=48038489\nPoints: 85\n# Comments: 52",
-    "url": "https://www.latimes.com/environment/story/2026-04-26/colombia-hosts-talks-on-exiting-fossil-fuels-as-global-energy-crisis-deepens",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-    "summary": "Article URL: https://play.templatical.com\nComments URL: https://news.ycombinator.com/item?id=48038019\nPoints: 51\n# Comments: 15",
-    "url": "https://play.templatical.com",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
     "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-    "summary": "The push for new data centers at Microsoft is putting one of the its key clean power goals at risk.",
+    "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
     "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
     "date": "2026-05-06",
     "source": "TechCrunch",
@@ -125,7 +78,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "006",
     "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
     "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
     "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
@@ -135,12 +88,11 @@
       "Fintech",
       "Venture",
       "Robinhood",
-      "venture",
       "Vlad Tenev"
     ]
   },
   {
-    "id": "013",
+    "id": "007",
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
     "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
     "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
@@ -155,7 +107,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "008",
     "title": "DOJ says ransomware gang tapped into Russian government databases",
     "summary": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
     "url": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
@@ -173,7 +125,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "009",
     "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
     "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
     "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
@@ -190,7 +142,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "010",
     "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
     "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
     "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
@@ -208,7 +160,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "011",
     "title": "DeepSeek could hit $45B valuation from its first investment round",
     "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
     "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
@@ -223,7 +175,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "012",
     "title": "Chrome on Android now supports approximate instead of precise location sharing",
     "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
     "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
@@ -238,7 +190,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "013",
     "title": "Google updates AI search to include quotes from Reddit and other sources",
     "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
     "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
@@ -253,7 +205,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "014",
     "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
     "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
     "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
@@ -269,7 +221,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "015",
     "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
     "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
     "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
@@ -283,7 +235,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "016",
     "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
     "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
     "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
@@ -299,7 +251,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "017",
     "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
     "summary": "Ethos says it is onboarding 35,000 experts per week.",
     "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
@@ -317,7 +269,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "018",
     "title": "Aurora lands McLane deal to run driverless truck routes in Texas",
     "summary": "Aurora said it plans to expand to new routes between McLane distribution centers across the U.S. Sun Belt by the end of 2026.",
     "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
@@ -332,7 +284,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "019",
     "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
     "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
     "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
@@ -348,7 +300,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "020",
     "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
     "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
     "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
@@ -373,62 +325,175 @@
     ]
   },
   {
-    "id": "027",
-    "title": "AI boom pushes Samsung to $1T",
-    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "id": "021",
+    "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
+    "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
     "date": "2026-05-06",
-    "source": "TechCrunch",
+    "source": "Ars Technica",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "spacex",
+      "spacex ipo",
+      "Tesla"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Google DeepMind partners with EVE Online for AI model testing",
+    "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
+    "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
     "tags": [
       "AI",
-      "Enterprise",
-      "artificial intelligence",
-      "Samsung Electronics",
-      "south korea"
+      "Gaming",
+      "Google",
+      "CCP Games",
+      "Fenris",
+      "google",
+      "google deepmind",
+      "models",
+      "world models"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
+    "summary": "What's going on with those satellites, anyway?",
+    "url": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "andy saunders",
+      "artemis II",
+      "Earth",
+      "space"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
+    "summary": "FDA has suppressed studies on COVID-19 vaccines and Shingrix, a shingles vaccine.",
+    "url": "https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
+    "tags": [
+      "Health",
+      "COVID-19",
+      "fda",
+      "shingles",
+      "shingrix",
+      "vaccines"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
+    "summary": "Also, 5-hour usage limits will double for Pro and Max users of Claude Code.",
+    "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "agentic AI",
+      "Anthropic",
+      "Claude",
+      "Claude Managed Agents",
+      "Code with Claude",
+      "large language models",
+      "LLMs"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
+    "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
+    "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "gemma",
+      "generative ai",
+      "google"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Here's what has to happen if NASA wants to land on the Moon every month",
+    "summary": "NASA is serious about taking more shots on goal, but some of them need to start landing.",
+    "url": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+    "date": "2026-05-06",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "Space",
+      "artemis",
+      "astrobotic",
+      "blue moon lander",
+      "blue origin",
+      "clps",
+      "Commercial space",
+      "Firefly Aerospace",
+      "intuitive machines",
+      "moon",
+      "moon lander",
+      "NASA",
+      "spacex"
     ]
   },
   {
     "id": "028",
-    "title": "Some kids are bypassing age-verification checks with a fake mustache",
-    "summary": "A new survey found that kids find it easy to bypass age checks, despite a rise in age-verification laws around the world.",
-    "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+    "title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
+    "summary": "Hospitals report more parents are declining vitamin K shots for their newborns.",
+    "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
     "date": "2026-05-06",
-    "source": "TechCrunch",
+    "source": "Ars Technica",
     "tags": [
-      "Security",
-      "age verification",
-      "cybersecurity",
-      "United Kingdom"
+      "Health",
+      "health care",
+      "infancy",
+      "Vitamin K"
     ]
   },
   {
     "id": "029",
-    "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
-    "summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
-    "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
+    "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
+    "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
+    "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
     "date": "2026-05-06",
-    "source": "TechCrunch",
+    "source": "Ars Technica",
     "tags": [
-      "Hardware",
-      "e-ink reader",
-      "paper tablet",
-      "remarkable"
+      "Biz & IT",
+      "Features",
+      "ANSI",
+      "bash",
+      "cli",
+      "command line",
+      "fish",
+      "fish shell",
+      "Terminal",
+      "text mode",
+      "TUI",
+      "Vim"
     ]
   },
   {
     "id": "030",
-    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-    "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
-    "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+    "title": "More than just an SUV? Rivian is working on more R2 variants.",
+    "summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
+    "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
     "date": "2026-05-06",
-    "source": "TechCrunch",
+    "source": "Ars Technica",
     "tags": [
-      "AI",
-      "Enterprise",
-      "finland",
-      "quantum computing",
-      "qutwo",
-      "peter sarlin"
+      "Cars",
+      "Rivian",
+      "Rivian R2"
     ]
   }
 ]
