@@ -7,6 +7,72 @@
   "items": [
     {
       "id": "001",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "title": "Ombudsman column: The Pentagon is trying to silence me",
+      "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 11\n# Comments: 0",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://github.com/microsoft/vscode/issues/314311",
+      "title": "Update on \"Co-authored-by: Copilot\" in commit messages",
+      "summary": "Article URL: https://github.com/microsoft/vscode/issues/314311\nComments URL: https://news.ycombinator.com/item?id=48031707\nPoints: 11\n# Comments: 2",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 14\n# Comments: 2",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "title": "StarFighter 16-Inch",
+      "summary": "Article URL: https://us.starlabs.systems/pages/starfighter\nComments URL: https://news.ycombinator.com/item?id=48031261\nPoints: 80\n# Comments: 59",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63\nComments URL: https://news.ycombinator.com/item?id=48031109\nPoints: 53\n# Comments: 22",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
+      "title": "YouTube, your RSS feeds are broken",
+      "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken\nComments URL: https://news.ycombinator.com/item?id=48030964\nPoints: 7\n# Comments: 0",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
       "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
       "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
       "summary": "The Silicon Valley AV startup has not started driverless testing yet.",
@@ -22,173 +88,174 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
-      "url": "https://dev.to/sami_8858131362756585e4f4/building-a-xiaohongshu-rednote-e-commerce-scraper-for-redshop-product-data-2g7d",
-      "title": "Building a Xiaohongshu (RedNote) E-commerce Scraper for RedShop Product Data",
-      "summary": "When Xiaohongshu (RedNote / Little Red Book / 小红书) launched RedShop — its US-facing e-commerce platform — in April 2026, I noticed every existing scraper on Apify only covered the social side: posts, profiles, comments, videos. None of them touched product listings, vendor catalogs, or pricing data.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "webscraping",
-        "python",
-        "ecommerce",
-        "china"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "003",
-      "url": "https://dev.to/balapriya/7-signs-your-data-quality-framework-is-broken-lh8",
-      "title": "7 Signs Your Data Quality Framework Is Broken",
-      "summary": "Most organizations have some version of a data quality framework. Fewer have one that works. The gap between having a framework and having a functioning one is wide, and it tends to widen quietly — through gradual neglect, accumulated technical debt, and the slow erosion of accountability that happe",
-      "date_published": "2026-05-06",
-      "tags": [
-        "dataquality"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "004",
-      "url": "https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm",
-      "title": "Turning Server Logs into Incident Summaries with Java and Groq",
-      "summary": "I built a small Java CLI that uses Groq’s LLM API to turn noisy server logs into structured incident summaries: root cause, severity, affected components, and suggested fixes.\n\n\n\n  \n  \n  Introduction\n\n\nServer logs are useful, but during an incident they can also become overwhelming.\n\nA single failur",
-      "date_published": "2026-05-06",
-      "tags": [
-        "ai",
-        "java",
-        "llm",
-        "devtools"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "005",
-      "url": "https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm",
-      "title": "38% of MCP servers have no auth -- inside the OWASP MCP Top 10",
-      "summary": "I installed 14 MCP servers last month. Then I read the CVE list.\n\n\nI've been running MCP servers in production since late 2025 -- connecting Claude to my accounting tools, project trackers, and internal databases. Last month alone, I added 14 new MCP servers to my setup. File operations, code search",
-      "date_published": "2026-05-06",
-      "tags": [
-        "ai",
-        "security",
-        "mcp",
-        "devtools"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/rohith_m_a75381d0f1c3a358/i-tested-15-llms-for-web-scraping-and-built-heuristics-instead-1b4f",
-      "title": "I Tested 15 LLMs for Web Scraping and Built Heuristics Instead",
-      "summary": "The problem nobody talks about: 600KB of DOM\n\n\nWhen I started building a web scraper, the obvious move was to send the page to an LLM and ask it to extract the data. Simple, right?\n\nWrong. A typical product listing page is 500–700KB of raw DOM. Sending that to any model means you're paying for ~150,",
-      "date_published": "2026-05-06",
-      "tags": [
-        "webdev",
-        "ai",
-        "scraping",
-        "javascript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/arhuman/structure-before-bytes-how-metarc-beats-tarzstd-on-real-code-19lg",
-      "title": "Structure Before Bytes: How Metarc Beats tar+zstd on Real Code",
-      "summary": "tar+zstd is very hard to beat.\n\nSo I stopped trying to beat it as a byte compressor.\n\nInstead, I tried something else:\n\n\ncompress the structure first, then compress the bytes.\n\n\nThat is the idea behind Metarc, a small experimental archiver written in Go.\n\nIt explores what I call metacompression: red",
-      "date_published": "2026-05-06",
-      "tags": [
-        "compression",
-        "go",
-        "tooling",
-        "datastructures"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "008",
-      "url": "https://dev.to/itsevilduck/two-months-into-sats-channel-and-the-hardest-part-of-building-hasnt-been-the-build-3e05",
-      "title": "Two months into Sats Channel, and the hardest part of building hasn’t been the build",
-      "summary": "This is the post I was hoping I wouldn’t have to write yet, because the version of it I imagined writing was supposed to come after I’d figured something out. I have not figured something out. I’m writing it anyway, because the previous post in this series ended with a promise to write the failure-m",
+      "url": "https://dev.to/setoutsoft/xmusic-a-10mb-cross-platform-music-player-built-with-c-5dgb",
+      "title": "XMusic: A 10MB Cross-Platform Music Player Built with C++",
+      "summary": "In an era dominated by Electron and web technologies, we seem to have forgotten that desktop applications should be lighter and faster.\n\n\nHave you ever encountered these frustrations?\n\n\n❌ Your simple music player takes 200+ MB of RAM\n❌ Startup time exceeds 5-10 seconds\n\n❌ Distribution requires bundl",
       "date_published": "2026-05-06",
       "tags": [
-        "webdev",
-        "showdev",
-        "discuss",
-        "career"
+        "crossplatform",
+        "green",
+        "musicplayer",
+        "soui"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/khanhdangbmt/what-i-learned-after-working-with-real-construction-costs-in-vietnam-and-why-most-people-get-it-5hf1",
-      "title": "What I Learned After Working with Real Construction Costs in Vietnam (And Why Most People Get It Wrong)",
-      "summary": "If you've never built a house in Vietnam, there's one thing you should know upfront:\n\nThe biggest mistake isn't design, labor, or even contractors - it's misunderstanding material costs.\n\nAfter years working in construction and consulting homeowners, I've seen the same issue over and over again:\nPeo",
+      "url": "https://dev.to/muditha_jayaweera/what-is-a-rest-api-four-words-that-power-the-internet-poa",
+      "title": "What is a REST API: Four Words That Power the Internet",
+      "summary": "The Menu You Never Questioned\n\nYou’ve probably walked into a restaurant hundreds of times without ever thinking about how it actually works.\n\nYou sit down. A waiter appears. You point at something on the menu. Food arrives.\n\nSimple. Comfortable. Familiar.\n\nBut what if I told you that this exact same",
       "date_published": "2026-05-06",
       "tags": [
-        "beginners",
-        "learning",
-        "management",
-        "productivity"
+        "webdev",
+        "programming",
+        "restapi",
+        "softwareengineering"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/wellallytech/from-scans-to-structured-data-converting-medical-reports-to-json-with-pydantic-llms-4am7",
-      "title": "From Scans to Structured Data: Converting Medical Reports to JSON with Pydantic & LLMs",
-      "summary": "Have you ever looked at a stack of physical medical reports and wished you could just \"Ctrl+F\" your health history? 📑 We’ve all been there. Every hospital has a different layout, different units, and cryptic abbreviations that make manual data entry a nightmare.\n\nIn the world of data engineering, tu",
+      "url": "https://dev.to/gde/stop-using-python-for-your-gen-ai-apps-use-go-and-genkit-instead-401p",
+      "title": "Stop Using Python for Your Gen AI Apps, Use Go and Genkit Instead",
+      "summary": "Introduction\n\n\nFor the last few years, every Gen AI tutorial, framework, and \"hello world\" has assumed one thing: that you are writing Python. It made sense at the start. The research community lives in Python, the model providers ship Python SDKs first, and the notebook culture is hard to beat for ",
       "date_published": "2026-05-06",
       "tags": [
-        "python",
         "ai",
-        "pydantic",
-        "openai"
+        "programming",
+        "go"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/godinhojoao/tsp-travelling-salesman-problem-94e",
-      "title": "TSP - Travelling Salesman Problem",
-      "summary": "Introduction\n\n\n\nI will talk about P vs NP, NP-complete, and NP-hard, define heuristics in computer science, Hamiltonian cycles, TSP and Metric TSP, approximation algorithms, and optimal vs suboptimal solutions. I will also mention local minima, combinatorial explosion, and why exact solutions become",
+      "url": "https://dev.to/saikumarjee/scaling-full-stack-applications-in-high-compliance-environments-fja",
+      "title": "Scaling Full-Stack Applications in High-Compliance Environments",
+      "summary": "Scaling Full-Stack Applications in High-Compliance Environments: Architectural Patterns and Lessons from Healthcare and Finance Systems\n\n\nSai Kumar Jee\nGitHub: https://github.com/SaiKumarbomule\n\n\n\n  \n  \n  Abstract\n\n\nScaling web applications in healthcare and financial services presents challenges th",
       "date_published": "2026-05-06",
       "tags": [
-        "computerscience",
-        "algorithms",
-        "programming"
+        "architecture",
+        "healthcare",
+        "security",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/kips/i-built-an-uptime-monitor-in-rust-because-i-hate-paywalls-for-webhooks-2505",
-      "title": "I built an uptime monitor in Rust because I hate paywalls for Webhooks",
-      "summary": "Hey DEV community! 👋\n\nI recently got frustrated with standard monitoring tools. It feels like every tool out there puts simple integrations (like Discord, Slack, or Webhooks) behind a premium paywall. Sending a webhook costs fractions of a cent, so why are we paying $15+/month for it?\n\nI decided to ",
+      "url": "https://dev.to/snake_sun/cold-email-in-2026-what-indie-hackers-got-wrong-with-a-python-validator-i-built-to-enforce-the-3815",
+      "title": "Cold email in 2026: what indie hackers got wrong (with a Python validator I built to enforce the new rules)",
+      "summary": "If you've been sending B2B cold emails the same way for 18 months, your reply rate just dropped to ~0% and you don't know why.\n\nI rebuilt my outreach this week after my reply rate tanked from 4% to <1%. Pulled fresh data from 5+ deliverability blogs (Autobound, MarketingProfs, HyperGen, Instantly), ",
       "date_published": "2026-05-06",
       "tags": [
-        "monitoring",
-        "performance",
-        "rust",
-        "showdev"
+        "automation",
+        "marketing",
+        "python",
+        "startup"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/rodrigo909/balanceamento-de-carga-o-que-e-e-qual-sua-importancia--535a",
-      "title": "Balanceamento de Carga, o que é e qual sua importância ?",
-      "summary": "Load Balancing: por que ele é essencial em sistemas com muitos acessos?\n\nEm sistemas distribuídos, um dos grandes desafios é lidar com milhares de requisições simultâneas sem comprometer a performance da aplicação.\n\nO Load Balancing, ou balanceamento de carga, é uma técnica usada para distribuir o t",
+      "url": "https://dev.to/gezilinll/agent-ready-engineering-infrastructure-3lco",
+      "title": "Agent-Ready Engineering Infrastructure",
+      "summary": "GitHub repository: https://github.com/gezilinll/agent-grove\n\nOnline documentation: https://gezilinll.github.io/agent-grove/agent-ready-engineering-infrastructure\n\n\n\nProject infrastructure for Coding Agents is not about turning every repository into an agent product. It is also not just adding \"pleas",
       "date_published": "2026-05-06",
       "tags": [
-        "architecture",
-        "distributedsystems",
-        "networking",
-        "performance"
+        "ai",
+        "coding",
+        "opensource",
+        "softwareengineering"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
+      "url": "https://dev.to/johalputt/benchmark-claude-35-vs-gpt-4o-for-cloud-cost-anomaly-detection-in-aws-and-gcp-5hag",
+      "title": "Benchmark: Claude 3.5 vs. GPT-4o for Cloud Cost Anomaly Detection in AWS and GCP",
+      "summary": "Unchecked cloud cost anomalies cost enterprises an average of $2.4M annually, per a 2024 Gartner report. We benchmarked Claude 3.5 Sonnet and GPT-4o across 12,000 real AWS and GCP billing logs to find which LLM catches more waste, faster, and cheaper.\n\n\n  \n  \n  📡 Hacker News Top Stories Right Now\n\n\n",
+      "date_published": "2026-05-06",
+      "tags": [
+        "benchmark",
+        "claude",
+        "gpt4o",
+        "cloud"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/shahjalalbu/mcp-explained-simply-how-ai-talk-to-your-data-1p44",
+      "title": "MCP Explained Simply: How AI Talk to Your Data",
+      "summary": "Hello friends \n\nToday I want to share something I’m currently learning — MCP (Model Context Protocol).\n\nI am learning MCP and while studying it, I realized many explanations online are too complex. So I decided to write this blog in a very simple way, just like I understand it myself.\n\nIn this blog,",
+      "date_published": "2026-05-06",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai",
+        "typescript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+      "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
+      "summary": "Intro\n\n\nAI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in response to AI chat and the Enter key in VS Code and Chrome (Edge). I have been creating and updating AI Avatar with the mission of cheering, supporting, and making everyone feel happy. There was a long holida",
+      "date_published": "2026-05-06",
+      "tags": [
+        "ai",
+        "webdev",
+        "javascript",
+        "discuss"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://dev.to/recca0120/jetbrains-air-an-agentic-ide-that-runs-multiple-ai-agents-in-parallel-jo5",
+      "title": "JetBrains Air: An Agentic IDE That Runs Multiple AI Agents in Parallel",
+      "summary": "Originally published at recca0120.github.io\n\nYou have a bug to fix, tests to write, and a module to refactor. The old way is to do them one at a time, or juggle multiple terminals yourself. JetBrains Air lets you delegate each task to a different AI agent and run them all simultaneously without inte",
+      "date_published": "2026-05-06",
+      "tags": [
+        "ai",
+        "ide",
+        "jetbrains"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "018",
+      "url": "https://dev.to/keny369/95-of-ai-pilots-fail-the-technology-works-fine-2a5a",
+      "title": "95% of AI Pilots Fail. The Technology Works Fine.",
+      "summary": "Boards in the $30M–$500M range are being asked the same question right now:\n\n\"Can we move on AI?\"\n\nThe pressure is understandable. Competitors are experimenting. Vendors are eloquent. Internal teams are already using it. The tooling barrier has collapsed.\n\nThe organizational barrier has not moved.\n\n",
+      "date_published": "2026-05-06",
+      "tags": [
+        "ai",
+        "discuss",
+        "leadership",
+        "management"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "019",
+      "url": "https://dev.to/abagael_pollard_a261dcc45/where-construction-cash-gets-stuck-the-case-for-an-agent-that-clears-pay-app-exceptions-12h6",
+      "title": "Where Construction Cash Gets Stuck: The Case for an Agent That Clears Pay-App Exceptions",
+      "summary": "Where Construction Cash Gets Stuck: The Case for an Agent That Clears Pay-App Exceptions\n\n\n\n  \n  \n  Where Construction Cash Gets Stuck: The Case for an Agent That Clears Pay-App Exceptions\n\n\nI did not optimize for a broad “AI back office” idea here. I optimized for a recurring queue where cash is al",
+      "date_published": "2026-05-06",
+      "tags": [
+        "ai",
+        "quest",
+        "proof"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "020",
       "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "title": "Apple to pay $250m to iPhone buyers over AI features lawsuit",
+      "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
       "date_published": "2026-05-06",
       "tags": [
@@ -197,76 +264,10 @@
       "_source": "BBC News"
     },
     {
-      "id": "015",
-      "url": "https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/",
-      "title": "Xbox CEO ends Copilot AI development and overhauls leadership",
-      "summary": "Article URL: https://www.dexerto.com/gaming/xbox-ceo-ends-copilot-ai-development-overhauls-leadership-3361353/\nComments URL: https://news.ycombinator.com/item?id=48029753\nPoints: 51\n# Comments: 10",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "016",
-      "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-      "summary": "Article URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\nComments URL: https://news.ycombinator.com/item?id=48029334\nPoints: 137\n# Comments: 42",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "017",
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "summary": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market\nComments URL: https://news.ycombinator.com/item?id=48029114\nPoints: 214\n# Comments: 95",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "018",
+      "id": "021",
       "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
       "title": "Write some software, give it away for free",
-      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\nComments URL: https://news.ycombinator.com/item?id=48028842\nPoints: 133\n# Comments: 98",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "019",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "title": "Why most product tours get skipped",
-      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped\nComments URL: https://news.ycombinator.com/item?id=48028546\nPoints: 71\n# Comments: 59",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "020",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "title": ".de TLD offline due to DNSSEC?",
-      "summary": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 532\n# Comments: 246",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 269\n# Comments: 321",
+      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\nComments URL: https://news.ycombinator.com/item?id=48028842\nPoints: 166\n# Comments: 123",
       "date_published": "2026-05-05",
       "tags": [
         "Hacker News"
@@ -275,9 +276,9 @@
     },
     {
       "id": "022",
-      "url": "https://paletteinspiration.com/",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on the same five muted pastels. Painters spent centuries figuring out color and we",
+      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "title": "Why most product tours get skipped",
+      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped\nComments URL: https://news.ycombinator.com/item?id=48028546\nPoints: 95\n# Comments: 82",
       "date_published": "2026-05-05",
       "tags": [
         "Hacker News"
@@ -286,9 +287,9 @@
     },
     {
       "id": "023",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "summary": "Article URL: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/\nComments URL: https://news.ycombinator.com/item?id=48026207\nPoints: 253\n# Comments: 187",
+      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "title": ".de TLD offline due to DNSSEC?",
+      "summary": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 563\n# Comments: 272",
       "date_published": "2026-05-05",
       "tags": [
         "Hacker News"
@@ -297,9 +298,9 @@
     },
     {
       "id": "024",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2604.26752\nComments URL: https://news.ycombinator.com/item?id=48026021\nPoints: 114\n# Comments: 23",
+      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
+      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 289\n# Comments: 345",
       "date_published": "2026-05-05",
       "tags": [
         "Hacker News"
