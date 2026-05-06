@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-      "title": ".de domains were 'down' for 2 hours",
-      "summary": "Article URL: https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38\nComments URL: https://news.ycombinator.com/item?id=48033118\nPoints: 9\n# Comments: 1",
+      "url": "https://www.terrygodier.com/the-boring-internet",
+      "title": "The Boring Internet",
+      "summary": "Article URL: https://www.terrygodier.com/the-boring-internet\nComments URL: https://news.ycombinator.com/item?id=48033689\nPoints: 10\n# Comments: 6",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
       "title": "Reverse-engineering the 1998 Ultima Online demo server",
-      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 6\n# Comments: 0",
+      "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 32\n# Comments: 5",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -31,7 +31,7 @@
       "id": "003",
       "url": "https://microsoft.github.io/bocpy/",
       "title": "Behavior-Oriented Concurrency for Python",
-      "summary": "Article URL: https://microsoft.github.io/bocpy/\nComments URL: https://news.ycombinator.com/item?id=48032617\nPoints: 4\n# Comments: 0",
+      "summary": "Article URL: https://microsoft.github.io/bocpy/\nComments URL: https://news.ycombinator.com/item?id=48032617\nPoints: 12\n# Comments: 1",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -41,8 +41,8 @@
     {
       "id": "004",
       "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
-      "title": "Knitting Bullshit",
-      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 7\n# Comments: 0",
+      "title": "Knitting bullshit",
+      "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 46\n# Comments: 12",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
-      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-      "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoints: 64\n# Comments: 45",
+      "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
+      "title": "Multi-stroke text effect in CSS",
+      "summary": "Article URL: https://yuanchuan.dev/multi-stroke-text-effect-in-css\nComments URL: https://news.ycombinator.com/item?id=48032265\nPoints: 39\n# Comments: 2",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
-      "title": "Ombudsman column: The Pentagon is trying to silence me",
-      "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 191\n# Comments: 32",
+      "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
+      "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
+      "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoints: 79\n# Comments: 58",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 250\n# Comments: 140",
+      "url": "https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html",
+      "title": "Ombudsman column: The Pentagon is trying to silence me",
+      "summary": "Article URL: https://www.stripes.com/opinion/2026-04-23/stripes-former-ombudsman-pentagon-trying-to-silence-21465037.html\nComments URL: https://news.ycombinator.com/item?id=48031769\nPoints: 226\n# Comments: 60",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://us.starlabs.systems/pages/starfighter",
-      "title": "StarFighter 16-Inch",
-      "summary": "Article URL: https://us.starlabs.systems/pages/starfighter\nComments URL: https://news.ycombinator.com/item?id=48031261\nPoints: 246\n# Comments: 140",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 313\n# Comments: 174",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63\nComments URL: https://news.ycombinator.com/item?id=48031109\nPoints: 132\n# Comments: 85",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "title": "StarFighter 16-Inch",
+      "summary": "Article URL: https://us.starlabs.systems/pages/starfighter\nComments URL: https://news.ycombinator.com/item?id=48031261\nPoints: 322\n# Comments: 172",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://openrss.org/blog/youtube-your-feeds-are-broken",
-      "title": "YouTube, your RSS feeds are broken",
-      "summary": "Article URL: https://openrss.org/blog/youtube-your-feeds-are-broken\nComments URL: https://news.ycombinator.com/item?id=48030964\nPoints: 99\n# Comments: 34",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "summary": "Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63\nComments URL: https://news.ycombinator.com/item?id=48031109\nPoints: 150\n# Comments: 112",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -170,6 +170,66 @@
     },
     {
       "id": "014",
+      "url": "https://www.wired.com/story/best-carry-on-suitcases/",
+      "title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
+      "summary": "I feel about luggage carousels the same way I feel about head lice: avoid at all costs. These are the best carry-on suitcases for those who never want to check a bag again.",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Gear",
+        "Gear / Products",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Gear / Buying Guides",
+        "AFK",
+        "Travel",
+        "Air Travel",
+        "Bags",
+        "outdoors",
+        "Flight"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "015",
+      "url": "https://www.wired.com/story/best-bed-frames/",
+      "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
+      "summary": "Looking for the best bed frame? Our top recommendation is the Classic Bed from Thuma, but we’ve got options for all budgets and tastes.",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Shopping",
+        "buying guides",
+        "household",
+        "lifestyle",
+        "home",
+        "Sleep",
+        "Bedroom",
+        "Buying Guide"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "016",
+      "url": "https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/",
+      "title": "Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO",
+      "summary": "Activists, a leading labor union, and a big retirement fund are asking challenging questions about what’s expected to be the largest-ever stock market debut.",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Business",
+        "Business / Big Tech",
+        "SpaceX",
+        "Elon Musk",
+        "IPOs",
+        "Tesla",
+        "xAI",
+        "RIP-O"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
       "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
       "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
       "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
@@ -184,7 +244,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://www.wired.com/story/1password-coupon/",
       "title": "1Password Coupon: Score a Free Trial in 2026",
       "summary": "Save up to 28% on business and personal memberships with 1Password promo codes and deals.",
@@ -198,7 +258,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://www.wired.com/story/bose-coupon-code/",
       "title": "Bose Promo Code: 40% Off for May 2026",
       "summary": "Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.",
@@ -212,7 +272,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://www.wired.com/story/hydrow-discount-code/",
       "title": "Hydrow Discount Code: Save Up to $150 | May 2026",
       "summary": "Save on rowers and accessories with Hydrow coupons, including an exclusive discount of $50.",
@@ -226,7 +286,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://www.wired.com/story/airdoctor-coupon-code/",
       "title": "AirDoctor Coupon Codes: 40% Off | May 2026",
       "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for May 2026.",
@@ -240,7 +300,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "022",
       "url": "https://www.wired.com/story/expedia-coupon/",
       "title": "Expedia Coupons: 75% Off",
       "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
@@ -255,7 +315,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "023",
       "url": "https://www.wired.com/story/jabra-promo-codes-coupons/",
       "title": "Jabra Promo Codes: 30% Off  Headphones, Headsets & More",
       "summary": "Unlock significant savings on Jabra headphones, headsets, and speakers with our verified promo codes, exclusive coupons, and limited-time deals this month.",
@@ -270,7 +330,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "024",
       "url": "https://www.wired.com/story/vivid-seats-promo-code/",
       "title": "Vivid Seats Promo Codes and Deals: Get 10% Off",
       "summary": "Whether you are heading to a sold-out concert or a championship game, use a Vivid Seats discount code to secure your seats for less this May.",
@@ -285,7 +345,7 @@
       "_source": "Wired"
     },
     {
-      "id": "022",
+      "id": "025",
       "url": "https://www.wired.com/story/acer-promo-code/",
       "title": "Acer Promo Codes: 40% Off",
       "summary": "From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.",
@@ -300,7 +360,7 @@
       "_source": "Wired"
     },
     {
-      "id": "023",
+      "id": "026",
       "url": "https://www.wired.com/story/factor-promo-code/",
       "title": "Factor Promo Code: 50% Off Off Meal Prep",
       "summary": "Make meal prep easier for any dietary need while enjoying great savings with our hand-picked Factor discount codes this May.",
@@ -314,7 +374,7 @@
       "_source": "Wired"
     },
     {
-      "id": "024",
+      "id": "027",
       "url": "https://www.wired.com/story/ring-promo-code/",
       "title": "Ring Promo Code: 50% Off",
       "summary": "Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.",
@@ -329,7 +389,7 @@
       "_source": "Wired"
     },
     {
-      "id": "025",
+      "id": "028",
       "url": "https://www.wired.com/story/legalzoom-promo-code/",
       "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
       "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
@@ -342,72 +402,30 @@
       "_source": "Wired"
     },
     {
-      "id": "026",
-      "url": "https://dev.to/nakul_tk/using-an-mcp-gateway-with-claude-code-a-practical-guide-31dc",
-      "title": "Using an MCP Gateway with Claude Code: A Practical Guide",
-      "summary": "Learn how to integrate an MCP gateway with Claude Code to consolidate tool access, enforce governance policies, and reduce token consumption across connected MCP servers.\n\nClaude Code has emerged as a standard terminal-based coding agent for engineering teams. Its built-in support for the Model Cont",
-      "date_published": "2026-05-06",
-      "tags": [
-        "ai",
-        "mcp",
-        "claude",
-        "llm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/filamentmastery/production-mindset-laravel-with-docker-compose-125i",
-      "title": "Production Mindset - Laravel with Docker Compose",
-      "summary": "Introduction\n\n\nIn the previous article, I showed how to build a production-ready Docker image for Laravel & Filament.\n\nBut in real-world applications, a single container is never enough.\n\nRunning a production application means dealing with multiple concerns:\n\n\nweb server\nPHP runtime\ndatabase\ncache\nb",
-      "date_published": "2026-05-06",
-      "tags": [
-        "laravel",
-        "docker",
-        "filament",
-        "devops"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/itskondrat/i-read-boris-chernys-30-day-claude-code-stat-heres-what-most-takes-get-wrong-5900",
-      "title": "I Read Boris Cherny's 30-Day Claude Code Stat. Here's What Most Takes Get Wrong.",
-      "summary": "Boris Cherny, Head of Claude Code at Anthropic, posted a stat on X this morning. In the last 30 days, 100% of his contributions to Claude Code were written by Claude Code itself. 259 PRs. 497 commits. 40,000 lines added. 38,000 removed. Zero by the head of the team.\n\nMost reads of this go straight t",
-      "date_published": "2026-05-06",
-      "tags": [
-        "ai",
-        "career",
-        "productivity",
-        "leadership"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "029",
-      "url": "https://dev.to/danishashko/best-web-scraping-tools-in-2026-a-hands-on-comparison-of-the-top-10-1664",
-      "title": "Best Web Scraping Tools in 2026: A Hands-On Comparison of the Top 10",
-      "summary": "Pricing and product claims were verified independently against each vendor's pricing page on May 5, 2026. No affiliate or referral links - every link below is a direct, clean URL to the vendor.\n\nIf you've shopped for a scraping stack recently, you already know the pitch every vendor uses: \"millions ",
+      "url": "https://dev.to/danfking/i-trained-a-sprite-model-with-agents-the-data-was-the-bottleneck-16k6",
+      "title": "I trained a sprite model with agents. The data was the bottleneck.",
+      "summary": "I just published pixel-llm, a small autoregressive transformer that generates 32x32 pixel art sprites of reef sea creatures. About 2.9 million parameters, a 64-colour palette, runs on consumer hardware. Built end to end through agent sessions, with me steering rather than typing.\n\nThe output is sub-",
       "date_published": "2026-05-06",
       "tags": [
-        "data",
-        "programming",
-        "python",
-        "tutorial"
+        "ai",
+        "machinelearning",
+        "agents",
+        "pixelart"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/benjifisher/the-ucp-technical-council-just-shipped-attribution-into-core-heres-what-that-means-2cnh",
-      "title": "The UCP Technical Council Just Shipped Attribution into Core. Here's What That Means.",
-      "summary": "On May 5, 2026, the UCP Technical Council merged PR #391 into the spec's main branch — adding a top-level attribution field to cart, checkout, catalog, and order operations. The field carries platform-emitted referral and conversion-event context: campaign IDs, click identifiers (gclid, fbclid, ttcl",
+      "url": "https://dev.to/wisediag/from-file-driven-to-multi-agent-collaboration-a-unified-design-for-the-wiseclaw-medical-agent-2kjb",
+      "title": "From File-Driven to Multi-Agent Collaboration: A Unified Design for the WiseClaw Medical Agent Harness",
+      "summary": "Published in May 2026\n\nWritten by: WiseClaw Architecture Team\n\n\n\n\nOver the past few months, we have been tackling two intertwined challenges.\n\nThe first challenge is how to transform medical AI from a mere conversational tool—where the user asks a question and the system provides a single answer—int",
       "date_published": "2026-05-06",
       "tags": [
-        "ecommerce",
-        "webdev",
+        "agents",
         "ai",
-        "data"
+        "architecture",
+        "systemdesign"
       ],
       "_source": "Dev.to"
     }
