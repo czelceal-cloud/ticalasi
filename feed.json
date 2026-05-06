@@ -7,119 +7,54 @@
   "items": [
     {
       "id": "001",
-      "url": "https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32",
-      "title": "Zuckerberg 'personally authorized' Meta's copyright infringement, publishers say",
-      "summary": "Article URL: https://apnews.com/article/meta-mark-zuckerberg-ai-publishers-lawsuit-llama-5609846d4d840014974a847b01079c32\nComments URL: https://news.ycombinator.com/item?id=48029334\nPoints: 12\n# Comments: 1",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
       "date_published": "2026-05-05",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Enterprise",
+        "agentic ai",
+        "prior labs",
+        "sap",
+        "tabular data"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "002",
-      "url": "https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market",
-      "title": "NPR finds \"no sign\" of Polymarket at its Panama HQ address",
-      "summary": "Article URL: https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market\nComments URL: https://news.ycombinator.com/item?id=48029114\nPoints: 38\n# Comments: 3",
+      "url": "https://techcrunch.com/2026/05/05/bumbles-paying-users-are-slipping-as-it-bets-on-an-overhaul-later-this-year/",
+      "title": "Bumble’s paying users are slipping as it bets on an overhaul later this year",
+      "summary": "The company is making a big bet that the swiping model is outdated and most matches never turn into actual dates. The company wants to fix that by redesigning profiles, changing how people interact, and focusing a lot more on getting users to meet in real life.",
       "date_published": "2026-05-05",
       "tags": [
-        "Hacker News"
+        "Apps",
+        "bumble",
+        "dating app"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "003",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-      "title": "Write some software, give it away for free",
-      "summary": "Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026\nComments URL: https://news.ycombinator.com/item?id=48028842\nPoints: 41\n# Comments: 23",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+      "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
       "date_published": "2026-05-05",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Hardware",
+        "Startups",
+        "Greylock Partners",
+        "neo",
+        "science"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "004",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
-      "title": "Why most product tours get skipped",
-      "summary": "Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped\nComments URL: https://news.ycombinator.com/item?id=48028546\nPoints: 18\n# Comments: 9",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-      "title": ".de TLD offline due to DNSSEC?",
-      "summary": "Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de\nComments URL: https://news.ycombinator.com/item?id=48027897\nPoints: 417\n# Comments: 163",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "summary": "Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php\nComments URL: https://news.ycombinator.com/item?id=48026349\nPoints: 207\n# Comments: 264",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://paletteinspiration.com/",
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "summary": "I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh).\nWhy I built it: every color palette generator I tried converged on the same five muted pastels. Painters spent centuries figuring out color and we",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "summary": "Article URL: https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/\nComments URL: https://news.ycombinator.com/item?id=48026207\nPoints: 149\n# Comments: 105",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2604.26752\nComments URL: https://news.ycombinator.com/item?id=48026021\nPoints: 87\n# Comments: 21",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
-      "url": "https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/",
-      "title": "Quantum Key Distribution (QKD) and Quantum Cryptography (QC)",
-      "summary": "Article URL: https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/\nComments URL: https://news.ycombinator.com/item?id=48025828\nPoints: 41\n# Comments: 16",
-      "date_published": "2026-05-05",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "011",
       "url": "https://techcrunch.com/2026/05/05/lucid-motors-doesnt-know-how-many-evs-it-will-build-this-year/",
       "title": "Lucid Motors doesn’t know how many EVs it will build this year",
-      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a company-wide cost-cutting measure.",
+      "summary": "Lucid Motors pulled its guidance for the year, as it navigates swelling inventory and a companywide cost-cutting measure.",
       "date_published": "2026-05-05",
       "tags": [
         "Transportation",
@@ -130,7 +65,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "005",
       "url": "https://techcrunch.com/2026/05/05/as-crypto-cools-a16zcrypto-raises-a-2-2b-fund/",
       "title": "As crypto cools, a16z crypto raises a $2.2B fund",
       "summary": "As some of the biggest VCs in crypto start to consider funding AI startups, a16z crypto's new fund will stay the course.",
@@ -147,7 +82,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "006",
       "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
       "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
@@ -165,7 +100,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "007",
       "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
       "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
       "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe",
@@ -181,7 +116,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "008",
       "url": "https://techcrunch.com/2026/05/05/volkswagen-becomes-rivians-top-shareholder-displacing-amazon/",
       "title": "Volkswagen becomes Rivian’s top shareholder, displacing Amazon",
       "summary": "VW Group's stake will continue to grow under the $5.8 billion joint venture with Rivian.",
@@ -197,7 +132,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "009",
       "url": "https://techcrunch.com/2026/05/05/threads-finally-brings-messaging-to-the-web/",
       "title": "Threads finally brings messaging to the web",
       "summary": "By bringing messaging to the web, Threads is aligning its desktop experience more closely with competitors like X and Bluesky.",
@@ -211,7 +146,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/05/airbnb-co-founder-taps-peter-arnell-as-first-u-s-chief-brand-architect/",
       "title": "Airbnb co-founder taps Peter Arnell as first US chief brand architect",
       "summary": "Arnell joins Gebbia’s National Design Studio under Trump to unify UX across 27,000 federal sites and streamline how Americans use government services.",
@@ -226,7 +161,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "011",
       "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
       "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
       "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
@@ -243,7 +178,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
       "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
       "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
@@ -256,7 +191,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "020",
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
       "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
       "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
@@ -271,7 +206,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "021",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
       "title": "Etsy launches its app within ChatGPT as it continues its AI push",
       "summary": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users.",
@@ -287,7 +222,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "022",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/05/kaspersky-suspects-chinese-hackers-planted-a-backdoor-into-daemon-tools-in-widespread-attack/",
       "title": "Kaspersky suspects Chinese hackers planted a backdoor into Daemon Tools in ‘widespread’ attack",
       "summary": "The cybersecurity company says it's seen thousands of infection attempts, and at least a dozen successful hacks after users installed malicious versions of the popular Windows software.",
@@ -304,7 +239,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "023",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/05/hackers-steal-students-data-during-breach-at-education-tech-giant-instructure/",
       "title": "Hackers steal students’ data during breach at education tech giant Instructure",
       "summary": "The data breach at education tech giant Instructure includes students' private data, according to a sample of the allegedly stolen data seen by TechCrunch.",
@@ -325,7 +260,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
       "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
       "summary": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout.",
@@ -341,7 +276,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
       "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
       "summary": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface.",
@@ -358,7 +293,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
       "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
       "summary": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned.",
@@ -374,7 +309,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
       "title": "4 days left: Get 50% off a second TechCrunch Disrupt 2026 pass to make more deals faster",
       "summary": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. That window closes May 8 at 11:59 p.m. PT. After that, prices go up, and you’ll pay more to bring a partner or colleague. Register today to get your plus-one pass at 50% off",
@@ -400,49 +335,151 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "title": "India’s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "summary": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India.",
+      "id": "021",
+      "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
+      "title": "OpenAI president forced to read his personal diary entries to jury",
+      "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
       "date_published": "2026-05-05",
       "tags": [
         "AI",
-        "Startups",
-        "Bhavish Aggarwal",
-        "Krutrim",
-        "Ola",
-        "Ola Electric"
+        "Policy",
+        "artificial general intelligence",
+        "Elon Musk",
+        "openai",
+        "xAI"
       ],
-      "_source": "TechCrunch"
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "022",
+      "url": "https://arstechnica.com/ai/2026/05/silicon-valley-bets-on-floating-ai-data-centers-powered-by-ocean-waves/",
+      "title": "Silicon Valley bets $200M on AI data centers floating in the ocean",
+      "summary": "Panthalassa aims to test floating AI computing nodes in the Pacific in 2026.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "AI",
+        "ai data centers",
+        "data centers",
+        "ocean waves",
+        "renewable energy",
+        "Renewable power"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "023",
+      "url": "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
+      "title": "Character.AI sued over chatbot that claims to be a real doctor with a license",
+      "summary": "State says chatbot claimed to practice medicine, gave invalid license number.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "AI",
+        "Policy",
+        "Character.AI"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "024",
+      "url": "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
+      "title": "Widely used Daemon Tools disk app backdoored in monthlong supply-chain attack",
+      "summary": "Daemon Tools users: It's time to check your machines for stealthy infections, stat.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "Biz & IT",
+        "Security",
+        "backdoors",
+        "daemon tools",
+        "supply chain attack"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "025",
+      "url": "https://arstechnica.com/health/2026/05/rfk-jr-plans-to-curb-antidepressants-which-he-falsely-compares-to-heroin/",
+      "title": "RFK Jr. plans to curb antidepressants, which he falsely compares to heroin",
+      "summary": "Kennedy has made—and continues to make—many false claims about SSRIs.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "Health",
+        "antidepressants",
+        "depression",
+        "heroin",
+        "MAHA",
+        "robert f kennedy jr",
+        "SSRI"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "026",
+      "url": "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
+      "title": "Google Home gets upgraded Gemini voice assistant and new camera controls",
+      "summary": "Google's smart home ecosystem is getting its biggest update since the AI-fueled 2025 revamp.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "AI",
+        "Google",
+        "Tech",
+        "gemini",
+        "google",
+        "Google Home",
+        "smart home"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "027",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
+      "title": "Trump SEC lets Musk settle $150 million Twitter lawsuit for $1.5 million",
+      "summary": "SEC alleged Musk's late disclosure cheated Twitter investors out of $150 million.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "Policy",
+        "Elon Musk",
+        "SEC"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "028",
+      "url": "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+      "title": "How do you design a $30,000 electric pickup? Inside Ford's skunkworks.",
+      "summary": "We tour Ford’s top-secret Electric Vehicle Development Center in California.",
+      "date_published": "2026-05-05",
+      "tags": [
+        "Cars",
+        "Ford"
+      ],
+      "_source": "Ars Technica"
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/05/amazon-bets-nobel-prize-based-dehumidification-can-cut-its-energy-use/",
-      "title": "Amazon bets Nobel Prize-based dehumidification can cut its energy use",
-      "summary": "Amazon will buy a new type of HVAC system for its commercial buildings to slash energy use.",
+      "url": "https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/",
+      "title": "Charlize Theron is a bewitching Circe in Odyssey trailer",
+      "summary": "\"You're a man who needs to control his fate. But you cannot control this.\"",
       "date_published": "2026-05-05",
       "tags": [
-        "Climate",
-        "Amazon",
-        "energy efficiency",
-        "Exclusive",
-        "hvac",
-        "Transaera"
+        "Culture",
+        "Christopher Nolan",
+        "entertainment",
+        "The Odyssey",
+        "Trailers",
+        "Universal Pictures"
       ],
-      "_source": "TechCrunch"
+      "_source": "Ars Technica"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/05/coinbase-to-lay-off-14-of-staff-as-part-of-broader-restructuring/",
-      "title": "Coinbase to lay off 14% of staff as part of broader restructuring",
-      "summary": "The restructuring is aimed at addressing market volatility and increasing the use of AI tools to improve efficiency.",
+      "url": "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
+      "title": "Musk's Europe gamble: Will others follow the Dutch and approve FSD?",
+      "summary": "The Dutch road authority will ask other EU regulators to approve the driver assist.",
       "date_published": "2026-05-05",
       "tags": [
-        "Crypto",
-        "coinbase",
-        "Layoffs"
+        "Cars",
+        "Tesla FSD"
       ],
-      "_source": "TechCrunch"
+      "_source": "Ars Technica"
     }
   ]
 }
