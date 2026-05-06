@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-    "summary": "Article URL: https://catstret.ch/202605/srss-hipster202510/\nComments URL: https://news.ycombinator.com/item?id=48034762\nPoints: 4\n# Comments: 0",
-    "url": "https://catstret.ch/202605/srss-hipster202510/",
+    "title": "OpenAI president forced to read his personal diary entries to jury",
+    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/\nComments URL: https://news.ycombinator.com/item?id=48035969\nPoints: 35\n# Comments: 25",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Show HN: Red Squares – GitHub outages as contributions",
-    "summary": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 160\n# Comments: 36",
-    "url": "https://red-squares.cian.lol/",
+    "title": "Cat (YC S22) Seeks Fractional Engineer to Build AI-Native Growth Toolkit",
+    "summary": "Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48035223\nPoints: 0\n# Comments: 0",
+    "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "NZ Government to Disestablish the BSA",
-    "summary": "Article URL: https://www.beehive.govt.nz/release/government-disestablish-bsa\nComments URL: https://news.ycombinator.com/item?id=48034372\nPoints: 19\n# Comments: 10",
-    "url": "https://www.beehive.govt.nz/release/government-disestablish-bsa",
+    "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
+    "summary": "Article URL: https://catstret.ch/202605/srss-hipster202510/\nComments URL: https://news.ycombinator.com/item?id=48034762\nPoints: 62\n# Comments: 13",
+    "url": "https://catstret.ch/202605/srss-hipster202510/",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The AI operator: Biggest role in Silicon Valley",
-    "summary": "Article URL: https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley\nComments URL: https://news.ycombinator.com/item?id=48033952\nPoints: 10\n# Comments: 2",
-    "url": "https://www.rishgupta.com/blog/the-ai-operator-biggest-role-in-silicon-valley",
+    "title": "Show HN: Red Squares – GitHub outages as contributions",
+    "summary": "Article URL: https://red-squares.cian.lol/\nComments URL: https://news.ycombinator.com/item?id=48034587\nPoints: 439\n# Comments: 90",
+    "url": "https://red-squares.cian.lol/",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
@@ -45,19 +45,8 @@
   },
   {
     "id": "005",
-    "title": "The Boring Internet",
-    "summary": "Article URL: https://www.terrygodier.com/the-boring-internet\nComments URL: https://news.ycombinator.com/item?id=48033689\nPoints: 34\n# Comments: 35",
-    "url": "https://www.terrygodier.com/the-boring-internet",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
     "title": "Reverse-engineering the 1998 Ultima Online demo server",
-    "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 72\n# Comments: 13",
+    "summary": "Article URL: https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html\nComments URL: https://news.ycombinator.com/item?id=48032976\nPoints: 123\n# Comments: 25",
     "url": "https://draxinar.github.io/articles/2026-05-01-uodemo-reverse-engineering.html",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -66,20 +55,9 @@
     ]
   },
   {
-    "id": "007",
-    "title": "Behavior-Oriented Concurrency for Python",
-    "summary": "Article URL: https://microsoft.github.io/bocpy/\nComments URL: https://news.ycombinator.com/item?id=48032617\nPoints: 33\n# Comments: 3",
-    "url": "https://microsoft.github.io/bocpy/",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
+    "id": "006",
     "title": "Knitting bullshit",
-    "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 128\n# Comments: 61",
+    "summary": "Article URL: https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/\nComments URL: https://news.ycombinator.com/item?id=48032461\nPoints: 207\n# Comments: 98",
     "url": "https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -88,9 +66,9 @@
     ]
   },
   {
-    "id": "009",
+    "id": "007",
     "title": "Multi-stroke text effect in CSS",
-    "summary": "Article URL: https://yuanchuan.dev/multi-stroke-text-effect-in-css\nComments URL: https://news.ycombinator.com/item?id=48032265\nPoints: 89\n# Comments: 8",
+    "summary": "Article URL: https://yuanchuan.dev/multi-stroke-text-effect-in-css\nComments URL: https://news.ycombinator.com/item?id=48032265\nPoints: 138\n# Comments: 19",
     "url": "https://yuanchuan.dev/multi-stroke-text-effect-in-css",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -99,9 +77,9 @@
     ]
   },
   {
-    "id": "010",
+    "id": "008",
     "title": "245TB Micron 6600 ION Data Center SSD Now Shipping",
-    "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoints: 108\n# Comments: 77",
+    "summary": "Article URL: https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now\nComments URL: https://news.ycombinator.com/item?id=48031867\nPoints: 140\n# Comments: 86",
     "url": "https://investors.micron.com/news-releases/news-release-details/industry-leading-245tb-micron-6600-ion-data-center-ssd-now",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -110,7 +88,83 @@
     ]
   },
   {
+    "id": "009",
+    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+    "summary": "Article URL: https://blog.cloudflare.com/agents-stripe-projects/\nComments URL: https://news.ycombinator.com/item?id=48031684\nPoints: 456\n# Comments: 244",
+    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+    "date": "2026-05-06",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "StarFighter 16-Inch",
+    "summary": "Article URL: https://us.starlabs.systems/pages/starfighter\nComments URL: https://news.ycombinator.com/item?id=48031261\nPoints: 475\n# Comments: 237",
+    "url": "https://us.starlabs.systems/pages/starfighter",
+    "date": "2026-05-06",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
     "id": "011",
+    "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+    "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
+    "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+    "date": "2026-05-06",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Startups",
+      "Transportation",
+      "Privacy",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "Media & Entertainment",
+      "AI",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "AI boom pushes Samsung to $1T",
+    "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
+    "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+    "date": "2026-05-06",
+    "source": "TechCrunch",
+    "tags": [
+      "Enterprise",
+      "AI",
+      "south korea",
+      "Samsung Electronics",
+      "artificialintelligence"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Some kids are bypassing age verification checks with a fake mustache",
+    "summary": "A new survey found that kids find it easy to bypass age checks, despite a rise in age verification laws around the world.",
+    "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+    "date": "2026-05-06",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "age verification",
+      "cybersecurity",
+      "United Kingdom"
+    ]
+  },
+  {
+    "id": "014",
     "title": "reMarkable’s new Paper Pure tablet goes back to basics with a monochrome screen",
     "summary": "The new Paper Pure is lighter and faster than the reMarkable 2, which is going to be retired six years since its launch.",
     "url": "https://techcrunch.com/2026/05/06/remarkables-new-paper-pure-tablet-goes-back-to-basics-with-a-monochrome-screen/",
@@ -124,7 +178,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "015",
     "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
     "summary": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at €325 million (approximately $380 million) after raising a €25 million angel round ($29 million). It's a sign of enduring tailwinds for AI, quantum computing, and sovereign tech, especially for Europe-made comp",
     "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
@@ -140,7 +194,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "016",
     "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
     "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
     "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
@@ -161,7 +215,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "017",
     "title": "Nuro receives driverless testing permit ahead of Uber robotaxi service launch",
     "summary": "The Silicon Valley AV startup has not started driverless testing yet.",
     "url": "https://techcrunch.com/2026/05/05/nuro-receives-driverless-testing-permit-ahead-of-uber-robotaxi-service-launch/",
@@ -169,15 +223,60 @@
     "source": "TechCrunch",
     "tags": [
       "Transportation",
-      "autonomous vehicles",
       "lucid",
-      "luid gravity",
+      "Uber",
+      "Exclusive",
+      "autonomous vehicles",
       "nuro",
-      "Uber"
+      "luid gravity"
     ]
   },
   {
-    "id": "015",
+    "id": "018",
+    "title": "Blink bumps its budget buzzer to 2K",
+    "summary": "Amazon-owned Blink has two new video doorbells, the Blink Wired Doorbell 2K+ for $49.99 (according to the Amazon listing) and the Blink Battery Doorbell 2K+ for $69.99 (or $79.99 bundled with a Sync Module). The doorbell cameras join Blink's 2K camera lineup announced last fall, and also work with B",
+    "url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date",
+    "date": "2026-05-06",
+    "source": "The Verge",
+    "tags": [
+      "Amazon",
+      "Cameras",
+      "Gadgets",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Google’s AI search summaries will now quote Reddit",
+    "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from firsthand sources like social media, Reddit, and other web forums, effectively linking your search q",
+    "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+    "date": "2026-05-06",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "It’s time to let my iPhone Mini go",
+    "summary": "It's not the Mini, it's me. Nearly five years after it launched, the 13 Mini is still the best phone ever made. That hasn't changed; it's just that I changed. And as painful as it is to admit this, after using it again for a couple of weeks, I think it's time to put my […]",
+    "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+    "date": "2026-05-06",
+    "source": "The Verge",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "iPhone",
+      "Mobile",
+      "Tech"
+    ]
+  },
+  {
+    "id": "021",
     "title": "The Remarkable Paper Pure is the best digital notepad I’ve ever used",
     "summary": "Was I writing with pen and paper, or a stylus on a tablet? It’s getting more difficult than ever to tell.  The Remarkable Paper Pure is a follow-up to 2020’s Remarkable 2 and a couple of premium color E Ink tablets. As with Remarkable’s first two digital notepads, the Paper Pure features a black-and",
     "url": "https://www.theverge.com/tech/922843/remarkable-paper-pure-e-ink-tablet-digital-notebook-notepad-hands-on",
@@ -194,7 +293,20 @@
     ]
   },
   {
-    "id": "016",
+    "id": "022",
+    "title": "Remarkable’s next E Ink digital notepad skips the color screen",
+    "summary": "Remarkable announced a new paper tablet today - albeit one without the advanced color screen found in its recent Paper Pro and Paper Pro Move tablets. The new Remarkable Paper Pure instead features an upgraded version of the black-and-white E Ink display found in the Remarkable 2 that launched over ",
+    "url": "https://www.theverge.com/tech/923994/remarkable-e-ink-tablet-paper-pure-black-and-white-pricing-availability",
+    "date": "2026-05-06",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "023",
     "title": "Energizer’s new coin batteries won’t cause ingestion burns if swallowed",
     "summary": "Energizer has announced a new line of lithium coin batteries it claims are the world's first to eliminate the risk of ingestion burns if swallowed. Its Ultimate Child Shield line includes three sizes available starting today - 2032, 2025, and 2016 - that are commonly used in devices like remotes, we",
     "url": "https://www.theverge.com/tech/924966/energizer-ultimate-child-shield-batteries-ingestion-swallow-burn-prevention",
@@ -207,9 +319,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "024",
     "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
-    "summary": "Microsoft's LinkedIn CEO, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslansk",
+    "summary": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle inside Microsoft. Sources tell me that the Microsoft Teams organization is moving to report to Roslan",
     "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
     "date": "2026-05-06",
     "source": "The Verge",
@@ -222,7 +334,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "The clippening",
     "summary": "Earlier this year, after a tumultuous period serving as the former second-in-command at the FBI, Dan Bongino went back to what he is perhaps known best for: video podcasting. After Bongino exited the role in January, he began promotion for the return of his podcast, The Dan Bongino Show. He bought o",
     "url": "https://www.theverge.com/report/920005/social-media-clipping-podcasts-clavicular-marketing-mrbeast",
@@ -237,7 +349,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
     "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
     "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. Users who have noticed unexplained drops in their available desktop device storage are now discovering t",
     "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
@@ -252,221 +364,80 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Best Indoor Security Cameras (2026): For Homes and Apartments",
-    "summary": "Cameras can offer peace of mind, but choose carefully before inviting one into your home.",
-    "url": "https://www.wired.com/gallery/best-security-cameras/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Smart Home",
-      "Shopping",
-      "smart home",
-      "security camera",
-      "Nest",
-      "buying guides",
-      "security",
-      "privacy",
-      "household",
-      "Eagle Eye"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Best Webcams (2026): My Honest Take After Testing the Best",
-    "summary": "I tested all the major webcams across the price spectrum in attempts to find the very best. Here's what I learned.",
-    "url": "https://www.wired.com/story/best-webcams/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Reviews",
-      "Gear / Buying Guides",
-      "Gear / Products / Home Office",
-      "cameras",
-      "how-to",
-      "Accessories and Peripherals",
-      "Video",
-      "home office",
-      "buying guides",
-      "Buying Guide"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
-    "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
-    "url": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "apple",
-      "iPhone",
-      "lawsuits",
-      "Siri",
-      "artificial intelligence",
-      "Failure to Launch"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Focal Mu-So Hekla Soundbar Review: Dolby Atmos With 1 Speaker",
-    "summary": "The Focal Mu-so Hekla can almost replace a multi-speaker surround-sound setup.",
-    "url": "https://www.wired.com/review/focal-muso-hekla/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products / Audio",
-      "Gear / Products / Speakers",
-      "Gear / Reviews",
-      "home entertainment",
-      "Soundbars",
-      "Speakers",
-      "Surround Sound",
-      "audio",
-      "Shopping",
-      "Reviews",
-      "review",
-      "Product Review"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Best Water Leak Detectors (2026): Moen, Phyn, TP-Link",
-    "summary": "Don’t let busted pipes or an overflowing washing machine dampen your day. These smart water sensors can help you catch problems quicker.",
-    "url": "https://www.wired.com/gallery/best-water-leak-detectors/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Smart Home",
-      "Gear / Products / Home",
-      "smart home",
-      "water",
-      "home",
-      "insurance",
-      "Shopping",
-      "buying guides",
-      "Buying Guide"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Smeg Forte Stand Mixer Review: Big Power, Mixed Results",
-    "summary": "Smeg’s new retro-looking Forte stand mixer packs some serious power, but its performance isn’t as polished as its design.",
-    "url": "https://www.wired.com/review/smeg-forte-stand-mixer/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Kitchen",
-      "Shopping",
-      "Reviews",
-      "review",
-      "kitchen",
-      "cooking",
-      "household",
-      "Product Review"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-    "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-    "url": "https://www.wired.com/story/hasan-piker-user-behavior/",
+    "id": "027",
+    "title": "A Library Dedicated Solely to the Epstein Files Is Opening in New York",
+    "summary": "The Institute for Primary Facts has compiled more than 3.5 million pages of the Epstein files for public display at the newly opened Donald J. Trump and Jeffrey Epstein Memorial Reading Room.",
+    "url": "https://www.wired.com/story/a-library-dedicated-solely-to-the-epstein-files-is-opening-in-new-york/",
     "date": "2026-05-06",
     "source": "Wired",
     "tags": [
       "Culture",
       "Culture / Digital Culture",
-      "User Behavior",
-      "artificial intelligence",
-      "Social Media",
-      "twitter",
-      "Twitch"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Best Carry-On Suitcases (2026): Away, Rimowa, Tumi",
-    "summary": "I feel about luggage carousels the same way I feel about head lice: avoid at all costs. These are the best carry-on suitcases for those who never want to check a bag again.",
-    "url": "https://www.wired.com/story/best-carry-on-suitcases/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Reviews",
-      "Gear / Products / Outdoor",
-      "Gear / Buying Guides",
-      "AFK",
-      "Travel",
-      "Air Travel",
-      "Bags",
-      "outdoors",
-      "Flight"
+      "FBI",
+      "Donald Trump",
+      "Crime",
+      "Jeffrey Epstein",
+      "department of justice",
+      "government",
+      "Viewing Party"
     ]
   },
   {
     "id": "028",
-    "title": "The Best Bed Frames, Tested in Our Own Rooms (2026)",
-    "summary": "Looking for the best bed frame? Our top recommendation is the Classic Bed from Thuma, but we’ve got options for all budgets and tastes.",
-    "url": "https://www.wired.com/story/best-bed-frames/",
+    "title": "Zest Maps Is the AI-Powered ‘Spiritual Successor to Foursquare’",
+    "summary": "This new app tracks every time you swipe your card at a cool restaurant—and tells all your friends.",
+    "url": "https://www.wired.com/story/zest-maps-is-the-second-coming-of-foursquare/",
+    "date": "2026-05-06",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Apps",
+      "Food and Drink",
+      "software",
+      "yelp",
+      "Foursquare",
+      "Check In"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "7 Best Digital Notebooks (2026): reMarkable, Kobo, Kindle",
+    "summary": "These nifty tools combine the ease of jotting notes by hand with the power of saving them digitally.",
+    "url": "https://www.wired.com/gallery/best-smart-notebooks-and-smart-pens/",
     "date": "2026-05-06",
     "source": "Wired",
     "tags": [
       "Gear",
       "Gear / Buying Guides",
-      "Gear / Products / Home",
+      "Gear / Products / Accessories",
       "Shopping",
+      "pens",
+      "school",
+      "Office",
       "buying guides",
-      "household",
-      "lifestyle",
-      "home",
-      "Sleep",
-      "Bedroom",
+      "Paper",
+      "notebooks",
       "Buying Guide"
     ]
   },
   {
-    "id": "029",
-    "title": "Boycotts Hurt Tesla’s Sales. Now, Activists Are Taking On Elon Musk’s SpaceX IPO",
-    "summary": "Activists, a leading labor union, and a big retirement fund are asking challenging questions about what’s expected to be the largest-ever stock market debut.",
-    "url": "https://www.wired.com/story/activists-call-for-boycott-of-spacex-ipo/",
-    "date": "2026-05-06",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Big Tech",
-      "SpaceX",
-      "Elon Musk",
-      "IPOs",
-      "Tesla",
-      "xAI",
-      "RIP-O"
-    ]
-  },
-  {
     "id": "030",
-    "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
-    "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-    "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
+    "title": "ReMarkable Paper Pure Tablet Review: Back to Basics",
+    "summary": "After six years, the ReMarkable 2 gets a replacement in the form of the ReMarkable Paper Pure.",
+    "url": "https://www.wired.com/review/remarkable-paper-pure/",
     "date": "2026-05-06",
     "source": "Wired",
     "tags": [
       "Gear",
-      "Gear / Deals",
-      "coupons",
+      "Gear / Reviews",
+      "Gear / Products / Home Office",
       "Shopping",
-      "Coupons"
+      "Reviews",
+      "Reviews and First Looks",
+      "tablets",
+      "review",
+      "Product Review"
     ]
   }
 ]
