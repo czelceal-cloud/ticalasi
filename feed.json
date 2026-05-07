@@ -7,6 +7,129 @@
   "items": [
     {
       "id": "001",
+      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
+      "title": "UK businesses brace for jet fuel rationing",
+      "summary": "Article URL: https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/\nComments URL: https://news.ycombinator.com/item?id=48042918\nPoints: 56\n# Comments: 25",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "title": "David Sacks crashed and burned in the White House",
+      "summary": "Article URL: https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review\nComments URL: https://news.ycombinator.com/item?id=48042842\nPoints: 60\n# Comments: 26",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
+      "title": "Apple is enforcing an old App Store rule against a new kind of software",
+      "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code\nComments URL: https://news.ycombinator.com/item?id=48042099\nPoints: 44\n# Comments: 11",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+      "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition\nComments URL: https://news.ycombinator.com/item?id=48041953\nPoints: 28\n# Comments: 3",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://github.com/olivier-ls/php-fts",
+      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+      "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 22\n# Comments: 5",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "title": "Inkscape 1.4.4",
+      "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 178\n# Comments: 41",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "title": "Learning the Integral of a Diffusion Model",
+      "summary": "Article URL: https://sander.ai/2026/05/06/flow-maps.html\nComments URL: https://news.ycombinator.com/item?id=48040002\nPoints: 75\n# Comments: 17",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 179\n# Comments: 170",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+      "title": "Going Full Time on Open Source",
+      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 157\n# Comments: 29",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
+      "url": "https://blog.val.town/better-auth",
+      "title": "From Supabase to Clerk to Better Auth",
+      "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 180\n# Comments: 107",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Startups",
+        "Lachy Groom",
+        "pronto"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
       "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
       "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
@@ -20,7 +143,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
       "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
@@ -36,7 +159,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "003",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
       "title": "Is xAI a neocloud now?",
       "summary": "xAI's real business may be more about building data centers than training AI models.",
@@ -53,7 +176,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "004",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
       "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
       "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
@@ -69,7 +192,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
       "title": "Microsoft’s AI data center push is colliding with its clean power goals",
       "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
@@ -84,7 +207,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "006",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
       "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
       "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
@@ -98,7 +221,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
       "title": "How Elon Musk left OpenAI, according to Greg Brockman",
       "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
@@ -113,7 +236,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
       "title": "DOJ says ransomware gang tapped into Russian government databases",
       "summary": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
@@ -131,7 +254,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "009",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
       "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
       "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
@@ -148,7 +271,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "010",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
       "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
       "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
@@ -166,7 +289,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
       "title": "DeepSeek could hit $45B valuation from its first investment round",
       "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
@@ -181,7 +304,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
       "title": "Chrome on Android now supports approximate instead of precise location sharing",
       "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
@@ -196,7 +319,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
       "title": "Google updates AI search to include quotes from Reddit and other sources",
       "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
@@ -211,7 +334,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
       "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
       "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
@@ -227,7 +350,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
       "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
       "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
@@ -241,7 +364,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
       "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
       "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
@@ -257,7 +380,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
       "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
       "summary": "Ethos says it is onboarding 35,000 experts per week.",
@@ -275,7 +398,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
       "title": "Aurora lands McLane deal to run driverless truck routes in Texas",
       "summary": "Aurora said it plans to expand to new routes between McLane distribution centers across the U.S. Sun Belt by the end of 2026.",
@@ -290,7 +413,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
       "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
       "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
@@ -304,203 +427,6 @@
         "coinbase"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-      "summary": "Three days left to lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends May 8 at 11:59 p.m. PT.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "Privacy",
-        "Hardware",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment",
-        "AI",
-        "Robotics",
-        "Fundraising",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://arstechnica.com/tech-policy/2026/05/report-spacex-ipo-gives-musk-unchecked-power-and-forbids-investor-lawsuits/",
-      "title": "Report: SpaceX IPO gives Musk unchecked power and forbids investor lawsuits",
-      "summary": "Anyone who buys into SpaceX IPO must waive right to sue the firm, report says.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Policy",
-        "Elon Musk",
-        "spacex",
-        "spacex ipo",
-        "Tesla"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "022",
-      "url": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-      "title": "Google DeepMind partners with EVE Online for AI model testing",
-      "summary": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Gaming",
-        "Google",
-        "CCP Games",
-        "Fenris",
-        "google",
-        "google deepmind",
-        "models",
-        "world models"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "023",
-      "url": "https://arstechnica.com/space/2026/05/the-animated-version-of-artemis-hello-world-is-even-better-than-the-original/",
-      "title": "The animated version of the iconic \"Hello, world\" image reveals striking new details",
-      "summary": "What's going on with those satellites, anyway?",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Space",
-        "andy saunders",
-        "artemis II",
-        "Earth",
-        "space"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "024",
-      "url": "https://arstechnica.com/health/2026/05/trump-admin-censors-more-studies-conflicting-with-rfk-jr-s-anti-vaccine-views/",
-      "title": "FDA vaccine studies censored by Trump admin after finding benefits of shots",
-      "summary": "FDA has suppressed studies on COVID-19 vaccines and Shingrix, a shingles vaccine.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Health",
-        "COVID-19",
-        "fda",
-        "shingles",
-        "shingrix",
-        "vaccines"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "025",
-      "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/",
-      "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
-      "summary": "Also, 5-hour usage limits will double for Pro and Max users of Claude Code.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "agentic AI",
-        "Anthropic",
-        "Claude",
-        "Claude Managed Agents",
-        "Code with Claude",
-        "large language models",
-        "LLMs"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "026",
-      "url": "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
-      "title": "Google's Gemma 4 AI models get 3x speed boost by predicting future tokens",
-      "summary": "Up to 3x the speed with no loss of quality—is it too good to be true?",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Google",
-        "Artificial Intelligence",
-        "gemma",
-        "generative ai",
-        "google"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "027",
-      "url": "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
-      "title": "Here's what has to happen if NASA wants to land on the Moon every month",
-      "summary": "NASA is serious about taking more shots on goal, but some of them need to start landing.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Science",
-        "Space",
-        "artemis",
-        "astrobotic",
-        "blue moon lander",
-        "blue origin",
-        "clps",
-        "Commercial space",
-        "Firefly Aerospace",
-        "intuitive machines",
-        "moon",
-        "moon lander",
-        "NASA",
-        "spacex"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "028",
-      "url": "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
-      "title": "Infants are bleeding out after parents decline vitamin K shots given at birth",
-      "summary": "Hospitals report more parents are declining vitamin K shots for their newborns.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Health",
-        "health care",
-        "infancy",
-        "Vitamin K"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "029",
-      "url": "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-      "title": "Ars Asks: Share your shell and show us your tricked-out terminals!",
-      "summary": "A celebration of the tweaks and customizations that make life easier at the CLI.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Biz & IT",
-        "Features",
-        "ANSI",
-        "bash",
-        "cli",
-        "command line",
-        "fish",
-        "fish shell",
-        "Terminal",
-        "text mode",
-        "TUI",
-        "Vim"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
-      "title": "More than just an SUV? Rivian is working on more R2 variants.",
-      "summary": "Without giving much away, CEO RJ Scaringe teased the idea of an R2 pickup and an R2X.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Cars",
-        "Rivian",
-        "Rivian R2"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
