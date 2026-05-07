@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Colored Shadow Penumbra",
-    "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 3\n# Comments: 0",
-    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+    "title": "Creating for a niche",
+    "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 5\n# Comments: 0",
+    "url": "https://www.davesnider.com/posts/working-in-a-niche",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "AI Slop Is Killing Online Communities",
-    "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 100\n# Comments: 64",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "title": "Dirtyfrag: Universal Linux LPE",
+    "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8\nComments URL: https://news.ycombinator.com/item?id=48053623\nPoints: 220\n# Comments: 95",
+    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 62\n# Comments: 11",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "title": "Colored Shadow Penumbra",
+    "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 24\n# Comments: 9",
+    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
-    "summary": "Article URL: https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/\nComments URL: https://news.ycombinator.com/item?id=48052371\nPoints: 54\n# Comments: 36",
-    "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "title": "AI slop is killing online communities",
+    "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 245\n# Comments: 235",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Principles for agent-native CLIs",
-    "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 22\n# Comments: 4",
-    "url": "https://twitter.com/trevin/status/2051316002730991795",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 124\n# Comments: 40",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Agents need control flow, not more prompts",
-    "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 140\n# Comments: 70",
-    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "title": "Principles for agent-native CLIs",
+    "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 37\n# Comments: 20",
+    "url": "https://twitter.com/trevin/status/2051316002730991795",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "summary": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 261\n# Comments: 91",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "title": "Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
+    "summary": "I have been working on Dear ImGui Bundle since 2022, but it is the first time I talk about it here. It is a framework around Dear ImGui for building interactive applications in Python and C++. It comes with batteries included: Plotting, image inspection, Markdown, node editors, 3D gizmos, knobs, tog",
+    "url": "https://github.com/pthom/imgui_bundle",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "DeepSeek 4 Flash local inference engine for Metal",
-    "summary": "Article URL: https://github.com/antirez/ds4\nComments URL: https://news.ycombinator.com/item?id=48050751\nPoints: 155\n# Comments: 50",
-    "url": "https://github.com/antirez/ds4",
+    "title": "Agents need control flow, not more prompts",
+    "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 226\n# Comments: 128",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
-    "summary": "Hey HN! We're Charles and Dean. A few weeks ago we posted about Stage, a code review tool that guides you through reading a PR step by step - https://news.ycombinator.com/item?id=47796818.We got a lot of great feedback but also heard from many people that they wanted to have the chapters experience ",
-    "url": "https://github.com/ReviewStage/stage-cli",
+    "title": "I switched from Mac to a Lenovo Chromebook",
+    "summary": "Article URL: https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html\nComments URL: https://news.ycombinator.com/item?id=48051025\nPoints: 89\n# Comments: 126",
+    "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
-    "summary": "Article URL: https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-",
-    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "summary": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 366\n# Comments: 143",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -111,7 +111,113 @@
   },
   {
     "id": "011",
-    "title": "Perplexity’s Personal Computer is now available everyone on Mac",
+    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+    "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio",
+    "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Disney looking to make a unified ‘super app,’ report says",
+    "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
+    "url": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Media & Entertainment",
+      "Disney",
+      "Disney Plus",
+      "josh d'amaro"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Startups",
+      "a16z",
+      "pit",
+      "Voi"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Hackers deface school login pages after claiming another Instructure hack",
+    "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
+    "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "Canvas",
+      "cybercrime",
+      "cybersecurity",
+      "data breach",
+      "ed tech",
+      "Education",
+      "extortion",
+      "hackers",
+      "hacking",
+      "instructure",
+      "shinyhunters"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
+    "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
+    "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Gusto",
+      "HR tech",
+      "payroll",
+      "revenue"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "TC",
+      "ChatGPT",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
+    "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
+    "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "In Brief",
+      "nhtsa",
+      "Tesla"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
     "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
     "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
     "date": "2026-05-07",
@@ -124,7 +230,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "019",
     "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
     "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
     "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
@@ -139,7 +245,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "020",
     "title": "Bumble is getting rid of the swipe, CEO says",
     "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
     "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
@@ -154,7 +260,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "021",
     "title": "Tome, another Goodreads book-tracker rival, shuts down",
     "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match ",
     "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
@@ -170,7 +276,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "022",
     "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
     "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
     "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
@@ -184,7 +290,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "023",
     "title": "Hackers hack victims hacked by other hackers",
     "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
     "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
@@ -201,7 +307,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "024",
     "title": "Kalshi doubles valuation in 5 months, hitting $22B",
     "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
     "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
@@ -217,7 +323,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "Jeff Bezos rep leaves Slate Auto’s board",
     "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
     "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
@@ -232,7 +338,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
     "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
     "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
     "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
@@ -249,7 +355,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "027",
     "title": "Google’s $9.99-per-month AI health coach launches May 19",
     "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
     "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
@@ -266,7 +372,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "028",
     "title": "Google unveils Whoop-like screenless Fitbit Air",
     "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
     "url": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
@@ -281,7 +387,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "029",
     "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
     "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
     "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
@@ -303,7 +409,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "030",
     "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
     "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
     "url": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
@@ -315,138 +421,6 @@
       "cyberattack",
       "cybersecurity",
       "sms blaster"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
-    "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
-    "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "TC",
-      "Startups",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
-    "summary": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
-    "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Space",
-      "Startups",
-      "satellite communications",
-      "sherpalo ventures",
-      "Skyroot"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
-    "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
-    "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Transportation",
-      "Security",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
-      "Venture",
-      "AI",
-      "Apps",
-      "Robotics",
-      "Fundraising",
-      "TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
-    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Startups",
-      "kimi",
-      "large language models",
-      "moonshot ai"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Spotify wants to become the home for AI-generated personal audio",
-    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
-    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "claude code",
-      "podcasts",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
-    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
-    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "ai dj",
-      "In Brief",
-      "music streaming services",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergir",
-    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "TC",
-      "applied intuition",
-      "ASML",
-      "Christophe Fouquet",
-      "Dimitry Shevelenko",
-      "Eve Bodnia",
-      "Francis deSouza",
-      "google cloud",
-      "Logical Intelligence",
-      "Milken Institute",
-      "Qasar Younis"
     ]
   }
 ]
