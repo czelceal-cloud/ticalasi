@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://CringeOut.com",
-      "title": "Show HN: Social Network for Corporate Cringe",
-      "summary": "Built social network to make fun of corporate cringe. Post humblebrag content and react with direct emotions.\n\nComments URL: https://news.ycombinator.com/item?id=48046874\nPoints: 11\n# Comments: 10",
+      "url": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
+      "title": "KLM flight attendant hospitalized after contact with hantavirus",
+      "summary": "Article URL: https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger\nComments URL: https://news.ycombinator.com/item?id=48048121\nPoints: 12\n# Comments: 3",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://unsloth.ai/blog/nvidia-collab",
-      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 36\n# Comments: 2",
+      "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+      "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+      "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 14\n# Comments: 4",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://github.com/darkrishabh/agent-skills-eval",
-      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-      "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 19\n# Comments: 1",
+      "url": "https://ahk.cardor.dev",
+      "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+      "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 9\n# Comments: 2",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://github.com/wojtczyk/trust",
-      "title": "Show HN: Trust – Coding Rust like it's 1989",
-      "summary": "Article URL: https://github.com/wojtczyk/trust\nComments URL: https://news.ycombinator.com/item?id=48045939\nPoints: 18\n# Comments: 4",
+      "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+      "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
+      "summary": "Article URL: https://firethering.com/zaya1-8b-open-source-math-coding-model/\nComments URL: https://news.ycombinator.com/item?id=48047082\nPoints: 29\n# Comments: 22",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
-      "title": "Building the TD4 4-Bit CPU",
-      "summary": "Article URL: https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html\nComments URL: https://news.ycombinator.com/item?id=48045384\nPoints: 19\n# Comments: 6",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 62\n# Comments: 10",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://arxiv.org/abs/2605.03546",
-      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-      "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 45\n# Comments: 28",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+      "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 31\n# Comments: 9",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://aniket.foo/posts/20260505-netboot/",
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 87\n# Comments: 45",
+      "url": "https://github.com/wojtczyk/trust",
+      "title": "Show HN: Trust – Coding Rust like it's 1989",
+      "summary": "Article URL: https://github.com/wojtczyk/trust\nComments URL: https://news.ycombinator.com/item?id=48045939\nPoints: 41\n# Comments: 13",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://permacomputing.net/principles/",
-      "title": "Permacomputing Principles",
-      "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 142\n# Comments: 66",
+      "url": "https://arxiv.org/abs/2605.03546",
+      "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+      "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 69\n# Comments: 37",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://www.vatican.va/latin/latin_index.html",
-      "title": "The Vatican's Website in Latin",
-      "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 149\n# Comments: 87",
+      "url": "https://aniket.foo/posts/20260505-netboot/",
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 112\n# Comments: 57",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
-      "title": "RSS feeds send me more traffic than Google",
-      "summary": "Article URL: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\nComments URL: https://news.ycombinator.com/item?id=48043964\nPoints: 106\n# Comments: 19",
+      "url": "https://permacomputing.net/principles/",
+      "title": "Permacomputing Principles",
+      "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 169\n# Comments: 80",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -139,6 +139,170 @@
     },
     {
       "id": "012",
+      "url": "https://www.wired.com/gallery/best-printers/",
+      "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
+      "summary": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Gear",
+        "Gear / Products",
+        "Gear / Buying Guides",
+        "Gear / Products / Computers",
+        "Gear / Products / Home Office",
+        "Shopping",
+        "buying guides",
+        "Accessories and Peripherals",
+        "printers",
+        "Paper",
+        "computing",
+        "hp",
+        "Buying Guide"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "013",
+      "url": "https://www.wired.com/story/best-bug-sprays/",
+      "title": "Best Bug Spray (2026), Tested and Reviewed",
+      "summary": "Our writer tried some of the most popular insect repellents during runs, hikes, and evening walks. These are the ones we recommend.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Gear",
+        "Gear / Products / Outdoor",
+        "Shopping",
+        "health",
+        "outdoors",
+        "buying guides",
+        "hiking",
+        "backpacking",
+        "camping",
+        "Backyard",
+        "Don't Bug Me"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "014",
+      "url": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
+      "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
+      "summary": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Gear",
+        "Gear / How To and Advice",
+        "Gear / Products",
+        "Gear / Products / Cameras",
+        "Gear / Products / Computers",
+        "Shopping",
+        "cameras",
+        "webcams",
+        "laptops",
+        "laptop",
+        "Light It Up"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "015",
+      "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
+      "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
+      "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Security",
+        "Security / Cyberattacks and Hacks",
+        "Security / Privacy",
+        "Security / Security News",
+        "Business / Artificial Intelligence",
+        "artificial intelligence",
+        "cybersecurity",
+        "security",
+        "privacy",
+        "databases",
+        "data privacy",
+        "Bad Vibes"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "016",
+      "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
+      "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
+      "summary": "When Stick Figure’s six-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Culture",
+        "Culture / Music",
+        "Music",
+        "artificial intelligence",
+        "YouTube",
+        "Spotify",
+        "Social Media",
+        "streaming",
+        "Hit Record"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
+      "url": "https://www.wired.com/gallery/best-sunscreens/",
+      "title": "11 Best Sunscreens, WIRED Tested and Reviewed",
+      "summary": "We put 36 sunscreens to the test during summer hikes, spring ski days, and beachside hangs. Out of all the mineral, chemical, and spray varieties we tried, these are our top picks.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Outdoor",
+        "Gear / Products / Health and Fitness",
+        "Shopping",
+        "buying guides",
+        "outdoors",
+        "environment",
+        "health",
+        "Buying Guide"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "018",
+      "url": "https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/",
+      "title": "Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’",
+      "summary": "Brian Michael Hinds found accidental internet fame through a resemblance to the controversial manosphere figure. He’s still wrestling with what to do with it.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Culture",
+        "Culture / Digital Culture",
+        "Social Media",
+        "TikTok",
+        "YouTube",
+        "streaming",
+        "viral",
+        "politics",
+        "cryptocurrency",
+        "gambling",
+        "Twin Peaks"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
+      "url": "https://www.wired.com/story/there-is-no-evidence-the-trump-assassination-attempts-were-staged-people-still-believe-they-were/",
+      "title": "There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were",
+      "summary": "Elements of the right and the left are united in the baseless belief that two attempts on Donald Trump's life were staged.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Politics",
+        "Donald Trump",
+        "politics",
+        "Social Media",
+        "government",
+        "conspiracy theories",
+        "Shots Fired"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "020",
       "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
       "title": "Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)",
       "summary": "Admit it: It’s inevitable you will forget to charge your Bluetooth pair.",
@@ -158,7 +322,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "021",
       "url": "https://www.wired.com/story/vimeo-promo-code/",
       "title": "Vimeo Promo Code: 40% Off This May 2026",
       "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
@@ -172,7 +336,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "022",
       "url": "https://www.wired.com/story/top-walmart-promo-codes/",
       "title": "Walmart Promo Codes: 65% Off",
       "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
@@ -186,7 +350,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "023",
       "url": "https://www.wired.com/story/groupon-promo-code/",
       "title": "Groupon Promo Codes: 60% Off in May 2026",
       "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
@@ -200,7 +364,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "024",
       "url": "https://www.wired.com/story/hp-coupon-code/",
       "title": "HP Discount Codes: 60% Off May 2026",
       "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
@@ -214,7 +378,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "025",
       "url": "https://www.wired.com/story/maytag-promo-code/",
       "title": "Maytag Promo Codes: 15% Off Appliances",
       "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
@@ -229,7 +393,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "026",
       "url": "https://www.wired.com/story/target-promo-code/",
       "title": "Target Promo Code: $50 Off | May 2026",
       "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
@@ -243,7 +407,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "027",
       "url": "https://www.wired.com/story/womanizer-coupon/",
       "title": "Womanizer Coupons: Save 15% in May",
       "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
@@ -257,7 +421,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "028",
       "url": "https://www.wired.com/story/att-promo-code/",
       "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
       "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
@@ -270,142 +434,31 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
-      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-      "title": "What’s next for IVF",
-      "summary": "Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Millions more IVF babies have entered the world since then. And that’s partly thanks to advances in technology that have made IVF safer and more effective. But it’s still n",
+      "id": "029",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "title": "The balcony solar boom is coming to the US",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems co",
       "date_published": "2026-05-07",
       "tags": [
-        "Biotechnology and health",
+        "Climate change and energy",
         "App",
-        "Summary"
+        "The Spark"
       ],
       "_source": "MIT Tech Review"
     },
     {
-      "id": "022",
-      "url": "https://dev.to/a_ts_dev/how-good-are-you-actually-at-typescript-i-built-a-quiz-to-find-out-130l",
-      "title": "How Good Are You actually at TypeScript? I Built a Quiz to Find Out",
-      "summary": "We've all been there.\n\nYou finish a tutorial, understand the concepts, and think \"Yeah, I got this\". \n\nBut when it comes to real code... things get tricky.\n\nSo I decided to build something to answer the question honestly.\n\nIntroducing TS Quiz\n\nA free interactive quiz platform with:\n\n\n125 questions a",
-      "date_published": "2026-05-07",
-      "tags": [
-        "javascript",
-        "learning",
-        "showdev",
-        "typescript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/lucy1/how-databricks-genie-turns-plain-english-into-sql-code-3fa9",
-      "title": "How Databricks Genie Turns Plain English Into SQL Code",
-      "summary": "If you have spent time working inside a data team, you already know how a typical Tuesday looks.\n\nA message comes in from the sales manager. Then one from finance. Then someone from the product team who just needs \"a quick number.\" Before 10 AM, your backlog is three queries deep. None of them are c",
-      "date_published": "2026-05-07",
-      "tags": [
-        "databricks",
-        "dataengineering",
-        "sql",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/midnight-aliit/i-built-a-midnight-dapp-like-an-eth-dev-heres-everything-i-got-wrong-3fif",
-      "title": "I Built a Midnight dApp Like an ETH Dev. Here's Everything I Got Wrong.",
-      "summary": "A brutally honest post-mortem on migrating from a server-managed wallet to the 1AM browser extension on the Midnight Network.\n\n\n  \n  \n  The Decision That Cost Me Two Days\n\n\nI want to be specific about the moment I made the mistake, because it's a very recognizable moment.\n\nContracts written. Deploye",
-      "date_published": "2026-05-07",
-      "tags": [
-        "midnight",
-        "compact",
-        "web3",
-        "blockchain"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/sreekanth_kuruba_91721e5d/cni-plugins-in-kubernetes-explained-the-networking-engine-behind-every-pod-2ekc",
-      "title": "CNI Plugins in Kubernetes Explained: The Networking Engine Behind Every Pod",
-      "summary": "You create a Pod.\nIt gets an IP address and can communicate with other Pods.\n\nBut how does that actually happen?\n\nKubernetes doesn’t manage networking itself. It delegates the entire job to CNI Plugins — the invisible plumbing system of Kubernetes.\n\nKubernetes schedules Pods, but CNI plugins give th",
-      "date_published": "2026-05-07",
-      "tags": [
-        "kubernetes",
-        "devops",
-        "networking",
-        "cloudnative"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/jovansapfioneer/what-every-ai-agent-builder-needs-to-know-about-state-coordination-22i8",
-      "title": "What Every AI Agent Builder Needs to Know About State Coordination",
-      "summary": "After months of building multi-agent AI systems, the biggest lesson: the framework doesn't matter as much as the coordination layer.\n\n\n\n\n\n  \n  \n  The Article That Sparked This\n\n\nI recently read @anchildress1's excellent article \"AI Isn't Stupid. Your Setup Is. 🛠️\" and it resonated deeply with challe",
-      "date_published": "2026-05-07",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/jessieiot/breaking-through-the-reliability-bottleneck-of-ev-charging-networks-how-dual-channel-edge-gateways-4fp3",
-      "title": "Breaking Through the Reliability Bottleneck of EV Charging Networks: How Dual-Channel Edge Gateways Reshape OCPP Communication Architecture",
-      "summary": "I. Data Congestion and Privacy Deadlocks under Single-Channel Architecture\n\nWhy does the charge failure rate of public high-power Direct Current Fast Charging (DCFC) networks remain persistently high, even hovering between 14% and 19%? An in-depth analysis reveals that the core factor causing the un",
-      "date_published": "2026-05-07",
-      "tags": [
-        "architecture",
-        "iot",
-        "networking",
-        "systemdesign"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/sciforce/how-finops-reduces-cloud-and-gpu-spend-for-ai-driven-companies-3i80",
-      "title": "How FinOps Reduces Cloud and GPU Spend for AI-Driven Companies",
-      "summary": "Introduction\n\n\nAt some point in an AI company's growth, the GPU bill stops making sense, and we are looking at a cluster running at 3 am for a model that never shipped.\n\nThat's the bill that eventually lands on someone's desk, and the first instinct is a cleanup to identify waste and kill orphaned r",
-      "date_published": "2026-05-07",
-      "tags": [
-        "devops",
-        "fintech",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/syedahmershah/gemma-4-why-local-ai-is-finally-becoming-personal-1ba5",
-      "title": "Gemma 4: Why Local AI is Finally Becoming Personal",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n\n\n\n  \n  \n  The \"Before\" and \"After\"\n\n\nWe’ve all been there. You want to integrate AI into a project—maybe a mini e-commerce site like my Zovita project or a custom SaaS—but you’re stuck. You’re either selling your soul to expensiv",
-      "date_published": "2026-05-07",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "discuss"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "030",
-      "url": "https://dev.to/axvc/what-i-learned-measuring-pretextjs-things-browser-benchmarks-dont-tell-you-1mm0",
-      "title": "What I learned measuring Pretext.js: things browser benchmarks don't tell you",
-      "summary": "A while ago — though by current standards that already feels like ancient history — Twitter was loud with discussion of Pretext.js, a text-layout library whose headline claim is dramatic speedup over standard DOM measurement. Instead of letting the browser's layout engine compute text dimensions, it",
+      "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
+      "title": "What’s next for IVF",
+      "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Mil",
       "date_published": "2026-05-07",
       "tags": [
-        "performance",
-        "javascript",
-        "webperf",
-        "webdev"
+        "Biotechnology and health",
+        "App",
+        "Summary",
+        "What's Next in Tech"
       ],
-      "_source": "Dev.to"
+      "_source": "MIT Tech Review"
     }
   ]
 }
