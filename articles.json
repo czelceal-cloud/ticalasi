@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "KLM flight attendant hospitalized after contact with hantavirus",
-    "summary": "Article URL: https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger\nComments URL: https://news.ycombinator.com/item?id=48048121\nPoints: 12\n# Comments: 3",
-    "url": "https://nltimes.nl/2026/05/07/klm-flight-attendant-hospitalized-contact-hantavirus-cruise-ship-passenger",
+    "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
+    "summary": "Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems\nComments URL: https://news.ycombinator.com/item?id=48048339\nPoints: 0\n# Comments: 0",
+    "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-    "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 14\n# Comments: 4",
-    "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
+    "title": "The Upper Middle Class Trap",
+    "summary": "Article URL: https://ofdollarsanddata.com/the-upper-middle-class-trap/\nComments URL: https://news.ycombinator.com/item?id=48048262\nPoints: 14\n# Comments: 7",
+    "url": "https://ofdollarsanddata.com/the-upper-middle-class-trap/",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-    "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 9\n# Comments: 2",
-    "url": "https://ahk.cardor.dev",
+    "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
+    "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 177\n# Comments: 120",
+    "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "ZAYA1-8B: An 8B Moe Model with 760M Active Params Matching DeepSeek-R1 on Math",
-    "summary": "Article URL: https://firethering.com/zaya1-8b-open-source-math-coding-model/\nComments URL: https://news.ycombinator.com/item?id=48047082\nPoints: 29\n# Comments: 22",
-    "url": "https://firethering.com/zaya1-8b-open-source-math-coding-model/",
+    "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
+    "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 96\n# Comments: 51",
+    "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 62\n# Comments: 10",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
+    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
+    "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 42\n# Comments: 8",
+    "url": "https://ahk.cardor.dev",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-    "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 31\n# Comments: 9",
-    "url": "https://github.com/darkrishabh/agent-skills-eval",
+    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 83\n# Comments: 11",
+    "url": "https://unsloth.ai/blog/nvidia-collab",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Show HN: Trust – Coding Rust like it's 1989",
-    "summary": "Article URL: https://github.com/wojtczyk/trust\nComments URL: https://news.ycombinator.com/item?id=48045939\nPoints: 41\n# Comments: 13",
-    "url": "https://github.com/wojtczyk/trust",
+    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+    "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 39\n# Comments: 15",
+    "url": "https://github.com/darkrishabh/agent-skills-eval",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 69\n# Comments: 37",
-    "url": "https://arxiv.org/abs/2605.03546",
+    "title": "Show HN: Trust – Coding Rust like it's 1989",
+    "summary": "Article URL: https://github.com/wojtczyk/trust\nComments URL: https://news.ycombinator.com/item?id=48045939\nPoints: 62\n# Comments: 28",
+    "url": "https://github.com/wojtczyk/trust",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 112\n# Comments: 57",
-    "url": "https://aniket.foo/posts/20260505-netboot/",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 92\n# Comments: 53",
+    "url": "https://arxiv.org/abs/2605.03546",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Permacomputing Principles",
-    "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 169\n# Comments: 80",
-    "url": "https://permacomputing.net/principles/",
+    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 131\n# Comments: 70",
+    "url": "https://aniket.foo/posts/20260505-netboot/",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,52 @@
   },
   {
     "id": "011",
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+    "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
+    "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Startups",
+      "China",
+      "kimi",
+      "large language models",
+      "moonshot ai"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Spotify wants to become the home for AI-generated personal audio",
+    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+    "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Spotify",
+      "claude code"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
+    "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "ai dj",
+      "music streaming services",
+      "Spotify"
+    ]
+  },
+  {
+    "id": "014",
     "title": "Five architects of the AI economy explain where the wheels are coming off",
     "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec",
     "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -132,7 +178,84 @@
     ]
   },
   {
-    "id": "012",
+    "id": "015",
+    "title": "Is your Porsche Taycan too slow at the Nürbugring? You need this Manthey Kit.",
+    "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
+    "url": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
+    "date": "2026-05-07",
+    "source": "Ars Technica",
+    "tags": [
+      "Cars",
+      "Nordschleife",
+      "Nurburgring",
+      "Porsche Taycan"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Former NASA chief takes helm of national security space firm",
+    "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
+    "url": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
+    "date": "2026-05-07",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "jim bridenstine",
+      "quantum space",
+      "ranger",
+      "space"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Ploopy’s new mouse makes the ThinkPad’s iconic TrackPoint portable",
+    "summary": "Ploopy has announced another open source mouse alternative that skips touchpads and trackballs. While the new Ploopy Bean looks like a tiny travel-friendly mouse, you don't need to move it around. Instead, surrounded by four buttons is a red pointing stick similar to the TrackPoint that IBM included",
+    "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
+    "date": "2026-05-07",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Inside Dreame’s wild launch event — packed with products no one can buy",
+    "summary": "Hundreds of influencers, media folks, and a few C-list celebs (sorry, Woz) filled the cavernous halls of the San Francisco Palace of Fine Arts last week. They were assembled for Dreame's launch event, ostensibly into both America and a much bigger ecosystem of products. Across the four-day showcase,",
+    "url": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
+    "date": "2026-05-07",
+    "source": "The Verge",
+    "tags": [
+      "Report",
+      "Robot",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
+    "summary": "Sleep Number’s new model leans plush, but its smart support might convert even die-hard firmness fans.",
+    "url": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Sleep",
+      "mattresses",
+      "review",
+      "Sleep",
+      "Shopping",
+      "online shopping",
+      "household",
+      "Reviews",
+      "Product Review"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
     "summary": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options.",
     "url": "https://www.wired.com/gallery/best-printers/",
@@ -155,7 +278,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "021",
     "title": "Best Bug Spray (2026), Tested and Reviewed",
     "summary": "Our writer tried some of the most popular insect repellents during runs, hikes, and evening walks. These are the ones we recommend.",
     "url": "https://www.wired.com/story/best-bug-sprays/",
@@ -176,7 +299,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "022",
     "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
     "summary": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
     "url": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
@@ -197,7 +320,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "023",
     "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
     "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
     "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
@@ -219,9 +342,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "024",
     "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-    "summary": "When Stick Figure’s six-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
+    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
     "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
     "date": "2026-05-07",
     "source": "Wired",
@@ -238,7 +361,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "025",
     "title": "11 Best Sunscreens, WIRED Tested and Reviewed",
     "summary": "We put 36 sunscreens to the test during summer hikes, spring ski days, and beachside hangs. Out of all the mineral, chemical, and spray varieties we tried, these are our top picks.",
     "url": "https://www.wired.com/gallery/best-sunscreens/",
@@ -258,7 +381,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "026",
     "title": "Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’",
     "summary": "Brian Michael Hinds found accidental internet fame through a resemblance to the controversial manosphere figure. He’s still wrestling with what to do with it.",
     "url": "https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/",
@@ -279,7 +402,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "027",
     "title": "There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were",
     "summary": "Elements of the right and the left are united in the baseless belief that two attempts on Donald Trump's life were staged.",
     "url": "https://www.wired.com/story/there-is-no-evidence-the-trump-assassination-attempts-were-staged-people-still-believe-they-were/",
@@ -296,7 +419,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "028",
     "title": "Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)",
     "summary": "Admit it: It’s inevitable you will forget to charge your Bluetooth pair.",
     "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
@@ -316,7 +439,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "029",
     "title": "Vimeo Promo Code: 40% Off This May 2026",
     "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
     "url": "https://www.wired.com/story/vimeo-promo-code/",
@@ -330,7 +453,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "030",
     "title": "Walmart Promo Codes: 65% Off",
     "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
     "url": "https://www.wired.com/story/top-walmart-promo-codes/",
@@ -341,117 +464,6 @@
       "coupons",
       "Shopping",
       "Coupons"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Groupon Promo Codes: 60% Off in May 2026",
-    "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-    "url": "https://www.wired.com/story/groupon-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "HP Discount Codes: 60% Off May 2026",
-    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-    "url": "https://www.wired.com/story/hp-coupon-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Maytag Promo Codes: 15% Off Appliances",
-    "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-    "url": "https://www.wired.com/story/maytag-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Target Promo Code: $50 Off | May 2026",
-    "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-    "url": "https://www.wired.com/story/target-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Womanizer Coupons: Save 15% in May",
-    "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
-    "url": "https://www.wired.com/story/womanizer-coupon/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
-    "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-    "url": "https://www.wired.com/story/att-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "The balcony solar boom is coming to the US",
-    "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems co",
-    "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
-    "date": "2026-05-07",
-    "source": "MIT Tech Review",
-    "tags": [
-      "Climate change and energy",
-      "App",
-      "The Spark"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "What’s next for IVF",
-    "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Forty-eight years ago this July, Louise Joy Brown became the world’s first person born with the help of in vitro fertilization. Mil",
-    "url": "https://www.technologyreview.com/2026/05/07/1136946/whats-next-for-ivf-ai-robot-pgt-gene-editing/",
-    "date": "2026-05-07",
-    "source": "MIT Tech Review",
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary",
-      "What's Next in Tech"
     ]
   }
 ]
