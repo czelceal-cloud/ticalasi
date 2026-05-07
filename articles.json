@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Permacomputing Principles",
-    "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 20\n# Comments: 0",
-    "url": "https://permacomputing.net/principles/",
+    "title": "Building the TD4 4-Bit CPU",
+    "summary": "Article URL: https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html\nComments URL: https://news.ycombinator.com/item?id=48045384\nPoints: 6\n# Comments: 2",
+    "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "The Vatican's Website in Latin",
-    "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 68\n# Comments: 43",
-    "url": "https://www.vatican.va/latin/latin_index.html",
+    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
+    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 6\n# Comments: 2",
+    "url": "https://arxiv.org/abs/2605.03546",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -23,172 +23,351 @@
   },
   {
     "id": "003",
-    "title": "From Zero to Job Data Visualization vs Power BI: Which Wins?",
-    "summary": "In Q3 2024, 72% of engineering teams building job data pipelines reported wasted spend on BI tools they couldn't customize—we benchmarked custom viz from zero against Power BI to find the breaking point.\n\n\n  \n  \n  📡 Hacker News Top Stories Right Now\n\n\n\n  Valve releases Steam Controller CAD files und",
-    "url": "https://dev.to/johalputt/from-zero-to-job-data-visualization-vs-power-bi-which-wins-l9p",
+    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 43\n# Comments: 11",
+    "url": "https://aniket.foo/posts/20260505-netboot/",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "zero",
-      "data",
-      "visualization",
-      "power"
+      "Hacker News"
     ]
   },
   {
     "id": "004",
-    "title": "How to Install NVIDIA Drivers on Fedora 44",
-    "summary": "This guide covers the RPM Fusion method — the recommended and most maintainable way to install NVIDIA proprietary drivers on Fedora. No manual .run installers, no broken dnf states.\n\n\n  \n  \n  Prerequisites\n\n\nBefore you start, make sure your system is fully up to date\n\n\n\nsudo dnf upgrade --refresh\n\n\n",
-    "url": "https://dev.to/kavindotdev/how-to-install-nvidia-drivers-on-fedora-44-1b9a",
+    "title": "Permacomputing Principles",
+    "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 74\n# Comments: 13",
+    "url": "https://permacomputing.net/principles/",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "linux",
-      "nvidia",
-      "nividagpu",
-      "fedora44"
+      "Hacker News"
     ]
   },
   {
     "id": "005",
-    "title": "Building EDIFlow - Infrastructure Layer: Parsers, Repositories & Data Packages (Part 4)",
-    "summary": "Series: Building EDIFlow - A Clean Architecture Journey in TypeScript (Part 4/6)\nReading Time: ~12 minutes\n\n\n\n  \n  \n  Recap — Where We Left Off\n\n\nIn Part 3, we built the Application Layer — Use Cases, Output Ports (interfaces), DTOs, and the UseCaseFactory. Everything depends on abstractions, nothin",
-    "url": "https://dev.to/helloediflow/building-ediflow-infrastructure-layer-parsers-repositories-data-packages-part-4-4hjn",
+    "title": "The Vatican's Website in Latin",
+    "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 92\n# Comments: 59",
+    "url": "https://www.vatican.va/latin/latin_index.html",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "typescript",
-      "cleanarchitecture",
-      "opensource",
-      "edi"
+      "Hacker News"
     ]
   },
   {
     "id": "006",
-    "title": "SwiftDeploy: A Tool That Writes Its Own Infrastructure",
-    "summary": "What is SwiftDeploy?\n\n\nMost DevOps work involves writing config files manually — nginx.conf, docker-compose.yml, environment variables. SwiftDeploy flips this. You describe what you want in one file (manifest.yaml) and the tool generates everything else automatically.\nThe manifest is the single sour",
-    "url": "https://dev.to/mordecai_amehson/swiftdeploy-a-tool-that-writes-its-own-infrastructure-170d",
+    "title": "RSS Feeds Send Me More Traffic Than Google",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\nComments URL: https://news.ycombinator.com/item?id=48043964\nPoints: 27\n# Comments: 2",
+    "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "devops"
+      "Hacker News"
     ]
   },
   {
     "id": "007",
-    "title": "I built a 200 line AI router in TypeScript. My monthly bill dropped 41%.",
-    "summary": "I track my own AI spend across three projects. In March, the line item that grew fastest was not Claude or GPT calls. It was my Cursor seat plus my Copilot seat plus the Anthropic API I was hitting from a personal CLI. Three subscriptions, three meters, and the same Opus tokens billed twice because ",
-    "url": "https://dev.to/thegdsks/i-built-a-200-line-ai-router-in-typescript-my-monthly-bill-dropped-41-23ok",
+    "title": "Five architects of the AI economy explain where the wheels are coming off",
+    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec",
+    "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "TechCrunch",
     "tags": [
-      "typescript",
-      "ai",
-      "webdev",
-      "tutorial"
+      "AI",
+      "TC",
+      "applied intuition",
+      "ASML",
+      "Christophe Fouquet",
+      "Dimitry Shevelenko",
+      "Eve Bodnia",
+      "Francis deSouza",
+      "google cloud",
+      "Logical Intelligence",
+      "Milken Institute",
+      "Qasar Younis"
     ]
   },
   {
     "id": "008",
-    "title": "⚖️ Case File 1.2: The Irreversibility Trap",
-    "summary": "Blueprint Felonies Continued..\n\n\nThe most expensive mistake in architecture isn’t making the wrong decision—it’s making it too early.\n\n\nIn 17+ years of building enterprise systems, I’ve seen developers sprint toward \"final\" decisions as if they were winning a race. They lock themselves into propriet",
-    "url": "https://dev.to/manojsatna31/case-file-12-the-irreversibility-trap-blueprint-felonies-continued-49g7",
+    "title": "Vimeo Promo Code: 40% Off This May 2026",
+    "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+    "url": "https://www.wired.com/story/vimeo-promo-code/",
     "date": "2026-05-07",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "webdev",
-      "beginners",
-      "programming",
-      "productivity"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "009",
-    "title": "Cloudflare and Stripe just let agents buy domains and ship code. Here is the API.",
-    "summary": "On April 30, Cloudflare quietly published a blog post and a docs page that nobody outside the agentic AI crowd noticed for about 24 hours. The headline buried a real shift. AI agents can now provision a Cloudflare account, register a domain, attach a Stripe payment method, deploy a Worker, and hand ",
-    "url": "https://dev.to/thegdsks/cloudflare-and-stripe-just-let-agents-buy-domains-and-ship-code-here-is-the-api-59pb",
+    "title": "Walmart Promo Codes: 65% Off",
+    "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Groupon Promo Codes: 60% Off in May 2026",
+    "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+    "url": "https://www.wired.com/story/groupon-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "HP Discount Codes: 60% Off May 2026",
+    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+    "url": "https://www.wired.com/story/hp-coupon-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Maytag Promo Codes: 15% Off Appliances",
+    "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+    "url": "https://www.wired.com/story/maytag-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Womanizer Coupons: Save 15% in May",
+    "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
+    "url": "https://www.wired.com/story/womanizer-coupon/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
+    "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+    "url": "https://www.wired.com/story/att-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Target Promo Code: $50 Off | May 2026",
+    "summary": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
+    "url": "https://www.wired.com/story/target-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "How to Build a Pay-Per-Call MCP Server with x402 and USDC",
+    "summary": "If you've built MCP servers for Claude Code, you know the distribution problem: anyone who installs your server gets unlimited free access. There's no clean way to charge per call without rolling your own auth + billing.\n\nx402 solves this at the HTTP layer. Here's how to build a pay-per-call MCP ser",
+    "url": "https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "mcp",
+      "x402",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "System Architecture",
+    "summary": "A production-ready coding agent is a complex system composed of several critical components working in unison. While the model provides the intelligence, the surrounding infrastructure is what enables it to interact with files, run commands, and maintain safety. The next Figure shows the key compone",
+    "url": "https://dev.to/pandeyaditya0002/system-architecture-31dh",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "agents",
+      "ai",
+      "architecture",
+      "llm"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more",
+    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n  \n  \n  Gemma 4 Complete Guide 2026\n\n\n\nGemma 4 is shaping up to be the most consequential open weight model release of the year, and the headline is not just the leaderboard scores. Google shipped four model sizes, native multimod",
+    "url": "https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Rate Limits Are a Feature, Not a Bug",
+    "summary": "Most scraper \"incidents\" I'm pulled into start the same way: someone shows me a graph of 429 responses and asks how to make them go away. The honest answer — that nobody likes — is that the 429s are the well-behaved part of the system. The rest is what's broken.\n\nI'm going to argue that rate limits ",
+    "url": "https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "api",
+      "architecture",
+      "softwareengineering",
+      "webscraping"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture & CQRS in .NET 8",
+    "summary": "Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture & CQRS in .NET 8\n\n\n\nFull source code: github.com/naimulkarim/TicketingSystem\n\nStack: .NET 8 · Angular 17 · SQL Server · RabbitMQ · Redis · MassTransit · MediatR · YARP · Docker · GitHub Actions\n\n\n\n\n\nWhen you buy a con",
+    "url": "https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "architecture",
+      "csharp",
+      "dotnet",
+      "microservices"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Postmortem: A Vercel Edge Function Timeout Caused Our Global API to Fail for 30 Minutes",
+    "summary": "Postmortem: A Vercel Edge Function Timeout Caused Our Global API to Fail for 30 Minutes\n\n\nOn October 17, 2024, at 14:22 UTC, our global API experienced a complete outage lasting 30 minutes, caused by a misconfigured timeout setting on a Vercel Edge Function. This postmortem details the incident time",
+    "url": "https://dev.to/johalputt/postmortem-a-vercel-edge-function-timeout-caused-our-global-api-to-fail-for-30-minutes-4lba",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "postmortem",
+      "vercel",
+      "edge",
+      "function"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Stop Typing Your Slack Messages — Use Your Voice Instead (Windows)",
+    "summary": "I type fast. Around 90 WPM on a good day. But even at that speed, I am constantly falling behind in Slack.\n\nSlack is a different kind of typing. It is not flowing prose — it is reactive, rapid-fire, context-switching every two minutes. By the time I have typed out a coherent response, three more mes",
+    "url": "https://dev.to/howmindswork/stop-typing-your-slack-messages-use-your-voice-instead-windows-5hd5",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "productivity",
+      "windows",
+      "devtools",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "How Fast Do Developers Actually Type? (And Why It Matters More Than You Think)",
+    "summary": "You spend 8 hours a day at a keyboard. You've memorised Git commands, debugged memory leaks at 2am, and built things people actually use.\nBut have you ever actually measured how fast you type?\nMost developers haven't. And that's a problem — because your typing speed is silently bottlenecking everyth",
+    "url": "https://dev.to/devwpm_0892a689ff9c3fb52e/how-fast-do-developers-actually-type-and-why-it-matters-more-than-you-think-1bba",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "productivity",
+      "programming",
+      "career"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "I Shipped My First Indie Product. Here Is What Actually Happened.",
+    "summary": "37 days. A Chrome extension with an AI reading assistant. Full cycle: idea, build, release, marketing, exit. My first indie project under the Indie Labs brand.\n\nResult: 11 installs, 0 active users, 0 revenue. Now open-source and self-hosted.\n\nThis is not a success story. But it is an honest one.\n\n\n\n",
+    "url": "https://dev.to/indie_labs/i-shipped-my-first-indie-product-here-is-what-actually-happened-32df",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
       "ai",
       "javascript",
-      "webdev",
-      "cloudflare"
+      "opensource",
+      "buildinpublic"
     ]
   },
   {
-    "id": "010",
-    "title": "From Passwords to Keypairs: Understanding Solana Identity as a Web2 Developer",
-    "summary": "When I first started learning Solana, I thought a crypto wallet was basically a digital bank account that stored cryptocurrency. After spending the first week learning about wallets, keypairs, and blockchain identity, I realized that idea was completely wrong. A wallet does not actually store your c",
-    "url": "https://dev.to/janespot/from-passwords-to-keypairs-understanding-solana-identity-as-a-web2-developer-3cl0",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "100daysofsolana",
-      "solana",
-      "web3",
-      "blockchain"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "How to Read a PCB Schematic – A Beginner‘s Guide",
-    "summary": "Understanding symbols, nets, and connections before you start designing\n\nIntroduction\n\nSo you want to design a PCB. Or maybe you just need to understand an existing circuit.\n\nEither way, you need to read a schematic.\n\nA schematic is the blueprint of your circuit. It shows every component, every conn",
-    "url": "https://dev.to/maggie-pcb/how-to-read-a-pcb-schematic-a-beginners-guide-2mlk",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "pcbdesign",
-      "electronics",
-      "tutorial",
-      "beginners"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Repo analyzer tool",
-    "summary": "Hello people!\nrecently working on a small project of mine (CodeLens Ai)\nIt analyzes a GitHub repository and:\n\ngenerates file summaries\nexplains functions/classes\nhighlights possible issues\nmakes the codebase easier to navigate\nI switched to groq from ollama for better speed and it turned out pretty ",
-    "url": "https://dev.to/kaddudon_agarwal_b5da0a67/repo-analyzer-tool-5a3i",
+    "id": "025",
+    "title": "Groq vs OpenAI Whisper: Real Benchmarks for Voice Transcription (2026)",
+    "summary": "I've been building dictate.app — a Windows dictation tool — and the biggest decision early on was which Whisper API to use. I ran both Groq and OpenAI through real-world testing. Here's what the numbers actually look like.\n\n\n  \n  \n  Why Whisper APIs, Not Local Models\n\n\nLocal Whisper (running on your",
+    "url": "https://dev.to/howmindswork/groq-vs-openai-whisper-real-benchmarks-for-voice-transcription-2026-46lk",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "python",
-      "showdev",
-      "tooling"
+      "webdev",
+      "tutorial",
+      "productivity"
     ]
   },
   {
-    "id": "013",
-    "title": "Building a FHIR-Compliant ADT Database: Encounters, Polymorphism, and Facades",
-    "summary": "Building a FHIR-Compliant ADT Database: Encounters, Polymorphism, and Facades\n\n\nIf you are a software engineer building a healthcare application today, you're inevitably going to cross paths with HL7 FHIR (Fast Healthcare Interoperability Resources). FHIR is fantastic as a standardized API format fo",
-    "url": "https://dev.to/yusdirman/building-a-fhir-compliant-adt-database-encounters-polymorphism-and-facades-7n5",
+    "id": "026",
+    "title": "AI-Assisted Peer Review Is a Feedback Loop Problem",
+    "summary": "---\ntitle: \"AI-Assisted Peer Review Is a Feedback Loop Problem\"\ndescription: \"AI-assisted peer review systems fail because their feedback loops amplify bias without governance, not because of AI capabilities.\"\ndate: 2026-04-17\ncategories: ['AI Quality', 'Feedback Loops', 'AI Pipeline Design']\ndraft:",
+    "url": "https://dev.to/talvinder/ai-assisted-peer-review-is-a-feedback-loop-problem-2cpk",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "mariadb",
-      "hl7",
-      "fhir"
+      "aiquality",
+      "feedbackloops",
+      "aipipelinedesign"
     ]
   },
   {
-    "id": "014",
-    "title": "Latency vs Throughput",
-    "summary": "LeetDezine\n\nThe first time I heard \"optimize for latency,\" I thought it meant \"make it fast.\" So I turned off batching, flushed writes immediately, set Kafka's linger.ms to 0.\n\nThe system responded faster. And handled way less load.\n\nLatency and throughput pull in opposite directions. Making your sy",
-    "url": "https://dev.to/leetdezine/latency-vs-throughput-20g",
+    "id": "027",
+    "title": "Agentic AI Identity Is the Next Frontier in Trust and Compliance",
+    "summary": "Agentic AI without distinct, verifiable digital identities is a ticking time bomb for trust and regulatory compliance. The failures we see in AI systems are not random bugs—they are symptoms of missing identity frameworks that assign accountability and enable transparency. M3’s 2023 AI ethics master",
+    "url": "https://dev.to/talvinder/agentic-ai-identity-is-the-next-frontier-in-trust-and-compliance-4ag6",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "architecture",
-      "backend",
-      "performance",
-      "systemdesign"
+      "agents",
+      "ai",
+      "cybersecurity",
+      "security"
     ]
   },
   {
-    "id": "015",
+    "id": "028",
     "title": "What British people mean when they say 'sorry'",
-    "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry\nComments URL: https://news.ycombinator.com/item?id=48043184\nPoints: 24\n# Comments: 11",
+    "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry\nComments URL: https://news.ycombinator.com/item?id=48043184\nPoints: 52\n# Comments: 35",
     "url": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -197,9 +376,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "029",
     "title": "SQLite Is a Library of Congress Recommended Storage Format",
-    "summary": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 51\n# Comments: 15",
+    "summary": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 120\n# Comments: 28",
     "url": "https://sqlite.org/locrsf.html",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -208,189 +387,14 @@
     ]
   },
   {
-    "id": "017",
+    "id": "030",
     "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
-    "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 37\n# Comments: 9",
+    "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 54\n# Comments: 13",
     "url": "https://github.com/olivier-ls/php-fts",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
       "Hacker News"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Inkscape 1.4.4",
-    "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 241\n# Comments: 67",
-    "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Programming Still Sucks",
-    "summary": "Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp\nComments URL: https://news.ycombinator.com/item?id=48040269\nPoints: 167\n# Comments: 34",
-    "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Learning the Integral of a Diffusion Model",
-    "summary": "Article URL: https://sander.ai/2026/05/06/flow-maps.html\nComments URL: https://news.ycombinator.com/item?id=48040002\nPoints: 112\n# Comments: 19",
-    "url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-    "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 234\n# Comments: 223",
-    "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "From Supabase to Clerk to Better Auth",
-    "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 221\n# Comments: 150",
-    "url": "https://blog.val.town/better-auth",
-    "date": "2026-05-06",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
-    "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
-    "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Lachy Groom",
-      "pronto"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
-    "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Barry Diller",
-      "sam altman"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
-    "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Perplexity",
-      "Snap",
-      "Snapchat"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Is xAI a neocloud now?",
-    "summary": "xAI's real business may be more about building data centers than training AI models.",
-    "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "data center",
-      "Elon Musk",
-      "neocloud",
-      "SpaceX",
-      "xAI"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
-    "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
-    "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Venture",
-      "In Brief",
-      "InsuranceTech",
-      "Y Combinator",
-      "yc"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Microsoft’s AI data center push is colliding with its clean power goals",
-    "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
-    "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "Climate",
-      "data centers",
-      "Microsoft",
-      "net zero",
-      "renewable energy"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
-    "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
-    "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "Fintech",
-      "Venture",
-      "Robinhood",
-      "Vlad Tenev"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
-    "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "date": "2026-05-06",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "greg brockman",
-      "OpenAI",
-      "openai lawsuit"
     ]
   }
 ]
