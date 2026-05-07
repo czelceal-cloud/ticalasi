@@ -2,7 +2,7 @@
   {
     "id": "001",
     "title": "Building the TD4 4-Bit CPU",
-    "summary": "Article URL: https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html\nComments URL: https://news.ycombinator.com/item?id=48045384\nPoints: 6\n# Comments: 2",
+    "summary": "Article URL: https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html\nComments URL: https://news.ycombinator.com/item?id=48045384\nPoints: 14\n# Comments: 6",
     "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -13,7 +13,7 @@
   {
     "id": "002",
     "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 6\n# Comments: 2",
+    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 30\n# Comments: 18",
     "url": "https://arxiv.org/abs/2605.03546",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 43\n# Comments: 11",
+    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 70\n# Comments: 27",
     "url": "https://aniket.foo/posts/20260505-netboot/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "Permacomputing Principles",
-    "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 74\n# Comments: 13",
+    "summary": "Article URL: https://permacomputing.net/principles/\nComments URL: https://news.ycombinator.com/item?id=48044638\nPoints: 113\n# Comments: 42",
     "url": "https://permacomputing.net/principles/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -46,7 +46,7 @@
   {
     "id": "005",
     "title": "The Vatican's Website in Latin",
-    "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 92\n# Comments: 59",
+    "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 133\n# Comments: 75",
     "url": "https://www.vatican.va/latin/latin_index.html",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -57,7 +57,7 @@
   {
     "id": "006",
     "title": "RSS Feeds Send Me More Traffic Than Google",
-    "summary": "Article URL: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\nComments URL: https://news.ycombinator.com/item?id=48043964\nPoints: 27\n# Comments: 2",
+    "summary": "Article URL: https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/\nComments URL: https://news.ycombinator.com/item?id=48043964\nPoints: 73\n# Comments: 14",
     "url": "https://shkspr.mobi/blog/2026/05/rss-feeds-send-me-more-traffic-than-google/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -117,49 +117,6 @@
   },
   {
     "id": "010",
-    "title": "Groupon Promo Codes: 60% Off in May 2026",
-    "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
-    "url": "https://www.wired.com/story/groupon-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "HP Discount Codes: 60% Off May 2026",
-    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-    "url": "https://www.wired.com/story/hp-coupon-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Maytag Promo Codes: 15% Off Appliances",
-    "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-    "url": "https://www.wired.com/story/maytag-promo-code/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "013",
     "title": "Womanizer Coupons: Save 15% in May",
     "summary": "Save on the Womanizer Duo Premium and more with our latest Womanizer discount codes.",
     "url": "https://www.wired.com/story/womanizer-coupon/",
@@ -173,7 +130,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "011",
     "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
     "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
     "url": "https://www.wired.com/story/att-promo-code/",
@@ -183,6 +140,49 @@
       "Gear",
       "coupons",
       "Shopping"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Groupon Promo Codes: 60% Off in May 2026",
+    "summary": "Unlock up to 60% off, 40% off packages, and 20% off with top Groupon coupon codes. Explore coupons to save extra on travel getaways, holiday gifts, spa days, and event tickets.",
+    "url": "https://www.wired.com/story/groupon-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "HP Discount Codes: 60% Off May 2026",
+    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+    "url": "https://www.wired.com/story/hp-coupon-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Maytag Promo Codes: 15% Off Appliances",
+    "summary": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
+    "url": "https://www.wired.com/story/maytag-promo-code/",
+    "date": "2026-05-07",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
@@ -201,174 +201,171 @@
   },
   {
     "id": "016",
-    "title": "How to Build a Pay-Per-Call MCP Server with x402 and USDC",
-    "summary": "If you've built MCP servers for Claude Code, you know the distribution problem: anyone who installs your server gets unlimited free access. There's no clean way to charge per call without rolling your own auth + billing.\n\nx402 solves this at the HTTP layer. Here's how to build a pay-per-call MCP ser",
-    "url": "https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk",
+    "title": "I Tested My AI Pipeline 6 Times and Found 9 Bugs. The Model Caused Zero of Them.",
+    "summary": "I tested my autonomous content pipeline six times and found nine bugs.\n\nThe model caused exactly zero of them.\n\nEvery single failure was in the harness -- the environment around the model. This post walks through all nine, what caused them, and the one fix that retired most of them at once.\n\n\n  \n  \n",
+    "url": "https://dev.to/kenimo49/i-tested-my-ai-pipeline-6-times-and-found-9-bugs-the-model-caused-zero-of-them-31oo",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "mcp",
-      "x402",
-      "tutorial"
+      "ai",
+      "claudecode",
+      "automation",
+      "devops"
     ]
   },
   {
     "id": "017",
-    "title": "System Architecture",
-    "summary": "A production-ready coding agent is a complex system composed of several critical components working in unison. While the model provides the intelligence, the surrounding infrastructure is what enables it to interact with files, run commands, and maintain safety. The next Figure shows the key compone",
-    "url": "https://dev.to/pandeyaditya0002/system-architecture-31dh",
+    "title": "The Time Arrow of Creativity: Why AI Looks Backward and Humans Look Forward",
+    "summary": "The Time Arrow of Creativity: Why AI Looks Backward and Humans Look Forward\n\n\n\nA debate about the nature of creativity revealed an overlooked distinction.\n\n\n\n\n\n\n  \n  \n  An Uncomfortable Question\n\n\nAsk GLM-5 to write a poem about heartbreak, and it will deliver. Precise metaphors, fluid rhythm, maybe",
+    "url": "https://dev.to/zhangzeyu/the-time-arrow-of-creativity-why-ai-looks-backward-and-humans-look-forward-1n12",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "agents",
       "ai",
-      "architecture",
-      "llm"
+      "creativity",
+      "vibecoding"
     ]
   },
   {
     "id": "018",
-    "title": "Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more",
-    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n  \n  \n  Gemma 4 Complete Guide 2026\n\n\n\nGemma 4 is shaping up to be the most consequential open weight model release of the year, and the headline is not just the leaderboard scores. Google shipped four model sizes, native multimod",
-    "url": "https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9",
+    "title": "Your Bash CI Scripts Are a Ticking Time Bomb — Here's What to Use Instead",
+    "summary": "TL;DR: The thing that finally broke our bash-based pipeline wasn't a catastrophic failure — it was a Tuesday afternoon where three engineers spent 45 minutes staring at a deploy script trying to figure out why exit code 0 was returned on a job that clearly hadn't finished correctly.  \n\n\n📖 Reading ti",
+    "url": "https://dev.to/ericwoooo_kr/your-bash-ci-scripts-are-a-ticking-time-bomb-heres-what-to-use-instead-3b7c",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "productivity",
+      "tools",
+      "webdev",
+      "discuss"
     ]
   },
   {
     "id": "019",
-    "title": "Rate Limits Are a Feature, Not a Bug",
-    "summary": "Most scraper \"incidents\" I'm pulled into start the same way: someone shows me a graph of 429 responses and asks how to make them go away. The honest answer — that nobody likes — is that the 429s are the well-behaved part of the system. The rest is what's broken.\n\nI'm going to argue that rate limits ",
-    "url": "https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm",
+    "title": "Lessons from Building My First Claude Skill - a code tutorial generator",
+    "summary": "Sometime around last year, I started a project (Waver) that would generate tutorials from a codebase. Easy to follow tutorials in pure markdown + mermaid diagrams, so any person could be onboarded with ease, projects could add it to project pipelines etc. The idea was simple, I chose Langchain4J to ",
+    "url": "https://dev.to/sshaaf/lessons-from-building-my-first-claude-skill-a-code-tutorial-generator-3onm",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "architecture",
-      "softwareengineering",
-      "webscraping"
+      "llm",
+      "tools"
     ]
   },
   {
     "id": "020",
-    "title": "Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture & CQRS in .NET 8",
-    "summary": "Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture & CQRS in .NET 8\n\n\n\nFull source code: github.com/naimulkarim/TicketingSystem\n\nStack: .NET 8 · Angular 17 · SQL Server · RabbitMQ · Redis · MassTransit · MediatR · YARP · Docker · GitHub Actions\n\n\n\n\n\nWhen you buy a con",
-    "url": "https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n",
+    "title": "I Built an AI Token Calculator Because Long Prompts Need a Sanity Check",
+    "summary": "I keep running into the same small problem when working with LLMs: a prompt looks fine in a text editor, but I still need to know whether it is going to fit inside the model context window before I send it.\n\nThat is why I added a new tool to Tools Online: AI Token Calculator.\n\nIt is a browser-based ",
+    "url": "https://dev.to/zley_34b5414ca5e486c1c333/i-built-an-ai-token-calculator-because-long-prompts-need-a-sanity-check-57eg",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "architecture",
-      "csharp",
-      "dotnet",
-      "microservices"
+      "ai",
+      "webdev",
+      "productivity",
+      "tools"
     ]
   },
   {
     "id": "021",
-    "title": "Postmortem: A Vercel Edge Function Timeout Caused Our Global API to Fail for 30 Minutes",
-    "summary": "Postmortem: A Vercel Edge Function Timeout Caused Our Global API to Fail for 30 Minutes\n\n\nOn October 17, 2024, at 14:22 UTC, our global API experienced a complete outage lasting 30 minutes, caused by a misconfigured timeout setting on a Vercel Edge Function. This postmortem details the incident time",
-    "url": "https://dev.to/johalputt/postmortem-a-vercel-edge-function-timeout-caused-our-global-api-to-fail-for-30-minutes-4lba",
+    "title": "A Complete Guide to Networking on Linux Systems for File and Data Sharing",
+    "summary": "Network file sharing between Linux systems forms the backbone of efficient data management in modern IT environments. Whether you are managing a home lab, administering enterprise servers, or simply transferring files between personal machines, understanding how to configure file sharing across Linu",
+    "url": "https://dev.to/hishantik/a-complete-guide-to-networking-on-linux-systems-for-file-and-data-sharing-126f",
     "date": "2026-05-07",
     "source": "Dev.to",
     "tags": [
-      "postmortem",
-      "vercel",
-      "edge",
-      "function"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Stop Typing Your Slack Messages — Use Your Voice Instead (Windows)",
-    "summary": "I type fast. Around 90 WPM on a good day. But even at that speed, I am constantly falling behind in Slack.\n\nSlack is a different kind of typing. It is not flowing prose — it is reactive, rapid-fire, context-switching every two minutes. By the time I have typed out a coherent response, three more mes",
-    "url": "https://dev.to/howmindswork/stop-typing-your-slack-messages-use-your-voice-instead-windows-5hd5",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "productivity",
-      "windows",
-      "devtools",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "How Fast Do Developers Actually Type? (And Why It Matters More Than You Think)",
-    "summary": "You spend 8 hours a day at a keyboard. You've memorised Git commands, debugged memory leaks at 2am, and built things people actually use.\nBut have you ever actually measured how fast you type?\nMost developers haven't. And that's a problem — because your typing speed is silently bottlenecking everyth",
-    "url": "https://dev.to/devwpm_0892a689ff9c3fb52e/how-fast-do-developers-actually-type-and-why-it-matters-more-than-you-think-1bba",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "productivity",
-      "programming",
-      "career"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "I Shipped My First Indie Product. Here Is What Actually Happened.",
-    "summary": "37 days. A Chrome extension with an AI reading assistant. Full cycle: idea, build, release, marketing, exit. My first indie project under the Indie Labs brand.\n\nResult: 11 installs, 0 active users, 0 revenue. Now open-source and self-hosted.\n\nThis is not a success story. But it is an honest one.\n\n\n\n",
-    "url": "https://dev.to/indie_labs/i-shipped-my-first-indie-product-here-is-what-actually-happened-32df",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "javascript",
-      "opensource",
-      "buildinpublic"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Groq vs OpenAI Whisper: Real Benchmarks for Voice Transcription (2026)",
-    "summary": "I've been building dictate.app — a Windows dictation tool — and the biggest decision early on was which Whisper API to use. I ran both Groq and OpenAI through real-world testing. Here's what the numbers actually look like.\n\n\n  \n  \n  Why Whisper APIs, Not Local Models\n\n\nLocal Whisper (running on your",
-    "url": "https://dev.to/howmindswork/groq-vs-openai-whisper-real-benchmarks-for-voice-transcription-2026-46lk",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "webdev",
+      "networking",
       "tutorial",
-      "productivity"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "AI-Assisted Peer Review Is a Feedback Loop Problem",
-    "summary": "---\ntitle: \"AI-Assisted Peer Review Is a Feedback Loop Problem\"\ndescription: \"AI-assisted peer review systems fail because their feedback loops amplify bias without governance, not because of AI capabilities.\"\ndate: 2026-04-17\ncategories: ['AI Quality', 'Feedback Loops', 'AI Pipeline Design']\ndraft:",
-    "url": "https://dev.to/talvinder/ai-assisted-peer-review-is-a-feedback-loop-problem-2cpk",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "aiquality",
-      "feedbackloops",
-      "aipipelinedesign"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Agentic AI Identity Is the Next Frontier in Trust and Compliance",
-    "summary": "Agentic AI without distinct, verifiable digital identities is a ticking time bomb for trust and regulatory compliance. The failures we see in AI systems are not random bugs—they are symptoms of missing identity frameworks that assign accountability and enable transparency. M3’s 2023 AI ethics master",
-    "url": "https://dev.to/talvinder/agentic-ai-identity-is-the-next-frontier-in-trust-and-compliance-4ag6",
-    "date": "2026-05-07",
-    "source": "Dev.to",
-    "tags": [
-      "agents",
-      "ai",
-      "cybersecurity",
+      "beginners",
       "security"
     ]
   },
   {
+    "id": "022",
+    "title": "Go Admin Dashboard for E-Commerce with HTMX, Templ UI, and GORM - Part 3",
+    "summary": "This is the final part of the series. In Part 1 and Part 2, the focus was mostly on the UI layer. In this part, the missing backend pieces come together: database models, CRUD handlers, parameter binding, shared services, and response handling.\n\nAs in the previous articles, the examples below are in",
+    "url": "https://dev.to/colafanta/go-admin-dashboard-for-e-commerce-with-htmx-templ-ui-and-gorm-part-3-54oa",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "go",
+      "templ",
+      "htmx",
+      "shadcn"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Austral Language Specification: Strategic Briefing",
+    "summary": "Austral is a systems programming language engineered to prioritize security, readability, and long-term maintainability. Its primary innovation is the integration of a linear type system, which enables manual memory management and resource lifecycle enforcement without the overhead of a garbage coll",
+    "url": "https://dev.to/fullagenticstack/austral-language-specification-strategic-briefing-1780",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "computerscience",
+      "programming",
+      "security",
+      "softwareengineering"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "How We Automated Legal Document Generation for Immigration Law Using AI",
+    "summary": "When people hear \"AI-powered document generation,\" they picture a lawyer typing a prompt and getting a finished brief back in seconds. Clean, simple, magical.\nThat's not how it works. Especially not in immigration law.\nAt LegistAI, we've spent significant time building document automation into the c",
+    "url": "https://dev.to/legist_ai_9bb6886cdc6a5b2/how-we-automated-legal-document-generation-for-immigration-law-using-ai-3jgh",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "legaltech",
+      "ai",
+      "documentautomation",
+      "productengineering"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "I Built a Tool That Does All My DevOps Work For Me.",
+    "summary": "Hi, I’m Adedamola Ayinuola, and I just finished one of the most challenging but rewarding projects I’ve done so far. Imagine you’re building a house. Normally, you have to manually draw the floor plan, install the electricity, set up the plumbing, and test everything yourself.  What if you could jus",
+    "url": "https://dev.to/devdma/i-built-a-tool-that-does-all-my-devops-work-for-me-5bbl",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "Dev.to"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Làm Chủ Clean Code: Từ Nguyên Tắc Cốt Lõi Đến Kỹ Năng Thực Chiến 2026",
+    "summary": "Bài viết này được trích xuất và biên tập lại từ bản gốc Code Clean Là Gì? Hướng Dẫn Thực Hành Chuyên Sâu trên blog ITPrep.\n\nTrong thế giới phát triển phần mềm, cụm từ \"code clean là gì\" đã trở thành một tiêu chuẩn vàng, một triết lý mà mọi lập trình viên chuyên nghiệp đều hướng tới. Nó không chỉ đơn",
+    "url": "https://dev.to/itprepvn/code-clean-la-gi-huong-dan-toan-dien-tu-khai-niem-den-thuc-hanh-chuyen-sau-2026-2ho0",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "cleancode",
+      "programming",
+      "solid",
+      "vietnamese"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "When a Radio Signal Stops a Train",
+    "summary": "A Taiwan high-speed rail incident from earlier this week is a sharp reminder that RF security is not a niche issue. It is part of critical infrastructure resilience.\n\nImage 1: Taiwan High Speed Rail — THSR 700T train on the Taipei–Kaohsiung line. Source: Wikimedia Commons\n\nReports confirm a universi",
+    "url": "https://dev.to/intspired/when-a-radio-signal-stops-a-train-9d3",
+    "date": "2026-05-07",
+    "source": "Dev.to",
+    "tags": [
+      "securityawareness",
+      "criticalinfrastructure",
+      "cybersecurity",
+      "rfsecurity"
+    ]
+  },
+  {
     "id": "028",
-    "title": "What British people mean when they say 'sorry'",
-    "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry\nComments URL: https://news.ycombinator.com/item?id=48043184\nPoints: 52\n# Comments: 35",
-    "url": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry",
+    "title": "Ads on Apple Maps",
+    "summary": "Article URL: https://ads.apple.com/maps\nComments URL: https://news.ycombinator.com/item?id=48043010\nPoints: 36\n# Comments: 27",
+    "url": "https://ads.apple.com/maps",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
@@ -378,7 +375,7 @@
   {
     "id": "029",
     "title": "SQLite Is a Library of Congress Recommended Storage Format",
-    "summary": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 120\n# Comments: 28",
+    "summary": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 188\n# Comments: 47",
     "url": "https://sqlite.org/locrsf.html",
     "date": "2026-05-06",
     "source": "Hacker News",
@@ -388,9 +385,9 @@
   },
   {
     "id": "030",
-    "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
-    "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 54\n# Comments: 13",
-    "url": "https://github.com/olivier-ls/php-fts",
+    "title": "Inkscape 1.4.4",
+    "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 295\n# Comments: 84",
+    "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
     "date": "2026-05-06",
     "source": "Hacker News",
     "tags": [
