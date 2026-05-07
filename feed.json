@@ -7,10 +7,10 @@
   "items": [
     {
       "id": "001",
-      "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-      "title": "UK businesses brace for jet fuel rationing",
-      "summary": "Article URL: https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/\nComments URL: https://news.ycombinator.com/item?id=48042918\nPoints: 56\n# Comments: 25",
-      "date_published": "2026-05-06",
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "title": "The Vatican's Website in Latin",
+      "summary": "Article URL: https://www.vatican.va/latin/latin_index.html\nComments URL: https://news.ycombinator.com/item?id=48044311\nPoints: 17\n# Comments: 4",
+      "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
       ],
@@ -18,10 +18,10 @@
     },
     {
       "id": "002",
-      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
-      "title": "David Sacks crashed and burned in the White House",
-      "summary": "Article URL: https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review\nComments URL: https://news.ycombinator.com/item?id=48042842\nPoints: 60\n# Comments: 26",
-      "date_published": "2026-05-06",
+      "url": "https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/",
+      "title": "How I made $350K from an open-source JavaScript library using dual licensing",
+      "summary": "Article URL: https://www.paritydeals.com/blog/monetize-open-source-dual-licensing/\nComments URL: https://news.ycombinator.com/item?id=48044022\nPoints: 25\n# Comments: 7",
+      "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
       ],
@@ -29,10 +29,10 @@
     },
     {
       "id": "003",
-      "url": "https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code",
-      "title": "Apple is enforcing an old App Store rule against a new kind of software",
-      "summary": "Article URL: https://adaptivesoftware.substack.com/p/the-wrapper-and-the-code\nComments URL: https://news.ycombinator.com/item?id=48042099\nPoints: 44\n# Comments: 11",
-      "date_published": "2026-05-06",
+      "url": "https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/",
+      "title": "Iran hit more U.S. military targets than has been reported, satellite images",
+      "summary": "Article URL: https://www.washingtonpost.com/investigations/2026/05/06/iran-us-bases-satellite-images/\nComments URL: https://news.ycombinator.com/item?id=48043736\nPoints: 69\n# Comments: 39",
+      "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
       ],
@@ -40,10 +40,10 @@
     },
     {
       "id": "004",
-      "url": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
-      "title": "Mickey Mouse is watching you: Disneyland deploys facial recognition",
-      "summary": "Article URL: https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition\nComments URL: https://news.ycombinator.com/item?id=48041953\nPoints: 28\n# Comments: 3",
-      "date_published": "2026-05-06",
+      "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
+      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "summary": "Article URL: https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/\nComments URL: https://news.ycombinator.com/item?id=48043706\nPoints: 20\n# Comments: 7",
+      "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
       ],
@@ -51,64 +51,177 @@
     },
     {
       "id": "005",
-      "url": "https://github.com/olivier-ls/php-fts",
-      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
-      "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 22\n# Comments: 5",
-      "date_published": "2026-05-06",
+      "url": "https://dev.to/mixture-of-experts/open-claude-design-a-weekend-harness-built-on-atomic-2k22",
+      "title": "Open Claude Design: A Weekend Harness Built on Atomic",
+      "summary": "Anthropic released Claude Design (https://www.anthropic.com/news/claude-design-anthropic-labs) on April 17, 2026 — a conversational tool for producing prototypes, slides, and marketing collateral, with a design-system import step, a refinement loop, and a Claude Code handoff bundle at the end.\n\nThre",
+      "date_published": "2026-05-07",
       "tags": [
-        "Hacker News"
+        "ai",
+        "automation",
+        "design",
+        "programming"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
-      "title": "Inkscape 1.4.4",
-      "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 178\n# Comments: 41",
-      "date_published": "2026-05-06",
+      "url": "https://dev.to/kkr0423/reactjs-performance-memory-leak-prevention--177f",
+      "title": "ReactJs Performance ~ Memory Leak Prevention ~",
+      "summary": "Memory leaks gradually reduce the responsiveness of React applications. At first everything feels normal, but after extended usage — around 10 to 15 minutes — the UI may start lagging, animations become choppy, and in severe cases the application can freeze or crash completely.\n\n\n  \n  \n  Frequent Ca",
+      "date_published": "2026-05-07",
       "tags": [
-        "Hacker News"
+        "webdev",
+        "react",
+        "learning",
+        "performance"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://sander.ai/2026/05/06/flow-maps.html",
-      "title": "Learning the Integral of a Diffusion Model",
-      "summary": "Article URL: https://sander.ai/2026/05/06/flow-maps.html\nComments URL: https://news.ycombinator.com/item?id=48040002\nPoints: 75\n# Comments: 17",
-      "date_published": "2026-05-06",
+      "url": "https://dev.to/mixture-of-experts/atomics-workflow-sdk-deterministically-extending-coding-agents-29ph",
+      "title": "Atomic's Workflow SDK: Deterministically Extending Coding Agents",
+      "summary": "Coding agents are great at day-to-day work. What they still can't do reliably — and what keeps you babysitting every step — is finish a long-running, complex task while following your team's specific guardrails. After thousands of hours shipping with coding agents, I've landed on what actually helps",
+      "date_published": "2026-05-07",
       "tags": [
-        "Hacker News"
+        "ai",
+        "programming",
+        "automation",
+        "productivity"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "summary": "Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/\nComments URL: https://news.ycombinator.com/item?id=48039362\nPoints: 179\n# Comments: 170",
-      "date_published": "2026-05-06",
+      "url": "https://dev.to/catssaymeow/are-non-ai-dev-tools-becoming-irrelevant-poh",
+      "title": "Are non-AI dev tools becoming irrelevant?",
+      "summary": "I’m a software engineer, and a big part of my day is debugging issues reported by other teams.\n\nMost of the time I’m:\n\n\nchecking tokens\ncalling APIs\ncomparing JSON responses and traces\nwriting docs\n\n\nI kept jumping between different tools for all of this, and it always felt clunky.\n\nI tried finding ",
+      "date_published": "2026-05-07",
       "tags": [
-        "Hacker News"
+        "webdev",
+        "ai",
+        "productivity",
+        "programming"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
-      "title": "Going Full Time on Open Source",
-      "summary": "Article URL: https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/\nComments URL: https://news.ycombinator.com/item?id=48038864\nPoints: 157\n# Comments: 29",
-      "date_published": "2026-05-06",
+      "url": "https://dev.to/yqqwe/desconstruindo-o-stack-de-midia-do-tiktok-construindo-um-motor-de-extracao-sem-marca-dagua-de-25pg",
+      "title": "Desconstruindo o Stack de Mídia do TikTok: Construindo um Motor de Extração Sem Marca d'Água de Alta Performance",
+      "summary": "Introdução\n\n\nComo desenvolvedores, frequentemente nos fascinamos com a forma como plataformas em escala global gerenciam e distribuem volumes massivos de dados multimídia. O TikTok não é apenas um app de redes sociais; sob a perspectiva de engenharia, é um dos ecossistemas de entrega de conteúdo mai",
+      "date_published": "2026-05-07",
       "tags": [
-        "Hacker News"
+        "webdev",
+        "programming",
+        "tiktok",
+        "video"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://blog.val.town/better-auth",
-      "title": "From Supabase to Clerk to Better Auth",
-      "summary": "Article URL: https://blog.val.town/better-auth\nComments URL: https://news.ycombinator.com/item?id=48038827\nPoints: 180\n# Comments: 107",
+      "url": "https://dev.to/yqqwe/diekonstruktsiia-miedia-stieka-tiktok-postroieniie-vysokoproizvoditielnogho-dvizhka-ekstraktsii-vidieo-biez-1pm5",
+      "title": "Деконструкция медиа-стека TikTok: построение высокопроизводительного движка экстракции видео без водяных знаков",
+      "summary": "Введение\n\n\nДля нас, разработчиков, TikTok — это не просто социальная сеть, а сложнейшая инженерная экосистема распределения контента. С точки зрения системного дизайна, платформа представляет собой вершину современных технологий доставки медиа, использующую адаптивный битрейт (ABR), граничные вычисл",
+      "date_published": "2026-05-07",
+      "tags": [
+        "webdev",
+        "programming",
+        "tiktok",
+        "video"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/yqqwe/bedah-arsitektur-media-tiktok-membangun-engine-ekstraksi-video-tanpa-watermark-berperforma-tinggi-1pfb",
+      "title": "Bedah Arsitektur Media TikTok: Membangun Engine Ekstraksi Video Tanpa Watermark Berperforma Tinggi",
+      "summary": "Pendahuluan\n\n\nSebagai software engineer, kita sering terpukau oleh bagaimana platform skala global seperti TikTok mengelola dan mendistribusikan volume data multimedia yang masif secara real-time. Di balik antarmuka pengguna yang sederhana, terdapat infrastruktur Content Delivery Network (CDN) yang ",
+      "date_published": "2026-05-07",
+      "tags": [
+        "webdev",
+        "programming",
+        "tiktok",
+        "video"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/mixture-of-experts/software-quality-has-never-been-more-vulnerable-52ol",
+      "title": "Software Quality Has Never Been More Vulnerable",
+      "summary": "Anthropic published a postmortem recently. The document was specific, technical, self-critical, and honest about what their full pre-release pipeline failed to catch. Three separate issues degraded Claude Code between March 4 and April 20. All three were fixed by v2.1.116 on April 20, and usage limi",
+      "date_published": "2026-05-07",
+      "tags": [
+        "ai",
+        "coding",
+        "programming",
+        "testing"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/sen-shi/building-a-lightweight-website-monitor-with-cron-and-an-api-3706",
+      "title": "Building a Lightweight Website Monitor with Cron and an API",
+      "summary": "You can build a working website change monitor in under 100 lines of Node.js. No database, no queue, no container orchestration. Just cron, a screenshot API, pixelmatch, and a notification hook. The whole thing runs on a $5/mo VPS or a free GitHub Actions workflow.\n\nHere's the full build, from first",
+      "date_published": "2026-05-07",
+      "tags": [
+        "automation",
+        "javascript",
+        "node",
+        "tutorial"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/gopal_prasad_anayawo/why-backend-developer-are-learning-solana-34b9",
+      "title": "Why backend developer are learning Solana?",
+      "summary": "Solana is one of the cryptocurrencies available in the current Blockchain market that gaining attention to many techies. Whether you are Python, Node or PHP developer, Solana will be one of the first platform to learn web3 technology.\nThis is what I am learning in 100daysofSolana event. In order to ",
+      "date_published": "2026-05-07",
+      "tags": [
+        "100daysofsolana",
+        "solana",
+        "web3",
+        "blockchain"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/harmonyos/passing-parameters-from-a-struct-decorated-with-componentv2-to-a-custom-dialog-decorated-with-2k0g",
+      "title": "Passing parameters from a struct decorated with @ComponentV2 to a custom dialog decorated with @CustomDialog fails",
+      "summary": "Read the original article：Passing parameters from a struct decorated with @ComponentV2 to a custom dialog decorated with @CustomDialog fails\n\n\n  \n  \n  Problem Description\n\n\nIn the @ComponentV2 component, data cannot be directly passed to the @CustomDialog component.\nThe problematic code is as follow",
+      "date_published": "2026-05-07",
+      "tags": [
+        "harmonyos",
+        "navdestination",
+        "customdialog",
+        "customdialogcontroller"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/gbadedata/from-broken-repo-to-policy-gated-deployment-platform-building-swiftdeploy-from-scratch-2nmo",
+      "title": "From Broken Repo to Policy-Gated Deployment Platform: Building SwiftDeploy from Scratch",
+      "summary": "How I built a manifest-driven CLI that generates its own infrastructure, enforces environment policy through OPA, observes the running system in real time, and audits every decision it makes\n\n\n\n\n\nMost deployment tools ask you to write configuration files. SwiftDeploy asks you to describe your intent",
+      "date_published": "2026-05-07",
+      "tags": [
+        "devops",
+        "docker",
+        "opa",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://therecord.media/ADT-data-breach-cyberattack",
+      "title": "ADT says customer data stolen in cyber intrusion",
+      "summary": "Article URL: https://therecord.media/ADT-data-breach-cyberattack\nComments URL: https://news.ycombinator.com/item?id=48043487\nPoints: 13\n# Comments: 2",
       "date_published": "2026-05-06",
       "tags": [
         "Hacker News"
@@ -116,7 +229,62 @@
       "_source": "Hacker News"
     },
     {
-      "id": "011",
+      "id": "018",
+      "url": "https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry",
+      "title": "What British people mean when they say 'sorry'",
+      "summary": "Article URL: https://www.bbc.com/travel/article/20260506-what-british-people-really-mean-when-they-say-sorry\nComments URL: https://news.ycombinator.com/item?id=48043184\nPoints: 8\n# Comments: 2",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
+      "url": "https://sqlite.org/locrsf.html",
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "summary": "Article URL: https://sqlite.org/locrsf.html\nComments URL: https://news.ycombinator.com/item?id=48042434\nPoints: 10\n# Comments: 1",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://github.com/olivier-ls/php-fts",
+      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+      "summary": "Article URL: https://github.com/olivier-ls/php-fts\nComments URL: https://news.ycombinator.com/item?id=48041316\nPoints: 31\n# Comments: 7",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "title": "Inkscape 1.4.4",
+      "summary": "Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html\nComments URL: https://news.ycombinator.com/item?id=48040622\nPoints: 213\n# Comments: 55",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
+      "title": "Programming Still Sucks",
+      "summary": "Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp\nComments URL: https://news.ycombinator.com/item?id=48040269\nPoints: 83\n# Comments: 17",
+      "date_published": "2026-05-06",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
       "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
       "summary": "The investment comes as Pronto scales to 26,000 daily bookings and the market heads toward a potential $18 billion size.",
@@ -129,7 +297,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
       "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
       "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
@@ -143,7 +311,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
       "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
       "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
@@ -159,7 +327,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
       "title": "Is xAI a neocloud now?",
       "summary": "xAI's real business may be more about building data centers than training AI models.",
@@ -176,7 +344,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/06/insurance-startup-corgi-hits-1-3b-valuation-4-months-after-its-series-a/",
       "title": "Insurance startup Corgi hits $1.3B valuation 4 months after its Series A",
       "summary": "Corgi announced on Wednesday a $160 million Series B, led by TCV, valuing the startup at $1.3 billion.",
@@ -192,7 +360,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/06/microsofts-ai-data-center-push-is-colliding-with-its-clean-power-goals/",
       "title": "Microsoft’s AI data center push is colliding with its clean power goals",
       "summary": "The push for new data centers at Microsoft is putting its key clean power goals at risk.",
@@ -207,7 +375,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/06/robinhoods-venture-fund-ipo-attracted-150000-retail-investors-ceo-says/",
       "title": "Robinhood’s venture fund IPO attracted 150,000+ retail investors, CEO says",
       "summary": "Robinhood CEO Vlad Tenev says more than 150,000 retail investors joined the fintech’s new venture fund, which offers exposure to private tech companies like OpenAI, Stripe, Databricks, and Oura before they go public.",
@@ -221,7 +389,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
       "title": "How Elon Musk left OpenAI, according to Greg Brockman",
       "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI.",
@@ -232,199 +400,6 @@
         "greg brockman",
         "OpenAI",
         "openai lawsuit"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://techcrunch.com/2026/05/06/doj-says-ransomware-gang-tapped-into-russian-government-databases/",
-      "title": "DOJ says ransomware gang tapped into Russian government databases",
-      "summary": "U.S. prosecutors said a ransomware gang fueled Russian government corruption, and allowed the gang's leaders to avoid paying taxes and dodge the country's military draft.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Security",
-        "cyberattacks",
-        "cybercriminals",
-        "cybersecurity",
-        "justice department",
-        "Kremlin",
-        "ransomware",
-        "Russian government"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/06/ai-evaluation-startup-braintrust-confirms-breach-tells-every-customer-to-rotate-sensitive-keys/",
-      "title": "AI evaluation startup Braintrust confirms breach, tells every customer to rotate sensitive keys",
-      "summary": "Braintrust, a startup that makes an “operating system for engineers building AI software,” notified customers that hackers broke into one of its Amazon cloud environments, and is asking customers to rotate their API keys.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Security",
-        "AI",
-        "Braintrust",
-        "cybersecurity",
-        "data breach",
-        "hackers",
-        "hacking"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-      "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Elon Musk",
-        "In Brief",
-        "Intel",
-        "semiconductors",
-        "SpaceX",
-        "xAI"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "022",
-      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Startups",
-        "China",
-        "deepseek",
-        "In Brief"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "023",
-      "url": "https://techcrunch.com/2026/05/06/chrome-on-android-now-supports-approximate-instead-of-precise-location-sharing/",
-      "title": "Chrome on Android now supports approximate instead of precise location sharing",
-      "summary": "The new feature is a small win for Android users, as it gives them more control over how much location data they share with websites.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Apps",
-        "Android",
-        "Chrome",
-        "Google",
-        "In Brief"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "ai overviews",
-        "Google",
-        "Google Search",
-        "Reddit"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing complex tasks.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Robotics",
-        "Startups",
-        "foundational models",
-        "genesis",
-        "Genesis AI"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Apps",
-        "dating apps",
-        "Match Group"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Apple",
-        "Apple Intelligence",
-        "lawsuit",
-        "siri"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "summary": "Ethos says it is onboarding 35,000 experts per week.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Fundraising",
-        "a16z",
-        "ethos",
-        "expert networks",
-        "General Catalyst",
-        "voice AI"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/06/aurora-lands-mclane-deal-to-run-driverless-truck-routes-in-texas/",
-      "title": "Aurora lands McLane deal to run driverless truck routes in Texas",
-      "summary": "Aurora said it plans to expand to new routes between McLane distribution centers across the U.S. Sun Belt by the end of 2026.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Transportation",
-        "aurora",
-        "Aurora Innovation",
-        "autonomous vehicles",
-        "self-driving trucks"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-      "summary": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live.",
-      "date_published": "2026-05-06",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI",
-        "M&A",
-        "TechCrunch Disrupt",
-        "coinbase"
       ],
       "_source": "TechCrunch"
     }
