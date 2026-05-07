@@ -1,6 +1,83 @@
 [
   {
     "id": "001",
+    "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+    "summary": "Article URL: https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-",
+    "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "I Want to Live Like Costco People",
+    "summary": "Article URL: https://tastecooking.com/i-want-to-live-like-costco-people/\nComments URL: https://news.ycombinator.com/item?id=48050499\nPoints: 30\n# Comments: 36",
+    "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+    "summary": "Article URL: https://deepmind.google/blog/alphaevolve-impact/\nComments URL: https://news.ycombinator.com/item?id=48050278\nPoints: 59\n# Comments: 2",
+    "url": "https://deepmind.google/blog/alphaevolve-impact/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
+    "summary": "Article URL: https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html\nComments URL: https://news.ycombinator.com/item?id=48049963\nPoints: 6\n# Comments: 0",
+    "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "The Self-Cancelling Subscription",
+    "summary": "Article URL: https://predr.ag/blog/the-self-cancelling-subscription/\nComments URL: https://news.ycombinator.com/item?id=48049764\nPoints: 30\n# Comments: 13",
+    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "The map that keeps Burning Man honest",
+    "summary": "Article URL: https://www.not-ship.com/burning-man-moop/\nComments URL: https://news.ycombinator.com/item?id=48049653\nPoints: 200\n# Comments: 61",
+    "url": "https://www.not-ship.com/burning-man-moop/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Child marriages plunged when girls stayed in school in Nigeria",
+    "summary": "Article URL: https://www.nature.com/articles/d41586-026-00796-2\nComments URL: https://news.ycombinator.com/item?id=48049208\nPoints: 109\n# Comments: 56",
+    "url": "https://www.nature.com/articles/d41586-026-00796-2",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
     "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
     "summary": "Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems\nComments URL: https://news.ycombinator.com/item?id=48048339\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
@@ -11,20 +88,9 @@
     ]
   },
   {
-    "id": "002",
-    "title": "The Upper Middle Class Trap",
-    "summary": "Article URL: https://ofdollarsanddata.com/the-upper-middle-class-trap/\nComments URL: https://news.ycombinator.com/item?id=48048262\nPoints: 14\n# Comments: 7",
-    "url": "https://ofdollarsanddata.com/the-upper-middle-class-trap/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
+    "id": "009",
     "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-    "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 177\n# Comments: 120",
+    "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 324\n# Comments: 224",
     "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -33,9 +99,9 @@
     ]
   },
   {
-    "id": "004",
+    "id": "010",
     "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-    "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 96\n# Comments: 51",
+    "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 157\n# Comments: 80",
     "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -44,74 +110,141 @@
     ]
   },
   {
-    "id": "005",
-    "title": "Agent-harness-kit scaffolding for multi-agent workflows (MCP, provider-agnostic)",
-    "summary": "Article URL: https://ahk.cardor.dev\nComments URL: https://news.ycombinator.com/item?id=48047826\nPoints: 42\n# Comments: 8",
-    "url": "https://ahk.cardor.dev",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
-    "summary": "Article URL: https://unsloth.ai/blog/nvidia-collab\nComments URL: https://news.ycombinator.com/item?id=48046397\nPoints: 83\n# Comments: 11",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
-    "summary": "Article URL: https://github.com/darkrishabh/agent-skills-eval\nComments URL: https://news.ycombinator.com/item?id=48046023\nPoints: 39\n# Comments: 15",
-    "url": "https://github.com/darkrishabh/agent-skills-eval",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Show HN: Trust – Coding Rust like it's 1989",
-    "summary": "Article URL: https://github.com/wojtczyk/trust\nComments URL: https://news.ycombinator.com/item?id=48045939\nPoints: 62\n# Comments: 28",
-    "url": "https://github.com/wojtczyk/trust",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "ProgramBench: Can Language Models Rebuild Programs from Scratch?",
-    "summary": "Article URL: https://arxiv.org/abs/2605.03546\nComments URL: https://news.ycombinator.com/item?id=48045174\nPoints: 92\n# Comments: 53",
-    "url": "https://arxiv.org/abs/2605.03546",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-    "summary": "Article URL: https://aniket.foo/posts/20260505-netboot/\nComments URL: https://news.ycombinator.com/item?id=48045012\nPoints: 131\n# Comments: 70",
-    "url": "https://aniket.foo/posts/20260505-netboot/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "011",
-    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+    "title": "Google’s $9.99-per-month AI health coach launches May 19",
+    "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
+    "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Hardware",
+      "ai health coach",
+      "fitbit",
+      "google health",
+      "google health coach",
+      "wearables"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Google unveils Whoop-like screenless Fitbit Air",
+    "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with Afib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
+    "url": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Gadgets",
+      "Hardware",
+      "fitbit",
+      "Google",
+      "wearables"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+    "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunities for major scaling impact. Pre-Series A founders — and anyone who knows a startup worth backing —",
+    "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Startups",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "AI",
+      "Apps",
+      "Gadgets",
+      "Fundraising",
+      "Startup Battlefield",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
+    "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
+    "url": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "Canada",
+      "cyberattack",
+      "cybersecurity",
+      "sms blaster"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+    "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
+    "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Startups",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "Media & Entertainment",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
+    "summary": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
+    "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "Startups",
+      "satellite communications",
+      "sherpalo ventures",
+      "Skyroot"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
+    "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
+    "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Transportation",
+      "Security",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
     "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
     "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
     "date": "2026-05-07",
@@ -119,14 +252,13 @@
     "tags": [
       "AI",
       "Startups",
-      "China",
       "kimi",
       "large language models",
       "moonshot ai"
     ]
   },
   {
-    "id": "012",
+    "id": "019",
     "title": "Spotify wants to become the home for AI-generated personal audio",
     "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
     "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
@@ -135,12 +267,12 @@
     "tags": [
       "AI",
       "Apps",
-      "Spotify",
-      "claude code"
+      "claude code",
+      "Spotify"
     ]
   },
   {
-    "id": "013",
+    "id": "020",
     "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
     "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
     "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
@@ -156,7 +288,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "021",
     "title": "Five architects of the AI economy explain where the wheels are coming off",
     "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec",
     "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -178,8 +310,39 @@
     ]
   },
   {
-    "id": "015",
-    "title": "Is your Porsche Taycan too slow at the Nürbugring? You need this Manthey Kit.",
+    "id": "022",
+    "title": "RIP social media. What comes next is messy.",
+    "summary": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
+    "url": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
+    "date": "2026-05-07",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "echo chambers",
+      "online culture",
+      "political polarization",
+      "social media"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
+    "summary": "Musk was “prepared to do the for-profit, provided he would get control.”",
+    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
+    "date": "2026-05-07",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Policy",
+      "Elon Musk",
+      "openai",
+      "openai sam altman",
+      "sam altman"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
     "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
     "url": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
     "date": "2026-05-07",
@@ -192,7 +355,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "025",
     "title": "Former NASA chief takes helm of national security space firm",
     "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
     "url": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
@@ -207,263 +370,74 @@
     ]
   },
   {
-    "id": "017",
-    "title": "Ploopy’s new mouse makes the ThinkPad’s iconic TrackPoint portable",
-    "summary": "Ploopy has announced another open source mouse alternative that skips touchpads and trackballs. While the new Ploopy Bean looks like a tiny travel-friendly mouse, you don't need to move it around. Instead, surrounded by four buttons is a red pointing stick similar to the TrackPoint that IBM included",
-    "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Inside Dreame’s wild launch event — packed with products no one can buy",
-    "summary": "Hundreds of influencers, media folks, and a few C-list celebs (sorry, Woz) filled the cavernous halls of the San Francisco Palace of Fine Arts last week. They were assembled for Dreame's launch event, ostensibly into both America and a much bigger ecosystem of products. Across the four-day showcase,",
-    "url": "https://www.theverge.com/tech/922511/inside-dreames-wild-launch-event-dreame-next-2026",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Report",
-      "Robot",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Sleep Number ComfortNext Lux Smart Bed: Redefining Support",
-    "summary": "Sleep Number’s new model leans plush, but its smart support might convert even die-hard firmness fans.",
-    "url": "https://www.wired.com/review/sleep-number-comfortnext-lux-smart-bed/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Sleep",
-      "mattresses",
-      "review",
-      "Sleep",
-      "Shopping",
-      "online shopping",
-      "household",
-      "Reviews",
-      "Product Review"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Best Printers for Any Home-Office Need (2026): Brother, HP, and More",
-    "summary": "Need to print labels, stickers, stacks of pages, color photos, or even a textured mug? I tested the best home printers, including ink-tank, cartridge, and laser options.",
-    "url": "https://www.wired.com/gallery/best-printers/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Buying Guides",
-      "Gear / Products / Computers",
-      "Gear / Products / Home Office",
-      "Shopping",
-      "buying guides",
-      "Accessories and Peripherals",
-      "printers",
-      "Paper",
-      "computing",
-      "hp",
-      "Buying Guide"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Best Bug Spray (2026), Tested and Reviewed",
-    "summary": "Our writer tried some of the most popular insect repellents during runs, hikes, and evening walks. These are the ones we recommend.",
-    "url": "https://www.wired.com/story/best-bug-sprays/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products / Outdoor",
-      "Shopping",
-      "health",
-      "outdoors",
-      "buying guides",
-      "hiking",
-      "backpacking",
-      "camping",
-      "Backyard",
-      "Don't Bug Me"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "How I Fixed My Webcam Lighting for Zoom Calls (2026)",
-    "summary": "I have a horrendous lighting setup in my home office, but as a mixed-use room, my options for fixing it were limited.",
-    "url": "https://www.wired.com/story/how-to-fix-bad-webcam-lighting/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Gear / Products",
-      "Gear / Products / Cameras",
-      "Gear / Products / Computers",
-      "Shopping",
-      "cameras",
-      "webcams",
-      "laptops",
-      "laptop",
-      "Light It Up"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the Open Web",
-    "summary": "Companies like Lovable, Base44, Replit, and Netlify use AI to let anyone build a web app in seconds—and in thousands of cases, spill highly sensitive data onto the public internet.",
-    "url": "https://www.wired.com/story/thousands-of-vibe-coded-apps-expose-corporate-and-personal-data-on-the-open-web/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "artificial intelligence",
-      "cybersecurity",
-      "security",
-      "privacy",
-      "databases",
-      "data privacy",
-      "Bad Vibes"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "This Reggae Band Is in a Nightmare Battle Against AI Slop Remixes",
-    "summary": "When Stick Figure’s seven-year-old song shot up the charts, the band was thrilled. But its viral moment was spurred by unauthorized AI remixes.",
-    "url": "https://www.wired.com/story/this-reggae-band-is-in-a-nightmare-battle-against-ai-slop-remixes/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Culture",
-      "Culture / Music",
-      "Music",
-      "artificial intelligence",
-      "YouTube",
-      "Spotify",
-      "Social Media",
-      "streaming",
-      "Hit Record"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "11 Best Sunscreens, WIRED Tested and Reviewed",
-    "summary": "We put 36 sunscreens to the test during summer hikes, spring ski days, and beachside hangs. Out of all the mineral, chemical, and spray varieties we tried, these are our top picks.",
-    "url": "https://www.wired.com/gallery/best-sunscreens/",
-    "date": "2026-05-07",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Outdoor",
-      "Gear / Products / Health and Fitness",
-      "Shopping",
-      "buying guides",
-      "outdoors",
-      "environment",
-      "health",
-      "Buying Guide"
-    ]
-  },
-  {
     "id": "026",
-    "title": "Bottom G Wants You to Know He’s More Than Just ‘Gay Andrew Tate’",
-    "summary": "Brian Michael Hinds found accidental internet fame through a resemblance to the controversial manosphere figure. He’s still wrestling with what to do with it.",
-    "url": "https://www.wired.com/story/bottom-g-wants-you-to-know-hes-more-than-just-gay-andrew-tate/",
+    "title": "A hacker ran me over with a robot lawn mower",
+    "summary": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body. Makris certainly can't reach over and hit the emergency stop button - he's nearly 6,000 miles away",
+    "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
     "date": "2026-05-07",
-    "source": "Wired",
+    "source": "The Verge",
     "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "Social Media",
-      "TikTok",
-      "YouTube",
-      "streaming",
-      "viral",
-      "politics",
-      "cryptocurrency",
-      "gambling",
-      "Twin Peaks"
+      "News",
+      "Report",
+      "Security",
+      "Tech"
     ]
   },
   {
     "id": "027",
-    "title": "There Is No Evidence the Trump Assassination Attempts Were Staged. People Still Believe They Were",
-    "summary": "Elements of the right and the left are united in the baseless belief that two attempts on Donald Trump's life were staged.",
-    "url": "https://www.wired.com/story/there-is-no-evidence-the-trump-assassination-attempts-were-staged-people-still-believe-they-were/",
+    "title": "Inside the return of Xbox",
+    "summary": "Two weeks ago there was a buzz in the air inside Microsoft's studio D building. Hundreds of Xbox employees gathered early on a Thursday morning, packed into the hallways and atrium, to hear from Xbox CEO Asha Sharma. The \"return of Xbox\" slogan was plastered all over the walls of the building, the s",
+    "url": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad",
     "date": "2026-05-07",
-    "source": "Wired",
+    "source": "The Verge",
     "tags": [
-      "Politics",
-      "Donald Trump",
-      "politics",
-      "Social Media",
-      "government",
-      "conspiracy theories",
-      "Shots Fired"
+      "Gaming",
+      "Microsoft",
+      "Notepad",
+      "Tech",
+      "Xbox"
     ]
   },
   {
     "id": "028",
-    "title": "Everyone Should Travel With a Pair of Cheap Wired Headphones (2026)",
-    "summary": "Admit it: It’s inevitable you will forget to charge your Bluetooth pair.",
-    "url": "https://www.wired.com/story/cheap-wired-headphones-rave/",
+    "title": "The future of Disney Plus is a confused mess",
+    "summary": "Newly minted CEO Josh D'Amaro says that he wants to turn Disney Plus into \"the immersive, interactive digital centerpiece of the company.\" It used to be that people went to the movies or theme parks to immerse themselves in Disney's fictional worlds. But now, D'Amaro says that he sees Disney Plus be",
+    "url": "https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks",
     "date": "2026-05-07",
-    "source": "Wired",
+    "source": "The Verge",
     "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Products / Outdoor",
-      "Gear / Reviews",
-      "Travel",
-      "buying guides",
-      "outdoors",
-      "audio",
-      "AFK",
-      "Headphones"
+      "Disney",
+      "Entertainment",
+      "Film",
+      "Streaming",
+      "TV Shows"
     ]
   },
   {
     "id": "029",
-    "title": "Vimeo Promo Code: 40% Off This May 2026",
-    "summary": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
-    "url": "https://www.wired.com/story/vimeo-promo-code/",
+    "title": "There’s actually a good deal happening now on the Xbox Series X",
+    "summary": "It’s been tough to recommend the Xbox Series X recently, especially at the $649 price it has sold at since last October. But if you’re thinking about getting one, at least consider the Forza Horizon 6-themed console bundle you can get at Best Buy that’s just $10 more than the usual inflated price. T",
+    "url": "https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale",
     "date": "2026-05-07",
-    "source": "Wired",
+    "source": "The Verge",
     "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
     ]
   },
   {
     "id": "030",
-    "title": "Walmart Promo Codes: 65% Off",
-    "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+    "title": "Netflix has its own, impressive AI-powered voice search",
+    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. A small subset of Netflix viewers just got a new way to find movies and TV shows. The streamer recently started to test an AI-powered n",
+    "url": "https://www.theverge.com/column/925898/netflix-ai-voice-search",
     "date": "2026-05-07",
-    "source": "Wired",
+    "source": "The Verge",
     "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Column",
+      "Lowpass",
+      "Netflix",
+      "Streaming"
     ]
   }
 ]
