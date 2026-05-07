@@ -1,7 +1,106 @@
 [
   {
     "id": "001",
-    "title": "Motherboard sales are now collapsing amid unprecedented shortages fueled by AI",
+    "title": "Colored Shadow Penumbra",
+    "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 3\n# Comments: 0",
+    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "AI Slop Is Killing Online Communities",
+    "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 100\n# Comments: 64",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 62\n# Comments: 11",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Brazil's Pix Payment System Faces Pressure from Visa and Mastercard",
+    "summary": "Article URL: https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/\nComments URL: https://news.ycombinator.com/item?id=48052371\nPoints: 54\n# Comments: 36",
+    "url": "https://www.elciudadano.com/en/brazils-pix-payment-system-faces-pressure-from-visa-and-mastercard/04/04/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Principles for agent-native CLIs",
+    "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 22\n# Comments: 4",
+    "url": "https://twitter.com/trevin/status/2051316002730991795",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Agents need control flow, not more prompts",
+    "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 140\n# Comments: 70",
+    "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "summary": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 261\n# Comments: 91",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "DeepSeek 4 Flash local inference engine for Metal",
+    "summary": "Article URL: https://github.com/antirez/ds4\nComments URL: https://news.ycombinator.com/item?id=48050751\nPoints: 155\n# Comments: 50",
+    "url": "https://github.com/antirez/ds4",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Show HN: Stage CLI – an easier way of reading your AI generated changes locally",
+    "summary": "Hey HN! We're Charles and Dean. A few weeks ago we posted about Stage, a code review tool that guides you through reading a PR step by step - https://news.ycombinator.com/item?id=47796818.We got a lot of great feedback but also heard from many people that they wanted to have the chapters experience ",
+    "url": "https://github.com/ReviewStage/stage-cli",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Motherboard sales 'collapse' amid unprecedented shortages fueled by AI",
     "summary": "Article URL: https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-",
     "url": "https://www.tomshardware.com/pc-components/motherboards/motherboard-sales-collapse-by-more-than-25-percent-as-chipmakers-strangle-enthusiast-pc-market-to-build-more-ai-chips-asus-projected-to-sell-5-million-fewer-boards-in-2025-gigabyte-msi-and-asrock-also-expected-to-see-reduced-sales-numbers",
     "date": "2026-05-07",
@@ -11,106 +110,146 @@
     ]
   },
   {
-    "id": "002",
-    "title": "I Want to Live Like Costco People",
-    "summary": "Article URL: https://tastecooking.com/i-want-to-live-like-costco-people/\nComments URL: https://news.ycombinator.com/item?id=48050499\nPoints: 30\n# Comments: 36",
-    "url": "https://tastecooking.com/i-want-to-live-like-costco-people/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-    "summary": "Article URL: https://deepmind.google/blog/alphaevolve-impact/\nComments URL: https://news.ycombinator.com/item?id=48050278\nPoints: 59\n# Comments: 2",
-    "url": "https://deepmind.google/blog/alphaevolve-impact/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "MPEG-2 Transport Stream Packaging for Media over QUIC Transport",
-    "summary": "Article URL: https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html\nComments URL: https://news.ycombinator.com/item?id=48049963\nPoints: 6\n# Comments: 0",
-    "url": "https://www.ietf.org/archive/id/draft-gregoire-moq-msfts-00.html",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "The Self-Cancelling Subscription",
-    "summary": "Article URL: https://predr.ag/blog/the-self-cancelling-subscription/\nComments URL: https://news.ycombinator.com/item?id=48049764\nPoints: 30\n# Comments: 13",
-    "url": "https://predr.ag/blog/the-self-cancelling-subscription/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "The map that keeps Burning Man honest",
-    "summary": "Article URL: https://www.not-ship.com/burning-man-moop/\nComments URL: https://news.ycombinator.com/item?id=48049653\nPoints: 200\n# Comments: 61",
-    "url": "https://www.not-ship.com/burning-man-moop/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Child marriages plunged when girls stayed in school in Nigeria",
-    "summary": "Article URL: https://www.nature.com/articles/d41586-026-00796-2\nComments URL: https://news.ycombinator.com/item?id=48049208\nPoints: 109\n# Comments: 56",
-    "url": "https://www.nature.com/articles/d41586-026-00796-2",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "GovernGPT (YC W24) Is Hiring Engineers to Build Thinking Systems in Montreal",
-    "summary": "Article URL: https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems\nComments URL: https://news.ycombinator.com/item?id=48048339\nPoints: 0\n# Comments: 0",
-    "url": "https://www.ycombinator.com/companies/governgpt/jobs/hRyltS0-backend-engineer-thinking-systems",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Grand Theft Oil Futures: Insider traders keep making a killing at our expense",
-    "summary": "Article URL: https://paulkrugman.substack.com/p/grand-theft-oil-futures\nComments URL: https://news.ycombinator.com/item?id=48047981\nPoints: 324\n# Comments: 224",
-    "url": "https://paulkrugman.substack.com/p/grand-theft-oil-futures",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "LinkedIn profile visitor lists belong to the people, says Noyb",
-    "summary": "Article URL: https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338\nComments URL: https://news.ycombinator.com/item?id=48047970\nPoints: 157\n# Comments: 80",
-    "url": "https://www.theregister.com/offbeat/2026/05/05/noyb-cries-foul-on-linkedin-withholding-profile-visitor-data/5225338",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "011",
+    "title": "Perplexity’s Personal Computer is now available everyone on Mac",
+    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Perplexity",
+      "perplexity computer"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
+    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI",
+      "openai lawsuit",
+      "sam altman"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
+    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "dating apps",
+      "bumble"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Tome, another Goodreads book-tracker rival, shuts down",
+    "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match ",
+    "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Social",
+      "goodreads",
+      "reading",
+      "tome",
+      "booktok"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
+    "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
+    "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "TC",
+      "Lovable",
+      "tech compensation"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Hackers hack victims hacked by other hackers",
+    "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
+    "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "cybercrime",
+      "cybersecurity",
+      "hackers",
+      "hacking",
+      "SentinelOne",
+      "TeamPCP"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Kalshi doubles valuation in 5 months, hitting $22B",
+    "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
+    "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Venture",
+      "In Brief",
+      "Kalshi",
+      "Polymarket",
+      "prediction market"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Jeff Bezos rep leaves Slate Auto’s board",
+    "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
+    "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "Exclusive",
+      "jeff bezos",
+      "melinda lewison",
+      "slate auto"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "date": "2026-05-07",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Security",
+      "Anthropic",
+      "cybersecurity",
+      "Firefox",
+      "Mozilla",
+      "Mythos"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Google’s $9.99-per-month AI health coach launches May 19",
     "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
     "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
@@ -127,9 +266,9 @@
     ]
   },
   {
-    "id": "012",
+    "id": "021",
     "title": "Google unveils Whoop-like screenless Fitbit Air",
-    "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with Afib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
+    "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
     "url": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
     "date": "2026-05-07",
     "source": "TechCrunch",
@@ -142,30 +281,29 @@
     ]
   },
   {
-    "id": "013",
+    "id": "022",
     "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-    "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunities for major scaling impact. Pre-Series A founders — and anyone who knows a startup worth backing —",
+    "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
     "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
     "date": "2026-05-07",
     "source": "TechCrunch",
     "tags": [
-      "TC",
-      "Startups",
-      "Hardware",
-      "Crypto",
-      "Climate",
-      "Fintech",
-      "Biotech & Health",
       "AI",
       "Apps",
-      "Gadgets",
+      "Biotech & Health",
+      "Climate",
+      "Crypto",
+      "Fintech",
       "Fundraising",
+      "Gadgets",
+      "Hardware",
+      "Startups",
       "Startup Battlefield",
       "TechCrunch Disrupt 2026"
     ]
   },
   {
-    "id": "014",
+    "id": "023",
     "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
     "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
     "url": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
@@ -180,7 +318,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "024",
     "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
     "summary": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does.",
     "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
@@ -204,7 +342,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "025",
     "title": "India’s first space tech unicorn emerges as Skyroot gears up for orbital launch",
     "summary": "Skyroot's valuation has more than doubled since 2023 as the Indian rocket startup prepares for the country's first private orbital launch.",
     "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
@@ -219,7 +357,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "026",
     "title": "2 days left: Get 50% off a second pass to TechCrunch Disrupt 2026",
     "summary": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now.",
     "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
@@ -243,7 +381,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "027",
     "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
     "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
     "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
@@ -258,9 +396,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "028",
     "title": "Spotify wants to become the home for AI-generated personal audio",
-    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+    "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
     "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
     "date": "2026-05-07",
     "source": "TechCrunch",
@@ -268,12 +406,13 @@
       "AI",
       "Apps",
       "claude code",
+      "podcasts",
       "Spotify"
     ]
   },
   {
-    "id": "020",
-    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+    "id": "029",
+    "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
     "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
     "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
     "date": "2026-05-07",
@@ -283,14 +422,15 @@
       "Apps",
       "Media & Entertainment",
       "ai dj",
+      "In Brief",
       "music streaming services",
       "Spotify"
     ]
   },
   {
-    "id": "021",
+    "id": "030",
     "title": "Five architects of the AI economy explain where the wheels are coming off",
-    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergirds the tec",
+    "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shortages to orbital data centers to the possibility that the whole architecture that undergir",
     "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
     "date": "2026-05-07",
     "source": "TechCrunch",
@@ -307,137 +447,6 @@
       "Logical Intelligence",
       "Milken Institute",
       "Qasar Younis"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "RIP social media. What comes next is messy.",
-    "summary": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
-    "url": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/",
-    "date": "2026-05-07",
-    "source": "Ars Technica",
-    "tags": [
-      "Science",
-      "echo chambers",
-      "online culture",
-      "political polarization",
-      "social media"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-    "summary": "Musk was “prepared to do the for-profit, provided he would get control.”",
-    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/",
-    "date": "2026-05-07",
-    "source": "Ars Technica",
-    "tags": [
-      "AI",
-      "Policy",
-      "Elon Musk",
-      "openai",
-      "openai sam altman",
-      "sam altman"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Is your Porsche Taycan too slow at the Nürburgring? You need this Manthey Kit.",
-    "summary": "Nordschleife-specialist Manthey has developed an upgrade package for the Porsche EV.",
-    "url": "https://arstechnica.com/cars/2026/05/is-your-porsche-taycan-too-slow-at-the-nurbugring-you-need-this-manthey-kit/",
-    "date": "2026-05-07",
-    "source": "Ars Technica",
-    "tags": [
-      "Cars",
-      "Nordschleife",
-      "Nurburgring",
-      "Porsche Taycan"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Former NASA chief takes helm of national security space firm",
-    "summary": "\"The spacecraft can also be refueled, and it can refuel others.\"",
-    "url": "https://arstechnica.com/space/2026/05/former-nasa-chief-takes-helm-of-national-security-space-firm/",
-    "date": "2026-05-07",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "jim bridenstine",
-      "quantum space",
-      "ranger",
-      "space"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "A hacker ran me over with a robot lawn mower",
-    "summary": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body. Makris certainly can't reach over and hit the emergency stop button - he's nearly 6,000 miles away",
-    "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "News",
-      "Report",
-      "Security",
-      "Tech"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Inside the return of Xbox",
-    "summary": "Two weeks ago there was a buzz in the air inside Microsoft's studio D building. Hundreds of Xbox employees gathered early on a Thursday morning, packed into the hallways and atrium, to hear from Xbox CEO Asha Sharma. The \"return of Xbox\" slogan was plastered all over the walls of the building, the s",
-    "url": "https://www.theverge.com/tech/925966/microsoft-return-to-xbox-town-hall-notepad",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "Notepad",
-      "Tech",
-      "Xbox"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "The future of Disney Plus is a confused mess",
-    "summary": "Newly minted CEO Josh D'Amaro says that he wants to turn Disney Plus into \"the immersive, interactive digital centerpiece of the company.\" It used to be that people went to the movies or theme parks to immerse themselves in Disney's fictional worlds. But now, D'Amaro says that he sees Disney Plus be",
-    "url": "https://www.theverge.com/streaming/925973/josh-damaro-disney-plus-disney-parks",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Disney",
-      "Entertainment",
-      "Film",
-      "Streaming",
-      "TV Shows"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "There’s actually a good deal happening now on the Xbox Series X",
-    "summary": "It’s been tough to recommend the Xbox Series X recently, especially at the $649 price it has sold at since last October. But if you’re thinking about getting one, at least consider the Forza Horizon 6-themed console bundle you can get at Best Buy that’s just $10 more than the usual inflated price. T",
-    "url": "https://www.theverge.com/gadgets/925429/xbox-series-forza-horizon-6-controller-magsafe-airtags-deal-sale",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Netflix has its own, impressive AI-powered voice search",
-    "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. A small subset of Netflix viewers just got a new way to find movies and TV shows. The streamer recently started to test an AI-powered n",
-    "url": "https://www.theverge.com/column/925898/netflix-ai-voice-search",
-    "date": "2026-05-07",
-    "source": "The Verge",
-    "tags": [
-      "Column",
-      "Lowpass",
-      "Netflix",
-      "Streaming"
     ]
   }
 ]
