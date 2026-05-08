@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Apple, Intel have reached preliminary chip-making deal",
-    "summary": "Article URL: https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/\nComments URL: https://news.ycombinator.com/item?id=48066169\nPoints: 26\n# Comments: 0",
-    "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
+    "title": "My first in-prod corrupted hard drive problem",
+    "summary": "Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/\nComments URL: https://news.ycombinator.com/item?id=48067686\nPoints: 4\n# Comments: 2",
+    "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
-    "summary": "Article URL: https://www.stroustrup.com/bs_faq2.html#memory-leaks\nComments URL: https://news.ycombinator.com/item?id=48065916\nPoints: 3\n# Comments: 0",
-    "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "title": "What we lost the last time code got cheap",
+    "summary": "Article URL: https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap\nComments URL: https://news.ycombinator.com/item?id=48067197\nPoints: 31\n# Comments: 14",
+    "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Cartoon Network Flash Games",
-    "summary": "Article URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games\nComments URL: https://news.ycombinator.com/item?id=48065360\nPoints: 71\n# Comments: 28",
-    "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "title": "Google Broke reCAPTCHA for De-Googled Android Users",
+    "summary": "Article URL: https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 41\n# Comments: 7",
+    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Hallucinations Undermine Trust; Metacognition Is a Way Forward",
-    "summary": "Article URL: https://arxiv.org/abs/2605.01428\nComments URL: https://news.ycombinator.com/item?id=48064373\nPoints: 3\n# Comments: 0",
-    "url": "https://arxiv.org/abs/2605.01428",
+    "title": "AI Is Breaking Two Vulnerability Cultures",
+    "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures\nComments URL: https://news.ycombinator.com/item?id=48066524\nPoints: 65\n# Comments: 19",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
-    "summary": "Article URL: https://btxx.org/posts/memory/\nComments URL: https://news.ycombinator.com/item?id=48064312\nPoints: 99\n# Comments: 40",
-    "url": "https://btxx.org/posts/memory/",
+    "title": "Apple, Intel have reached preliminary chip-making deal",
+    "summary": "Article URL: https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/\nComments URL: https://news.ycombinator.com/item?id=48066169\nPoints: 121\n# Comments: 55",
+    "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -56,6 +56,50 @@
   },
   {
     "id": "006",
+    "title": "Bjarne Stroustrup: How do I deal with memory leaks? (2022)",
+    "summary": "Article URL: https://www.stroustrup.com/bs_faq2.html#memory-leaks\nComments URL: https://news.ycombinator.com/item?id=48065916\nPoints: 46\n# Comments: 34",
+    "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Cartoon Network Flash Games",
+    "summary": "Article URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games\nComments URL: https://news.ycombinator.com/item?id=48065360\nPoints: 169\n# Comments: 55",
+    "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Show HN: GETadb.com – every GET request creates a DB",
+    "summary": "Hey HN! We made GETadb.com, so it's easier to get agents to build you full stack apps. You don't need to give them any credentials. Just by loading a GET request, they get access to a database, a sync engine, and abstractions for auth, presence, and streams.To see what the agent sees, you can load h",
+    "url": "https://www.getadb.com/",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Serving a website on a Raspberry Pi Zero running in RAM",
+    "summary": "Article URL: https://btxx.org/posts/memory/\nComments URL: https://news.ycombinator.com/item?id=48064312\nPoints: 146\n# Comments: 58",
+    "url": "https://btxx.org/posts/memory/",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
     "title": "Show HN: Git for AI Agents",
     "summary": "hi guys.\nbeen working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder? why?\", etc. or trying to /rewind (after a /compact...) or basically `",
     "url": "https://github.com/regent-vcs/re_gent",
@@ -66,51 +110,36 @@
     ]
   },
   {
-    "id": "007",
-    "title": "PC Engine CPU",
-    "summary": "Article URL: https://jsgroth.dev/blog/posts/pc-engine-cpu/\nComments URL: https://news.ycombinator.com/item?id=48063521\nPoints: 77\n# Comments: 21",
-    "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Google Cloud Fraud Defence is just WEI repackaged",
-    "summary": "Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/\nComments URL: https://news.ycombinator.com/item?id=48063199\nPoints: 295\n# Comments: 130",
-    "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Podman rootless containers and the Copy Fail exploit",
-    "summary": "Article URL: https://garrido.io/notes/podman-rootless-containers-copy-fail/\nComments URL: https://news.ycombinator.com/item?id=48062745\nPoints: 69\n# Comments: 14",
-    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "A web page that shows you everything the browser told it without asking",
-    "summary": "Article URL: https://sinceyouarrived.world/taken\nComments URL: https://news.ycombinator.com/item?id=48062178\nPoints: 247\n# Comments: 130",
-    "url": "https://sinceyouarrived.world/taken",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "011",
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "summary": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
+    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "cloudflare",
+      "Layoffs"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
+    "summary": "More than 500 people will be affected by the closures.",
+    "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "cellforce group",
+      "e-bikes",
+      "Porsche"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Mother Ventures is looking at moms as the ‘economic engine’",
     "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
     "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
@@ -125,7 +154,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "Uber partner Avride is under investigation for self-driving crashes",
     "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
     "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
@@ -143,8 +172,8 @@
     ]
   },
   {
-    "id": "013",
-    "title": "Poland says hackers breached water treatment plants, and the U.S. is facing the same threat",
+    "id": "015",
+    "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
     "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
     "url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
     "date": "2026-05-08",
@@ -154,7 +183,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "016",
     "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
     "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
     "url": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
@@ -168,7 +197,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "017",
     "title": "Pentagon releases UFO files on new website",
     "summary": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for reso",
     "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
@@ -183,7 +212,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "Truecaller slashes 70 jobs amid declining ad sales",
     "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
     "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
@@ -197,7 +226,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
     "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
     "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
@@ -210,7 +239,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
     "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
     "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
@@ -232,7 +261,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "Lime, the Uber-backed micromobility company, files for IPO",
     "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
     "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
@@ -248,7 +277,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "022",
     "title": "The biggest US power grid is under strain from AI — and no one is happy",
     "summary": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
     "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
@@ -261,7 +290,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "023",
     "title": "Airbnb says AI now writes 60% of its new code",
     "summary": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
     "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
@@ -276,7 +305,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "024",
     "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
     "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
     "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
@@ -295,7 +324,36 @@
     ]
   },
   {
-    "id": "023",
+    "id": "025",
+    "title": "Elon Musk faces criminal probe in France after ignoring summons in X case",
+    "summary": "France threatens criminal charges if Musk doesn't appear for questioning.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-faces-criminal-probe-in-france-after-ignoring-summons-in-x-case/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Policy",
+      "Elon Musk",
+      "X"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Chrome's 4GB AI model isn't new, but you're not wrong for being confused",
+    "summary": "You can stop Chrome from taking up 4GB of storage for local AI, but that shouldn't be your problem.",
+    "url": "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Google",
+      "Artificial Intelligence",
+      "chrome",
+      "gemini nano",
+      "google"
+    ]
+  },
+  {
+    "id": "027",
     "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
     "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
     "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
@@ -314,7 +372,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "028",
     "title": "DNA identifies four more crew members of doomed Franklin expedition",
     "summary": "Three served on the HMS Erebus; the fourth was Petty Officer Harry Peglar of the HMS Terror.",
     "url": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
@@ -329,7 +387,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "029",
     "title": "Which Macs are suffering from shortages—and where are things getting worse?",
     "summary": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
     "url": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
@@ -350,7 +408,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "030",
     "title": "How climate change makes your allergies worse",
     "summary": "As pollen season worsens, allergies compound with other climate health hazards.",
     "url": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
@@ -361,71 +419,6 @@
       "allergies",
       "climate change",
       "syndication"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "The Nintendo Switch 2 is getting more expensive later this year",
-    "summary": "\"Changes in market conditions\" lead to $50 price bump on Sept. 1.",
-    "url": "https://arstechnica.com/gaming/2026/05/the-nintendo-switch-2-is-getting-more-expensive-later-this-year/",
-    "date": "2026-05-08",
-    "source": "Ars Technica",
-    "tags": [
-      "Gaming",
-      "business",
-      "market",
-      "Nintendo",
-      "price increase",
-      "switch 2"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "The US military just released a bunch of UAP files, but there's no there there",
-    "summary": "Here at Ars Technica, we do not preclude the possibility that aliens have visited Earth.",
-    "url": "https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/",
-    "date": "2026-05-08",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "aliens",
-      "space",
-      "UAP",
-      "UFO"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
-    "summary": "The game asks players to find the least worst options for a shipping chokepoint.",
-    "url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
-    "date": "2026-05-08",
-    "source": "Ars Technica",
-    "tags": [
-      "Gaming",
-      "Energy",
-      "fossil fuels",
-      "global food security",
-      "Iran",
-      "natural gas",
-      "oil",
-      "shipping",
-      "ships",
-      "Strait of Hormuz",
-      "USA-Iran War"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Rocket Report: Alpha Block 2 coming this summer; Falcon sets booster landing mark",
-    "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
-    "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
-    "date": "2026-05-08",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
     ]
   }
 ]
