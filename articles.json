@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Komai: a fine Matrix chat app you can get to love",
-    "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 28\n# Comments: 11",
-    "url": "https://etke.cc/blog/introducing-komai",
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 5\n# Comments: 0",
+    "url": "https://github.com/graemeg/blaise",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 34\n# Comments: 11",
-    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "title": "US will start revoking passports for parents who owe child support",
+    "summary": "Article URL: https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6\nComments URL: https://news.ycombinator.com/item?id=48058340\nPoints: 14\n# Comments: 0",
+    "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -23,6 +23,105 @@
   },
   {
     "id": "003",
+    "title": "Evaluating Geekbench 6",
+    "summary": "Article URL: https://chipsandcheese.com/p/evaluating-geekbench-6\nComments URL: https://news.ycombinator.com/item?id=48058053\nPoints: 3\n# Comments: 0",
+    "url": "https://chipsandcheese.com/p/evaluating-geekbench-6",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Mojo 1.0 Beta",
+    "summary": "Article URL: https://mojolang.org/\nComments URL: https://news.ycombinator.com/item?id=48057901\nPoints: 20\n# Comments: 1",
+    "url": "https://mojolang.org/",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 40\n# Comments: 19",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 55\n# Comments: 25",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Why you can never get your doctor to call you back",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "TC",
+      "Aileen Lee",
+      "Basata",
+      "Basis Set Ventures",
+      "cowboy ventures",
+      "Sofeon",
+      "Victoria Treyger"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
+    "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
+    "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News",
+      "ransomware",
+      "cybersecurity",
+      "malware",
+      "hacks",
+      "hacking",
+      "security",
+      "vulnerabilities",
+      "Drop Out"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "50% Off DoorDash Promo Code | May 2026",
+    "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+    "url": "https://www.wired.com/story/doordash-promo-code/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "010",
     "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
     "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
     "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
@@ -42,7 +141,7 @@
     ]
   },
   {
-    "id": "004",
+    "id": "011",
     "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
     "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step tow",
     "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
@@ -55,175 +154,169 @@
     ]
   },
   {
-    "id": "005",
-    "title": "57. Decision Trees: The AI That Plays 20 Questions",
-    "summary": "You've played 20 questions before. You think of something. Someone asks yes/no questions to figure out what it is. Is it alive? Is it bigger than a car? Does it have legs?\n\nEach question narrows down the possibilities until they get to the answer.\n\nA decision tree does exactly that. It learns a seri",
-    "url": "https://dev.to/yakhilesh/57-decision-trees-the-ai-that-plays-20-questions-oi3",
+    "id": "012",
+    "title": "The Parable of the Three Physician Brothers",
+    "summary": "A remarkable parable from ancient China tells the story of three physician brothers: the youngest, most renowned, treated visible illnesses; the middle brother addressed issues in their early stages; and the eldest, unknown to society, focused on prevention to keep people healthy in the first place.",
+    "url": "https://dev.to/arezvov/the-parable-of-the-three-physician-brothers-4j8m",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "management",
+      "reflections"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "The Perfect CLAUDE.md: A Practical Specification for Agentic Coding Projects",
+    "summary": "Most AI-assisted coding projects fail long before the model writes bad code. The failure usually starts with context.\n\nDevelopers hand an autonomous coding agent a massive repository, a vague objective, and a 2,000-line CLAUDE.md filled with contradictory instructions, outdated architecture notes, a",
+    "url": "https://dev.to/jasrandhawa/the-perfect-claudemd-a-practical-specification-for-agentic-coding-projects-5chd",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
       "ai",
       "programming",
-      "beginners",
-      "python"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "RAG Series (10): Hybrid Search — Retrieving More, Missing Less",
-    "summary": "A Blind Spot in Vector Search\n\n\nSuppose your knowledge base contains a document with this sentence:\n\n\n\"For Chinese scenarios, we recommend BAAI/bge-large-zh-v1.5, with a vector dimension of 1024.\"\n\n\nA user asks: \"What is the vector dimension of BAAI/bge-large-zh-v1.5?\"\n\nYou might think this is a gim",
-    "url": "https://dev.to/wonderlab/rag-series-10-hybrid-search-retrieving-more-missing-less-dc7",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "rag",
-      "bm25",
-      "langchain",
-      "ai"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Cuộc Chiến React State Management: Redux Có Đang Bị Zustand 'Hạ Bệ'?",
-    "summary": "Bài viết gốc được xuất bản tại ITPrep - Cẩm nang & Cheat Sheet Phỏng vấn IT.\n\nTrong thế giới ReactJS, quản lý state (State Management) luôn là một trong những câu hỏi hóc búa nhất khi khởi tạo dự án. Từ một cái To-do list nhỏ xinh đến các hệ thống ERP phức tạp, cách chúng ta thiết kế luồng dữ liệu s",
-    "url": "https://dev.to/itprepvn/cuoc-chien-react-state-management-redux-co-dang-bi-zustand-ha-be-dfd",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "react",
-      "javascript",
-      "webdev",
-      "state"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Are you unable to start anything because of overthinking?",
-    "summary": "Have you noticed that before you start anything, 10 questions come to your mind?\n\n“What will happen if I do this?”, “Can I do it?”, “What if I make a mistake?”, “Is this the best way?”\n\nAnd these questions are the ones that ultimately prevent you from starting.\n\nThis is the real game of overthinking",
-    "url": "https://dev.to/rifat240510/are-you-unable-to-start-anything-because-of-overthinking-3mbp",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "discuss",
-      "mentalhealth",
       "productivity",
-      "watercooler"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "One Open Source Project a Day (No. 59): Claude for Financial Services - Anthropic's Official AI Agent Suite for Finance",
-    "summary": "Introduction\n\n\n\n\"From watching analysts work to managing the analytical pipeline itself.\"\n\n\nThis is the 59th article in the \"One Open Source Project a Day\" series. Today, we are exploring Claude for Financial Services.\n\nIn the last two articles, we covered OpenAI's Symphony (an AI agent orchestratio",
-    "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-59-claude-for-financial-services-anthropics-official-ai-3k86",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "claude",
-      "agents",
-      "finance"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Node.js with AWS SDK v3 – A Complete Integration Guide",
-    "summary": "Node.js is a popular choice for building scalable and high-performance server-side applications, and when paired with the AWS SDK v3, it becomes a powerful tool for building cloud-based applications. In this guide, we will cover the integration of Node.js with various AWS services, including S3, Lam",
-    "url": "https://dev.to/dineshgowdam2610/nodejs-with-aws-sdk-v3-a-complete-integration-guide-263g",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "node",
-      "aws",
-      "javascript",
-      "cloud"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "Deep Dive Two-Factor Authentication vs Passkeys: A Head-to-Head",
-    "summary": "Deep Dive: Two-Factor Authentication vs Passkeys – A Head-to-Head\n\n\nThe authentication landscape is shifting rapidly: for decades, passwords paired with two-factor authentication (2FA) were the gold standard for securing user accounts. Now, passkeys – built on FIDO2 and WebAuthn standards – are emer",
-    "url": "https://dev.to/johalputt/deep-dive-two-factor-authentication-vs-passkeys-a-head-to-head-5bbg",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "deep",
-      "dive",
-      "twofactor",
-      "authentication"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Implementing Cellular Observability: AWS CloudWatch Cross-Account Observability vs. Azure Monitor Shared Dashboards",
-    "summary": "Introduction\n\n\nDistributed cellular architectures often suffer from observability fragmentation, where critical telemetry is trapped within isolated cloud silos. When an incident occurs in a cross-cloud cell, engineers frequently lose precious time toggling between disparate consoles, manually corre",
-    "url": "https://dev.to/sertaoseracloud/implementing-cellular-observability-aws-cloudwatch-cross-account-observability-vs-azure-monitor-3n2i",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "aws",
-      "azure",
-      "terraform",
-      "python"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "Giải Mã SRS & Data Dictionary: 'Bản Vẽ Thi Công' Cứu Cánh Cho Team Dev",
-    "summary": "Bài viết gốc được xuất bản tại ITPrep - Cẩm nang & Cheat Sheet Phỏng vấn IT.\n\nTrong thế giới code dạo, có một sự thật đau lòng: Code sai logic sửa rất nhanh, nhưng code sai requirement thì phải đập đi xây lại. Khi bắt đầu một dự án, anh em Dev rất cần một \"bản vẽ thi công\" chuẩn chỉnh để thiết kế Da",
-    "url": "https://dev.to/itprepvn/giai-ma-srs-data-dictionary-ban-ve-thi-cong-cuu-canh-cho-team-dev-5eab",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "softwareengineering",
-      "database",
-      "architecture",
-      "productivity"
+      "claude"
     ]
   },
   {
     "id": "014",
-    "title": "Production-Grade Engineering Skills for AI Coding Agents",
-    "summary": "AI coding agents have revolutionized how we write software. They can implement features, fix bugs, and review code at incredible speed. But there's a catch: AI agents default to the shortest path, which often means skipping specs, tests, security reviews, and the practices that make software reliabl",
-    "url": "https://dev.to/vikrant_bagal_afae3e25ca7/production-grade-engineering-skills-for-ai-coding-agents-56nb",
+    "title": "Java Generics, Type Erasure, and a conceptual idea: reified generics as a first-class citizen?",
+    "summary": "Java chose type erasure in Java 5 for valid reasons: binary compatibility, massive enterprise ecosystem, millions of existing libraries. The decision was probably correct at the time.\n\nBut we're still paying the cost today, and what's interesting is that the modern JVM ecosystem increasingly depends",
+    "url": "https://dev.to/luidmidev/java-generics-type-erasure-and-a-conceptual-idea-reified-generics-as-a-first-class-citizen-1dm6",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "claude",
-      "agentskills",
+      "java",
+      "jdk",
+      "generics",
       "programming"
     ]
   },
   {
     "id": "015",
-    "title": "Building a Court Data API for India's Legal Tech Ecosystem",
-    "summary": "Building a Court Data API for India's Legal Tech Ecosystem\n\n\nIndia generates an enormous volume of legal data every day - millions of court cases, judgments, orders, and cause lists across 600+ district courts, 25 High Courts, and the Supreme Court. Until recently, accessing this data programmatical",
-    "url": "https://dev.to/rchtjn2/building-a-court-data-api-for-indias-legal-tech-ecosystem-1354",
+    "title": "Hooks en Kiro: cómo automatizar tareas repetitivas con triggers inteligentes",
+    "summary": "Hooks en Kiro: cómo automatizar tareas repetitivas con triggers inteligentes\n\n\n¿Cuántas veces al día le pides al agente que revise el linting, que genere tests o que actualice la documentación? Si la respuesta es \"muchas\", los agent hooks de Kiro son para ti. En lugar de repetir esas solicitudes man",
+    "url": "https://dev.to/antitopy/hooks-en-kiro-como-automatizar-tareas-repetitivas-con-triggers-inteligentes-4cbm",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "programming",
-      "ai"
+      "ai",
+      "kiro",
+      "agents"
     ]
   },
   {
     "id": "016",
-    "title": "10 RAG Architecture Mistakes Fintechs Make in Their First Production Deployment",
-    "summary": "This article was originally published on JustSoftLab Insights.\n\n\n\n\nWe've shipped RAG systems for regulated fintech clients across the past two years — fraud detection augmentation, compliance documentation Q&A, regulatory filing analysis, internal policy assistants. Across those engagements one patt",
-    "url": "https://dev.to/justsoftlab_x01/10-rag-architecture-mistakes-fintechs-make-in-their-first-production-deployment-2cea",
+    "title": "How to Make xt850 Match xt 850",
+    "summary": "TL;DR\n\n\nSince version 23.0.0, Manticore can make searches like xt850 match xt 850 using bigram_delimiter together with digit-aware bigram_index modes.\n\nThis solves a common tokenization mismatch in product search, where users remove spaces from model names but the source data stores them as separate",
+    "url": "https://dev.to/sanikolaev/how-to-make-xt850-match-xt-850-o15",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "rag",
-      "fintech",
-      "machinelearning",
-      "postgres"
+      "database",
+      "nlp",
+      "sql",
+      "tutorial"
     ]
   },
   {
     "id": "017",
-    "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+    "title": "AI Skills for Project Management",
+    "summary": "After completing the DelftX project management course in TU Delft's Engineering Project Management series, the idea that stayed with me was not a template, a checklist, or a new way to make a Gantt chart look more impressive.\nIt was simpler than that: before you manage a project, you need to underst",
+    "url": "https://dev.to/maiobarbero/ai-skills-for-project-management-4clg",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "management",
+      "productivity",
+      "claude"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "I Built an AI-Powered Automatic Waste Segregation System Using Arduino UNO Q ♻️",
+    "summary": "Waste segregation sounds simple until you actually start doing it daily.\n\nOne bin slowly turns into a mix of food waste, plastic wrappers, paper cups, batteries, and random junk. Most people don’t ignore recycling intentionally — it’s usually because sorting waste every single time becomes tiring.\n\n",
+    "url": "https://dev.to/david_thomas/i-built-an-ai-powered-automatic-waste-segregation-system-using-arduino-uno-q-aoe",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "arduino",
+      "tutorial",
+      "ai"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "PHP 8.4 Features You're Probably Not Using Yet in Your Laravel App",
+    "summary": "Originally published at hafiz.dev\n\n\n\n\n\nIf you followed the Laravel 13 upgrade path, you're running PHP 8.4 by now (or you should be, since Laravel 13.3+ pulls in Symfony 8 components that require it). The upgrade guide covers the migration steps, but upgrading your runtime and actually using the new",
+    "url": "https://dev.to/hafiz619/php-84-features-youre-probably-not-using-yet-in-your-laravel-app-282h",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "php",
+      "laravel",
+      "php84",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars 但 90% 的人用错了",
+    "summary": "这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars 但 90% 的人用错了\n\n\n你知道吗？GitHub 上有一个 11,849 Stars 的开源项目，能让你用 5 行代码把任何 FastAPI 接口暴露为 MCP 工具。但问题是——大多数团队用它搭的 MCP Server，一上线就崩。\n\nModel Context Protocol（MCP）在 2026 年已经是 AI Agent 开发的事实标准。Anthropic 在推，Google 在用，Cursor 和 Claude Code 都在靠它吃饭。但真正的问题是：如何在生产环境下稳定运",
+    "url": "https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-github-kai-yuan-xiang-mu-rang-ni-5-fen-zhong-ba-ren-he-api-bian-cheng-mcp-server11k-stars-dan-90-de-ren-yong-cuo-liao-2e21",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "Dev.to"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Why ECS Exec Fails on ECS Managed Instance and How to Fix It",
+    "summary": "I hit an issue while testing ECS Managed Instance, so here's a quick note for future reference.\n\n\n  \n  \n  ECS Exec Fails on a Task Container Running on ECS Managed Instance in a Public Subnet\n\n\nIf you deploy this setup in a public subnet without any special network configuration and run the Exec com",
+    "url": "https://dev.to/aws-builders/why-ecs-exec-fails-on-ecs-managed-instance-and-how-to-fix-it-3khg",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "aws",
+      "containers",
+      "cloud",
+      "networking"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "AI Agent Browser Automation: Why Headless Scripts Are Not Enough for Real Workflows",
+    "summary": "Most developers meet browser automation through a clean demo.\n\nOpen a page. Click a button. Fill a form. Read the result. Close the browser.\n\nFor that kind of task, a headless script is often enough. Playwright, Puppeteer, Selenium, and CDP-based tools are excellent when the path is stable and the b",
+    "url": "https://dev.to/web4browser/ai-agent-browser-automation-why-headless-scripts-are-not-enough-for-real-workflows-7f3",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "automation",
+      "webdev",
+      "testing"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Stop Wasting Tokens: High-Performance Local Re-ranking with Spring AI and JEP 489",
+    "summary": "Stop Wasting Tokens: High-Performance Local Re-ranking with Spring AI and JEP 489\n\n\nRAG latency is killing your UX because you’re still piping re-ranking tasks to overpriced LLM APIs. In 2026, if you aren’t running SIMD-accelerated Cross-Encoders locally on your JVM to prune your context window, you",
+    "url": "https://dev.to/machinecodingmaster/stop-wasting-tokens-high-performance-local-re-ranking-with-spring-ai-and-jep-489-1ina",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "java",
+      "ai",
+      "llm",
+      "concurrency"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
     "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
     "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
     "date": "2026-05-08",
@@ -233,9 +326,9 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "Gambling ads on social media reach more than twice as many men as women: study",
-    "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 27\n# Comments: 8",
+    "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 45\n# Comments: 32",
     "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -244,9 +337,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
     "title": "Plasticity and language in the anaesthetized human hippocampus",
-    "summary": "https://www.nature.com/articles/s41586-026-10448-0\n\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 70\n# Comments: 26",
+    "summary": "https://www.nature.com/articles/s41586-026-10448-0\n\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 86\n# Comments: 34",
     "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -255,9 +348,9 @@
     ]
   },
   {
-    "id": "020",
+    "id": "027",
     "title": "Maybe you shouldn't install new software for a bit",
-    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 241\n# Comments: 107",
+    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 348\n# Comments: 151",
     "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -266,9 +359,9 @@
     ]
   },
   {
-    "id": "021",
+    "id": "028",
     "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 94\n# Comments: 30",
+    "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 122\n# Comments: 32",
     "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -277,51 +370,7 @@
     ]
   },
   {
-    "id": "022",
-    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-    "summary": "https://thetech.com/2026/05/07/canvas-breach-26https://techcrunch.com/2026/05/07/hackers-deface-school-logi...\n\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 361\n# Comments: 261",
-    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Cloudflare to cut about 20% workforce",
-    "summary": "https://blog.cloudflare.com/building-for-the-future/\n\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 327\n# Comments: 205",
-    "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 63\n# Comments: 17",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Creating for a niche",
-    "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 36\n# Comments: 6",
-    "url": "https://www.davesnider.com/posts/working-in-a-niche",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "026",
+    "id": "029",
     "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
     "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
     "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
@@ -336,7 +385,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "030",
     "title": "OpenAI launches new voice intelligence features in its API",
     "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
     "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
@@ -346,52 +395,6 @@
       "AI",
       "OpenAI",
       "gpt"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-    "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
-    "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Transportation",
-      "autonomous trucks",
-      "self-driving trucks",
-      "kodiak ai"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Disney looking to make a unified ‘super app,’ report says",
-    "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
-    "url": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Media & Entertainment",
-      "Disney",
-      "Disney Plus",
-      "In Brief",
-      "josh d'amaro"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
-    "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Startups",
-      "a16z",
-      "pit",
-      "Voi"
     ]
   }
 ]
