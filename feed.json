@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://news.ycombinator.com/item?id=48060054",
-      "title": "Ask HN: We just had an actual UUID v4 collision...",
-      "summary": "I know what you're thinking... and I still can't believe it, but...This morning, our database flagged a duplicate UUID (v4). I checked, thinking it may have been a double-insert bug or something, but no.The original UUID was from a record added in 2025 (about a year ago), and today the system insert",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "title": "ClojureScript Gets Async/Await",
+      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 88\n# Comments: 23",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "title": "ClojureScript Gets Async/Await",
-      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 57\n# Comments: 15",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 59\n# Comments: 44",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 11\n# Comments: 7",
+      "url": "https://github.com/graemeg/blaise",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 53\n# Comments: 18",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://github.com/graemeg/blaise",
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 48\n# Comments: 14",
+      "url": "https://lwn.net/Articles/1066418/",
+      "title": "Digging into Drama at the Document Foundation",
+      "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 39\n# Comments: 4",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://lwn.net/Articles/1066418/",
-      "title": "Digging into Drama at the Document Foundation",
-      "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 32\n# Comments: 3",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis\nComments URL: https://news.ycombinator.com/item?id=48057209\nPoints: 63\n# Comments: 12",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -64,7 +64,7 @@
       "id": "006",
       "url": "https://github.com/robertdfrench/ifuncd-up",
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 78\n# Comments: 35",
+      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 93\n# Comments: 43",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -92,6 +92,19 @@
     },
     {
       "id": "008",
+      "url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
+      "title": "Apple’s education discount now requires proof that you’re a student",
+      "summary": "Apple now requires proof of eligibility from US customers who purchase products online at discounted education rates, which also apply to the Apple Watch for the first time. According to a new pop-up message displayed on Apple's education webstore, Apple is directing students, parents, and teachers ",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Apple",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "009",
       "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
       "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
       "summary": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from $499.99 all the way up to $649.99. […]",
@@ -106,7 +119,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "009",
+      "id": "010",
       "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
       "title": "Nintendo is raising Switch 2 prices",
       "summary": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.99 in the US, up from its current $449.99 price. At the same time, prices will al",
@@ -121,7 +134,82 @@
       "_source": "The Verge"
     },
     {
-      "id": "010",
+      "id": "011",
+      "url": "https://www.wired.com/story/best-mobile-gaming-controllers/",
+      "title": "The Best Mobile Gaming Controllers for iPhone and Android (2026)",
+      "summary": "Your iPhone or Android phone can work overtime as a full-on gaming console with the help of these mobile controllers. Backbone makes my favorite.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products",
+        "Gear / Products / Gaming",
+        "Gear / Products / Phones",
+        "Shopping",
+        "buying guides",
+        "video games",
+        "phones",
+        "Button Mashing"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "012",
+      "url": "https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/",
+      "title": "We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising",
+      "summary": "For our latest WIRED Blind Test, we sat coffee industry professionals down to rank leading do-it-all coffee machines—and the winner wasn't what anyone expected.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Products / Kitchen",
+        "Shopping",
+        "kitchen",
+        "Food and Drink",
+        "coffee",
+        "Coffee makers",
+        "espresso",
+        "testing",
+        "WIRED Blind Test"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "013",
+      "url": "https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/",
+      "title": "Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish",
+      "summary": "In an interview with WIRED ahead of her new concert film Hit Me Hard and Soft: The Tour (Live in 3D), Billie Eilish talked about whether or not future artists will be able to leverage SoundCloud the way she did.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Culture",
+        "Culture / Music",
+        "Culture / Digital Culture",
+        "Music",
+        "Social Media"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "014",
+      "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+      "title": "The New Wild West of AI Kids’ Toys",
+      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Gear / Trends",
+        "artificial intelligence",
+        "toys",
+        "kids",
+        "parenting",
+        "children",
+        "Friends Like These"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "015",
       "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
       "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
       "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
@@ -142,7 +230,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "016",
       "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
       "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
       "summary": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
@@ -159,7 +247,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "017",
       "url": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
       "title": "Meet Rassvet, Russia’s Answer to Starlink",
       "summary": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
@@ -179,7 +267,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "018",
       "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
       "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
       "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
@@ -201,7 +289,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "019",
       "url": "https://www.wired.com/story/doordash-promo-code/",
       "title": "50% Off DoorDash Promo Code | May 2026",
       "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
@@ -215,7 +303,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "020",
       "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
       "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
       "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
@@ -235,7 +323,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "021",
       "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
       "title": "Here’s how technology transformed babymaking",
       "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
@@ -248,7 +336,7 @@
       "_source": "MIT Tech Review"
     },
     {
-      "id": "017",
+      "id": "022",
       "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
       "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
       "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step tow",
@@ -261,183 +349,113 @@
       "_source": "VentureBeat"
     },
     {
-      "id": "018",
-      "url": "https://dev.to/michelfaure/live-snapshot-cache-la-decision-a-trois-voies-avant-de-stocker-une-valeur-derivee-4kfb",
-      "title": "Live, Snapshot, Cache : la décision à trois voies avant de stocker une valeur dérivée",
-      "summary": "Si tu as 30 secondes. « Ne pas dupliquer les données » est une règle qui se casse en production : les caches sont légitimes, et tu finis par les livrer quand même. La règle qui tient vraiment est plus fine — toute valeur stockée qui ressemble à une duplication est soit Live, soit Snapshot, soit Cach",
-      "date_published": "2026-05-08",
-      "tags": [
-        "postgres",
-        "architecture",
-        "softwareengineering",
-        "claudecode"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/rosgluk/kanban-in-hermes-agent-for-self-hosted-llm-workflows-1ekf",
-      "title": "Kanban in Hermes Agent for Self Hosted LLM Workflows",
-      "summary": "Hermes Agent ships with a Kanban-style board and the Hermes Gateway that can saturate your self-hosted LLM if too many tasks are dispatched at once.\n\nI can say you can easily ddos your own LLM this way.\n\nHermes Kanban is a durable multi-profile board backed by ~/.hermes/kanban.db.\nEach lane represen",
-      "date_published": "2026-05-08",
-      "tags": [
-        "hermes",
-        "selfhosting",
-        "llm",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://dev.to/edriso/ts-node-vs-tsc-and-the-typescript-commands-you-actually-need-4h2k",
-      "title": "ts-node vs tsc, and the TypeScript commands you actually need",
-      "summary": "When you are new to TypeScript, the tooling can feel like it has too many moving parts. You see tsc in one tutorial, ts-node in another, sometimes tsx, and it is not always clear which one to reach for. This post will clear that up.\n\n\n  \n  \n  The core idea\n\n\nBrowsers and Node.js do not understand Ty",
-      "date_published": "2026-05-08",
-      "tags": [
-        "typescript",
-        "beginners",
-        "node",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/edriso/what-does-type-in-packagejson-actually-do-24oa",
-      "title": "What does \"type\" in package.json actually do?",
-      "summary": "If you have ever opened a package.json and seen something like this:\n\n\n\n{\n  \"type\": \"module\"\n}\n\n\n\n\n\n\nand wondered what it actually does, this post is for you. We will keep things simple and stick to what a beginner needs to know.\n\n\n  \n  \n  Two ways to share code in JavaScript\n\n\nJavaScript has two sy",
-      "date_published": "2026-05-08",
-      "tags": [
-        "javascript",
-        "node",
-        "beginners",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/pratham_kumar_8cc837c51ed/i-never-expected-this-response-robot-toast-3gh7",
-      "title": "I never expected this response ~robot-toast",
-      "summary": "It started with an SSO project.\n\nI was building an IDP server — the kind that handles authentication across connected domains. I wanted a Google-like widget, the one that shows up and says \"Hey, you switched accounts\" or \"Welcome back, Pratham.\" Clean. Branded. Satisfying.\n\nSo I built a toast that s",
-      "date_published": "2026-05-08",
-      "tags": [
-        "javascript",
-        "webdev",
-        "opensource",
-        "npm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "023",
-      "url": "https://dev.to/voohu_electronictech_e9a/pairing-phy-chips-with-gigabit-network-transformers-is-less-universal-than-i-expected-g8b",
-      "title": "Pairing PHY chips with Gigabit network transformers is less “universal” than I expected",
-      "summary": "Pairing PHY chips with Gigabit network transformers is less “universal” than I expected\nI’ve been validating a few 1000Base-T designs recently, and something that looked simple at first ended up taking more time than expected:\ngetting the PHY and the network transformer to behave nicely together.\nAt",
+      "url": "https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2",
+      "title": "How I Built an Autonomous SRE (and made it into the OpenAI Cookbook!)",
+      "summary": "Taming GPT-4o for Production EKS\n\n\nLet’s be brutally honest for a second: the idea of letting an LLM blindly run kubectl apply on your production AWS EKS cluster is terrifying.\n\nIt is the stuff of late-night DevOps nightmares. One rogue hallucination, an accidental namespace change, or a sudden Clus",
       "date_published": "2026-05-08",
       "tags": [
-        "design",
-        "devjournal",
-        "networking",
-        "testing"
+        "aws",
+        "devops",
+        "kubernetes",
+        "openai"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a",
-      "title": "Stop using UUID v4 as your database primary key",
-      "summary": "I spent a while wondering why inserts on a particular table were getting slower as it grew. The table had a UUID v4 primary key and a few indexes. The data wasn't huge - a few million rows - but write performance was noticeably degrading.\n\nThe problem wasn't the query. It was the UUID.\n\n\n  \n  \n  Wha",
+      "url": "https://dev.to/soumia_g_9dc322fc4404cecd/what-kubecon-amsterdam-2026-taught-me-about-infrastructure-as-transformation-3o1o",
+      "title": "What KubeCon Amsterdam 2026 Taught Me About Infrastructure as Transformation",
+      "summary": "KubeCon + CloudNativeCon EU 2026 · Amsterdam · March 23–26\n\n\nMore than 13,000 engineers gathering around infrastructure might sound excessive until you realize what they're really there for: understanding how the next generation of systems is being built in real time.\n\nAll sessions referenced in thi",
       "date_published": "2026-05-08",
       "tags": [
-        "database",
-        "uuid",
-        "postgres",
-        "programming"
+        "kubecon",
+        "kubernetes",
+        "cloudnative",
+        "observability"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok",
-      "title": "The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just \"Management",
-      "summary": "In the fast-moving world of software architecture, we’ve spent a decade perfecting the \"API-First\" approach. We built gateways to handle humans and web apps. But as we move through 2026, a new consumer has entered the chat: The AI Agent.\n\nIf you are still using a traditional API gateway to manage yo",
+      "url": "https://dev.to/ramen-noodle/the-difference-between-a-consumer-prompt-and-production-infrastructure-gp3",
+      "title": "The Difference Between a Consumer Prompt and Production Infrastructure",
+      "summary": "Most companies are building enterprise AI using consumer habits. An engineer writes a system prompt, tests it five times in a playground environment, gets a helpful answer, and ships it.\n\nThat is not engineering. That is relying on vibes.\n\nConsumer prompts are designed to optimize for helpfulness. P",
       "date_published": "2026-05-08",
       "tags": [
         "ai",
-        "architecture",
-        "wso2",
-        "apimanagement"
+        "machinelearning",
+        "promptengineering",
+        "architecture"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4",
-      "title": "AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems",
-      "summary": "AI agents are rapidly moving from experimental prototypes to production infrastructure.\n\nDevelopers are no longer just building chatbots.\n\nThey’re building systems capable of:\n\n\nMulti-step reasoning\nTool usage\nMemory management\nWorkflow automation\nRetrieval augmentation\nAutonomous execution\n\n\nBut on",
+      "url": "https://dev.to/johalputt/the-ultimate-showdown-revisited-with-kubernetes-and-microservices-benchmark-3o6",
+      "title": "The Ultimate Showdown revisited with Kubernetes and Microservices: Benchmark",
+      "summary": "In 2024, the average enterprise Kubernetes microservices stack wastes 34% of node capacity on orchestration overhead alone—our 10-iteration AWS c6i.xlarge benchmark cuts through the marketing fluff to show what actually performs.\n\n\n  \n  \n  🔴 Live Ecosystem Stats\n\n\n\n  ⭐ kubernetes/kubernetes — 122,11",
       "date_published": "2026-05-08",
       "tags": [
-        "ai",
-        "agents",
-        "langchain",
-        "agentaichallenge"
+        "ultimate",
+        "showdown",
+        "revisited",
+        "kubernetes"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/kalyna_pro/how-to-use-claude-api-with-python-complete-beginners-guide-2026-1aeg",
-      "title": "How to Use Claude API with Python: Complete Beginner's Guide (2026)",
-      "summary": "The Anthropic Python SDK makes it simple to integrate Claude into your applications. In this guide you'll go from zero to a working chatbot in under 10 minutes — covering installation, your first API call, streaming, multi-turn conversations, and error handling.\n\n\n  \n  \n  Prerequisites\n\n\n\nPython 3.8",
+      "url": "https://dev.to/elchinasgarov/why-your-autonomous-ai-agent-will-die-from-a-403-error-and-how-to-fix-it-bgc",
+      "title": "Why Your Autonomous AI Agent Will Die From a 403 Error (And How to Fix It)",
+      "summary": "The AI industry is currently obsessed with the \"brain\" (LLMs, RAG, Autonomous Agents) but completely ignoring the \"digestive system\" (Data Ingestion).\n\n​Founders are spending millions on compute to build sophisticated agents, only to deploy them into production and watch them get instantly paralyzed",
       "date_published": "2026-05-08",
       "tags": [
-        "python",
-        "ai",
-        "claude",
-        "tutorial"
+        "Dev.to"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/wpzstudio/iis-log-analyzer-transforming-iis-logs-into-operational-and-security-intelligence-3j65",
-      "title": "IIS Log Analyzer: Transforming IIS Logs into Operational and Security Intelligence",
-      "summary": "Transforming IIS Logs into Operational and Security Intelligence\n\nIIS Log Analyzer is a Windows desktop tool designed for IIS administrators, DevOps teams, and security analysts who need faster visibility into traffic behavior, performance bottlenecks, and potential threats.\nInstead of manually pars",
+      "url": "https://dev.to/japan_refactor/jtc-office-culture-why-kuuki-wo-yomu-is-not-telepathy-a-guide-to-high-context-communication-h8n",
+      "title": "JTC Office Culture: Why \"Kuuki wo Yomu\" Is Not Telepathy — A Guide to High-Context Communication and Social Signal Processing",
+      "summary": "For foreign engineers in Japan, the phrase \"Kuuki wo Yomu\" (Reading the Air) often feels like unscientific telepathy—an invisible social contract with no documentation and no error messages. It's one of the most underestimated soft skills for engineers working in Japanese companies.\n\nMost engineers ",
       "date_published": "2026-05-08",
       "tags": [
-        "iis",
-        "loganalytics",
-        "websecurity",
-        "devops"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/maxx_l/stop-hand-syncing-claude-code-and-codex-configs-enk",
-      "title": "Stop hand-syncing Claude Code and Codex configs",
-      "summary": "If you've spent any time in Claude Code or Codex, your config tree is probably substantial:\n\n\n~/.claude/{settings.json, agents/, skills/, .mcp.json, CLAUDE.md}\n~/.codex/{config.toml, AGENTS.md} plus ~/.agents/skills/\n\n\nTwo situations get painful fast.\n\nSwitching tools. You curated skills, agents, MC",
-      "date_published": "2026-05-08",
-      "tags": [
-        "claude",
-        "openai",
-        "cli",
+        "culture",
+        "softskills",
+        "career",
         "productivity"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "030",
-      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-      "title": "TikTok scales back AI-generated video descriptions after absurd errors",
-      "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
+      "id": "029",
+      "url": "https://dev.to/muhammad_yasin_f39f26989f/ai-for-scientific-discovery-in-the-real-world-what-gemma-4-changes-the-moment-ai-leaves-the-4aai",
+      "title": "🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window",
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window\n\nMost discussions about AI models focus on productivity, coding assistants, or chat interfaces.\n\nBut something fundamentally",
       "date_published": "2026-05-08",
       "tags": [
-        "BBC News"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "deeplearning"
       ],
-      "_source": "BBC News"
+      "_source": "Dev.to"
+    },
+    {
+      "id": "030",
+      "url": "https://dev.to/anna_danilec/deterministic-guardrails-for-non-deterministic-agents-127b",
+      "title": "Deterministic Guardrails for Non-Deterministic Agents",
+      "summary": "By design, Large Language Models (LLMs) are non-deterministic. Even with an identical prompt, they can return different answers, trigger the wrong API, leak sensitive personal data, or initiate a costly chain of requests that evaporates a monthly cloud budget in seconds. For engineers managing produ",
+      "date_published": "2026-05-08",
+      "tags": [
+        "ai",
+        "python",
+        "agents",
+        "security"
+      ],
+      "_source": "Dev.to"
     }
   ]
 }
