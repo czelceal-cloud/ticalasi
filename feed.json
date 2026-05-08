@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "summary": "Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa\nComments URL: https://news.ycombinator.com/item?id=48062117\nPoints: 205\n# Comments: 196",
+      "url": "https://btxx.org/posts/memory/",
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "summary": "Article URL: https://btxx.org/posts/memory/\nComments URL: https://news.ycombinator.com/item?id=48064312\nPoints: 19\n# Comments: 2",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
-      "summary": "Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/\nComments URL: https://news.ycombinator.com/item?id=48062035\nPoints: 31\n# Comments: 8",
+      "url": "https://github.com/regent-vcs/re_gent",
+      "title": "Show HN: Git for AI Agents",
+      "summary": "hi guys.\nbeen working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder? why?\", etc. or trying to /rewind (after a /compact...) or basically `",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.war.gov/UFO/",
-      "title": "US Government releases first batch of UAP documents and videos",
-      "summary": "Article URL: https://www.war.gov/UFO/\nComments URL: https://news.ycombinator.com/item?id=48061938\nPoints: 23\n# Comments: 7",
+      "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+      "title": "PC Engine CPU",
+      "summary": "Article URL: https://jsgroth.dev/blog/posts/pc-engine-cpu/\nComments URL: https://news.ycombinator.com/item?id=48063521\nPoints: 38\n# Comments: 4",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://meshtastic.org/docs/introduction/",
-      "title": "An Introduction to Meshtastic",
-      "summary": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 71\n# Comments: 26",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "summary": "Article URL: https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall\nComments URL: https://news.ycombinator.com/item?id=48063240\nPoints: 117\n# Comments: 116",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "title": "ClojureScript Gets Async/Await",
-      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 146\n# Comments: 40",
+      "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "summary": "Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/\nComments URL: https://news.ycombinator.com/item?id=48063199\nPoints: 33\n# Comments: 7",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://c9x.me/compile/",
-      "title": "QBE – Compiler Back End",
-      "summary": "Article URL: https://c9x.me/compile/\nComments URL: https://news.ycombinator.com/item?id=48059633\nPoints: 21\n# Comments: 0",
+      "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "summary": "Article URL: https://garrido.io/notes/podman-rootless-containers-copy-fail/\nComments URL: https://news.ycombinator.com/item?id=48062745\nPoints: 35\n# Comments: 4",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 144\n# Comments: 120",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "summary": "Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa\nComments URL: https://news.ycombinator.com/item?id=48062117\nPoints: 507\n# Comments: 417",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://github.com/graemeg/blaise",
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 72\n# Comments: 30",
+      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+      "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
+      "summary": "Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/\nComments URL: https://news.ycombinator.com/item?id=48062035\nPoints: 70\n# Comments: 22",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis\nComments URL: https://news.ycombinator.com/item?id=48057209\nPoints: 105\n# Comments: 23",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "title": "An Introduction to Meshtastic",
+      "summary": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 182\n# Comments: 65",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -106,6 +106,48 @@
     },
     {
       "id": "010",
+      "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
+      "title": "Pentagon releases UFO files on new website",
+      "summary": "The Defense Department has released a collection of UFO files with images, videos, and documents on war.gov/ufo.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Government & Policy",
+        "aliens",
+        "Defense Department",
+        "pentagon",
+        "UFO"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
+      "title": "Truecaller slashes 70 jobs amid declining ad sales",
+      "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Apps",
+        "India",
+        "Layoffs",
+        "Truecaller"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
+      "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
+      "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Startups",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
       "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
       "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
@@ -127,7 +169,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
       "title": "Lime, the Uber-backed micromobility company, files for IPO",
       "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
@@ -137,14 +179,15 @@
         "IPO",
         "JUMP",
         "lime",
+        "micromobility",
         "Uber"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+      "title": "The biggest US power grid is under strain from AI — and no one is happy",
       "summary": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
       "date_published": "2026-05-08",
       "tags": [
@@ -155,7 +198,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
       "title": "Airbnb says AI now writes 60% of its new code",
       "summary": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
@@ -170,9 +213,9 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "title": "Why you can never get your doctor to call you back",
+      "title": "The fax machine is the bottleneck in U.S. healthcare, and VCs are starting to notice",
       "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
       "date_published": "2026-05-08",
       "tags": [
@@ -189,7 +232,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
       "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
       "summary": "The game asks players to find the least worst options for a shipping chokepoint.",
@@ -210,7 +253,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
       "title": "Rocket Report: Alpha Block 2 coming this summer; Falcon sets booster landing mark",
       "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
@@ -223,7 +266,111 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "017",
+      "id": "020",
+      "url": "https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale",
+      "title": "Google Fitbit Air preorders come with a second band for free",
+      "summary": "Google’s new Fitbit Air, the $99.99 screenless fitness tracker, comes out on May 26th. It’s the company’s first Fitbit release in four years, and you can use it on iOS or Android phones without a paid subscription if all you want to do is track activities, sleep, and basic health metrics (heart rate",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "021",
+      "url": "https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port",
+      "title": "Everyone should follow Logitech and put extra USB ports on iPad keyboard cases",
+      "summary": "Logitech is introducing a new feature to its rugged iPad Combo 4 keyboard case that addresses an ongoing issue with the tablet as Apple continues to push it toward being a laptop alternative. The new Rugged Combo 4c and 4c Touch cases, compatible with the 10th and 11th-gen iPads, add a second USB-C ",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Apple",
+        "Gadgets",
+        "iPad",
+        "Keyboards",
+        "Logitech",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "022",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
+      "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top exe",
+      "date_published": "2026-05-08",
+      "tags": [
+        "AI",
+        "Gaming",
+        "Microsoft",
+        "OpenAI",
+        "Report",
+        "Tech",
+        "Xbox"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "023",
+      "url": "https://www.theverge.com/entertainment/926841/native-instruments-inmusic",
+      "title": "The company that owns Moog, Akai Pro, and Numark is buying Native Instruments",
+      "summary": "Native Instruments' suite of music production software and gear, including Traktor and Kontakt, will soon live under the inMusic umbrella alongside other music tech brands like Akai Professional and Moog Music. As MusicRadar reports, Native Instruments CEO Nick Williams said the company was looking ",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Entertainment",
+        "Music",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "024",
+      "url": "https://www.theverge.com/gadgets/926434/govee-outdoor-solar-string-lights-star-fox-switch-2-deal-sale",
+      "title": "Govee’s solar-powered string lights are already on sale for 20 percent off",
+      "summary": "I’m not sure if we’ve mentioned this yet, but Govee has been on a tear lately, having recently announced everything from rechargeable table lamps to multicolor, Matter-compatible ceiling lights that can display custom images with retro, pixelated flair. In April, the company also unveiled a 34-foot ",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Smart Home",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "025",
+      "url": "https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future",
+      "title": "The future of game consoles is looking bleak",
+      "summary": "It's been a real good news / bad news week for Nintendo. Out of nowhere on Wednesday, the company announced a lush remake of Star Fox 64, jolting the dormant franchise to life and helping to fill out a relatively sparse lineup for the Switch 2 for the rest of the year. But then on […]",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Analysis",
+        "Entertainment",
+        "Gaming",
+        "Nintendo",
+        "Report"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "026",
+      "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
+      "title": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
+      "summary": "Boox has announced its own alternative to the Kobo Remote that offers more functionality than just turning the page while reading on its tablets and e-readers. The Tappy can also be used to scroll vertical content in browsers or social media apps and skip to the next or previous track when listening",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Gadgets",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "027",
       "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
       "title": "What’s the role of a simple fitness band in the AI health era?",
       "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A fitness band is for bettering yourself, but casually. It's lightweigh",
@@ -239,21 +386,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "018",
-      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
-      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-      "summary": "Tesla is recalling its RWD Cybertruck Long Range over faulty brake rotors that could cause the wheels to fall off, as spotted earlier by MotorTrend. In a notice on the National Highway Traffic Safety Administration's website, Tesla says \"brake rotor stud holes may crack and allow the stud to separat",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Electric Cars",
-        "News",
-        "Tesla",
-        "Transportation"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "019",
+      "id": "028",
       "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
       "title": "Everybody wants to rule the AI world",
       "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
@@ -269,193 +402,37 @@
       "_source": "The Verge"
     },
     {
-      "id": "020",
-      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
-      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
-      "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Interview",
-        "Matter",
-        "Report",
-        "Smart Home",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "021",
-      "url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
-      "title": "Apple’s education discount now requires proof that you’re a student",
-      "summary": "Apple now requires proof of eligibility from US customers who purchase products online at discounted education rates, which also apply to the Apple Watch for the first time. According to a new pop-up message displayed on Apple's education webstore, Apple is directing students, parents, and teachers ",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Apple",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "022",
-      "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
-      "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
-      "summary": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from $499.99 all the way up to $649.99. […]",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gaming",
-        "News",
-        "PlayStation",
-        "Sony",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "023",
-      "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
-      "title": "Nintendo is raising Switch 2 prices",
-      "summary": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.99 in the US, up from its current $449.99 price. At the same time, prices will al",
+      "id": "029",
+      "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
+      "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
       "date_published": "2026-05-08",
       "tags": [
         "Business",
-        "Entertainment",
-        "Gaming",
-        "News",
-        "Nintendo"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "024",
-      "url": "https://www.wired.com/story/best-mobile-gaming-controllers/",
-      "title": "The Best Mobile Gaming Controllers for iPhone and Android (2026)",
-      "summary": "Your iPhone or Android phone can work overtime as a full-on gaming console with the help of these mobile controllers. Backbone makes my favorite.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products",
-        "Gear / Products / Gaming",
-        "Gear / Products / Phones",
-        "Shopping",
-        "buying guides",
-        "video games",
-        "phones",
-        "Button Mashing"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "025",
-      "url": "https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/",
-      "title": "We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising",
-      "summary": "For our latest WIRED Blind Test, we sat coffee industry professionals down to rank leading do-it-all coffee machines—and the winner wasn't what anyone expected.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "Gear / Products / Kitchen",
-        "Shopping",
-        "kitchen",
-        "Food and Drink",
-        "coffee",
-        "Coffee makers",
-        "espresso",
-        "testing",
-        "WIRED Blind Test"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "026",
-      "url": "https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/",
-      "title": "Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish",
-      "summary": "In an interview with WIRED ahead of her new concert film Hit Me Hard and Soft: The Tour (Live in 3D), Billie Eilish talked about whether or not future artists will be able to leverage SoundCloud the way she did.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Culture",
-        "Culture / Music",
-        "Culture / Digital Culture",
-        "Music",
-        "Social Media"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
-      "title": "The New Wild West of AI Kids’ Toys",
-      "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "Gear / Trends",
+        "Business / Tech Culture",
+        "Backchannel - NL",
+        "philosophy",
         "artificial intelligence",
-        "toys",
-        "kids",
-        "parenting",
-        "children",
-        "Friends Like These"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
-      "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
-      "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products / Home",
-        "Shopping",
-        "animals",
-        "buying guides",
-        "animal behavior",
-        "smart home",
-        "cats",
-        "pets",
-        "Buying Guide"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "summary": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Science",
-        "Science / Biotech",
-        "Chemistry",
-        "antibiotics",
-        "antibiotic resistance",
-        "Venom",
-        "Hot Ones"
+        "Books",
+        "ideas",
+        "Backchannel"
       ],
       "_source": "Wired"
     },
     {
       "id": "030",
-      "url": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
-      "title": "Meet Rassvet, Russia’s Answer to Starlink",
-      "summary": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
+      "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
+      "title": "There's a Long Shot Proposal to Protect California Workers From AI",
+      "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
       "date_published": "2026-05-08",
       "tags": [
-        "Security",
-        "Security / National Security",
-        "Security / Security News",
-        "Russia",
-        "satellites",
-        "China",
-        "privacy",
-        "surveillance",
-        "SpaceX",
-        "Space Race"
+        "Politics",
+        "artificial intelligence",
+        "politics",
+        "Regulation",
+        "government",
+        "elections",
+        "Jobs Jobs Jobs"
       ],
       "_source": "Wired"
     }
