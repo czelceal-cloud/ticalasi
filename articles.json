@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "HantaWatch Real time hantavirus outbreak tracker",
-    "summary": "Article URL: https://hantawatch.net/\nComments URL: https://news.ycombinator.com/item?id=48058917\nPoints: 5\n# Comments: 1",
-    "url": "https://hantawatch.net/",
+    "title": "Ask HN: We just had an actual UUID v4 collision...",
+    "summary": "I know what you're thinking... and I still can't believe it, but...This morning, our database flagged a duplicate UUID (v4). I checked, thinking it may have been a double-insert bug or something, but no.The original UUID was from a record added in 2025 (about a year ago), and today the system insert",
+    "url": "https://news.ycombinator.com/item?id=48060054",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 36\n# Comments: 7",
-    "url": "https://github.com/graemeg/blaise",
+    "title": "ClojureScript Gets Async/Await",
+    "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 57\n# Comments: 15",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Digging into Drama at the Document Foundation",
-    "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 19\n# Comments: 1",
-    "url": "https://lwn.net/Articles/1066418/",
+    "title": "Nintendo announces price increases for Nintendo Switch 2",
+    "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 11\n# Comments: 7",
+    "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "GPT-5.5 Price Increase: What It Costs",
-    "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis\nComments URL: https://news.ycombinator.com/item?id=48057209\nPoints: 29\n# Comments: 1",
-    "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+    "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 48\n# Comments: 14",
+    "url": "https://github.com/graemeg/blaise",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 70\n# Comments: 32",
-    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "title": "Digging into Drama at the Document Foundation",
+    "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 32\n# Comments: 3",
+    "url": "https://lwn.net/Articles/1066418/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -56,6 +56,17 @@
   },
   {
     "id": "006",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 78\n# Comments: 35",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
     "title": "Why you can never get your doctor to call you back",
     "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
     "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
@@ -74,7 +85,95 @@
     ]
   },
   {
-    "id": "007",
+    "id": "008",
+    "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
+    "summary": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from $499.99 all the way up to $649.99. […]",
+    "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
+    "date": "2026-05-08",
+    "source": "The Verge",
+    "tags": [
+      "Gaming",
+      "News",
+      "PlayStation",
+      "Sony",
+      "Tech"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Nintendo is raising Switch 2 prices",
+    "summary": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.99 in the US, up from its current $449.99 price. At the same time, prices will al",
+    "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
+    "date": "2026-05-08",
+    "source": "The Verge",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Nintendo"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+    "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+    "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Home",
+      "Shopping",
+      "animals",
+      "buying guides",
+      "animal behavior",
+      "smart home",
+      "cats",
+      "pets",
+      "Buying Guide"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+    "summary": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
+    "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "Science / Biotech",
+      "Chemistry",
+      "antibiotics",
+      "antibiotic resistance",
+      "Venom",
+      "Hot Ones"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Meet Rassvet, Russia’s Answer to Starlink",
+    "summary": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
+    "url": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Russia",
+      "satellites",
+      "China",
+      "privacy",
+      "surveillance",
+      "SpaceX",
+      "Space Race"
+    ]
+  },
+  {
+    "id": "013",
     "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
     "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
     "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
@@ -96,7 +195,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "014",
     "title": "50% Off DoorDash Promo Code | May 2026",
     "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
     "url": "https://www.wired.com/story/doordash-promo-code/",
@@ -110,7 +209,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "015",
     "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
     "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
     "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
@@ -130,7 +229,20 @@
     ]
   },
   {
-    "id": "010",
+    "id": "016",
+    "title": "Here’s how technology transformed babymaking",
+    "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
+    "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+    "date": "2026-05-08",
+    "source": "MIT Tech Review",
+    "tags": [
+      "Biotechnology and health",
+      "App",
+      "The Checkup"
+    ]
+  },
+  {
+    "id": "017",
     "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
     "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step tow",
     "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
@@ -143,265 +255,182 @@
     ]
   },
   {
-    "id": "011",
-    "title": "Stop writing TypeScript interfaces by hand - generate them from JSON, CSV, and OpenAPI in one command",
-    "summary": "You're integrating a third-party API. You open the docs, find a sample response, and start typing:\n\n\n\ninterface Product {\n    id: number;\n    name: string;\n    price: number;\n    // wait, is currency a string or an object?\n    // what's the shape of variants[]?\n    // does stock ever go null?\n}\n\n\n\n\n",
-    "url": "https://dev.to/nathmaxx/stop-writing-typescript-interfaces-by-hand-generate-them-from-json-csv-and-openapi-in-one-561h",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "typescript",
-      "javascript",
-      "webdev",
-      "tooling"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "How Gemma 4 Changed the Economics of Local AI",
-    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n\n\n\n  \n  \n  Stop Defaulting to the Biggest Model: A Developer's Guide to Right-Sizing Gemma 4\n\n\n\n\n\nThe most powerful local AI model isn't the one with the most parameters. It's the one still running when you actually need it.\n\n\n\n\n\n",
-    "url": "https://dev.to/adityac/how-gemma-4-changed-the-economics-of-local-ai-i80",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma",
-      "ai"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "I Built My Mom an AI Recipe Helper for Mother's Day",
-    "summary": "A project about a fridge, Strands agents & trying to keep up with Mom's seasons.\n\n\n  \n  \n  My Mom's Problem\n\n\nMy mom has a drawer full of recipes. Yes! Not a folder.... an actual drawer. Torn pages from magazines, things written on the back of envelopes and binders that've been around longer than I ",
-    "url": "https://dev.to/aws/i-built-my-mom-an-ai-recipe-helper-for-mothers-day-2hc5",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "aws",
-      "ai",
-      "agents",
-      "mothersday"
-    ]
-  },
-  {
-    "id": "014",
-    "title": "Using Appium Inspector: Full Guide + Why Drizz Doesn't Need It",
-    "summary": "Appium has been the industry standard for mobile test automation for over a decade, a free, open-source, cross-platform framework used by teams from startups to Fortune 500 enterprises to automate native, hybrid, and mobile web apps across Android and iOS. If you're new to Appium or want the full pi",
-    "url": "https://dev.to/drizzdev/using-appium-inspector-full-guide-why-drizz-doesnt-need-it-41f0",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "android",
-      "ios",
-      "mobile"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "Back to the Basics - Website Hosting on VPS",
-    "summary": "There are many approaches to hosting a website nowadays, and many rely on major cloud providers such as AWS or Azure. These fully fledged cloud platforms offer a wide range of services for different use cases. While these services provide major benefits—like managed infrastructure, scalability, and ",
-    "url": "https://dev.to/marian_s/back-to-the-basics-website-hosting-on-vps-10h5",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "devops",
-      "wordpress",
-      "cloud",
-      "webdev"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "How to un-bug your application",
-    "summary": "It's probably a professional bias, but I notice bugs A LOT. And often they prevent me from using some software.\n\nLast week, I wanted to shop for some clothes online and spotted several bugs in key functionality, and one of them was critical. \n\nThe support chat window was buggy, the page with size ta",
-    "url": "https://dev.to/juliashevchenko/how-to-un-bug-your-application-ajl",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "tutorial",
-      "testing",
-      "coding",
-      "programming"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "There Is No “Best” LLM in 2026 — Only Context-Driven Choices",
-    "summary": "In 2026, asking “what is the best LLM?” is already the wrong question.\n\nBenchmarks and leaderboards suggest there should be a single winning model.\nIn reality, LLM selection is not a ranking problem — it is an architecture and context problem.\n\nSecurity constraints, cost models, latency requirements",
-    "url": "https://dev.to/rabia_amaaouch_8b193d7fc4/there-is-no-best-llm-in-2026-only-context-driven-choices-4ecl",
-    "date": "2026-05-08",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "cloud",
-      "security",
-      "architecture"
-    ]
-  },
-  {
     "id": "018",
-    "title": "I Built an MD5 Hash Generator Because Checksums Still Show Up Everywhere",
-    "summary": "Even though MD5 is no longer a good choice for storing passwords, it still shows up in everyday developer work: checksum comparisons, legacy integrations, migration scripts, cache keys, and quick data fingerprints.\n\nSo I added a small browser-based tool to Tools Online: MD5 Hash Generator.\n\n\n  \n  \n ",
-    "url": "https://dev.to/zley_34b5414ca5e486c1c333/i-built-an-md5-hash-generator-because-checksums-still-show-up-everywhere-51eb",
+    "title": "Live, Snapshot, Cache : la décision à trois voies avant de stocker une valeur dérivée",
+    "summary": "Si tu as 30 secondes. « Ne pas dupliquer les données » est une règle qui se casse en production : les caches sont légitimes, et tu finis par les livrer quand même. La règle qui tient vraiment est plus fine — toute valeur stockée qui ressemble à une duplication est soit Live, soit Snapshot, soit Cach",
+    "url": "https://dev.to/michelfaure/live-snapshot-cache-la-decision-a-trois-voies-avant-de-stocker-une-valeur-derivee-4kfb",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "tools",
-      "javascript",
-      "security"
+      "postgres",
+      "architecture",
+      "softwareengineering",
+      "claudecode"
     ]
   },
   {
     "id": "019",
-    "title": "Your VPN Might Be Leaking Your Real IP Through WebRTC",
-    "summary": "Most VPN users assume that once their public IP address changes, their real connection is hidden.\n\nThat is mostly true.\n\nBut not always.\n\nWhile testing different VPN configurations, I noticed something interesting:\n\n\nmy public IP had changed correctly,\nthe VPN tunnel appeared to be working,\nDNS look",
-    "url": "https://dev.to/myip_casa/your-vpn-might-be-leaking-your-real-ip-through-webrtc-46pk",
+    "title": "Kanban in Hermes Agent for Self Hosted LLM Workflows",
+    "summary": "Hermes Agent ships with a Kanban-style board and the Hermes Gateway that can saturate your self-hosted LLM if too many tasks are dispatched at once.\n\nI can say you can easily ddos your own LLM this way.\n\nHermes Kanban is a durable multi-profile board backed by ~/.hermes/kanban.db.\nEach lane represen",
+    "url": "https://dev.to/rosgluk/kanban-in-hermes-agent-for-self-hosted-llm-workflows-1ekf",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "vpn",
-      "privacy",
-      "webdev",
-      "security"
+      "hermes",
+      "selfhosting",
+      "llm",
+      "ai"
     ]
   },
   {
     "id": "020",
-    "title": "PHP cURL Web Scraping: The Complete Working Guide",
-    "summary": "Most PHP cURL scraping tutorials show you two functions, a screenshot of some output, and call it a day.\n\nThis guide covers what actually happens on real websites: proper request setup, HTML parsing without regex, error handling, and pagination.\n\nFull guide with MySQL storage, cookies, rate limiting",
-    "url": "https://dev.to/phpspiderblog/php-curl-web-scraping-the-complete-working-guide-4ikn",
+    "title": "ts-node vs tsc, and the TypeScript commands you actually need",
+    "summary": "When you are new to TypeScript, the tooling can feel like it has too many moving parts. You see tsc in one tutorial, ts-node in another, sometimes tsx, and it is not always clear which one to reach for. This post will clear that up.\n\n\n  \n  \n  The core idea\n\n\nBrowsers and Node.js do not understand Ty",
+    "url": "https://dev.to/edriso/ts-node-vs-tsc-and-the-typescript-commands-you-actually-need-4h2k",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "php",
-      "webdev",
-      "tutorial",
-      "programming"
+      "typescript",
+      "beginners",
+      "node",
+      "webdev"
     ]
   },
   {
     "id": "021",
-    "title": "AI Coding in a Mastodon Client: Prompting for Complex UI, Fast Iteration, and Reliable Behavior",
-    "summary": "This article shares how AI Coding accelerated development of a Mastodon web client, with a focus on prompt-driven engineering, complex interaction design, and high‑leverage refactors. It highlights prompt patterns, integration strategies, and two key features: React Query and the rich text editor.\n\n",
-    "url": "https://dev.to/fh332393900/ai-coding-in-a-mastodon-client-prompting-for-complex-ui-fast-iteration-and-reliable-behavior-3ba5",
+    "title": "What does \"type\" in package.json actually do?",
+    "summary": "If you have ever opened a package.json and seen something like this:\n\n\n\n{\n  \"type\": \"module\"\n}\n\n\n\n\n\n\nand wondered what it actually does, this post is for you. We will keep things simple and stick to what a beginner needs to know.\n\n\n  \n  \n  Two ways to share code in JavaScript\n\n\nJavaScript has two sy",
+    "url": "https://dev.to/edriso/what-does-type-in-packagejson-actually-do-24oa",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "vibecoding",
-      "nextjs",
-      "typescript"
+      "javascript",
+      "node",
+      "beginners",
+      "webdev"
     ]
   },
   {
     "id": "022",
-    "title": "Help with Bedrock Agentcore Gateway Target setup",
-    "summary": "Hey all,\n\nTITLE: Is AWS Bedrock AgentCore Gateway officially compatible with Durable Execution Lambda handlers?\n\nI’m trying to use an AWS Durable Lambda function (https://docs.aws.amazon.com/lambda/latest/dg/durable-functions.html, https://github.com/aws/aws-durable-execution-sdk-python) as a target",
-    "url": "https://dev.to/dumb_dev_1803/help-with-bedrock-agentcore-gateway-target-setup-3lb5",
+    "title": "I never expected this response ~robot-toast",
+    "summary": "It started with an SSO project.\n\nI was building an IDP server — the kind that handles authentication across connected domains. I wanted a Google-like widget, the one that shows up and says \"Hey, you switched accounts\" or \"Welcome back, Pratham.\" Clean. Branded. Satisfying.\n\nSo I built a toast that s",
+    "url": "https://dev.to/pratham_kumar_8cc837c51ed/i-never-expected-this-response-robot-toast-3gh7",
     "date": "2026-05-08",
     "source": "Dev.to",
     "tags": [
-      "agents",
-      "aws",
-      "python",
-      "serverless"
+      "javascript",
+      "webdev",
+      "opensource",
+      "npm"
     ]
   },
   {
     "id": "023",
-    "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-    "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
-    "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+    "title": "Pairing PHY chips with Gigabit network transformers is less “universal” than I expected",
+    "summary": "Pairing PHY chips with Gigabit network transformers is less “universal” than I expected\nI’ve been validating a few 1000Base-T designs recently, and something that looked simple at first ended up taking more time than expected:\ngetting the PHY and the network transformer to behave nicely together.\nAt",
+    "url": "https://dev.to/voohu_electronictech_e9a/pairing-phy-chips-with-gigabit-network-transformers-is-less-universal-than-i-expected-g8b",
     "date": "2026-05-08",
-    "source": "BBC News",
+    "source": "Dev.to",
     "tags": [
-      "BBC News"
+      "design",
+      "devjournal",
+      "networking",
+      "testing"
     ]
   },
   {
     "id": "024",
-    "title": "Gambling ads on social media reach more than twice as many men as women: study",
-    "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 57\n# Comments: 47",
-    "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
-    "date": "2026-05-07",
-    "source": "Hacker News",
+    "title": "Stop using UUID v4 as your database primary key",
+    "summary": "I spent a while wondering why inserts on a particular table were getting slower as it grew. The table had a UUID v4 primary key and a few indexes. The data wasn't huge - a few million rows - but write performance was noticeably degrading.\n\nThe problem wasn't the query. It was the UUID.\n\n\n  \n  \n  Wha",
+    "url": "https://dev.to/mike_knights_2bd665cff58c/uuid-v7-is-here-why-you-should-stop-using-v4-for-database-primary-keys-l0a",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "database",
+      "uuid",
+      "postgres",
+      "programming"
     ]
   },
   {
     "id": "025",
-    "title": "Plasticity and language in the anaesthetized human hippocampus",
-    "summary": "https://www.nature.com/articles/s41586-026-10448-0\n\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 97\n# Comments: 39",
-    "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-    "date": "2026-05-07",
-    "source": "Hacker News",
+    "title": "The AI-First API Gateway: Why Your 2026 Strategy Needs More Than Just \"Management",
+    "summary": "In the fast-moving world of software architecture, we’ve spent a decade perfecting the \"API-First\" approach. We built gateways to handle humans and web apps. But as we move through 2026, a new consumer has entered the chat: The AI Agent.\n\nIf you are still using a traditional API gateway to manage yo",
+    "url": "https://dev.to/oshadha_pathiraja/the-ai-first-api-gateway-why-your-2026-strategy-needs-more-than-just-management-1pok",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "ai",
+      "architecture",
+      "wso2",
+      "apimanagement"
     ]
   },
   {
     "id": "026",
-    "title": "Maybe you shouldn't install new software for a bit",
-    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 439\n# Comments: 229",
-    "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
+    "title": "AI Agent Frameworks Compared: LangChain vs Custom vs Agentic Systems",
+    "summary": "AI agents are rapidly moving from experimental prototypes to production infrastructure.\n\nDevelopers are no longer just building chatbots.\n\nThey’re building systems capable of:\n\n\nMulti-step reasoning\nTool usage\nMemory management\nWorkflow automation\nRetrieval augmentation\nAutonomous execution\n\n\nBut on",
+    "url": "https://dev.to/ciphernutz/ai-agent-frameworks-compared-langchain-vs-custom-vs-agentic-systems-21p4",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "ai",
+      "agents",
+      "langchain",
+      "agentaichallenge"
     ]
   },
   {
     "id": "027",
-    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-    "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 138\n# Comments: 40",
-    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
-    "date": "2026-05-07",
-    "source": "Hacker News",
+    "title": "How to Use Claude API with Python: Complete Beginner's Guide (2026)",
+    "summary": "The Anthropic Python SDK makes it simple to integrate Claude into your applications. In this guide you'll go from zero to a working chatbot in under 10 minutes — covering installation, your first API call, streaming, multi-turn conversations, and error handling.\n\n\n  \n  \n  Prerequisites\n\n\n\nPython 3.8",
+    "url": "https://dev.to/kalyna_pro/how-to-use-claude-api-with-python-complete-beginners-guide-2026-1aeg",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "python",
+      "ai",
+      "claude",
+      "tutorial"
     ]
   },
   {
     "id": "028",
-    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-    "summary": "https://thetech.com/2026/05/07/canvas-breach-26https://techcrunch.com/2026/05/07/hackers-deface-school-logi...\n\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 574\n# Comments: 352",
-    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "date": "2026-05-07",
-    "source": "Hacker News",
+    "title": "IIS Log Analyzer: Transforming IIS Logs into Operational and Security Intelligence",
+    "summary": "Transforming IIS Logs into Operational and Security Intelligence\n\nIIS Log Analyzer is a Windows desktop tool designed for IIS administrators, DevOps teams, and security analysts who need faster visibility into traffic behavior, performance bottlenecks, and potential threats.\nInstead of manually pars",
+    "url": "https://dev.to/wpzstudio/iis-log-analyzer-transforming-iis-logs-into-operational-and-security-intelligence-3j65",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "iis",
+      "loganalytics",
+      "websecurity",
+      "devops"
     ]
   },
   {
     "id": "029",
-    "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
-    "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
-    "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
+    "title": "Stop hand-syncing Claude Code and Codex configs",
+    "summary": "If you've spent any time in Claude Code or Codex, your config tree is probably substantial:\n\n\n~/.claude/{settings.json, agents/, skills/, .mcp.json, CLAUDE.md}\n~/.codex/{config.toml, AGENTS.md} plus ~/.agents/skills/\n\n\nTwo situations get painful fast.\n\nSwitching tools. You curated skills, agents, MC",
+    "url": "https://dev.to/maxx_l/stop-hand-syncing-claude-code-and-codex-configs-enk",
+    "date": "2026-05-08",
+    "source": "Dev.to",
     "tags": [
-      "Fintech",
-      "Startups",
-      "TC",
-      "In Brief",
-      "Ramp"
+      "claude",
+      "openai",
+      "cli",
+      "productivity"
     ]
   },
   {
     "id": "030",
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
-    "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
+    "title": "TikTok scales back AI-generated video descriptions after absurd errors",
+    "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely.",
+    "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-08",
+    "source": "BBC News",
     "tags": [
-      "AI",
-      "OpenAI",
-      "gpt"
+      "BBC News"
     ]
   }
 ]
