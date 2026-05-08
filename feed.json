@@ -9,7 +9,7 @@
       "id": "001",
       "url": "https://etke.cc/blog/introducing-komai",
       "title": "Komai: a fine Matrix chat app you can get to love",
-      "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 4\n# Comments: 1",
+      "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 28\n# Comments: 11",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://github.com/robertdfrench/ifuncd-up",
       "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 9\n# Comments: 1",
+      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 34\n# Comments: 11",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -62,160 +62,168 @@
     },
     {
       "id": "005",
-      "url": "https://dev.to/gauntletci/post-mortem-how-a-performance-pr-introduced-28-new-regressions-4pgf",
-      "title": "Post-Mortem: How a \"Performance\" PR Introduced 28 New Regressions",
-      "summary": "Analyzing Jellyfin PR #16062 with GauntletCI\n\n\nJellyfin PR #16062 is titled \"Query Performance Improvements.\" It was a massive architectural shift: 126 files, 27,810 lines of code. It was reviewed, approved, and merged on May 3, 2026.\n\nBy May 7, the community was already reporting 90-second query ha",
+      "url": "https://dev.to/yakhilesh/57-decision-trees-the-ai-that-plays-20-questions-oi3",
+      "title": "57. Decision Trees: The AI That Plays 20 Questions",
+      "summary": "You've played 20 questions before. You think of something. Someone asks yes/no questions to figure out what it is. Is it alive? Is it bigger than a car? Does it have legs?\n\nEach question narrows down the possibilities until they get to the answer.\n\nA decision tree does exactly that. It learns a seri",
       "date_published": "2026-05-08",
       "tags": [
-        "dotnet",
-        "csharp",
-        "performance",
-        "devops"
+        "ai",
+        "programming",
+        "beginners",
+        "python"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://dev.to/piiiico/agents-can-pay-they-cant-prove-they-were-supposed-to-fcj",
-      "title": "Agents can pay. They can't prove they were supposed to.",
-      "summary": "On May 7, AWS launched AgentCore Payments in preview. Coinbase x402 plus Stripe. Agents can now purchase APIs, MCP servers, paywalled content, and data feeds mid-task, executing through payment rails without interrupting their reasoning loop. The system handles protocol negotiation, retries, and set",
+      "url": "https://dev.to/wonderlab/rag-series-10-hybrid-search-retrieving-more-missing-less-dc7",
+      "title": "RAG Series (10): Hybrid Search — Retrieving More, Missing Less",
+      "summary": "A Blind Spot in Vector Search\n\n\nSuppose your knowledge base contains a document with this sentence:\n\n\n\"For Chinese scenarios, we recommend BAAI/bge-large-zh-v1.5, with a vector dimension of 1024.\"\n\n\nA user asks: \"What is the vector dimension of BAAI/bge-large-zh-v1.5?\"\n\nYou might think this is a gim",
       "date_published": "2026-05-08",
       "tags": [
-        "ai",
-        "agentcommerce",
-        "payments",
-        "security"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/ajeetchaulagain/how-to-deploy-nestjs-to-aws-lambda-using-cdk-and-github-actions-3lf8",
-      "title": "How to Deploy NestJS to AWS Lambda Using CDK and GitHub Actions",
-      "summary": "Originally published on ajeetchaulagain.com on March 30, 2026.\n\n\nDeploying a NestJS application to AWS Lambda behind API Gateway sounds straightforward — until you start wiring things together.\n\nBetween adapting NestJS to a serverless runtime, configuring API Gateway, and setting up infrastructure w",
-      "date_published": "2026-05-08",
-      "tags": [
-        "nestjs",
-        "aws",
-        "serverless",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/taskdude/building-a-workforce-management-saas-day-1245-l61",
-      "title": "Building a Workforce Management SaaS — Day 12/45",
-      "summary": "Most workforce tools focus heavily on attendance and reporting.\n\nWe wanted to go deeper.\n\nOur team at Taskdudes is currently building a workforce management SaaS that helps organizations manage employee skills, proficiency levels, and department structures more effectively.\n\nWhat we built in this ph",
-      "date_published": "2026-05-08",
-      "tags": [
-        "buildinpublic",
-        "nextjs",
-        "saas",
-        "showdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/newbe36524/desktop-application-p2p-distribution-acceleration-practice-full-chain-integration-from-consumer-to-45j6",
-      "title": "Desktop Application P2P Distribution Acceleration Practice: Full-Chain Integration from Consumer to Publisher",
-      "summary": "Desktop Application P2P Distribution Acceleration Practice: Full-Chain Integration from Consumer to Publisher\n\n\n\nLarge file distribution for desktop applications has always been a headache—high bandwidth costs, slow download speeds, and poor user experience. This article shares the hybrid distributi",
-      "date_published": "2026-05-08",
-      "tags": [
-        "p2p",
-        "hagicodedesktop"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/beefedai/scalability-test-planning-framework-3l9p",
-      "title": "Scalability Test Planning Framework",
-      "summary": "Why scalability testing changes the conversation\nFrom objectives to guardrails: defining SLAs and acceptance criteria\nPerformance KPIs and observability signals that reveal root cause\nBuilding realistic load test scenarios and production-like test environments\nReporting, repeatability, and governanc",
-      "date_published": "2026-05-08",
-      "tags": [
-        "testing"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/kozo-ki/a-non-engineer-ceo-connected-copilot-studio-to-ldx-hub-it-took-8-errors-and-3-hours-heres-the-5cdh",
-      "title": "A non-engineer CEO connected Copilot Studio to LDX hub. It took 8 errors and 3 hours. Here's the full log.",
-      "summary": "I'm the CEO of a translation company. Not an engineer.\n\nIn Part 1, I tried to connect Copilot Studio to LDX hub's StructFlow API and hit a wall before getting anything to work. This is Part 2 — the completion.\n\nIt works now.\n\nI pasted meeting minutes into a Copilot Studio chat. It returned structure",
-      "date_published": "2026-05-08",
-      "tags": [
-        "ai",
-        "powerautomate",
-        "ldxhub",
-        "githubcopilot"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/mickai/a-sovereign-intelligence-operating-system-running-entirely-on-device-technical-deep-dive-4fkn",
-      "title": "A Sovereign Intelligence Operating System running entirely on-device: technical deep dive",
-      "summary": "Mickai is not a wrapper around a frontier LLM. It is a Sovereign Intelligence Operating System composed of twenty-five specialist brains across six subsystems, with a deterministic arbiter routing every request and a post-quantum signed audit ledger underneath. This piece walks through the architect",
-      "date_published": "2026-05-08",
-      "tags": [
-        "sovereignai",
-        "ondevice",
-        "sios",
-        "oar"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/street-air-5461/the-wacky-2026-world-of-bot-traffic-3fe9",
-      "title": "The wacky 2026 world of bot traffic",
-      "summary": "Three strategies to deal with bot traffic.\n\n\nGive up. Have at it. Take what you want. As fast as you want. On my dime. Steal it. re-use it. Life is too short.\nHide behind cloudflare. Let them try to deal with it. Have re-captchas annoy your users. Pay cloudflare and be up-sold.\nUnderstand more about",
-      "date_published": "2026-05-08",
-      "tags": [
-        "scraper",
+        "rag",
+        "bm25",
+        "langchain",
         "ai"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "014",
-      "url": "https://dev.to/_eb7f2a654e97a60ae9f96e/playwright-multi-tab-indexeddb-sync-the-browser-context-isolation-trap-6-hours-of-debugging-56d",
-      "title": "Playwright Multi‑Tab IndexedDB Sync: The Browser Context Isolation Trap (6 Hours of Debugging)",
-      "summary": "At 1 a.m., the CI bot pinged me in our team chat for the tenth time: “Frontend multi-tab sync test failed.” This was already the third time this test case failed for our collaborative whiteboard project, and all I wanted was to sleep. After repeatedly digging through Playwright’s docs, I finally rea",
+      "id": "007",
+      "url": "https://dev.to/itprepvn/cuoc-chien-react-state-management-redux-co-dang-bi-zustand-ha-be-dfd",
+      "title": "Cuộc Chiến React State Management: Redux Có Đang Bị Zustand 'Hạ Bệ'?",
+      "summary": "Bài viết gốc được xuất bản tại ITPrep - Cẩm nang & Cheat Sheet Phỏng vấn IT.\n\nTrong thế giới ReactJS, quản lý state (State Management) luôn là một trong những câu hỏi hóc búa nhất khi khởi tạo dự án. Từ một cái To-do list nhỏ xinh đến các hệ thống ERP phức tạp, cách chúng ta thiết kế luồng dữ liệu s",
       "date_published": "2026-05-08",
       "tags": [
-        "python",
+        "react",
+        "javascript",
+        "webdev",
+        "state"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/rifat240510/are-you-unable-to-start-anything-because-of-overthinking-3mbp",
+      "title": "Are you unable to start anything because of overthinking?",
+      "summary": "Have you noticed that before you start anything, 10 questions come to your mind?\n\n“What will happen if I do this?”, “Can I do it?”, “What if I make a mistake?”, “Is this the best way?”\n\nAnd these questions are the ones that ultimately prevent you from starting.\n\nThis is the real game of overthinking",
+      "date_published": "2026-05-08",
+      "tags": [
+        "discuss",
+        "mentalhealth",
+        "productivity",
+        "watercooler"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-59-claude-for-financial-services-anthropics-official-ai-3k86",
+      "title": "One Open Source Project a Day (No. 59): Claude for Financial Services - Anthropic's Official AI Agent Suite for Finance",
+      "summary": "Introduction\n\n\n\n\"From watching analysts work to managing the analytical pipeline itself.\"\n\n\nThis is the 59th article in the \"One Open Source Project a Day\" series. Today, we are exploring Claude for Financial Services.\n\nIn the last two articles, we covered OpenAI's Symphony (an AI agent orchestratio",
+      "date_published": "2026-05-08",
+      "tags": [
+        "opensource",
+        "claude",
+        "agents",
+        "finance"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/dineshgowdam2610/nodejs-with-aws-sdk-v3-a-complete-integration-guide-263g",
+      "title": "Node.js with AWS SDK v3 – A Complete Integration Guide",
+      "summary": "Node.js is a popular choice for building scalable and high-performance server-side applications, and when paired with the AWS SDK v3, it becomes a powerful tool for building cloud-based applications. In this guide, we will cover the integration of Node.js with various AWS services, including S3, Lam",
+      "date_published": "2026-05-08",
+      "tags": [
+        "node",
+        "aws",
+        "javascript",
+        "cloud"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/johalputt/deep-dive-two-factor-authentication-vs-passkeys-a-head-to-head-5bbg",
+      "title": "Deep Dive Two-Factor Authentication vs Passkeys: A Head-to-Head",
+      "summary": "Deep Dive: Two-Factor Authentication vs Passkeys – A Head-to-Head\n\n\nThe authentication landscape is shifting rapidly: for decades, passwords paired with two-factor authentication (2FA) were the gold standard for securing user accounts. Now, passkeys – built on FIDO2 and WebAuthn standards – are emer",
+      "date_published": "2026-05-08",
+      "tags": [
+        "deep",
+        "dive",
+        "twofactor",
+        "authentication"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/sertaoseracloud/implementing-cellular-observability-aws-cloudwatch-cross-account-observability-vs-azure-monitor-3n2i",
+      "title": "Implementing Cellular Observability: AWS CloudWatch Cross-Account Observability vs. Azure Monitor Shared Dashboards",
+      "summary": "Introduction\n\n\nDistributed cellular architectures often suffer from observability fragmentation, where critical telemetry is trapped within isolated cloud silos. When an incident occurs in a cross-cloud cell, engineers frequently lose precious time toggling between disparate consoles, manually corre",
+      "date_published": "2026-05-08",
+      "tags": [
+        "aws",
+        "azure",
+        "terraform",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/itprepvn/giai-ma-srs-data-dictionary-ban-ve-thi-cong-cuu-canh-cho-team-dev-5eab",
+      "title": "Giải Mã SRS & Data Dictionary: 'Bản Vẽ Thi Công' Cứu Cánh Cho Team Dev",
+      "summary": "Bài viết gốc được xuất bản tại ITPrep - Cẩm nang & Cheat Sheet Phỏng vấn IT.\n\nTrong thế giới code dạo, có một sự thật đau lòng: Code sai logic sửa rất nhanh, nhưng code sai requirement thì phải đập đi xây lại. Khi bắt đầu một dự án, anh em Dev rất cần một \"bản vẽ thi công\" chuẩn chỉnh để thiết kế Da",
+      "date_published": "2026-05-08",
+      "tags": [
+        "softwareengineering",
+        "database",
+        "architecture",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/vikrant_bagal_afae3e25ca7/production-grade-engineering-skills-for-ai-coding-agents-56nb",
+      "title": "Production-Grade Engineering Skills for AI Coding Agents",
+      "summary": "AI coding agents have revolutionized how we write software. They can implement features, fix bugs, and review code at incredible speed. But there's a catch: AI agents default to the shortest path, which often means skipping specs, tests, security reviews, and the practices that make software reliabl",
+      "date_published": "2026-05-08",
+      "tags": [
+        "ai",
+        "claude",
+        "agentskills",
         "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/mohammad_ameer_0654de5b1a/i-built-80-free-browser-based-tools-heres-why-zero-uploads-changes-everything-4725",
-      "title": "I built 80+ free browser-based tools — here's why \"zero uploads\" changes everything",
-      "summary": "A while back I got frustrated with online tools that upload your files to a server, make you sign up, and then quietly keep your data. So I built TRE — a collection of 80+ tools that run entirely in your browser using JavaScript. Your files never leave your device.\n\n\n  \n  \n  Why \"zero uploads\" actua",
+      "url": "https://dev.to/rchtjn2/building-a-court-data-api-for-indias-legal-tech-ecosystem-1354",
+      "title": "Building a Court Data API for India's Legal Tech Ecosystem",
+      "summary": "Building a Court Data API for India's Legal Tech Ecosystem\n\n\nIndia generates an enormous volume of legal data every day - millions of court cases, judgments, orders, and cause lists across 600+ district courts, 25 High Courts, and the Supreme Court. Until recently, accessing this data programmatical",
       "date_published": "2026-05-08",
       "tags": [
-        "webdev",
-        "javascript",
-        "showdev",
-        "opensource"
+        "api",
+        "programming",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j",
-      "title": "The Complete Claude Code Harness Engineering Guide (5 Layers, 8 Deep-Dives)",
-      "summary": "Harness engineering is everything around your AI agent except the model: memory, tools, permissions, hooks, observability. LangChain gained 13.7 benchmark points changing only the harness. This guide is a curated reading path, organized by layer, with a deep-dive post for every part of a Claude Code",
+      "url": "https://dev.to/justsoftlab_x01/10-rag-architecture-mistakes-fintechs-make-in-their-first-production-deployment-2cea",
+      "title": "10 RAG Architecture Mistakes Fintechs Make in Their First Production Deployment",
+      "summary": "This article was originally published on JustSoftLab Insights.\n\n\n\n\nWe've shipped RAG systems for regulated fintech clients across the past two years — fraud detection augmentation, compliance documentation Q&A, regulatory filing analysis, internal policy assistants. Across those engagements one patt",
       "date_published": "2026-05-08",
       "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "claude"
+        "rag",
+        "fintech",
+        "machinelearning",
+        "postgres"
       ],
       "_source": "Dev.to"
     },
@@ -234,7 +242,7 @@
       "id": "018",
       "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
       "title": "Gambling ads on social media reach more than twice as many men as women: study",
-      "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 5\n# Comments: 2",
+      "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 27\n# Comments: 8",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -244,8 +252,8 @@
     {
       "id": "019",
       "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
-      "title": "Researchers discover advanced language processing in the unconscious human brain",
-      "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 40\n# Comments: 12",
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "summary": "https://www.nature.com/articles/s41586-026-10448-0\n\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 70\n# Comments: 26",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -256,7 +264,7 @@
       "id": "020",
       "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
       "title": "Maybe you shouldn't install new software for a bit",
-      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 116\n# Comments: 56",
+      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 241\n# Comments: 107",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -267,7 +275,7 @@
       "id": "021",
       "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
       "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
-      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 51\n# Comments: 18",
+      "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 94\n# Comments: 30",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -277,8 +285,8 @@
     {
       "id": "022",
       "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 214\n# Comments: 72",
+      "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+      "summary": "https://thetech.com/2026/05/07/canvas-breach-26https://techcrunch.com/2026/05/07/hackers-deface-school-logi...\n\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 361\n# Comments: 261",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -287,9 +295,9 @@
     },
     {
       "id": "023",
-      "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-      "title": "Hackers deface school login pages after claiming another Instructure hack",
-      "summary": "Article URL: https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/\nComments URL: https://news.ycombinator.com/item?id=48055844\nPoints: 17\n# Comments: 1",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "title": "Cloudflare to cut about 20% workforce",
+      "summary": "https://blog.cloudflare.com/building-for-the-future/\n\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 327\n# Comments: 205",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -298,9 +306,9 @@
     },
     {
       "id": "024",
-      "url": "https://blog.cloudflare.com/building-for-the-future/",
-      "title": "Building for the Future",
-      "summary": "Article URL: https://blog.cloudflare.com/building-for-the-future/\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 256\n# Comments: 156",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 63\n# Comments: 17",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -309,9 +317,9 @@
     },
     {
       "id": "025",
-      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 54\n# Comments: 15",
+      "url": "https://www.davesnider.com/posts/working-in-a-niche",
+      "title": "Creating for a niche",
+      "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 36\n# Comments: 6",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
