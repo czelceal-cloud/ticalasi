@@ -1,22 +1,244 @@
 [
   {
     "id": "001",
-    "title": "Building a Cookie Editor Chrome Extension — Why I Built CookieJar After EditThisCookie Died",
-    "summary": "EditThisCookie Is Gone — Now What?\n\n\nIn late 2024, EditThisCookie — the most popular cookie editor for Chrome with millions of users — was removed from the Chrome Web Store. The reason: it never migrated to Manifest V3.\n\nOvernight, millions of developers and testers lost their go-to cookie managemen",
-    "url": "https://dev.to/_350df62777eb55e1/building-a-cookie-editor-chrome-extension-why-i-built-cookiejar-after-editthiscookie-died-4o00",
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "summary": "Article URL: https://etke.cc/blog/introducing-komai\nComments URL: https://news.ycombinator.com/item?id=48056804\nPoints: 4\n# Comments: 1",
+    "url": "https://etke.cc/blog/introducing-komai",
     "date": "2026-05-08",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "chrome",
-      "webdev",
-      "javascript",
-      "security"
+      "Hacker News"
     ]
   },
   {
     "id": "002",
+    "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+    "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 9\n# Comments: 1",
+    "url": "https://github.com/robertdfrench/ifuncd-up",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+    "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+    "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+    "date": "2026-05-08",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "OpenAI",
+      "Microsoft",
+      "Musk v. Altman Trial",
+      "Silicon Valley",
+      "artificial intelligence",
+      "Sam Altman",
+      "Elon Musk",
+      "Real talk"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+    "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step tow",
+    "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+    "date": "2026-05-08",
+    "source": "VentureBeat",
+    "tags": [
+      "Technology",
+      "Business",
+      "Orchestration"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Post-Mortem: How a \"Performance\" PR Introduced 28 New Regressions",
+    "summary": "Analyzing Jellyfin PR #16062 with GauntletCI\n\n\nJellyfin PR #16062 is titled \"Query Performance Improvements.\" It was a massive architectural shift: 126 files, 27,810 lines of code. It was reviewed, approved, and merged on May 3, 2026.\n\nBy May 7, the community was already reporting 90-second query ha",
+    "url": "https://dev.to/gauntletci/post-mortem-how-a-performance-pr-introduced-28-new-regressions-4pgf",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "dotnet",
+      "csharp",
+      "performance",
+      "devops"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Agents can pay. They can't prove they were supposed to.",
+    "summary": "On May 7, AWS launched AgentCore Payments in preview. Coinbase x402 plus Stripe. Agents can now purchase APIs, MCP servers, paywalled content, and data feeds mid-task, executing through payment rails without interrupting their reasoning loop. The system handles protocol negotiation, retries, and set",
+    "url": "https://dev.to/piiiico/agents-can-pay-they-cant-prove-they-were-supposed-to-fcj",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "agentcommerce",
+      "payments",
+      "security"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "How to Deploy NestJS to AWS Lambda Using CDK and GitHub Actions",
+    "summary": "Originally published on ajeetchaulagain.com on March 30, 2026.\n\n\nDeploying a NestJS application to AWS Lambda behind API Gateway sounds straightforward — until you start wiring things together.\n\nBetween adapting NestJS to a serverless runtime, configuring API Gateway, and setting up infrastructure w",
+    "url": "https://dev.to/ajeetchaulagain/how-to-deploy-nestjs-to-aws-lambda-using-cdk-and-github-actions-3lf8",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "nestjs",
+      "aws",
+      "serverless",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Building a Workforce Management SaaS — Day 12/45",
+    "summary": "Most workforce tools focus heavily on attendance and reporting.\n\nWe wanted to go deeper.\n\nOur team at Taskdudes is currently building a workforce management SaaS that helps organizations manage employee skills, proficiency levels, and department structures more effectively.\n\nWhat we built in this ph",
+    "url": "https://dev.to/taskdude/building-a-workforce-management-saas-day-1245-l61",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "buildinpublic",
+      "nextjs",
+      "saas",
+      "showdev"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Desktop Application P2P Distribution Acceleration Practice: Full-Chain Integration from Consumer to Publisher",
+    "summary": "Desktop Application P2P Distribution Acceleration Practice: Full-Chain Integration from Consumer to Publisher\n\n\n\nLarge file distribution for desktop applications has always been a headache—high bandwidth costs, slow download speeds, and poor user experience. This article shares the hybrid distributi",
+    "url": "https://dev.to/newbe36524/desktop-application-p2p-distribution-acceleration-practice-full-chain-integration-from-consumer-to-45j6",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "p2p",
+      "hagicodedesktop"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Scalability Test Planning Framework",
+    "summary": "Why scalability testing changes the conversation\nFrom objectives to guardrails: defining SLAs and acceptance criteria\nPerformance KPIs and observability signals that reveal root cause\nBuilding realistic load test scenarios and production-like test environments\nReporting, repeatability, and governanc",
+    "url": "https://dev.to/beefedai/scalability-test-planning-framework-3l9p",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "testing"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "A non-engineer CEO connected Copilot Studio to LDX hub. It took 8 errors and 3 hours. Here's the full log.",
+    "summary": "I'm the CEO of a translation company. Not an engineer.\n\nIn Part 1, I tried to connect Copilot Studio to LDX hub's StructFlow API and hit a wall before getting anything to work. This is Part 2 — the completion.\n\nIt works now.\n\nI pasted meeting minutes into a Copilot Studio chat. It returned structure",
+    "url": "https://dev.to/kozo-ki/a-non-engineer-ceo-connected-copilot-studio-to-ldx-hub-it-took-8-errors-and-3-hours-heres-the-5cdh",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "powerautomate",
+      "ldxhub",
+      "githubcopilot"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "A Sovereign Intelligence Operating System running entirely on-device: technical deep dive",
+    "summary": "Mickai is not a wrapper around a frontier LLM. It is a Sovereign Intelligence Operating System composed of twenty-five specialist brains across six subsystems, with a deterministic arbiter routing every request and a post-quantum signed audit ledger underneath. This piece walks through the architect",
+    "url": "https://dev.to/mickai/a-sovereign-intelligence-operating-system-running-entirely-on-device-technical-deep-dive-4fkn",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "sovereignai",
+      "ondevice",
+      "sios",
+      "oar"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "The wacky 2026 world of bot traffic",
+    "summary": "Three strategies to deal with bot traffic.\n\n\nGive up. Have at it. Take what you want. As fast as you want. On my dime. Steal it. re-use it. Life is too short.\nHide behind cloudflare. Let them try to deal with it. Have re-captchas annoy your users. Pay cloudflare and be up-sold.\nUnderstand more about",
+    "url": "https://dev.to/street-air-5461/the-wacky-2026-world-of-bot-traffic-3fe9",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "scraper",
+      "ai"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Playwright Multi‑Tab IndexedDB Sync: The Browser Context Isolation Trap (6 Hours of Debugging)",
+    "summary": "At 1 a.m., the CI bot pinged me in our team chat for the tenth time: “Frontend multi-tab sync test failed.” This was already the third time this test case failed for our collaborative whiteboard project, and all I wanted was to sleep. After repeatedly digging through Playwright’s docs, I finally rea",
+    "url": "https://dev.to/_eb7f2a654e97a60ae9f96e/playwright-multi-tab-indexeddb-sync-the-browser-context-isolation-trap-6-hours-of-debugging-56d",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "python",
+      "programming"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "I built 80+ free browser-based tools — here's why \"zero uploads\" changes everything",
+    "summary": "A while back I got frustrated with online tools that upload your files to a server, make you sign up, and then quietly keep your data. So I built TRE — a collection of 80+ tools that run entirely in your browser using JavaScript. Your files never leave your device.\n\n\n  \n  \n  Why \"zero uploads\" actua",
+    "url": "https://dev.to/mohammad_ameer_0654de5b1a/i-built-80-free-browser-based-tools-heres-why-zero-uploads-changes-everything-4725",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "javascript",
+      "showdev",
+      "opensource"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "The Complete Claude Code Harness Engineering Guide (5 Layers, 8 Deep-Dives)",
+    "summary": "Harness engineering is everything around your AI agent except the model: memory, tools, permissions, hooks, observability. LangChain gained 13.7 benchmark points changing only the harness. This guide is a curated reading path, organized by layer, with a deep-dive post for every part of a Claude Code",
+    "url": "https://dev.to/shipwithaiio/the-complete-claude-code-harness-engineering-guide-5-layers-8-deep-dives-3d4j",
+    "date": "2026-05-08",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "programming",
+      "productivity",
+      "claude"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+    "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta.",
+    "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-08",
+    "source": "BBC News",
+    "tags": [
+      "BBC News"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Gambling ads on social media reach more than twice as many men as women: study",
+    "summary": "Article URL: https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women\nComments URL: https://news.ycombinator.com/item?id=48056359\nPoints: 5\n# Comments: 2",
+    "url": "https://www.cam.ac.uk/research/news/gambling-ads-on-social-media-reach-more-than-twice-as-many-men-as-women",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "019",
     "title": "Researchers discover advanced language processing in the unconscious human brain",
-    "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 3\n# Comments: 0",
+    "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 40\n# Comments: 12",
     "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -25,9 +247,9 @@
     ]
   },
   {
-    "id": "003",
+    "id": "020",
     "title": "Maybe you shouldn't install new software for a bit",
-    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 21\n# Comments: 2",
+    "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 116\n# Comments: 56",
     "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -36,10 +258,10 @@
     ]
   },
   {
-    "id": "004",
-    "title": "OpenClaw Had a Rough Week",
-    "summary": "Article URL: https://openclaw.ai/blog/openclaw-rough-week\nComments URL: https://news.ycombinator.com/item?id=48056003\nPoints: 19\n# Comments: 18",
-    "url": "https://openclaw.ai/blog/openclaw-rough-week",
+    "id": "021",
+    "title": "Nonprofit hospitals spend billions on consultants with no clear effect",
+    "summary": "Article URL: https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants\nComments URL: https://news.ycombinator.com/item?id=48056158\nPoints: 51\n# Comments: 18",
+    "url": "https://www.uchicagomedicine.org/forefront/research-and-discoveries-articles/nonprofit-hospitals-spend-billions-on-management-consultants",
     "date": "2026-05-07",
     "source": "Hacker News",
     "tags": [
@@ -47,9 +269,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "022",
     "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-    "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 70\n# Comments: 2",
+    "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 214\n# Comments: 72",
     "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -58,9 +280,20 @@
     ]
   },
   {
-    "id": "006",
+    "id": "023",
+    "title": "Hackers deface school login pages after claiming another Instructure hack",
+    "summary": "Article URL: https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/\nComments URL: https://news.ycombinator.com/item?id=48055844\nPoints: 17\n# Comments: 1",
+    "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
+    "date": "2026-05-07",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "024",
     "title": "Building for the Future",
-    "summary": "Article URL: https://blog.cloudflare.com/building-for-the-future/\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 188\n# Comments: 112",
+    "summary": "Article URL: https://blog.cloudflare.com/building-for-the-future/\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 256\n# Comments: 156",
     "url": "https://blog.cloudflare.com/building-for-the-future/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -69,9 +302,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "025",
     "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 31\n# Comments: 9",
+    "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 54\n# Comments: 15",
     "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
     "date": "2026-05-07",
     "source": "Hacker News",
@@ -80,51 +313,7 @@
     ]
   },
   {
-    "id": "008",
-    "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
-    "summary": "Article URL: https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/\nComments URL: https://news.ycombinator.com/item?id=48053816\nPoints: 82\n# Comments: 40",
-    "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Creating for a niche",
-    "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 22\n# Comments: 1",
-    "url": "https://www.davesnider.com/posts/working-in-a-niche",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Dirtyfrag: Universal Linux LPE",
-    "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8\nComments URL: https://news.ycombinator.com/item?id=48053623\nPoints: 335\n# Comments: 159",
-    "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "Colored Shadow Penumbra",
-    "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 30\n# Comments: 12",
-    "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
-    "date": "2026-05-07",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "012",
+    "id": "026",
     "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
     "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
     "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
@@ -139,7 +328,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "027",
     "title": "OpenAI launches new voice intelligence features in its API",
     "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
     "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
@@ -152,7 +341,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "028",
     "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
     "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
     "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
@@ -167,7 +356,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "029",
     "title": "Disney looking to make a unified ‘super app,’ report says",
     "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
     "url": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
@@ -183,7 +372,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "030",
     "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
     "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
     "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
@@ -195,227 +384,6 @@
       "a16z",
       "pit",
       "Voi"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Hackers deface school login pages after claiming another Instructure hack",
-    "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
-    "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "Canvas",
-      "cybercrime",
-      "cybersecurity",
-      "data breach",
-      "ed tech",
-      "Education",
-      "extortion",
-      "hackers",
-      "hacking",
-      "instructure",
-      "shinyhunters"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
-    "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
-    "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Gusto",
-      "HR tech",
-      "payroll",
-      "revenue"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
-    "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "TC",
-      "ChatGPT",
-      "OpenAI"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
-    "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
-    "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "In Brief",
-      "nhtsa",
-      "Tesla"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
-    "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
-    "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Perplexity",
-      "perplexity computer"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
-    "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "openai lawsuit",
-      "sam altman"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Bumble is getting rid of the swipe, CEO says",
-    "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
-    "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "dating apps",
-      "bumble"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Tome, another Goodreads book-tracker rival, shuts down",
-    "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match ",
-    "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Social",
-      "goodreads",
-      "reading",
-      "tome",
-      "booktok"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
-    "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
-    "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "TC",
-      "Lovable",
-      "tech compensation"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Hackers hack victims hacked by other hackers",
-    "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
-    "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "cybercrime",
-      "cybersecurity",
-      "hackers",
-      "hacking",
-      "SentinelOne",
-      "TeamPCP"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Kalshi doubles valuation in 5 months, hitting $22B",
-    "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
-    "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Venture",
-      "In Brief",
-      "Kalshi",
-      "Polymarket",
-      "prediction market"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Jeff Bezos rep leaves Slate Auto’s board",
-    "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
-    "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "Exclusive",
-      "jeff bezos",
-      "melinda lewison",
-      "slate auto"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
-    "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
-    "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Security",
-      "Anthropic",
-      "cybersecurity",
-      "Firefox",
-      "Mozilla",
-      "Mythos"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Google’s $9.99-per-month AI health coach launches May 19",
-    "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
-    "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
-    "date": "2026-05-07",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Hardware",
-      "ai health coach",
-      "fitbit",
-      "google health",
-      "google health coach",
-      "wearables"
     ]
   }
 ]
