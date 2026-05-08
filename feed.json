@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://clojurescript.org/news/2026-05-07-release",
-      "title": "ClojureScript Gets Async/Await",
-      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 88\n# Comments: 23",
+      "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "summary": "Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa\nComments URL: https://news.ycombinator.com/item?id=48062117\nPoints: 205\n# Comments: 196",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 59\n# Comments: 44",
+      "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
+      "title": "Hackers breach JDownloader website to serve malware-laced downloads",
+      "summary": "Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/\nComments URL: https://news.ycombinator.com/item?id=48062035\nPoints: 31\n# Comments: 8",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://github.com/graemeg/blaise",
-      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 53\n# Comments: 18",
+      "url": "https://www.war.gov/UFO/",
+      "title": "US Government releases first batch of UAP documents and videos",
+      "summary": "Article URL: https://www.war.gov/UFO/\nComments URL: https://news.ycombinator.com/item?id=48061938\nPoints: 23\n# Comments: 7",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://lwn.net/Articles/1066418/",
-      "title": "Digging into Drama at the Document Foundation",
-      "summary": "Article URL: https://lwn.net/Articles/1066418/\nComments URL: https://news.ycombinator.com/item?id=48058337\nPoints: 39\n# Comments: 4",
+      "url": "https://meshtastic.org/docs/introduction/",
+      "title": "An Introduction to Meshtastic",
+      "summary": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 71\n# Comments: 26",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
-      "title": "GPT-5.5 Price Increase: What It Costs",
-      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis\nComments URL: https://news.ycombinator.com/item?id=48057209\nPoints: 63\n# Comments: 12",
+      "url": "https://clojurescript.org/news/2026-05-07-release",
+      "title": "ClojureScript Gets Async/Await",
+      "summary": "Article URL: https://clojurescript.org/news/2026-05-07-release\nComments URL: https://news.ycombinator.com/item?id=48059662\nPoints: 146\n# Comments: 40",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://github.com/robertdfrench/ifuncd-up",
-      "title": "GNU IFUNC is the real culprit behind CVE-2024-3094",
-      "summary": "Article URL: https://github.com/robertdfrench/ifuncd-up\nComments URL: https://news.ycombinator.com/item?id=48056749\nPoints: 93\n# Comments: 43",
+      "url": "https://c9x.me/compile/",
+      "title": "QBE – Compiler Back End",
+      "summary": "Article URL: https://c9x.me/compile/\nComments URL: https://news.ycombinator.com/item?id=48059633\nPoints: 21\n# Comments: 0",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -73,6 +73,104 @@
     },
     {
       "id": "007",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
+      "title": "Nintendo announces price increases for Nintendo Switch 2",
+      "summary": "Article URL: https://www.nintendo.co.jp/corporate/release/en/2026/260508.html\nComments URL: https://news.ycombinator.com/item?id=48059606\nPoints: 144\n# Comments: 120",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://github.com/graemeg/blaise",
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "summary": "Article URL: https://github.com/graemeg/blaise\nComments URL: https://news.ycombinator.com/item?id=48058644\nPoints: 72\n# Comments: 30",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "summary": "Article URL: https://openrouter.ai/announcements/gpt55-cost-analysis\nComments URL: https://news.ycombinator.com/item?id=48057209\nPoints: 105\n# Comments: 23",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
+      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
+      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Startups",
+        "Hardware",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
+      "title": "Lime, the Uber-backed micromobility company, files for IPO",
+      "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Transportation",
+        "IPO",
+        "JUMP",
+        "lime",
+        "Uber"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
+      "title": "The biggest U.S. power grid is under strain from AI — and no one is happy",
+      "summary": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Climate",
+        "data centers",
+        "electrical grid"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
+      "title": "Airbnb says AI now writes 60% of its new code",
+      "summary": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Commerce",
+        "Real estate",
+        "ai coding",
+        "Airbnb",
+        "travel tech"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "title": "Why you can never get your doctor to call you back",
       "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
@@ -91,7 +189,102 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "015",
+      "url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
+      "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
+      "summary": "The game asks players to find the least worst options for a shipping chokepoint.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Gaming",
+        "Energy",
+        "fossil fuels",
+        "global food security",
+        "Iran",
+        "natural gas",
+        "oil",
+        "shipping",
+        "ships",
+        "Strait of Hormuz",
+        "USA-Iran War"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "016",
+      "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
+      "title": "Rocket Report: Alpha Block 2 coming this summer; Falcon sets booster landing mark",
+      "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "017",
+      "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
+      "title": "What’s the role of a simple fitness band in the AI health era?",
+      "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A fitness band is for bettering yourself, but casually. It's lightweigh",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Column",
+        "Fitness",
+        "Gadgets",
+        "Optimizer",
+        "Tech",
+        "Wearable"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "018",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+      "summary": "Tesla is recalling its RWD Cybertruck Long Range over faulty brake rotors that could cause the wheels to fall off, as spotted earlier by MotorTrend. In a notice on the National Highway Traffic Safety Administration's website, Tesla says \"brake rotor stud holes may crack and allow the stud to separat",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Electric Cars",
+        "News",
+        "Tesla",
+        "Transportation"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "019",
+      "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
+      "title": "Everybody wants to rule the AI world",
+      "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
+      "date_published": "2026-05-08",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "OpenAI",
+        "Podcasts",
+        "Tech",
+        "Vergecast"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "020",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "summary": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nanoleaf has launched just a handful of smart lighting products in the last two years. There's a reason",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Interview",
+        "Matter",
+        "Report",
+        "Smart Home",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "021",
       "url": "https://www.theverge.com/tech/926675/apple-education-discount-unidays-verification-us",
       "title": "Apple’s education discount now requires proof that you’re a student",
       "summary": "Apple now requires proof of eligibility from US customers who purchase products online at discounted education rates, which also apply to the Apple Watch for the first time. According to a new pop-up message displayed on Apple's education webstore, Apple is directing students, parents, and teachers ",
@@ -104,7 +297,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "009",
+      "id": "022",
       "url": "https://www.theverge.com/news/926609/sonys-ps5-sales-plummet-memory-costs-price-hikes",
       "title": "Sony’s PS5 sales plummet amid price rises and a memory crisis",
       "summary": "Sony sold just 1.5 million PS5 consoles in its most recent fourth fiscal quarter, down 46 percent year over year. The slump in PS5 sales comes after Sony raised the price of its PS5 consoles twice over the past year, pushing the price of the regular PS5 from $499.99 all the way up to $649.99. […]",
@@ -119,7 +312,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "010",
+      "id": "023",
       "url": "https://www.theverge.com/games/926606/nintendo-switch-2-price-hikes-earnings-results",
       "title": "Nintendo is raising Switch 2 prices",
       "summary": "Nintendo is raising the price of its Switch 2 console globally, \"in light of changes in market conditions,\" and is now forecasting a drop in sales over the next year. Starting September 1st, the Switch 2 will cost $499.99 in the US, up from its current $449.99 price. At the same time, prices will al",
@@ -134,7 +327,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "011",
+      "id": "024",
       "url": "https://www.wired.com/story/best-mobile-gaming-controllers/",
       "title": "The Best Mobile Gaming Controllers for iPhone and Android (2026)",
       "summary": "Your iPhone or Android phone can work overtime as a full-on gaming console with the help of these mobile controllers. Backbone makes my favorite.",
@@ -154,7 +347,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "025",
       "url": "https://www.wired.com/story/we-asked-coffee-pros-to-blind-test-coffee-machines-the-results-were-surprising/",
       "title": "We Asked Coffee Pros to Blind Test Coffee Machines. The Results Were Surprising",
       "summary": "For our latest WIRED Blind Test, we sat coffee industry professionals down to rank leading do-it-all coffee machines—and the winner wasn't what anyone expected.",
@@ -175,7 +368,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "026",
       "url": "https://www.wired.com/story/billie-eilish-doesnt-know-if-there-will-ever-be-another-billie-eilish/",
       "title": "Billie Eilish Doesn't Know if There Will Ever Be Another Billie Eilish",
       "summary": "In an interview with WIRED ahead of her new concert film Hit Me Hard and Soft: The Tour (Live in 3D), Billie Eilish talked about whether or not future artists will be able to leverage SoundCloud the way she did.",
@@ -190,7 +383,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "027",
       "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
       "title": "The New Wild West of AI Kids’ Toys",
       "summary": "These cuddly, connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
@@ -209,7 +402,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "028",
       "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/",
       "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
       "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
@@ -230,7 +423,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "029",
       "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
       "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
       "summary": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens.",
@@ -247,7 +440,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "030",
       "url": "https://www.wired.com/story/meet-rassvet-russias-answer-to-starlink/",
       "title": "Meet Rassvet, Russia’s Answer to Starlink",
       "summary": "With the launch of the first 16 satellites, Russia begins construction of a network for satellite internet that aims to cover the entire country by 2030. But getting there won’t be easy.",
@@ -265,197 +458,6 @@
         "Space Race"
       ],
       "_source": "Wired"
-    },
-    {
-      "id": "018",
-      "url": "https://www.wired.com/story/canvas-hack-shinyhunters-ransomware-instructure/",
-      "title": "The Canvas Hack Is a New Kind of Ransomware Debacle",
-      "summary": "Thousands of schools around the US were paralyzed on Thursday after education tech firm Instructure shut down access to its Canvas platform following a breach by hackers going by the name ShinyHunters.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Security",
-        "Security / Cyberattacks and Hacks",
-        "Security / Privacy",
-        "Security / Security News",
-        "ransomware",
-        "cybersecurity",
-        "malware",
-        "hacks",
-        "hacking",
-        "security",
-        "vulnerabilities",
-        "Drop Out"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "019",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "title": "50% Off DoorDash Promo Code | May 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "020",
-      "url": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Business",
-        "Business / Artificial Intelligence",
-        "OpenAI",
-        "Microsoft",
-        "Musk v. Altman Trial",
-        "Silicon Valley",
-        "artificial intelligence",
-        "Sam Altman",
-        "Elon Musk",
-        "Real talk"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "021",
-      "url": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
-      "title": "Here’s how technology transformed babymaking",
-      "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Biotechnology and health",
-        "App",
-        "The Checkup"
-      ],
-      "_source": "MIT Tech Review"
-    },
-    {
-      "id": "022",
-      "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
-      "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
-      "summary": "Anthropic on Tuesday unveiled a suite of updates to its Claude Managed Agents platform at its second annual Code with Claude developer conference in San Francisco, introducing a new capability called \"dreaming\" that lets AI agents learn from their own past sessions and improve over time — a step tow",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Technology",
-        "Business",
-        "Orchestration"
-      ],
-      "_source": "VentureBeat"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/aws-builders/how-i-built-an-autonomous-sre-and-made-it-into-the-openai-cookbook-1pn2",
-      "title": "How I Built an Autonomous SRE (and made it into the OpenAI Cookbook!)",
-      "summary": "Taming GPT-4o for Production EKS\n\n\nLet’s be brutally honest for a second: the idea of letting an LLM blindly run kubectl apply on your production AWS EKS cluster is terrifying.\n\nIt is the stuff of late-night DevOps nightmares. One rogue hallucination, an accidental namespace change, or a sudden Clus",
-      "date_published": "2026-05-08",
-      "tags": [
-        "aws",
-        "devops",
-        "kubernetes",
-        "openai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/soumia_g_9dc322fc4404cecd/what-kubecon-amsterdam-2026-taught-me-about-infrastructure-as-transformation-3o1o",
-      "title": "What KubeCon Amsterdam 2026 Taught Me About Infrastructure as Transformation",
-      "summary": "KubeCon + CloudNativeCon EU 2026 · Amsterdam · March 23–26\n\n\nMore than 13,000 engineers gathering around infrastructure might sound excessive until you realize what they're really there for: understanding how the next generation of systems is being built in real time.\n\nAll sessions referenced in thi",
-      "date_published": "2026-05-08",
-      "tags": [
-        "kubecon",
-        "kubernetes",
-        "cloudnative",
-        "observability"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/ramen-noodle/the-difference-between-a-consumer-prompt-and-production-infrastructure-gp3",
-      "title": "The Difference Between a Consumer Prompt and Production Infrastructure",
-      "summary": "Most companies are building enterprise AI using consumer habits. An engineer writes a system prompt, tests it five times in a playground environment, gets a helpful answer, and ships it.\n\nThat is not engineering. That is relying on vibes.\n\nConsumer prompts are designed to optimize for helpfulness. P",
-      "date_published": "2026-05-08",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "promptengineering",
-        "architecture"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/johalputt/the-ultimate-showdown-revisited-with-kubernetes-and-microservices-benchmark-3o6",
-      "title": "The Ultimate Showdown revisited with Kubernetes and Microservices: Benchmark",
-      "summary": "In 2024, the average enterprise Kubernetes microservices stack wastes 34% of node capacity on orchestration overhead alone—our 10-iteration AWS c6i.xlarge benchmark cuts through the marketing fluff to show what actually performs.\n\n\n  \n  \n  🔴 Live Ecosystem Stats\n\n\n\n  ⭐ kubernetes/kubernetes — 122,11",
-      "date_published": "2026-05-08",
-      "tags": [
-        "ultimate",
-        "showdown",
-        "revisited",
-        "kubernetes"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/elchinasgarov/why-your-autonomous-ai-agent-will-die-from-a-403-error-and-how-to-fix-it-bgc",
-      "title": "Why Your Autonomous AI Agent Will Die From a 403 Error (And How to Fix It)",
-      "summary": "The AI industry is currently obsessed with the \"brain\" (LLMs, RAG, Autonomous Agents) but completely ignoring the \"digestive system\" (Data Ingestion).\n\n​Founders are spending millions on compute to build sophisticated agents, only to deploy them into production and watch them get instantly paralyzed",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Dev.to"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/japan_refactor/jtc-office-culture-why-kuuki-wo-yomu-is-not-telepathy-a-guide-to-high-context-communication-h8n",
-      "title": "JTC Office Culture: Why \"Kuuki wo Yomu\" Is Not Telepathy — A Guide to High-Context Communication and Social Signal Processing",
-      "summary": "For foreign engineers in Japan, the phrase \"Kuuki wo Yomu\" (Reading the Air) often feels like unscientific telepathy—an invisible social contract with no documentation and no error messages. It's one of the most underestimated soft skills for engineers working in Japanese companies.\n\nMost engineers ",
-      "date_published": "2026-05-08",
-      "tags": [
-        "culture",
-        "softskills",
-        "career",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/muhammad_yasin_f39f26989f/ai-for-scientific-discovery-in-the-real-world-what-gemma-4-changes-the-moment-ai-leaves-the-4aai",
-      "title": "🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n🔬 AI for Scientific Discovery in the Real World: What Gemma 4 Changes The Moment AI Leaves the Chat Window\n\nMost discussions about AI models focus on productivity, coding assistants, or chat interfaces.\n\nBut something fundamentally",
-      "date_published": "2026-05-08",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "deeplearning"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "030",
-      "url": "https://dev.to/anna_danilec/deterministic-guardrails-for-non-deterministic-agents-127b",
-      "title": "Deterministic Guardrails for Non-Deterministic Agents",
-      "summary": "By design, Large Language Models (LLMs) are non-deterministic. Even with an identical prompt, they can return different answers, trigger the wrong API, leak sensitive personal data, or initiate a costly chain of requests that evaporates a monthly cloud budget in seconds. For engineers managing produ",
-      "date_published": "2026-05-08",
-      "tags": [
-        "ai",
-        "python",
-        "agents",
-        "security"
-      ],
-      "_source": "Dev.to"
     }
   ]
 }
