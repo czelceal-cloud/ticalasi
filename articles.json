@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
-    "summary": "Article URL: https://btxx.org/posts/memory/\nComments URL: https://news.ycombinator.com/item?id=48064312\nPoints: 19\n# Comments: 2",
-    "url": "https://btxx.org/posts/memory/",
+    "title": "Apple, Intel have reached preliminary chip-making deal",
+    "summary": "Article URL: https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/\nComments URL: https://news.ycombinator.com/item?id=48066169\nPoints: 26\n# Comments: 0",
+    "url": "https://www.reuters.com/business/apple-intel-have-reached-preliminary-chip-making-deal-wsj-reports-2026-05-08/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -12,6 +12,50 @@
   },
   {
     "id": "002",
+    "title": "Bjarne Stroustrup: How do I deal with memory leaks?",
+    "summary": "Article URL: https://www.stroustrup.com/bs_faq2.html#memory-leaks\nComments URL: https://news.ycombinator.com/item?id=48065916\nPoints: 3\n# Comments: 0",
+    "url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Cartoon Network Flash Games",
+    "summary": "Article URL: https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games\nComments URL: https://news.ycombinator.com/item?id=48065360\nPoints: 71\n# Comments: 28",
+    "url": "https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Hallucinations Undermine Trust; Metacognition Is a Way Forward",
+    "summary": "Article URL: https://arxiv.org/abs/2605.01428\nComments URL: https://news.ycombinator.com/item?id=48064373\nPoints: 3\n# Comments: 0",
+    "url": "https://arxiv.org/abs/2605.01428",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+    "summary": "Article URL: https://btxx.org/posts/memory/\nComments URL: https://news.ycombinator.com/item?id=48064312\nPoints: 99\n# Comments: 40",
+    "url": "https://btxx.org/posts/memory/",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
     "title": "Show HN: Git for AI Agents",
     "summary": "hi guys.\nbeen working on something i think is fundamentally missing in today's workflow with ai agents.vcs.i find myself struggling with questions that agents can't answer like \"why did you do it?\", \"when did u delete this folder? why?\", etc. or trying to /rewind (after a /compact...) or basically `",
     "url": "https://github.com/regent-vcs/re_gent",
@@ -22,9 +66,9 @@
     ]
   },
   {
-    "id": "003",
+    "id": "007",
     "title": "PC Engine CPU",
-    "summary": "Article URL: https://jsgroth.dev/blog/posts/pc-engine-cpu/\nComments URL: https://news.ycombinator.com/item?id=48063521\nPoints: 38\n# Comments: 4",
+    "summary": "Article URL: https://jsgroth.dev/blog/posts/pc-engine-cpu/\nComments URL: https://news.ycombinator.com/item?id=48063521\nPoints: 77\n# Comments: 21",
     "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -33,20 +77,9 @@
     ]
   },
   {
-    "id": "004",
-    "title": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
-    "summary": "Article URL: https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall\nComments URL: https://news.ycombinator.com/item?id=48063240\nPoints: 117\n# Comments: 116",
-    "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
+    "id": "008",
     "title": "Google Cloud Fraud Defence is just WEI repackaged",
-    "summary": "Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/\nComments URL: https://news.ycombinator.com/item?id=48063199\nPoints: 33\n# Comments: 7",
+    "summary": "Article URL: https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/\nComments URL: https://news.ycombinator.com/item?id=48063199\nPoints: 295\n# Comments: 130",
     "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -55,9 +88,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "009",
     "title": "Podman rootless containers and the Copy Fail exploit",
-    "summary": "Article URL: https://garrido.io/notes/podman-rootless-containers-copy-fail/\nComments URL: https://news.ycombinator.com/item?id=48062745\nPoints: 35\n# Comments: 4",
+    "summary": "Article URL: https://garrido.io/notes/podman-rootless-containers-copy-fail/\nComments URL: https://news.ycombinator.com/item?id=48062745\nPoints: 69\n# Comments: 14",
     "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -66,42 +99,78 @@
     ]
   },
   {
-    "id": "007",
-    "title": "Poland is now among the 20 largest economies. How it happened",
-    "summary": "Article URL: https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa\nComments URL: https://news.ycombinator.com/item?id=48062117\nPoints: 507\n# Comments: 417",
-    "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Hackers breach JDownloader's website to serve malware-laced downloads",
-    "summary": "Article URL: https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/\nComments URL: https://news.ycombinator.com/item?id=48062035\nPoints: 70\n# Comments: 22",
-    "url": "https://www.neowin.net/news/if-you-downloaded-this-popular-software-recently-you-might-have-installed-malware/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "An Introduction to Meshtastic",
-    "summary": "Article URL: https://meshtastic.org/docs/introduction/\nComments URL: https://news.ycombinator.com/item?id=48061566\nPoints: 182\n# Comments: 65",
-    "url": "https://meshtastic.org/docs/introduction/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "010",
+    "title": "A web page that shows you everything the browser told it without asking",
+    "summary": "Article URL: https://sinceyouarrived.world/taken\nComments URL: https://news.ycombinator.com/item?id=48062178\nPoints: 247\n# Comments: 130",
+    "url": "https://sinceyouarrived.world/taken",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Mother Ventures is looking at moms as the ‘economic engine’",
+    "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
+    "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "Commerce",
+      "Venture",
+      "consumer",
+      "emerging funds",
+      "motherhood"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Uber partner Avride is under investigation for self-driving crashes",
+    "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
+    "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "autonomous vehicles",
+      "avride",
+      "avs",
+      "nhtsa",
+      "robotaxis",
+      "self-driving cars",
+      "Uber"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Poland says hackers breached water treatment plants, and the U.S. is facing the same threat",
+    "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
+    "url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "Security"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
+    "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
+    "url": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
+    "date": "2026-05-08",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "cybersecurity",
+      "L3Harris",
+      "Peter Williams"
+    ]
+  },
+  {
+    "id": "015",
     "title": "Pentagon releases UFO files on new website",
-    "summary": "The Defense Department has released a collection of UFO files with images, videos, and documents on war.gov/ufo.",
+    "summary": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for reso",
     "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
     "date": "2026-05-08",
     "source": "TechCrunch",
@@ -114,7 +183,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "016",
     "title": "Truecaller slashes 70 jobs amid declining ad sales",
     "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
     "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
@@ -128,7 +197,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "017",
     "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
     "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
     "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
@@ -141,7 +210,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "018",
     "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
     "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
     "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
@@ -163,7 +232,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "019",
     "title": "Lime, the Uber-backed micromobility company, files for IPO",
     "summary": "After years of hints and preparation, Lime plans to enter the public markets.",
     "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
@@ -179,7 +248,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "020",
     "title": "The biggest US power grid is under strain from AI — and no one is happy",
     "summary": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
     "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
@@ -192,7 +261,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "021",
     "title": "Airbnb says AI now writes 60% of its new code",
     "summary": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
     "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
@@ -207,8 +276,8 @@
     ]
   },
   {
-    "id": "017",
-    "title": "The fax machine is the bottleneck in U.S. healthcare, and VCs are starting to notice",
+    "id": "022",
+    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
     "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
     "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
     "date": "2026-05-08",
@@ -226,7 +295,107 @@
     ]
   },
   {
-    "id": "018",
+    "id": "023",
+    "title": "Engineers at NASA's Jet Propulsion Lab make a breakthrough in rotor technology",
+    "summary": "Testing shows rotor blades won't disintegrate when they spin at supersonic speed.",
+    "url": "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "Space",
+      "jet propulsion laboratory",
+      "Mars",
+      "mars ingenuity",
+      "NASA",
+      "planetary science",
+      "skyfall",
+      "solar system"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "DNA identifies four more crew members of doomed Franklin expedition",
+    "summary": "Three served on the HMS Erebus; the fourth was Petty Officer Harry Peglar of the HMS Terror.",
+    "url": "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "forensic DNA",
+      "Franklin expedition",
+      "shipwrecks"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Which Macs are suffering from shortages—and where are things getting worse?",
+    "summary": "There are a couple signs of strain beyond the MacBook Neo and the desktops.",
+    "url": "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "apple",
+      "iMac",
+      "Mac",
+      "Mac mini",
+      "Mac Studio",
+      "MacBook Air",
+      "macbook neo",
+      "MacBook Pro"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "How climate change makes your allergies worse",
+    "summary": "As pollen season worsens, allergies compound with other climate health hazards.",
+    "url": "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "allergies",
+      "climate change",
+      "syndication"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "The Nintendo Switch 2 is getting more expensive later this year",
+    "summary": "\"Changes in market conditions\" lead to $50 price bump on Sept. 1.",
+    "url": "https://arstechnica.com/gaming/2026/05/the-nintendo-switch-2-is-getting-more-expensive-later-this-year/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Gaming",
+      "business",
+      "market",
+      "Nintendo",
+      "price increase",
+      "switch 2"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "The US military just released a bunch of UAP files, but there's no there there",
+    "summary": "Here at Ars Technica, we do not preclude the possibility that aliens have visited Earth.",
+    "url": "https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/",
+    "date": "2026-05-08",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "aliens",
+      "space",
+      "UAP",
+      "UFO"
+    ]
+  },
+  {
+    "id": "029",
     "title": "Everyone’s a loser in Strait of Hormuz game that simulates global crisis",
     "summary": "The game asks players to find the least worst options for a shipping chokepoint.",
     "url": "https://arstechnica.com/gaming/2026/05/everyones-a-loser-in-straight-of-hormuz-game-that-simulates-global-crisis/",
@@ -247,7 +416,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "030",
     "title": "Rocket Report: Alpha Block 2 coming this summer; Falcon sets booster landing mark",
     "summary": "\"The deciding factor was what we felt like was the team’s impact to humanity.\"",
     "url": "https://arstechnica.com/space/2026/05/rocket-report-flying-past-peak-falcon-9-rocket-lab-revenue-soars/",
@@ -257,177 +426,6 @@
       "Space",
       "rocket report",
       "space"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Google Fitbit Air preorders come with a second band for free",
-    "summary": "Google’s new Fitbit Air, the $99.99 screenless fitness tracker, comes out on May 26th. It’s the company’s first Fitbit release in four years, and you can use it on iOS or Android phones without a paid subscription if all you want to do is track activities, sleep, and basic health metrics (heart rate",
-    "url": "https://www.theverge.com/gadgets/926766/google-fitbit-air-preorder-free-band-deal-sale",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Everyone should follow Logitech and put extra USB ports on iPad keyboard cases",
-    "summary": "Logitech is introducing a new feature to its rugged iPad Combo 4 keyboard case that addresses an ongoing issue with the tablet as Apple continues to push it toward being a laptop alternative. The new Rugged Combo 4c and 4c Touch cases, compatible with the 10th and 11th-gen iPads, add a second USB-C ",
-    "url": "https://www.theverge.com/tech/926852/logitech-rugged-combo-4c-keyboard-touchpad-extra-usb-c-port",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Apple",
-      "Gadgets",
-      "iPad",
-      "Keyboards",
-      "Logitech",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Microsoft was worried OpenAI would run off to Amazon and ‘shit-talk’ Azure",
-    "summary": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongoing Musk v. Altman trial have provided a rare look at the communications between Microsoft's top exe",
-    "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Gaming",
-      "Microsoft",
-      "OpenAI",
-      "Report",
-      "Tech",
-      "Xbox"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "The company that owns Moog, Akai Pro, and Numark is buying Native Instruments",
-    "summary": "Native Instruments' suite of music production software and gear, including Traktor and Kontakt, will soon live under the inMusic umbrella alongside other music tech brands like Akai Professional and Moog Music. As MusicRadar reports, Native Instruments CEO Nick Williams said the company was looking ",
-    "url": "https://www.theverge.com/entertainment/926841/native-instruments-inmusic",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Entertainment",
-      "Music",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Govee’s solar-powered string lights are already on sale for 20 percent off",
-    "summary": "I’m not sure if we’ve mentioned this yet, but Govee has been on a tear lately, having recently announced everything from rechargeable table lamps to multicolor, Matter-compatible ceiling lights that can display custom images with retro, pixelated flair. In April, the company also unveiled a 34-foot ",
-    "url": "https://www.theverge.com/gadgets/926434/govee-outdoor-solar-string-lights-star-fox-switch-2-deal-sale",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Smart Home",
-      "Tech",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "The future of game consoles is looking bleak",
-    "summary": "It's been a real good news / bad news week for Nintendo. Out of nowhere on Wednesday, the company announced a lush remake of Star Fox 64, jolting the dormant franchise to life and helping to fill out a relatively sparse lineup for the Switch 2 for the rest of the year. But then on […]",
-    "url": "https://www.theverge.com/games/926772/nintendo-switch-2-price-hike-console-gaming-future",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Analysis",
-      "Entertainment",
-      "Gaming",
-      "Nintendo",
-      "Report"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
-    "summary": "Boox has announced its own alternative to the Kobo Remote that offers more functionality than just turning the page while reading on its tablets and e-readers. The Tappy can also be used to scroll vertical content in browsers or social media apps and skip to the next or previous track when listening",
-    "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "What’s the role of a simple fitness band in the AI health era?",
-    "summary": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A fitness band is for bettering yourself, but casually. It's lightweigh",
-    "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "Column",
-      "Fitness",
-      "Gadgets",
-      "Optimizer",
-      "Tech",
-      "Wearable"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Everybody wants to rule the AI world",
-    "summary": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch of video calls while the current CEO is texting the former CEO about who the new CEO even is. Such wa",
-    "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
-    "date": "2026-05-08",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
-    "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
-    "url": "https://www.wired.com/story/nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-    "date": "2026-05-08",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Tech Culture",
-      "Backchannel - NL",
-      "philosophy",
-      "artificial intelligence",
-      "Books",
-      "ideas",
-      "Backchannel"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "There's a Long Shot Proposal to Protect California Workers From AI",
-    "summary": "California gubernatorial candidate Tom Steyer is proposing a new jobs guarantee for workers displaced by artificial intelligence.",
-    "url": "https://www.wired.com/story/tom-steyer-proposes-jobs-guarantee-to-protect-california-workers-from-ai/",
-    "date": "2026-05-08",
-    "source": "Wired",
-    "tags": [
-      "Politics",
-      "artificial intelligence",
-      "politics",
-      "Regulation",
-      "government",
-      "elections",
-      "Jobs Jobs Jobs"
     ]
   }
 ]
