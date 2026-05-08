@@ -7,20 +7,23 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.davesnider.com/posts/working-in-a-niche",
-      "title": "Creating for a niche",
-      "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 5\n# Comments: 0",
-      "date_published": "2026-05-07",
+      "url": "https://dev.to/_350df62777eb55e1/building-a-cookie-editor-chrome-extension-why-i-built-cookiejar-after-editthiscookie-died-4o00",
+      "title": "Building a Cookie Editor Chrome Extension — Why I Built CookieJar After EditThisCookie Died",
+      "summary": "EditThisCookie Is Gone — Now What?\n\n\nIn late 2024, EditThisCookie — the most popular cookie editor for Chrome with millions of users — was removed from the Chrome Web Store. The reason: it never migrated to Manifest V3.\n\nOvernight, millions of developers and testers lost their go-to cookie managemen",
+      "date_published": "2026-05-08",
       "tags": [
-        "Hacker News"
+        "chrome",
+        "webdev",
+        "javascript",
+        "security"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "002",
-      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8\nComments URL: https://news.ycombinator.com/item?id=48053623\nPoints: 220\n# Comments: 95",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "title": "Researchers discover advanced language processing in the unconscious human brain",
+      "summary": "Article URL: https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain\nComments URL: https://news.ycombinator.com/item?id=48056268\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -29,9 +32,9 @@
     },
     {
       "id": "003",
-      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
-      "title": "Colored Shadow Penumbra",
-      "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 24\n# Comments: 9",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "title": "Maybe you shouldn't install new software for a bit",
+      "summary": "Article URL: https://xeiaso.net/blog/2026/abstain-from-install/\nComments URL: https://news.ycombinator.com/item?id=48056227\nPoints: 21\n# Comments: 2",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -40,9 +43,9 @@
     },
     {
       "id": "004",
-      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-      "title": "AI slop is killing online communities",
-      "summary": "Article URL: https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/\nComments URL: https://news.ycombinator.com/item?id=48053203\nPoints: 245\n# Comments: 235",
+      "url": "https://openclaw.ai/blog/openclaw-rough-week",
+      "title": "OpenClaw Had a Rough Week",
+      "summary": "Article URL: https://openclaw.ai/blog/openclaw-rough-week\nComments URL: https://news.ycombinator.com/item?id=48056003\nPoints: 19\n# Comments: 18",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -51,9 +54,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "summary": "Article URL: https://www.anthropic.com/research/natural-language-autoencoders\nComments URL: https://news.ycombinator.com/item?id=48052537\nPoints: 124\n# Comments: 40",
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "summary": "Article URL: https://www.theverge.com/tech/926458/canvas-shinyhunters-breach\nComments URL: https://news.ycombinator.com/item?id=48055913\nPoints: 70\n# Comments: 2",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -62,9 +65,9 @@
     },
     {
       "id": "006",
-      "url": "https://twitter.com/trevin/status/2051316002730991795",
-      "title": "Principles for agent-native CLIs",
-      "summary": "Article URL: https://twitter.com/trevin/status/2051316002730991795\nComments URL: https://news.ycombinator.com/item?id=48052333\nPoints: 37\n# Comments: 20",
+      "url": "https://blog.cloudflare.com/building-for-the-future/",
+      "title": "Building for the Future",
+      "summary": "Article URL: https://blog.cloudflare.com/building-for-the-future/\nComments URL: https://news.ycombinator.com/item?id=48054423\nPoints: 188\n# Comments: 112",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -73,9 +76,9 @@
     },
     {
       "id": "007",
-      "url": "https://github.com/pthom/imgui_bundle",
-      "title": "Show HN: Full Python GUI apps in the browser – no JavaScript, no server",
-      "summary": "I have been working on Dear ImGui Bundle since 2022, but it is the first time I talk about it here. It is a framework around Dear ImGui for building interactive applications in Python and C++. It comes with batteries included: Plotting, image inspection, Markdown, node editors, 3D gizmos, knobs, tog",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "summary": "Article URL: https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/\nComments URL: https://news.ycombinator.com/item?id=48053842\nPoints: 31\n# Comments: 9",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -84,9 +87,9 @@
     },
     {
       "id": "008",
-      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-      "title": "Agents need control flow, not more prompts",
-      "summary": "Article URL: https://bsuh.bearblog.dev/agents-need-control-flow/\nComments URL: https://news.ycombinator.com/item?id=48051562\nPoints: 226\n# Comments: 128",
+      "url": "https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/",
+      "title": "Mozilla says 271 vulnerabilities found by Mythos and \"almost no false positives\"",
+      "summary": "Article URL: https://arstechnica.com/information-technology/2026/05/mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives/\nComments URL: https://news.ycombinator.com/item?id=48053816\nPoints: 82\n# Comments: 40",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -95,9 +98,9 @@
     },
     {
       "id": "009",
-      "url": "https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html",
-      "title": "I switched from Mac to a Lenovo Chromebook",
-      "summary": "Article URL: https://blog.johnozbay.com/i-left-apples-ecosystem-for-a-lenovo-chromebook-and-you-can-too.html\nComments URL: https://news.ycombinator.com/item?id=48051025\nPoints: 89\n# Comments: 126",
+      "url": "https://www.davesnider.com/posts/working-in-a-niche",
+      "title": "Creating for a niche",
+      "summary": "Article URL: https://www.davesnider.com/posts/working-in-a-niche\nComments URL: https://news.ycombinator.com/item?id=48053770\nPoints: 22\n# Comments: 1",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -106,9 +109,9 @@
     },
     {
       "id": "010",
-      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-      "summary": "Article URL: https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/\nComments URL: https://news.ycombinator.com/item?id=48050964\nPoints: 366\n# Comments: 143",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "summary": "Article URL: https://www.openwall.com/lists/oss-security/2026/05/07/8\nComments URL: https://news.ycombinator.com/item?id=48053623\nPoints: 335\n# Comments: 159",
       "date_published": "2026-05-07",
       "tags": [
         "Hacker News"
@@ -117,17 +120,60 @@
     },
     {
       "id": "011",
-      "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
-      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
-      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboratio",
+      "url": "https://chosker.github.io/blog/colored-shadow-penumbra",
+      "title": "Colored Shadow Penumbra",
+      "summary": "Article URL: https://chosker.github.io/blog/colored-shadow-penumbra\nComments URL: https://news.ycombinator.com/item?id=48053435\nPoints: 30\n# Comments: 12",
       "date_published": "2026-05-07",
       "tags": [
-        "Transportation"
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/07/ramp-in-talks-to-hit-40b-valuation-6-months-after-reaching-32b/",
+      "title": "Ramp in talks to hit $40B+ valuation, 6 months after reaching $32B",
+      "summary": "The company is reportedly in talks to raise another $750 million at a pre-money valuation of more than $40 billion. It last raised in November at $32 billion.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Fintech",
+        "Startups",
+        "TC",
+        "In Brief",
+        "Ramp"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "AI",
+        "OpenAI",
+        "gpt"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/07/kodiak-ai-raises-100m-at-a-steep-discount-sending-its-stock-tumbling-37/",
+      "title": "Kodiak AI raises $100M at a steep discount, sending its stock tumbling 37%",
+      "summary": "The company made a series of other announcements during earnings, including a new commercial contract, a pilot program in Canada, and a collaboration.",
+      "date_published": "2026-05-07",
+      "tags": [
+        "Startups",
+        "Transportation",
+        "autonomous trucks",
+        "self-driving trucks",
+        "kodiak ai"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/07/disney-looking-to-make-a-unified-super-app-report-says/",
       "title": "Disney looking to make a unified ‘super app,’ report says",
       "summary": "Disney CEO Josh D'Amaro, who took over for Bob Iger earlier this year, has emphasized his intent to streamline the Disney experience.",
@@ -137,15 +183,16 @@
         "Media & Entertainment",
         "Disney",
         "Disney Plus",
+        "In Brief",
         "josh d'amaro"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
       "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-      "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
       "date_published": "2026-05-07",
       "tags": [
         "AI",
@@ -157,7 +204,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/07/hackers-deface-school-login-pages-after-claiming-another-instructure-hack/",
       "title": "Hackers deface school login pages after claiming another Instructure hack",
       "summary": "The cybercrime group ShinyHunters claimed to have hacked Instructure again, defacing the login pages of several Instructure customer schools with an extortion message.",
@@ -179,7 +226,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/07/gusto-hits-1b-revenue-a-figure-that-brings-it-closer-to-public-markets/",
       "title": "Gusto hits $1B revenue, a figure that brings it closer to public markets",
       "summary": "Gusto has shared an impressive milestone on its actual revenue, not an ARR number that estimates future income.",
@@ -194,7 +241,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
       "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
       "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
@@ -208,7 +255,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/07/tesla-model-y-is-first-car-to-meet-new-u-s-driver-assistance-safety-benchmark/",
       "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark",
       "summary": "The new benchmark rating applies to 2026 Tesla Model Y vehicles assembled on or after November 12, 2025.",
@@ -222,7 +269,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
       "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
       "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
@@ -236,7 +283,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
       "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial general intelligence.",
@@ -251,7 +298,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "020",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
       "title": "Bumble is getting rid of the swipe, CEO says",
       "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made many comments over the years about how AI will be \"a supercharger to love and relationships.\"",
@@ -266,7 +313,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "021",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/07/tome-another-goodreads-booktracker-rival-shuts-down/",
       "title": "Tome, another Goodreads book-tracker rival, shuts down",
       "summary": "Built on the back of the sizable and influential BookTok community -- creators who discuss and review books on TikTok -- the app offered readers a place to chronicle and rate their books, get recommendations, and even add photos of things like favorite quotes or memes, or share playlists that match ",
@@ -282,7 +329,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "022",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/07/could-lovables-automatic-10-pay-raise-be-the-cure-for-toxic-cultures/",
       "title": "Could Lovable’s automatic 10% pay raise be the cure for toxic cultures?",
       "summary": "Stockholm-based vibe-coding platform Lovable is offering employees an automatic 10% raise as a way to sidestep classic corporate politics.",
@@ -296,7 +343,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "023",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/07/hackers-hack-victims-hacked-by-other-hackers/",
       "title": "Hackers hack victims hacked by other hackers",
       "summary": "An unknown group of hackers is breaking into systems previously breached by the cybercrime group TeamPCP. Once inside, the hackers immediately kick out TeamPCP and remove its hacking tools from the victims’ systems.",
@@ -313,7 +360,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/07/kalshi-doubles-valuation-in-5-months-hitting-22-billion/",
       "title": "Kalshi doubles valuation in 5 months, hitting $22B",
       "summary": "Prediction market startup Kalshi has raised a $1 billion Series F round led by Coatue.",
@@ -329,7 +376,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/07/jeff-bezos-rep-leaves-slate-autos-board/",
       "title": "Jeff Bezos rep leaves Slate Auto’s board",
       "summary": "Melinda Lewison's departure raises questions about Bezos' support and involvement with the startup at a time when the Amazon founder is now apparently focused on robotics at his new startup, Project Prometheus.",
@@ -344,7 +391,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
       "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
       "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
@@ -361,7 +408,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/",
       "title": "Google’s $9.99-per-month AI health coach launches May 19",
       "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
@@ -374,58 +421,6 @@
         "google health",
         "google health coach",
         "wearables"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/",
-      "title": "Google unveils Whoop-like screenless Fitbit Air",
-      "summary": "The device comes with health and fitness tracking like 24/7 heart rate, heart rhythm monitoring with A-fib alerts, SpO2, resting heart rate, heart rate variability, sleep stages and duration, and more.",
-      "date_published": "2026-05-07",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "fitbit",
-        "Google",
-        "wearables"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "summary": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportunities for major scaling impact.",
-      "date_published": "2026-05-07",
-      "tags": [
-        "AI",
-        "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Crypto",
-        "Fintech",
-        "Fundraising",
-        "Gadgets",
-        "Hardware",
-        "Startups",
-        "Startup Battlefield",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://techcrunch.com/2026/05/07/police-arrest-sms-blaster-crew-that-sent-malicious-messages-to-thousands-across-toronto/",
-      "title": "Police arrest SMS blaster crew that sent malicious messages to thousands across Toronto",
-      "summary": "Toronto police said this is the \"first known instance\" of an SMS blaster being used in Canada.",
-      "date_published": "2026-05-07",
-      "tags": [
-        "Security",
-        "Canada",
-        "cyberattack",
-        "cybersecurity",
-        "sms blaster"
       ],
       "_source": "TechCrunch"
     }
