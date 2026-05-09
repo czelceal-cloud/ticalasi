@@ -7,50 +7,34 @@
   "items": [
     {
       "id": "001",
-      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-      "title": "Killswitch: Per-function short-circuit mitigation primitive",
-      "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 6\n# Comments: 0",
+      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
+      "title": "The new Wild West of AI kids’ toys",
+      "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
       "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Policy",
+        "ai toys",
+        "syndication",
+        "Toys"
       ],
-      "_source": "Hacker News"
+      "_source": "Ars Technica"
     },
     {
       "id": "002",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-      "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 264\n# Comments: 196",
+      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
+      "title": "Let it snow",
+      "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow.",
       "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "Entertainment",
+        "Games Review",
+        "Gaming"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "003",
-      "url": "https://twitter.com/trq212/status/2052809885763747935",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 188\n# Comments: 100",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
-      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 368\n# Comments: 207",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
       "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
       "title": "The game that makes me actually want to exercise",
       "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
@@ -64,7 +48,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "006",
+      "id": "004",
       "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
       "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
       "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
@@ -77,7 +61,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "007",
+      "id": "005",
       "url": "https://www.wired.com/gallery/best-captioning-glasses/",
       "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
       "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
@@ -100,7 +84,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "006",
       "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
       "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
@@ -126,7 +110,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "007",
       "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
       "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
       "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
@@ -151,7 +135,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "008",
       "url": "https://www.wired.com/story/instacart-promo/code/",
       "title": "Instacart Promo Code: $15 Off | May 2026",
       "summary": "Find the best Instacart promo code for massive savings in May 2026",
@@ -166,7 +150,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "009",
       "url": "https://www.wired.com/story/hellofresh-coupon/",
       "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
       "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
@@ -181,7 +165,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "010",
       "url": "https://www.wired.com/story/blue-apron-coupon/",
       "title": "50% Off Blue Apron Promo Codes | May 2026",
       "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
@@ -195,7 +179,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "011",
       "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
       "title": "T-Mobile Promo Codes: 25% Off | May",
       "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
@@ -210,7 +194,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "012",
       "url": "https://www.wired.com/story/logitech-promo-code/",
       "title": "Logitech Promo Codes and Deals: Up to $100 Off",
       "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
@@ -224,7 +208,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "013",
       "url": "https://www.wired.com/story/western-digital-promo-code/",
       "title": "Western Digital Promo Code: 15% Off",
       "summary": "Get 15% off your first order at Western Digital when you register your email.",
@@ -238,7 +222,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "014",
       "url": "https://www.wired.com/story/shed-rain-coupon/",
       "title": "Exclusive Shed Rain Coupon: 15% Off",
       "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
@@ -252,174 +236,171 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
-      "url": "https://dev.to/matrix2526/how-i-built-a-browser-watermark-library-that-survives-devtools-56ec",
-      "title": "How I built a browser watermark library that survives DevTools",
-      "summary": "Identifying the leaker after a screenshot escapes, when the obvious tricks no longer work.\n\n\n\n  \n  \n  The problem\n\n\nLast year, I watched a customer of ours forward a screenshot of an internal dashboard to a vendor. The screenshot showed financial figures that should have stayed inside the company. N",
+      "id": "015",
+      "url": "https://dev.to/pat9000/the-future-of-ai-and-nextjs-21jd",
+      "title": "The Future of AI and Next.js",
+      "summary": "The Future of AI and Next.js\n\n\nThe landscape of web development is changing. AI code generators are getting better every month, but frameworks like Next.js remain critical for building fast, scalable, and secure applications.\n\nThis isn't a hype post. I use AI agents to build production software ever",
       "date_published": "2026-05-09",
       "tags": [
-        "frontend",
-        "angular",
-        "vue",
-        "react"
+        "ai",
+        "nextjs",
+        "agenticdevelopment",
+        "claude"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/pat9000/n8n-vs-make-vs-custom-scripts-when-to-use-what-for-ai-workflow-automation-3pdc",
+      "title": "n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation",
+      "summary": "n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation\n\n\nI've built automations with all three approaches. Here's when each one wins and when it doesn't.\n\n\n  \n  \n  The Quick Answer\n\n\n\n\nMake (Integromat) — Best for non-technical teams, simple integrations, < 10 steps\n\nn8n — Best f",
+      "date_published": "2026-05-09",
+      "tags": [
+        "n8n",
+        "make",
+        "automation",
+        "aiworkflow"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://dev.to/raflizocky_/run-php-and-mysql-in-docker-5935",
+      "title": "Run PHP and MySQL in Docker",
+      "summary": "It works on my machine.\n\n\n  \n  \n  Steps\n\n\n1. Create a new directory\n\n\n\n.\n├── docker-compose.yml\n├── Dockerfile\n├── .env.example\n├── README.md\n└── src/\n    └── index.php\n\n\n\n\n\n\n2. Create docker-compose.yml\n\n\n\nversion: '3.8'\nservices:\n  app:\n    build: .\n    container_name: php_app\n    ports:\n      - \"",
+      "date_published": "2026-05-09",
+      "tags": [
+        "docker",
+        "php",
+        "mysql",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://dev.to/donnyautomation/crossref-api-comparison-speed-cost-and-data-quality-1c35",
-      "title": "Crossref API Comparison: Speed, Cost, and Data Quality",
-      "summary": "TL;DR\n\n\nIf you're choosing between academic search APIs that wrap Crossref data, three things matter: response latency (does it scale to bulk lookups?), monthly cost (is the free tier real?), and data shape (one call or three?). I ran benchmarks across the available wrappers — here's what the number",
+      "url": "https://dev.to/ht_fe463f3af9bf18f/i-built-a-cross-platform-remote-access-tool-because-i-wanted-unlimited-remote-sessions-461j",
+      "title": "I built a cross-platform remote access tool because I wanted unlimited remote sessions",
+      "summary": "I’m an independent developer building FlashDesk, a cross-platform remote access tool for Windows, macOS, and Linux.\n\nWebsite: https://flashdesk.io/\n\nThe reason I started building it was simple: I wanted a remote access tool that I could use freely across multiple machines, multiple windows, and mult",
       "date_published": "2026-05-09",
       "tags": [
-        "api",
+        "showdev",
         "productivity",
-        "tutorial",
-        "webdev"
+        "remotedesktop",
+        "security"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://dev.to/mradul_mishra_6b44c82a08b/gemma-4-changed-how-i-think-about-local-ai-heres-what-you-need-to-know-dd6",
-      "title": "🧠 Gemma 4 Changed How I Think About Local AI — Here's What You Need to Know",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nFor years, \"running AI locally\" meant either a toy model that couldn't hold a conversation...\n\n[rest of the article continues below...]\n\nI'll be honest — I almost ignored Gemma 4 when it dropped.\n\nI've seen so many \"game changing\" ",
+      "url": "https://dev.to/tiaya_fotseujosu_7a985d/-1blp",
+      "title": "Exploring AI on AWS Made Simpler 🚀",
+      "summary": "How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Tidding Ramsey\n            \n            \n              \n                Tidding Ramsey\n             ",
       "date_published": "2026-05-09",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
+        "ai",
+        "cloudcomputing",
+        "aws"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g",
-      "title": "Postgres Tells You Your Query Was Slow. Not Which Index Was Wasted.",
-      "summary": "TL;DR: Postgres has pg_stat_user_indexes. It tells you how many times each index was scanned. It does not tell you whether the slow query you're chasing actually used the index you added for it, or whether you're maintaining indexes the planner never picks. I built a 3-file analyzer — a query wrappe",
+      "url": "https://dev.to/hamed_pakdaman_c724e294d9/what-183-admin-pages-look-like-building-a-full-laravel-cms-in-2026-1oj3",
+      "title": "What 183 admin pages look like — building a full Laravel CMS in 2026",
+      "summary": "A year ago I started building a CMS because I had three options for client work and none fit:\n\n\n\nWordPress — works, but 250+ plugin CVEs/week (Patchstack 2024). I patch sites every week. Tired of it.\n\nContentful / Sanity — modern, but $300/mo entry pricing for SMB use cases. Vendor lock is real.\n\nSt",
       "date_published": "2026-05-09",
       "tags": [
-        "postgres",
-        "database",
-        "performance",
-        "webdev"
+        "php",
+        "webdev",
+        "cms",
+        "laravel"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "021",
-      "url": "https://dev.to/smkulkarni/i-built-these-tools-because-the-frustration-was-real-gkh",
-      "title": "I Built These Tools Because the Frustration Was Real",
-      "summary": "Most side projects don’t start with inspiration.\n\nThey start with irritation.\n\nA repeated task.\nA broken workflow.\nA problem you keep telling yourself you’ll “fix later.”\n\nThat’s how all of mine started.\n\nNot with a grand plan.\nJust friction I couldn’t ignore anymore.\n\n\n\n\n\n  \n  \n  1. TermiCool — Bec",
+      "url": "https://dev.to/tendong_brain/-17gj",
+      "title": "Learning AI Evaluation on AWS Without the Complexity",
+      "summary": "How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Tidding Ramsey\n            \n            \n              \n                Tidding Ramsey\n             ",
       "date_published": "2026-05-09",
       "tags": [
-        "vscode",
-        "opensource",
         "ai",
-        "webdev"
+        "aws",
+        "machinelearning",
+        "nocode"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://dev.to/berkaysson/building-an-authentication-starter-lessons-from-integrating-nextjs-postgresql-prisma-and-2hfg",
-      "title": "Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth",
-      "summary": "Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth\n\n\nWhen starting a new web project, setting up user authentication can often feel like a significant initial friction. There are many components involved: managing user data, securing routes, handli",
+      "url": "https://dev.to/nirvana_andy/why-ai-claimed-software-developers-first-the-counterintuitive-reality-4ad2",
+      "title": "Why AI Claimed Software Developers First: The Counterintuitive Reality",
+      "summary": "*Reason 1: Programming is the \"Cleanest\" Form of Language *\n\nWhat makes a language \"clean\"? Natural languages (like Chinese or English) are inherently ambiguous: \n\n• \"I almost didn't make it\" — Did I succeed or fail? \n• \"Wear as much as you can\" — Is it freezing winter or a scorching summer? \n\nProgr",
       "date_published": "2026-05-09",
       "tags": [
-        "nextjs",
-        "postgres",
-        "security",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5",
-      "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
-      "summary": "TL;DR\n\n\nA codebase can be read as a field that attracts future changes, and a pull request can be read as a force applied to that field.\nA good field makes good changes easier to make. A bad field repeatedly makes bad shortcuts look natural. In an era where AI can produce PRs quickly, this attractio",
-      "date_published": "2026-05-09",
-      "tags": [
-        "softwareengineering",
-        "architecture",
         "ai",
         "programming"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "024",
-      "url": "https://dev.to/andr_sv_03db554060c8042d4/what-is-ebics-5gd6",
-      "title": "What is EBICS?",
-      "summary": "If you’ve ever wondered how massive companies move millions of dollars across different banks without losing their minds (or their money), the answer is likely EBICS. Short for Electronic Banking Internet Communication Standard, it is essentially a universal, highly secure language that businesses a",
+      "id": "023",
+      "url": "https://dev.to/evyl/how-i-built-a-swedish-crossword-solver-with-astro-and-400000-words-5a0l",
+      "title": "How I Built a Swedish Crossword Solver with Astro and 400,000+ Words",
+      "summary": "How I Built a Swedish Crossword Solver with Astro and 400,000+ Words\n\n\nI recently launched Korsordsakuten — a free Swedish crossword solver — and learned a lot about building SEO-driven content sites with Astro. Here's what I built and what I learned along the way.\n\n\n  \n  \n  What It Does\n\n\nThe site ",
       "date_published": "2026-05-09",
       "tags": [
-        "backend",
-        "cybersecurity",
-        "learning",
-        "networking"
+        "javascript",
+        "showdev",
+        "sideprojects",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
+      "url": "https://dev.to/thenjdevopsguy/multi-model-failover-in-your-ai-gateway-4n8n",
+      "title": "Multi-Model Failover In Your AI Gateway",
+      "summary": "Think about two scenarios that are pretty common. 1) You hit a rate limit or run out of tokens, so you have to \"downgrade\" to a small/less powerful Model. 2) An LLM provider is down or having intermittent issues.\n\nIn these two cases, what do you do if you only have one Model set up for your Gateway ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "kubernetes",
+        "programming",
+        "coding"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le",
-      "title": "Get Real Row Counts in GBase 8s Without UPDATE STATISTICS",
-      "summary": "The nrows column in systables is only updated when you run UPDATE STATISTICS, so it often shows 0 even right after bulk inserts. If you need the real, live row count — especially for fragmented tables — you can query sysmaster:sysptnhdr or use oncheck.\n\n\n  \n  \n  Non‑Fragmented Tables\n\n\nJoin systable",
+      "url": "https://dev.to/sachindra149/aws-well-architected-framework-1k6m",
+      "title": "AWS Well‑Architected Framework",
+      "summary": "The AWS Well‑Architected Framework structures cloud‑native design around six core pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability. Each pillar gives you a lens to evaluate and improve your architecture. Below is a detailed, blog‑r",
       "date_published": "2026-05-09",
       "tags": [
-        "gbase",
-        "database",
-        "数据库"
+        "aws",
+        "architecture",
+        "security"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef",
-      "title": "Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms",
-      "summary": "Executive Summary\n\n\nIn 2026, I privately disclosed multiple high-severity security concerns affecting systems associated with SIPEF Group, a multinational agro-industrial company operating across Southeast Asia, Africa, and Europe.\n\nThe findings included:\n\n\na severe Broken Access Control condition a",
+      "url": "https://dev.to/astaykov/the-overlooked-gem-in-microsoft-entra-that-gives-your-ai-agents-super-powers-3mde",
+      "title": "The Overlooked Gem in Microsoft Entra That Gives Your AI Agents Super-Powers",
+      "summary": "Most enterprise conversations about Microsoft Entra stop at the obvious: single sign-on, multifactor authentication, Conditional Access, a handful of well-policed app registrations. Useful, mature, well understood. And almost entirely beside the point for what is about to happen inside every large o",
       "date_published": "2026-05-09",
       "tags": [
-        "security",
-        "cybersecurity",
-        "devdiscuss",
-        "learning"
+        "ai",
+        "entraagentid",
+        "agents",
+        "cybersecurity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h",
-      "title": "Image to PDF in the Browser - No Libraries, No Backend",
-      "summary": "As Steve Jobs said, \"Design is not just what it looks like and feels like. Design is how it works.\"\n\nConverting an image to PDF should work like this: open tool → upload image → get PDF. That is it. No backend calls, no third-party APIs, no file size limits from a server.\n\nHere is how it actually wo",
-      "date_published": "2026-05-09",
-      "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "containers"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1",
-      "title": "Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly",
-      "summary": "Para o usuário comum, baixar um vídeo parece ser apenas uma questão de encontrar um link .mp4. No entanto, para desenvolvedores que lidam com plataformas gigantes como o Naver (incluindo Naver TV, Sports e arquivos do V LIVE), a realidade é uma infraestrutura fragmentada, protegida e altamente otimi",
-      "date_published": "2026-05-09",
-      "tags": [
-        "webdev",
-        "programming",
-        "naver",
-        "downloader"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
       "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
       "title": "How sunburn inspired a new way to store energy",
       "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
@@ -430,15 +411,49 @@
       "_source": "BBC News"
     },
     {
-      "id": "030",
-      "url": "https://www.mux.com/jobs",
-      "title": "Mux (YC W16) Is Hiring",
-      "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=48068732\nPoints: 0\n# Comments: 0",
+      "id": "028",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
       "date_published": "2026-05-08",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Enterprise",
+        "TC",
+        "Exclusive",
+        "Layoffs",
+        "oracle",
+        "severence"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "029",
+      "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
+      "title": "San Francisco’s housing market has lost its mind",
+      "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Real estate",
+        "TC",
+        "San Francisco"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "030",
+      "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
+      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
+      "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Apps",
+        "Media & Entertainment",
+        "Amazon",
+        "prime video",
+        "Video"
+      ],
+      "_source": "TechCrunch"
     }
   ]
 }
