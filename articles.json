@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 26\n# Comments: 6",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "title": "Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying",
+    "summary": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying\nComments URL: https://news.ycombinator.com/item?id=48072671\nPoints: 13\n# Comments: 0",
+    "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-    "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 51\n# Comments: 28",
-    "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+    "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
+    "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 106\n# Comments: 51",
+    "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "A recent experience with ChatGPT 5.5 Pro",
-    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 101\n# Comments: 10",
-    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 94\n# Comments: 45",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -34,6 +34,28 @@
   },
   {
     "id": "004",
+    "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+    "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 126\n# Comments: 55",
+    "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
+    "date": "2026-05-09",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 209\n# Comments: 94",
+    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "date": "2026-05-09",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
     "title": "Instacart Promo Code: $15 Off | May 2026",
     "summary": "Find the best Instacart promo code for massive savings in May 2026",
     "url": "https://www.wired.com/story/instacart-promo/code/",
@@ -48,7 +70,7 @@
     ]
   },
   {
-    "id": "005",
+    "id": "007",
     "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
     "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
     "url": "https://www.wired.com/story/hellofresh-coupon/",
@@ -63,7 +85,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "008",
     "title": "50% Off Blue Apron Promo Codes | May 2026",
     "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
     "url": "https://www.wired.com/story/blue-apron-coupon/",
@@ -77,7 +99,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "009",
     "title": "T-Mobile Promo Codes: 25% Off | May",
     "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
     "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
@@ -92,7 +114,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "010",
     "title": "Logitech Promo Codes and Deals: Up to $100 Off",
     "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
     "url": "https://www.wired.com/story/logitech-promo-code/",
@@ -106,7 +128,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "011",
     "title": "Western Digital Promo Code: 15% Off",
     "summary": "Get 15% off your first order at Western Digital when you register your email.",
     "url": "https://www.wired.com/story/western-digital-promo-code/",
@@ -120,7 +142,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "012",
     "title": "Exclusive Shed Rain Coupon: 15% Off",
     "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
     "url": "https://www.wired.com/story/shed-rain-coupon/",
@@ -134,186 +156,175 @@
     ]
   },
   {
-    "id": "011",
-    "title": "How a $0.02/Call Model Scored 78.2% on SWE-bench Verified — Beating Every Model on the Leaderboard",
-    "summary": "TL;DR\n\n\nWe added architectural context to AI coding agents via MCP and tested on SWE-bench Verified (500 real bugs). MiniMax M2.5 — a model that costs $0.02 per call — scored 78.2%, surpassing every model on the official mini-SWE-agent leaderboard, including Claude Opus 4.5 (76.8%) which costs 37x m",
-    "url": "https://dev.to/kyoma_1234/how-a-002call-model-scored-782-on-swe-bench-verified-beating-every-model-on-the-leaderboard-4bm3",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "llm",
-      "claude",
-      "minimax"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "I got tired of babysitting my Hermes Agent, so I'm hosting one for you",
-    "summary": "If you've spent any time with Hermes Agent, you already know the feeling. The agent is good. Persistent memory that actually persists. Skills that get sharper the more you use them. Cron jobs that wake up at 6am to do the boring work. Telegram, Slack, the web — wherever you are, it's there.\n\nAnd the",
-    "url": "https://dev.to/sivarampg/i-got-tired-of-babysitting-my-hermes-agent-so-im-hosting-one-for-you-1m0",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "agents",
-      "opensource",
-      "productivity"
-    ]
-  },
-  {
     "id": "013",
-    "title": "I Built an AI That Argues With Itself About Anything",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nAgentMesh is a thinking partner that argues with itself. Ask it any opinionated question and three Gemma 4 agents take different stances on it: a skeptic finds the strongest counter-arguments, an advocate mak",
-    "url": "https://dev.to/shirisha_uppoju_b20d30705/i-built-an-ai-that-argues-with-itself-about-anything-5aa5",
+    "title": "shk: A Local-First Security Guardrail CLI for AI Coding Agents",
+    "summary": "Secret scanning often starts at Git. AI coding agents can make that too late.\n\nThey can read local files, summarize logs, run commands, and transform sensitive context before anything is committed. shk is a local-first CLI for that messy pre-commit space: scan secrets and PII, mask prompts, and inst",
+    "url": "https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "gemmachallenge",
-      "devchallenge",
-      "gemma",
-      "webgpu"
+      "ai",
+      "programming",
+      "productivity",
+      "opensource"
     ]
   },
   {
     "id": "014",
-    "title": "App Store Rejected? 4 Compliance Mistakes Social App Developers Keep Making",
-    "summary": "TL;DR\n\n\nAfter 7 years building social apps for global markets, here are 4 compliance and localization traps I see developers fall into repeatedly:\n\n\nVocabulary in store metadata that platforms read as dating-suggestive\nReviewer notes that surface the riskiest version of your app first\nThe in vs id v",
-    "url": "https://dev.to/luna_ll/app-store-rejected-4-compliance-mistakes-social-app-developers-keep-making-51m2",
+    "title": "The Vault That Stays Open: Microsoft Edge",
+    "summary": "Not in the Brief, Episode 02\n\nOpen Microsoft Edge. The browser silently decrypts every password it has ever saved for you, and keeps the entire collection in process memory, in cleartext, for as long as the browser is running. The credentials for the site you visit today are decrypted; so are the cr",
+    "url": "https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "mobile",
-      "startup",
-      "beginners",
-      "tutorial"
+      "edge",
+      "security",
+      "microsoft",
+      "awareness"
     ]
   },
   {
     "id": "015",
-    "title": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.",
-    "summary": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.\n\n\nLet's get the uncomfortable part out of the way first: I'm a developer.\nI'm homeless. I have zero money. That part isn't interesting. What\nhappens next is.\n\nTwelve hours ago I had a single-agent bot called ZeroClaw posting\nocca",
-    "url": "https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-5ho2",
+    "title": "Tips to use AI more effectively",
+    "summary": "If you’re a developer trying to use AI more effectively, here are 3 things that actually helped me:\n\n\nTreat AI like a junior teammate\n  Give context, constraints, and expected output — not just one-line prompts.\nIterate, don’t expect perfection\n  The first response is rarely the best. Refinement is ",
+    "url": "https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "buildinpublic",
-      "aiagents",
-      "crewai",
-      "homelessness"
+      "ai",
+      "career",
+      "productivity",
+      "programming"
     ]
   },
   {
     "id": "016",
-    "title": "AI Avatar Chrome Extension v7 got released! 🎉 \nPlease enjoy both the VS Code extension and Chrome extension!",
-    "summary": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))\n\n\n  \n      MediaPipe-powered webcam motion capture\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Web Developer Hyper\n       ",
-    "url": "https://dev.to/webdeveloperhyper/ai-avatar-chrome-extension-v7-got-released-please-enjoy-both-the-vs-code-extension-and-chrome-47k5",
+    "title": "💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖",
+    "summary": "A comprehensive, opinionated guide for engineers entering the new era of tech interviews — where AI tools are permitted (or expected), and interviewers evaluate not just what you build, but how you think, prompt, verify, and ship with AI as a co-pilot. Covers mindset, formats, preparation strategies",
+    "url": "https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "news",
-      "showdev",
-      "vscode"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "SEO Checklist for JavaScript Apps: Fix Your Rankings Before Your Next Deploy",
-    "summary": "I spent four months building a React app. Polished UI, fast load times, clean code. Then I checked Google Search Console and nearly threw my laptop out the window. Zero indexed pages. Zero. Turns out I had been shipping a beautifully crafted ghost town, and every JavaScript developer I've talked to ",
-    "url": "https://dev.to/mitudas/seo-checklist-for-javascript-apps-fix-your-rankings-before-your-next-deploy-53kp",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "react",
-      "tutorial",
-      "webdev"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "REST API Design Made Simple with Express.js: A Beginner-Friendly Guide",
-    "summary": "Master REST API design with Express.js. Learn HTTP methods, clean routing, status codes, and real-world best practices through practical examples. Perfect for Node.js beginners and frontend developers moving to backend.\n\n. Hero Section Intro\n\nImagine walking into your favorite restaurant. You don’t ",
-    "url": "https://dev.to/bhupeshchandrajoshi/rest-api-design-made-simple-with-expressjs-a-beginner-friendly-guide-2202",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
       "webdev",
-      "programming",
-      "javascript",
+      "productivity",
       "tutorial"
     ]
   },
   {
-    "id": "019",
-    "title": "ESP32-S3 กับ TinyML: สร้างระบบรักษาความปลอดภัยบ้านอัจฉริยะด้วย Edge AI ตรวจจับความผิดปกติแบบ Real-time",
-    "summary": "🔐 ทำไมต้อง Edge AI สำหรับบ้าน?\n\n\nปี 2026 นี่เราต้องการระบบ security ที่ไม่ต้องพึ่ง cloud ตลอดเวลา ถ้าอินเทอร์เน็ตล่มแล้วระบบตั้งรับไม่ได้ ก็จบ ยิ่งตอนนี้ข้อมูลส่วนตัวรั่วไหลได้ง่าย ถ้าภาพกล้องวงจรปิดต้องส่งไป process ที่ cloud แล้วเก็บ data ไว้ที่เซิร์ฟเวอร์คนอื่น น่ากลัวใช่ย่อย\n\nESP32-S3 มาพร้อม Ve",
-    "url": "https://dev.to/bittobuild/esp32-s3-kab-tinyml-sraangrabbraksaakhwaampldphaybaanacchchriyadwy-edge-ai-trwcchcchabkhwaamphidpktiaebb-4jn",
+    "id": "017",
+    "title": "Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys",
+    "summary": "Originally published at hafiz.dev\n\n\n\n\n\nFor a long time, adding passkeys to a Laravel app meant reaching for a third-party package, assembling WebAuthn ceremonies by hand, or piecing together a tutorial that assumes you already know what a \"relying party ID\" is. That's done.\n\nIn late April 2026, Lara",
+    "url": "https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "esp32",
-      "tinyml",
-      "edgeai",
-      "smarthome"
+      "laravel",
+      "authentication",
+      "security",
+      "passkeys"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "\"My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.\"",
+    "summary": "I already had Google Cloud billing.\n\nI did not want another API key, another quota surface, and another place to explain to my team why the coding tool bill was showing up somewhere else.\n\nThe annoying part was that Claude Code speaks Anthropic's Messages API, while the budget I wanted to use was si",
+    "url": "https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "tutorial",
+      "webdev",
+      "ai",
+      "javascript"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "I Found LeetCode for Software Design, and It’s Awesome",
+    "summary": "Disclosure: This post includes affiliate links; I may receive compensation if you purchase products or services from the different links provided in this article.\n\n\n\nIf you're preparing for FAANG interviews, you already know that Data Structures & Algorithms (DSA) and System Design are the two criti",
+    "url": "https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "softwaredevelopment",
+      "systemdesign",
+      "leetcode",
+      "programming"
     ]
   },
   {
     "id": "020",
-    "title": "ESP32-S3 + TinyML: Build a Real-Time Edge AI Home Security System That Runs Without the Cloud",
-    "summary": "🔐 Why Edge AI for Home Security?\n\n\nIn 2026, we need security systems that don't rely on cloud 24/7. If your internet goes down, your cloud-based camera is useless. Plus, sensitive data like home video feeds sitting on someone else's server? That's a privacy nightmare waiting to happen.\n\nESP32-S3 com",
-    "url": "https://dev.to/bittobuild/esp32-s3-tinyml-build-a-real-time-edge-ai-home-security-system-that-runs-without-the-cloud-3c22",
+    "title": "Perplexity Computer: An Honest Look at the Hype",
+    "summary": "What We Set Out to Build\n\n\nThe pitch for Perplexity Computer is genuinely interesting: multi-agent workflow creation inside the same app you already use for search, no external tooling required. When I first saw it surface in early 2025, my immediate question wasn't \"is this cool?\" It was \"does it a",
+    "url": "https://dev.to/forgeflows/perplexity-computer-an-honest-look-at-the-hype-4339",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "esp32",
-      "tinyml",
-      "edgeai",
-      "smarthome"
+      "perplexitycomputer",
+      "nocodeai",
+      "multiagentworkflows",
+      "automationtools"
     ]
   },
   {
     "id": "021",
-    "title": "GPU-as-a-Service (GaaS), Model-as-a-Service (MaaS), Token-as-a-Service (TaaS)",
-    "summary": "AI infrastructure is evolving fast.\n\nA few years ago, companies were only talking about “cloud computing.”\nNow the conversation has shifted to:\n\n\n\nGPU-as-a-Service (GaaS) → Rent powerful GPUs on demand for AI training and inference.\n\nModel-as-a-Service (MaaS) → Access pre-trained AI models through A",
-    "url": "https://dev.to/devang_prajapati/gpu-as-a-service-gaas-model-as-a-service-maas-token-as-a-service-taas-9nc",
+    "title": "Building a Reusable VPC, Subnets, and Firewall Rules Module",
+    "summary": "In the previous Terraform labs, I created Google Cloud resources directly from the root configuration.\n\nThat worked, but the structure was still quite simple.\n\nEvery resource was defined directly inside the main Terraform configuration. For a small lab, that is fine. But as the infrastructure grows,",
+    "url": "https://dev.to/abrahamparn/building-a-reusable-vpc-subnets-and-firewall-rules-module-10p8",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "cloudcomputing",
-      "architecture",
-      "machinelearning"
+      "terraform",
+      "googlecloud",
+      "devops",
+      "infrastructure"
     ]
   },
   {
     "id": "022",
-    "title": "Weekly Dev Log 2026-W04",
-    "summary": "🗓️ This Week\n\n\n\nI had a long holiday during Golden Week in Japan and really enjoyed the break!\nBecause of that, I didn't have as much learning time compared to last week 😂\nI made a little more progress in the SwiftUI tutorial\nIt was my first time using GitHub Copilot in Xcode, and I tried using the ",
-    "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w04-26k1",
+    "title": "Lab 12 - Telnet and SSH ( I Captured My Own Password in Wireshark — Here's What Telnet Taught Me About Network Security )",
+    "summary": "There's a moment in networking that changes how you think about protocols forever.\n\nYou type a password into a terminal. Then you open Wireshark, follow a TCP stream, and there it is — your password, sitting in plain text, completely readable by anyone on the network.\n\nThat's Telnet. And that's exac",
+    "url": "https://dev.to/almahmudkhalif/lab-12-telnet-and-ssh-i-captured-my-own-password-in-wireshark-heres-what-telnet-taught-me-3dn3",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "beginners",
-      "devjournal",
-      "security",
-      "swift"
+      "networking",
+      "cybersecurity",
+      "ssh",
+      "telnet"
     ]
   },
   {
     "id": "023",
-    "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 224\n# Comments: 134",
-    "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-    "date": "2026-05-08",
-    "source": "Hacker News",
+    "title": "How to Use HeyHTML Editor: A Complete Guide to the Visual HTML Editor (Drag & Drop)",
+    "summary": "Welcome to HeyHTML — a WYSIWYG HTML editor that runs right in your browser. Build web pages by dragging, dropping, and clicking, just like making a slide deck — no coding required.\n\nHeyHTML packs a lot of features and keyboard shortcuts into a compact interface. If you're using it for the first time",
+    "url": "https://dev.to/xxchen/how-to-use-heyhtml-editor-a-complete-guide-to-the-visual-html-editor-drag-drop-1g8a",
+    "date": "2026-05-09",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "html",
+      "nocode",
+      "tooling",
+      "tutorial"
     ]
   },
   {
     "id": "024",
+    "title": "Analyzing Steam Games 2025: Genres, Players and User Ratings",
+    "summary": "As part of my Master in Data Science & AI at Evolve, I worked on a data analysis project using a real Steam games dataset from 2025.\n\nThe goal of the project was to practice the full workflow of a data analysis project: understanding the dataset, cleaning it, transforming variables, creating visuali",
+    "url": "https://dev.to/evolve-space/analyzing-steam-games-2025-genres-players-and-user-ratings-556d",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "python",
+      "datascience",
+      "pandas",
+      "jupyter"
+    ]
+  },
+  {
+    "id": "025",
     "title": "Mux (YC W16) Is Hiring",
     "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=48068732\nPoints: 0\n# Comments: 0",
     "url": "https://www.mux.com/jobs",
@@ -324,9 +335,9 @@
     ]
   },
   {
-    "id": "025",
+    "id": "026",
     "title": "When is your birthday? The math behind hash collisions",
-    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 35\n# Comments: 4",
+    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 41\n# Comments: 8",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -335,9 +346,9 @@
     ]
   },
   {
-    "id": "026",
+    "id": "027",
     "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 166\n# Comments: 94",
+    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 176\n# Comments: 103",
     "url": "https://ze3tar.github.io/post-zcrx.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -346,9 +357,9 @@
     ]
   },
   {
-    "id": "027",
+    "id": "028",
     "title": "Google broke reCAPTCHA for de-googled Android users",
-    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 849\n# Comme",
+    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 925\n# Comme",
     "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -357,21 +368,10 @@
     ]
   },
   {
-    "id": "028",
-    "title": "Teaching Claude Why",
-    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 124\n# Comments: 60",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "029",
-    "title": "AI is breaking two vulnerability cultures",
-    "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures\nComments URL: https://news.ycombinator.com/item?id=48066524\nPoints: 301\n# Comments: 126",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "title": "Teaching Claude Why",
+    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 151\n# Comments: 76",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
