@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "All my clients wanted a carousel, now it's an AI chatbot",
-    "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md\nComments URL: https://news.ycombinator.com/item?id=48072720\nPoints: 86\n# Comments: 34",
-    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+    "title": "Killswitch: Per-function short-circuit mitigation primitive",
+    "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 6\n# Comments: 0",
+    "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -13,7 +13,7 @@
   {
     "id": "002",
     "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-    "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 202\n# Comments: 145",
+    "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 264\n# Comments: 196",
     "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 134\n# Comments: 78",
+    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 188\n# Comments: 100",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "A recent experience with ChatGPT 5.5 Pro",
-    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 297\n# Comments: 153",
+    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 368\n# Comments: 207",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -45,6 +45,107 @@
   },
   {
     "id": "005",
+    "title": "The game that makes me actually want to exercise",
+    "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
+    "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Apps",
+      "Gadgets",
+      "Installer",
+      "Tech"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+    "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
+    "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Tech",
+      "TVs"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
+    "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
+    "url": "https://www.wired.com/gallery/best-captioning-glasses/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Augmented and Virtual Reality",
+      "Gear / Products / Lifestyle",
+      "Gear / Products / Health and Fitness",
+      "buying guides",
+      "Shopping",
+      "smart glasses",
+      "eyewear",
+      "health",
+      "augmented reality",
+      "accessibility",
+      "Caption This"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "security roundup",
+      "cybersecurity",
+      "hacking",
+      "security",
+      "Russia",
+      "artificial intelligence",
+      "privacy",
+      "vulnerabilities",
+      "Google",
+      "Meta",
+      "Security Roundup"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
+    "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
+    "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Electric Vehicles",
+      "cars",
+      "automobiles",
+      "EVs and Hybrids",
+      "Concept Cars",
+      "China",
+      "BYD",
+      "Volkswagen",
+      "Volvo",
+      "General Motors",
+      "Toyota",
+      "nissan",
+      "Full Auto"
+    ]
+  },
+  {
+    "id": "010",
     "title": "Instacart Promo Code: $15 Off | May 2026",
     "summary": "Find the best Instacart promo code for massive savings in May 2026",
     "url": "https://www.wired.com/story/instacart-promo/code/",
@@ -59,7 +160,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "011",
     "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
     "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
     "url": "https://www.wired.com/story/hellofresh-coupon/",
@@ -74,7 +175,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "012",
     "title": "50% Off Blue Apron Promo Codes | May 2026",
     "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
     "url": "https://www.wired.com/story/blue-apron-coupon/",
@@ -88,7 +189,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "013",
     "title": "T-Mobile Promo Codes: 25% Off | May",
     "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
     "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
@@ -103,7 +204,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "014",
     "title": "Logitech Promo Codes and Deals: Up to $100 Off",
     "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
     "url": "https://www.wired.com/story/logitech-promo-code/",
@@ -117,7 +218,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "015",
     "title": "Western Digital Promo Code: 15% Off",
     "summary": "Get 15% off your first order at Western Digital when you register your email.",
     "url": "https://www.wired.com/story/western-digital-promo-code/",
@@ -131,7 +232,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "016",
     "title": "Exclusive Shed Rain Coupon: 15% Off",
     "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
     "url": "https://www.wired.com/story/shed-rain-coupon/",
@@ -145,170 +246,174 @@
     ]
   },
   {
-    "id": "012",
-    "title": "🚀 Por fin he creado mi web personal",
-    "summary": "Durante muchos años fui bastante reacio a crear una web personal o un portfolio.\n\nNo porque no me gustase desarrollar cosas — de hecho, llevo años creando aplicaciones, experimentando con tecnologías frontend y backend, diseñando interfaces y aprendiendo constantemente — sino porque siempre tenía la",
-    "url": "https://dev.to/sergiosuarezgil/por-fin-he-creado-mi-web-personal-2iin",
+    "id": "017",
+    "title": "How I built a browser watermark library that survives DevTools",
+    "summary": "Identifying the leaker after a screenshot escapes, when the obvious tricks no longer work.\n\n\n\n  \n  \n  The problem\n\n\nLast year, I watched a customer of ours forward a screenshot of an internal dashboard to a vendor. The screenshot showed financial figures that should have stayed inside the company. N",
+    "url": "https://dev.to/matrix2526/how-i-built-a-browser-watermark-library-that-survives-devtools-56ec",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "portfolio",
-      "html",
+      "frontend",
+      "angular",
+      "vue",
+      "react"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Crossref API Comparison: Speed, Cost, and Data Quality",
+    "summary": "TL;DR\n\n\nIf you're choosing between academic search APIs that wrap Crossref data, three things matter: response latency (does it scale to bulk lookups?), monthly cost (is the free tier real?), and data shape (one call or three?). I ran benchmarks across the available wrappers — here's what the number",
+    "url": "https://dev.to/donnyautomation/crossref-api-comparison-speed-cost-and-data-quality-1c35",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "api",
+      "productivity",
+      "tutorial",
+      "webdev"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "🧠 Gemma 4 Changed How I Think About Local AI — Here's What You Need to Know",
+    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nFor years, \"running AI locally\" meant either a toy model that couldn't hold a conversation...\n\n[rest of the article continues below...]\n\nI'll be honest — I almost ignored Gemma 4 when it dropped.\n\nI've seen so many \"game changing\" ",
+    "url": "https://dev.to/mradul_mishra_6b44c82a08b/gemma-4-changed-how-i-think-about-local-ai-heres-what-you-need-to-know-dd6",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma",
+      "ai"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Postgres Tells You Your Query Was Slow. Not Which Index Was Wasted.",
+    "summary": "TL;DR: Postgres has pg_stat_user_indexes. It tells you how many times each index was scanned. It does not tell you whether the slow query you're chasing actually used the index you added for it, or whether you're maintaining indexes the planner never picks. I built a 3-file analyzer — a query wrappe",
+    "url": "https://dev.to/alimafana/postgres-tells-you-your-query-was-slow-not-which-index-was-wasted-171g",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "postgres",
+      "database",
+      "performance",
+      "webdev"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "I Built These Tools Because the Frustration Was Real",
+    "summary": "Most side projects don’t start with inspiration.\n\nThey start with irritation.\n\nA repeated task.\nA broken workflow.\nA problem you keep telling yourself you’ll “fix later.”\n\nThat’s how all of mine started.\n\nNot with a grand plan.\nJust friction I couldn’t ignore anymore.\n\n\n\n\n\n  \n  \n  1. TermiCool — Bec",
+    "url": "https://dev.to/smkulkarni/i-built-these-tools-because-the-frustration-was-real-gkh",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "vscode",
+      "opensource",
+      "ai",
+      "webdev"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth",
+    "summary": "Building an Authentication Starter: Lessons from Integrating Next.js, PostgreSQL, Prisma, and NextAuth\n\n\nWhen starting a new web project, setting up user authentication can often feel like a significant initial friction. There are many components involved: managing user data, securing routes, handli",
+    "url": "https://dev.to/berkaysson/building-an-authentication-starter-lessons-from-integrating-nextjs-postgresql-prisma-and-2hfg",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "nextjs",
+      "postgres",
+      "security",
+      "webdev"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Attractor Engineering: Seeing Software Development as Field Dynamics",
+    "summary": "TL;DR\n\n\nA codebase can be read as a field that attracts future changes, and a pull request can be read as a force applied to that field.\nA good field makes good changes easier to make. A bad field repeatedly makes bad shortcuts look natural. In an era where AI can produce PRs quickly, this attractio",
+    "url": "https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "softwareengineering",
+      "architecture",
+      "ai",
       "programming"
     ]
   },
   {
-    "id": "013",
-    "title": "How I Built a Chrome Extension That Brings AI to Every Text Field",
-    "summary": "The Problem: Context Switching Kills Productivity\n\n\nAs a developer, I found myself constantly switching between my browser tabs — writing code in GitHub, drafting emails in Gmail, editing documents in Notion — and copy-pasting every snippet into ChatGPT for help. This context switching wasn't just a",
-    "url": "https://dev.to/_b2ca115ab3df28000479f/how-i-built-a-chrome-extension-that-brings-ai-to-every-text-field-j09",
+    "id": "024",
+    "title": "What is EBICS?",
+    "summary": "If you’ve ever wondered how massive companies move millions of dollars across different banks without losing their minds (or their money), the answer is likely EBICS. Short for Electronic Banking Internet Communication Standard, it is essentially a universal, highly secure language that businesses a",
+    "url": "https://dev.to/andr_sv_03db554060c8042d4/what-is-ebics-5gd6",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "typescript",
-      "webdev",
-      "javascript",
-      "chrome"
+      "backend",
+      "cybersecurity",
+      "learning",
+      "networking"
     ]
   },
   {
-    "id": "014",
-    "title": "SGCC, ANSI Z97.1, and EnduroShield: How Unikoo Glass Is Certified Safe for Every Bathroom",
-    "summary": "\"Tempered glass\" appears on almost every shower door listing. The label alone tells you very little. What matters is whether the tempering process was independently verified — and what happens to the glass if it ever breaks.\n\n\n\nHow Tempered Glass Actually Works\nStandard glass breaks into long, jagge",
-    "url": "https://dev.to/unikoo/sgcc-ansi-z971-and-enduroshield-how-unikoo-glass-is-certified-safe-for-every-bathroom-2e6k",
+    "id": "025",
+    "title": "Get Real Row Counts in GBase 8s Without UPDATE STATISTICS",
+    "summary": "The nrows column in systables is only updated when you run UPDATE STATISTICS, so it often shows 0 even right after bulk inserts. If you need the real, live row count — especially for fragmented tables — you can query sysmaster:sysptnhdr or use oncheck.\n\n\n  \n  \n  Non‑Fragmented Tables\n\n\nJoin systable",
+    "url": "https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "buildinpublic",
-      "webdev",
-      "database"
+      "gbase",
+      "database",
+      "数据库"
     ]
   },
   {
-    "id": "015",
-    "title": "Stop Writing Clean Code. Write Honest Code Instead.",
-    "summary": "There is a codebase out there with a simple \"send an email\" operation that goes through seven layers of abstraction.\n\nAn EmailService that uses an EmailProvider that wraps an EmailClient that calls an EmailAdapter that uses a MessageSender that invokes a TransportLayer that finally, after all of tha",
-    "url": "https://dev.to/web_dev-usman/stop-writing-clean-code-write-honest-code-instead-18ek",
+    "id": "026",
+    "title": "Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms",
+    "summary": "Executive Summary\n\n\nIn 2026, I privately disclosed multiple high-severity security concerns affecting systems associated with SIPEF Group, a multinational agro-industrial company operating across Southeast Asia, Africa, and Europe.\n\nThe findings included:\n\n\na severe Broken Access Control condition a",
+    "url": "https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "security",
+      "cybersecurity",
+      "devdiscuss",
+      "learning"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Image to PDF in the Browser - No Libraries, No Backend",
+    "summary": "As Steve Jobs said, \"Design is not just what it looks like and feels like. Design is how it works.\"\n\nConverting an image to PDF should work like this: open tool → upload image → get PDF. That is it. No backend calls, no third-party APIs, no file size limits from a server.\n\nHere is how it actually wo",
+    "url": "https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
       "webdev",
       "programming",
       "productivity",
-      "coding"
+      "containers"
     ]
   },
   {
-    "id": "016",
-    "title": "One API Call to Audit Any Domain's Email Security",
-    "summary": "You know the drill. A customer complains their transactional emails land in spam. Or a B2B trial signup uses a throwaway address. Or someone asks \"do we have DMARC set up correctly?\" and you open ten browser tabs to find out.\n\nI built MailSec to replace that entire workflow with one API call.\n\n\n  \n ",
-    "url": "https://dev.to/lgogolin/one-api-call-to-audit-any-domains-email-security-2b6k",
+    "id": "028",
+    "title": "Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly",
+    "summary": "Para o usuário comum, baixar um vídeo parece ser apenas uma questão de encontrar um link .mp4. No entanto, para desenvolvedores que lidam com plataformas gigantes como o Naver (incluindo Naver TV, Sports e arquivos do V LIVE), a realidade é uma infraestrutura fragmentada, protegida e altamente otimi",
+    "url": "https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
       "webdev",
-      "security",
-      "api",
-      "devops"
+      "programming",
+      "naver",
+      "downloader"
     ]
   },
   {
-    "id": "017",
-    "title": "Add a 3-Sat Pay-to-Skip Tier to Your Self-Hosted CAPTCHA",
-    "summary": "Your CAPTCHA is good at stopping bots. But it stops real users too. The ones who are in a hurry, on mobile, or just sick of clicking traffic lights. Here is a way to let the real ones skip it for 3 sats.\n\nThree sats. About a third of a cent. Enough to filter automation running at scale. Cheap enough",
-    "url": "https://dev.to/zekebuilds/add-a-3-sat-pay-to-skip-tier-to-your-self-hosted-captcha-53bp",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "captcha",
-      "lightning",
-      "l402"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]",
-    "summary": "What is the most significant trade-off in selecting a pathfinding algorithm for an automated navigation system?\n\nThe Three Algorithms I Tested\n\nI implemented three classic algorithms in Python using Pygame:\n\n1. Dijkstra's Algorithm\n\n\nExplores uniformly in all directions\nGuarantees the absolute short",
-    "url": "https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "pathfinding",
-      "python",
-      "algorithms"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "The Rise of the Swarm: Mastering AI Agent Architectures 🐝",
-    "summary": "In 2026, we’ve moved past the \"single chatbot\" era. The most powerful AI systems today don't just talk; they coordinate. Whether you’re a beginner looking to understand the \"magic\" or an expert architecting the next enterprise-scale system, understanding Swarm Intelligence is your next level-up.\n\n\n ",
-    "url": "https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "agents",
-      "ai",
-      "architecture",
-      "llm"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "I Built 10 AI Applications in 5 Days as a Beginner — Here's What Actually Happened",
-    "summary": "Four days ago I was reading about what an API is.\n\nBy day four I had a working RAG application running locally on my machine — one that could answer questions using documents I fed it, without sending anything to an external server.\n\nI'm still not sure how that happened. But I want to write it down ",
-    "url": "https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "webdev",
-      "python",
-      "beginners"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "How I Deployed FastAPI to EC2 with HTTPS Using API Gateway",
-    "summary": "Intro\n\n\nI wanted to deploy my FastAPI backend on AWS EC2 and get a proper HTTPS URL without dealing with SSL certificates manually. Turns out API Gateway handles all of that for you — but getting there wasn't as smooth as I expected. Here's everything I went through, including the parts where I got ",
-    "url": "https://dev.to/blumenbluu/how-i-deployed-fastapi-to-ec2-with-https-using-api-gateway-2gb5",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "api",
-      "aws",
-      "python",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "How DNS Resolution Works: From `dig . NS` to Your Browser Loading Google",
-    "summary": "Every time you type google.com into a browser, something remarkable happens in milliseconds — a global, distributed lookup system translates that human-readable name into a machine-readable IP address. No single server handles this. No central database stores it all.\n\nThis is DNS, and understanding ",
-    "url": "https://dev.to/janmejaisingh/how-dns-resolution-works-from-dig-ns-to-your-browser-loading-google-3a6j",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "dns",
-      "networking",
-      "webdev",
-      "linux"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "AI Text Detector – CPU-first approach to AI-generated text detection",
-    "summary": "I built an open-source AI text detector that ranks #14 on the RAID benchmark and #1 among CPU-only solutions. No GPU required.\n\nhttps://github.com/xuzhenpeng263/ai-text-detector\n\n\n  \n  \n  Why this matters\n\n\nBig Tech is approaching AI detection all wrong. They're throwing massive compute at the probl",
-    "url": "https://dev.to/_37e77171e5c2e50210f28/ai-text-detector-cpu-first-approach-to-ai-generated-text-detection-142n",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai"
-    ]
-  },
-  {
-    "id": "024",
+    "id": "029",
     "title": "How sunburn inspired a new way to store energy",
     "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
     "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
@@ -319,65 +424,10 @@
     ]
   },
   {
-    "id": "025",
+    "id": "030",
     "title": "Mux (YC W16) Is Hiring",
     "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=48068732\nPoints: 0\n# Comments: 0",
     "url": "https://www.mux.com/jobs",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "When is your birthday? The math behind hash collisions",
-    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 46\n# Comments: 8",
-    "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Roadside Attraction",
-    "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/\nComments URL: https://news.ycombinator.com/item?id=48067764\nPoints: 21\n# Comments: 3",
-    "url": "https://theoffingmag.com/essay/roadside-attraction/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 184\n# Comments: 109",
-    "url": "https://ze3tar.github.io/post-zcrx.html",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 1022\n# Comm",
-    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Teaching Claude Why",
-    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 164\n# Comments: 78",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
