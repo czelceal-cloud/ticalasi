@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "The context window has been shattered: Subquadratic debuts a 12M token window",
-    "summary": "Article URL: https://thenewstack.io/subquadratic-12-million-context-window/\nComments URL: https://news.ycombinator.com/item?id=48075645\nPoints: 7\n# Comments: 0",
-    "url": "https://thenewstack.io/subquadratic-12-million-context-window/",
+    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+    "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 17\n# Comments: 6",
+    "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "PipeDream on the Acorn Archimedes",
-    "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 14\n# Comments: 3",
-    "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+    "title": "Introduction to Beaver Triples",
+    "summary": "Article URL: https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples\nComments URL: https://news.ycombinator.com/item?id=48076009\nPoints: 6\n# Comments: 2",
+    "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "First, the FBI Searched Her Home. Then, She Won a Pulitzer.",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html\nComments URL: https://news.ycombinator.com/item?id=48075520\nPoints: 11\n# Comments: 2",
-    "url": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
+    "title": "PipeDream on the Acorn Archimedes",
+    "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 49\n# Comments: 14",
+    "url": "https://stonetools.ghost.io/pipedream-archimedes/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-    "summary": "Article URL: https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/\nComments URL: https://news.ycombinator.com/item?id=48075144\nPoints: 29\n# Comments: 3",
+    "summary": "Article URL: https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/\nComments URL: https://news.ycombinator.com/item?id=48075144\nPoints: 118\n# Comments: 33",
     "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-    "summary": "Article URL: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\nComments URL: https://news.ycombinator.com/item?id=48074952\nPoints: 10\n# Comments: 1",
-    "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+    "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
+    "summary": "Hi HN,I’m sharing mochi.js (https://github.com/0xchasercat/mochi), a Bun-native, raw-CDP browser automation framework. It's designed to make programmatic browser use more effective by focusing on consistency and measured parity with regular traffic, purely from the JS layer, against stock Chromium.T",
+    "url": "https://mochijs.com/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Read Programming as Theory Building",
-    "summary": "Article URL: https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/\nComments URL: https://news.ycombinator.com/item?id=48074829\nPoints: 45\n# Comments: 8",
-    "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
+    "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+    "summary": "Article URL: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\nComments URL: https://news.ycombinator.com/item?id=48074952\nPoints: 115\n# Comments: 64",
+    "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Internet Archive Switzerland",
-    "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 229\n# Comments: 27",
-    "url": "https://internetarchive.ch/",
+    "title": "Read Programming as Theory Building",
+    "summary": "Article URL: https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/\nComments URL: https://news.ycombinator.com/item?id=48074829\nPoints: 67\n# Comments: 11",
+    "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Forking the Web",
-    "summary": "Article URL: https://dillo-browser.org/lab/web-fork/\nComments URL: https://news.ycombinator.com/item?id=48074087\nPoints: 70\n# Comments: 61",
-    "url": "https://dillo-browser.org/lab/web-fork/",
+    "title": "Internet Archive Switzerland",
+    "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 327\n# Comments: 48",
+    "url": "https://internetarchive.ch/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -90,7 +90,7 @@
   {
     "id": "009",
     "title": "Killswitch: Per-function short-circuit mitigation primitive",
-    "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 52\n# Comments: 10",
+    "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 62\n# Comments: 13",
     "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -101,7 +101,7 @@
   {
     "id": "010",
     "title": "LLMs Corrupt Your Documents When You Delegate",
-    "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 127\n# Comments: 43",
+    "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 209\n# Comments: 73",
     "url": "https://arxiv.org/abs/2604.15597",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -398,30 +398,28 @@
   },
   {
     "id": "029",
-    "title": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.",
-    "summary": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.\n\n\nLet's get the uncomfortable part out of the way first: I'm a developer.\nI'm homeless. I have zero money. That part isn't interesting. What\nhappens next is.\n\nTwelve hours ago I had a single-agent bot called ZeroClaw posting\nocca",
-    "url": "https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-28i3",
+    "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
+    "summary": "Here is a scenario that should concern every enterprise architect shipping autonomous AI systems right now: An observability agent is running in production. Its job is to detect infrastructure anomalies and trigger the appropriate response. Late one night, it flags an elevated anomaly score across a",
+    "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "VentureBeat",
     "tags": [
-      "buildinpublic",
-      "aiagents",
-      "crewai",
-      "homelessness"
+      "Infrastructure",
+      "DataDecisionMakers"
     ]
   },
   {
     "id": "030",
-    "title": "Free Google Places API Alternative: 37 Business Categories, No API Key",
-    "summary": "Google Places API removed its free tier in February 2025. The new pricing starts at ~$275/month for 100K calls.\n\nIf you need basic business/POI data and don't need Google's reviews or photos, here's a free alternative.\n\n\n  \n  \n  BizData API\n\n\nA REST API wrapping OpenStreetMap's Overpass API. Free, n",
-    "url": "https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e",
+    "title": "I built a tool to generate academic PDFs from Markdown without installing LaTeX",
+    "summary": "I built a tool to generate academic PDFs from Markdown without \ninstalling LaTeX on your system. LaTeX, Pandoc, and all dependencies \nrun isolated inside a Docker container.\n\nThe tool works via command line, but you don't need to memorize any \ncommands. It's similar to using btop or htop in the term",
+    "url": "https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "googlecloud",
-      "webdev",
-      "opensource"
+      "python",
+      "opensource",
+      "docker",
+      "showdev"
     ]
   }
 ]
