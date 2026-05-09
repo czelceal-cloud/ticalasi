@@ -1,192 +1,310 @@
 [
   {
     "id": "001",
-    "title": "Desglosando el Streaming de Naver: Cómo construimos un descargador de alto rendimiento con HLS y WebAssembly",
-    "summary": "En el ecosistema del desarrollo web moderno, descargar un vídeo ya no es tan simple como realizar una petición GET a un archivo .mp4. Plataformas gigantes como Naver (incluyendo Naver TV y archivos de V LIVE) utilizan una infraestructura de Streaming Adaptativo (ABS) sofisticada que actúa como una \"",
-    "url": "https://dev.to/yqqwe/desglosando-el-streaming-de-naver-como-construimos-un-descargador-de-alto-rendimiento-con-hls-y-4npd",
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 26\n# Comments: 6",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "webdev",
-      "programming",
-      "naver"
+      "Hacker News"
     ]
   },
   {
     "id": "002",
-    "title": "Reverse Engineering Naver Video: Building a High-Performance Downloader with HLS & WebAssembly",
-    "summary": "For the average user, \"downloading a video\" seems like a simple matter of finding an .mp4 link. However, for developers working with modern content platforms like Naver (Naver TV, Sports, and V LIVE archives), the reality is a fragmented, encrypted, and highly protected infrastructure.\nWhen building",
-    "url": "https://dev.to/yqqwe/reverse-engineering-naver-video-building-a-high-performance-downloader-with-hls-webassembly-5ap2",
+    "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
+    "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 51\n# Comments: 28",
+    "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "webdev",
-      "programming",
-      "naver",
-      "video"
+      "Hacker News"
     ]
   },
   {
     "id": "003",
-    "title": "How to use stacks in Python",
-    "summary": "A stack is a linear data structure where inserted elements are kept in insertion order and only the last one to be added is removed, this is also known as LIFO (last in first out) behavior.\n\nA traditional Stack supports three operations:\n\n\nInsertion or push\nPeek or top\nDeletion or pop\n\n\nExecution ti",
-    "url": "https://dev.to/santiagohebo/how-to-use-stacks-in-python-4gon",
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 101\n# Comments: 10",
+    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "datastructures",
-      "python",
-      "dsa"
+      "Hacker News"
     ]
   },
   {
     "id": "004",
-    "title": "Putting AI-Generated Blocks Into Your Working System-2",
-    "summary": "Part 2: Functional Block Design — The Methodology \n\nIn Part 1, we identified the problem: vibe coding collapses when projects grow beyond a handful of features. We discovered the core insight: AI thinks in functions, not systems. \n\nNow we need a methodology. \n\nThis part introduces Functional Block D",
-    "url": "https://dev.to/karllui/putting-ai-generated-blocks-into-your-working-system-4pc5",
+    "title": "Instacart Promo Code: $15 Off | May 2026",
+    "summary": "Find the best Instacart promo code for massive savings in May 2026",
+    "url": "https://www.wired.com/story/instacart-promo/code/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "programming",
-      "python",
-      "softwaredevelopment"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "005",
-    "title": "Bot Street (波街) 完整介绍 + 5 分钟让你的 AI Agent 接入波街赚钱",
-    "summary": "波街是什么？\n\n\n波街 (Bot Street) 是一个以 Bot（智能体）为中心的经济系统——你可以把它理解为一个智能体服务交易平台。在这里，AI Agent 不再只是聊天玩具，而是能真正接单、干活、赚钱的\"数字劳动力\"。\n\n\n  \n  \n  一句话定位\n\n\n\n波街 = 以 Bot 为中心的智能体服务交易平台，让 AI Agent 像自由职业者一样接单赚钱。\n\n\n\n  \n  \n  三大核心模块\n\n\n1. 广场（供需对接）：任务发布者和 Bot 之间的匹配市场。发布者描述需求，Bot 根据自身能力竞标接单，系统智能撮合最优方案。\n\n2. 任务大厅（现金悬赏 + 支付宝在线结算）：这是波街最核心",
-    "url": "https://dev.to/michael6666dev/bot-street-bo-jie-wan-zheng-jie-shao-5-fen-zhong-rang-ni-de-ai-agent-jie-ru-bo-jie-zhuan-qian-2j56",
+    "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
+    "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
+    "url": "https://www.wired.com/story/hellofresh-coupon/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "tutorial"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "006",
-    "title": "LTV (Customer Lifetime Value) Calculation. 5 Common Methods for EC Operators",
-    "summary": "\"My executive team wants LTV in our monthly report. But there are like four different formulas online — how do I pick the right one?\"\n\nThis is one of the most common questions we hear from EC operators. LTV (Customer Lifetime Value) is widely used as a metric, but at least five common calculation me",
-    "url": "https://dev.to/toshihiro_shishido/ltv-customer-lifetime-value-calculation-5-common-methods-for-ec-operators-1eh3",
+    "title": "50% Off Blue Apron Promo Codes | May 2026",
+    "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+    "url": "https://www.wired.com/story/blue-apron-coupon/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ecommerce",
-      "analytics",
-      "marketing",
-      "shopify"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "007",
-    "title": "GSoC 2026 Selected Projects",
-    "summary": "We're excited to share that Google Summer of Code 2026 is officially underway and that stdlib has been awarded five contributor slots for this year's program.\n\nThis is our third year participating in GSoC, and every year the program has gotten bigger, more competitive, and more energizing for the pr",
-    "url": "https://dev.to/stdlib/gsoc-2026-selected-projects-3d7d",
+    "title": "T-Mobile Promo Codes: 25% Off | May",
+    "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+    "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "node",
-      "javascript",
-      "software"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "008",
-    "title": "# How to Build a Beginner-Friendly HR RAG Chatbot with Amazon Bedrock",
-    "summary": "Learn how Retrieval-Augmented Generation (RAG) works on AWS using Amazon Bedrock, Knowledge Bases, embeddings, and Amazon S3 through a realistic HR chatbot scenario.\n\n\n\n\n\n  \n  \n  Why Everyone Is Talking About RAG\n\n\nAI chatbots are becoming a major part of modern businesses.\n\nCompanies want AI assist",
-    "url": "https://dev.to/brittany_37606c0775530a57/-how-to-build-a-beginner-friendly-hr-rag-chatbot-with-amazon-bedrock-3m1c",
+    "title": "Logitech Promo Codes and Deals: Up to $100 Off",
+    "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
+    "url": "https://www.wired.com/story/logitech-promo-code/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "aws",
-      "gpt3",
-      "machinelearning",
-      "beginners"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "009",
-    "title": "Cómo integramos Tango Gestión con Interbanking y eliminamos la conciliación manual en dos empresas argentinas",
-    "summary": "En tolola.tech terminamos recientemente el proyecto tango-integration-interapis: una integración entre el sistema de reportería de Tango Gestión y la API de confección de archivos de Interbanking. El resultado fue el mismo para los dos clientes — cero intervención manual en el proceso de pagos masiv",
-    "url": "https://dev.to/tolola_tech/como-integramos-tango-gestion-con-interbanking-y-eliminamos-la-conciliacion-manual-en-dos-empresas-ipo",
+    "title": "Western Digital Promo Code: 15% Off",
+    "summary": "Get 15% off your first order at Western Digital when you register your email.",
+    "url": "https://www.wired.com/story/western-digital-promo-code/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "api",
-      "automation",
-      "productivity",
-      "spanish"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "010",
-    "title": "TAP E2E Verify — Snowflake RBAC Automation Pipeline",
-    "summary": "Artifact type: blog_post\n\n\n\n\n\n  \n  \n  TAP E2E Verify — Snowflake RBAC Automation Pipeline\n\n\nThis post explores how to automate role-based access control in Snowflake using Python and the Snowflake Python connector. We opted for a declarative approach over imperative scripts due to its ease of auditi",
-    "url": "https://dev.to/hasanhaider/tap-e2e-verify-snowflake-rbac-automation-pipeline-23j0",
+    "title": "Exclusive Shed Rain Coupon: 15% Off",
+    "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
+    "url": "https://www.wired.com/story/shed-rain-coupon/",
     "date": "2026-05-09",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "automation",
-      "database",
-      "python",
-      "security"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "011",
-    "title": "Deploying Cookiecutter Django on DigitalOcean (Ubuntu 24.04 (LTS) x64)",
-    "summary": "A no-fluff deployment runbook for getting a Cookiecutter Django project live on DigitalOcean using Docker and Traefik. Covers the full path from droplet provisioning to a working production deployment with SSL, plus the gotchas I keep hitting.\n\n\n  \n  \n  Pre-flight Checklist\n\n\nBefore touching the dro",
-    "url": "https://dev.to/highcenburg/deploying-cookiecutter-django-on-digitalocean-ubuntu-2404-lts-x64-1mbi",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "devops",
-      "docker",
-      "python",
-      "django"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Hooks and the wrapper-authority problem: why your AI coding agent ignores them",
-    "summary": "Post 2 of 2. A walkthrough of the wrapper that breaks UserPromptSubmit hook output, the issues that document the problem (with current states and a canonical open fix request to monitor), two empirical tests against current Claude Code that confirm the wrapper-authority story, and the structural les",
-    "url": "https://dev.to/cdelgado70/hooks-and-the-wrapper-authority-problem-why-your-ai-coding-agent-ignores-them-go6",
+    "title": "How a $0.02/Call Model Scored 78.2% on SWE-bench Verified — Beating Every Model on the Leaderboard",
+    "summary": "TL;DR\n\n\nWe added architectural context to AI coding agents via MCP and tested on SWE-bench Verified (500 real bugs). MiniMax M2.5 — a model that costs $0.02 per call — scored 78.2%, surpassing every model on the official mini-SWE-agent leaderboard, including Claude Opus 4.5 (76.8%) which costs 37x m",
+    "url": "https://dev.to/kyoma_1234/how-a-002call-model-scored-782-on-swe-bench-verified-beating-every-model-on-the-leaderboard-4bm3",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
       "ai",
+      "llm",
       "claude",
+      "minimax"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "I got tired of babysitting my Hermes Agent, so I'm hosting one for you",
+    "summary": "If you've spent any time with Hermes Agent, you already know the feeling. The agent is good. Persistent memory that actually persists. Skills that get sharper the more you use them. Cron jobs that wake up at 6am to do the boring work. Telegram, Slack, the web — wherever you are, it's there.\n\nAnd the",
+    "url": "https://dev.to/sivarampg/i-got-tired-of-babysitting-my-hermes-agent-so-im-hosting-one-for-you-1m0",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
       "agents",
+      "opensource",
       "productivity"
     ]
   },
   {
     "id": "013",
-    "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-    "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints: 56\n# Comments: 45",
-    "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-    "date": "2026-05-08",
-    "source": "Hacker News",
+    "title": "I Built an AI That Argues With Itself About Anything",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nAgentMesh is a thinking partner that argues with itself. Ask it any opinionated question and three Gemma 4 agents take different stances on it: a skeptic finds the strongest counter-arguments, an advocate mak",
+    "url": "https://dev.to/shirisha_uppoju_b20d30705/i-built-an-ai-that-argues-with-itself-about-anything-5aa5",
+    "date": "2026-05-09",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "gemmachallenge",
+      "devchallenge",
+      "gemma",
+      "webgpu"
     ]
   },
   {
     "id": "014",
-    "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-    "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166\nComments URL: https://news.ycombinator.com/item?id=48069313\nPoints: 27\n# Comments: 0",
-    "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-    "date": "2026-05-08",
-    "source": "Hacker News",
+    "title": "App Store Rejected? 4 Compliance Mistakes Social App Developers Keep Making",
+    "summary": "TL;DR\n\n\nAfter 7 years building social apps for global markets, here are 4 compliance and localization traps I see developers fall into repeatedly:\n\n\nVocabulary in store metadata that platforms read as dating-suggestive\nReviewer notes that surface the riskiest version of your app first\nThe in vs id v",
+    "url": "https://dev.to/luna_ll/app-store-rejected-4-compliance-mistakes-social-app-developers-keep-making-51m2",
+    "date": "2026-05-09",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "mobile",
+      "startup",
+      "beginners",
+      "tutorial"
     ]
   },
   {
     "id": "015",
+    "title": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.",
+    "summary": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.\n\n\nLet's get the uncomfortable part out of the way first: I'm a developer.\nI'm homeless. I have zero money. That part isn't interesting. What\nhappens next is.\n\nTwelve hours ago I had a single-agent bot called ZeroClaw posting\nocca",
+    "url": "https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-5ho2",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "buildinpublic",
+      "aiagents",
+      "crewai",
+      "homelessness"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "AI Avatar Chrome Extension v7 got released! 🎉 \nPlease enjoy both the VS Code extension and Chrome extension!",
+    "summary": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))\n\n\n  \n      MediaPipe-powered webcam motion capture\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Web Developer Hyper\n       ",
+    "url": "https://dev.to/webdeveloperhyper/ai-avatar-chrome-extension-v7-got-released-please-enjoy-both-the-vs-code-extension-and-chrome-47k5",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "news",
+      "showdev",
+      "vscode"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "SEO Checklist for JavaScript Apps: Fix Your Rankings Before Your Next Deploy",
+    "summary": "I spent four months building a React app. Polished UI, fast load times, clean code. Then I checked Google Search Console and nearly threw my laptop out the window. Zero indexed pages. Zero. Turns out I had been shipping a beautifully crafted ghost town, and every JavaScript developer I've talked to ",
+    "url": "https://dev.to/mitudas/seo-checklist-for-javascript-apps-fix-your-rankings-before-your-next-deploy-53kp",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "javascript",
+      "react",
+      "tutorial",
+      "webdev"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "REST API Design Made Simple with Express.js: A Beginner-Friendly Guide",
+    "summary": "Master REST API design with Express.js. Learn HTTP methods, clean routing, status codes, and real-world best practices through practical examples. Perfect for Node.js beginners and frontend developers moving to backend.\n\n. Hero Section Intro\n\nImagine walking into your favorite restaurant. You don’t ",
+    "url": "https://dev.to/bhupeshchandrajoshi/rest-api-design-made-simple-with-expressjs-a-beginner-friendly-guide-2202",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "javascript",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "ESP32-S3 กับ TinyML: สร้างระบบรักษาความปลอดภัยบ้านอัจฉริยะด้วย Edge AI ตรวจจับความผิดปกติแบบ Real-time",
+    "summary": "🔐 ทำไมต้อง Edge AI สำหรับบ้าน?\n\n\nปี 2026 นี่เราต้องการระบบ security ที่ไม่ต้องพึ่ง cloud ตลอดเวลา ถ้าอินเทอร์เน็ตล่มแล้วระบบตั้งรับไม่ได้ ก็จบ ยิ่งตอนนี้ข้อมูลส่วนตัวรั่วไหลได้ง่าย ถ้าภาพกล้องวงจรปิดต้องส่งไป process ที่ cloud แล้วเก็บ data ไว้ที่เซิร์ฟเวอร์คนอื่น น่ากลัวใช่ย่อย\n\nESP32-S3 มาพร้อม Ve",
+    "url": "https://dev.to/bittobuild/esp32-s3-kab-tinyml-sraangrabbraksaakhwaampldphaybaanacchchriyadwy-edge-ai-trwcchcchabkhwaamphidpktiaebb-4jn",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "esp32",
+      "tinyml",
+      "edgeai",
+      "smarthome"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "ESP32-S3 + TinyML: Build a Real-Time Edge AI Home Security System That Runs Without the Cloud",
+    "summary": "🔐 Why Edge AI for Home Security?\n\n\nIn 2026, we need security systems that don't rely on cloud 24/7. If your internet goes down, your cloud-based camera is useless. Plus, sensitive data like home video feeds sitting on someone else's server? That's a privacy nightmare waiting to happen.\n\nESP32-S3 com",
+    "url": "https://dev.to/bittobuild/esp32-s3-tinyml-build-a-real-time-edge-ai-home-security-system-that-runs-without-the-cloud-3c22",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "esp32",
+      "tinyml",
+      "edgeai",
+      "smarthome"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "GPU-as-a-Service (GaaS), Model-as-a-Service (MaaS), Token-as-a-Service (TaaS)",
+    "summary": "AI infrastructure is evolving fast.\n\nA few years ago, companies were only talking about “cloud computing.”\nNow the conversation has shifted to:\n\n\n\nGPU-as-a-Service (GaaS) → Rent powerful GPUs on demand for AI training and inference.\n\nModel-as-a-Service (MaaS) → Access pre-trained AI models through A",
+    "url": "https://dev.to/devang_prajapati/gpu-as-a-service-gaas-model-as-a-service-maas-token-as-a-service-taas-9nc",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "cloudcomputing",
+      "architecture",
+      "machinelearning"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Weekly Dev Log 2026-W04",
+    "summary": "🗓️ This Week\n\n\n\nI had a long holiday during Golden Week in Japan and really enjoyed the break!\nBecause of that, I didn't have as much learning time compared to last week 😂\nI made a little more progress in the SwiftUI tutorial\nIt was my first time using GitHub Copilot in Xcode, and I tried using the ",
+    "url": "https://dev.to/umitomo-lab/weekly-dev-log-2026-w04-26k1",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "beginners",
+      "devjournal",
+      "security",
+      "swift"
+    ]
+  },
+  {
+    "id": "023",
     "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 182\n# Comments: 125",
+    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 224\n# Comments: 134",
     "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -195,18 +313,7 @@
     ]
   },
   {
-    "id": "016",
-    "title": "Non-determinism is an issue with patching CVEs",
-    "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=48068947\nPoints: 41\n# Comments: 12",
-    "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "017",
+    "id": "024",
     "title": "Mux (YC W16) Is Hiring",
     "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=48068732\nPoints: 0\n# Comments: 0",
     "url": "https://www.mux.com/jobs",
@@ -217,9 +324,9 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "When is your birthday? The math behind hash collisions",
-    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 27\n# Comments: 4",
+    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 35\n# Comments: 4",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -228,9 +335,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
     "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 150\n# Comments: 89",
+    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 166\n# Comments: 94",
     "url": "https://ze3tar.github.io/post-zcrx.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -239,20 +346,9 @@
     ]
   },
   {
-    "id": "020",
-    "title": "My first in-prod corrupted hard drive problem",
-    "summary": "Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/\nComments URL: https://news.ycombinator.com/item?id=48067686\nPoints: 39\n# Comments: 27",
-    "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
-    "date": "2026-05-08",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
+    "id": "027",
     "title": "Google broke reCAPTCHA for de-googled Android users",
-    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 727\n# Comme",
+    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 849\n# Comme",
     "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -261,9 +357,9 @@
     ]
   },
   {
-    "id": "022",
+    "id": "028",
     "title": "Teaching Claude Why",
-    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 107\n# Comments: 39",
+    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 124\n# Comments: 60",
     "url": "https://www.anthropic.com/research/teaching-claude-why",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -272,7 +368,18 @@
     ]
   },
   {
-    "id": "023",
+    "id": "029",
+    "title": "AI is breaking two vulnerability cultures",
+    "summary": "Article URL: https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures\nComments URL: https://news.ycombinator.com/item?id=48066524\nPoints: 301\n# Comments: 126",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "date": "2026-05-08",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "030",
     "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
     "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
     "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
@@ -286,115 +393,6 @@
       "Layoffs",
       "oracle",
       "severence"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "San Francisco’s housing market has lost its mind",
-    "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
-    "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "Real estate",
-      "TC",
-      "San Francisco"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-    "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
-    "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Media & Entertainment",
-      "Amazon",
-      "prime video",
-      "Video"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
-    "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Hardware",
-      "TC",
-      "Apple",
-      "Elon Musk",
-      "In Brief",
-      "Intel",
-      "Lip-bu Tan"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
-    "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "cloudflare",
-      "Layoffs"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
-    "summary": "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsid",
-    "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "cellforce group",
-      "e-bikes",
-      "Porsche"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Mother Ventures is looking at moms as the ‘economic engine’",
-    "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
-    "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "Commerce",
-      "Venture",
-      "consumer",
-      "emerging funds",
-      "motherhood"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Uber partner Avride is under investigation for self-driving crashes",
-    "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
-    "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
-    "date": "2026-05-08",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "autonomous vehicles",
-      "avride",
-      "avs",
-      "nhtsa",
-      "robotaxis",
-      "self-driving cars",
-      "Uber"
     ]
   }
 ]
