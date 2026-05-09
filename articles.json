@@ -1,187 +1,182 @@
 [
   {
     "id": "001",
-    "title": "I built GitHub Store to 12,500 stars in 6 months – I started at 16",
-    "summary": "Article URL: https://github-store.org/blog/how-i-built-github-store/\nComments URL: https://news.ycombinator.com/item?id=48070721\nPoints: 3\n# Comments: 0",
-    "url": "https://github-store.org/blog/how-i-built-github-store/",
+    "title": "Desglosando el Streaming de Naver: Cómo construimos un descargador de alto rendimiento con HLS y WebAssembly",
+    "summary": "En el ecosistema del desarrollo web moderno, descargar un vídeo ya no es tan simple como realizar una petición GET a un archivo .mp4. Plataformas gigantes como Naver (incluyendo Naver TV y archivos de V LIVE) utilizan una infraestructura de Streaming Adaptativo (ABS) sofisticada que actúa como una \"",
+    "url": "https://dev.to/yqqwe/desglosando-el-streaming-de-naver-como-construimos-un-descargador-de-alto-rendimiento-con-hls-y-4npd",
     "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "naver"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Reverse Engineering Naver Video: Building a High-Performance Downloader with HLS & WebAssembly",
+    "summary": "For the average user, \"downloading a video\" seems like a simple matter of finding an .mp4 link. However, for developers working with modern content platforms like Naver (Naver TV, Sports, and V LIVE archives), the reality is a fragmented, encrypted, and highly protected infrastructure.\nWhen building",
+    "url": "https://dev.to/yqqwe/reverse-engineering-naver-video-building-a-high-performance-downloader-with-hls-webassembly-5ap2",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "naver",
+      "video"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "How to use stacks in Python",
+    "summary": "A stack is a linear data structure where inserted elements are kept in insertion order and only the last one to be added is removed, this is also known as LIFO (last in first out) behavior.\n\nA traditional Stack supports three operations:\n\n\nInsertion or push\nPeek or top\nDeletion or pop\n\n\nExecution ti",
+    "url": "https://dev.to/santiagohebo/how-to-use-stacks-in-python-4gon",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "datastructures",
+      "python",
+      "dsa"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Putting AI-Generated Blocks Into Your Working System-2",
+    "summary": "Part 2: Functional Block Design — The Methodology \n\nIn Part 1, we identified the problem: vibe coding collapses when projects grow beyond a handful of features. We discovered the core insight: AI thinks in functions, not systems. \n\nNow we need a methodology. \n\nThis part introduces Functional Block D",
+    "url": "https://dev.to/karllui/putting-ai-generated-blocks-into-your-working-system-4pc5",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "programming",
+      "python",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Bot Street (波街) 完整介绍 + 5 分钟让你的 AI Agent 接入波街赚钱",
+    "summary": "波街是什么？\n\n\n波街 (Bot Street) 是一个以 Bot（智能体）为中心的经济系统——你可以把它理解为一个智能体服务交易平台。在这里，AI Agent 不再只是聊天玩具，而是能真正接单、干活、赚钱的\"数字劳动力\"。\n\n\n  \n  \n  一句话定位\n\n\n\n波街 = 以 Bot 为中心的智能体服务交易平台，让 AI Agent 像自由职业者一样接单赚钱。\n\n\n\n  \n  \n  三大核心模块\n\n\n1. 广场（供需对接）：任务发布者和 Bot 之间的匹配市场。发布者描述需求，Bot 根据自身能力竞标接单，系统智能撮合最优方案。\n\n2. 任务大厅（现金悬赏 + 支付宝在线结算）：这是波街最核心",
+    "url": "https://dev.to/michael6666dev/bot-street-bo-jie-wan-zheng-jie-shao-5-fen-zhong-rang-ni-de-ai-agent-jie-ru-bo-jie-zhuan-qian-2j56",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "tutorial"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "LTV (Customer Lifetime Value) Calculation. 5 Common Methods for EC Operators",
+    "summary": "\"My executive team wants LTV in our monthly report. But there are like four different formulas online — how do I pick the right one?\"\n\nThis is one of the most common questions we hear from EC operators. LTV (Customer Lifetime Value) is widely used as a metric, but at least five common calculation me",
+    "url": "https://dev.to/toshihiro_shishido/ltv-customer-lifetime-value-calculation-5-common-methods-for-ec-operators-1eh3",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ecommerce",
+      "analytics",
+      "marketing",
+      "shopify"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "GSoC 2026 Selected Projects",
+    "summary": "We're excited to share that Google Summer of Code 2026 is officially underway and that stdlib has been awarded five contributor slots for this year's program.\n\nThis is our third year participating in GSoC, and every year the program has gotten bigger, more competitive, and more energizing for the pr",
+    "url": "https://dev.to/stdlib/gsoc-2026-selected-projects-3d7d",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "node",
+      "javascript",
+      "software"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "# How to Build a Beginner-Friendly HR RAG Chatbot with Amazon Bedrock",
+    "summary": "Learn how Retrieval-Augmented Generation (RAG) works on AWS using Amazon Bedrock, Knowledge Bases, embeddings, and Amazon S3 through a realistic HR chatbot scenario.\n\n\n\n\n\n  \n  \n  Why Everyone Is Talking About RAG\n\n\nAI chatbots are becoming a major part of modern businesses.\n\nCompanies want AI assist",
+    "url": "https://dev.to/brittany_37606c0775530a57/-how-to-build-a-beginner-friendly-hr-rag-chatbot-with-amazon-bedrock-3m1c",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "aws",
+      "gpt3",
+      "machinelearning",
+      "beginners"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Cómo integramos Tango Gestión con Interbanking y eliminamos la conciliación manual en dos empresas argentinas",
+    "summary": "En tolola.tech terminamos recientemente el proyecto tango-integration-interapis: una integración entre el sistema de reportería de Tango Gestión y la API de confección de archivos de Interbanking. El resultado fue el mismo para los dos clientes — cero intervención manual en el proceso de pagos masiv",
+    "url": "https://dev.to/tolola_tech/como-integramos-tango-gestion-con-interbanking-y-eliminamos-la-conciliacion-manual-en-dos-empresas-ipo",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "api",
+      "automation",
+      "productivity",
+      "spanish"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "TAP E2E Verify — Snowflake RBAC Automation Pipeline",
+    "summary": "Artifact type: blog_post\n\n\n\n\n\n  \n  \n  TAP E2E Verify — Snowflake RBAC Automation Pipeline\n\n\nThis post explores how to automate role-based access control in Snowflake using Python and the Snowflake Python connector. We opted for a declarative approach over imperative scripts due to its ease of auditi",
+    "url": "https://dev.to/hasanhaider/tap-e2e-verify-snowflake-rbac-automation-pipeline-23j0",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "automation",
+      "database",
+      "python",
+      "security"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Deploying Cookiecutter Django on DigitalOcean (Ubuntu 24.04 (LTS) x64)",
+    "summary": "A no-fluff deployment runbook for getting a Cookiecutter Django project live on DigitalOcean using Docker and Traefik. Covers the full path from droplet provisioning to a working production deployment with SSL, plus the gotchas I keep hitting.\n\n\n  \n  \n  Pre-flight Checklist\n\n\nBefore touching the dro",
+    "url": "https://dev.to/highcenburg/deploying-cookiecutter-django-on-digitalocean-ubuntu-2404-lts-x64-1mbi",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "devops",
+      "docker",
+      "python",
+      "django"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Hooks and the wrapper-authority problem: why your AI coding agent ignores them",
+    "summary": "Post 2 of 2. A walkthrough of the wrapper that breaks UserPromptSubmit hook output, the issues that document the problem (with current states and a canonical open fix request to monitor), two empirical tests against current Claude Code that confirm the wrapper-authority story, and the structural les",
+    "url": "https://dev.to/cdelgado70/hooks-and-the-wrapper-authority-problem-why-your-ai-coding-agent-ignores-them-go6",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "claude",
+      "agents",
+      "productivity"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+    "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints: 56\n# Comments: 45",
+    "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+    "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
       "Hacker News"
     ]
   },
   {
-    "id": "002",
-    "title": "The Co-Founder Vetting System Nobody Talks About (Until It's Too Late)",
-    "summary": "Most startup advice skips the awkward part: how do you actually find and evaluate a business partner before you're legally and financially entangled with the wrong person?\n\nI've seen two kinds of founders. Those who spend six months on their pitch deck and two hours picking their co-founder. And tho",
-    "url": "https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "productivity",
-      "business",
-      "startup",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered",
-    "summary": "Most articles about building AI apps focus on the model. This one focuses on everything around the model — the architecture decisions that determined whether the product would actually ship, actually perform, and actually retain users.\n\nSportsReflector is an AI coaching app that analyzes athletic fo",
-    "url": "https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ios",
-      "machinelearning",
-      "swift",
-      "startup"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "The Auth0 Pricing Trap: Why Upgrading to Paid Gives You Less",
-    "summary": "This article was originally published on Jo4 Blog.\n\n\nI was about to upgrade our Auth0 plan to get a cleaner domain. Then I looked at the pricing page.\n\nAnd closed the tab.\n\n\n  \n  \n  The Setup\n\n\nAuth0 gives you a randomly generated tenant URL when you sign up:\n\n\n\ndev-exjsxdx8c6qt3uhf.us.auth0.com\n\n\n\n",
-    "url": "https://dev.to/anand_rathnas_d5b608cc3de/the-auth0-pricing-trap-why-upgrading-to-paid-gives-you-less-3m5f",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "authentication",
-      "startup",
-      "saas",
-      "pricing"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "Building an Experimental TypeScript Cipher Inspired by 8 Dimensions",
-    "summary": "Over the last few days, I started an experimental study on cryptography with the goal of better understanding concepts such as symmetric encryption, S-Boxes, nonces, diffusion, confusion, permutation, avalanche effect, key derivation, and message authentication.\n\nFrom this study, I started working o",
-    "url": "https://dev.to/mark_id752/building-an-experimental-typescript-cipher-inspired-by-8-dimensions-3fno",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "typescript",
-      "cryptography",
-      "encryption",
-      "security"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "A Grafana dashboard for Claude Code on Prometheus",
-    "summary": "Claude Code emits OpenTelemetry metrics over OTLP. Anthropic publishes the metric names. So all that was missing, if you run a Prometheus-compatible backend, was a dashboard. Here is one.\n\n\n\n\nGrafana Labs: dashboard 25255\n\nSource: github.com/rockdarko/claude-code-metrics-prometheus\n\nLicense: MIT\n\n\nI",
-    "url": "https://dev.to/rockdarko/a-grafana-dashboard-for-claude-code-on-prometheus-2nbl",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "grafana",
-      "prometheus",
-      "opentelemetry",
-      "observability"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "The Asymmetry of Change: Why Your Tests Are Looking the Wrong Way",
-    "summary": "The Asymmetry of Change: Why Your Tests Are Looking the Wrong Way\n\n\nA passing build is often treated as a certificate of correctness. In reality, it's a narrow contract.\n\nIt doesn't prove your code is right. It proves that the assertions you wrote in the past, against behaviors you anticipated back ",
-    "url": "https://dev.to/gauntletci/the-asymmetry-of-change-why-your-tests-are-looking-the-wrong-way-2k2f",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "testing",
-      "dotnet",
-      "csharp",
-      "ai"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Most Beginners Approach Bug Bounty Completely Wrong",
-    "summary": "Bug Bounty Isn’t What You Think It Is\n\n\nBy Tariq Davis\n\nI’m not a veteran bug bounty hunter.\n\nI’m a cybersecurity student who got curious about how people legally get paid to break systems. That curiosity pulled me into bug bounty, and the first thing I noticed was how messy the beginner information",
-    "url": "https://dev.to/tagzauthor/most-beginners-approach-bug-bounty-completely-wrong-35oi",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "cybersecurity",
-      "beginners",
-      "security",
-      "hacking"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa",
-    "summary": "The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa\n\n\n\n  \n  \n  The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa\n\n\nMost fraud tooling in online betting is downstream. It scores sessions, blocks suspicious deposits, flags linke",
-    "url": "https://dev.to/devin_valencia_09c3e9e529/the-bonus-hunter-in-the-next-state-why-sportsbook-promo-abuse-red-teams-fit-agenthansa-4fif",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "quest",
-      "proof"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "How I built GitHub Store to 12,500 stars in 6 months — I started at 16",
-    "summary": "Six months ago I was a 16-year-old in Uzbekistan trying to ship a small Android app I'd built. The Play Store process was so heavy for what the project was worth, I built an alternative instead.\n\nSix months later that alternative — GitHub Store — has 12,500+ stars, 250,000+ updates served, ships in ",
-    "url": "https://dev.to/rainxchzed/how-i-built-github-store-to-12500-stars-in-6-months-i-started-at-16-4c78",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "kotlin",
-      "opensource",
-      "android",
-      "showdev"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "React to Rust, no try/catch",
-    "summary": "I built three libraries independently. When I put them in the same project, the boundaries between them disappeared. This is what was left.\n\nThe path: a click in a React form, through schema validation, into a Rust solver running in WebAssembly, back through a typed Result, and out to a rendered por",
-    "url": "https://dev.to/sakobume/react-to-rust-no-trycatch-1goa",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "rust",
-      "typescript",
-      "webassembly",
-      "webdev"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Lessons from the Build with AI Workshop in Belagavi 🚀",
-    "summary": "I recently attended the Build with AI workshop hosted by GDG Belagavi, and it was an incredible deep dive into the Google AI ecosystem. We explored the transition from simple prompts to full-stack AI workflows.\nKey takeaways included:\nRAG with Gemini: Learning how to ground AI systems on custom data",
-    "url": "https://dev.to/hemanth_s_96baf26aff7eaad/lessons-from-the-build-with-ai-workshop-in-belagavi-4hj3",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "gemini",
-      "googlecloud",
-      "rag"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "Build-in-Public Day 15: GSC clicks 7.4x, impressions 9.6x in 15 days — full data disclosure",
-    "summary": "I just hit Day 15 of an AI-driven Build-in-Public push for Tasteck, a vertical SaaS I run. Sharing the actual numbers because most \"Build-in-Public works for SEO\" claims you see online lack data.\n\n\n  \n  \n  TL;DR — 15 days, 4/24 → 5/8\n\n\n\n\n\nMetric (28-day total)\n4/23 baseline\n5/8 (Day 15)\nChange\n\n\n\n\nC",
-    "url": "https://dev.to/edhiblemeer/build-in-public-day-15-gsc-clicks-74x-impressions-96x-in-15-days-full-data-disclosure-5e20",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "analytics",
-      "buildinpublic",
-      "marketing",
-      "saas"
-    ]
-  },
-  {
     "id": "014",
-    "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-    "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints: 41\n# Comments: 29",
-    "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+    "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
+    "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166\nComments URL: https://news.ycombinator.com/item?id=48069313\nPoints: 27\n# Comments: 0",
+    "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -191,7 +186,7 @@
   {
     "id": "015",
     "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 149\n# Comments: 103",
+    "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 182\n# Comments: 125",
     "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -202,7 +197,7 @@
   {
     "id": "016",
     "title": "Non-determinism is an issue with patching CVEs",
-    "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=48068947\nPoints: 37\n# Comments: 12",
+    "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=48068947\nPoints: 41\n# Comments: 12",
     "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -224,7 +219,7 @@
   {
     "id": "018",
     "title": "When is your birthday? The math behind hash collisions",
-    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 20\n# Comments: 2",
+    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 27\n# Comments: 4",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -234,9 +229,9 @@
   },
   {
     "id": "019",
-    "title": "Roadside Attraction",
-    "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/\nComments URL: https://news.ycombinator.com/item?id=48067764\nPoints: 17\n# Comments: 3",
-    "url": "https://theoffingmag.com/essay/roadside-attraction/",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 150\n# Comments: 89",
+    "url": "https://ze3tar.github.io/post-zcrx.html",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -245,9 +240,9 @@
   },
   {
     "id": "020",
-    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 142\n# Comments: 87",
-    "url": "https://ze3tar.github.io/post-zcrx.html",
+    "title": "My first in-prod corrupted hard drive problem",
+    "summary": "Article URL: https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/\nComments URL: https://news.ycombinator.com/item?id=48067686\nPoints: 39\n# Comments: 27",
+    "url": "https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -257,7 +252,7 @@
   {
     "id": "021",
     "title": "Google broke reCAPTCHA for de-googled Android users",
-    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 635\n# Comme",
+    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 727\n# Comme",
     "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -268,7 +263,7 @@
   {
     "id": "022",
     "title": "Teaching Claude Why",
-    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 92\n# Comments: 26",
+    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 107\n# Comments: 39",
     "url": "https://www.anthropic.com/research/teaching-claude-why",
     "date": "2026-05-08",
     "source": "Hacker News",
