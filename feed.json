@@ -7,6 +7,145 @@
   "items": [
     {
       "id": "001",
+      "url": "https://thenewstack.io/subquadratic-12-million-context-window/",
+      "title": "The context window has been shattered: Subquadratic debuts a 12M token window",
+      "summary": "Article URL: https://thenewstack.io/subquadratic-12-million-context-window/\nComments URL: https://news.ycombinator.com/item?id=48075645\nPoints: 7\n# Comments: 0",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
+      "title": "PipeDream on the Acorn Archimedes",
+      "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 14\n# Comments: 3",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html",
+      "title": "First, the FBI Searched Her Home. Then, She Won a Pulitzer.",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/05/business/media/hannah-natanson-washington-post-pulitzer.html\nComments URL: https://news.ycombinator.com/item?id=48075520\nPoints: 11\n# Comments: 2",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
+      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
+      "summary": "Article URL: https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/\nComments URL: https://news.ycombinator.com/item?id=48075144\nPoints: 29\n# Comments: 3",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
+      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+      "summary": "Article URL: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\nComments URL: https://news.ycombinator.com/item?id=48074952\nPoints: 10\n# Comments: 1",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
+      "title": "Read Programming as Theory Building",
+      "summary": "Article URL: https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/\nComments URL: https://news.ycombinator.com/item?id=48074829\nPoints: 45\n# Comments: 8",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://internetarchive.ch/",
+      "title": "Internet Archive Switzerland",
+      "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 229\n# Comments: 27",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://dillo-browser.org/lab/web-fork/",
+      "title": "Forking the Web",
+      "summary": "Article URL: https://dillo-browser.org/lab/web-fork/\nComments URL: https://news.ycombinator.com/item?id=48074087\nPoints: 70\n# Comments: 61",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
+      "title": "Killswitch: Per-function short-circuit mitigation primitive",
+      "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 52\n# Comments: 10",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 127\n# Comments: 43",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
+      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
+      "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Hardware",
+        "Gadgets",
+        "cameras",
+        "instax",
+        "instax wide 400"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "date_published": "2026-05-09",
+      "tags": [
+        "AI",
+        "Startups",
+        "Venture",
+        "OpenAI"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
       "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
       "title": "The new Wild West of AI kids’ toys",
       "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
@@ -21,7 +160,35 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "002",
+      "id": "014",
+      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+      "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it’s on sale at Woot ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Smart Home",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "015",
+      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+      "title": "These great digital gifts will arrive just in time for Mother’s Day",
+      "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely aren’t alone in feeling guilty for considering digital gifts instead of something ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "016",
       "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
       "title": "Let it snow",
       "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow.",
@@ -34,7 +201,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "003",
+      "id": "017",
       "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
       "title": "The game that makes me actually want to exercise",
       "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
@@ -48,7 +215,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "004",
+      "id": "018",
       "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
       "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
       "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
@@ -61,7 +228,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "005",
+      "id": "019",
       "url": "https://www.wired.com/gallery/best-captioning-glasses/",
       "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
       "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
@@ -84,7 +251,7 @@
       "_source": "Wired"
     },
     {
-      "id": "006",
+      "id": "020",
       "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
       "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
@@ -110,7 +277,7 @@
       "_source": "Wired"
     },
     {
-      "id": "007",
+      "id": "021",
       "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
       "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
       "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
@@ -135,7 +302,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "022",
       "url": "https://www.wired.com/story/instacart-promo/code/",
       "title": "Instacart Promo Code: $15 Off | May 2026",
       "summary": "Find the best Instacart promo code for massive savings in May 2026",
@@ -150,7 +317,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "023",
       "url": "https://www.wired.com/story/hellofresh-coupon/",
       "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
       "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
@@ -165,7 +332,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "024",
       "url": "https://www.wired.com/story/blue-apron-coupon/",
       "title": "50% Off Blue Apron Promo Codes | May 2026",
       "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
@@ -179,7 +346,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "025",
       "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
       "title": "T-Mobile Promo Codes: 25% Off | May",
       "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
@@ -194,7 +361,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "026",
       "url": "https://www.wired.com/story/logitech-promo-code/",
       "title": "Logitech Promo Codes and Deals: Up to $100 Off",
       "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
@@ -208,7 +375,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "027",
       "url": "https://www.wired.com/story/western-digital-promo-code/",
       "title": "Western Digital Promo Code: 15% Off",
       "summary": "Get 15% off your first order at Western Digital when you register your email.",
@@ -222,7 +389,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "028",
       "url": "https://www.wired.com/story/shed-rain-coupon/",
       "title": "Exclusive Shed Rain Coupon: 15% Off",
       "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
@@ -236,224 +403,32 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
-      "url": "https://dev.to/pat9000/the-future-of-ai-and-nextjs-21jd",
-      "title": "The Future of AI and Next.js",
-      "summary": "The Future of AI and Next.js\n\n\nThe landscape of web development is changing. AI code generators are getting better every month, but frameworks like Next.js remain critical for building fast, scalable, and secure applications.\n\nThis isn't a hype post. I use AI agents to build production software ever",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "nextjs",
-        "agenticdevelopment",
-        "claude"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://dev.to/pat9000/n8n-vs-make-vs-custom-scripts-when-to-use-what-for-ai-workflow-automation-3pdc",
-      "title": "n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation",
-      "summary": "n8n vs Make vs Custom Scripts: When to Use What for AI Workflow Automation\n\n\nI've built automations with all three approaches. Here's when each one wins and when it doesn't.\n\n\n  \n  \n  The Quick Answer\n\n\n\n\nMake (Integromat) — Best for non-technical teams, simple integrations, < 10 steps\n\nn8n — Best f",
-      "date_published": "2026-05-09",
-      "tags": [
-        "n8n",
-        "make",
-        "automation",
-        "aiworkflow"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "017",
-      "url": "https://dev.to/raflizocky_/run-php-and-mysql-in-docker-5935",
-      "title": "Run PHP and MySQL in Docker",
-      "summary": "It works on my machine.\n\n\n  \n  \n  Steps\n\n\n1. Create a new directory\n\n\n\n.\n├── docker-compose.yml\n├── Dockerfile\n├── .env.example\n├── README.md\n└── src/\n    └── index.php\n\n\n\n\n\n\n2. Create docker-compose.yml\n\n\n\nversion: '3.8'\nservices:\n  app:\n    build: .\n    container_name: php_app\n    ports:\n      - \"",
-      "date_published": "2026-05-09",
-      "tags": [
-        "docker",
-        "php",
-        "mysql",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/ht_fe463f3af9bf18f/i-built-a-cross-platform-remote-access-tool-because-i-wanted-unlimited-remote-sessions-461j",
-      "title": "I built a cross-platform remote access tool because I wanted unlimited remote sessions",
-      "summary": "I’m an independent developer building FlashDesk, a cross-platform remote access tool for Windows, macOS, and Linux.\n\nWebsite: https://flashdesk.io/\n\nThe reason I started building it was simple: I wanted a remote access tool that I could use freely across multiple machines, multiple windows, and mult",
-      "date_published": "2026-05-09",
-      "tags": [
-        "showdev",
-        "productivity",
-        "remotedesktop",
-        "security"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/tiaya_fotseujosu_7a985d/-1blp",
-      "title": "Exploring AI on AWS Made Simpler 🚀",
-      "summary": "How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Tidding Ramsey\n            \n            \n              \n                Tidding Ramsey\n             ",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "cloudcomputing",
-        "aws"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://dev.to/hamed_pakdaman_c724e294d9/what-183-admin-pages-look-like-building-a-full-laravel-cms-in-2026-1oj3",
-      "title": "What 183 admin pages look like — building a full Laravel CMS in 2026",
-      "summary": "A year ago I started building a CMS because I had three options for client work and none fit:\n\n\n\nWordPress — works, but 250+ plugin CVEs/week (Patchstack 2024). I patch sites every week. Tired of it.\n\nContentful / Sanity — modern, but $300/mo entry pricing for SMB use cases. Vendor lock is real.\n\nSt",
-      "date_published": "2026-05-09",
-      "tags": [
-        "php",
-        "webdev",
-        "cms",
-        "laravel"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/tendong_brain/-17gj",
-      "title": "Learning AI Evaluation on AWS Without the Complexity",
-      "summary": "How I Evaluated an AI Model on AWS Without Writing a Single Line of Training Code\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Tidding Ramsey\n            \n            \n              \n                Tidding Ramsey\n             ",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "aws",
-        "machinelearning",
-        "nocode"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/nirvana_andy/why-ai-claimed-software-developers-first-the-counterintuitive-reality-4ad2",
-      "title": "Why AI Claimed Software Developers First: The Counterintuitive Reality",
-      "summary": "*Reason 1: Programming is the \"Cleanest\" Form of Language *\n\nWhat makes a language \"clean\"? Natural languages (like Chinese or English) are inherently ambiguous: \n\n• \"I almost didn't make it\" — Did I succeed or fail? \n• \"Wear as much as you can\" — Is it freezing winter or a scorching summer? \n\nProgr",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "programming"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/evyl/how-i-built-a-swedish-crossword-solver-with-astro-and-400000-words-5a0l",
-      "title": "How I Built a Swedish Crossword Solver with Astro and 400,000+ Words",
-      "summary": "How I Built a Swedish Crossword Solver with Astro and 400,000+ Words\n\n\nI recently launched Korsordsakuten — a free Swedish crossword solver — and learned a lot about building SEO-driven content sites with Astro. Here's what I built and what I learned along the way.\n\n\n  \n  \n  What It Does\n\n\nThe site ",
-      "date_published": "2026-05-09",
-      "tags": [
-        "javascript",
-        "showdev",
-        "sideprojects",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/thenjdevopsguy/multi-model-failover-in-your-ai-gateway-4n8n",
-      "title": "Multi-Model Failover In Your AI Gateway",
-      "summary": "Think about two scenarios that are pretty common. 1) You hit a rate limit or run out of tokens, so you have to \"downgrade\" to a small/less powerful Model. 2) An LLM provider is down or having intermittent issues.\n\nIn these two cases, what do you do if you only have one Model set up for your Gateway ",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "kubernetes",
-        "programming",
-        "coding"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/sachindra149/aws-well-architected-framework-1k6m",
-      "title": "AWS Well‑Architected Framework",
-      "summary": "The AWS Well‑Architected Framework structures cloud‑native design around six core pillars: Operational Excellence, Security, Reliability, Performance Efficiency, Cost Optimization, and Sustainability. Each pillar gives you a lens to evaluate and improve your architecture. Below is a detailed, blog‑r",
-      "date_published": "2026-05-09",
-      "tags": [
-        "aws",
-        "architecture",
-        "security"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/astaykov/the-overlooked-gem-in-microsoft-entra-that-gives-your-ai-agents-super-powers-3mde",
-      "title": "The Overlooked Gem in Microsoft Entra That Gives Your AI Agents Super-Powers",
-      "summary": "Most enterprise conversations about Microsoft Entra stop at the obvious: single sign-on, multifactor authentication, Conditional Access, a handful of well-policed app registrations. Useful, mature, well understood. And almost entirely beside the point for what is about to happen inside every large o",
-      "date_published": "2026-05-09",
-      "tags": [
-        "ai",
-        "entraagentid",
-        "agents",
-        "cybersecurity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-      "title": "How sunburn inspired a new way to store energy",
-      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
-      "date_published": "2026-05-09",
-      "tags": [
-        "BBC News"
-      ],
-      "_source": "BBC News"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "TC",
-        "Exclusive",
-        "Layoffs",
-        "oracle",
-        "severence"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
-      "title": "San Francisco’s housing market has lost its mind",
-      "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-28i3",
+      "title": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.",
+      "summary": "Day 1 — I'm Homeless. I Just Shipped an Autonomous Multi-Agent System.\n\n\nLet's get the uncomfortable part out of the way first: I'm a developer.\nI'm homeless. I have zero money. That part isn't interesting. What\nhappens next is.\n\nTwelve hours ago I had a single-agent bot called ZeroClaw posting\nocca",
+      "date_published": "2026-05-09",
       "tags": [
-        "Real estate",
-        "TC",
-        "San Francisco"
+        "buildinpublic",
+        "aiagents",
+        "crewai",
+        "homelessness"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
-      "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
-      "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/marketoracle/free-google-places-api-alternative-37-business-categories-no-api-key-2m9e",
+      "title": "Free Google Places API Alternative: 37 Business Categories, No API Key",
+      "summary": "Google Places API removed its free tier in February 2025. The new pricing starts at ~$275/month for 100K calls.\n\nIf you need basic business/POI data and don't need Google's reviews or photos, here's a free alternative.\n\n\n  \n  \n  BizData API\n\n\nA REST API wrapping OpenStreetMap's Overpass API. Free, n",
+      "date_published": "2026-05-09",
       "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Amazon",
-        "prime video",
-        "Video"
+        "api",
+        "googlecloud",
+        "webdev",
+        "opensource"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     }
   ]
 }
