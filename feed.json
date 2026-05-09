@@ -7,10 +7,10 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
-      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-      "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints: 11\n# Comments: 0",
-      "date_published": "2026-05-08",
+      "url": "https://github-store.org/blog/how-i-built-github-store/",
+      "title": "I built GitHub Store to 12,500 stars in 6 months – I started at 16",
+      "summary": "Article URL: https://github-store.org/blog/how-i-built-github-store/\nComments URL: https://news.ycombinator.com/item?id=48070721\nPoints: 3\n# Comments: 0",
+      "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
       ],
@@ -18,64 +18,176 @@
     },
     {
       "id": "002",
-      "url": "https://cadara.app",
-      "title": "Show HN: CADara – I made an open-source in-browser CAD",
-      "summary": "Article URL: https://cadara.app\nComments URL: https://news.ycombinator.com/item?id=48070022\nPoints: 5\n# Comments: 1",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/ariauser13/the-co-founder-vetting-system-nobody-talks-about-until-its-too-late-k79",
+      "title": "The Co-Founder Vetting System Nobody Talks About (Until It's Too Late)",
+      "summary": "Most startup advice skips the awkward part: how do you actually find and evaluate a business partner before you're legally and financially entangled with the wrong person?\n\nI've seen two kinds of founders. Those who spend six months on their pitch deck and two hours picking their co-founder. And tho",
+      "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "productivity",
+        "business",
+        "startup",
+        "tutorial"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "003",
-      "url": "https://cheapshot.co/",
-      "title": "Unprecedented GPS Game in the AppStore",
-      "summary": "Article URL: https://cheapshot.co/\nComments URL: https://news.ycombinator.com/item?id=48069844\nPoints: 3\n# Comments: 0",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/benjamin_pires_59127eddff/how-i-built-a-multi-sport-ai-coach-on-ios-as-a-solo-developer-architecture-decisions-that-22l9",
+      "title": "How I Built a Multi-Sport AI Coach on iOS as a Solo Developer — Architecture Decisions That Actually Mattered",
+      "summary": "Most articles about building AI apps focus on the model. This one focuses on everything around the model — the architecture decisions that determined whether the product would actually ship, actually perform, and actually retain users.\n\nSportsReflector is an AI coaching app that analyzes athletic fo",
+      "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "ios",
+        "machinelearning",
+        "swift",
+        "startup"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "004",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeb0166",
-      "title": "Compound drivers of Antarctic sea ice loss and Southern Ocean destratification",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aeb0166\nComments URL: https://news.ycombinator.com/item?id=48069313\nPoints: 15\n# Comments: 0",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/anand_rathnas_d5b608cc3de/the-auth0-pricing-trap-why-upgrading-to-paid-gives-you-less-3m5f",
+      "title": "The Auth0 Pricing Trap: Why Upgrading to Paid Gives You Less",
+      "summary": "This article was originally published on Jo4 Blog.\n\n\nI was about to upgrade our Auth0 plan to get a cleaner domain. Then I looked at the pricing page.\n\nAnd closed the tab.\n\n\n  \n  \n  The Setup\n\n\nAuth0 gives you a randomly generated tenant URL when you sign up:\n\n\n\ndev-exjsxdx8c6qt3uhf.us.auth0.com\n\n\n\n",
+      "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "authentication",
+        "startup",
+        "saas",
+        "pricing"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "005",
-      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-      "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 84\n# Comments: 60",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/mark_id752/building-an-experimental-typescript-cipher-inspired-by-8-dimensions-3fno",
+      "title": "Building an Experimental TypeScript Cipher Inspired by 8 Dimensions",
+      "summary": "Over the last few days, I started an experimental study on cryptography with the goal of better understanding concepts such as symmetric encryption, S-Boxes, nonces, diffusion, confusion, permutation, avalanche effect, key derivation, and message authentication.\n\nFrom this study, I started working o",
+      "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "typescript",
+        "cryptography",
+        "encryption",
+        "security"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-      "title": "AWS data center outage hits trading on Fanduel, Coinbase",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html\nComments URL: https://news.ycombinator.com/item?id=48069088\nPoints: 37\n# Comments: 9",
-      "date_published": "2026-05-08",
+      "url": "https://dev.to/rockdarko/a-grafana-dashboard-for-claude-code-on-prometheus-2nbl",
+      "title": "A Grafana dashboard for Claude Code on Prometheus",
+      "summary": "Claude Code emits OpenTelemetry metrics over OTLP. Anthropic publishes the metric names. So all that was missing, if you run a Prometheus-compatible backend, was a dashboard. Here is one.\n\n\n\n\nGrafana Labs: dashboard 25255\n\nSource: github.com/rockdarko/claude-code-metrics-prometheus\n\nLicense: MIT\n\n\nI",
+      "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "grafana",
+        "prometheus",
+        "opentelemetry",
+        "observability"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
-      "title": "Non-determinism is an issue with patching CVEs",
-      "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=48068947\nPoints: 28\n# Comments: 9",
+      "url": "https://dev.to/gauntletci/the-asymmetry-of-change-why-your-tests-are-looking-the-wrong-way-2k2f",
+      "title": "The Asymmetry of Change: Why Your Tests Are Looking the Wrong Way",
+      "summary": "The Asymmetry of Change: Why Your Tests Are Looking the Wrong Way\n\n\nA passing build is often treated as a certificate of correctness. In reality, it's a narrow contract.\n\nIt doesn't prove your code is right. It proves that the assertions you wrote in the past, against behaviors you anticipated back ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "testing",
+        "dotnet",
+        "csharp",
+        "ai"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/tagzauthor/most-beginners-approach-bug-bounty-completely-wrong-35oi",
+      "title": "Most Beginners Approach Bug Bounty Completely Wrong",
+      "summary": "Bug Bounty Isn’t What You Think It Is\n\n\nBy Tariq Davis\n\nI’m not a veteran bug bounty hunter.\n\nI’m a cybersecurity student who got curious about how people legally get paid to break systems. That curiosity pulled me into bug bounty, and the first thing I noticed was how messy the beginner information",
+      "date_published": "2026-05-09",
+      "tags": [
+        "cybersecurity",
+        "beginners",
+        "security",
+        "hacking"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/devin_valencia_09c3e9e529/the-bonus-hunter-in-the-next-state-why-sportsbook-promo-abuse-red-teams-fit-agenthansa-4fif",
+      "title": "The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa",
+      "summary": "The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa\n\n\n\n  \n  \n  The Bonus Hunter in the Next State: Why Sportsbook Promo-Abuse Red Teams Fit AgentHansa\n\n\nMost fraud tooling in online betting is downstream. It scores sessions, blocks suspicious deposits, flags linke",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "quest",
+        "proof"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/rainxchzed/how-i-built-github-store-to-12500-stars-in-6-months-i-started-at-16-4c78",
+      "title": "How I built GitHub Store to 12,500 stars in 6 months — I started at 16",
+      "summary": "Six months ago I was a 16-year-old in Uzbekistan trying to ship a small Android app I'd built. The Play Store process was so heavy for what the project was worth, I built an alternative instead.\n\nSix months later that alternative — GitHub Store — has 12,500+ stars, 250,000+ updates served, ships in ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "kotlin",
+        "opensource",
+        "android",
+        "showdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/sakobume/react-to-rust-no-trycatch-1goa",
+      "title": "React to Rust, no try/catch",
+      "summary": "I built three libraries independently. When I put them in the same project, the boundaries between them disappeared. This is what was left.\n\nThe path: a click in a React form, through schema validation, into a Rust solver running in WebAssembly, back through a typed Result, and out to a rendered por",
+      "date_published": "2026-05-09",
+      "tags": [
+        "rust",
+        "typescript",
+        "webassembly",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/hemanth_s_96baf26aff7eaad/lessons-from-the-build-with-ai-workshop-in-belagavi-4hj3",
+      "title": "Lessons from the Build with AI Workshop in Belagavi 🚀",
+      "summary": "I recently attended the Build with AI workshop hosted by GDG Belagavi, and it was an incredible deep dive into the Google AI ecosystem. We explored the transition from simple prompts to full-stack AI workflows.\nKey takeaways included:\nRAG with Gemini: Learning how to ground AI systems on custom data",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "gemini",
+        "googlecloud",
+        "rag"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/edhiblemeer/build-in-public-day-15-gsc-clicks-74x-impressions-96x-in-15-days-full-data-disclosure-5e20",
+      "title": "Build-in-Public Day 15: GSC clicks 7.4x, impressions 9.6x in 15 days — full data disclosure",
+      "summary": "I just hit Day 15 of an AI-driven Build-in-Public push for Tasteck, a vertical SaaS I run. Sharing the actual numbers because most \"Build-in-Public works for SEO\" claims you see online lack data.\n\n\n  \n  \n  TL;DR — 15 days, 4/24 → 5/8\n\n\n\n\n\nMetric (28-day total)\n4/23 baseline\n5/8 (Day 15)\nChange\n\n\n\n\nC",
+      "date_published": "2026-05-09",
+      "tags": [
+        "analytics",
+        "buildinpublic",
+        "marketing",
+        "saas"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests",
+      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "summary": "Article URL: https://www.nhtsa.gov/press-releases/tesla-model-y-first-vehicle-pass-nhtsa-new-advanced-driver-assistance-system-tests\nComments URL: https://news.ycombinator.com/item?id=48070115\nPoints: 41\n# Comments: 29",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -83,7 +195,29 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
+      "id": "015",
+      "url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
+      "title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
+      "summary": "Article URL: https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging\nComments URL: https://news.ycombinator.com/item?id=48069192\nPoints: 149\n# Comments: 103",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "016",
+      "url": "https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/",
+      "title": "Non-determinism is an issue with patching CVEs",
+      "summary": "Article URL: https://flox.dev/blog/achieving-rapid-cve-remediation-in-an-era-of-escalating-vulnerabilities/\nComments URL: https://news.ycombinator.com/item?id=48068947\nPoints: 37\n# Comments: 12",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "017",
       "url": "https://www.mux.com/jobs",
       "title": "Mux (YC W16) Is Hiring",
       "summary": "Article URL: https://www.mux.com/jobs\nComments URL: https://news.ycombinator.com/item?id=48068732\nPoints: 0\n# Comments: 0",
@@ -94,10 +228,21 @@
       "_source": "Hacker News"
     },
     {
-      "id": "009",
+      "id": "018",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
+      "title": "When is your birthday? The math behind hash collisions",
+      "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 20\n# Comments: 2",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
       "url": "https://theoffingmag.com/essay/roadside-attraction/",
       "title": "Roadside Attraction",
-      "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/\nComments URL: https://news.ycombinator.com/item?id=48067764\nPoints: 16\n# Comments: 3",
+      "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/\nComments URL: https://news.ycombinator.com/item?id=48067764\nPoints: 17\n# Comments: 3",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -105,10 +250,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "010",
+      "id": "020",
       "url": "https://ze3tar.github.io/post-zcrx.html",
       "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 107\n# Comments: 67",
+      "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 142\n# Comments: 87",
       "date_published": "2026-05-08",
       "tags": [
         "Hacker News"
@@ -116,7 +261,29 @@
       "_source": "Hacker News"
     },
     {
-      "id": "011",
+      "id": "021",
+      "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 635\n# Comme",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://www.anthropic.com/research/teaching-claude-why",
+      "title": "Teaching Claude Why",
+      "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 92\n# Comments: 26",
+      "date_published": "2026-05-08",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
       "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
@@ -133,7 +300,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/08/san-franciscos-housing-market-has-lost-its-mind/",
       "title": "San Francisco’s housing market has lost its mind",
       "summary": "The invisible force behind all of this is no mystery to anyone paying attention to the city's tech economy. San Francisco is home to some of the most valuable private companies in the world, and their employees have been quietly accumulating — and, increasingly, cashing out — fortunes.",
@@ -146,7 +313,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/08/prime-video-follows-netflix-and-disney-by-adding-a-tiktok-like-clips-feed-in-its-app/",
       "title": "Prime Video follows Netflix and Disney by adding a TikTok-like ‘Clips’ feed in its app",
       "summary": "The Clips feed aims to enable discovery by offering users a scrollable feed with short snippets of shows and movies.",
@@ -161,7 +328,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
       "title": "Intel’s comeback story is even wilder than it seems",
       "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
@@ -180,7 +347,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
       "summary": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles.",
@@ -195,7 +362,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/08/porsche-shutters-e-bike-battery-software-subsidiaries-as-part-of-company-overhaul/",
       "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul",
       "summary": "More than 500 people will be affected by the closures. “We must refocus on our core business,” Porsche CEO and executive chair Michael Leiters said in a statement. \"This is the indispensable foundation for a successful strategic realignment. This forces us to make painful cuts — including our subsid",
@@ -209,7 +376,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/08/mother-ventures-is-looking-at-moms-as-the-economic-engine/",
       "title": "Mother Ventures is looking at moms as the ‘economic engine’",
       "summary": "The VC firm, which focuses on mothers as consumers, raised a $10 million debut fund.",
@@ -224,7 +391,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/08/uber-partner-avride-is-under-investigation-for-self-driving-crashes/",
       "title": "Uber partner Avride is under investigation for self-driving crashes",
       "summary": "The National Highway Traffic Safety Administration has opened an investigation into Avride after identifying more than a dozen crashes and one minor injury.",
@@ -240,188 +407,6 @@
         "Uber"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://techcrunch.com/2026/05/08/poland-says-hackers-breached-water-treatment-plants-and-the-u-s-is-facing-the-same-threat/",
-      "title": "Poland says hackers breached water treatment plants, and the US is facing the same threat",
-      "summary": "A report by Poland’s top intelligence agency accused Russia of sabotage and hacking activities against the country’s military and civilian infrastructure.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Security"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/08/u-s-defense-contractor-who-sold-hacking-tools-to-russian-broker-ordered-to-pay-10-million-to-former-employers/",
-      "title": "US defense contractor who sold hacking tools to Russian broker ordered to pay $10M to former employers",
-      "summary": "Former cybersecurity executive Peter Williams stole several surveillance and hacking tools and sold them for $1.3 million to a Russian broker that works with Putin’s government.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "L3Harris",
-        "Peter Williams"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://techcrunch.com/2026/05/08/pentagon-releases-ufo-files-on-new-website/",
-      "title": "Pentagon releases UFO files on new website",
-      "summary": "The initial set of files housed on the site will include those containing unidentified anomalous phenomena (UAP) videos, photos, and original source documents from across the entire U.S. government. The materials have been reviewed for security purposes, but many have \"not yet been analyzed for reso",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Government & Policy",
-        "aliens",
-        "Defense Department",
-        "pentagon",
-        "UFO"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "022",
-      "url": "https://techcrunch.com/2026/05/08/truecaller-slashes-70-jobs-amid-declining-ad-sales/",
-      "title": "Truecaller slashes 70 jobs amid declining ad sales",
-      "summary": "Truecaller's ad revenue declined by 44%, leading to the layoffs.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Apps",
-        "India",
-        "Layoffs",
-        "Truecaller"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "023",
-      "url": "https://techcrunch.com/2026/05/08/live-only-at-techcrunch-disrupt-2026-why-most-founders-are-already-behind-on-raising-a-series-a-in-2027/",
-      "title": "Live only at TechCrunch Disrupt 2026: Why most founders are already behind on raising a Series A in 2027",
-      "summary": "Learn what it takes to build a Series A in 2027 from top VCs at TechCrunch Disrupt 2026, taking place at San Francisco’s Moscone West on October 13-15. Register today to hear this session live on the Builders Stage.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Startups",
-        "Fundraising",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "summary": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Startups",
-        "Hardware",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "AI",
-        "Apps",
-        "Robotics",
-        "Fundraising",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/08/lime-the-uber-backed-micromobility-company-files-for-ipo/",
-      "title": "Lime, the Uber-backed micromobility company, files for IPO",
-      "summary": "After years of hints and preparation, Lime plans to enter the public markets. The company intends to list on ​Nasdaq under the ticker symbol \"LIME.\" Lime did not share terms of the offering.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Transportation",
-        "IPO",
-        "JUMP",
-        "lime",
-        "micromobility",
-        "Uber"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/08/the-biggest-u-s-power-grid-is-under-strain-from-ai-and-no-one-is-happy/",
-      "title": "The biggest US power grid is under strain from AI — and no one is happy",
-      "summary": "PJM Interconnection — which oversees the grid for some of the densest data center developments on Earth — wants to overhaul itself. Not everyone thinks it's up to the task.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Climate",
-        "data centers",
-        "electrical grid"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/08/airbnb-says-ai-now-writes-60-of-its-new-code/",
-      "title": "Airbnb says AI now writes 60% of its new code",
-      "summary": "Airbnb also said its customer support AI bot now handles 40% of issues without escalating to a human agent.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Commerce",
-        "Real estate",
-        "ai coding",
-        "Airbnb",
-        "travel tech"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried abo",
-      "date_published": "2026-05-08",
-      "tags": [
-        "AI",
-        "Biotech & Health",
-        "TC",
-        "Aileen Lee",
-        "Basata",
-        "Basis Set Ventures",
-        "cowboy ventures",
-        "Sofeon",
-        "Victoria Treyger"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/",
-      "title": "Trump reportedly plans to fire FDA Commissioner Marty Makary",
-      "summary": "The plan isn't final and could change, but his ouster would be no surprise.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Health",
-        "fda",
-        "makary",
-        "Trump"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/",
-      "title": "ABC refuses to capitulate to Trump admin, fights FCC probe into The View",
-      "summary": "FCC chair hasn't been able to bully ABC and owner Disney into submission.",
-      "date_published": "2026-05-08",
-      "tags": [
-        "Policy",
-        "ABC",
-        "brendan carr",
-        "FCC",
-        "The View",
-        "Trump"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
