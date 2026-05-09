@@ -7,116 +7,19 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 17\n# Comments: 6",
+      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
+      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
+      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
       "date_published": "2026-05-09",
       "tags": [
-        "Hacker News"
+        "Government & Policy",
+        "Privacy",
+        "Transportation"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "002",
-      "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
-      "title": "Introduction to Beaver Triples",
-      "summary": "Article URL: https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples\nComments URL: https://news.ycombinator.com/item?id=48076009\nPoints: 6\n# Comments: 2",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "title": "PipeDream on the Acorn Archimedes",
-      "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 49\n# Comments: 14",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "summary": "Article URL: https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/\nComments URL: https://news.ycombinator.com/item?id=48075144\nPoints: 118\n# Comments: 33",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
-      "url": "https://mochijs.com/",
-      "title": "Show HN: Mochi.js: bun-native high-fidelity browser automation library",
-      "summary": "Hi HN,I’m sharing mochi.js (https://github.com/0xchasercat/mochi), a Bun-native, raw-CDP browser automation framework. It's designed to make programmatic browser use more effective by focusing on consistency and measured parity with regular traffic, purely from the JS layer, against stock Chromium.T",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
-      "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-      "summary": "Article URL: https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/\nComments URL: https://news.ycombinator.com/item?id=48074952\nPoints: 115\n# Comments: 64",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
-      "title": "Read Programming as Theory Building",
-      "summary": "Article URL: https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/\nComments URL: https://news.ycombinator.com/item?id=48074829\nPoints: 67\n# Comments: 11",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
-      "url": "https://internetarchive.ch/",
-      "title": "Internet Archive Switzerland",
-      "summary": "Article URL: https://internetarchive.ch/\nComments URL: https://news.ycombinator.com/item?id=48074265\nPoints: 327\n# Comments: 48",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/",
-      "title": "Killswitch: Per-function short-circuit mitigation primitive",
-      "summary": "Article URL: https://lwn.net/ml/all/20260507070547.2268452-1-sashal@kernel.org/\nComments URL: https://news.ycombinator.com/item?id=48073394\nPoints: 62\n# Comments: 13",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
-      "url": "https://arxiv.org/abs/2604.15597",
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "summary": "Article URL: https://arxiv.org/abs/2604.15597\nComments URL: https://news.ycombinator.com/item?id=48073246\nPoints: 209\n# Comments: 73",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "011",
       "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
       "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
       "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
@@ -131,7 +34,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "003",
       "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
       "title": "Nvidia has already committed $40B to equity AI deals this year",
       "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
@@ -145,7 +48,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "004",
       "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
       "title": "The new Wild West of AI kids’ toys",
       "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
@@ -160,7 +63,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "014",
+      "id": "005",
       "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
       "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
       "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it’s on sale at Woot ",
@@ -175,7 +78,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "015",
+      "id": "006",
       "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
       "title": "These great digital gifts will arrive just in time for Mother’s Day",
       "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely aren’t alone in feeling guilty for considering digital gifts instead of something ",
@@ -188,7 +91,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "016",
+      "id": "007",
       "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
       "title": "Let it snow",
       "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow.",
@@ -201,7 +104,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "017",
+      "id": "008",
       "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
       "title": "The game that makes me actually want to exercise",
       "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
@@ -215,7 +118,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "018",
+      "id": "009",
       "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
       "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
       "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
@@ -228,7 +131,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "019",
+      "id": "010",
       "url": "https://www.wired.com/gallery/best-captioning-glasses/",
       "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
       "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
@@ -251,7 +154,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "011",
       "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
       "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
@@ -277,7 +180,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "012",
       "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
       "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
       "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
@@ -302,7 +205,7 @@
       "_source": "Wired"
     },
     {
-      "id": "022",
+      "id": "013",
       "url": "https://www.wired.com/story/instacart-promo/code/",
       "title": "Instacart Promo Code: $15 Off | May 2026",
       "summary": "Find the best Instacart promo code for massive savings in May 2026",
@@ -317,7 +220,7 @@
       "_source": "Wired"
     },
     {
-      "id": "023",
+      "id": "014",
       "url": "https://www.wired.com/story/hellofresh-coupon/",
       "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
       "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
@@ -332,7 +235,7 @@
       "_source": "Wired"
     },
     {
-      "id": "024",
+      "id": "015",
       "url": "https://www.wired.com/story/blue-apron-coupon/",
       "title": "50% Off Blue Apron Promo Codes | May 2026",
       "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
@@ -346,7 +249,7 @@
       "_source": "Wired"
     },
     {
-      "id": "025",
+      "id": "016",
       "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
       "title": "T-Mobile Promo Codes: 25% Off | May",
       "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
@@ -361,7 +264,7 @@
       "_source": "Wired"
     },
     {
-      "id": "026",
+      "id": "017",
       "url": "https://www.wired.com/story/logitech-promo-code/",
       "title": "Logitech Promo Codes and Deals: Up to $100 Off",
       "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
@@ -375,7 +278,7 @@
       "_source": "Wired"
     },
     {
-      "id": "027",
+      "id": "018",
       "url": "https://www.wired.com/story/western-digital-promo-code/",
       "title": "Western Digital Promo Code: 15% Off",
       "summary": "Get 15% off your first order at Western Digital when you register your email.",
@@ -389,7 +292,7 @@
       "_source": "Wired"
     },
     {
-      "id": "028",
+      "id": "019",
       "url": "https://www.wired.com/story/shed-rain-coupon/",
       "title": "Exclusive Shed Rain Coupon: 15% Off",
       "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
@@ -403,7 +306,7 @@
       "_source": "Wired"
     },
     {
-      "id": "029",
+      "id": "020",
       "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
       "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
       "summary": "Here is a scenario that should concern every enterprise architect shipping autonomous AI systems right now: An observability agent is running in production. Its job is to detect infrastructure anomalies and trigger the appropriate response. Late one night, it flags an elevated anomaly score across a",
@@ -415,16 +318,139 @@
       "_source": "VentureBeat"
     },
     {
-      "id": "030",
-      "url": "https://dev.to/devrio/i-built-a-tool-to-generate-academic-pdfs-from-markdown-without-installing-latex-5f80",
-      "title": "I built a tool to generate academic PDFs from Markdown without installing LaTeX",
-      "summary": "I built a tool to generate academic PDFs from Markdown without \ninstalling LaTeX on your system. LaTeX, Pandoc, and all dependencies \nrun isolated inside a Docker container.\n\nThe tool works via command line, but you don't need to memorize any \ncommands. It's similar to using btop or htop in the term",
+      "id": "021",
+      "url": "https://dev.to/ikoh_sylva/running-grafana-on-aws-ecs-fargate-p9g",
+      "title": "Running Grafana on AWS ECS (Fargate)",
+      "summary": "At some point in your cloud journey, you move beyond just deploying servers…\n\n…and start thinking about observability.\n\nBecause building systems is one thing.\n\nUnderstanding how they behave in real time is another.\n\nThat’s where tools like Grafana come in.\n\nIn this guide, I’ll walk you through how I",
       "date_published": "2026-05-09",
       "tags": [
-        "python",
-        "opensource",
-        "docker",
-        "showdev"
+        "cloud",
+        "cloudcomputing",
+        "aws",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "022",
+      "url": "https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg",
+      "title": "Your RAG can't answer 'why' -- GraphRAG finds what vector search misses",
+      "summary": "The question that broke my RAG pipeline\n\n\nI had a solid RAG setup. Embeddings, vector store, top-k retrieval, the whole thing. It handled factual lookups just fine: \"What's the API rate limit?\" \"Which config file controls logging?\" Quick, accurate, done.\n\nThen a teammate asked: \"What technical chall",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "rag",
+        "graphrag",
+        "programming"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "023",
+      "url": "https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85",
+      "title": "How We Forecast Pollen at Planetary Scale",
+      "summary": "Most pollen apps show you a single number: \"high.\" That's not very useful if you're allergic to birch but not oak. We built Atmospore to forecast pollen at the species level, globally,\n  updated daily. Here's how it works.\n\n  \n  \n  Why 25 km resolution is the right call\n\n\nOur model runs at roughly 2",
+      "date_published": "2026-05-09",
+      "tags": [
+        "api",
+        "healthtech",
+        "pollen",
+        "allergy"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
+      "url": "https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2",
+      "title": "half of x402 volume is gamified — agents need proof-of-real-payment",
+      "summary": "artemis published on-chain analysis this week suggesting that roughly half of observed x402 transactions reflect artificial activity — gamified transactions rather than genuine commerce.\n\nthat's a fair critique, and it's exactly why agents need proof-of-real-payment.\n\nhere's the problem: if the agen",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "reputation",
+        "payments"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "025",
+      "url": "https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin",
+      "title": "LangChain issue requests EU AI Act audit logging — frameworks need this now",
+      "summary": "langchain has an open github issue (35357) requesting structured compliance audit logging for eu ai act article 12. the issue is still open. frameworks don't ship this yet.\n\nthe compliance deadline is august 2, 2026 — less than 3 months away.\n\nhere's what article 12 requires:\n\n\nautomatic recording o",
+      "date_published": "2026-05-09",
+      "tags": [
+        "compliance",
+        "ai",
+        "langchain"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "026",
+      "url": "https://dev.to/kenny_kay/from-procrastination-to-progress-4-years-to-finally-get-web-development-4k1b",
+      "title": "From Procrastination to Progress: 4 Years to Finally \"Get\" Web Development",
+      "summary": "I first started web development in 2022. Fresh out of university, surrounded by developers, I had every resource at my fingertips, but somehow, I didn't grasp the whole point of it. I started courses, both paid and free, and joined programs like ALX, but did not finish. \nFast forward to today: I am ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "webdev",
+        "beginners",
+        "programming",
+        "careerchange"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "027",
+      "url": "https://dev.to/kashafabdullah/from-raw-text-to-formatted-word-doc-in-your-drive-b0e",
+      "title": "From Raw Text to Formatted Word Doc in Your Drive",
+      "summary": "Building a Serverless Notes App\n\n\nI wanted a simple tool where I could paste raw text and have it automatically saved as a formatted Word document in my Google Drive – no server, no database, just a clean React app. That's how Notes to Drive was born.\n\n\n  \n  \n  The Problem\n\n\nMost note taking apps ar",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "googledrive"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "028",
+      "url": "https://dev.to/petediano/beyond-vector-search-why-graphrag-is-the-next-frontier-for-llms-23e3",
+      "title": "Beyond Vector Search: Why GraphRAG is the Next Frontier for LLMs",
+      "summary": "Beyond Vector Search: Why GraphRAG is the Next Frontier for LLMs\n\n\nFor the past year, the industry standard for augmenting LLMs has been Retrieval-Augmented Generation (RAG) using vector databases. We chunk documents, embed them into vectors, and perform similarity searches. But as projects grow in ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "ai",
+        "software",
+        "tech"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "029",
+      "url": "https://dev.to/t49qnsx7qtkpanks/three-drone-fleets-one-airspace-no-proof-of-presence-2egi",
+      "title": "three drone fleets, one airspace, no proof-of-presence",
+      "summary": "may 8 - amazon prime air pushed into metro atlanta. it's the same airspace where walmart-via-zipline + alphabet's wing are already operating. three commercial drone delivery fleets, one urban airspace.\n\nthat's the moment proof-of-presence stops being theory.\n\n\n  \n  \n  the new liability question\n\n\na ",
+      "date_published": "2026-05-09",
+      "tags": [
+        "drones",
+        "gridstamp",
+        "bvlos",
+        "gps"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "030",
+      "url": "https://dev.to/t49qnsx7qtkpanks/the-imf-says-agent-payments-break-kyc-theyre-right-3g0k",
+      "title": "the imf says agent payments break kyc. they're right.",
+      "summary": "april 22 - the imf published a note titled 'how agentic ai will reshape payments'. the core claim - ai agents executing payments expose gaps in kyc and mfa, both of which rely on explicit human action.\n\nwhen a central bank publication says it, that's the thesis going mainstream.\n\n\n  \n  \n  why the ex",
+      "date_published": "2026-05-09",
+      "tags": [
+        "imf",
+        "payments",
+        "kyc",
+        "mnemopay"
       ],
       "_source": "Dev.to"
     }
