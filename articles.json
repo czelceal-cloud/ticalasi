@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying",
-    "summary": "Article URL: https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying\nComments URL: https://news.ycombinator.com/item?id=48072671\nPoints: 13\n# Comments: 0",
-    "url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
+    "title": "All my clients wanted a carousel, now it's an AI chatbot",
+    "summary": "Article URL: https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md\nComments URL: https://news.ycombinator.com/item?id=48072720\nPoints: 86\n# Comments: 34",
+    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
@@ -13,7 +13,7 @@
   {
     "id": "002",
     "title": "EU calls VPNs \"a loophole that needs closing\" in age verification push",
-    "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 106\n# Comments: 51",
+    "summary": "Article URL: https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/\nComments URL: https://news.ycombinator.com/item?id=48072190\nPoints: 202\n# Comments: 145",
     "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 94\n# Comments: 45",
+    "summary": "Examples: https://thariqs.github.io/html-effectiveness/Related: https://simonwillison.net/2026/May/8/unreasonable-effectiven...\n\nComments URL: https://news.ycombinator.com/item?id=48071940\nPoints: 134\n# Comments: 78",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -34,19 +34,8 @@
   },
   {
     "id": "004",
-    "title": "Over 97% of the 'Linux' Foundation's Budget Goes Not to Linux",
-    "summary": "Article URL: https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml\nComments URL: https://news.ycombinator.com/item?id=48071496\nPoints: 126\n# Comments: 55",
-    "url": "https://techrights.org/n/2026/05/08/Over_97_of_the_Linux_Foundation_s_Budget_Goes_Not_to_Linux.shtml",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
     "title": "A recent experience with ChatGPT 5.5 Pro",
-    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 209\n# Comments: 94",
+    "summary": "https://twitter.com/wtgowers/status/2052830948685676605https://xcancel.com/wtgowers/status/2052830948685676605\n\nComments URL: https://news.ycombinator.com/item?id=48071262\nPoints: 297\n# Comments: 153",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -55,7 +44,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "005",
     "title": "Instacart Promo Code: $15 Off | May 2026",
     "summary": "Find the best Instacart promo code for massive savings in May 2026",
     "url": "https://www.wired.com/story/instacart-promo/code/",
@@ -70,7 +59,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "006",
     "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
     "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
     "url": "https://www.wired.com/story/hellofresh-coupon/",
@@ -85,7 +74,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "007",
     "title": "50% Off Blue Apron Promo Codes | May 2026",
     "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
     "url": "https://www.wired.com/story/blue-apron-coupon/",
@@ -99,7 +88,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "008",
     "title": "T-Mobile Promo Codes: 25% Off | May",
     "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
     "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
@@ -114,7 +103,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "009",
     "title": "Logitech Promo Codes and Deals: Up to $100 Off",
     "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
     "url": "https://www.wired.com/story/logitech-promo-code/",
@@ -128,7 +117,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "010",
     "title": "Western Digital Promo Code: 15% Off",
     "summary": "Get 15% off your first order at Western Digital when you register your email.",
     "url": "https://www.wired.com/story/western-digital-promo-code/",
@@ -142,7 +131,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "011",
     "title": "Exclusive Shed Rain Coupon: 15% Off",
     "summary": "Get 15% off functional, fashionable umbrellas with our exclusive Shed Rain discount code.",
     "url": "https://www.wired.com/story/shed-rain-coupon/",
@@ -156,171 +145,177 @@
     ]
   },
   {
-    "id": "013",
-    "title": "shk: A Local-First Security Guardrail CLI for AI Coding Agents",
-    "summary": "Secret scanning often starts at Git. AI coding agents can make that too late.\n\nThey can read local files, summarize logs, run commands, and transform sensitive context before anything is committed. shk is a local-first CLI for that messy pre-commit space: scan secrets and PII, mask prompts, and inst",
-    "url": "https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5",
+    "id": "012",
+    "title": "🚀 Por fin he creado mi web personal",
+    "summary": "Durante muchos años fui bastante reacio a crear una web personal o un portfolio.\n\nNo porque no me gustase desarrollar cosas — de hecho, llevo años creando aplicaciones, experimentando con tecnologías frontend y backend, diseñando interfaces y aprendiendo constantemente — sino porque siempre tenía la",
+    "url": "https://dev.to/sergiosuarezgil/por-fin-he-creado-mi-web-personal-2iin",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "programming",
-      "productivity",
-      "opensource"
+      "webdev",
+      "portfolio",
+      "html",
+      "programming"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "How I Built a Chrome Extension That Brings AI to Every Text Field",
+    "summary": "The Problem: Context Switching Kills Productivity\n\n\nAs a developer, I found myself constantly switching between my browser tabs — writing code in GitHub, drafting emails in Gmail, editing documents in Notion — and copy-pasting every snippet into ChatGPT for help. This context switching wasn't just a",
+    "url": "https://dev.to/_b2ca115ab3df28000479f/how-i-built-a-chrome-extension-that-brings-ai-to-every-text-field-j09",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "typescript",
+      "webdev",
+      "javascript",
+      "chrome"
     ]
   },
   {
     "id": "014",
-    "title": "The Vault That Stays Open: Microsoft Edge",
-    "summary": "Not in the Brief, Episode 02\n\nOpen Microsoft Edge. The browser silently decrypts every password it has ever saved for you, and keeps the entire collection in process memory, in cleartext, for as long as the browser is running. The credentials for the site you visit today are decrypted; so are the cr",
-    "url": "https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj",
+    "title": "SGCC, ANSI Z97.1, and EnduroShield: How Unikoo Glass Is Certified Safe for Every Bathroom",
+    "summary": "\"Tempered glass\" appears on almost every shower door listing. The label alone tells you very little. What matters is whether the tempering process was independently verified — and what happens to the glass if it ever breaks.\n\n\n\nHow Tempered Glass Actually Works\nStandard glass breaks into long, jagge",
+    "url": "https://dev.to/unikoo/sgcc-ansi-z971-and-enduroshield-how-unikoo-glass-is-certified-safe-for-every-bathroom-2e6k",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "edge",
-      "security",
-      "microsoft",
-      "awareness"
+      "buildinpublic",
+      "webdev",
+      "database"
     ]
   },
   {
     "id": "015",
-    "title": "Tips to use AI more effectively",
-    "summary": "If you’re a developer trying to use AI more effectively, here are 3 things that actually helped me:\n\n\nTreat AI like a junior teammate\n  Give context, constraints, and expected output — not just one-line prompts.\nIterate, don’t expect perfection\n  The first response is rarely the best. Refinement is ",
-    "url": "https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj",
+    "title": "Stop Writing Clean Code. Write Honest Code Instead.",
+    "summary": "There is a codebase out there with a simple \"send an email\" operation that goes through seven layers of abstraction.\n\nAn EmailService that uses an EmailProvider that wraps an EmailClient that calls an EmailAdapter that uses a MessageSender that invokes a TransportLayer that finally, after all of tha",
+    "url": "https://dev.to/web_dev-usman/stop-writing-clean-code-write-honest-code-instead-18ek",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "career",
+      "webdev",
+      "programming",
       "productivity",
-      "programming"
+      "coding"
     ]
   },
   {
     "id": "016",
-    "title": "💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖",
-    "summary": "A comprehensive, opinionated guide for engineers entering the new era of tech interviews — where AI tools are permitted (or expected), and interviewers evaluate not just what you build, but how you think, prompt, verify, and ship with AI as a co-pilot. Covers mindset, formats, preparation strategies",
-    "url": "https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh",
+    "title": "One API Call to Audit Any Domain's Email Security",
+    "summary": "You know the drill. A customer complains their transactional emails land in spam. Or a B2B trial signup uses a throwaway address. Or someone asks \"do we have DMARC set up correctly?\" and you open ten browser tabs to find out.\n\nI built MailSec to replace that entire workflow with one API call.\n\n\n  \n ",
+    "url": "https://dev.to/lgogolin/one-api-call-to-audit-any-domains-email-security-2b6k",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "ai",
       "webdev",
-      "productivity",
-      "tutorial"
+      "security",
+      "api",
+      "devops"
     ]
   },
   {
     "id": "017",
-    "title": "Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys",
-    "summary": "Originally published at hafiz.dev\n\n\n\n\n\nFor a long time, adding passkeys to a Laravel app meant reaching for a third-party package, assembling WebAuthn ceremonies by hand, or piecing together a tutorial that assumes you already know what a \"relying party ID\" is. That's done.\n\nIn late April 2026, Lara",
-    "url": "https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151",
+    "title": "Add a 3-Sat Pay-to-Skip Tier to Your Self-Hosted CAPTCHA",
+    "summary": "Your CAPTCHA is good at stopping bots. But it stops real users too. The ones who are in a hurry, on mobile, or just sick of clicking traffic lights. Here is a way to let the real ones skip it for 3 sats.\n\nThree sats. About a third of a cent. Enough to filter automation running at scale. Cheap enough",
+    "url": "https://dev.to/zekebuilds/add-a-3-sat-pay-to-skip-tier-to-your-self-hosted-captcha-53bp",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "laravel",
-      "authentication",
-      "security",
-      "passkeys"
+      "javascript",
+      "captcha",
+      "lightning",
+      "l402"
     ]
   },
   {
     "id": "018",
-    "title": "\"My Team Had GCP Credits. Claude Code Wanted an Anthropic Key.\"",
-    "summary": "I already had Google Cloud billing.\n\nI did not want another API key, another quota surface, and another place to explain to my team why the coding tool bill was showing up somewhere else.\n\nThe annoying part was that Claude Code speaks Anthropic's Messages API, while the budget I wanted to use was si",
-    "url": "https://dev.to/codekingai/my-team-had-gcp-credits-claude-code-wanted-an-anthropic-key-42bm",
+    "title": "Pathfinding Algorithms [2D simulation : A*, Dijkstra, GBFS]",
+    "summary": "What is the most significant trade-off in selecting a pathfinding algorithm for an automated navigation system?\n\nThe Three Algorithms I Tested\n\nI implemented three classic algorithms in Python using Pygame:\n\n1. Dijkstra's Algorithm\n\n\nExplores uniformly in all directions\nGuarantees the absolute short",
+    "url": "https://dev.to/memrys/pathfinding-algorithms-2d-simulation-a-dijkstra-gbfs-2c5d",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "tutorial",
-      "webdev",
-      "ai",
-      "javascript"
+      "pathfinding",
+      "python",
+      "algorithms"
     ]
   },
   {
     "id": "019",
-    "title": "I Found LeetCode for Software Design, and It’s Awesome",
-    "summary": "Disclosure: This post includes affiliate links; I may receive compensation if you purchase products or services from the different links provided in this article.\n\n\n\nIf you're preparing for FAANG interviews, you already know that Data Structures & Algorithms (DSA) and System Design are the two criti",
-    "url": "https://dev.to/somadevtoo/i-found-leetcode-for-software-design-and-its-awesome-4k4d",
+    "title": "The Rise of the Swarm: Mastering AI Agent Architectures 🐝",
+    "summary": "In 2026, we’ve moved past the \"single chatbot\" era. The most powerful AI systems today don't just talk; they coordinate. Whether you’re a beginner looking to understand the \"magic\" or an expert architecting the next enterprise-scale system, understanding Swarm Intelligence is your next level-up.\n\n\n ",
+    "url": "https://dev.to/syed_mehrab_08fb0419feedf/the-rise-of-the-swarm-mastering-ai-agent-architectures-2fc5",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "softwaredevelopment",
-      "systemdesign",
-      "leetcode",
-      "programming"
+      "agents",
+      "ai",
+      "architecture",
+      "llm"
     ]
   },
   {
     "id": "020",
-    "title": "Perplexity Computer: An Honest Look at the Hype",
-    "summary": "What We Set Out to Build\n\n\nThe pitch for Perplexity Computer is genuinely interesting: multi-agent workflow creation inside the same app you already use for search, no external tooling required. When I first saw it surface in early 2025, my immediate question wasn't \"is this cool?\" It was \"does it a",
-    "url": "https://dev.to/forgeflows/perplexity-computer-an-honest-look-at-the-hype-4339",
+    "title": "I Built 10 AI Applications in 5 Days as a Beginner — Here's What Actually Happened",
+    "summary": "Four days ago I was reading about what an API is.\n\nBy day four I had a working RAG application running locally on my machine — one that could answer questions using documents I fed it, without sending anything to an external server.\n\nI'm still not sure how that happened. But I want to write it down ",
+    "url": "https://dev.to/mohan-01/i-built-10-ai-applications-in-5-days-as-a-beginner-heres-what-actually-happened-19ke",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "perplexitycomputer",
-      "nocodeai",
-      "multiagentworkflows",
-      "automationtools"
+      "ai",
+      "webdev",
+      "python",
+      "beginners"
     ]
   },
   {
     "id": "021",
-    "title": "Building a Reusable VPC, Subnets, and Firewall Rules Module",
-    "summary": "In the previous Terraform labs, I created Google Cloud resources directly from the root configuration.\n\nThat worked, but the structure was still quite simple.\n\nEvery resource was defined directly inside the main Terraform configuration. For a small lab, that is fine. But as the infrastructure grows,",
-    "url": "https://dev.to/abrahamparn/building-a-reusable-vpc-subnets-and-firewall-rules-module-10p8",
+    "title": "How I Deployed FastAPI to EC2 with HTTPS Using API Gateway",
+    "summary": "Intro\n\n\nI wanted to deploy my FastAPI backend on AWS EC2 and get a proper HTTPS URL without dealing with SSL certificates manually. Turns out API Gateway handles all of that for you — but getting there wasn't as smooth as I expected. Here's everything I went through, including the parts where I got ",
+    "url": "https://dev.to/blumenbluu/how-i-deployed-fastapi-to-ec2-with-https-using-api-gateway-2gb5",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "terraform",
-      "googlecloud",
-      "devops",
-      "infrastructure"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Lab 12 - Telnet and SSH ( I Captured My Own Password in Wireshark — Here's What Telnet Taught Me About Network Security )",
-    "summary": "There's a moment in networking that changes how you think about protocols forever.\n\nYou type a password into a terminal. Then you open Wireshark, follow a TCP stream, and there it is — your password, sitting in plain text, completely readable by anyone on the network.\n\nThat's Telnet. And that's exac",
-    "url": "https://dev.to/almahmudkhalif/lab-12-telnet-and-ssh-i-captured-my-own-password-in-wireshark-heres-what-telnet-taught-me-3dn3",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "networking",
-      "cybersecurity",
-      "ssh",
-      "telnet"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "How to Use HeyHTML Editor: A Complete Guide to the Visual HTML Editor (Drag & Drop)",
-    "summary": "Welcome to HeyHTML — a WYSIWYG HTML editor that runs right in your browser. Build web pages by dragging, dropping, and clicking, just like making a slide deck — no coding required.\n\nHeyHTML packs a lot of features and keyboard shortcuts into a compact interface. If you're using it for the first time",
-    "url": "https://dev.to/xxchen/how-to-use-heyhtml-editor-a-complete-guide-to-the-visual-html-editor-drag-drop-1g8a",
-    "date": "2026-05-09",
-    "source": "Dev.to",
-    "tags": [
-      "html",
-      "nocode",
-      "tooling",
+      "api",
+      "aws",
+      "python",
       "tutorial"
     ]
   },
   {
-    "id": "024",
-    "title": "Analyzing Steam Games 2025: Genres, Players and User Ratings",
-    "summary": "As part of my Master in Data Science & AI at Evolve, I worked on a data analysis project using a real Steam games dataset from 2025.\n\nThe goal of the project was to practice the full workflow of a data analysis project: understanding the dataset, cleaning it, transforming variables, creating visuali",
-    "url": "https://dev.to/evolve-space/analyzing-steam-games-2025-genres-players-and-user-ratings-556d",
+    "id": "022",
+    "title": "How DNS Resolution Works: From `dig . NS` to Your Browser Loading Google",
+    "summary": "Every time you type google.com into a browser, something remarkable happens in milliseconds — a global, distributed lookup system translates that human-readable name into a machine-readable IP address. No single server handles this. No central database stores it all.\n\nThis is DNS, and understanding ",
+    "url": "https://dev.to/janmejaisingh/how-dns-resolution-works-from-dig-ns-to-your-browser-loading-google-3a6j",
     "date": "2026-05-09",
     "source": "Dev.to",
     "tags": [
-      "python",
-      "datascience",
-      "pandas",
-      "jupyter"
+      "dns",
+      "networking",
+      "webdev",
+      "linux"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "AI Text Detector – CPU-first approach to AI-generated text detection",
+    "summary": "I built an open-source AI text detector that ranks #14 on the RAID benchmark and #1 among CPU-only solutions. No GPU required.\n\nhttps://github.com/xuzhenpeng263/ai-text-detector\n\n\n  \n  \n  Why this matters\n\n\nBig Tech is approaching AI detection all wrong. They're throwing massive compute at the probl",
+    "url": "https://dev.to/_37e77171e5c2e50210f28/ai-text-detector-cpu-first-approach-to-ai-generated-text-detection-142n",
+    "date": "2026-05-09",
+    "source": "Dev.to",
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "How sunburn inspired a new way to store energy",
+    "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating.",
+    "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-09",
+    "source": "BBC News",
+    "tags": [
+      "BBC News"
     ]
   },
   {
@@ -337,7 +332,7 @@
   {
     "id": "026",
     "title": "When is your birthday? The math behind hash collisions",
-    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 41\n# Comments: 8",
+    "summary": "Article URL: https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html\nComments URL: https://news.ycombinator.com/item?id=48068254\nPoints: 46\n# Comments: 8",
     "url": "https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html",
     "date": "2026-05-08",
     "source": "Hacker News",
@@ -347,9 +342,9 @@
   },
   {
     "id": "027",
-    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 176\n# Comments: 103",
-    "url": "https://ze3tar.github.io/post-zcrx.html",
+    "title": "Roadside Attraction",
+    "summary": "Article URL: https://theoffingmag.com/essay/roadside-attraction/\nComments URL: https://news.ycombinator.com/item?id=48067764\nPoints: 21\n# Comments: 3",
+    "url": "https://theoffingmag.com/essay/roadside-attraction/",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -358,9 +353,9 @@
   },
   {
     "id": "028",
-    "title": "Google broke reCAPTCHA for de-googled Android users",
-    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 925\n# Comme",
-    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+    "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+    "summary": "Article URL: https://ze3tar.github.io/post-zcrx.html\nComments URL: https://news.ycombinator.com/item?id=48067734\nPoints: 184\n# Comments: 109",
+    "url": "https://ze3tar.github.io/post-zcrx.html",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -369,9 +364,9 @@
   },
   {
     "id": "029",
-    "title": "Teaching Claude Why",
-    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 151\n# Comments: 76",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "title": "Google broke reCAPTCHA for de-googled Android users",
+    "summary": "Related: Google Cloud fraud defense, the next evolution of reCAPTCHA - https://news.ycombinator.com/item?id=48039362also: Google Cloud Fraud Defence is just WEI repackaged - https://news.ycombinator.com/item?id=48063199\n\nComments URL: https://news.ycombinator.com/item?id=48067119\nPoints: 1022\n# Comm",
+    "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
     "date": "2026-05-08",
     "source": "Hacker News",
     "tags": [
@@ -380,19 +375,13 @@
   },
   {
     "id": "030",
-    "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-    "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
-    "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+    "title": "Teaching Claude Why",
+    "summary": "Article URL: https://www.anthropic.com/research/teaching-claude-why\nComments URL: https://news.ycombinator.com/item?id=48066592\nPoints: 164\n# Comments: 78",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
     "date": "2026-05-08",
-    "source": "TechCrunch",
+    "source": "Hacker News",
     "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Exclusive",
-      "Layoffs",
-      "oracle",
-      "severence"
+      "Hacker News"
     ]
   }
 ]
