@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Debian must ship reproducible packages",
-    "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 73\n# Comments: 15",
-    "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+    "title": "Rotten Dot Com",
+    "summary": "Article URL: https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/\nComments URL: https://news.ycombinator.com/item?id=48082039\nPoints: 59\n# Comments: 36",
+    "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-    "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 11\n# Comments: 5",
-    "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+    "title": "Debian must ship reproducible packages",
+    "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 139\n# Comments: 32",
+    "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Gemini API File Search is now multimodal",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 68\n# Comments: 8",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+    "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 15\n# Comments: 13",
+    "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -34,6 +34,17 @@
   },
   {
     "id": "004",
+    "title": "Gemini API File Search is now multimodal",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 93\n# Comments: 13",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "date": "2026-05-10",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
     "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
     "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves cust",
     "url": "https://github.com/imtomt/ymawky",
@@ -44,9 +55,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "006",
     "title": "Sparse Cholesky Elimination Tree",
-    "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 24\n# Comments: 0",
+    "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 31\n# Comments: 0",
     "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -55,7 +66,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "007",
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -69,173 +80,177 @@
     ]
   },
   {
-    "id": "007",
-    "title": "63. Confusion Matrix: What Your Model Got Wrong and Why",
-    "summary": "Your model has 95% accuracy. You ship it.\n\nThree weeks later someone tells you it's missing 40% of actual fraud cases.\n\nYou check. The dataset had 95% legit transactions and 5% fraud. Your model just learned to say \"not fraud\" every single time. 95% accuracy. Zero fraud caught.\n\nThat's what happens ",
-    "url": "https://dev.to/yakhilesh/63-confusion-matrix-what-your-model-got-wrong-and-why-3lgi",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "beginners",
-      "python",
-      "programming"
-    ]
-  },
-  {
     "id": "008",
-    "title": "62. Naive Bayes: Fast, Simple, Surprisingly Effective",
-    "summary": "Your email spam filter makes a decision in milliseconds. Thousands of words. Instant classification.\n\nMost of the algorithms we've covered so far would struggle with that. KNN needs to compute distances across thousands of features. SVM slows down on high dimensions. Even tree-based models take time",
-    "url": "https://dev.to/yakhilesh/62-naive-bayes-fast-simple-surprisingly-effective-31m9",
+    "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
+    "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
+    "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
     "date": "2026-05-10",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "productivity",
-      "beginners",
-      "python"
+      "Gear",
+      "Gear / How To and Advice",
+      "scams",
+      "Travel",
+      "how-to",
+      "tips",
+      "Tips"
     ]
   },
   {
     "id": "009",
-    "title": "I Would Fire Gemini Today: The 1000-Line Architectural Disaster",
-    "summary": "Imagine you hire a senior software engineer. On their first day, you assign them a standard project—say, building a comprehensive REST API or writing a data processing script. They type away furiously, but the moment they hit line 950, they stop. \n\nThey push back from the desk, stretch, and say, \"Eh",
-    "url": "https://dev.to/jisheng_agent/title-i-would-fire-gemini-today-the-1000-line-architectural-disaster-gj9",
+    "title": "EU AI Act Article 14: Human Oversight Requirements Explained",
+    "summary": "Article 14 mandates human oversight for high-risk AI systems. Learn what oversight measures you must implement and how to document them before August 2026.\n\n\nIf your AI system is classified as high-risk under the EU AI Act, Article 14 requires you to design it so that humans can effectively oversee ",
+    "url": "https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-14-human-oversight-requirements-explained-eb6",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "productivity",
-      "beginners",
-      "security"
+      "euaiact",
+      "article14",
+      "humanoversight",
+      "highriskai"
     ]
   },
   {
     "id": "010",
-    "title": "Gemma 4: The Local LLM That's Actually Worth Running (And Where It Falls Short)",
-    "summary": "Gemma 4 shipped on April 2, 2026, and the marketing copy is doing what marketing copy does: making you think you've solved the local LLM problem. You haven't. But Gemma 4 is closer than anything else in open-source right now—and that's worth understanding.\n\nLet me be direct: if you're deciding wheth",
-    "url": "https://dev.to/nasiruddin_mohammed_4843b/gemma-4-the-local-llm-thats-actually-worth-running-and-where-it-falls-short-2jo7",
+    "title": "Three Detection Paradigms. One Dataset. One Result.",
+    "summary": "Three Detection Paradigms. One Dataset. One Result.\n\n\nFor the last 147 days I’ve been building aRGus, an open-source Network Detection & Response (NDR) pipeline focused on behavioral detection using machine learning and real packet telemetry.\n\nToday we completed something I personally wanted to see ",
+    "url": "https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "cybersecurity",
+      "machinelearning",
+      "opensource",
+      "networking"
     ]
   },
   {
     "id": "011",
-    "title": "Introducing Zopa: a 60 KB authorization engine for proxy-wasm, written in Zig",
-    "summary": "There are plenty of times you want to delegate \"let this request through, or block it\" to a wasm filter inside Envoy. API gateways, service mesh boundaries, L7 checkpoints. The default move is to use OPA's wasm build.\n\nThe trouble is OPA-as-wasm is heavy. The Go runtime, the Rego parser, and the eva",
-    "url": "https://dev.to/kanywst/introducing-zopa-a-60-kb-authorization-engine-for-proxy-wasm-written-in-zig-1l66",
+    "title": "5 Custom Java Collector Patterns That Replace Complex Stream Reduction Code",
+    "summary": "As a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \n\n\nI remember the first time I hit the limits of Java’s Collectors.toList() and Collectors.groupingBy(). I was building a real‑tim",
+    "url": "https://dev.to/nithinbharathwaj/5-custom-java-collector-patterns-that-replace-complex-stream-reduction-code-5g98",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "webassembly",
-      "authorization",
-      "zig",
-      "opensource"
+      "programming",
+      "devto",
+      "java",
+      "softwareengineering"
     ]
   },
   {
     "id": "012",
-    "title": "I Designed an AI Architecture With 200+ Specialist Models — And It Makes GPT-5.5 Look Like a Calculator",
-    "summary": "Let me be brutally honest: every large language model you've ever used — GPT-5.5, Claude, Gemini, Llama — they all suffer from the same fatal flaw. They're geniuses at everything and masters of nothing.\n\nThey can write Python. They can explain quantum physics. They can draft a legal contract. And ev",
-    "url": "https://dev.to/jisheng_agent/i-designed-an-ai-architecture-with-200-specialist-models-and-it-makes-gpt-55-look-like-a-2ef6",
+    "title": "Introduction to Python in Data Analytics",
+    "summary": "What is Python?\n\n\nPython is a programming language used to tell computers what to do. It is popular because it is easy to read and write, making it beginner-friendly. Python can be used to build websites, automate tasks, analyze data, and create machine learning applications.\n\nOne of the reasons Pyt",
+    "url": "https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "productivity",
-      "tutorial",
-      "opensource"
+      "python",
+      "datascience"
     ]
   },
   {
     "id": "013",
-    "title": "How to Check if You're Affected by CVE-2026-26268 in Cursor (and What to Do)",
-    "summary": "CVE-2026-26268 is a CVSS 8.1 high-severity vulnerability in the Cursor AI IDE that lets a malicious repository execute arbitrary code on a developer's machine the moment Cursor's agent performs a Git operation against it. There is no prompt injection, no user click, and no warning dialog. The agent'",
-    "url": "https://dev.to/armor1ai/how-to-check-if-youre-affected-by-cve-2026-26268-in-cursor-and-what-to-do-4nd2",
+    "title": "Day 3 - Chunking - RAG",
+    "summary": "What is chunking ?\nIt is one of the step in RAG pipeline. Dividing a large document into several small parts. Each small part is called chunk. Chunking means dividing.Let's consider this following passage:\n\nRedis  is a high-speed, in-memory data structure store that functions as a database, cache, m",
+    "url": "https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "mcp",
-      "security",
       "ai",
-      "vulnerabilities"
+      "beginners",
+      "rag",
+      "tutorial"
     ]
   },
   {
     "id": "014",
-    "title": "Enterprise AI Agents Are Everywhere. The Hard Part Is Trusting Them.",
-    "summary": "The era of enterprise AI agents has arrived — but not in the way the hype suggested. At the AI Agent Conference in New York this week, leaders from Datadog, T-Mobile, CrewAI, RingCentral, and others described a shift that's quietly changed the engineering conversation: building agents is the easy pa",
-    "url": "https://dev.to/thegatewayguy/enterprise-ai-agents-are-everywhere-the-hard-part-is-trusting-them-38gg",
+    "title": "Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms",
+    "summary": "Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms\n\n\nSEO title: Airflow Version Upgrade for Enterprises: Secure, Tested, Production-Ready\nMeta description: Airflow version upgrade for enterprises requires dependency control, metadata da",
+    "url": "https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-10d3",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "machinelearning",
-      "devops",
-      "llm"
+      "automation",
+      "aws",
+      "dataengineering",
+      "devops"
     ]
   },
   {
     "id": "015",
-    "title": "My standup answers used to be terrible. So I built a tool to fix that.",
-    "summary": "Every Monday I'd sit down for our team sync and draw a blank.\n\nWhat did I actually work on last week? How many hours did I put in? Was I in flow or just firefighting?\n\nI had no good answer. Tasks were scattered, time was untracked, and my overtime was invisible — even to me.\n\n\n  \n  \n  The problem wi",
-    "url": "https://dev.to/melonix/my-standup-answers-used-to-be-terrible-so-i-built-a-tool-to-fix-that-55f6",
+    "title": "What I found auditing my own homepage for AI Overview compatibility",
+    "summary": "I have been quietly losing top-of-funnel traffic to a thing I cannot click on. Not a competitor. Not a Reddit thread. The Google AI Overview box at the top of the SERP. The thing that pulls a paragraph out of the open web, paraphrases it, slaps a few citation chips next to it, and answers the questi",
+    "url": "https://dev.to/rapidclaw/what-i-found-auditing-my-own-homepage-for-ai-overview-compatibility-5gb7",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "productivity",
-      "buildinpublic",
-      "typescript"
+      "ai",
+      "google",
+      "llm",
+      "webdev"
     ]
   },
   {
     "id": "016",
-    "title": "My First SOL Transfer: No Middleman, No Waiting",
-    "summary": "I sent my first SOL transfer on devnet today and it felt oddly magical. I created a fresh wallet, typed one command, and half a SOL zipped across the network almost instantly. Watching the transaction appear on Solana Explorer made me feel like I'd just unlocked a new cheat code. No middleman, no wa",
-    "url": "https://dev.to/fachiny17/my-first-sol-transfer-no-middleman-no-waiting-1eog",
+    "title": "Introduction to Python",
+    "summary": "Python for Data Analytics: From Beginner Basics to Real-World Data Projects\n\n\n\nA beginner-friendly guide to understanding Python, data analytics, APIs, JSON data, and working with real-world datasets using Python.\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nOver the past decade, Python has become one of the most i",
+    "url": "https://dev.to/enockdata/introduction-to-python-48f7",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "100daysofsolana"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Best practices for CDN caching and origin caching optimization",
-    "summary": "CDN and origin caching optimization: 12 strategies that actually work\n\n\nIf you're watching your server costs climb while page load times disappoint users, your caching strategy probably needs attention. Poor caching configuration is often the hidden culprit behind sluggish applications and inflated ",
-    "url": "https://dev.to/binadit/best-practices-for-cdn-caching-and-origin-caching-optimization-eli",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "cdn",
-      "caching",
-      "performanceoptimization",
-      "infrastructure"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "🤖 What is an AI Agent? A Beginner's Guide to the Future of AI",
-    "summary": "ChatGPT answers your questions. An AI Agent gets things done.\"\n📋 Table of Contents\nThe Problem with Regular AI\nWhat is an AI Agent?\nHow Does it Work?\nReal-World Examples\nBuild Your First Agent\nShould You Be Worried?\nThe Problem with Regular AI\nYou've probably used ChatGPT or a similar AI tool. You a",
-    "url": "https://dev.to/rachef_khoulod_a166c693fa/what-is-an-ai-agent-a-beginners-guide-to-the-future-of-ai-2ppl",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "agents",
-      "ai",
-      "automation",
+      "dataanalytics",
+      "python",
+      "datascience",
       "beginners"
     ]
   },
   {
+    "id": "017",
+    "title": "I tried to make AI conversations feel less like input/output. Here’s what I learned.",
+    "summary": "Over the past year, I’ve been using a lot of AI tools. At first, they felt impressive—fast, capable, almost magical in how quickly they could respond. But over time, something started to feel off. The more I used them, the more every interaction began to feel the same. Predictable. Structured. Trans",
+    "url": "https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "webdev",
+      "productivity",
+      "startup"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Auditing Windows security from a Python script, no pip install needed",
+    "summary": "I had a problem. I wanted a Windows security audit script I could drop on any machine, run as admin, and walk away with a readable report. Just a single .py file. No pip install, no virtualenv, no \"wait, do you have Python 3.10 or what.\"\n\nThe catch is that \"real\" Windows auditing tools usually pull ",
+    "url": "https://dev.to/tiltedlunar123/auditing-windows-security-from-a-python-script-no-pip-install-needed-2k0f",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "python",
+      "windows",
+      "security",
+      "opensource"
+    ]
+  },
+  {
     "id": "019",
+    "title": "Workforce Transformation: AI Impact on Enterprise Roles",
+    "summary": "A conversation we keep having with CEOs goes something like this. They ask, “Is AI going to cost us headcount?” What they are often hoping for is a clean answer — yes or no, this percentage, over this many years. The honest answer is messier: AI reshapes roles, but it reshapes them unevenly. Some fu",
+    "url": "https://dev.to/wolyra/workforce-transformation-ai-impact-on-enterprise-roles-9n7",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "business",
+      "leadership",
+      "productivity"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Show HN: Rust but Lisp",
-    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 124\n# Comments: 65",
+    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 133\n# Comments: 67",
     "url": "https://github.com/ThatXliner/rust-but-lisp",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -244,9 +259,9 @@
     ]
   },
   {
-    "id": "020",
+    "id": "021",
     "title": "Local privilege escalation via execve()",
-    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 137\n# Comments: 74",
+    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 151\n# Comments: 78",
     "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -255,21 +270,10 @@
     ]
   },
   {
-    "id": "021",
-    "title": "Surfel-based global illumination on the web",
-    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 52\n# Comments: 5",
-    "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "022",
-    "title": "Meta's embrace of AI is making its employees miserable",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 383\n# Comments: 410",
-    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "title": "Surfel-based global illumination on the web",
+    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 59\n# Comments: 6",
+    "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
