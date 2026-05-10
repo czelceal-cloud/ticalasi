@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/",
-      "title": "Rotten Dot Com",
-      "summary": "Article URL: https://www.theparisreview.org/blog/2026/05/06/rotten-dot-com/\nComments URL: https://news.ycombinator.com/item?id=48082039\nPoints: 59\n# Comments: 36",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "title": "Space Cadet Pinball on Linux",
+      "summary": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/\nComments URL: https://news.ycombinator.com/item?id=48082968\nPoints: 27\n# Comments: 1",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "title": "Debian must ship reproducible packages",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 139\n# Comments: 32",
+      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+      "summary": "Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/\nComments URL: https://news.ycombinator.com/item?id=48082676\nPoints: 21\n# Comments: 0",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
-      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
-      "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 15\n# Comments: 13",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "title": "Think Linear Algebra",
+      "summary": "Article URL: https://allendowney.github.io/ThinkLinearAlgebra/index.html\nComments URL: https://news.ycombinator.com/item?id=48082396\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "title": "Gemini API File Search is now multimodal",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 93\n# Comments: 13",
+      "url": "https://vez.mrsk.me/freebsd-defaults",
+      "title": "FreeBSD – A Lesson in Poor Defaults",
+      "summary": "Article URL: https://vez.mrsk.me/freebsd-defaults\nComments URL: https://news.ycombinator.com/item?id=48082342\nPoints: 7\n# Comments: 3",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -51,6 +51,61 @@
     },
     {
       "id": "005",
+      "url": "https://arxiv.org/abs/2605.05419",
+      "title": "LLMorphism: When humans come to see themselves as language models",
+      "summary": "Article URL: https://arxiv.org/abs/2605.05419\nComments URL: https://news.ycombinator.com/item?id=48082021\nPoints: 24\n# Comments: 11",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "title": "Task Paralysis and AI",
+      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html\nComments URL: https://news.ycombinator.com/item?id=48081469\nPoints: 33\n# Comments: 21",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
+      "title": "Debian must ship reproducible packages",
+      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 193\n# Comments: 70",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/",
+      "title": "Scouting's Real Crisis Is Not Marketing. It Is Decades of Neglect.",
+      "summary": "Article URL: https://www.untendedfire.org/2026/05/09/scoutings-real-crisis-is-not-marketing-it-is-decades-of-neglect/\nComments URL: https://news.ycombinator.com/item?id=48081094\nPoints: 23\n# Comments: 26",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "title": "Gemini API File Search is now multimodal",
+      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 108\n# Comments: 18",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
       "url": "https://github.com/imtomt/ymawky",
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
       "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves cust",
@@ -61,18 +116,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "006",
-      "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
-      "title": "Sparse Cholesky Elimination Tree",
-      "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 31\n# Comments: 0",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
+      "id": "011",
       "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -86,7 +130,132 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "012",
+      "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
+      "title": "Do you take after your dad’s RNA?",
+      "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Science",
+        "DNA",
+        "RNA",
+        "sperm",
+        "syndication"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "013",
+      "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
+      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
+      "summary": "Fortunately, it happened early in the morning, so nobody was around.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Science",
+        "climate change",
+        "Earth sciences",
+        "geology",
+        "glacier",
+        "landslide",
+        "Tsunami"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "014",
+      "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+      "title": "Netflix may have finally figured out games",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. E",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Column",
+        "Gaming",
+        "Netflix",
+        "Streaming",
+        "The Stepback"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "015",
+      "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+      "title": "Vivo’s X300 Ultra has the best cameras in any phone",
+      "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Mobile",
+        "Phone Reviews",
+        "Reviews",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "016",
+      "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
+      "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
+      "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "coronavirus",
+        "COVID-19",
+        "viruses",
+        "health",
+        "pandemics",
+        "Ship Show"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
+      "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
+      "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
+      "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "drones",
+        "Aviation",
+        "logistics",
+        "public health",
+        "New York City",
+        "cargo",
+        "supply chain",
+        "Infrastructure",
+        "Cities",
+        "Open Air"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "018",
+      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
+      "title": "How Handheld Translators Work and Why They’re Handy for Travel",
+      "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Gear",
+        "Gear / How To and Advice",
+        "Gear / Products / Lifestyle",
+        "Gear / Products",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Shopping",
+        "how-to",
+        "review",
+        "Reviews",
+        "Travel",
+        "translation",
+        "languages",
+        "AFK"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
       "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
       "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
       "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
@@ -103,301 +272,155 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
-      "url": "https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-14-human-oversight-requirements-explained-eb6",
-      "title": "EU AI Act Article 14: Human Oversight Requirements Explained",
-      "summary": "Article 14 mandates human oversight for high-risk AI systems. Learn what oversight measures you must implement and how to document them before August 2026.\n\n\nIf your AI system is classified as high-risk under the EU AI Act, Article 14 requires you to design it so that humans can effectively oversee ",
+      "id": "020",
+      "url": "https://dev.to/vessel_api/the-946-millisecond-tax-migrating-api-key-auth-from-bcrypt-to-hmac-sha256-4c74",
+      "title": "The 946-Millisecond Tax: Migrating API Key Auth from Bcrypt to HMAC-SHA256",
+      "summary": "I never profiled our authentication middleware. Why would I? It's a key check. The request comes in, you verify the key, you move on. It's plumbing. Then one afternoon I stuck a timer on it and watched it print 946 milliseconds. I re-ran it. Same. Every authenticated request to our API was spending ",
       "date_published": "2026-05-10",
       "tags": [
-        "euaiact",
-        "article14",
-        "humanoversight",
-        "highriskai"
+        "authentication",
+        "performance",
+        "api",
+        "hmac"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "010",
-      "url": "https://dev.to/alonsoir/three-detection-paradigms-one-dataset-one-result-3147",
-      "title": "Three Detection Paradigms. One Dataset. One Result.",
-      "summary": "Three Detection Paradigms. One Dataset. One Result.\n\n\nFor the last 147 days I’ve been building aRGus, an open-source Network Detection & Response (NDR) pipeline focused on behavioral detection using machine learning and real packet telemetry.\n\nToday we completed something I personally wanted to see ",
-      "date_published": "2026-05-10",
-      "tags": [
-        "cybersecurity",
-        "machinelearning",
-        "opensource",
-        "networking"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/nithinbharathwaj/5-custom-java-collector-patterns-that-replace-complex-stream-reduction-code-5g98",
-      "title": "5 Custom Java Collector Patterns That Replace Complex Stream Reduction Code",
-      "summary": "As a best-selling author, I invite you to explore my books on Amazon. Don't forget to follow me on Medium and show your support. Thank you! Your support means the world! \n\n\nI remember the first time I hit the limits of Java’s Collectors.toList() and Collectors.groupingBy(). I was building a real‑tim",
-      "date_published": "2026-05-10",
-      "tags": [
-        "programming",
-        "devto",
-        "java",
-        "softwareengineering"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/tom_chege/-introduction-to-python-in-data-analytics-3kl8",
-      "title": "Introduction to Python in Data Analytics",
-      "summary": "What is Python?\n\n\nPython is a programming language used to tell computers what to do. It is popular because it is easy to read and write, making it beginner-friendly. Python can be used to build websites, automate tasks, analyze data, and create machine learning applications.\n\nOne of the reasons Pyt",
-      "date_published": "2026-05-10",
-      "tags": [
-        "python",
-        "datascience"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/indumathi_r_afd5683658092/day-3-chunking-rag-2a19",
-      "title": "Day 3 - Chunking - RAG",
-      "summary": "What is chunking ?\nIt is one of the step in RAG pipeline. Dividing a large document into several small parts. Each small part is called chunk. Chunking means dividing.Let's consider this following passage:\n\nRedis  is a high-speed, in-memory data structure store that functions as a database, cache, m",
+      "id": "021",
+      "url": "https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1",
+      "title": "Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator & Evaluator Pattern",
+      "summary": "So far, we’ve covered how to use agent tools, skills, and sub-agents. Now, it’s time to put everything into practice. I’m going to walk you through a small proof of concept (POC) project to show how these pieces actually work together.\n\nIn this small POC project, I built a simple DEV blog post write",
       "date_published": "2026-05-10",
       "tags": [
         "ai",
-        "beginners",
-        "rag",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "014",
-      "url": "https://dev.to/hasanhaider/airflow-version-upgrade-for-enterprises-a-practical-blueprint-for-aws-snowflake-dbt-and-fintech-10d3",
-      "title": "Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms",
-      "summary": "Airflow Version Upgrade for Enterprises: A Practical Blueprint for AWS, Snowflake, dbt, and Fintech Data Platforms\n\n\nSEO title: Airflow Version Upgrade for Enterprises: Secure, Tested, Production-Ready\nMeta description: Airflow version upgrade for enterprises requires dependency control, metadata da",
-      "date_published": "2026-05-10",
-      "tags": [
-        "automation",
+        "agents",
         "aws",
-        "dataengineering",
-        "devops"
+        "discuss"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "015",
-      "url": "https://dev.to/rapidclaw/what-i-found-auditing-my-own-homepage-for-ai-overview-compatibility-5gb7",
-      "title": "What I found auditing my own homepage for AI Overview compatibility",
-      "summary": "I have been quietly losing top-of-funnel traffic to a thing I cannot click on. Not a competitor. Not a Reddit thread. The Google AI Overview box at the top of the SERP. The thing that pulls a paragraph out of the open web, paraphrases it, slaps a few citation chips next to it, and answers the questi",
+      "id": "022",
+      "url": "https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj",
+      "title": "PHP vs Node.js (2026): I Benchmarked Both — Here's What Surprised Me",
+      "summary": "There is a conversation that has been going on in backend development circles for over a decade now, and it refuses to die. PHP or Node.js? Which one should you use? Which one is faster? Which one has a future?\n\n\nI spent the last several weeks setting up identical environments, running real benchmar",
+      "date_published": "2026-05-10",
+      "tags": [
+        "node",
+        "php",
+        "javascript",
+        "react"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "023",
+      "url": "https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1",
+      "title": "Why Node.js Is Perfect for Building Fast Web Applications",
+      "summary": "How one thread, a smart event loop, and non-blocking I/O let Node.js handle thousands of requests without breaking a sweat.\n\n\n\n\nWhen someone tells you \"Node.js is fast,\" they don't mean it runs JavaScript faster than other languages run their code. JavaScript will never beat C++ in raw computation s",
+      "date_published": "2026-05-10",
+      "tags": [
+        "chaicode",
+        "javascript",
+        "webdev",
+        "node"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
+      "url": "https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me",
+      "title": "Local LLMs in 2026: What Actually Works on Consumer Hardware",
+      "summary": "Local LLMs in 2026 work on three hardware lanes: 32-core CPU with 64GB+ RAM hits 10-25 tokens per second on Qwen 3 14B, an RTX 4090 hits 30-80 tokens per second on the same model and 8-15 tokens per second on Llama 3.3 70B in Q4, and an M3 or M4 Max with 64GB+ unified memory delivers 25-40 tokens pe",
       "date_published": "2026-05-10",
       "tags": [
         "ai",
-        "google",
-        "llm",
-        "webdev"
+        "localllm",
+        "ollama",
+        "qwen"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "016",
-      "url": "https://dev.to/enockdata/introduction-to-python-48f7",
-      "title": "Introduction to Python",
-      "summary": "Python for Data Analytics: From Beginner Basics to Real-World Data Projects\n\n\n\nA beginner-friendly guide to understanding Python, data analytics, APIs, JSON data, and working with real-world datasets using Python.\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nOver the past decade, Python has become one of the most i",
+      "id": "025",
+      "url": "https://dev.to/edriso/cursor-pagination-step-by-step-1iff",
+      "title": "Cursor Pagination Step by Step",
+      "summary": "Recap: the other way\n\n\nIn the previous post we built offset pagination (?page=2). The server runs LIMIT 10 OFFSET 10. Simple, but it has two pains:\n\n\nDeep pages are slow. OFFSET 1000000 makes the database walk and throw away a million rows.\nNew rows shift the pages. If someone inserts a row while yo",
       "date_published": "2026-05-10",
       "tags": [
-        "dataanalytics",
-        "python",
-        "datascience",
+        "backend",
+        "database",
+        "pagination",
         "beginners"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "017",
-      "url": "https://dev.to/robert-adrian-knippelberg/i-tried-to-make-ai-conversations-feel-less-like-inputoutput-heres-what-i-learned-200i",
-      "title": "I tried to make AI conversations feel less like input/output. Here’s what I learned.",
-      "summary": "Over the past year, I’ve been using a lot of AI tools. At first, they felt impressive—fast, capable, almost magical in how quickly they could respond. But over time, something started to feel off. The more I used them, the more every interaction began to feel the same. Predictable. Structured. Trans",
+      "id": "026",
+      "url": "https://dev.to/edriso/build-a-real-pagination-system-step-by-step-learn-the-math-the-tradeoffs-and-how-sharding-fits-50eg",
+      "title": "Offset Pagination Step by Step (with Sharding)",
+      "summary": "Why pagination exists\n\n\nImagine a workers table with 1,000,000 rows. A request like GET /workers that returns all of them would:\n\n\nsend a huge JSON payload over the wire\ncrash the browser trying to render it\nhammer the database\n\n\nThe fix is simple: send a small slice at a time. That slice is called ",
+      "date_published": "2026-05-10",
+      "tags": [
+        "backend",
+        "pagination",
+        "database",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "027",
+      "url": "https://dev.to/hedimanai/one-decorator-away-from-production-ready-ai-agents-28mp",
+      "title": "One Decorator Away From Production-Ready AI Agents",
+      "summary": "Every agent developer hits the same wall.\n\nThe demo works. Then it goes to production — and the cracks show up fast. No retry logic when APIs fail. Identical queries hammering your LLM endpoint over and over. No visibility into what's actually happening. And before long, you're writing the same cach",
       "date_published": "2026-05-10",
       "tags": [
         "ai",
         "webdev",
         "productivity",
-        "startup"
+        "programming"
       ],
       "_source": "Dev.to"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/tiltedlunar123/auditing-windows-security-from-a-python-script-no-pip-install-needed-2k0f",
-      "title": "Auditing Windows security from a Python script, no pip install needed",
-      "summary": "I had a problem. I wanted a Windows security audit script I could drop on any machine, run as admin, and walk away with a readable report. Just a single .py file. No pip install, no virtualenv, no \"wait, do you have Python 3.10 or what.\"\n\nThe catch is that \"real\" Windows auditing tools usually pull ",
-      "date_published": "2026-05-10",
-      "tags": [
-        "python",
-        "windows",
-        "security",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/wolyra/workforce-transformation-ai-impact-on-enterprise-roles-9n7",
-      "title": "Workforce Transformation: AI Impact on Enterprise Roles",
-      "summary": "A conversation we keep having with CEOs goes something like this. They ask, “Is AI going to cost us headcount?” What they are often hoping for is a clean answer — yes or no, this percentage, over this many years. The honest answer is messier: AI reshapes roles, but it reshapes them unevenly. Some fu",
-      "date_published": "2026-05-10",
-      "tags": [
-        "business",
-        "leadership",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://github.com/ThatXliner/rust-but-lisp",
-      "title": "Show HN: Rust but Lisp",
-      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 133\n# Comments: 67",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "title": "Local privilege escalation via execve()",
-      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 151\n# Comments: 78",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "022",
-      "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-      "title": "Surfel-based global illumination on the web",
-      "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 59\n# Comments: 6",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "023",
-      "url": "https://github.com/nooga/let-go",
-      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-      "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed ",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-      "date_published": "2026-05-09",
-      "tags": [
-        "AI",
-        "evergreens",
-        "artificial intelligence",
-        "Glossary"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
-      "title": "Fintech startup Parker files for bankruptcy",
-      "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Fintech",
-        "Startups",
-        "Parker",
-        "Valar Ventures",
-        "Y Combinator",
-        "Yacine Sibous"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
-      "title": "GM agrees to pay $12.75M in California driver privacy settlement",
-      "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Government & Policy",
-        "Privacy",
-        "Transportation"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
-      "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
-      "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
-      "date_published": "2026-05-09",
-      "tags": [
-        "Hardware",
-        "Gadgets",
-        "cameras",
-        "instax",
-        "instax wide 400"
-      ],
-      "_source": "TechCrunch"
     },
     {
       "id": "028",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-      "date_published": "2026-05-09",
+      "url": "https://dev.to/pratham69/asyncawait-in-javascript-writing-cleaner-asynchronous-code-39oc",
+      "title": "Async/Await in JavaScript: Writing Cleaner Asynchronous Code",
+      "summary": "Asynchronous code that reads like synchronous code — because sometimes the best upgrade is better syntax.\n\n\n\n\nWe've come a long way. Callbacks taught us how JavaScript handles async operations. Promises gave us flat chains and centralized error handling. But let me show you the next evolution:\n\n\n\n//",
+      "date_published": "2026-05-10",
       "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "OpenAI"
+        "chaicode",
+        "javascript",
+        "webdev",
+        "programming"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
-      "title": "The new Wild West of AI kids’ toys",
-      "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
-      "date_published": "2026-05-09",
+      "url": "https://dev.to/didntask/i-built-a-chrome-extension-that-forces-you-to-write-why-youre-saving-something-heres-why-1mmi",
+      "title": "I built a Chrome extension that forces you to write why you're saving something — here's why",
+      "summary": "The problem\n\n\nI had 300+ bookmarks. I remembered why I saved exactly 0 of them.\n\nThe link was never the problem. Not knowing why I saved it was.\n\nEvery bookmark tool solves the wrong thing. They make it easier \nto save links. Nobody makes you think about why you're saving them.\n\nSo you end up with a",
+      "date_published": "2026-05-10",
       "tags": [
-        "AI",
-        "Policy",
-        "ai toys",
-        "syndication",
-        "Toys"
+        "Dev.to"
       ],
-      "_source": "Ars Technica"
+      "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
-      "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
-      "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it’s on sale at Woot ",
-      "date_published": "2026-05-09",
+      "url": "https://dev.to/osalt/the-datadog-escape-hatch-is-real-observability-is-the-oss-vertical-thats-actually-winning-may-3kka",
+      "title": "The Datadog escape hatch is real: observability is the OSS vertical that's actually winning (May 2026)",
+      "summary": "Cross-posted from os-alt — canonical lives there.\n\nTwo posts ago we opened the PagerDuty vertical and found three-of-three self-host alternatives not alive. One post ago we opened Linktree and found two-of-three. We promised a positive-side post before the series got too doomy. Here it is.\n\nOn /data",
+      "date_published": "2026-05-10",
       "tags": [
-        "Deals",
-        "Gadgets",
-        "Smart Home",
-        "Tech",
-        "Verge Shopping"
+        "opensource",
+        "selfhosted",
+        "devops",
+        "observability"
       ],
-      "_source": "The Verge"
+      "_source": "Dev.to"
     }
   ]
 }
