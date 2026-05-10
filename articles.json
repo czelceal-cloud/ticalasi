@@ -1,116 +1,36 @@
 [
   {
     "id": "001",
-    "title": "Hardware Attestation as Monopoly Enabler",
-    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 330\n# Comments: 103",
-    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "title": "Get ready for the whisper-filled office of the future",
+    "summary": "How will work setups change if we spend more and more time talking to our computers?",
+    "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
     "date": "2026-05-10",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "AI",
+      "Startups",
+      "Edward Kim",
+      "Gusto",
+      "mollie amkraut mueller",
+      "tanay kothari",
+      "Wispr"
     ]
   },
   {
     "id": "002",
-    "title": "Incident Report: CVE-2024-YIKES",
-    "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 145\n# Comments: 32",
-    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+    "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
     "date": "2026-05-10",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "AI",
+      "Anthropic",
+      "Claude"
     ]
   },
   {
     "id": "003",
-    "title": "Ask HN: What are you working on? (May 2026)",
-    "summary": "What are you working on?  Any new ideas that you're thinking about?\n\nComments URL: https://news.ycombinator.com/item?id=48085993\nPoints: 26\n# Comments: 69",
-    "url": "https://news.ycombinator.com/item?id=48085993",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "Local AI needs to be the norm",
-    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/\nComments URL: https://news.ycombinator.com/item?id=48085821\nPoints: 14\n# Comments: 2",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "Traces Of Humanity",
-    "summary": "Article URL: https://tracesofhumanity.org/hello-world/\nComments URL: https://news.ycombinator.com/item?id=48085782\nPoints: 73\n# Comments: 11",
-    "url": "https://tracesofhumanity.org/hello-world/",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Spain has become one of Europe’s cheapest power markets",
-    "summary": "Article URL: https://janrosenow.substack.com/p/spain-just-became-one-of-europes\nComments URL: https://news.ycombinator.com/item?id=48085330\nPoints: 72\n# Comments: 56",
-    "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "YC's Biggest Scandals",
-    "summary": "Article URL: https://ycombinator.fyi/\nComments URL: https://news.ycombinator.com/item?id=48085314\nPoints: 21\n# Comments: 4",
-    "url": "https://ycombinator.fyi/",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "GitHub is sinking",
-    "summary": "Article URL: https://dbushell.com/2026/04/29/github-is-sinking/\nComments URL: https://news.ycombinator.com/item?id=48085095\nPoints: 141\n# Comments: 82",
-    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "The locals don't know",
-    "summary": "Article URL: https://www.quarter--mile.com/The-Locals-Dont-Know\nComments URL: https://news.ycombinator.com/item?id=48085055\nPoints: 42\n# Comments: 31",
-    "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-    "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features\nComments URL: https://news.ycombinator.com/item?id=48084710\nPoints: 65\n# Comments: 31",
-    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
     "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
     "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
     "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
@@ -127,7 +47,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "004",
     "title": "TechCrunch Mobility: Lime’s IPO gamble",
     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
     "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
@@ -144,7 +64,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "005",
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
     "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -155,7 +75,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "006",
     "title": "The hottest place for startups to strike a deal? The F1 paddock",
     "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
     "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
@@ -168,7 +88,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "007",
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -182,7 +102,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "008",
     "title": "Do you take after your dad’s RNA?",
     "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
     "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
@@ -197,7 +117,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "009",
     "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
     "summary": "Fortunately, it happened early in the morning, so nobody was around.",
     "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
@@ -214,7 +134,22 @@
     ]
   },
   {
-    "id": "018",
+    "id": "010",
+    "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+    "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [",
+    "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+    "date": "2026-05-10",
+    "source": "The Verge",
+    "tags": [
+      "Entertainment",
+      "Gadgets",
+      "Music",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "011",
     "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
     "summary": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in layers of reverb and four-on-the-floor dan",
     "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
@@ -228,7 +163,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "012",
     "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
     "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, cards, bookmarks, and more. The small […",
     "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
@@ -243,7 +178,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "013",
     "title": "Writers are fleeing the Substack Tax",
     "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platform that gives it more control over its site. Others who have departed Substack wi",
     "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
@@ -257,7 +192,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "014",
     "title": "Netflix may have finally figured out games",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. E",
     "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
@@ -272,7 +207,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "015",
     "title": "Vivo’s X300 Ultra has the best cameras in any phone",
     "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
     "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
@@ -286,7 +221,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "016",
     "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
     "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
     "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
@@ -304,7 +239,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "017",
     "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
     "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
     "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
@@ -326,7 +261,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "018",
     "title": "How Handheld Translators Work and Why They’re Handy for Travel",
     "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
     "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
@@ -350,7 +285,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "019",
     "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
     "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
     "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
@@ -367,7 +302,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "020",
     "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
     "summary": "AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. I discovered this gap when I filed Issue #141 in the CoSAI secure-ai-tooling repository. I assumed it would be treated as a single risk entry. The r",
     "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security",
@@ -379,43 +314,139 @@
     ]
   },
   {
-    "id": "028",
-    "title": "Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough",
-    "summary": "In the previous article, we explored an example where reinforcement learning is required and standard methods do not work.\n\nIn this article, we will understand why policy gradients are needed, and why the standard backpropagation method does not work in certain situations.\n\n\n  \n  \n  How Backpropagat",
-    "url": "https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2",
+    "id": "021",
+    "title": "I Built an AI Agent Orchestrator Where Gemma 4 Only Knows What You Teach It",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nGemmaOrch is a skill-based AI agent orchestrator: you define what an agent knows by dropping Markdown files into a folder, assign those skills to a named agent, and chat with it. The agent powered by Gemma 4 ",
+    "url": "https://dev.to/bzaid94/gemma-agents-orchestrator-8cm",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "I Built Persistent Memory for AI Coding Assistants — Here's How It Works",
+    "summary": "Every time you open a new AI chat, your assistant forgets everything. I fixed that.\n\n\n\n  \n  \n  The Problem\n\n\nIf you use Cursor, Claude Code, or Amazon Q regularly, you've probably hit this wall:\n\nYou explain your project architecture in Monday's chat. On Tuesday, you open a new session and start fro",
+    "url": "https://dev.to/nikhil102/i-built-persistent-memory-for-ai-coding-assistants-heres-how-it-works-2i0b",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "machinelearning"
+      "productivity",
+      "programming",
+      "mcp"
     ]
   },
   {
-    "id": "029",
-    "title": "From C to Rust - Evolving Programming Languages in Automotive Development",
-    "summary": "Introduction\n\n\nIn recent years, the automotive software landscape has changed dramatically. What used to be small, specialized electronic control units (ECUs) with narrowly defined functions has evolved into highly networked systems with powerful System-on-Chips (SoCs) and a growing fusion between t",
-    "url": "https://dev.to/lmilz/from-c-to-rust-evolving-programming-languages-in-automotive-development-186a",
+    "id": "023",
+    "title": "How secrets work in multi-service OSC stacks (and one mistake we helped a customer avoid)",
+    "summary": "Last month a customer came to us confused about why their credentials kept leaking between services in their OSC stack. They had put an API key into the parameter store, wired up three service instances, and couldn't figure out why a service that had no business seeing those credentials could read t",
+    "url": "https://dev.to/oscdev/how-secrets-work-in-multi-service-osc-stacks-and-one-mistake-we-helped-a-customer-avoid-3jm9",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "opensource",
+      "devops",
+      "security",
+      "cloud"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining",
+    "summary": "SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining\n\n\n\n  \n  \n  Today's Highlights\n\n\nThis week, we highlight a critical SQLite concurrency issue in sandboxed environments, DuckDB's production-ready Delta Lake and Unity Catalog extensions with new write and time travel suppo",
+    "url": "https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "database",
+      "sql",
+      "sqlite"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, & V100 LLM Performance",
+    "summary": "DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, & V100 LLM Performance\n\n\n\n  \n  \n  Today's Highlights\n\n\nThis week highlights significant advancements in GPU-accelerated AI inference, with new benchmarks for optimized LLMs and a novel CUDA-first runtime designed for real-time transformer deploymen",
+    "url": "https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "gpu",
+      "nvidia",
+      "hardware"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Lessons from Building a Skill-Scoped Agent Orchestrator",
+    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n  \n  \n  Choosing the Right Gemma 4 Model: Lessons from Building a Skill-Scoped Agent Orchestrator\n\n\nI didn't set out to write a post about model selection. I set out to build something: an orchestrator where AI agents can only ans",
+    "url": "https://dev.to/bzaid94/lessons-from-building-a-skill-scoped-agent-orchestrator-55ke",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Pi Lightsaber Lab",
+    "summary": "What’s the crack jack?\n\nBuild your own Lightsaber with Raspberry Pi and Java. May the Force (and GPIO) be with you!\n\nA fun Star Wars-inspired project using a bright LED and a transparent straw to simulate a real lightsaber. It also features a blaster shot mode. Fully controlled with Java on a Raspbe",
+    "url": "https://dev.to/igoriot/pi-lightsaber-lab-3oba",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
       "iot",
-      "programming",
-      "rust",
-      "softwaredevelopment"
+      "java",
+      "showdev",
+      "sideprojects"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata",
+    "summary": "Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata\n\n\nRepository: https://github.com/marmar9615-cloud/midnight-private-signal\n\nBounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314\n\n\n\n\n  \n  \n  1. Opening Angle\n\n\nMost de",
+    "url": "https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "blockchain",
+      "web3",
+      "typescript",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "Claude Code quota management: a complete guide (2026)",
+    "summary": "How to track, monitor, and control your Claude Code usage before it eats your budget.\n\n\n\n\n\n  \n  \n  The problem\n\n\nYou're in the middle of a coding session. Your Claude Code Max 5 limit just hit — right before a critical deadline. You have no idea when it happened, why, or how much you've spent this m",
+    "url": "https://dev.to/deibygs/claude-code-quota-management-a-complete-guide-2026-1h9d",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "claudecode",
+      "ai",
+      "productivity",
+      "tutorial"
     ]
   },
   {
     "id": "030",
-    "title": "Building a Replay-Safe Webhook Event Gateway",
-    "summary": "Webhooks look simple at first: receive an HTTP request, forward it somewhere, return 200 OK.\n\nThat simplicity disappears the moment the system becomes production-critical. Providers retry. Consumers fail. Payloads arrive twice. Teams need to debug what happened yesterday. A single endpoint becomes d",
-    "url": "https://dev.to/andrew_lencmanis_12ca3b2b/building-a-replay-safe-webhook-event-gateway-4lln",
+    "title": "Bujuyollarda",
+    "summary": "Merhaba dev.to topluluğu,\nUzun zamandır takip ettiğim platforma sonunda üye oldum ve ilk postumu paylaşıyorum. Ben Burcu Bingöl, bujuyollarda.com seyahat bloğunun kurucusuyum.\n8+ yıldır seyahat içerikleri üretiyorum. Gezilecek yer rehberleri, otel önerileri, yeme-içme rotaları ve pratik seyahat ipuç",
+    "url": "https://dev.to/buju_yollarda_987662105f8/bujuyollarda-2j38",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "architecture",
-      "backend",
-      "systemdesign"
+      "performance",
+      "showdev",
+      "webdev",
+      "wordpress"
     ]
   }
 ]
