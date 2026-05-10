@@ -1,39 +1,6 @@
 [
   {
     "id": "001",
-    "title": "Gemini API File Search is now multimodal",
-    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 3\n# Comments: 0",
-    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "002",
-    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves cust",
-    "url": "https://github.com/imtomt/ymawky",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "Sparse Cholesky Elimination Tree",
-    "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 7\n# Comments: 0",
-    "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
-    "date": "2026-05-10",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -47,249 +14,175 @@
     ]
   },
   {
-    "id": "005",
-    "title": "Bulletproofing LLM Structured Output in Python: Healing Retries, Cost Caps, and Drift Detection (Runnable Code)",
-    "summary": "I shipped a structured-output endpoint to production in March. The schema was clean, JSON mode was on, the model was GPT-4.1, the eval suite was green. Three weeks in, the on-call channel lit up because a downstream billing job had silently skipped 4,200 records over a weekend.\n\nThe output was valid",
-    "url": "https://dev.to/velsof/bulletproofing-llm-structured-output-in-python-healing-retries-cost-caps-and-drift-detection-c89",
+    "id": "002",
+    "title": "Leveraging Amazon GuardDuty suppression rules to eliminate noise",
+    "summary": "What is GuardDuty?\n\n\nAmazon GuardDuty is a continuous threat detection service that monitors, analyses, and processes data sources and logs across your AWS environment. It uses threat intelligence feeds (such as lists of malicious IP addresses, domains, and file hashes) combined with machine learnin",
+    "url": "https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "python",
-      "llm",
-      "ai",
-      "llmops"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "CDP Bridge MCP —— a bridge service that connects MCP clients to real browser sessions",
-    "summary": "CDP Bridge MCP is a bridge service that connects MCP clients to real browser sessions. Through its companion Chromium extension, model clients can access browser pages, list tabs, scan page content, execute JavaScript, capture screenshots, navigate pages, and read cookies.\n\n\n\n  \n  \n  Demo Videos\n\n\n\n",
-    "url": "https://dev.to/lala_par_c28d6b5df2765c7a/cdp-bridge-mcp-a-bridge-service-that-connects-mcp-clients-to-real-browser-sessions-52h8",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "mcp"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Tokenmaxxing: Codex + Claude Code Operator Stack 2026",
-    "summary": "In May 2026, four independent surfaces named the same pattern in the same news cycle. YC Lightcone called it tokenmaxxing — one founder plus an agent harness doing the work of four hundred engineers. OpenAI shipped Codex into the browser with parallel-tab and background execution. addyosmani/agent-s",
-    "url": "https://dev.to/max_quimby/tokenmaxxing-codex-claude-code-operator-stack-2026-318",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "agents",
-      "codex",
-      "developertools"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "String Polyfills and Common Interview Methods in JavaScript",
-    "summary": "Understanding how string methods work under the hood — and building them yourself.\n\n\n\n\nHere's something that changed how I think about JavaScript: anyone can use .trim() or .includes(). You call the method, it works, you move on. But can you build it from scratch? Can you explain what happens inside",
-    "url": "https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "chaicode",
-      "javascript",
-      "webdev",
-      "programming"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "My MCP Server Got Rate-Limited After Auth. Here's the 5-Line Fix.",
-    "summary": "A Sentry MCP user reported it on March 18: \"all API calls being rate-limited within a few minutes of auth.\" The OAuth handshake works fine. It's the calls after auth that quietly burn the budget, one runaway automation loop already cost a team $47,000 in eight hours.\n\nIf you run an MCP server today,",
-    "url": "https://dev.to/zekebuilds/my-mcp-server-got-rate-limited-after-auth-heres-the-5-line-fix-2gl",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "mcp",
-      "claude",
-      "ai",
-      "lightning"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Monitoring: From Black Box to Glass Box",
-    "summary": "You've built your AI agent. You've configured the tools, crafted a thoughtful system prompt, and deployed it to your users. Job done, right?\n\nNot quite. Once your agent is live, a whole new set of questions emerges: Is it actually working? How fast is it responding? How many tokens is it burning thr",
-    "url": "https://dev.to/halton_chen/monitoring-from-black-box-to-glass-box-29h2",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "monitoring",
-      "agents"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "ECET AI Study Buddy using Gemma 4 – My First Local AI Project",
-    "summary": "🚀 Introduction\n\nI built a simple AI Study Buddy for ECET preparation using Gemma 4.\nThe goal of this project is to help students practice multiple-choice questions, get instant answers, and learn explanations in an easy way.\n\n🤖 Why I chose Gemma 4\n\nI chose Gemma 4 because:\n\nIt is lightweight and can",
-    "url": "https://dev.to/bajiniteenoj/ecet-ai-study-buddy-using-gemma-4-my-first-local-ai-project-218",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma",
-      "ai"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Array Methods You Must Know",
-    "summary": "The six methods that turn JavaScript arrays from basic lists into powerful tools.\n\n\n\n\nWhen I first learned arrays, I thought I was done. Create an array, access elements by index, loop through them with for — what else is there? Then I discovered array methods, and it felt like upgrading from a bicy",
-    "url": "https://dev.to/pratham69/array-methods-you-must-know-4h35",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "chaicode",
-      "javascript",
-      "webdev",
-      "programming"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "HTTP/3 and QUIC: What Developers Need to Know About the New Web Transport Layer",
-    "summary": "HTTP/3 and QUIC: What Developers Need to Know About the New Web Transport Layer\n\n\nFor most of the web's history, the transport layer beneath our applications has been remarkably stable. TCP carried our packets, TLS encrypted them, and HTTP shaped them into something browsers could understand. That s",
-    "url": "https://dev.to/manchesterdigitalhub/http3-and-quic-what-developers-need-to-know-about-the-new-web-transport-layer-38hb",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "performance",
-      "networking",
-      "http3"
-    ]
-  },
-  {
-    "id": "014",
-    "title": "Layer 4 of the Agentic OS: Scaling and Distributing AI Capabilities",
-    "summary": "Over the course of this series, we have constructed a highly capable, deterministic AI architecture for a repository. \n\nWe configured Always-On Context (Layer 1) to enforce universal coding conventions, implemented On-Demand Capabilities (Layer 2) for specialized Prompts and Skills, and wrangled the",
-    "url": "https://dev.to/danielmontes9/layer-4-of-the-agentic-os-scaling-and-distributing-ai-capabilities-13i1",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "githubcopilot",
-      "agentic",
+      "aws",
+      "security",
+      "cloud",
       "devops"
     ]
   },
   {
-    "id": "015",
-    "title": "🚀 How to Solve Arrays and Hashing Problems in Data Structure?",
-    "summary": "Arrays and Hashing are among the most important topics in Data Structures & Algorithms (DSA) and are frequently asked in coding interviews at companies like FAANG, startups, and product-based companies. Here’s a simple roadmap to master them 👇\n\n\n  \n  \n  📌 1. Understand the Problem Type\n\n\nBefore codi",
-    "url": "https://dev.to/buildwithsomnath/how-to-solve-arrays-and-hashing-problems-in-data-structure-4fk6",
+    "id": "003",
+    "title": "Cell-Based Architecture: The Only Way to Survive the 2026 Agentic Loop Explosion",
+    "summary": "Cell-Based Architecture: The Only Way to Survive the 2026 Agentic Loop Explosion\n\n\nIn 2026, autonomous agent loops are the ultimate \"noisy neighbor,\" capable of devouring an entire Kubernetes cluster's throughput in seconds during a recursive hallucination. If you’re still dumping these unpredictabl",
+    "url": "https://dev.to/machinecodingmaster/cell-based-architecture-the-only-way-to-survive-the-2026-agentic-loop-explosion-55fe",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "datastructures",
-      "requestforpost",
-      "hashing",
-      "challenge"
+      "systemdesign",
+      "java",
+      "ai",
+      "concurrency"
     ]
   },
   {
-    "id": "016",
-    "title": "Vibe Coding: Are We Building Faster or Just Building Bigger Messes?",
-    "summary": "Hanzla BaigFollow\n\n    \n      Front-end dev & Founder at TheBitForge. I ship clean UI with HTML, CSS, JS, and a splash of Java—building fast, accessible web products with old-school craft and a future-first mindset.\n    \n  \n\n\n\n\n92% of developers use AI coding tools daily. 46% of all new code is AI-g",
-    "url": "https://dev.to/hanzla/vibe-coding-are-we-building-faster-or-just-building-bigger-messes-53k0",
+    "id": "004",
+    "title": "A senior engineer spotted a bug in my pipeline. I fixed it the same day. Here is what I learned.",
+    "summary": "A few weeks ago I published an article about an event-driven order pipeline I built in .NET with Kafka and Azure Service Bus. Someone left a comment that stopped me in my tracks.\n\nAndrew Tan wrote:\n\n\"One thing I'd watch: you now have two sources of truth in flight, PostgreSQL and Kafka. If the API c",
+    "url": "https://dev.to/aftabkh4n/a-senior-engineer-spotted-a-bug-in-my-pipeline-i-fixed-it-the-same-day-here-is-what-i-learned-1nan",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "vibecoding",
-      "webdev",
+      "dotnet",
+      "kafka",
+      "architecture",
+      "microservices"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "shitty first commits",
+    "summary": "A few weeks ago I was scrolling through GitHub at 1am. I don't know why I do this to myself. I guess it's the same energy as scrolling through the Instagram of someone you used to know. You're not gonna find anything good. But you keep going anyway.\nI ended up on the profile of an engineer I've alwa",
+    "url": "https://dev.to/sandesh8622/shitty-first-commits-2146",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "github",
       "productivity",
-      "ai"
+      "programming",
+      "beginners"
     ]
   },
   {
-    "id": "017",
-    "title": "France moves to break encrypted messaging",
-    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 104\n# Comments: 60",
-    "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "006",
+    "title": "I gave Claude a persistent memory for $0/month using Cloudflare",
+    "summary": "I gave Claude a persistent memory for $0/month using Cloudflare\n\n\nClaude is great. But every time you start a new conversation, it forgets everything. Your projects, your preferences, what you decided last week — gone.\n\nThe official memory feature exists, but it's vague and you can't really control ",
+    "url": "https://dev.to/rahil_pirani_c48446facc8c/i-gave-claude-a-persistent-memory-for-0month-using-cloudflare-2e5a",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "claude",
+      "cloudflare",
+      "mcp",
+      "webdev"
     ]
   },
   {
-    "id": "018",
-    "title": "Getting arrested in Japan",
-    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 171\n# Comments: 194",
-    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "007",
+    "title": "¿Por qué Go mató a la herencia?",
+    "summary": "La decisión de los creadores de Go de eliminar la herencia de clases no fue un capricho académico. Fue una respuesta directa a décadas de jerarquías de objetos frágiles. En Go, no heredas lo que un objeto \"es\", sino que construyes lo que un objeto \"hace\".\n\n\nLa herencia tradicional crea acoplamiento ",
+    "url": "https://dev.to/jcmexdev/por-que-go-mato-a-la-herencia-23ab",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "go",
+      "architecture",
+      "designpatterns",
+      "spanish"
     ]
   },
   {
-    "id": "019",
-    "title": "Show HN: Rust but Lisp",
-    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 96\n# Comments: 55",
-    "url": "https://github.com/ThatXliner/rust-but-lisp",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "008",
+    "title": "Wireless Networks",
+    "summary": "A wireless network is a communication system that uses radio waves or other wireless signals to connect devices together. This enables them to communicate and extanche data without the need for physical cables. This technology allows devices to connect to the interent, share files and access service",
+    "url": "https://dev.to/hirave_palak/wireless-networks-52j",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "networking",
+      "network",
+      "beginners",
+      "learning"
     ]
   },
   {
-    "id": "020",
-    "title": "Local privilege escalation via execve()",
-    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 105\n# Comments: 60",
-    "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "009",
+    "title": "Multi‑Agent Orchestration: The Next Frontier in AI Collaboration",
+    "summary": "Introduction\n\n\nArtificial Intelligence has evolved from isolated, single‑purpose agents into interconnected ecosystems where multiple agents collaborate. The latest advancement—Multi‑Agent Orchestration powered by Agent‑to‑Agent (A2A) communication—is redefining how organizations automate complex ta",
+    "url": "https://dev.to/seenakhan/multi-agent-orchestration-the-next-frontier-in-ai-collaboration-2fke",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "agents",
+      "ai",
+      "architecture",
+      "automation"
     ]
   },
   {
-    "id": "021",
-    "title": "I caught the car",
-    "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 41\n# Comments: 54",
-    "url": "https://undecidability.net/senior/",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "010",
+    "title": "🤖 Building Social Games with AI — The Practitioner's Guide 📖",
+    "summary": "A comprehensive, opinionated, actionable guide for using AI to build, ship, and operate social games in the lineage covered by 🌾 The Social Games Playbook 🎮 — Stardew Valley, Township, Pixels.xyz, FarmVille 3, Dragon City, Core Keeper, etc.\n\nRead this after the main playbook. The playbook tells you ",
+    "url": "https://dev.to/truongpx396/building-social-games-with-ai-the-practitioners-guide-o98",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "ai",
+      "webdev",
+      "programming",
+      "tutorial"
     ]
   },
   {
-    "id": "022",
-    "title": "Surfel-based global illumination on the web",
-    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 26\n# Comments: 0",
-    "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "011",
+    "title": "I built a browser tool that removes small daily frustrations",
+    "summary": "# Click-Line\n\n\n  \n  \n  I got tired of fighting my browser, so I built this\n\n\nWhile working and browsing daily, I kept running into the same tiny frustrations:\n\n\nMissing letters while selecting text\n\nConstantly reaching for browser back/forward buttons\n\nAwkward zoom shortcuts\n\nRepetitive copy/search ",
+    "url": "https://dev.to/shubham_9ea559333065f3f11/i-built-a-browser-tool-that-removes-small-daily-frustrations-1jkm",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "productivity",
+      "chromeextensions",
+      "browser",
+      "showdev"
     ]
   },
   {
-    "id": "023",
-    "title": "Meta's embrace of A.I. is making its employees miserable",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 331\n# Comments: 321",
-    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "id": "012",
+    "title": "How I Built and Shipped a Production-Ready AI Recommendation System (Nomova.ai)",
+    "summary": "Overview\n\nNomova.ai is an AI/ML-powered vacation planning platform designed to generate personalized travel recommendations using predictive modeling and cloud infrastructure.\n\nThe goal of the project was to explore how modern AI systems can be built end-to-end—from model development to production d",
+    "url": "https://dev.to/austinjm121/how-i-built-and-shipped-a-production-ready-ai-recommendation-system-nomovaai-3pcp",
+    "date": "2026-05-10",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "ai",
+      "architecture",
+      "machinelearning",
+      "showdev"
     ]
   },
   {
-    "id": "024",
+    "id": "013",
+    "title": "The AI Cold War Has Started: Why Chinese AI Models Are Destroying US AI on Price",
+    "summary": "The AI industry just entered its most dangerous phase.\n\nNot because models are becoming smarter.\n\nBecause they are becoming cheaper.\n\nFor the past two years, US companies dominated the AI conversation:\n\n\nOpenAI built the most popular chatbot.\nAnthropic focused on safety.\nGoogle pushed Gemini into ev",
+    "url": "https://dev.to/yash_sonawane25/the-ai-cold-war-has-started-why-chinese-ai-models-are-destroying-us-ai-on-price-1eej",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "programming",
+      "opensource"
+    ]
+  },
+  {
+    "id": "014",
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -303,7 +196,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "015",
     "title": "Fintech startup Parker files for bankruptcy",
     "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
     "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
@@ -319,7 +212,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "016",
     "title": "GM agrees to pay $12.75M in California driver privacy settlement",
     "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
     "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
@@ -332,7 +225,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "017",
     "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
     "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
     "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
@@ -347,7 +240,7 @@
     ]
   },
   {
-    "id": "028",
+    "id": "018",
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
     "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
@@ -361,7 +254,7 @@
     ]
   },
   {
-    "id": "029",
+    "id": "019",
     "title": "The new Wild West of AI kids’ toys",
     "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
     "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
@@ -376,7 +269,7 @@
     ]
   },
   {
-    "id": "030",
+    "id": "020",
     "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
     "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it’s on sale at Woot ",
     "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
@@ -388,6 +281,177 @@
       "Smart Home",
       "Tech",
       "Verge Shopping"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "These great digital gifts will arrive just in time for Mother’s Day",
+    "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely aren’t alone in feeling guilty for considering digital gifts instead of something ",
+    "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Let it snow",
+    "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow.",
+    "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Entertainment",
+      "Games Review",
+      "Gaming"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "The game that makes me actually want to exercise",
+    "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
+    "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Apps",
+      "Gadgets",
+      "Installer",
+      "Tech"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
+    "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
+    "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
+    "date": "2026-05-09",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Tech",
+      "TVs"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
+    "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
+    "url": "https://www.wired.com/gallery/best-captioning-glasses/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Augmented and Virtual Reality",
+      "Gear / Products / Lifestyle",
+      "Gear / Products / Health and Fitness",
+      "buying guides",
+      "Shopping",
+      "smart glasses",
+      "eyewear",
+      "health",
+      "augmented reality",
+      "accessibility",
+      "Caption This"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
+    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "security roundup",
+      "cybersecurity",
+      "hacking",
+      "security",
+      "Russia",
+      "artificial intelligence",
+      "privacy",
+      "vulnerabilities",
+      "Google",
+      "Meta",
+      "Security Roundup"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
+    "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
+    "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Electric Vehicles",
+      "cars",
+      "automobiles",
+      "EVs and Hybrids",
+      "Concept Cars",
+      "China",
+      "BYD",
+      "Volkswagen",
+      "Volvo",
+      "General Motors",
+      "Toyota",
+      "nissan",
+      "Full Auto"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Instacart Promo Code: $15 Off | May 2026",
+    "summary": "Find the best Instacart promo code for massive savings in May 2026",
+    "url": "https://www.wired.com/story/instacart-promo/code/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
+    "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
+    "url": "https://www.wired.com/story/hellofresh-coupon/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "030",
+    "title": "50% Off Blue Apron Promo Codes | May 2026",
+    "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
+    "url": "https://www.wired.com/story/blue-apron-coupon/",
+    "date": "2026-05-09",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   }
 ]
