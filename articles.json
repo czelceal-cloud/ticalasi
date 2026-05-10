@@ -1,6 +1,39 @@
 [
   {
     "id": "001",
+    "title": "Gemini API File Search is now multimodal",
+    "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 3\n# Comments: 0",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+    "date": "2026-05-10",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves cust",
+    "url": "https://github.com/imtomt/ymawky",
+    "date": "2026-05-10",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Sparse Cholesky Elimination Tree",
+    "summary": "Article URL: https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html\nComments URL: https://news.ycombinator.com/item?id=48080221\nPoints: 7\n# Comments: 0",
+    "url": "https://www.reidatcheson.com/sparse/linear/cholesky/2026/04/09/etree.html",
+    "date": "2026-05-10",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -14,52 +47,50 @@
     ]
   },
   {
-    "id": "002",
-    "title": "Generation 2 — RAG-Augmented Models (2022–2023)",
-    "summary": "Generation 2: RAG — The Era of Grounded Knowledge (2022–2023)\nIn the first generation of AI, models were like brilliant students locked in a room with no internet. They had incredible reasoning skills, but their knowledge was frozen in time (their \"training data cutoff\"). If you asked about a compan",
-    "url": "https://dev.to/raghavenreddy/generation-2-rag-augmented-models-2022-2023-l1h",
+    "id": "005",
+    "title": "Bulletproofing LLM Structured Output in Python: Healing Retries, Cost Caps, and Drift Detection (Runnable Code)",
+    "summary": "I shipped a structured-output endpoint to production in March. The schema was clean, JSON mode was on, the model was GPT-4.1, the eval suite was green. Three weeks in, the on-call channel lit up because a downstream billing job had silently skipped 4,200 records over a weekend.\n\nThe output was valid",
+    "url": "https://dev.to/velsof/bulletproofing-llm-structured-output-in-python-healing-retries-cost-caps-and-drift-detection-c89",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "python",
+      "llm",
+      "ai",
+      "llmops"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "CDP Bridge MCP —— a bridge service that connects MCP clients to real browser sessions",
+    "summary": "CDP Bridge MCP is a bridge service that connects MCP clients to real browser sessions. Through its companion Chromium extension, model clients can access browser pages, list tabs, scan page content, execute JavaScript, capture screenshots, navigate pages, and read cookies.\n\n\n\n  \n  \n  Demo Videos\n\n\n\n",
+    "url": "https://dev.to/lala_par_c28d6b5df2765c7a/cdp-bridge-mcp-a-bridge-service-that-connects-mcp-clients-to-real-browser-sessions-52h8",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "aws",
-      "architecture",
-      "agents"
+      "mcp"
     ]
   },
   {
-    "id": "003",
-    "title": "🚀 React + Vite + Tailwind CSS + Shadcn UI Setup (vanillaJS)",
-    "summary": "A complete step-by-step guide to quickly set up **React + Vite + Tailwind CSS + Shadcn UI* with clean @/... alias imports — no TypeScript required!*\n\n\n⏱️ Time to complete: ~10 minutes\n🎯 Result: Production-ready React app with beautiful, accessible components\n\n\n\n\n\n\n  \n  \n  🧩 Step 1: Create a Vite + R",
-    "url": "https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i",
+    "id": "007",
+    "title": "Tokenmaxxing: Codex + Claude Code Operator Stack 2026",
+    "summary": "In May 2026, four independent surfaces named the same pattern in the same news cycle. YC Lightcone called it tokenmaxxing — one founder plus an agent harness doing the work of four hundred engineers. OpenAI shipped Codex into the browser with parallel-tab and background execution. addyosmani/agent-s",
+    "url": "https://dev.to/max_quimby/tokenmaxxing-codex-claude-code-operator-stack-2026-318",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "javascript",
-      "react",
-      "tailwindcss",
-      "tutorial"
+      "ai",
+      "agents",
+      "codex",
+      "developertools"
     ]
   },
   {
-    "id": "004",
-    "title": "Can we have a little Phun?",
-    "summary": "Was messing around with Suno and thought I would write a Phunny IT related song. Here is CRT reboot.",
-    "url": "https://dev.to/doug_trier_48bd83065738b1/can-we-have-a-little-phun-4g1l",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "discuss",
-      "humor",
-      "showdev",
-      "programminghumor"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "Understanding Objects in JavaScript",
-    "summary": "The data structure that mirrors the real world — and the backbone of nearly everything in JS.\n\n\n\n\nIn my last article, we talked about arrays — ordered lists of values accessed by index. Arrays are great when you have a collection of similar things: a list of fruits, a bunch of scores, a set of tasks",
-    "url": "https://dev.to/pratham69/understanding-objects-in-javascript-4d0c",
+    "id": "008",
+    "title": "String Polyfills and Common Interview Methods in JavaScript",
+    "summary": "Understanding how string methods work under the hood — and building them yourself.\n\n\n\n\nHere's something that changed how I think about JavaScript: anyone can use .trim() or .includes(). You call the method, it works, you move on. But can you build it from scratch? Can you explain what happens inside",
+    "url": "https://dev.to/pratham69/string-polyfills-and-common-interview-methods-in-javascript-4ha6",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
@@ -70,90 +101,51 @@
     ]
   },
   {
-    "id": "006",
-    "title": "Misadventures in Kubernetes: Autoscaling Workers",
-    "summary": "So we’ve already done a few things for setting up our own custom cluster. We’ve manually configured a Kubernetes Control Plane and joined worker nodes by hand. While that was a great way for us to learn the components, let’s be honest: setting up every server by hand is just not scalable for a real ",
-    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "kubernetes",
-      "gcp",
-      "devops"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Misadventures in Kubernetes: Creating Workers",
-    "summary": "So we have built a control plan from scratch. That’s kinda useful and was also kinda hard to make? But, really what we want to make is a proper, functioning, multi-node cluster that can actually run our containerized applications. A control plane by itself is just the brain; we need the muscle (the ",
-    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-creating-workers-29bb",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "kubernetes",
-      "gcp",
-      "devops"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Misadventures in Kubernetes: Provisioning the Control Plane",
-    "summary": "When using managed platforms like Google Kubernetes Engine (GKE), there are many things that you don’t have to worry about that it takes care of for you! But have you ever paused to consider what machinery operates beneath that simple surface? Perhaps wondered how you might be able to do it on your ",
-    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-provisioning-the-control-plane-12g5",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "kubernetes",
-      "gcp",
-      "devops"
-    ]
-  },
-  {
     "id": "009",
-    "title": "VPS Swap Fire: A Nightmare Started by a Kernel CVE Patch",
-    "summary": "Last week, precisely on a Monday morning, the \"Critical Alert\" notifications on my monitor struck fear into my eyes. The systems running on my own VPS, especially my Docker containers, had suddenly started to slow down. Even SSH connections were lagging, and my commands were taking a long time to ex",
-    "url": "https://dev.to/merbayerp/vps-swap-fire-a-nightmare-started-by-a-kernel-cve-patch-3c4f",
+    "title": "My MCP Server Got Rate-Limited After Auth. Here's the 5-Line Fix.",
+    "summary": "A Sentry MCP user reported it on March 18: \"all API calls being rate-limited within a few minutes of auth.\" The OAuth handshake works fine. It's the calls after auth that quietly burn the budget, one runaway automation loop already cost a team $47,000 in eight hours.\n\nIf you run an MCP server today,",
+    "url": "https://dev.to/zekebuilds/my-mcp-server-got-rate-limited-after-auth-heres-the-5-line-fix-2gl",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "vps",
-      "swap",
-      "kernel",
-      "cve"
+      "mcp",
+      "claude",
+      "ai",
+      "lightning"
     ]
   },
   {
     "id": "010",
-    "title": "The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania",
-    "summary": "The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania\n\n\n\n  \n  \n  The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania\n\n\nIf you put money into a kicau event, what are you really buying: a few hours of noise and banners, or a place inside a hobbyist",
-    "url": "https://dev.to/sybilla_vaught_5e999cb619/the-first-sale-happens-before-the-bird-sings-the-merchant-logic-of-kicau-mania-1372",
+    "title": "Monitoring: From Black Box to Glass Box",
+    "summary": "You've built your AI agent. You've configured the tools, crafted a thoughtful system prompt, and deployed it to your users. Job done, right?\n\nNot quite. Once your agent is live, a whole new set of questions emerges: Is it actually working? How fast is it responding? How many tokens is it burning thr",
+    "url": "https://dev.to/halton_chen/monitoring-from-black-box-to-glass-box-29h2",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "quest",
-      "proof"
+      "monitoring",
+      "agents"
     ]
   },
   {
     "id": "011",
-    "title": "Mise: alternativa para o asdf no windows",
-    "summary": "Recentemente me vi obrigado a trabalhar no windows em um computador com pouca memória ram, então usar o asdf dentro de um wsl rodando no windows não ia rolar pois a memória utilizada seria muito grande(embora eu possa configurar para usar menos ainda assim não seria o ideal), pensando nisso busquei ",
-    "url": "https://dev.to/jackson_primo/mise-alternativa-para-o-asdf-no-windows-3en5",
+    "title": "ECET AI Study Buddy using Gemma 4 – My First Local AI Project",
+    "summary": "🚀 Introduction\n\nI built a simple AI Study Buddy for ECET preparation using Gemma 4.\nThe goal of this project is to help students practice multiple-choice questions, get instant answers, and learn explanations in an easy way.\n\n🤖 Why I chose Gemma 4\n\nI chose Gemma 4 because:\n\nIt is lightweight and can",
+    "url": "https://dev.to/bajiniteenoj/ecet-ai-study-buddy-using-gemma-4-my-first-local-ai-project-218",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "asdf",
-      "mise",
-      "windows",
-      "programming"
+      "devchallenge",
+      "gemmachallenge",
+      "gemma",
+      "ai"
     ]
   },
   {
     "id": "012",
-    "title": "JavaScript Arrays 101",
-    "summary": "Your first real data structure — and the one you'll use more than any other.\n\n\n\n\nLet me paint a picture. You're building a to-do app. You've got 5 tasks. So you do the \"logical\" thing:\n\n\n\nlet task1 = \"Buy groceries\";\nlet task2 = \"Finish homework\";\nlet task3 = \"Call mom\";\nlet task4 = \"Go to gym\";\nlet",
-    "url": "https://dev.to/pratham69/javascript-arrays-101-3hd1",
+    "title": "Array Methods You Must Know",
+    "summary": "The six methods that turn JavaScript arrays from basic lists into powerful tools.\n\n\n\n\nWhen I first learned arrays, I thought I was done. Create an array, access elements by index, loop through them with for — what else is there? Then I discovered array methods, and it felt like upgrading from a bicy",
+    "url": "https://dev.to/pratham69/array-methods-you-must-know-4h35",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
@@ -165,22 +157,64 @@
   },
   {
     "id": "013",
-    "title": "How I Run Multiple Claude Code Accounts From One Terminal",
-    "summary": "The first problem sounds simple: you have more than one Claude Code account.\n\nMaybe one is personal and one belongs to your company. Maybe you use Claude Max personally but your org wants work to happen under its own account. Maybe you freelance and each client expects a clean boundary.\n\nYou can sol",
-    "url": "https://dev.to/harryy2510/multiple-claude-code-accounts-one-terminal-5em5",
+    "title": "HTTP/3 and QUIC: What Developers Need to Know About the New Web Transport Layer",
+    "summary": "HTTP/3 and QUIC: What Developers Need to Know About the New Web Transport Layer\n\n\nFor most of the web's history, the transport layer beneath our applications has been remarkably stable. TCP carried our packets, TLS encrypted them, and HTTP shaped them into something browsers could understand. That s",
+    "url": "https://dev.to/manchesterdigitalhub/http3-and-quic-what-developers-need-to-know-about-the-new-web-transport-layer-38hb",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "agents",
-      "programming",
-      "claudecode"
+      "webdev",
+      "performance",
+      "networking",
+      "http3"
     ]
   },
   {
     "id": "014",
-    "title": "France Moves to Break Encrypted Messaging",
-    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 71\n# Comments: 27",
+    "title": "Layer 4 of the Agentic OS: Scaling and Distributing AI Capabilities",
+    "summary": "Over the course of this series, we have constructed a highly capable, deterministic AI architecture for a repository. \n\nWe configured Always-On Context (Layer 1) to enforce universal coding conventions, implemented On-Demand Capabilities (Layer 2) for specialized Prompts and Skills, and wrangled the",
+    "url": "https://dev.to/danielmontes9/layer-4-of-the-agentic-os-scaling-and-distributing-ai-capabilities-13i1",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "githubcopilot",
+      "agentic",
+      "devops"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "🚀 How to Solve Arrays and Hashing Problems in Data Structure?",
+    "summary": "Arrays and Hashing are among the most important topics in Data Structures & Algorithms (DSA) and are frequently asked in coding interviews at companies like FAANG, startups, and product-based companies. Here’s a simple roadmap to master them 👇\n\n\n  \n  \n  📌 1. Understand the Problem Type\n\n\nBefore codi",
+    "url": "https://dev.to/buildwithsomnath/how-to-solve-arrays-and-hashing-problems-in-data-structure-4fk6",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "datastructures",
+      "requestforpost",
+      "hashing",
+      "challenge"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Vibe Coding: Are We Building Faster or Just Building Bigger Messes?",
+    "summary": "Hanzla BaigFollow\n\n    \n      Front-end dev & Founder at TheBitForge. I ship clean UI with HTML, CSS, JS, and a splash of Java—building fast, accessible web products with old-school craft and a future-first mindset.\n    \n  \n\n\n\n\n92% of developers use AI coding tools daily. 46% of all new code is AI-g",
+    "url": "https://dev.to/hanzla/vibe-coding-are-we-building-faster-or-just-building-bigger-messes-53k0",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "vibecoding",
+      "webdev",
+      "productivity",
+      "ai"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "France moves to break encrypted messaging",
+    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 104\n# Comments: 60",
     "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -189,9 +223,9 @@
     ]
   },
   {
-    "id": "015",
+    "id": "018",
     "title": "Getting arrested in Japan",
-    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 139\n# Comments: 146",
+    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 171\n# Comments: 194",
     "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -200,9 +234,9 @@
     ]
   },
   {
-    "id": "016",
-    "title": "Rust but Lisp",
-    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 72\n# Comments: 35",
+    "id": "019",
+    "title": "Show HN: Rust but Lisp",
+    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 96\n# Comments: 55",
     "url": "https://github.com/ThatXliner/rust-but-lisp",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -211,9 +245,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "020",
     "title": "Local privilege escalation via execve()",
-    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 86\n# Comments: 57",
+    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 105\n# Comments: 60",
     "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -222,9 +256,9 @@
     ]
   },
   {
-    "id": "018",
+    "id": "021",
     "title": "I caught the car",
-    "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 39\n# Comments: 37",
+    "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 41\n# Comments: 54",
     "url": "https://undecidability.net/senior/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -233,9 +267,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "022",
     "title": "Surfel-based global illumination on the web",
-    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 12\n# Comments: 0",
+    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 26\n# Comments: 0",
     "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -244,43 +278,10 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Meta's embrace of A.I. is making its employees miserable",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 289\n# Comments: 252",
-    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed ",
-    "url": "https://github.com/nooga/let-go",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Zed Editor Theme-Builder",
-    "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 157\n# Comments: 44",
-    "url": "https://zed.dev/theme-builder",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "023",
-    "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-    "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 109\n# Comments: 59",
-    "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+    "title": "Meta's embrace of A.I. is making its employees miserable",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 331\n# Comments: 321",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
     "date": "2026-05-09",
     "source": "Hacker News",
     "tags": [
