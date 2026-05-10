@@ -7,6 +7,72 @@
   "items": [
     {
       "id": "001",
+      "url": "https://e360.yale.edu/features/amoc-climate-change",
+      "title": "Scientists warn Atlantic current at risk of shutting down",
+      "summary": "Article URL: https://e360.yale.edu/features/amoc-climate-change\nComments URL: https://news.ycombinator.com/item?id=48084836\nPoints: 3\n# Comments: 0",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+      "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features\nComments URL: https://news.ycombinator.com/item?id=48084710\nPoints: 6\n# Comments: 0",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
+      "summary": "Article URL: https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer\nComments URL: https://news.ycombinator.com/item?i",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/",
+      "title": "Taxpayers May Be Eligible for Significant Tax Refunds – If They Act by July 10",
+      "summary": "Article URL: https://www.taxpayeradvocate.irs.gov/news/nta-blog/tens-of-millions-of-taxpayers-may-be-eligible-for-significant-tax-refunds/2026/04/\nComments URL: https://news.ycombinator.com/item?id=48084350\nPoints: 32\n# Comments: 9",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://rarehistoricalphotos.com/weird-japanese-inventions/",
+      "title": "Chindogu: Weird and Useless Japanese Inventions",
+      "summary": "Article URL: https://rarehistoricalphotos.com/weird-japanese-inventions/\nComments URL: https://news.ycombinator.com/item?id=48084315\nPoints: 28\n# Comments: 6",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "title": "Academic Research Skills for Claude Code",
+      "summary": "Article URL: https://github.com/Imbad0202/academic-research-skills\nComments URL: https://news.ycombinator.com/item?id=48083919\nPoints: 24\n# Comments: 1",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
       "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
       "title": "9 Mothers (YC P26) Is Hiring",
       "summary": "Article URL: https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q\nComments URL: https://news.ycombinator.com/item?id=48083251\nPoints: 0\n# Comments: 0",
@@ -17,76 +83,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "002",
+      "id": "008",
       "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
       "title": "What's a Mathematician to Do?",
-      "summary": "Article URL: https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do\nComments URL: https://news.ycombinator.com/item?id=48083007\nPoints: 23\n# Comments: 3",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
-      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-      "title": "Space Cadet Pinball on Linux",
-      "summary": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/\nComments URL: https://news.ycombinator.com/item?id=48082968\nPoints: 115\n# Comments: 33",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
-      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
-      "summary": "Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/\nComments URL: https://news.ycombinator.com/item?id=48082676\nPoints: 69\n# Comments: 9",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
-      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
-      "title": "Think Linear Algebra (2023)",
-      "summary": "Article URL: https://allendowney.github.io/ThinkLinearAlgebra/index.html\nComments URL: https://news.ycombinator.com/item?id=48082396\nPoints: 28\n# Comments: 0",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
-      "url": "https://arxiv.org/abs/2605.05419",
-      "title": "LLMorphism: When humans come to see themselves as language models",
-      "summary": "Article URL: https://arxiv.org/abs/2605.05419\nComments URL: https://news.ycombinator.com/item?id=48082021\nPoints: 41\n# Comments: 17",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-      "title": "Task Paralysis and AI",
-      "summary": "Article URL: https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html\nComments URL: https://news.ycombinator.com/item?id=48081469\nPoints: 72\n# Comments: 47",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
-      "url": "https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html",
-      "title": "Debian must ship reproducible packages",
-      "summary": "Article URL: https://lists.debian.org/debian-devel-announce/2026/05/msg00001.html\nComments URL: https://news.ycombinator.com/item?id=48081245\nPoints: 246\n# Comments: 88",
+      "summary": "Article URL: https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do\nComments URL: https://news.ycombinator.com/item?id=48083007\nPoints: 63\n# Comments: 30",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
-      "title": "Gemini API File Search is now multimodal",
-      "summary": "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/\nComments URL: https://news.ycombinator.com/item?id=48080702\nPoints: 127\n# Comments: 24",
+      "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+      "title": "Space Cadet Pinball on Linux",
+      "summary": "Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/\nComments URL: https://news.ycombinator.com/item?id=48082968\nPoints: 194\n# Comments: 61",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://github.com/imtomt/ymawky",
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "summary": "This is ymawky, a static file web server for MacOS written entirely in ARM64 assembly. It supports GET, PUT, DELETE, HEAD, and OPTIONS requests, and supports Range: bytes=X-Y headers (which allows scrubbing for video streaming). It decodes percent-encoded URLs, strictly enforces docroot, serves cust",
+      "url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
+      "title": "Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary",
+      "summary": "Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/\nComments URL: https://news.ycombinator.com/item?id=48082676\nPoints: 111\n# Comments: 16",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -117,6 +117,30 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "AI"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
+      "title": "The hottest place for startups to strike a deal? The F1 paddock",
+      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Media & Entertainment",
+        "f1",
+        "Sports"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -130,7 +154,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "014",
       "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
       "title": "Do you take after your dad’s RNA?",
       "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
@@ -145,7 +169,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "013",
+      "id": "015",
       "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
       "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
       "summary": "Fortunately, it happened early in the morning, so nobody was around.",
@@ -162,7 +186,22 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "014",
+      "id": "016",
+      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
+      "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
+      "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, cards, bookmarks, and more. The small […",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Gadgets",
+        "Hands-on",
+        "Reviews",
+        "Smart Home",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "017",
       "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
       "title": "Writers are fleeing the Substack Tax",
       "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platform that gives it more control over its site. Others who have departed Substack wi",
@@ -176,7 +215,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
       "title": "Netflix may have finally figured out games",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. E",
@@ -191,7 +230,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
       "title": "Vivo’s X300 Ultra has the best cameras in any phone",
       "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
@@ -205,7 +244,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
       "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
       "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
@@ -223,7 +262,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
       "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
       "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
@@ -245,7 +284,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "022",
       "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
       "title": "How Handheld Translators Work and Why They’re Handy for Travel",
       "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
@@ -269,7 +308,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "023",
       "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
       "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
       "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
@@ -286,138 +325,100 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
-      "url": "https://dev.to/satyasootar/creating-routes-and-handling-requests-with-express-ibm",
-      "title": "Creating Routes and Handling Requests with Express",
-      "summary": "Hello readers 👋, welcome to the 11th blog in our Node.js series!\n\nWe've come a long way. We started by setting up Node.js, understood its event loop, explored blocking vs non‑blocking code, handled async operations with promises, secured routes with JWT, designed a REST API, and even dove into middl",
-      "date_published": "2026-05-10",
-      "tags": [
-        "express",
-        "routes",
-        "node"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/satyasootar/what-is-middleware-in-express-and-how-it-works-47an",
-      "title": "What is Middleware in Express and How It Works",
-      "summary": "Hello readers 👋, welcome to the 10th blog in our Node.js series!\n\nIn the last post, we built a clean REST API using Express.js for a users resource. We defined routes and handled different HTTP methods. Today, we are going to explore a concept that sits quietly at the heart of every Express applicat",
-      "date_published": "2026-05-10",
-      "tags": [
-        "express",
-        "node"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/aaronmaxwell/deterministic-ai-423h",
-      "title": "Deterministic AI",
-      "summary": "The enthusiasm around AI has been focused on large language models for years now. For quite a few folks, this is their first real experience with AI at all. And I am sure you have noticed something:\n\nLLMs are non-deterministic.\n\nIn other words, repeated invocations of the algorithm with the same inp",
-      "date_published": "2026-05-10",
-      "tags": [
-        "ai",
-        "beginners",
-        "llm",
-        "machinelearning"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "024",
-      "url": "https://dev.to/techwithhari/i-built-a-self-updating-seo-brain-inspired-by-andrej-karpathys-llm-wiki-39p1",
-      "title": "I Built a Self-Updating SEO Brain Inspired by Andrej Karpathy's LLM Wiki",
-      "summary": "The Tweet That Changed How I Think About AI + Knowledge\n\n\nIn early April 2026, Andrej Karpathy (OpenAI co-founder, former Tesla AI Director) posted something deceptively simple:\n\n\n\"Something I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research",
+      "url": "https://dev.to/gamepad64/act-07-sessions-three-production-bridges-and-auth-via-args-278l",
+      "title": "ACT 0.7: sessions, three production bridges, and auth-via-args",
+      "summary": "The previous posts focused on what ACT is — sandboxed components, one\nbinary per transport, capability ceilings. This one is about a thing\nthat was missing: state.\n\nMost of the components on actpkg are pure request/response — crypto,\nencoding, random, time. They don't need a session because every\nca",
       "date_published": "2026-05-10",
       "tags": [
         "ai",
-        "python",
-        "devops",
-        "machinelearning"
+        "mcp",
+        "webassembly",
+        "opensource"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/kenimo49/i-tried-3-layers-of-ai-code-review-so-your-diff-doesnt-have-to-16ec",
-      "title": "I Tried 3 Layers of AI Code Review So Your Diff Doesn't Have To",
-      "summary": "I shipped 3 bugs after 'looks good to me' AI code review last quarter\n\n\nI had one of those quarters where every PR went through an AI reviewer, every PR got a friendly \"LGTM with minor suggestions\", and three of those PRs still managed to wedge production. One was an N+1 query that only appeared whe",
+      "url": "https://dev.to/msaud/i-built-an-offline-personal-finance-tracker-using-only-html-css-javascript-28b2",
+      "title": "I Built an Offline Personal Finance Tracker Using Only HTML, CSS & JavaScript",
+      "summary": "Like many developers, I spent a long time building projects just to practice coding.\n\nTry for Free: P-Tracker\n\nPortfolio projects.\nCRUD apps.\nTutorial clones.\nDashboards nobody would actually use.\n\nBut recently, I decided to approach development differently.\n\nInstead of building another “developer p",
       "date_published": "2026-05-10",
       "tags": [
         "ai",
-        "codereview",
-        "devops",
-        "claudecode"
+        "webdev",
+        "productivity",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/susheel_kumar_2041f5433d2/payx3-multi-chain-crypto-payment-sdk-youve-been-waiting-for-5f2k",
-      "title": "payx3: Multi-Chain Crypto Payment SDK You've Been Waiting For",
-      "summary": "The Problem\n\n\nEvery crypto payment integration follows the same painful pattern:\n\n\nRead blockchain docs for each chain\nImplement RPC calls\nHandle WebSocket reconnections\nParse transaction data\nCalculate correct decimals (looking at you, BSC USDT with 18 decimals while everyone else uses 6)\nBuild blo",
+      "url": "https://dev.to/trustboundarylab/the-browser-is-not-a-security-boundary-1flj",
+      "title": "The Browser Is Not a Security Boundary",
+      "summary": "Photo by Zulfugar Karimov on Unsplash\n\n\n\n\nModern web applications increasingly push business logic into the frontend.\n\nReact, Angular, Vue, SPAs, mobile-hybrid applications, GraphQL-driven interfaces, and API-first architectures have transformed how applications are built.\n\nThis shift brought major ",
       "date_published": "2026-05-10",
       "tags": [
-        "blockchain",
-        "javascript",
-        "showdev",
-        "web3"
+        "webdev",
+        "programming",
+        "cybersecurity",
+        "learning"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/aws-builders/beyond-vibe-coding-into-agentic-engineering-5fef",
-      "title": "Beyond Vibe Coding into Agentic Engineering",
-      "summary": "In 2025 I published a blog post titled Common security pitfalls using Vibe coding, where I briefly explained what vibe-coding is, and what the security issues arise from \"vide coding\".\nRecently, I came across an emerging term called \"Agentic Engineering\".\nIn this blog post, I will explain what \"Agen",
+      "url": "https://dev.to/pgmpofu/why-i-built-an-ml-powered-secrets-detector-instead-of-just-using-regex-4koa",
+      "title": "Why I Built an ML-Powered Secrets Detector Instead of Just Using Regex",
+      "summary": "ost secrets scanners work the same way.\n\nThey maintain a list of regex patterns — one for AWS access keys, one for GitHub personal access tokens, one for Stripe keys, one for JWT headers — and they scan your code looking for matches. When a pattern fires, they report a finding. When it doesn't, they",
       "date_published": "2026-05-10",
       "tags": [
-        "ai",
-        "programming",
-        "learning",
-        "agents"
+        "security",
+        "machinelearning",
+        "appsec",
+        "python"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/safiullahkorai/why-every-developer-should-write-the-skill-that-quietly-changes-everything-2fd4",
-      "title": "Why Every Developer Should Write: The Skill That Quietly Changes Everything",
-      "summary": "I did not plan to become someone who writes.\n\nI was just trying to survive as a developer.\n\nThere were days when nothing made sense. Errors that felt personal. Concepts that refused to stick. Tutorials that skipped the exact step I needed.\n\nAnd then there was silence.\n\nNo one talks about how confusi",
+      "url": "https://dev.to/sivadevaki121212/why-salesforce-email-for-education-sector-breaks-at-scale-and-how-to-fix-it-8h7",
+      "title": "Why Salesforce Email for Education Sector Breaks at Scale and How to Fix It",
+      "summary": "Most educational institutions that invest in Salesforce do so because they want a single platform to manage every constituent relationship, from the first inquiry of a prospective student through decades of alumni engagement and donor stewardship. The platform delivers on that promise at the data le",
       "date_published": "2026-05-10",
       "tags": [
-        "webdev",
-        "writing",
-        "beginners",
-        "career"
+        "cloud",
+        "education",
+        "productivity",
+        "software"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/rraluca07/turning-observability-into-a-search-space-5dhc",
-      "title": "Turning Observability into a Tunable Search Space",
-      "summary": "In the Mlops world, people have long used DAGs/graphs or at least the consensus has been that best practice was to use them. With AI and agents, the types of graphs used for orchestration or instrumentation are more varied, but they share the same core idea: capturing and tracking the artifacts prod",
+      "url": "https://dev.to/doszhan/why-your-app-feels-slow-and-how-we-fixed-it-with-powersync-ehc",
+      "title": "Why your app feels slow and how we fixed it with PowerSync",
+      "summary": "The honeymoon phase of every MVP\n\n\nYou know the feeling: while you’re building an MVP, everything flies. A couple of users, an empty database, a fast server. The user clicks a button, the frontend sends a request, the backend responds, and the UI updates. It all feels predictable and straightforward",
       "date_published": "2026-05-10",
       "tags": [
-        "ai",
-        "agents",
-        "automl",
-        "observability"
+        "architecture",
+        "database",
+        "performance",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/jonoherrington/diagnosis-didnt-change-my-leadership-ownership-did-3ll5",
-      "title": "Diagnosis Didn't Change My Leadership. Ownership Did.",
-      "summary": "I left a role in part because one cross-functional relationship kept overstimulating me and I did not have a framework to understand my own reaction pattern. My ADHD diagnosis did not magically fix leadership, but it gave me language for what was happening and a path to own it before it kept damagin",
+      "url": "https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-2-bridge-the-async-model-3cgo",
+      "title": "C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model",
+      "summary": "In part 1 we built the minimal io_uring loop: setup, mmaps, SQE/CQE draining, accept/recv/send via opcode dispatch.This was the first step to understanding how the kernel interface works but the dispatch logic was basically hand coded, a state machine that would not scale.\nThis second part is all ab",
       "date_published": "2026-05-10",
       "tags": [
-        "leadership",
-        "productivity",
-        "mentalhealth"
+        "csharp",
+        "dotnet",
+        "linux",
+        "networking"
       ],
       "_source": "Dev.to"
     }
