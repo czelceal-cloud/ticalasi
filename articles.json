@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Tracesofhumanity.org by Joanna Rutkowska",
-    "summary": "Article URL: https://tracesofhumanity.org/hello-world/\nComments URL: https://news.ycombinator.com/item?id=48085782\nPoints: 8\n# Comments: 0",
-    "url": "https://tracesofhumanity.org/hello-world/",
+    "title": "Hardware Attestation as Monopoly Enabler",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 330\n# Comments: 103",
+    "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Remind HN: Today is Mother's Day, call your moms",
-    "summary": "And for any mothers here, happy Mother's Day.\n\nComments URL: https://news.ycombinator.com/item?id=48085384\nPoints: 245\n# Comments: 74",
-    "url": "https://news.ycombinator.com/item?id=48085384",
+    "title": "Incident Report: CVE-2024-YIKES",
+    "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 145\n# Comments: 32",
+    "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "I have seen the dystopian future of elderly care",
-    "summary": "Article URL: https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/\nComments URL: https://news.ycombinator.com/item?id=48085332\nPoints: 16\n# Comments: 11",
-    "url": "https://www.telegraph.co.uk/world-news/2026/05/09/testing-the-japanese-airec-robot-for-elderly-care/",
+    "title": "Ask HN: What are you working on? (May 2026)",
+    "summary": "What are you working on?  Any new ideas that you're thinking about?\n\nComments URL: https://news.ycombinator.com/item?id=48085993\nPoints: 26\n# Comments: 69",
+    "url": "https://news.ycombinator.com/item?id=48085993",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Spain just became one of Europe's cheapest power markets. Here is how",
-    "summary": "Article URL: https://janrosenow.substack.com/p/spain-just-became-one-of-europes\nComments URL: https://news.ycombinator.com/item?id=48085330\nPoints: 17\n# Comments: 1",
-    "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
+    "title": "Local AI needs to be the norm",
+    "summary": "Article URL: https://unix.foo/posts/local-ai-needs-to-be-norm/\nComments URL: https://news.ycombinator.com/item?id=48085821\nPoints: 14\n# Comments: 2",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "GitHub Is Sinking",
-    "summary": "Article URL: https://dbushell.com/2026/04/29/github-is-sinking/\nComments URL: https://news.ycombinator.com/item?id=48085095\nPoints: 74\n# Comments: 49",
-    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
+    "title": "Traces Of Humanity",
+    "summary": "Article URL: https://tracesofhumanity.org/hello-world/\nComments URL: https://news.ycombinator.com/item?id=48085782\nPoints: 73\n# Comments: 11",
+    "url": "https://tracesofhumanity.org/hello-world/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-    "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features\nComments URL: https://news.ycombinator.com/item?id=48084710\nPoints: 42\n# Comments: 21",
-    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+    "title": "Spain has become one of Europe’s cheapest power markets",
+    "summary": "Article URL: https://janrosenow.substack.com/p/spain-just-became-one-of-europes\nComments URL: https://news.ycombinator.com/item?id=48085330\nPoints: 72\n# Comments: 56",
+    "url": "https://janrosenow.substack.com/p/spain-just-became-one-of-europes",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Shunting-Yard Animation",
-    "summary": "Article URL: https://somethingorotherwhatever.com/shunting-yard-animation/\nComments URL: https://news.ycombinator.com/item?id=48084547\nPoints: 23\n# Comments: 5",
-    "url": "https://somethingorotherwhatever.com/shunting-yard-animation/",
+    "title": "YC's Biggest Scandals",
+    "summary": "Article URL: https://ycombinator.fyi/\nComments URL: https://news.ycombinator.com/item?id=48085314\nPoints: 21\n# Comments: 4",
+    "url": "https://ycombinator.fyi/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Louis Rossmann tells 3D printer maker Bambu Lab to 'Go (Bleep) yourself'",
-    "summary": "Article URL: https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer\nComments URL: https://news.ycombinator.com/item?i",
-    "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "title": "GitHub is sinking",
+    "summary": "Article URL: https://dbushell.com/2026/04/29/github-is-sinking/\nComments URL: https://news.ycombinator.com/item?id=48085095\nPoints: 141\n# Comments: 82",
+    "url": "https://dbushell.com/2026/04/29/github-is-sinking/",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Chindogu: Weird and Useless Japanese Inventions",
-    "summary": "Article URL: https://rarehistoricalphotos.com/weird-japanese-inventions/\nComments URL: https://news.ycombinator.com/item?id=48084315\nPoints: 54\n# Comments: 15",
-    "url": "https://rarehistoricalphotos.com/weird-japanese-inventions/",
+    "title": "The locals don't know",
+    "summary": "Article URL: https://www.quarter--mile.com/The-Locals-Dont-Know\nComments URL: https://news.ycombinator.com/item?id=48085055\nPoints: 42\n# Comments: 31",
+    "url": "https://www.quarter--mile.com/The-Locals-Dont-Know",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Academic Research Skills for Claude Code",
-    "summary": "Article URL: https://github.com/Imbad0202/academic-research-skills\nComments URL: https://news.ycombinator.com/item?id=48083919\nPoints: 53\n# Comments: 17",
-    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+    "summary": "Article URL: https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features\nComments URL: https://news.ycombinator.com/item?id=48084710\nPoints: 65\n# Comments: 31",
+    "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
     "date": "2026-05-10",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,23 @@
   },
   {
     "id": "011",
+    "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
+    "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
+    "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
+    "date": "2026-05-10",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Transportation",
+      "Airbnb",
+      "Praveen Neppalli Naga",
+      "StrictlyVC",
+      "Uber",
+      "X"
+    ]
+  },
+  {
+    "id": "012",
     "title": "TechCrunch Mobility: Lime’s IPO gamble",
     "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
     "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
@@ -127,7 +144,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "013",
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
     "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
@@ -138,7 +155,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "014",
     "title": "The hottest place for startups to strike a deal? The F1 paddock",
     "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
     "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
@@ -151,7 +168,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "015",
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
     "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
@@ -165,7 +182,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "016",
     "title": "Do you take after your dad’s RNA?",
     "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
     "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
@@ -180,7 +197,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "017",
     "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
     "summary": "Fortunately, it happened early in the morning, so nobody was around.",
     "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
@@ -197,7 +214,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "018",
     "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
     "summary": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in layers of reverb and four-on-the-floor dan",
     "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
@@ -211,7 +228,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "019",
     "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
     "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, cards, bookmarks, and more. The small […",
     "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
@@ -226,7 +243,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "020",
     "title": "Writers are fleeing the Substack Tax",
     "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platform that gives it more control over its site. Others who have departed Substack wi",
     "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
@@ -240,7 +257,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "021",
     "title": "Netflix may have finally figured out games",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. E",
     "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
@@ -255,7 +272,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "022",
     "title": "Vivo’s X300 Ultra has the best cameras in any phone",
     "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
     "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
@@ -269,7 +286,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "023",
     "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
     "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
     "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
@@ -287,7 +304,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "024",
     "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
     "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
     "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
@@ -309,7 +326,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "025",
     "title": "How Handheld Translators Work and Why They’re Handy for Travel",
     "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
     "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
@@ -333,7 +350,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "026",
     "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
     "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
     "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
@@ -350,73 +367,55 @@
     ]
   },
   {
-    "id": "026",
-    "title": "We're Linear Thinkers in an Exponentially-Changing World",
-    "summary": "We're Linear Thinkers in an Exponentially-Changing World\n\n\nThe more time I spend in the AI ecosystem, the more convinced I become that the pace of change isn’t just fast—it's explosive…and increasingly so. Most people still think in terms of linear change while the world is accelerating exponentiall",
-    "url": "https://dev.to/keithjmackay/were-linear-thinkers-in-an-exponentially-changing-world-53jc",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "aistrategy",
-      "agents",
-      "productivity",
-      "cognitiveload"
-    ]
-  },
-  {
     "id": "027",
-    "title": "Simplphoto for iPhone combines a manual camera, stop motion, and collages",
-    "summary": "I have released Simplphoto, a free iPhone app where I combined three things I personally missed: a manual camera, stop motion, and collages.\n\nThe idea started with reducing AI interference in the photo-taking process. That is why Simplphoto focuses not on “magic enhancement,” but on a more understan",
-    "url": "https://dev.to/vasilii_andreev/simplphoto-for-iphone-combines-a-manual-camera-stop-motion-and-collages-21am",
+    "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
+    "summary": "AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. I discovered this gap when I filed Issue #141 in the CoSAI secure-ai-tooling repository. I assumed it would be treated as a single risk entry. The r",
+    "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security",
     "date": "2026-05-10",
-    "source": "Dev.to",
+    "source": "VentureBeat",
     "tags": [
-      "ios",
-      "mobile",
-      "swift",
-      "camera"
+      "Security",
+      "DataDecisionMakers"
     ]
   },
   {
     "id": "028",
-    "title": "Volatility Risk Premium in 30 Lines of Python (And the 5 Mistakes That Wreck It)",
-    "summary": "The volatility risk premium (VRP) is the gap between what the options market prices in and what the underlying actually delivers. The formula fits in one line. The interesting part is in the inputs, the unit conversions, and a handful of mistakes that produce a plausible-looking but wrong number.\n\nT",
-    "url": "https://dev.to/tomasz_dobrowolski_35d32c/volatility-risk-premium-in-30-lines-of-python-and-the-5-mistakes-that-wreck-it-4h6a",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "python",
-      "finance",
-      "quant",
-      "datascience"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "I built a self-hosted REST API client for my projects, here's why",
-    "summary": "I got tired of API keys and auth headers syncing to someone else's cloud every time I tested an endpoint. So I built Freeman — a self-hosted, browser-based REST API client that runs on your own server.\n\nNo desktop app. No cloud account. No data leaving your network.\n\nWhat it does\n\nThe core workflow ",
-    "url": "https://dev.to/u_did_it/i-built-a-self-hosted-rest-api-client-for-my-projects-heres-why-1n22",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "opensource",
-      "laravel",
-      "postman"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "9ed — A Zed-like Editor You Can Access From Anywhere",
-    "summary": "A few months ago I started looking for a development setup that felt fast, lightweight, and easy to access remotely.\n\nI really like Zed.\nIt feels fast, modern, and much less bloated than Electron-based editors.\n\nBut I kept running into one problem:\n\nI wanted something I could open from anywhere thro",
-    "url": "https://dev.to/muhammad_triwibowo_f924f/i-wanted-zed-in-the-browser-so-i-built-my-own-31gd",
+    "title": "Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough",
+    "summary": "In the previous article, we explored an example where reinforcement learning is required and standard methods do not work.\n\nIn this article, we will understand why policy gradients are needed, and why the standard backpropagation method does not work in certain situations.\n\n\n  \n  \n  How Backpropagat",
+    "url": "https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "productivity",
-      "webdev",
-      "opensource"
+      "machinelearning"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "From C to Rust - Evolving Programming Languages in Automotive Development",
+    "summary": "Introduction\n\n\nIn recent years, the automotive software landscape has changed dramatically. What used to be small, specialized electronic control units (ECUs) with narrowly defined functions has evolved into highly networked systems with powerful System-on-Chips (SoCs) and a growing fusion between t",
+    "url": "https://dev.to/lmilz/from-c-to-rust-evolving-programming-languages-in-automotive-development-186a",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "iot",
+      "programming",
+      "rust",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "030",
+    "title": "Building a Replay-Safe Webhook Event Gateway",
+    "summary": "Webhooks look simple at first: receive an HTTP request, forward it somewhere, return 200 OK.\n\nThat simplicity disappears the moment the system becomes production-critical. Providers retry. Consumers fail. Payloads arrive twice. Teams need to debug what happened yesterday. A single endpoint becomes d",
+    "url": "https://dev.to/andrew_lencmanis_12ca3b2b/building-a-replay-safe-webhook-event-gateway-4lln",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "api",
+      "architecture",
+      "backend",
+      "systemdesign"
     ]
   }
 ]
