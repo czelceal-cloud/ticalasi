@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
-      "title": "FreeBSD: Local Privilege Escalation via Execve()",
-      "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 37\n# Comments: 21",
+      "url": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
+      "title": "User just tricked Grok and Bankrbot to send tokens with Morse code",
+      "summary": "Article URL: https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/\nComments URL: https://news.ycombinator.com/item?id=48079114\nPoints: 4\n# Comments: 0",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://undecidability.net/senior/",
-      "title": "I caught the car",
-      "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 15\n# Comments: 2",
+      "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
+      "title": "France Moves to Break Encrypted Messaging",
+      "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 24\n# Comments: 6",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-      "title": "Meta's Embrace of A.I. Is Making Its Employees Miserable",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 144\n# Comments: 92",
+      "url": "https://github.com/ThatXliner/rust-but-lisp",
+      "title": "Rust but Lisp",
+      "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 33\n# Comments: 13",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://zed.dev/theme-builder",
-      "title": "Zed Editor Theme-Builder",
-      "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 106\n# Comments: 34",
+      "url": "https://undecidability.net/senior/",
+      "title": "I caught the car",
+      "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 32\n# Comments: 27",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 85\n# Comments: 45",
+      "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
+      "title": "Surfel-based global illumination on the web",
+      "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://chrismorgan.info/no-query-strings",
-      "title": "I’ve banned query strings",
-      "summary": "Related: https://susam.net/no-query-strings.html\n\nComments URL: https://news.ycombinator.com/item?id=48076173\nPoints: 176\n# Comments: 81",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "title": "Meta's embrace of A.I. is making its employees miserable",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 219\n# Comments: 199",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples",
-      "title": "Introduction to Beaver Triples",
-      "summary": "Article URL: https://stoffelmpc.com/stoffel-blog/beaver-triples-tuples\nComments URL: https://news.ycombinator.com/item?id=48076009\nPoints: 17\n# Comments: 10",
+      "url": "https://github.com/nooga/let-go",
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed ",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-      "title": "PipeDream on the Acorn Archimedes",
-      "summary": "Article URL: https://stonetools.ghost.io/pipedream-archimedes/\nComments URL: https://news.ycombinator.com/item?id=48075528\nPoints: 64\n# Comments: 25",
+      "url": "https://zed.dev/theme-builder",
+      "title": "Zed Editor Theme-Builder",
+      "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 136\n# Comments: 41",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-      "title": "Distributing Mac software is increasing my cortisol levels",
-      "summary": "Article URL: https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels\nComments URL: https://news.ycombinator.com/item?id=48075366\nPoints: 131\n# Comments: 75",
+      "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 97\n# Comments: 52",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/",
-      "title": "GrapheneOS fixes Android VPN leak Google refused to patch",
-      "summary": "Article URL: https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/\nComments URL: https://news.ycombinator.com/item?id=48075144\nPoints: 221\n# Comments: 65",
+      "url": "https://chrismorgan.info/no-query-strings",
+      "title": "I’ve banned query strings",
+      "summary": "Related: https://susam.net/no-query-strings.html\n\nComments URL: https://news.ycombinator.com/item?id=48076173\nPoints: 233\n# Comments: 124",
       "date_published": "2026-05-09",
       "tags": [
         "Hacker News"
