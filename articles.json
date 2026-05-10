@@ -1,19 +1,186 @@
 [
   {
     "id": "001",
-    "title": "User just tricked Grok and Bankrbot to send tokens with Morse code",
-    "summary": "Article URL: https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/\nComments URL: https://news.ycombinator.com/item?id=48079114\nPoints: 4\n# Comments: 0",
-    "url": "https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/",
-    "date": "2026-05-09",
-    "source": "Hacker News",
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+    "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "date": "2026-05-10",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "Startups",
+      "AI",
+      "voice AI",
+      "Wispr flow"
     ]
   },
   {
     "id": "002",
+    "title": "Generation 2 — RAG-Augmented Models (2022–2023)",
+    "summary": "Generation 2: RAG — The Era of Grounded Knowledge (2022–2023)\nIn the first generation of AI, models were like brilliant students locked in a room with no internet. They had incredible reasoning skills, but their knowledge was frozen in time (their \"training data cutoff\"). If you asked about a compan",
+    "url": "https://dev.to/raghavenreddy/generation-2-rag-augmented-models-2022-2023-l1h",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "aws",
+      "architecture",
+      "agents"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "🚀 React + Vite + Tailwind CSS + Shadcn UI Setup (vanillaJS)",
+    "summary": "A complete step-by-step guide to quickly set up **React + Vite + Tailwind CSS + Shadcn UI* with clean @/... alias imports — no TypeScript required!*\n\n\n⏱️ Time to complete: ~10 minutes\n🎯 Result: Production-ready React app with beautiful, accessible components\n\n\n\n\n\n\n  \n  \n  🧩 Step 1: Create a Vite + R",
+    "url": "https://dev.to/nabinkdl/react-vite-tailwind-css-shadcn-ui-setup-js-version-3c7i",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "javascript",
+      "react",
+      "tailwindcss",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Can we have a little Phun?",
+    "summary": "Was messing around with Suno and thought I would write a Phunny IT related song. Here is CRT reboot.",
+    "url": "https://dev.to/doug_trier_48bd83065738b1/can-we-have-a-little-phun-4g1l",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "discuss",
+      "humor",
+      "showdev",
+      "programminghumor"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Understanding Objects in JavaScript",
+    "summary": "The data structure that mirrors the real world — and the backbone of nearly everything in JS.\n\n\n\n\nIn my last article, we talked about arrays — ordered lists of values accessed by index. Arrays are great when you have a collection of similar things: a list of fruits, a bunch of scores, a set of tasks",
+    "url": "https://dev.to/pratham69/understanding-objects-in-javascript-4d0c",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "chaicode",
+      "javascript",
+      "webdev",
+      "programming"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Misadventures in Kubernetes: Autoscaling Workers",
+    "summary": "So we’ve already done a few things for setting up our own custom cluster. We’ve manually configured a Kubernetes Control Plane and joined worker nodes by hand. While that was a great way for us to learn the components, let’s be honest: setting up every server by hand is just not scalable for a real ",
+    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-autoscaling-workers-2p8o",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "kubernetes",
+      "gcp",
+      "devops"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Misadventures in Kubernetes: Creating Workers",
+    "summary": "So we have built a control plan from scratch. That’s kinda useful and was also kinda hard to make? But, really what we want to make is a proper, functioning, multi-node cluster that can actually run our containerized applications. A control plane by itself is just the brain; we need the muscle (the ",
+    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-creating-workers-29bb",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "kubernetes",
+      "gcp",
+      "devops"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Misadventures in Kubernetes: Provisioning the Control Plane",
+    "summary": "When using managed platforms like Google Kubernetes Engine (GKE), there are many things that you don’t have to worry about that it takes care of for you! But have you ever paused to consider what machinery operates beneath that simple surface? Perhaps wondered how you might be able to do it on your ",
+    "url": "https://dev.to/alchemicduncan/misadventures-in-kubernetes-provisioning-the-control-plane-12g5",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "kubernetes",
+      "gcp",
+      "devops"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "VPS Swap Fire: A Nightmare Started by a Kernel CVE Patch",
+    "summary": "Last week, precisely on a Monday morning, the \"Critical Alert\" notifications on my monitor struck fear into my eyes. The systems running on my own VPS, especially my Docker containers, had suddenly started to slow down. Even SSH connections were lagging, and my commands were taking a long time to ex",
+    "url": "https://dev.to/merbayerp/vps-swap-fire-a-nightmare-started-by-a-kernel-cve-patch-3c4f",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "vps",
+      "swap",
+      "kernel",
+      "cve"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania",
+    "summary": "The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania\n\n\n\n  \n  \n  The First Sale Happens Before the Bird Sings: The Merchant Logic of Kicau Mania\n\n\nIf you put money into a kicau event, what are you really buying: a few hours of noise and banners, or a place inside a hobbyist",
+    "url": "https://dev.to/sybilla_vaught_5e999cb619/the-first-sale-happens-before-the-bird-sings-the-merchant-logic-of-kicau-mania-1372",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "quest",
+      "proof"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Mise: alternativa para o asdf no windows",
+    "summary": "Recentemente me vi obrigado a trabalhar no windows em um computador com pouca memória ram, então usar o asdf dentro de um wsl rodando no windows não ia rolar pois a memória utilizada seria muito grande(embora eu possa configurar para usar menos ainda assim não seria o ideal), pensando nisso busquei ",
+    "url": "https://dev.to/jackson_primo/mise-alternativa-para-o-asdf-no-windows-3en5",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "asdf",
+      "mise",
+      "windows",
+      "programming"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "JavaScript Arrays 101",
+    "summary": "Your first real data structure — and the one you'll use more than any other.\n\n\n\n\nLet me paint a picture. You're building a to-do app. You've got 5 tasks. So you do the \"logical\" thing:\n\n\n\nlet task1 = \"Buy groceries\";\nlet task2 = \"Finish homework\";\nlet task3 = \"Call mom\";\nlet task4 = \"Go to gym\";\nlet",
+    "url": "https://dev.to/pratham69/javascript-arrays-101-3hd1",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "chaicode",
+      "javascript",
+      "webdev",
+      "programming"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "How I Run Multiple Claude Code Accounts From One Terminal",
+    "summary": "The first problem sounds simple: you have more than one Claude Code account.\n\nMaybe one is personal and one belongs to your company. Maybe you use Claude Max personally but your org wants work to happen under its own account. Maybe you freelance and each client expects a clean boundary.\n\nYou can sol",
+    "url": "https://dev.to/harryy2510/multiple-claude-code-accounts-one-terminal-5em5",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "agents",
+      "programming",
+      "claudecode"
+    ]
+  },
+  {
+    "id": "014",
     "title": "France Moves to Break Encrypted Messaging",
-    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 24\n# Comments: 6",
+    "summary": "Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging\nComments URL: https://news.ycombinator.com/item?id=48078811\nPoints: 71\n# Comments: 27",
     "url": "https://reclaimthenet.org/france-moves-to-break-encrypted-messaging",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -22,9 +189,20 @@
     ]
   },
   {
-    "id": "003",
+    "id": "015",
+    "title": "Getting arrested in Japan",
+    "summary": "Article URL: https://sundaicity.com/blogs/getting-arrested-in-japan\nComments URL: https://news.ycombinator.com/item?id=48078647\nPoints: 139\n# Comments: 146",
+    "url": "https://sundaicity.com/blogs/getting-arrested-in-japan",
+    "date": "2026-05-09",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "016",
     "title": "Rust but Lisp",
-    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 33\n# Comments: 13",
+    "summary": "Article URL: https://github.com/ThatXliner/rust-but-lisp\nComments URL: https://news.ycombinator.com/item?id=48078575\nPoints: 72\n# Comments: 35",
     "url": "https://github.com/ThatXliner/rust-but-lisp",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -33,9 +211,20 @@
     ]
   },
   {
-    "id": "004",
+    "id": "017",
+    "title": "Local privilege escalation via execve()",
+    "summary": "Article URL: https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc\nComments URL: https://news.ycombinator.com/item?id=48077971\nPoints: 86\n# Comments: 57",
+    "url": "https://www.freebsd.org/security/advisories/FreeBSD-SA-26:13.exec.asc",
+    "date": "2026-05-09",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "018",
     "title": "I caught the car",
-    "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 32\n# Comments: 27",
+    "summary": "Article URL: https://undecidability.net/senior/\nComments URL: https://news.ycombinator.com/item?id=48077966\nPoints: 39\n# Comments: 37",
     "url": "https://undecidability.net/senior/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -44,9 +233,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "019",
     "title": "Surfel-based global illumination on the web",
-    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 3\n# Comments: 0",
+    "summary": "Article URL: https://juretriglav.si/surfel-based-global-illumination-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48077395\nPoints: 12\n# Comments: 0",
     "url": "https://juretriglav.si/surfel-based-global-illumination-on-the-web/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -55,9 +244,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "020",
     "title": "Meta's embrace of A.I. is making its employees miserable",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 219\n# Comments: 199",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html\nComments URL: https://news.ycombinator.com/item?id=48077126\nPoints: 289\n# Comments: 252",
     "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -66,7 +255,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "021",
     "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
     "summary": "Let-go is a Clojure-like language (~90% compatible with JVM Clojure) written in pure Go. It ships as a ~10MB static binary and cold boots in ~7ms - that's about 50x faster than JVM and 3x faster than Babashka. It has decent throughput on algorithmic workloads - within ballpark of the GraalVM-backed ",
     "url": "https://github.com/nooga/let-go",
@@ -77,9 +266,9 @@
     ]
   },
   {
-    "id": "008",
+    "id": "022",
     "title": "Zed Editor Theme-Builder",
-    "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 136\n# Comments: 41",
+    "summary": "Article URL: https://zed.dev/theme-builder\nComments URL: https://news.ycombinator.com/item?id=48076651\nPoints: 157\n# Comments: 44",
     "url": "https://zed.dev/theme-builder",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -88,9 +277,9 @@
     ]
   },
   {
-    "id": "009",
+    "id": "023",
     "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-    "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 97\n# Comments: 52",
+    "summary": "Article URL: https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/\nComments URL: https://news.ycombinator.com/item?id=48076465\nPoints: 109\n# Comments: 59",
     "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
     "date": "2026-05-09",
     "source": "Hacker News",
@@ -99,18 +288,7 @@
     ]
   },
   {
-    "id": "010",
-    "title": "I’ve banned query strings",
-    "summary": "Related: https://susam.net/no-query-strings.html\n\nComments URL: https://news.ycombinator.com/item?id=48076173\nPoints: 233\n# Comments: 124",
-    "url": "https://chrismorgan.info/no-query-strings",
-    "date": "2026-05-09",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
+    "id": "024",
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
     "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -124,7 +302,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "025",
     "title": "Fintech startup Parker files for bankruptcy",
     "summary": "Parker, a well-funded startup offering corporate credit cards and banking services, has filed for bankruptcy and is widely reported to have shut down.",
     "url": "https://techcrunch.com/2026/05/09/fintech-startup-parker-files-for-bankruptcy/",
@@ -140,7 +318,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "026",
     "title": "GM agrees to pay $12.75M in California driver privacy settlement",
     "summary": "General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.",
     "url": "https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/",
@@ -153,7 +331,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "027",
     "title": "The Instax Wide 400 builds on instant photography’s simplicity and stretches it, literally",
     "summary": "In an AI and digital world, analog instant film and retro-style cameras continue to remain popular, fueled by a mix of both nostalgia and novelty.",
     "url": "https://techcrunch.com/2026/05/09/the-instax-wide-400-builds-on-instant-photographys-simplicity-and-stretches-it-literally/",
@@ -168,7 +346,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "028",
     "title": "Nvidia has already committed $40B to equity AI deals this year",
     "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
     "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
@@ -182,7 +360,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "029",
     "title": "The new Wild West of AI kids’ toys",
     "summary": "These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.",
     "url": "https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/",
@@ -197,7 +375,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "030",
     "title": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
     "summary": "If you’re tired of running your vacuum multiple times just to get the dirt and debris out of the carpets in your living room, Dyson’s 360 Vis Nav is worth a look. It’s one of the more powerful robot vacuums currently available, and now through May 11th (or while supplies last), it’s on sale at Woot ",
     "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
@@ -209,220 +387,6 @@
       "Smart Home",
       "Tech",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "These great digital gifts will arrive just in time for Mother’s Day",
-    "summary": "And just like that, Mother’s Day is tomorrow, May 10th, which is too soon for most online purchases to arrive in time. That said, you aren’t alone if you waited too long to pick up a gift this year, and you definitely aren’t alone in feeling guilty for considering digital gifts instead of something ",
-    "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
-    "date": "2026-05-09",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Let it snow",
-    "summary": "Water gets all the credit. When gaming companies want to show off new graphics technology, things tend to get wet; splashing waves that are only possible with the latest physics engine, or puddles that can reflect the world around them thanks to ray tracing. But there's something special about snow.",
-    "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-    "date": "2026-05-09",
-    "source": "The Verge",
-    "tags": [
-      "Entertainment",
-      "Games Review",
-      "Gaming"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "The game that makes me actually want to exercise",
-    "summary": "Hi, friends! Welcome to Installer No. 127, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, my Scorpion challenges your Sub-Zero to a duel, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Hasan Piker and",
-    "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
-    "date": "2026-05-09",
-    "source": "The Verge",
-    "tags": [
-      "Apps",
-      "Gadgets",
-      "Installer",
-      "Tech"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-    "summary": "At the Los Angeles Convention Center, two 85-inch TVs sat side by side inside the Nanosys meeting room at Display Week - a yearly business-to-business convention focusing on the technology that goes into displays of all types. One TV was a mini-LED panel with super quantum dots, and the other was an",
-    "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
-    "date": "2026-05-09",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "Tech",
-      "TVs"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Best Live-Captioning Smart Glasses (2026), WIRED tested",
-    "summary": "Can’t hear what they’re saying? Now you can turn on the subtitles for real-life conversations.",
-    "url": "https://www.wired.com/gallery/best-captioning-glasses/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Augmented and Virtual Reality",
-      "Gear / Products / Lifestyle",
-      "Gear / Products / Health and Fitness",
-      "buying guides",
-      "Shopping",
-      "smart glasses",
-      "eyewear",
-      "health",
-      "augmented reality",
-      "accessibility",
-      "Caption This"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets “violent left wing extremists,” leaked documents reveal Russia's school for elite hackers, and more.",
-    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "security roundup",
-      "cybersecurity",
-      "hacking",
-      "security",
-      "Russia",
-      "artificial intelligence",
-      "privacy",
-      "vulnerabilities",
-      "Google",
-      "Meta",
-      "Security Roundup"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "The 19 Most Exciting Cars at the Beijing Auto Show 2026",
-    "summary": "The cars that debuted at the Beijing Auto Show demonstrate that the Chinese market is now at the forefront of electrification and intelligence. These are the 19 most intriguing models we saw.",
-    "url": "https://www.wired.com/story/most-exciting-cars-at-beijing-auto-show-auto-china-2026/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Electric Vehicles",
-      "cars",
-      "automobiles",
-      "EVs and Hybrids",
-      "Concept Cars",
-      "China",
-      "BYD",
-      "Volkswagen",
-      "Volvo",
-      "General Motors",
-      "Toyota",
-      "nissan",
-      "Full Auto"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Instacart Promo Code: $15 Off | May 2026",
-    "summary": "Find the best Instacart promo code for massive savings in May 2026",
-    "url": "https://www.wired.com/story/instacart-promo/code/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "HelloFresh Coupon Codes: 55% Off + Free Meals",
-    "summary": "Get up to 55% off and free meal boxes using a HelloFresh coupon code today. Discover our best codes and discounts to let you save time and money.",
-    "url": "https://www.wired.com/story/hellofresh-coupon/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "50% Off Blue Apron Promo Codes | May 2026",
-    "summary": "Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.",
-    "url": "https://www.wired.com/story/blue-apron-coupon/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "T-Mobile Promo Codes: 25% Off | May",
-    "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
-    "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Logitech Promo Codes and Deals: Up to $100 Off",
-    "summary": "Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.",
-    "url": "https://www.wired.com/story/logitech-promo-code/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Western Digital Promo Code: 15% Off",
-    "summary": "Get 15% off your first order at Western Digital when you register your email.",
-    "url": "https://www.wired.com/story/western-digital-promo-code/",
-    "date": "2026-05-09",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
     ]
   }
 ]
