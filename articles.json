@@ -13,7 +13,7 @@
   {
     "id": "002",
     "title": "Microsoft Israel chief leaves amid ethical controversy",
-    "summary": "Article URL: https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602\nComments URL: https://news.ycombinator.com/item?id=48097796\nPoints: 11\n# Comments: 1",
+    "summary": "Article URL: https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602\nComments URL: https://news.ycombinator.com/item?id=48097796\nPoints: 86\n# Comments: 71",
     "url": "https://en.globes.co.il/en/article-microsoft-israel-chief-leaves-amid-ethical-controversy-1001542602",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Interfaze: A new model architecture built for high accuracy at scale",
-    "summary": "Article URL: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale\nComments URL: https://news.ycombinator.com/item?id=48097078\nPoints: 15\n# Comments: 3",
+    "summary": "Article URL: https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale\nComments URL: https://news.ycombinator.com/item?id=48097078\nPoints: 47\n# Comments: 9",
     "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -34,19 +34,8 @@
   },
   {
     "id": "004",
-    "title": "Why we lose our friends as we age (2023)",
-    "summary": "Article URL: https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/\nComments URL: https://news.ycombinator.com/item?id=48096870\nPoints: 47\n# Comments: 31",
-    "url": "https://www.theatlantic.com/newsletters/archive/2023/02/friendship-aging/673026/",
-    "date": "2026-05-11",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
     "title": "Show HN: TikTok but for Scientific Papers",
-    "summary": "Article URL: https://andreaturchet.github.io/website/index.html\nComments URL: https://news.ycombinator.com/item?id=48096842\nPoints: 27\n# Comments: 19",
+    "summary": "Article URL: https://andreaturchet.github.io/website/index.html\nComments URL: https://news.ycombinator.com/item?id=48096842\nPoints: 69\n# Comments: 40",
     "url": "https://andreaturchet.github.io/website/index.html",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -55,9 +44,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "005",
     "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-    "summary": "Article URL: https://nvlabs.github.io/cuda-oxide/index.html\nComments URL: https://news.ycombinator.com/item?id=48096692\nPoints: 129\n# Comments: 28",
+    "summary": "Article URL: https://nvlabs.github.io/cuda-oxide/index.html\nComments URL: https://news.ycombinator.com/item?id=48096692\nPoints: 268\n# Comments: 79",
     "url": "https://nvlabs.github.io/cuda-oxide/index.html",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -66,20 +55,9 @@
     ]
   },
   {
-    "id": "007",
-    "title": "Students Boo Commencement Speaker After She Calls AI Next Industrial Revolution",
-    "summary": "Article URL: https://www.404media.co/ucf-ai-commencement-speaker-booed/\nComments URL: https://news.ycombinator.com/item?id=48096674\nPoints: 41\n# Comments: 11",
-    "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
-    "date": "2026-05-11",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
+    "id": "006",
     "title": "Should you leave red herrings about yourself online?",
-    "summary": "Article URL: https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online\nComments URL: https://news.ycombinator.com/item?id=48096471\nPoints: 11\n# Comments: 11",
+    "summary": "Article URL: https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online\nComments URL: https://news.ycombinator.com/item?id=48096471\nPoints: 36\n# Comments: 33",
     "url": "https://blog.alcazarsec.com/posts/should-you-leave-red-herrings-about-yourself-online",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -88,9 +66,9 @@
     ]
   },
   {
-    "id": "009",
+    "id": "007",
     "title": "Software engineering may no longer be a lifetime career",
-    "summary": "Article URL: https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/\nComments URL: https://news.ycombinator.com/item?id=48095550\nPoints: 131\n# Comments: 229",
+    "summary": "Article URL: https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/\nComments URL: https://news.ycombinator.com/item?id=48095550\nPoints: 215\n# Comments: 400",
     "url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -99,10 +77,32 @@
     ]
   },
   {
+    "id": "008",
+    "title": "Ratty – A terminal emulator with inline 3D graphics",
+    "summary": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 523\n# Comments: 174",
+    "url": "https://ratty-term.org/",
+    "date": "2026-05-11",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "A.I. note takers are making lawyers nervous",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 193\n# Comments: 144",
+    "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+    "date": "2026-05-11",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
     "id": "010",
-    "title": "Scaffold a 1990s Geocities-themed static website",
-    "summary": "Article URL: https://pypi.org/project/create-geocities-app/\nComments URL: https://news.ycombinator.com/item?id=48094521\nPoints: 36\n# Comments: 15",
-    "url": "https://pypi.org/project/create-geocities-app/",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "summary": "Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082\nComments URL: https://news.ycombinator.com/item?id=48092028\nPoints: 418\n# Comments: 276",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -263,6 +263,37 @@
   },
   {
     "id": "021",
+    "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
+    "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
+    "url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Health",
+      "hantavirus"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
+    "summary": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives.",
+    "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Tech",
+      "GNSS",
+      "GPS",
+      "GPS jamming",
+      "GPS spoofing",
+      "satellites",
+      "spacex",
+      "spacex starlink",
+      "starlink"
+    ]
+  },
+  {
+    "id": "023",
     "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
     "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
     "url": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
@@ -281,7 +312,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "024",
     "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
     "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
     "url": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
@@ -295,7 +326,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "025",
     "title": "Pirates are already playing Forza Horizon 6 days before its launch",
     "summary": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
     "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
@@ -313,7 +344,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "026",
     "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
     "summary": "Rather than dig in, the sport is being proactive about fixing the problem.",
     "url": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
@@ -325,7 +356,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "027",
     "title": "A promising Indian launch startup nears its first orbital test flight",
     "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
     "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
@@ -339,7 +370,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "028",
     "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
     "summary": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
     "url": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
@@ -355,61 +386,33 @@
     ]
   },
   {
-    "id": "027",
-    "title": "Apple brings encrypted RCS chats to iPhone",
-    "summary": "Apple now lets you have encrypted RCS conversations with Android users through the Messages app on iOS. As part of iOS 26.5, which was released on Monday, Apple added support for end-to-end encrypted RCS messaging in beta, meaning that Apple and Google can't see your messages while they're sent. Wit",
-    "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
-    "date": "2026-05-11",
-    "source": "The Verge",
-    "tags": [
-      "Android",
-      "Apple",
-      "Google",
-      "iOS",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Texas sues Netflix for advertising ‘bait and switch’ and spying",
-    "summary": "Texas Attorney General Ken Paxton has filed a lawsuit against Netflix, accusing the company of turning its back on its promise to remain ad-free and safe for kids. The lawsuit, filed on Monday, claims Netflix has \"opened Texans' data for inspection by the same Big Ad Tech community it once criticize",
-    "url": "https://www.theverge.com/streaming/928071/texas-netflix-lawsuit-privacy",
-    "date": "2026-05-11",
-    "source": "The Verge",
-    "tags": [
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming"
-    ]
-  },
-  {
     "id": "029",
-    "title": "Google stopped a zero-day hack that it says was developed with AI",
-    "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed th",
-    "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "title": "Govee’s new portable smart lamp is on sale for the first time",
+    "summary": "If you’ve always liked the idea of the Philips Hue Go portable lamp but couldn’t justify the $100+ price tag, Govee recently released a much cheaper alternative, the Govee Table Lamp Classic, and it’s already receiving its first discount. Right now, you can pick the rechargeable smart lamp up at Ama",
+    "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
     "date": "2026-05-11",
     "source": "The Verge",
     "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Security",
-      "Tech"
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
     ]
   },
   {
     "id": "030",
-    "title": "A million baby monitors and security cameras were easily viewable by hackers",
-    "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty […]",
-    "url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
+    "title": "Palantir’s true believers are wearing this jacket",
+    "summary": "In late April, Palantir - the software company that, in recent years, has perhaps become best known for its defense industry contracts and work with Immigration and Customs Enforcement - announced that it would be adding new products to its merch store. The latest offering was a cotton chore coat. A",
+    "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
     "date": "2026-05-11",
     "source": "The Verge",
     "tags": [
-      "News",
+      "Business",
+      "Creators",
+      "Culture",
+      "Entertainment",
+      "Internet Culture",
       "Report",
-      "Security",
       "Tech"
     ]
   }
