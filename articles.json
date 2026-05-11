@@ -315,138 +315,137 @@
   },
   {
     "id": "021",
-    "title": "I Built an AI Agent Orchestrator Where Gemma 4 Only Knows What You Teach It",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nGemmaOrch is a skill-based AI agent orchestrator: you define what an agent knows by dropping Markdown files into a folder, assign those skills to a named agent, and chat with it. The agent powered by Gemma 4 ",
-    "url": "https://dev.to/bzaid94/gemma-agents-orchestrator-8cm",
+    "title": "My SonarQube scans were crawling; turns out Docker on WSL 2 only had 1 CPU and 1 GB of RAM",
+    "summary": "If you're running SonarQube (or anything CPU- and memory-hungry) inside Docker Desktop on Windows and the scans feel like they're running through molasses, your .wslconfig is probably the first place to look. That was my story this week, and the fix was satisfyingly small.\n\nHere's the whole journey,",
+    "url": "https://dev.to/trivedivatsal/my-sonarqube-scans-were-crawling-turns-out-docker-on-wsl-2-only-had-1-cpu-and-1-gb-of-ram-661",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "wsl",
+      "docker",
+      "sonarqube",
+      "windows"
     ]
   },
   {
     "id": "022",
-    "title": "I Built Persistent Memory for AI Coding Assistants — Here's How It Works",
-    "summary": "Every time you open a new AI chat, your assistant forgets everything. I fixed that.\n\n\n\n  \n  \n  The Problem\n\n\nIf you use Cursor, Claude Code, or Amazon Q regularly, you've probably hit this wall:\n\nYou explain your project architecture in Monday's chat. On Tuesday, you open a new session and start fro",
-    "url": "https://dev.to/nikhil102/i-built-persistent-memory-for-ai-coding-assistants-heres-how-it-works-2i0b",
+    "title": "[Tutorial] Building a Shielded Token dApp on Midnight: From Compact Contract to React UI",
+    "summary": "📁 Full source code: midnight-apps/shielded-token\n\nTarget audience: Developers\n\nThis tutorial walks you through building a complete shielded token DApp on the Midnight network. You will deploy a Compact smart contract, implement operations such as minting, transferring, and burning tokens, generate z",
+    "url": "https://dev.to/0xfdbu/tutorial-building-a-shielded-token-dapp-on-midnight-from-compact-contract-to-react-ui-183g",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "productivity",
-      "programming",
-      "mcp"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "How secrets work in multi-service OSC stacks (and one mistake we helped a customer avoid)",
-    "summary": "Last month a customer came to us confused about why their credentials kept leaking between services in their OSC stack. They had put an API key into the parameter store, wired up three service instances, and couldn't figure out why a service that had no business seeing those credentials could read t",
-    "url": "https://dev.to/oscdev/how-secrets-work-in-multi-service-osc-stacks-and-one-mistake-we-helped-a-customer-avoid-3jm9",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "devops",
-      "security",
-      "cloud"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining",
-    "summary": "SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining\n\n\n\n  \n  \n  Today's Highlights\n\n\nThis week, we highlight a critical SQLite concurrency issue in sandboxed environments, DuckDB's production-ready Delta Lake and Unity Catalog extensions with new write and time travel suppo",
-    "url": "https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "database",
-      "sql",
-      "sqlite"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, & V100 LLM Performance",
-    "summary": "DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, & V100 LLM Performance\n\n\n\n  \n  \n  Today's Highlights\n\n\nThis week highlights significant advancements in GPU-accelerated AI inference, with new benchmarks for optimized LLMs and a novel CUDA-first runtime designed for real-time transformer deploymen",
-    "url": "https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "gpu",
-      "nvidia",
-      "hardware"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Lessons from Building a Skill-Scoped Agent Orchestrator",
-    "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n  \n  \n  Choosing the Right Gemma 4 Model: Lessons from Building a Skill-Scoped Agent Orchestrator\n\n\nI didn't set out to write a post about model selection. I set out to build something: an orchestrator where AI agents can only ans",
-    "url": "https://dev.to/bzaid94/lessons-from-building-a-skill-scoped-agent-orchestrator-55ke",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Pi Lightsaber Lab",
-    "summary": "What’s the crack jack?\n\nBuild your own Lightsaber with Raspberry Pi and Java. May the Force (and GPIO) be with you!\n\nA fun Star Wars-inspired project using a bright LED and a transparent straw to simulate a real lightsaber. It also features a blaster shot mode. Fully controlled with Java on a Raspbe",
-    "url": "https://dev.to/igoriot/pi-lightsaber-lab-3oba",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
-      "iot",
-      "java",
-      "showdev",
-      "sideprojects"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata",
-    "summary": "Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata\n\n\nRepository: https://github.com/marmar9615-cloud/midnight-private-signal\n\nBounty issue: https://github.com/midnightntwrk/contributor-hub/issues/314\n\n\n\n\n  \n  \n  1. Opening Angle\n\n\nMost de",
-    "url": "https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm",
-    "date": "2026-05-10",
-    "source": "Dev.to",
-    "tags": [
+      "midnightfordevs",
+      "privacy",
       "blockchain",
-      "web3",
-      "typescript",
       "tutorial"
     ]
   },
   {
-    "id": "029",
-    "title": "Claude Code quota management: a complete guide (2026)",
-    "summary": "How to track, monitor, and control your Claude Code usage before it eats your budget.\n\n\n\n\n\n  \n  \n  The problem\n\n\nYou're in the middle of a coding session. Your Claude Code Max 5 limit just hit — right before a critical deadline. You have no idea when it happened, why, or how much you've spent this m",
-    "url": "https://dev.to/deibygs/claude-code-quota-management-a-complete-guide-2026-1h9d",
+    "id": "023",
+    "title": "How Knowledge-Based AI Works — From Rules to Inference",
+    "summary": "Before AI learned from massive datasets, many systems worked with explicit knowledge.\n\nFacts.\n\nRules.\n\nInference.\n\nThat is the core of Knowledge-Based AI.\n\n\n  \n  \n  Core Idea\n\n\nKnowledge-Based AI stores knowledge in a structured form.\n\nThen it uses rules to derive new conclusions.\n\nThe system does n",
+    "url": "https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "claudecode",
       "ai",
-      "productivity",
+      "programming",
+      "logic"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "How Intelligent Agents Work — From Perception to Decision and Action",
+    "summary": "AI is not just models.\n\nIt is a system that perceives, decides, and acts.\n\nIf you only think in terms of algorithms, you miss the bigger structure.\n\nThe real question is:\n\nHow does an AI system turn input into action?\n\n\n  \n  \n  Core Idea\n\n\nAn intelligent agent is the simplest way to understand AI as",
+    "url": "https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "systems"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost",
+    "summary": "The invisible bill\n\n\nI was debugging why my Claude Code sessions felt sluggish after connecting a few MCP servers. Token usage was through the roof -- but I hadn't even asked the agent to do anything yet. I rewrote my prompts three times before I thought to check where the tokens were actually going",
+    "url": "https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "mcp",
+      "devtools",
+      "performance"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Your AI agents are stepping on each other",
+    "summary": "The missing coordination primitive.\n\nNew research (AgenticFlict, arXiv 2604.03551) confirms what a lot of teams are learning the hard way: AI-generated PRs are producing a measurable new class of merge conflicts. \n\nThe agents have no concept of each other's intent.\n\n\nAn average conflict rate of 20% ",
+    "url": "https://dev.to/kawacode-ai/your-ai-agents-are-stepping-on-each-other-i08",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "git",
+      "agents",
+      "llm"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Security Checklist for Midnight dApps Before Deployment",
+    "summary": "A Midnight DApp can pass local unit tests and still leak data, accept replayed actions, or fail proof generation in the target environment. The risk comes from the parts that make Midnight powerful: selective disclosure, witness functions, private state, ZK proofs, and a toolchain that spans Compact",
+    "url": "https://dev.to/arihant_agarwal_359eb9f57/security-checklist-for-midnight-dapps-before-deployment-69m",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "midnightfordevs"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Contract-First Event-Driven Architecture on AWS",
+    "summary": "When event-driven systems grow past a handful of services, the biggest failures usually are not infrastructure failures. They are contract failures.\n\nA producer adds a field and a consumer crashes.\nA team renames an enum value and downstream processing silently misclassifies events.\nA “minor change”",
+    "url": "https://dev.to/aws-builders/contract-first-event-driven-architecture-on-aws-2cf2",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "aws",
+      "webdev",
+      "architecture",
+      "eventdriven"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "🧟 Level 2: The DNA Blueprints & The Zombie Army (Solidity Quest)",
+    "summary": "In Level 1, we dropped our \"Citadel\" (the Smart Contract) onto the Ethereum grid. It’s a safe, empty fortress. But a factory without a product is just a building.\n\nToday, we are installing the most important part of our factory: The Storage Vaults. We need a way to define what a Zombie is and a plac",
+    "url": "https://dev.to/sudip_4dbdbc6116a9aa4316a/level-2-the-dna-blueprints-the-zombie-army-solidity-quest-2jbi",
+    "date": "2026-05-10",
+    "source": "Dev.to",
+    "tags": [
+      "beginners",
+      "blockchain",
+      "ethereum",
       "tutorial"
     ]
   },
   {
     "id": "030",
-    "title": "Bujuyollarda",
-    "summary": "Merhaba dev.to topluluğu,\nUzun zamandır takip ettiğim platforma sonunda üye oldum ve ilk postumu paylaşıyorum. Ben Burcu Bingöl, bujuyollarda.com seyahat bloğunun kurucusuyum.\n8+ yıldır seyahat içerikleri üretiyorum. Gezilecek yer rehberleri, otel önerileri, yeme-içme rotaları ve pratik seyahat ipuç",
-    "url": "https://dev.to/buju_yollarda_987662105f8/bujuyollarda-2j38",
+    "title": "I shipped cc-audit as a GitHub Action. Now your CLAUDE.md gets linted on every PR.",
+    "summary": "Quick follow-up to my earlier post about scanning 492 public CLAUDE.md files. Takeaway from that scan: median compliance with the 12-rule baseline was 3/12. The top-missed rules were rules 9, 10, 12, and 1 — the behavior-file equivalent of skipping unit tests.\n\nThe fix is easy: run a linter. The har",
+    "url": "https://dev.to/sisyphusse1ops/i-shipped-cc-audit-as-a-github-action-now-your-claudemd-gets-linted-on-every-pr-5fal",
     "date": "2026-05-10",
     "source": "Dev.to",
     "tags": [
-      "performance",
-      "showdev",
-      "webdev",
-      "wordpress"
+      "github",
+      "ai",
+      "devops",
+      "actions"
     ]
   }
 ]
