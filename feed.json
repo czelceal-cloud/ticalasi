@@ -7,6 +7,282 @@
   "items": [
     {
       "id": "001",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "title": "I'm going back to writing code by hand",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 24\n# Comments: 5",
+      "date_published": "2026-05-11",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+      "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
+      "summary": "Article URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/\nComments URL: https://news.ycombinator.com/item?id=48089531\nPoints: 16\n# Comments: 11",
+      "date_published": "2026-05-11",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://dev.to/onlypads/why-im-still-learning-to-code-even-with-ai-39ae",
+      "title": "Why I’m Still Learning to Code Even With AI",
+      "summary": "A while ago, I caught myself wondering:\n\n\"Am I too late?\"\n\nNot because I started coding late.\n\nBut because every week there seems to be a new AI demo building apps, writing features, fixing bugs, and explaining code faster than I can even think through the problem.\n\nWhen you’re still learning, that ",
+      "date_published": "2026-05-11",
+      "tags": [
+        "webdev",
+        "ai",
+        "learning",
+        "php"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "004",
+      "url": "https://dev.to/cdatta/the-iam-passrole-nightmare-3-weeks-of-my-life-i-will-never-get-back-1285",
+      "title": "The iam: PassRole Nightmare - 3 Weeks of My Life I Will Never Get Back",
+      "summary": "Let me tell you the story of three weeks of my life I will never get back.\n\nWe were building an AI agent on AMAZON Bedrock — an autonomous system that manages infrastructure lifecycle operations. The agent worked perfectly in our sandbox. Time to deploy it to the enterprise environment. Should take ",
+      "date_published": "2026-05-11",
+      "tags": [
+        "aws",
+        "aiops",
+        "bedrock",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "005",
+      "url": "https://dev.to/hiyoyok/building-a-universal-binary-with-tauri-v2-its-easier-than-you-think-1b53",
+      "title": "Building a Universal Binary with Tauri v2 — It's Easier Than You Think",
+      "summary": "All tests run on an 8-year-old MacBook Air.\nAll results from shipping 7 Mac apps as a solo developer. No sponsored opinion.\n\nIntel Mac users still exist. Apple Silicon is the future. A universal binary covers both with one DMG.\n\nHere's the actual process.\n\nWhy bother with universal binary\nRosetta 2 ",
+      "date_published": "2026-05-11",
+      "tags": [
+        "tauri",
+        "rust",
+        "programming",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/owasp/introducing-a-owasp-game-for-threat-modeling-agentic-ai-cloud-devops-frontend-llm-automation-5984",
+      "title": "Introducing a OWASP Game for threat modeling Agentic AI, Cloud, Devops, Frontend, LLM, Automation, and Web",
+      "summary": "Shift-left doesn't start with scanning the code for security vulnerabilities; it begins with designing for security.\n\nToo often, the shift-left mantra consists of implementing (AI-powered) code scanning and applying AI-powered security fixes for remediation. Also, don't forget to implement the AI-po",
+      "date_published": "2026-05-11",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "security"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/merbayerp/guide-to-automatic-ssl-certificate-renewal-for-nginx-and-docker-fic",
+      "title": "Guide to Automatic SSL Certificate Renewal for Nginx and Docker",
+      "summary": "Not long ago, when the certificate for the hesapciyiz.com site I host on my own VPS expired, I woke up to an email in the middle of the night. Yes, Let's Encrypt's certificate had expired, and I had forgotten to renew it. This situation highlighted how tiring and error-prone manual certificate manag",
+      "date_published": "2026-05-11",
+      "tags": [
+        "nginx",
+        "docker",
+        "ssl",
+        "letsencrypt"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/_eb7f2a654e97a60ae9f96e/stop-guessing-memory-how-to-automate-langchain-memory-testing-and-catch-80-of-multi-turn-failures-3nc4",
+      "title": "Stop Guessing Memory: How to Automate LangChain Memory Testing and Catch 80% of Multi-Turn Failures",
+      "summary": "2 a.m. The customer Slack channel explodes — the support bot just asked for the same order number three times in a row. A frustrated user screams, “Do you have amnesia?” After digging through the code and the prompt, everything looks fine. Only then do we discover that ConversationBufferMemory silen",
+      "date_published": "2026-05-11",
+      "tags": [
+        "python",
+        "programming"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/edith_asante_799bd09cf9c1/-containerizing-a-broken-microservices-app-and-shipping-it-with-a-full-cicd-pipeline-407b",
+      "title": "# Containerizing a Broken Microservices App and Shipping It with a Full CI/CD Pipeline",
+      "summary": "This is part of my HNG DevOps internship series. In Stage 1 I deployed a personal API behind Nginx on a live server. Stage 2 is where things got serious.\n\n\n\n\n\n  \n  \n  The Task\n\n\nWe were handed a broken codebase and told to make it production-ready. No hints about what was wrong. No list of bugs. Jus",
+      "date_published": "2026-05-11",
+      "tags": [
+        "devops",
+        "docker",
+        "cicd",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/corbanware/og-image-sizes-the-complete-guide-for-2026-4l6d",
+      "title": "OG Image Sizes: The Complete Guide for 2026",
+      "summary": "OG Image Sizes: The Complete Guide for 2026\n\n\nHere is the quick answer: 1200 x 630 pixels. If you remember nothing else from this article, remember that number. It works on every major platform without cropping or distortion.\n\nBut if you want to understand why, what the edge cases are, and how to av",
+      "date_published": "2026-05-11",
+      "tags": [
+        "webdev",
+        "seo",
+        "socialmedia",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/emongmarcc/ai-powered-seo-building-an-automated-content-strategy-pipeline-with-laravel-and-openai-kk8",
+      "title": "AI-Powered SEO: Building an Automated Content Strategy Pipeline with Laravel and OpenAI",
+      "summary": "Most developers I know treat SEO as an afterthought — something you bolt on after the site is live, usually because a client asked why they're not ranking. But in 2024, the gap between teams that automate their content intelligence and those that don't is becoming painfully obvious in search results",
+      "date_published": "2026-05-11",
+      "tags": [
+        "seo",
+        "laravel",
+        "ai",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/rishabh_kumar_6d865c83a4d/i-audited-50-vibe-coded-apps-heres-what-broke-1pb6",
+      "title": "I Audited 50 Vibe-Coded Apps. Here's What Broke.",
+      "summary": "I audited 50 Lovable / v0 / Bolt / Cursor / Claude Code apps over the last few months. Some were friends' side projects, some were YC-backed startups, some were 24-hour hackathon submissions that made it to production anyway. Same five bugs in nearly every one.\n\nThis post is the writeup. Concrete gr",
+      "date_published": "2026-05-11",
+      "tags": [
+        "supabase",
+        "security",
+        "webdev",
+        "ai"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/anusha_mukka/the-illusion-of-scale-part-1-when-your-scalable-system-isnt-1337",
+      "title": "The Illusion of Scale, Part 1: When Your \"Scalable\" System Isn't",
+      "summary": "Some systems look scalable right up until they meet real production traffic.\n\nThe tests pass. Dashboards are green. The architecture diagram looks clean. The team feels good about it.\n\nThen traffic grows, usage patterns shift, and the system starts failing in ways that were never obvious in staging.",
+      "date_published": "2026-05-11",
+      "tags": [
+        "ai",
+        "softwareengineering",
+        "distributedsystems",
+        "architecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/yukixing6star/which-serverless-gpu-platforms-actually-have-fast-cold-starts-for-ai-inference-p99-not-p50-4gj6",
+      "title": "Which serverless GPU platforms actually have fast cold starts for AI inference — p99, not p50",
+      "summary": "been testing this properly for a few months because i kept seeing wildly different claims and couldn’t find real data anywhere. specifically for inference workloads, 70B class models, and i care about p99 not p50 because p99 is what shows up in user complaints, not the median.\nthe thing nobody expla",
+      "date_published": "2026-05-11",
+      "tags": [
+        "gpu",
+        "machinelearning",
+        "infrastructure",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title": "You Need AI That Reduces Maintenance Costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 19\n# Comments: 3",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "016",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 68\n# Comments: 43",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "017",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title": "Running local models on an M4 with 24GB memory",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 79\n# Comments: 43",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "018",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 7\n# Comments: 0",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 81\n# Comments: 37",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises\nComments URL: h",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "title": "Hardware Attestation as Monopoly Enabler",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 894\n# Comments: 328",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "title": "Incident Report: CVE-2024-YIKES",
+      "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 394\n# Comments: 94",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
       "title": "Get ready for the whisper-filled office of the future",
       "summary": "How will work setups change if we spend more and more time talking to our computers?",
@@ -23,7 +299,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
       "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
@@ -36,7 +312,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "003",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
       "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
       "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
@@ -53,7 +329,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "004",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
       "title": "TechCrunch Mobility: Lime’s IPO gamble",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -70,7 +346,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
@@ -81,7 +357,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "006",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
       "title": "The hottest place for startups to strike a deal? The F1 paddock",
       "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
@@ -94,7 +370,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
@@ -108,7 +384,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "030",
       "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
       "title": "Do you take after your dad’s RNA?",
       "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
@@ -121,338 +397,6 @@
         "syndication"
       ],
       "_source": "Ars Technica"
-    },
-    {
-      "id": "009",
-      "url": "https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/",
-      "title": "Huge landslide created a 500-meter-high tsunami in a major tourist area",
-      "summary": "Fortunately, it happened early in the morning, so nobody was around.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Science",
-        "climate change",
-        "Earth sciences",
-        "geology",
-        "glacier",
-        "landslide",
-        "Tsunami"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "010",
-      "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
-      "title": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
-      "summary": "Make no mistake, the Bastl Kalimba is a synthesizer, you just play it like a kalimba. Its tines don't really make much sound. There is an internal mic that you can blend in for a little acoustic spice, but it's mostly driven by the synth engine that combines physical modeling and FM. The tines are [",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Entertainment",
-        "Gadgets",
-        "Music",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "011",
-      "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
-      "title": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
-      "summary": "I've got to thank my oldest friend and concert buddy, Tim, for turning me on to this one. Ashnymph is a London band that blends post-punk melodies with Krautrock rhythms and industrial grime. Their debut EP, Childhood, drifts between dreamy vocals buried in layers of reverb and four-on-the-floor dan",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Column",
-        "Entertainment",
-        "Music",
-        "Music Review"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "012",
-      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
-      "title": "Cricut’s $99 craft cutting machine helped me feel creative again",
-      "summary": "I've always been skeptical of products that claim to help you lead a more creative life. But one recently won me over. I've spent three weeks with the Cricut Joy 2, a smart cutting and drawing machine that made it easy for me to get back into making stickers, cards, bookmarks, and more. The small […",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Gadgets",
-        "Hands-on",
-        "Reviews",
-        "Smart Home",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "013",
-      "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
-      "title": "Writers are fleeing the Substack Tax",
-      "summary": "Substack, the once buzzy newsletter platform, is losing a new swath of writers to rival platforms most people haven't heard of. Just last month, The Ankler, one of Substack's most popular publications, left for a platform that gives it more control over its site. Others who have departed Substack wi",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Creators",
-        "Report",
-        "Tech",
-        "Web"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "014",
-      "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
-      "title": "Netflix may have finally figured out games",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Netflix, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Boggle has become a spectator sport in my household. E",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Column",
-        "Gaming",
-        "Netflix",
-        "Streaming",
-        "The Stepback"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "015",
-      "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
-      "title": "Vivo’s X300 Ultra has the best cameras in any phone",
-      "summary": "A few months ago, I wrote that the telephoto camera is the only lens that matters any more, at least when it comes to Ultra-class flagships. As phones got better, cameras became where manufacturers tried to stand out. As cameras got better, telephoto lenses became the next point of focus. The most r",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Mobile",
-        "Phone Reviews",
-        "Reviews",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "016",
-      "url": "https://www.wired.com/story/could-contact-tracing-apps-help-with-the-hantavirus-not-really/",
-      "title": "Could Contact-Tracing Apps Help With the Hantavirus? Not Really",
-      "summary": "Contact-tracing apps were widely deployed during the Covid pandemic. They aren’t as helpful during smaller outbreaks.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "coronavirus",
-        "COVID-19",
-        "viruses",
-        "health",
-        "pandemics",
-        "Ship Show"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "017",
-      "url": "https://www.wired.com/story/do-city-delivery-drones-make-sense-no-one-knows-but-theyre-flying-over-nyc/",
-      "title": "Do City Delivery Drones Make Sense? No One Knows, but They're Flying Over NYC",
-      "summary": "One of the country’s busiest airspaces has a new kind of flying machine—maybe temporarily.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "drones",
-        "Aviation",
-        "logistics",
-        "public health",
-        "New York City",
-        "cargo",
-        "supply chain",
-        "Infrastructure",
-        "Cities",
-        "Open Air"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "018",
-      "url": "https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel/",
-      "title": "How Handheld Translators Work and Why They’re Handy for Travel",
-      "summary": "Your cell phone can handle basic language translation, but bespoke tools can offer a much more immersive experience.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Gear",
-        "Gear / How To and Advice",
-        "Gear / Products / Lifestyle",
-        "Gear / Products",
-        "Gear / Reviews",
-        "Gear / Products / Outdoor",
-        "Shopping",
-        "how-to",
-        "review",
-        "Reviews",
-        "Travel",
-        "translation",
-        "languages",
-        "AFK"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "019",
-      "url": "https://www.wired.com/story/reservation-hijacks-scam-safety-tips/",
-      "title": "‘Reservation Hijacking’ Scams Target Travelers. Here’s How to Stay Safe",
-      "summary": "The hotel staffer who calls you with an urgent request for payment isn’t necessarily who they say they are.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Gear",
-        "Gear / How To and Advice",
-        "scams",
-        "Travel",
-        "how-to",
-        "tips",
-        "Tips"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "020",
-      "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security",
-      "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
-      "summary": "AI agents choose tools from shared registries by matching natural-language descriptions. But no human is verifying whether those descriptions are true. I discovered this gap when I filed Issue #141 in the CoSAI secure-ai-tooling repository. I assumed it would be treated as a single risk entry. The r",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Security",
-        "DataDecisionMakers"
-      ],
-      "_source": "VentureBeat"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/trivedivatsal/my-sonarqube-scans-were-crawling-turns-out-docker-on-wsl-2-only-had-1-cpu-and-1-gb-of-ram-661",
-      "title": "My SonarQube scans were crawling; turns out Docker on WSL 2 only had 1 CPU and 1 GB of RAM",
-      "summary": "If you're running SonarQube (or anything CPU- and memory-hungry) inside Docker Desktop on Windows and the scans feel like they're running through molasses, your .wslconfig is probably the first place to look. That was my story this week, and the fix was satisfyingly small.\n\nHere's the whole journey,",
-      "date_published": "2026-05-10",
-      "tags": [
-        "wsl",
-        "docker",
-        "sonarqube",
-        "windows"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/0xfdbu/tutorial-building-a-shielded-token-dapp-on-midnight-from-compact-contract-to-react-ui-183g",
-      "title": "[Tutorial] Building a Shielded Token dApp on Midnight: From Compact Contract to React UI",
-      "summary": "📁 Full source code: midnight-apps/shielded-token\n\nTarget audience: Developers\n\nThis tutorial walks you through building a complete shielded token DApp on the Midnight network. You will deploy a Compact smart contract, implement operations such as minting, transferring, and burning tokens, generate z",
-      "date_published": "2026-05-10",
-      "tags": [
-        "midnightfordevs",
-        "privacy",
-        "blockchain",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/zeromathai/how-knowledge-based-ai-works-from-rules-to-inference-3o1o",
-      "title": "How Knowledge-Based AI Works — From Rules to Inference",
-      "summary": "Before AI learned from massive datasets, many systems worked with explicit knowledge.\n\nFacts.\n\nRules.\n\nInference.\n\nThat is the core of Knowledge-Based AI.\n\n\n  \n  \n  Core Idea\n\n\nKnowledge-Based AI stores knowledge in a structured form.\n\nThen it uses rules to derive new conclusions.\n\nThe system does n",
-      "date_published": "2026-05-10",
-      "tags": [
-        "ai",
-        "programming",
-        "logic"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/zeromathai/how-intelligent-agents-work-from-perception-to-decision-and-action-im1",
-      "title": "How Intelligent Agents Work — From Perception to Decision and Action",
-      "summary": "AI is not just models.\n\nIt is a system that perceives, decides, and acts.\n\nIf you only think in terms of algorithms, you miss the bigger structure.\n\nThe real question is:\n\nHow does an AI system turn input into action?\n\n\n  \n  \n  Core Idea\n\n\nAn intelligent agent is the simplest way to understand AI as",
-      "date_published": "2026-05-10",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "systems"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/kenimo49/your-mcp-server-eats-55000-tokens-before-your-agent-says-a-word-i-measured-the-real-cost-19l8",
-      "title": "Your MCP server eats 55,000 tokens before your agent says a word -- I measured the real cost",
-      "summary": "The invisible bill\n\n\nI was debugging why my Claude Code sessions felt sluggish after connecting a few MCP servers. Token usage was through the roof -- but I hadn't even asked the agent to do anything yet. I rewrote my prompts three times before I thought to check where the tokens were actually going",
-      "date_published": "2026-05-10",
-      "tags": [
-        "ai",
-        "mcp",
-        "devtools",
-        "performance"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/kawacode-ai/your-ai-agents-are-stepping-on-each-other-i08",
-      "title": "Your AI agents are stepping on each other",
-      "summary": "The missing coordination primitive.\n\nNew research (AgenticFlict, arXiv 2604.03551) confirms what a lot of teams are learning the hard way: AI-generated PRs are producing a measurable new class of merge conflicts. \n\nThe agents have no concept of each other's intent.\n\n\nAn average conflict rate of 20% ",
-      "date_published": "2026-05-10",
-      "tags": [
-        "ai",
-        "git",
-        "agents",
-        "llm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/arihant_agarwal_359eb9f57/security-checklist-for-midnight-dapps-before-deployment-69m",
-      "title": "Security Checklist for Midnight dApps Before Deployment",
-      "summary": "A Midnight DApp can pass local unit tests and still leak data, accept replayed actions, or fail proof generation in the target environment. The risk comes from the parts that make Midnight powerful: selective disclosure, witness functions, private state, ZK proofs, and a toolchain that spans Compact",
-      "date_published": "2026-05-10",
-      "tags": [
-        "midnightfordevs"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/aws-builders/contract-first-event-driven-architecture-on-aws-2cf2",
-      "title": "Contract-First Event-Driven Architecture on AWS",
-      "summary": "When event-driven systems grow past a handful of services, the biggest failures usually are not infrastructure failures. They are contract failures.\n\nA producer adds a field and a consumer crashes.\nA team renames an enum value and downstream processing silently misclassifies events.\nA “minor change”",
-      "date_published": "2026-05-10",
-      "tags": [
-        "aws",
-        "webdev",
-        "architecture",
-        "eventdriven"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/sudip_4dbdbc6116a9aa4316a/level-2-the-dna-blueprints-the-zombie-army-solidity-quest-2jbi",
-      "title": "🧟 Level 2: The DNA Blueprints & The Zombie Army (Solidity Quest)",
-      "summary": "In Level 1, we dropped our \"Citadel\" (the Smart Contract) onto the Ethereum grid. It’s a safe, empty fortress. But a factory without a product is just a building.\n\nToday, we are installing the most important part of our factory: The Storage Vaults. We need a way to define what a Zombie is and a plac",
-      "date_published": "2026-05-10",
-      "tags": [
-        "beginners",
-        "blockchain",
-        "ethereum",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "030",
-      "url": "https://dev.to/sisyphusse1ops/i-shipped-cc-audit-as-a-github-action-now-your-claudemd-gets-linted-on-every-pr-5fal",
-      "title": "I shipped cc-audit as a GitHub Action. Now your CLAUDE.md gets linted on every PR.",
-      "summary": "Quick follow-up to my earlier post about scanning 492 public CLAUDE.md files. Takeaway from that scan: median compliance with the 12-rule baseline was 3/12. The top-missed rules were rules 9, 10, 12, and 1 — the behavior-file equivalent of skipping unit tests.\n\nThe fix is easy: run a linter. The har",
-      "date_published": "2026-05-10",
-      "tags": [
-        "github",
-        "ai",
-        "devops",
-        "actions"
-      ],
-      "_source": "Dev.to"
     }
   ]
 }
