@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
-      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 25\n# Comments: 3",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 17\n# Comments: 0",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-      "title": "I'm going back to writing code by hand",
-      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 113\n# Comments: 45",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 81\n# Comments: 28",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -29,198 +29,193 @@
     },
     {
       "id": "003",
-      "url": "https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7",
-      "title": "67. DBSCAN: Clustering That Handles Messy Data",
-      "summary": "Last post K-Means failed on crescent-shaped data. It cut across the natural curves instead of following them. You also had to tell it K upfront. And one outlier could drag a centroid completely off course.\n\nDBSCAN fixes all three problems.\n\nIt finds clusters based on density, not distance to a centr",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "summary": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.On my own PRs, it has been catching dramatically more real bugs than Claude’s built-i",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "python"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     },
     {
       "id": "004",
-      "url": "https://dev.to/udit_kapoor/what-does-building-in-public-actually-mean-in-2026-31oe",
-      "title": "What Does \"Building in Public\" Actually Mean in 2026?",
-      "summary": "If you've spent any time on developer Twitter, you've seen it.\n\nFounders posting their MRR. Sharing what broke this week. Documenting every step of building their product in real time.\n\nBut what does building in public actually mean? And is it worth doing?\n\nThis is the honest breakdown. No hype.\n\n\n ",
+      "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+      "title": "I'm going back to writing code by hand",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 200\n# Comments: 73",
       "date_published": "2026-05-11",
       "tags": [
-        "buildinpublic",
-        "saas",
-        "startup",
-        "webdev"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     },
     {
       "id": "005",
-      "url": "https://dev.to/jtebaan/how-i-built-an-ai-morning-briefing-that-runs-itself-every-day-2152",
-      "title": "How I Built an AI Morning Briefing That Runs Itself Every Day",
-      "summary": "The Problem\n\n\nI'm a solopreneur. My work depends on knowing what's happening in tech: new frameworks, Product Hunt launches, funding rounds, AI tools. But I was spending 45 minutes every morning jumping between Hacker News, Reddit, Product Hunt, Substack, and Twitter. By the end of the day, I'd cons",
+      "url": "https://dev.to/appwrite/april-product-update-mongodb-support-appwrite-190-realtime-upgrades-and-ai-tooling-1eg6",
+      "title": "April product update: MongoDB support, Appwrite 1.9.0, Realtime upgrades and AI tooling",
+      "summary": "Welcome back to the product update. April was packed with major releases across Appwrite. From our official MongoDB partnership and Appwrite 1.9.0 to new infrastructure APIs, Realtime improvements, performance upgrades, and deeper AI integrations, we shipped updates focused on helping you build fast",
       "date_published": "2026-05-11",
       "tags": [
         "ai",
-        "automation",
-        "python",
-        "productivity"
+        "backend",
+        "mongodb",
+        "news"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://dev.to/oclauncherai/the-agentic-headless-backend-what-vibe-coders-still-need-after-the-ui-is-done-4dmc",
-      "title": "The Agentic Headless Backend: What Vibe Coders Still Need After the UI Is Done",
-      "summary": "Vibe coding changed the first hour of software.\n\nA founder can open v0, Cursor, Claude, or ChatGPT and describe a booking page, a customer dashboard, or a small commerce flow. A few minutes later, there is a polished interface: cards, filters, forms, empty states, maybe even a working mock API.\n\nTha",
+      "url": "https://dev.to/keithjmackay/situational-leadership-for-ai-more-like-a-capable-colleague-than-a-fancy-formula-1hje",
+      "title": "Situational Leadership for AI: More Like a Capable Colleague than a Fancy Formula",
+      "summary": "Situational Leadership for AI: More Like a Capable Colleague than a Fancy Formula\n\n\nTreating LLMs like vending machines guarantees mediocre results—try situational leadership for better results\n\n\n\n\nYou wouldn’t hand a new hire a laptop, point vaguely at the codebase, and say “make it better.” You wo",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "webdev",
-        "backend",
-        "mcp"
+        "management",
+        "leadership",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://dev.to/jtebaan/como-construi-un-morning-briefing-con-ia-que-se-ejecuta-solo-cada-manana-bop",
-      "title": "Cómo construí un Morning Briefing con IA que se ejecuta solo cada mañana",
-      "summary": "El problema\n\n\nSoy Indie Maker. Mi trabajo depende de saber qué pasa en tech: nuevos frameworks, lanzamientos en Product Hunt, rondas de funding, herramientas de IA. Pero pasaba horas cada mañana saltando entre Hacker News, Reddit, Product Hunt, Substack y X(Twitter). Al final del día, había leído mu",
+      "url": "https://dev.to/balagmadhu/how-one-setting-transforms-your-bots-ux-unveiling-copilot-studios-latency-message-ic1",
+      "title": "How One Setting Transforms Your Bot's UX: Unveiling Copilot Studio's Latency Message",
+      "summary": "A few weeks ago in my Bite-Sized Wizardry series, I explored the common challenge of nandling Lingering Conversations Gracefully in Microsoft Copilot Studio specially with classic orchestration.\n\n\n\n  \n  Stop the Awkward Silence: Signals to Classic Orchestration\n\n\n  \n    \n      \n        \n\n          \n",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "automation",
-        "python",
-        "productivity"
+        "copilotstudio",
+        "powerplatform",
+        "powerfuldevs"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/whetlan/vague-thinking-stops-being-free-3lan",
-      "title": "Vague Thinking Stops Being Free",
-      "summary": "I keep running into the same thing. I'll finish a feature with AI, check it, everything runs, tests pass. The output is wrong.\n\nNot wrong like a bug. Wrong like it understood 80% of what I meant and filled in the rest with reasonable assumptions that happened to be incorrect. The kind of wrong where",
+      "url": "https://dev.to/jahongir2007/how-to-create-magic-link-authentication-system-for-email-verification-on-nodejs-step-by-step-2a4a",
+      "title": "How to create Magic Link authentication system for email verification on Node.js (step-by-step)",
+      "summary": "Magic link authentication is becoming one of the most popular ways to verify users without passwords. Instead of asking users to remember passwords, we simply send them a secure login link through email.\n\n\n  \n  \n  What is a Magic Link?\n\n\nA magic link is a unique URL sent to a user’s email. When the ",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "programming",
-        "productivity",
-        "discuss"
+        "Dev.to"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/depapp/what-is-agentic-testing-a-practical-guide-for-qa-teams-3j65",
-      "title": "What Is Agentic Testing? A Practical Guide for QA Teams",
-      "summary": "Your test suite passes. Your release goes out. And then a customer hits a bug that your regression suite never covered, because nobody had time to write that test.\n\nSound familiar? If you've worked in QA for more than a year, you've lived some version of this story. The backlog of tests that should ",
+      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-62-ui-tars-desktop-bytedances-open-source-multimodal-gui-53pm",
+      "title": "One Open Source Project a Day (No. 62): UI-TARS-Desktop - ByteDance's Open-Source Multimodal GUI Agent Stack",
+      "summary": "Introduction\n\n\n\n\"See the screen, understand the task, take the action.\"\n\n\nThis is the No.62 article in the \"One Open Source Project a Day\" series. Today, we are exploring UI-TARS-Desktop.\n\nThe AI agent projects we have covered recently—OpenHarness, Symphony, Agent Skills—all operate within the \"code",
       "date_published": "2026-05-11",
       "tags": [
-        "katalon",
-        "trueplatform",
-        "agentictesting",
-        "softwaretesting"
+        "opensource",
+        "agents",
+        "bytedance",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/saifuddin_tipu_ba2d0355b0/stop-passing-req-everywhere-express-middleware-for-request-context-propagation-4e00",
-      "title": "Stop Passing req Everywhere — Express Middleware for Request Context Propagation",
-      "summary": "There's a pattern I've seen in almost every Express codebase I've worked in. It starts small.\n\nYou need to log a correlation ID inside a service function. So you add req as a parameter. Then the function that calls it needs req. Then the one above that. Within a few weeks, half your codebase takes r",
+      "url": "https://dev.to/jcmexdev/por-que-las-goroutines-son-el-superpoder-que-otros-lenguajes-envidian-3fop",
+      "title": "¿Por qué las Goroutines son el \"superpoder\" que otros lenguajes envidian?",
+      "summary": "Si alguna vez has sentido que la concurrencia en C o Java es como intentar hacer malabares con diez motosierras encendidas, no estás solo. Es peligroso, agotador y, si intentas añadir una más, todo el sistema colapsa bajo el peso. Go cambió el juego: nos dijo que podíamos soltar las motosierras y em",
       "date_published": "2026-05-11",
       "tags": [
-        "node",
-        "express",
-        "typescript",
-        "webdev"
+        "go",
+        "software",
+        "spanish"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/ai_ap_1798347ec365e8cf821/what-is-a-chat-api-the-definitive-guide-to-in-app-messaging-2026-136",
-      "title": "What is a Chat API? The Definitive Guide to In-App Messaging (2026)",
-      "summary": "Building chat looks easy on a whiteboard. You send a string, they get a string. Simple, right?\n\nBut then reality kicks in. Suddenly, you’re dealing with a user on a shaky 3G connection in a Jakarta basement where packets simply vanish. Then there’s the aggressive battery management on budget Android",
+      "url": "https://dev.to/digitpatrox/langchain-vs-langgraph-why-ai-agents-need-stateful-orchestration-36go",
+      "title": "LangChain vs LangGraph: Why AI Agents Need Stateful Orchestration",
+      "summary": "LangChain vs LangGraph: Why AI Agents Need Stateful Orchestration\n\n\nMost AI agents look impressive in demos.\n\nThen they hit production and break.\n\nAPIs timeout. Memory disappears. Tool calls fail. Long workflows lose context halfway through execution. A chatbot that looked “smart” in a YouTube video",
       "date_published": "2026-05-11",
       "tags": [
-        "android",
-        "api",
-        "mobile",
-        "softwareengineering"
+        "agents",
+        "ai",
+        "architecture",
+        "llm"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/member_0af6418a/deepseek-tui-on-windows-a-practical-look-at-a-terminal-native-coding-agent-3odj",
-      "title": "DeepSeek TUI on Windows: A Practical Look at a Terminal-Native Coding Agent",
-      "summary": "DeepSeek TUI is an open-source terminal-native coding agent for DeepSeek models.\n\nProject:\n\nhttps://github.com/Hmbown/DeepSeek-TUI\n\nAt first glance, it is tempting to describe it as \"DeepSeek's Claude Code-like tool.\" That comparison is useful, but only up to a point.\n\nThe more interesting point is ",
+      "url": "https://dev.to/vladislav_rajtmajer_18389/captcha-without-cookies-a-proof-of-work-approach-pon",
+      "title": "CAPTCHA without cookies: a proof-of-work approach",
+      "summary": "We've all been there. You're trying to sign in, you click \"I'm not a robot\", and instead of a simple checkbox you get a 3×3 grid of blurry photos. Click all squares with traffic lights. You miss one — was that a real traffic light, or just a pole with a light on top of it? Wrong. New grid. Crosswalk",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "opensource",
-        "programming",
-        "github"
+        "webdev",
+        "security",
+        "captcha",
+        "eu"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/tamilvanan/owasp-top-10-notes-may-11-2026-5ga4",
-      "title": "OWASP Top 10 | notes may 11 2026",
-      "summary": "OWASP Top 10 is not merely a list of vulnerabilities.\n\nIt is better understood as:\n\n\na map of recurring software security failure patterns.\n\n\nMany beginners treat it like:\n\n\n“10 things to memorize.”\n\n\nBut the deeper value is:\n\n\nunderstanding why these vulnerabilities repeatedly emerge across differe",
+      "url": "https://dev.to/buddika_b/why-this-java-loop-is-not-infinite-51ie",
+      "title": "Why This Java Loop Is Not Infinite 🤔",
+      "summary": "public class Main\n{\n    public static void main(String[] args) {\n        System.out.println(\"Start\\n\");\n        byte i;\n        for(i=0; i<10; i--) {\n            System.out.print(i+\", \");\n        }\n        System.out.print(\"\\b\\b\");\n        System.out.println(\"\\n\\n\\\"i\\\" value is \"+i+\"\\n\\nEnd\");\n\n\n}\n\n",
       "date_published": "2026-05-11",
       "tags": [
-        "cybersecurity",
-        "infosec",
-        "security",
-        "webdev"
+        "beginners",
+        "computerscience",
+        "java",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://dev.to/ethan_thunderbit/designing-reliable-tool-schemas-with-zod-for-llm-agents-21ha",
-      "title": "Designing Reliable Tool Schemas with Zod for LLM Agents",
-      "summary": "LLM agents often fail in surprisingly ordinary places.\n\nNot in the model call. Not in the prompt. Not even in the function that eventually does the work.\n\nThey fail at the boundary between \"the model produced some arguments\" and \"my application trusted those arguments enough to run code.\"\n\nThat boun",
+      "url": "https://dev.to/techikrish/your-next-devops-interview-just-got-easier-21dk",
+      "title": "Your Next DevOps Interview Just Got Easier",
+      "summary": "DevOps interviews are not like other interviews.\nYou don't just get asked \"what is a pod\" or \"what does S3 stand for.\" You get asked to think out loud. Walk me through how you'd debug a service that's returning 503s in production. What would you check first if your Kubernetes nodes are NotReady at 2",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "beginners",
-        "productivity"
+        "devops",
+        "kubernetes",
+        "aws",
+        "github"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 68\n# Comments: 10",
-      "date_published": "2026-05-10",
+      "url": "https://dev.to/keithjmackay/software-moats-in-the-age-of-ai-whats-actually-defensible-nnn",
+      "title": "Software Moats in the Age of AI: What's Actually Defensible?",
+      "summary": "Software Moats in the Age of AI: What's Actually Defensible?\n\n\nWhy the \"AI writes code now\" narrative misses the point—and where competitive advantages stubbornly persist\n\n\n\n\nAnother pitch deck lands on your desk. Another startup promises to \"displace custom software development.\" Another analyst pr",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "software",
+        "ai",
+        "technicaldebt",
+        "convex"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 106\n# Comments: 73",
-      "date_published": "2026-05-10",
+      "url": "https://dev.to/nikita_kothari_9e0b0f7e38/from-coder-to-architect-how-i-rebuilt-my-workflow-using-claude-and-mcp-33mm",
+      "title": "From Coder to Architect: How I Rebuilt My Workflow Using Claude and MCP",
+      "summary": "The \"AI anxiety\" felt by many developers often stems from the fear that the act of creation is being taken away. But clinging to the manual labor of syntax means missing out on the opportunity to become a true system architect. By treating AI integration not as a shortcut, but as an exercise in Engi",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "architecture",
+        "claude",
+        "mcp",
+        "productivity"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "title": "Running local models on an M4 with 24GB memory",
-      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 159\n# Comments: 59",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 104\n# Comments: 22",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -229,9 +224,9 @@
     },
     {
       "id": "018",
-      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 22\n# Comments: 4",
+      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 139\n# Comments: 88",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -240,9 +235,9 @@
     },
     {
       "id": "019",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 108\n# Comments: 60",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title": "Running local models on an M4 with 24GB memory",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 225\n# Comments: 77",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -251,9 +246,9 @@
     },
     {
       "id": "020",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
-      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises\nComments URL: h",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 44\n# Comments: 8",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -262,9 +257,9 @@
     },
     {
       "id": "021",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "title": "Hardware Attestation as Monopoly Enabler",
-      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 1029\n# Comments: 365",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 148\n# Comments: 72",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -273,9 +268,9 @@
     },
     {
       "id": "022",
-      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
-      "title": "Incident Report: CVE-2024-YIKES",
-      "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 433\n# Comments: 108",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises\nComments URL: h",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
