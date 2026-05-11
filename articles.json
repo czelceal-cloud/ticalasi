@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
-    "summary": "Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/\nComments URL: https://news.ycombinator.com/item?id=48093446\nPoints: 12\n# Comments: 7",
-    "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+    "title": "How are we going to get out of Meta? (Or social media in general)",
+    "summary": "Article URL: https://hugoib.beehiiv.com/p/how-are-we-going-to-get-out-of-meta-or-social-media-in-general\nComments URL: https://news.ycombinator.com/item?id=48096622\nPoints: 3\n# Comments: 0",
+    "url": "https://hugoib.beehiiv.com/p/how-are-we-going-to-get-out-of-meta-or-social-media-in-general",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Ratty – A terminal emulator with inline 3D graphics",
-    "summary": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 69\n# Comments: 23",
-    "url": "https://ratty-term.org/",
+    "title": "Show HN: Free tool to see how much AI bots are costing your site",
+    "summary": "Article URL: https://botcost.dev\nComments URL: https://news.ycombinator.com/item?id=48096045\nPoints: 6\n# Comments: 6",
+    "url": "https://botcost.dev",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 18\n# Comments: 9",
-    "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+    "title": "ICE to Develop Own Smart Glasses to 'Supplement' Its Facial Recognition App",
+    "summary": "Article URL: https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/\nComments URL: https://news.ycombinator.com/item?id=48095282\nPoints: 37\n# Comments: 13",
+    "url": "https://www.404media.co/ice-plans-to-develop-own-smart-glasses-to-supplement-its-facial-recognition-app/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The Adventure Family Tree",
-    "summary": "Article URL: https://mipmip.org/advfamily/advfamily.html\nComments URL: https://news.ycombinator.com/item?id=48092367\nPoints: 7\n# Comments: 0",
-    "url": "https://mipmip.org/advfamily/advfamily.html",
+    "title": "Create a 90s GeoCities style website in seconds (Python)",
+    "summary": "Article URL: https://pypi.org/project/create-geocities-app/\nComments URL: https://news.ycombinator.com/item?id=48094521\nPoints: 21\n# Comments: 6",
+    "url": "https://pypi.org/project/create-geocities-app/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
-    "summary": "Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082\nComments URL: https://news.ycombinator.com/item?id=48092028\nPoints: 12\n# Comments: 2",
-    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+    "title": "European Money Pours into Palantir",
+    "summary": "Article URL: https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html\nComments URL: https://news.ycombinator.com/item?id=48093626\nPoints: 80\n# Comments: 14",
+    "url": "https://english.elpais.com/economy-and-business/branded/2026-04-11/european-money-pours-into-palantir-over-100-asset-managers-and-banks-boost-their-investments-in-the-controversial-tech-company.html",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Mythos Finds a Curl Vulnerability",
-    "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 226\n# Comments: 87",
-    "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+    "title": "Ratty – A terminal emulator with inline 3D graphics",
+    "summary": "Article URL: https://ratty-term.org/\nComments URL: https://news.ycombinator.com/item?id=48093100\nPoints: 386\n# Comments: 133",
+    "url": "https://ratty-term.org/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-    "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 58\n# Comments: 14",
-    "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+    "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html\nComments URL: https://news.ycombinator.com/item?id=48093043\nPoints: 127\n# Comments: 87",
+    "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-    "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 203\n# Comments: 89",
-    "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "title": "The Adventure Family Tree",
+    "summary": "Article URL: https://mipmip.org/advfamily/advfamily.html\nComments URL: https://news.ycombinator.com/item?id=48092367\nPoints: 37\n# Comments: 2",
+    "url": "https://mipmip.org/advfamily/advfamily.html",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-    "summary": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.On my own PRs, it has been catching dramatically more real bugs than Claude’s built-i",
-    "url": "https://github.com/adamjgmiller/adamsreview",
+    "title": "Gmail registration now requires scanning a QR code and sending a text message",
+    "summary": "Article URL: https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082\nComments URL: https://news.ycombinator.com/item?id=48092028\nPoints: 226\n# Comments: 106",
+    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "I'm going back to writing code by hand",
-    "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 463\n# Comments: 222",
-    "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "title": "Mythos Finds a Curl Vulnerability",
+    "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 435\n# Comments: 190",
+    "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,82 @@
   },
   {
     "id": "011",
+    "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
+    "summary": "The battery recycling and energy storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
+    "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "Climate",
+      "Deepak Ahuja",
+      "Redwood Materials"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "NYT’s Wordle to become a TV game show",
+    "summary": "The popular mobile puzzle game will become a TV game show next year.",
+    "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Gaming",
+      "Media & Entertainment",
+      "games",
+      "mobile games",
+      "NYT",
+      "Wordle"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "TikTok launches an ad-free subscription plan in the UK",
+    "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
+    "url": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Social",
+      "social media",
+      "TikTok"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+    "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "AI",
+      "baiju bhatt",
+      "Aetherflux",
+      "Cowboy Space Company"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
+    "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass, and discounts from Logitech, SteelSeries, and other gaming brands.",
+    "url": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Gaming",
+      "discord",
+      "Discord Nitro",
+      "Nitro Rewards",
+      "Xbox Game Pass"
+    ]
+  },
+  {
+    "id": "016",
     "title": "Venmo’s biggest makeover in years comes at a very interesting time",
     "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
     "url": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
@@ -123,7 +199,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "017",
     "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
     "summary": "Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.",
     "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
@@ -140,7 +216,171 @@
     ]
   },
   {
-    "id": "013",
+    "id": "018",
+    "title": "A promising Indian launch startup nears its first orbital test flight",
+    "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
+    "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "india",
+      "launch",
+      "skyroot"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Sony's failed war against Internet piracy may doom other copyright lawsuits",
+    "summary": "Cable firm Cox's Supreme Court win may help all tech providers, not just ISPs.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/sonys-failed-war-against-internet-piracy-may-doom-other-copyright-lawsuits/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Features",
+      "Policy",
+      "Cox",
+      "record labels",
+      "Sony",
+      "Supreme Court"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "A million baby monitors and security cameras were easily viewable by hackers",
+    "summary": "A baby's eyes peer directly into the camera lens. A kid with a striped shirt looks up, then away. A boy in a policeman's costume, a gold star on his chest. A messy bedroom that reminds me of my own daughters, with an unmade bunk bed, a little girl's hat and headband, and Hello Kitty […]",
+    "url": "https://www.theverge.com/tech/926487/meari-technology-hack-baby-monitor-security-camera",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "News",
+      "Report",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "7 of our favorite deals from Amazon’s Pet Days sale",
+    "summary": "A big part of my job here at The Verge is to find deals on tech that readers will like. But in my personal life, I’m not spending anywhere near as much money on tech as I am on food, litter, and other supplies for our two cats. Sad, but true. If your life is […]",
+    "url": "https://www.theverge.com/gadgets/927788/amazon-pet-days-tech-gadgets-cat-dog-deal-sale",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
+    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "Law",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Tech",
+      "xAI"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
+    "summary": "General Motors has agreed to pay $12.75 million to settle a California data privacy lawsuit that accused the automaker of selling driver location and driver data, as reported earlier by Reuters. In a proposed settlement filed on Friday, GM agreed to stop selling customer information to data brokers ",
+    "url": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "GM",
+      "News",
+      "Privacy",
+      "Tech",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Matter and OpenADR team up to connect smart homes to the grid",
+    "summary": "Smart energy management just took a step closer to becoming simpler. This week, the organizations behind Matter, the smart-home interoperability standard, and the OpenADR protocol, which sends signals between the grid and the home, announced an agreement to work together. This should make it easier ",
+    "url": "https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "Matter",
+      "News",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Joanna Stern is not a robot, but she lived with them",
+    "summary": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of my cofounders here at The Verge, and also just one of my very closest friends. I mention that becau",
+    "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Creators",
+      "Decoder",
+      "Podcasts",
+      "Streaming",
+      "Tech",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "TikTok is letting UK users pay to remove ads",
+    "summary": "TikTok is preparing to roll out a paid, ad-free version of its app in the UK. The new subscription announced today will be available to users over 18 \"over the coming months,\" according to TikTok's announcement and will cost £3.99 (about $5.40) per month. In exchange for that, TikTok will remove ads",
+    "url": "https://www.theverge.com/tech/927761/tiktok-ad-free-paid-subscription-uk",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "Creators",
+      "News",
+      "Tech",
+      "TikTok"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Discord adds a free Xbox Game Pass ‘starter edition’ for Nitro subscribers",
+    "summary": "Discord is announcing the launch of Nitro Rewards today, a new program for subscribers that bundles benefits from third parties like Microsoft, Logitech, and SteelSeries, into a Nitro subscription. The main addition is that Nitro members will now get a new starter edition of Xbox Game Pass at no ext",
+    "url": "https://www.theverge.com/news/927722/discord-xbox-game-pass-starter-edition-nitro-subscribers",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Wordle is turning into a primetime TV game show on NBC",
+    "summary": "Wordle could be the next great game show. NBC has greenlit a game show version of The New York Times' popular puzzle game, and it's set to debut in 2027 with Savannah Guthrie as the host. The show will be produced by Universal Television Alternative Studio \"in partnership with\" Jimmy Fallon's produc",
+    "url": "https://www.theverge.com/games/927536/wordle-game-show-nbc-savannah-guthrie-jimmy-fallon-new-york-times",
+    "date": "2026-05-11",
+    "source": "The Verge",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "TV Shows"
+    ]
+  },
+  {
+    "id": "029",
     "title": "Venmo finally takes privacy seriously",
     "summary": "Venmo is starting to test a big redesign of its app, and as part of the changes, it will be implementing a major new privacy measure: the onboarding process for new users will set their posts to only be viewable by their friends by default instead of being public. It's a notable update for a […]",
     "url": "https://www.theverge.com/tech/927503/venmo-app-redesign-privacy-posts",
@@ -153,254 +393,22 @@
     ]
   },
   {
-    "id": "014",
-    "title": "Windows 11 is getting a macOS-like speed boost",
-    "summary": "Microsoft is currently testing a new speed boost feature in Windows 11 that is designed to improve app launch times and make things like the Start menu feel more responsive. The feature, which is reportedly called \"Low Latency Profile,\" will ramp up CPU frequency in short bursts to improve the speed",
-    "url": "https://www.theverge.com/news/927736/windows-11-is-getting-a-macos-like-speed-boost",
-    "date": "2026-05-11",
-    "source": "The Verge",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech",
-      "Windows"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "Forza Horizon 6 has been leaked and cracked a week before its release",
-    "summary": "The full version of Playground Games' upcoming Forza Horizon 6 game has leaked online over the weekend and has already been cracked by pirates. The download appeared on file sharing sites after some Steam users were allegedly able to obtain access to an unencrypted preload version of the game. Forza",
-    "url": "https://www.theverge.com/news/927704/forza-horizon-6-leak-cracked",
-    "date": "2026-05-11",
-    "source": "The Verge",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "Logitech’s tiny folding mouse improves upon the laptop trackpad",
-    "summary": "Logitech is reportedly developing a new wireless mouse that folds in half to make it easier to carry around in a bag or pocket. According to leaked marketing images shared by WinFuture, Logitech's foldable mouse caused \"22 percent less muscle strain\" compared to using a laptop trackpad, and can be u",
-    "url": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images",
-    "date": "2026-05-11",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "Logitech",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "A Chevron Texas Power Plant Seeks School District Tax Break",
-    "summary": "The move could save the oil company hundreds of millions, even as Texas lawmakers start looking at reining in incentives for data centers.",
-    "url": "https://www.wired.com/story/chevron-wants-school-district-tax-break-data-center-power-plant-texas/",
-    "date": "2026-05-11",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "Energy",
-      "texas",
-      "data centers",
-      "Taxes",
-      "Microsoft",
-      "Texas Two Step"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "CUDA Proves Nvidia Is a Software Company",
-    "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
-    "url": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-    "date": "2026-05-11",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Computers and Software",
-      "Machine Readable",
-      "coding",
-      "programming",
-      "Computers",
-      "software",
-      "NVIDIA",
-      "platforms",
-      "artificial intelligence"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Keyboard Shortcuts I Learned From My Cat",
-    "summary": "Every time my cat Mira walks across a keyboard, I learn a few new Mac and PC keyboard shortcuts I never knew about.",
-    "url": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
+    "id": "030",
+    "title": "Papa Johns Is Getting Into Drone Delivery—but Not for Pizza",
+    "summary": "A new collaboration with Alphabet’s Wing will only deliver sandwiches. It demonstrates the tricky parts of taking to the sky.",
+    "url": "https://www.wired.com/story/papa-johns-is-getting-into-drone-delivery-but-its-not-flying-pizza/",
     "date": "2026-05-11",
     "source": "Wired",
     "tags": [
       "Gear",
-      "Gear / How To and Advice",
-      "how-to",
-      "tips",
-      "Mac",
-      "keyboards",
-      "Windows",
-      "Press Paws"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Spec-Driven Development Might Be The Only Way To Keep AI Coding Agents From Going Off The Rails",
-    "summary": "AI coding agents are fast. Scary fast. They can build features, refactor files, write tests, and open pull requests before your coffee gets cold. But speed without direction becomes technical debt with a nice commit message. That is why spec-driven development is suddenly becoming a serious conversa",
-    "url": "https://dev.to/dhruvjoshi9/spec-driven-development-might-be-the-only-way-to-keep-ai-coding-agents-from-going-off-the-rails-d0o",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "development",
-      "agents",
-      "coding"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "DDD is not about Code, it’s about Productivity!",
-    "summary": "Software exists to solve business problems. If our code doesn't speak the same language as our business experts, we aren't being productive - we're just being \"busy.\"\n\nThe \"Clean Code\" Trap\nAs software engineers, we are obsessed with scalability, clean architecture, and the latest frameworks. We lov",
-    "url": "https://dev.to/manishpodiyal/ddd-is-not-about-code-its-about-productivity-i6k",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "softwareengineering",
-      "ddd",
-      "cleancode",
-      "productivity"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "The Resilience & Observability Stack",
-    "summary": "Building Production-Ready FastAPI in 2026\n\n\nYour API works. But is it production-ready?\n\n\n\n\n\n  \n  \n  Why This Matters\n\n\nIn 2026, \"Contract-First\" development means more than an OpenAPI spec. It means three implicit promises to every consumer:\n\n\n\nErrors are predictable — every failure returns a struc",
-    "url": "https://dev.to/sreeraj_sreenivasan_2b932/the-resilience-observability-stack-35g6",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "fastapi",
-      "observability",
-      "python",
-      "webdev"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "I built a clickable concept index for long YouTube coding tutorials",
-    "summary": "The problem\n\n\nI watch a lot of long coding tutorials on YouTube — 2, 3, sometimes \n4 hours. React, Node, full-stack builds.\n\nThe problem: I always need to go back and find a specific part. \n\"Where did he set up the auth context?\" or \"When did she configure \nthe middleware?\" Every time, it's 5 minute",
-    "url": "https://dev.to/arkadi_s/i-built-a-clickable-concept-index-for-long-youtube-coding-tutorials-57i9",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "tutorial",
-      "beginners",
-      "productivity"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "URL Parameters vs Query Strings in Express.js",
-    "summary": "Have you notice something like this in your url. It sometimes look like this 👇\n\n\n\nhttps://x.com/Kunalmadoliya\n\n\n\n\n\nand sometimes like this 👇\n\n\nhttps://www.x.com/in/kunal-madoliya-0378133b4/?skipRedirect=true\n\n\n\n\n\nTechnically there are no difference in both. What is the advantage of one is disadvanta",
-    "url": "https://dev.to/kunal_dev/url-parameters-vs-query-strings-in-expressjs-2kfg",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "programming",
-      "productivity",
-      "javascript"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "I Finally Hit 5,000 Followers on DEV Community — Here’s What Actually Worked",
-    "summary": "There was a time when I’d publish a DEV post… and get 3 reactions.\n\nOne of them was probably me refreshing the page.\n\nToday, I finally crossed 5,000 followers on DEV Community — and honestly, it still feels unreal.\n\nNot because 5K is some magical number.\n\nBut because I know how hard it is to grow as",
-    "url": "https://dev.to/yash_sonawane25/i-finally-hit-5000-followers-on-dev-community-heres-what-actually-worked-44ob",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "programming",
-      "devops",
-      "career",
-      "community"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "I Replaced My Prompt Library With 3 Reusable AI Systems",
-    "summary": "I Replaced My Prompt Library With 3 Reusable AI Systems — Here Are the Free Samples\n\n\nMost AI prompt packs fail because they are just lists of generic commands.\n\nA useful prompt library needs three things:\n\n\n\nRole context — the model needs to know what job it is doing.\n\nInputs and constraints — the ",
-    "url": "https://dev.to/suifeng023/i-replaced-my-prompt-library-with-3-reusable-ai-systems-1ao5",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "prompts",
-      "productivity"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Idempotency in Distributed Systems That Actually Works",
-    "summary": "Idempotency in distributed systems is the property that saves you after the network lies, the queue retries, the client panics, and the operator hits replay. In production systems, duplicate delivery is normal. Duplicate side effects are the bug.\n\nHTTP defines an idempotent method as one where multi",
-    "url": "https://dev.to/rosgluk/idempotency-in-distributed-systems-that-actually-works-5dl6",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "dev",
-      "microservices",
-      "api"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Claprec: Product Overview (1/6)",
-    "summary": "This post begins a six-part series on Claprec, a review platform engineered to demonstrate scalable system design, complex data modeling, and machine learning integration.\n\nWhile the surface-level product is a discovery tool for local businesses, the engineering goal was to build a resilient, distri",
-    "url": "https://dev.to/keno_sej/claprec-product-overview-16-3gi8",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "systemdesign",
-      "showdev",
-      "architecture",
-      "webdev"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Ollama Models Explorer — a clean Next.js UI to browse and filter local LLMs",
-    "summary": "If you're running local LLMs through Ollama, finding the right model is annoying. The official model page scrolls forever, capability tags are inconsistent, and there's no way to sort by context window or size without doing it in your head.\n\nSo I built Ollama Models Explorer — a small Next.js + Tail",
-    "url": "https://dev.to/fayazbuilds_n5f2t7/ollama-models-explorer-a-clean-nextjs-ui-to-browse-and-filter-local-llms-15a8",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "ollama",
-      "ai",
-      "opensource",
-      "nextjs"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "How to Build a Crypto Derivatives Monitor with CoinGlass API and Python",
-    "summary": "Tags: python cryptocurrency api quantitative-finance tutorial\n\nEstimated reading time: 25 minutes | Difficulty: Intermediate\n\n\n\n\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nIt's 3 AM. Bitcoin just dropped 18% in 45 minutes.\n\nYour long position got liquidated while you were asleep.\n\nYou wake up to a n",
-    "url": "https://dev.to/great-time-flies/how-to-build-a-crypto-derivatives-monitor-with-coinglass-api-and-python-mp4",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "api",
-      "cryptocurrency",
-      "python",
-      "tutorial"
+      "Gear / Gear News and Events",
+      "drones",
+      "Food and Drink",
+      "food",
+      "delivery",
+      "Aviation",
+      "Alphabet",
+      "Pie in the Sky"
     ]
   }
 ]
