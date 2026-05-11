@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
-      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 17\n# Comments: 0",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "title": "Mythos Finds a Curl Vulnerability",
+      "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 31\n# Comments: 9",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 81\n# Comments: 28",
+      "url": "https://matt.might.net/articles/implementing-a-programming-language/",
+      "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
+      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 40\n# Comments: 8",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -29,6 +29,17 @@
     },
     {
       "id": "003",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
+      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 126\n# Comments: 44",
+      "date_published": "2026-05-11",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
       "url": "https://github.com/adamjgmiller/adamsreview",
       "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
       "summary": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.On my own PRs, it has been catching dramatically more real bugs than Claude’s built-i",
@@ -39,10 +50,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "004",
+      "id": "005",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "title": "I'm going back to writing code by hand",
-      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 200\n# Comments: 73",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 287\n# Comments: 117",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -50,183 +61,174 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
-      "url": "https://dev.to/appwrite/april-product-update-mongodb-support-appwrite-190-realtime-upgrades-and-ai-tooling-1eg6",
-      "title": "April product update: MongoDB support, Appwrite 1.9.0, Realtime upgrades and AI tooling",
-      "summary": "Welcome back to the product update. April was packed with major releases across Appwrite. From our official MongoDB partnership and Appwrite 1.9.0 to new infrastructure APIs, Realtime improvements, performance upgrades, and deeper AI integrations, we shipped updates focused on helping you build fast",
-      "date_published": "2026-05-11",
-      "tags": [
-        "ai",
-        "backend",
-        "mongodb",
-        "news"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "006",
-      "url": "https://dev.to/keithjmackay/situational-leadership-for-ai-more-like-a-capable-colleague-than-a-fancy-formula-1hje",
-      "title": "Situational Leadership for AI: More Like a Capable Colleague than a Fancy Formula",
-      "summary": "Situational Leadership for AI: More Like a Capable Colleague than a Fancy Formula\n\n\nTreating LLMs like vending machines guarantees mediocre results—try situational leadership for better results\n\n\n\n\nYou wouldn’t hand a new hire a laptop, point vaguely at the codebase, and say “make it better.” You wo",
+      "url": "https://dev.to/guy_gontar_7dca4bc5499c48/when-oswalk-freezes-diagnosing-and-fixing-silent-network-hangs-on-netapp-shared-storage-with-3o1p",
+      "title": "When os.walk() Freezes: Diagnosing and Fixing Silent Network Hangs on NetApp Shared Storage with Python",
+      "summary": "The Problem\nOur team manages a NetApp shared storage cluster holding operational data for approximately 1,500 entities. Each entity has its own directory subtree, split by record type and date, resulting in a tree of roughly 4,500 leaf directories per date. Each leaf directory held tens of small .tx",
       "date_published": "2026-05-11",
       "tags": [
-        "management",
-        "leadership",
-        "ai"
+        "python",
+        "netapp",
+        "threadpool",
+        "concurrency"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://dev.to/balagmadhu/how-one-setting-transforms-your-bots-ux-unveiling-copilot-studios-latency-message-ic1",
-      "title": "How One Setting Transforms Your Bot's UX: Unveiling Copilot Studio's Latency Message",
-      "summary": "A few weeks ago in my Bite-Sized Wizardry series, I explored the common challenge of nandling Lingering Conversations Gracefully in Microsoft Copilot Studio specially with classic orchestration.\n\n\n\n  \n  Stop the Awkward Silence: Signals to Classic Orchestration\n\n\n  \n    \n      \n        \n\n          \n",
+      "url": "https://dev.to/temmy_32/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-okm",
+      "title": "Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide",
+      "summary": "Introduction\nData is only as powerful as the shape it’s in. Before dashboards tell compelling stories and visuals drive decisions, data must first be cleaned, structured, and trusted. In Power BI, this transformation happens in Power Query, the engine that converts raw, messy data into meaningful in",
       "date_published": "2026-05-11",
       "tags": [
-        "copilotstudio",
-        "powerplatform",
-        "powerfuldevs"
+        "analytics",
+        "beginners",
+        "microsoft",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/jahongir2007/how-to-create-magic-link-authentication-system-for-email-verification-on-nodejs-step-by-step-2a4a",
-      "title": "How to create Magic Link authentication system for email verification on Node.js (step-by-step)",
-      "summary": "Magic link authentication is becoming one of the most popular ways to verify users without passwords. Instead of asking users to remember passwords, we simply send them a secure login link through email.\n\n\n  \n  \n  What is a Magic Link?\n\n\nA magic link is a unique URL sent to a user’s email. When the ",
+      "url": "https://dev.to/theprodsde/vibe-coding-works-thats-exactly-why-it-will-destroy-your-codebase-at-scale-1e56",
+      "title": "Vibe-Coding Works. That's Exactly Why It Will Destroy Your Codebase at Scale.",
+      "summary": "The productivity gains are real. The compound debt is realer. And almost no team is measuring the right thing.\n\n\n\n\nLet me say the quiet part out loud: vibe-coding is not the villain in this story. The critics who call it \"reckless\" are wrong. The evangelists who call it \"the future of engineering\" a",
       "date_published": "2026-05-11",
       "tags": [
-        "Dev.to"
+        "ai",
+        "productivity",
+        "softwaredevelopment",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-62-ui-tars-desktop-bytedances-open-source-multimodal-gui-53pm",
-      "title": "One Open Source Project a Day (No. 62): UI-TARS-Desktop - ByteDance's Open-Source Multimodal GUI Agent Stack",
-      "summary": "Introduction\n\n\n\n\"See the screen, understand the task, take the action.\"\n\n\nThis is the No.62 article in the \"One Open Source Project a Day\" series. Today, we are exploring UI-TARS-Desktop.\n\nThe AI agent projects we have covered recently—OpenHarness, Symphony, Agent Skills—all operate within the \"code",
+      "url": "https://dev.to/naveen6735/configuring-a-custom-from-email-address-in-oracle-integration-cloud-oic-2cn6",
+      "title": "Configuring a Custom “From” Email Address in Oracle Integration Cloud (OIC)",
+      "summary": "By default, Oracle Integration Cloud (OIC) sends notification emails using an Oracle‑managed email address such as:\nno-reply@mail.integration.eu-frankfurt-1.ocp.oraclecloud.com\n\nWhile this works, it is not ideal for enterprise usage due to branding, trust, and spam‑filtering concerns. Most organizat",
       "date_published": "2026-05-11",
       "tags": [
         "opensource",
-        "agents",
-        "bytedance",
-        "ai"
+        "architecture",
+        "oracle"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/jcmexdev/por-que-las-goroutines-son-el-superpoder-que-otros-lenguajes-envidian-3fop",
-      "title": "¿Por qué las Goroutines son el \"superpoder\" que otros lenguajes envidian?",
-      "summary": "Si alguna vez has sentido que la concurrencia en C o Java es como intentar hacer malabares con diez motosierras encendidas, no estás solo. Es peligroso, agotador y, si intentas añadir una más, todo el sistema colapsa bajo el peso. Go cambió el juego: nos dijo que podíamos soltar las motosierras y em",
+      "url": "https://dev.to/hymanaharon/beyond-the-vibe-why-secure-by-default-is-the-only-way-to-build-in-2026-2oh6",
+      "title": "Beyond the Vibe: Why “Secure by Default” is the Only Way to Build in 2026",
+      "summary": "Beyond the Vibe: Why \"Secure by Default\" is the Only Way to Build in 2026\n\n\nWe’ve all been there. You’re trying to complete a simple task—in my case, registering my son for a Judo seminar—and the page hangs. As a developer, your instinct isn't to refresh; it's to open the Network Tab.\nWhat I found w",
       "date_published": "2026-05-11",
       "tags": [
-        "go",
-        "software",
-        "spanish"
+        "security",
+        "vibecoding",
+        "guardrails",
+        "brokenaccesscontrol"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/digitpatrox/langchain-vs-langgraph-why-ai-agents-need-stateful-orchestration-36go",
-      "title": "LangChain vs LangGraph: Why AI Agents Need Stateful Orchestration",
-      "summary": "LangChain vs LangGraph: Why AI Agents Need Stateful Orchestration\n\n\nMost AI agents look impressive in demos.\n\nThen they hit production and break.\n\nAPIs timeout. Memory disappears. Tool calls fail. Long workflows lose context halfway through execution. A chatbot that looked “smart” in a YouTube video",
+      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
+      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
+      "summary": "Volunteer Systems and Why They Break Differently\n\n\nLately, I’ve been spending part of my free time helping a volunteer organization that coordinates people with 3D printers to support manufacturing efforts for those in need.\n\nVery quickly, one thing became obvious: volunteer-driven projects behave n",
       "date_published": "2026-05-11",
       "tags": [
-        "agents",
+        "productivity",
         "ai",
-        "architecture",
-        "llm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/vladislav_rajtmajer_18389/captcha-without-cookies-a-proof-of-work-approach-pon",
-      "title": "CAPTCHA without cookies: a proof-of-work approach",
-      "summary": "We've all been there. You're trying to sign in, you click \"I'm not a robot\", and instead of a simple checkbox you get a 3×3 grid of blurry photos. Click all squares with traffic lights. You miss one — was that a real traffic light, or just a pole with a light on top of it? Wrong. New grid. Crosswalk",
-      "date_published": "2026-05-11",
-      "tags": [
-        "webdev",
-        "security",
-        "captcha",
-        "eu"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/buddika_b/why-this-java-loop-is-not-infinite-51ie",
-      "title": "Why This Java Loop Is Not Infinite 🤔",
-      "summary": "public class Main\n{\n    public static void main(String[] args) {\n        System.out.println(\"Start\\n\");\n        byte i;\n        for(i=0; i<10; i--) {\n            System.out.print(i+\", \");\n        }\n        System.out.print(\"\\b\\b\");\n        System.out.println(\"\\n\\n\\\"i\\\" value is \"+i+\"\\n\\nEnd\");\n\n\n}\n\n",
-      "date_published": "2026-05-11",
-      "tags": [
-        "beginners",
-        "computerscience",
-        "java",
         "programming"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "014",
-      "url": "https://dev.to/techikrish/your-next-devops-interview-just-got-easier-21dk",
-      "title": "Your Next DevOps Interview Just Got Easier",
-      "summary": "DevOps interviews are not like other interviews.\nYou don't just get asked \"what is a pod\" or \"what does S3 stand for.\" You get asked to think out loud. Walk me through how you'd debug a service that's returning 503s in production. What would you check first if your Kubernetes nodes are NotReady at 2",
+      "id": "012",
+      "url": "https://dev.to/sreejit_caab72e273a4faa1f/i-tested-every-gemma-4-model-on-a-gtx-1650-heres-what-actually-happened-59gj",
+      "title": "I Tested Every Gemma 4 Model on a GTX 1650. Here's What Actually Happened.",
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n\n\n\nTL;DR: E4B is the model most developers should run locally. Here's why — tested on a GTX 1650 with real tasks, real numbers, and one bug it found that I didn't ask it to find.\n\n\n\n\n\nA GTX 1650 is not an impressive GPU. 4GB of VR",
       "date_published": "2026-05-11",
       "tags": [
-        "devops",
-        "kubernetes",
-        "aws",
-        "github"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "ai"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/ayushsingh1610/add-basic-authentication-console-based-40ad",
+      "title": "Add Basic Authentication (Console - based)",
+      "summary": "If you just want to see how the authentication looks like in Spring Boot, this blog is for you. \n\n\n  \n  \n  Basic Authentication\n\n\n\n\nCreate any controller which you want to secure.\n\n@GetMapping(\"/\")\npublic String helloWorld() {\nreturn \"Hello World\";\n}\n\n\n\n\nAdd the spring-boot-starter-security dependen",
+      "date_published": "2026-05-11",
+      "tags": [
+        "springsecurity",
+        "spring",
+        "springboot",
+        "java"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/genieve_kaur_bb6d890048e0/the-ai-on-your-laptop-how-gemma-4-is-making-powerful-ai-available-to-everyone-gemmachallenge-5al6",
+      "title": "The AI on Your Laptop: How Gemma 4 Is Making Powerful AI Available to Everyone #GemmaChallenge #devchallenge #gemma",
+      "summary": "Okay so I'll be upfront with you — I am not a developer. I don't have a CS degree. Until fairly recently, \"machine learning\" sounded to me like something robots did in a sci-fi movie.\nBut I kept hearing about AI everywhere. At work, in group chats, on social media. And I got curious. Like genuinely,",
+      "date_published": "2026-05-11",
+      "tags": [
+        "gemmachallenge",
+        "devchallenge",
+        "gemma",
+        "beginners"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/keithjmackay/software-moats-in-the-age-of-ai-whats-actually-defensible-nnn",
-      "title": "Software Moats in the Age of AI: What's Actually Defensible?",
-      "summary": "Software Moats in the Age of AI: What's Actually Defensible?\n\n\nWhy the \"AI writes code now\" narrative misses the point—and where competitive advantages stubbornly persist\n\n\n\n\nAnother pitch deck lands on your desk. Another startup promises to \"displace custom software development.\" Another analyst pr",
+      "url": "https://dev.to/mrcssdev/why-ai-agents-cost-more-than-llms-and-how-to-stop-bleeding-tokens-4e4g",
+      "title": "Why AI Agents Cost More Than LLMs (And How to Stop Bleeding Tokens)",
+      "summary": "I was building a small bookmark app last weekend. You send it a URL, Gemini\nsummarizes and tags the page, the result goes into Postgres. A few hundred lines\nof TypeScript.\n\nThe first version cost almost nothing. One LLM call per URL, that's it. Then I\nadded \"tools\" so the model could fetch pages, lo",
       "date_published": "2026-05-11",
       "tags": [
-        "software",
         "ai",
-        "technicaldebt",
-        "convex"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://dev.to/nikita_kothari_9e0b0f7e38/from-coder-to-architect-how-i-rebuilt-my-workflow-using-claude-and-mcp-33mm",
-      "title": "From Coder to Architect: How I Rebuilt My Workflow Using Claude and MCP",
-      "summary": "The \"AI anxiety\" felt by many developers often stems from the fear that the act of creation is being taken away. But clinging to the manual labor of syntax means missing out on the opportunity to become a true system architect. By treating AI integration not as a shortcut, but as an exercise in Engi",
-      "date_published": "2026-05-11",
-      "tags": [
-        "architecture",
-        "claude",
-        "mcp",
         "productivity"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "017",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 104\n# Comments: 22",
-      "date_published": "2026-05-10",
+      "id": "016",
+      "url": "https://dev.to/anna17/manual-vs-automated-testing-a-false-dichotomy-j2e",
+      "title": "Manual vs Automated Testing: A False Dichotomy",
+      "summary": "In testing, we often talk about the “balance between manual and automated testing,” but this is a misleading way to think about it. Testing is not about dividing work into manual or automated. It is a process of exploring and verifying the product.   \n\nWhen faced with a certain task, the focus shoul",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "automation",
+        "startup",
+        "news",
+        "software"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://dev.to/drtobbyas/ep3-native-kubernetes-deployment-is-officially-working-in-coolify-but-getting-there-meant-13h2",
+      "title": "EP3: Native Kubernetes deployment is officially working in Coolify. But getting there meant wrestling with vicious race conditions.",
+      "summary": "If you missed Episode 2, we realized that Coolify's SSH-native engine is surprisingly cluster-friendly. The architecture wasn't locked to Docker; it simply lacked a translation layer.\n\nIn Episode 3, it was time to build that translation layer and prove the concept. But turning theory into reality re",
+      "date_published": "2026-05-11",
+      "tags": [
+        "kubernetes",
+        "opensource",
+        "devops",
+        "coolify"
+      ],
+      "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
-      "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-      "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 139\n# Comments: 88",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 135\n# Comments: 34",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -237,7 +239,7 @@
       "id": "019",
       "url": "https://jola.dev/posts/running-local-models-on-m4",
       "title": "Running local models on an M4 with 24GB memory",
-      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 225\n# Comments: 77",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 267\n# Comments: 82",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -248,7 +250,7 @@
       "id": "020",
       "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
       "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 44\n# Comments: 8",
+      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 66\n# Comments: 16",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -259,7 +261,7 @@
       "id": "021",
       "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
       "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 148\n# Comments: 72",
+      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 180\n# Comments: 86",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
