@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "I'm going back to writing code by hand",
-    "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 24\n# Comments: 5",
-    "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
+    "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene",
+    "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 25\n# Comments: 3",
+    "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Make America AI ready: Strengths, weaknesses, and recommendations",
-    "summary": "Article URL: https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/\nComments URL: https://news.ycombinator.com/item?id=48089531\nPoints: 16\n# Comments: 11",
-    "url": "https://blog.citp.princeton.edu/2026/05/05/make-america-ai-ready-strengths-weaknesses-and-recommendations/",
+    "title": "I'm going back to writing code by hand",
+    "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 113\n# Comments: 45",
+    "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -23,174 +23,175 @@
   },
   {
     "id": "003",
-    "title": "Why I’m Still Learning to Code Even With AI",
-    "summary": "A while ago, I caught myself wondering:\n\n\"Am I too late?\"\n\nNot because I started coding late.\n\nBut because every week there seems to be a new AI demo building apps, writing features, fixing bugs, and explaining code faster than I can even think through the problem.\n\nWhen you’re still learning, that ",
-    "url": "https://dev.to/onlypads/why-im-still-learning-to-code-even-with-ai-39ae",
+    "title": "67. DBSCAN: Clustering That Handles Messy Data",
+    "summary": "Last post K-Means failed on crescent-shaped data. It cut across the natural curves instead of following them. You also had to tell it K upfront. And one outlier could drag a centroid completely off course.\n\nDBSCAN fixes all three problems.\n\nIt finds clusters based on density, not distance to a centr",
+    "url": "https://dev.to/yakhilesh/67-dbscan-clustering-that-handles-messy-data-5he7",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "webdev",
       "ai",
-      "learning",
-      "php"
+      "productivity",
+      "beginners",
+      "python"
     ]
   },
   {
     "id": "004",
-    "title": "The iam: PassRole Nightmare - 3 Weeks of My Life I Will Never Get Back",
-    "summary": "Let me tell you the story of three weeks of my life I will never get back.\n\nWe were building an AI agent on AMAZON Bedrock — an autonomous system that manages infrastructure lifecycle operations. The agent worked perfectly in our sandbox. Time to deploy it to the enterprise environment. Should take ",
-    "url": "https://dev.to/cdatta/the-iam-passrole-nightmare-3-weeks-of-my-life-i-will-never-get-back-1285",
+    "title": "What Does \"Building in Public\" Actually Mean in 2026?",
+    "summary": "If you've spent any time on developer Twitter, you've seen it.\n\nFounders posting their MRR. Sharing what broke this week. Documenting every step of building their product in real time.\n\nBut what does building in public actually mean? And is it worth doing?\n\nThis is the honest breakdown. No hype.\n\n\n ",
+    "url": "https://dev.to/udit_kapoor/what-does-building-in-public-actually-mean-in-2026-31oe",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "aws",
-      "aiops",
-      "bedrock",
-      "devops"
+      "buildinpublic",
+      "saas",
+      "startup",
+      "webdev"
     ]
   },
   {
     "id": "005",
-    "title": "Building a Universal Binary with Tauri v2 — It's Easier Than You Think",
-    "summary": "All tests run on an 8-year-old MacBook Air.\nAll results from shipping 7 Mac apps as a solo developer. No sponsored opinion.\n\nIntel Mac users still exist. Apple Silicon is the future. A universal binary covers both with one DMG.\n\nHere's the actual process.\n\nWhy bother with universal binary\nRosetta 2 ",
-    "url": "https://dev.to/hiyoyok/building-a-universal-binary-with-tauri-v2-its-easier-than-you-think-1b53",
+    "title": "How I Built an AI Morning Briefing That Runs Itself Every Day",
+    "summary": "The Problem\n\n\nI'm a solopreneur. My work depends on knowing what's happening in tech: new frameworks, Product Hunt launches, funding rounds, AI tools. But I was spending 45 minutes every morning jumping between Hacker News, Reddit, Product Hunt, Substack, and Twitter. By the end of the day, I'd cons",
+    "url": "https://dev.to/jtebaan/how-i-built-an-ai-morning-briefing-that-runs-itself-every-day-2152",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "tauri",
-      "rust",
-      "programming",
+      "ai",
+      "automation",
+      "python",
       "productivity"
     ]
   },
   {
     "id": "006",
-    "title": "Introducing a OWASP Game for threat modeling Agentic AI, Cloud, Devops, Frontend, LLM, Automation, and Web",
-    "summary": "Shift-left doesn't start with scanning the code for security vulnerabilities; it begins with designing for security.\n\nToo often, the shift-left mantra consists of implementing (AI-powered) code scanning and applying AI-powered security fixes for remediation. Also, don't forget to implement the AI-po",
-    "url": "https://dev.to/owasp/introducing-a-owasp-game-for-threat-modeling-agentic-ai-cloud-devops-frontend-llm-automation-5984",
+    "title": "The Agentic Headless Backend: What Vibe Coders Still Need After the UI Is Done",
+    "summary": "Vibe coding changed the first hour of software.\n\nA founder can open v0, Cursor, Claude, or ChatGPT and describe a booking page, a customer dashboard, or a small commerce flow. A few minutes later, there is a polished interface: cards, filters, forms, empty states, maybe even a working mock API.\n\nTha",
+    "url": "https://dev.to/oclauncherai/the-agentic-headless-backend-what-vibe-coders-still-need-after-the-ui-is-done-4dmc",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
       "ai",
       "webdev",
-      "programming",
-      "security"
+      "backend",
+      "mcp"
     ]
   },
   {
     "id": "007",
-    "title": "Guide to Automatic SSL Certificate Renewal for Nginx and Docker",
-    "summary": "Not long ago, when the certificate for the hesapciyiz.com site I host on my own VPS expired, I woke up to an email in the middle of the night. Yes, Let's Encrypt's certificate had expired, and I had forgotten to renew it. This situation highlighted how tiring and error-prone manual certificate manag",
-    "url": "https://dev.to/merbayerp/guide-to-automatic-ssl-certificate-renewal-for-nginx-and-docker-fic",
+    "title": "Cómo construí un Morning Briefing con IA que se ejecuta solo cada mañana",
+    "summary": "El problema\n\n\nSoy Indie Maker. Mi trabajo depende de saber qué pasa en tech: nuevos frameworks, lanzamientos en Product Hunt, rondas de funding, herramientas de IA. Pero pasaba horas cada mañana saltando entre Hacker News, Reddit, Product Hunt, Substack y X(Twitter). Al final del día, había leído mu",
+    "url": "https://dev.to/jtebaan/como-construi-un-morning-briefing-con-ia-que-se-ejecuta-solo-cada-manana-bop",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "nginx",
-      "docker",
-      "ssl",
-      "letsencrypt"
+      "ai",
+      "automation",
+      "python",
+      "productivity"
     ]
   },
   {
     "id": "008",
-    "title": "Stop Guessing Memory: How to Automate LangChain Memory Testing and Catch 80% of Multi-Turn Failures",
-    "summary": "2 a.m. The customer Slack channel explodes — the support bot just asked for the same order number three times in a row. A frustrated user screams, “Do you have amnesia?” After digging through the code and the prompt, everything looks fine. Only then do we discover that ConversationBufferMemory silen",
-    "url": "https://dev.to/_eb7f2a654e97a60ae9f96e/stop-guessing-memory-how-to-automate-langchain-memory-testing-and-catch-80-of-multi-turn-failures-3nc4",
+    "title": "Vague Thinking Stops Being Free",
+    "summary": "I keep running into the same thing. I'll finish a feature with AI, check it, everything runs, tests pass. The output is wrong.\n\nNot wrong like a bug. Wrong like it understood 80% of what I meant and filled in the rest with reasonable assumptions that happened to be incorrect. The kind of wrong where",
+    "url": "https://dev.to/whetlan/vague-thinking-stops-being-free-3lan",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "python",
-      "programming"
+      "ai",
+      "programming",
+      "productivity",
+      "discuss"
     ]
   },
   {
     "id": "009",
-    "title": "# Containerizing a Broken Microservices App and Shipping It with a Full CI/CD Pipeline",
-    "summary": "This is part of my HNG DevOps internship series. In Stage 1 I deployed a personal API behind Nginx on a live server. Stage 2 is where things got serious.\n\n\n\n\n\n  \n  \n  The Task\n\n\nWe were handed a broken codebase and told to make it production-ready. No hints about what was wrong. No list of bugs. Jus",
-    "url": "https://dev.to/edith_asante_799bd09cf9c1/-containerizing-a-broken-microservices-app-and-shipping-it-with-a-full-cicd-pipeline-407b",
+    "title": "What Is Agentic Testing? A Practical Guide for QA Teams",
+    "summary": "Your test suite passes. Your release goes out. And then a customer hits a bug that your regression suite never covered, because nobody had time to write that test.\n\nSound familiar? If you've worked in QA for more than a year, you've lived some version of this story. The backlog of tests that should ",
+    "url": "https://dev.to/depapp/what-is-agentic-testing-a-practical-guide-for-qa-teams-3j65",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "devops",
-      "docker",
-      "cicd",
-      "beginners"
+      "katalon",
+      "trueplatform",
+      "agentictesting",
+      "softwaretesting"
     ]
   },
   {
     "id": "010",
-    "title": "OG Image Sizes: The Complete Guide for 2026",
-    "summary": "OG Image Sizes: The Complete Guide for 2026\n\n\nHere is the quick answer: 1200 x 630 pixels. If you remember nothing else from this article, remember that number. It works on every major platform without cropping or distortion.\n\nBut if you want to understand why, what the edge cases are, and how to av",
-    "url": "https://dev.to/corbanware/og-image-sizes-the-complete-guide-for-2026-4l6d",
+    "title": "Stop Passing req Everywhere — Express Middleware for Request Context Propagation",
+    "summary": "There's a pattern I've seen in almost every Express codebase I've worked in. It starts small.\n\nYou need to log a correlation ID inside a service function. So you add req as a parameter. Then the function that calls it needs req. Then the one above that. Within a few weeks, half your codebase takes r",
+    "url": "https://dev.to/saifuddin_tipu_ba2d0355b0/stop-passing-req-everywhere-express-middleware-for-request-context-propagation-4e00",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "seo",
-      "socialmedia",
-      "beginners"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "AI-Powered SEO: Building an Automated Content Strategy Pipeline with Laravel and OpenAI",
-    "summary": "Most developers I know treat SEO as an afterthought — something you bolt on after the site is live, usually because a client asked why they're not ranking. But in 2024, the gap between teams that automate their content intelligence and those that don't is becoming painfully obvious in search results",
-    "url": "https://dev.to/emongmarcc/ai-powered-seo-building-an-automated-content-strategy-pipeline-with-laravel-and-openai-kk8",
-    "date": "2026-05-11",
-    "source": "Dev.to",
-    "tags": [
-      "seo",
-      "laravel",
-      "ai",
+      "node",
+      "express",
+      "typescript",
       "webdev"
     ]
   },
   {
-    "id": "012",
-    "title": "I Audited 50 Vibe-Coded Apps. Here's What Broke.",
-    "summary": "I audited 50 Lovable / v0 / Bolt / Cursor / Claude Code apps over the last few months. Some were friends' side projects, some were YC-backed startups, some were 24-hour hackathon submissions that made it to production anyway. Same five bugs in nearly every one.\n\nThis post is the writeup. Concrete gr",
-    "url": "https://dev.to/rishabh_kumar_6d865c83a4d/i-audited-50-vibe-coded-apps-heres-what-broke-1pb6",
+    "id": "011",
+    "title": "What is a Chat API? The Definitive Guide to In-App Messaging (2026)",
+    "summary": "Building chat looks easy on a whiteboard. You send a string, they get a string. Simple, right?\n\nBut then reality kicks in. Suddenly, you’re dealing with a user on a shaky 3G connection in a Jakarta basement where packets simply vanish. Then there’s the aggressive battery management on budget Android",
+    "url": "https://dev.to/ai_ap_1798347ec365e8cf821/what-is-a-chat-api-the-definitive-guide-to-in-app-messaging-2026-136",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "supabase",
-      "security",
-      "webdev",
-      "ai"
+      "android",
+      "api",
+      "mobile",
+      "softwareengineering"
     ]
   },
   {
-    "id": "013",
-    "title": "The Illusion of Scale, Part 1: When Your \"Scalable\" System Isn't",
-    "summary": "Some systems look scalable right up until they meet real production traffic.\n\nThe tests pass. Dashboards are green. The architecture diagram looks clean. The team feels good about it.\n\nThen traffic grows, usage patterns shift, and the system starts failing in ways that were never obvious in staging.",
-    "url": "https://dev.to/anusha_mukka/the-illusion-of-scale-part-1-when-your-scalable-system-isnt-1337",
+    "id": "012",
+    "title": "DeepSeek TUI on Windows: A Practical Look at a Terminal-Native Coding Agent",
+    "summary": "DeepSeek TUI is an open-source terminal-native coding agent for DeepSeek models.\n\nProject:\n\nhttps://github.com/Hmbown/DeepSeek-TUI\n\nAt first glance, it is tempting to describe it as \"DeepSeek's Claude Code-like tool.\" That comparison is useful, but only up to a point.\n\nThe more interesting point is ",
+    "url": "https://dev.to/member_0af6418a/deepseek-tui-on-windows-a-practical-look-at-a-terminal-native-coding-agent-3odj",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "softwareengineering",
-      "distributedsystems",
-      "architecture"
+      "opensource",
+      "programming",
+      "github"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "OWASP Top 10 | notes may 11 2026",
+    "summary": "OWASP Top 10 is not merely a list of vulnerabilities.\n\nIt is better understood as:\n\n\na map of recurring software security failure patterns.\n\n\nMany beginners treat it like:\n\n\n“10 things to memorize.”\n\n\nBut the deeper value is:\n\n\nunderstanding why these vulnerabilities repeatedly emerge across differe",
+    "url": "https://dev.to/tamilvanan/owasp-top-10-notes-may-11-2026-5ga4",
+    "date": "2026-05-11",
+    "source": "Dev.to",
+    "tags": [
+      "cybersecurity",
+      "infosec",
+      "security",
+      "webdev"
     ]
   },
   {
     "id": "014",
-    "title": "Which serverless GPU platforms actually have fast cold starts for AI inference — p99, not p50",
-    "summary": "been testing this properly for a few months because i kept seeing wildly different claims and couldn’t find real data anywhere. specifically for inference workloads, 70B class models, and i care about p99 not p50 because p99 is what shows up in user complaints, not the median.\nthe thing nobody expla",
-    "url": "https://dev.to/yukixing6star/which-serverless-gpu-platforms-actually-have-fast-cold-starts-for-ai-inference-p99-not-p50-4gj6",
+    "title": "Designing Reliable Tool Schemas with Zod for LLM Agents",
+    "summary": "LLM agents often fail in surprisingly ordinary places.\n\nNot in the model call. Not in the prompt. Not even in the function that eventually does the work.\n\nThey fail at the boundary between \"the model produced some arguments\" and \"my application trusted those arguments enough to run code.\"\n\nThat boun",
+    "url": "https://dev.to/ethan_thunderbit/designing-reliable-tool-schemas-with-zod-for-llm-agents-21ha",
     "date": "2026-05-11",
     "source": "Dev.to",
     "tags": [
-      "gpu",
-      "machinelearning",
-      "infrastructure",
-      "devops"
+      "ai",
+      "beginners",
+      "productivity"
     ]
   },
   {
     "id": "015",
-    "title": "You Need AI That Reduces Maintenance Costs",
-    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 19\n# Comments: 3",
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 68\n# Comments: 10",
     "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -201,7 +202,7 @@
   {
     "id": "016",
     "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
-    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 68\n# Comments: 43",
+    "summary": "Article URL: https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656\nComments URL: https://news.ycombinator.com/item?id=48089263\nPoints: 106\n# Comments: 73",
     "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -212,7 +213,7 @@
   {
     "id": "017",
     "title": "Running local models on an M4 with 24GB memory",
-    "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 79\n# Comments: 43",
+    "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 159\n# Comments: 59",
     "url": "https://jola.dev/posts/running-local-models-on-m4",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -223,7 +224,7 @@
   {
     "id": "018",
     "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-    "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 7\n# Comments: 0",
+    "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 22\n# Comments: 4",
     "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -234,7 +235,7 @@
   {
     "id": "019",
     "title": "Obsidian plugin was abused to deploy a remote access trojan",
-    "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 81\n# Comments: 37",
+    "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 108\n# Comments: 60",
     "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -256,7 +257,7 @@
   {
     "id": "021",
     "title": "Hardware Attestation as Monopoly Enabler",
-    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 894\n# Comments: 328",
+    "summary": "Article URL: https://grapheneos.social/@GrapheneOS/116550899908879585\nComments URL: https://news.ycombinator.com/item?id=48086190\nPoints: 1029\n# Comments: 365",
     "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
     "date": "2026-05-10",
     "source": "Hacker News",
@@ -267,7 +268,7 @@
   {
     "id": "022",
     "title": "Incident Report: CVE-2024-YIKES",
-    "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 394\n# Comments: 94",
+    "summary": "Article URL: https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html\nComments URL: https://news.ycombinator.com/item?id=48086082\nPoints: 433\n# Comments: 108",
     "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
     "date": "2026-05-10",
     "source": "Hacker News",
