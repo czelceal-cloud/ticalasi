@@ -9,7 +9,7 @@
       "id": "001",
       "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
       "title": "Mythos Finds a Curl Vulnerability",
-      "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 31\n# Comments: 9",
+      "summary": "Article URL: https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/\nComments URL: https://news.ycombinator.com/item?id=48091737\nPoints: 133\n# Comments: 52",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://matt.might.net/articles/implementing-a-programming-language/",
       "title": "7 lines of code, 3 minutes: Implement a programming language (2010)",
-      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 40\n# Comments: 8",
+      "summary": "Article URL: https://matt.might.net/articles/implementing-a-programming-language/\nComments URL: https://news.ycombinator.com/item?id=48091085\nPoints: 49\n# Comments: 11",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -30,8 +30,8 @@
     {
       "id": "003",
       "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-      "title": "The Greatest Shot in Television: James Burke Had One Chance to Nail This Scene (2024)",
-      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 126\n# Comments: 44",
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "summary": "Article URL: https://www.openculture.com/2024/10/the-greatest-shot-in-television.html\nComments URL: https://news.ycombinator.com/item?id=48090521\nPoints: 169\n# Comments: 67",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -53,7 +53,7 @@
       "id": "005",
       "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
       "title": "I'm going back to writing code by hand",
-      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 287\n# Comments: 117",
+      "summary": "Article URL: https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/\nComments URL: https://news.ycombinator.com/item?id=48090029\nPoints: 355\n# Comments: 162",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -62,206 +62,216 @@
     },
     {
       "id": "006",
-      "url": "https://dev.to/guy_gontar_7dca4bc5499c48/when-oswalk-freezes-diagnosing-and-fixing-silent-network-hangs-on-netapp-shared-storage-with-3o1p",
-      "title": "When os.walk() Freezes: Diagnosing and Fixing Silent Network Hangs on NetApp Shared Storage with Python",
-      "summary": "The Problem\nOur team manages a NetApp shared storage cluster holding operational data for approximately 1,500 entities. Each entity has its own directory subtree, split by record type and date, resulting in a tree of roughly 4,500 leaf directories per date. Each leaf directory held tens of small .tx",
+      "url": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images",
+      "title": "Logitech’s tiny folding mouse improves upon the laptop trackpad",
+      "summary": "Logitech is reportedly developing a new wireless mouse that folds in half to make it easier to carry around in a bag or pocket. According to leaked marketing images shared by WinFuture, Logitech's foldable mouse caused \"22 percent less muscle strain\" compared to using a laptop trackpad, and can be u",
       "date_published": "2026-05-11",
       "tags": [
-        "python",
-        "netapp",
-        "threadpool",
-        "concurrency"
+        "Gadgets",
+        "Logitech",
+        "News",
+        "Tech"
       ],
-      "_source": "Dev.to"
+      "_source": "The Verge"
     },
     {
       "id": "007",
-      "url": "https://dev.to/temmy_32/clean-transform-and-load-data-in-power-bi-a-beginner-friendly-guide-okm",
-      "title": "Clean, Transform, and Load Data in Power BI: A Beginner-Friendly Guide",
-      "summary": "Introduction\nData is only as powerful as the shape it’s in. Before dashboards tell compelling stories and visuals drive decisions, data must first be cleaned, structured, and trusted. In Power BI, this transformation happens in Power Query, the engine that converts raw, messy data into meaningful in",
+      "url": "https://www.wired.com/story/keyboard-shortcuts-i-learned-from-my-cat/",
+      "title": "Keyboard Shortcuts I Learned From My Cat",
+      "summary": "Every time my cat Mira walks across a keyboard, I learn a few new Mac and PC keyboard shortcuts I never knew about.",
       "date_published": "2026-05-11",
       "tags": [
-        "analytics",
-        "beginners",
-        "microsoft",
-        "tutorial"
+        "Gear",
+        "Gear / How To and Advice",
+        "how-to",
+        "tips",
+        "Mac",
+        "keyboards",
+        "Windows",
+        "Press Paws"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "008",
-      "url": "https://dev.to/theprodsde/vibe-coding-works-thats-exactly-why-it-will-destroy-your-codebase-at-scale-1e56",
-      "title": "Vibe-Coding Works. That's Exactly Why It Will Destroy Your Codebase at Scale.",
-      "summary": "The productivity gains are real. The compound debt is realer. And almost no team is measuring the right thing.\n\n\n\n\nLet me say the quiet part out loud: vibe-coding is not the villain in this story. The critics who call it \"reckless\" are wrong. The evangelists who call it \"the future of engineering\" a",
+      "url": "https://dev.to/extractdata/how-to-write-and-publish-a-python-package-to-pypi-54lf",
+      "title": "How to write and publish a Python package to PyPI",
+      "summary": "I wanted to publish my Scrapy download handler to PyPi - UV made it incredibly easy. Here's how.\n\nAt some point, every scraping developer writes the same middleware twice.\n\nThe first time is in project A. It works well, so when project B comes along you copy it across. Then project C. Then a colleag",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "productivity",
-        "softwaredevelopment",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/naveen6735/configuring-a-custom-from-email-address-in-oracle-integration-cloud-oic-2cn6",
-      "title": "Configuring a Custom “From” Email Address in Oracle Integration Cloud (OIC)",
-      "summary": "By default, Oracle Integration Cloud (OIC) sends notification emails using an Oracle‑managed email address such as:\nno-reply@mail.integration.eu-frankfurt-1.ocp.oraclecloud.com\n\nWhile this works, it is not ideal for enterprise usage due to branding, trust, and spam‑filtering concerns. Most organizat",
-      "date_published": "2026-05-11",
-      "tags": [
-        "opensource",
-        "architecture",
-        "oracle"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/hymanaharon/beyond-the-vibe-why-secure-by-default-is-the-only-way-to-build-in-2026-2oh6",
-      "title": "Beyond the Vibe: Why “Secure by Default” is the Only Way to Build in 2026",
-      "summary": "Beyond the Vibe: Why \"Secure by Default\" is the Only Way to Build in 2026\n\n\nWe’ve all been there. You’re trying to complete a simple task—in my case, registering my son for a Judo seminar—and the page hangs. As a developer, your instinct isn't to refresh; it's to open the Network Tab.\nWhat I found w",
-      "date_published": "2026-05-11",
-      "tags": [
-        "security",
-        "vibecoding",
-        "guardrails",
-        "brokenaccesscontrol"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/miry/building-team-a-an-ai-system-for-turning-volunteer-chaos-into-structured-engineering-work-mgo",
-      "title": "Building Team A: An AI System for Turning Volunteer Chaos into Structured Engineering Work",
-      "summary": "Volunteer Systems and Why They Break Differently\n\n\nLately, I’ve been spending part of my free time helping a volunteer organization that coordinates people with 3D printers to support manufacturing efforts for those in need.\n\nVery quickly, one thing became obvious: volunteer-driven projects behave n",
-      "date_published": "2026-05-11",
-      "tags": [
-        "productivity",
-        "ai",
+        "python",
+        "uv",
+        "pypi",
         "programming"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "012",
-      "url": "https://dev.to/sreejit_caab72e273a4faa1f/i-tested-every-gemma-4-model-on-a-gtx-1650-heres-what-actually-happened-59gj",
-      "title": "I Tested Every Gemma 4 Model on a GTX 1650. Here's What Actually Happened.",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n\n\n\nTL;DR: E4B is the model most developers should run locally. Here's why — tested on a GTX 1650 with real tasks, real numbers, and one bug it found that I didn't ask it to find.\n\n\n\n\n\nA GTX 1650 is not an impressive GPU. 4GB of VR",
+      "id": "009",
+      "url": "https://dev.to/extractdata/how-to-tell-if-a-page-uses-javascript-rendering-and-what-to-do-about-it-5af8",
+      "title": "How to tell if a page uses JavaScript rendering (and what to do about it)",
+      "summary": "You write a scraper, test your selectors in the browser, and everything looks right. Then you run the spider and get back nothing. This is the most common point of confusion for developers new to web scraping: the browser shows you the data, your scraper does not find it, and the two are looking at ",
       "date_published": "2026-05-11",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
+        "webscraping",
+        "zyte",
+        "programming",
+        "rendering"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/codekingai/you-dont-need-matching-model-names-to-run-ai-coding-tools-5cfa",
+      "title": "\"You Don't Need Matching Model Names to Run AI Coding Tools\"",
+      "summary": "I ran into a boring problem that kept wasting real time:\n\nmy coding tool said gpt-5.5, my provider said the deployment was called something else, and suddenly I was debugging configuration instead of code.\n\nNot model quality. Not prompts. Not token limits.\n\nJust names.\n\n\n  \n  \n  The mismatch that ke",
+      "date_published": "2026-05-11",
+      "tags": [
+        "discuss",
+        "webdev",
+        "ai",
+        "javascript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/vincent_davis_7b6665836a9/beyond-unit-tests-implementing-bdd-and-penetration-testing-in-gbim-3nlc",
+      "title": "Beyond Unit Tests: Implementing BDD and Penetration Testing in GBIM",
+      "summary": "Claim Summary\n\n\nThis claim demonstrates that the GBM project has implemented advanced testing in four areas required by the IR B5 rubric: security testing, penetration testing, behavior-driven development, and stress testing.\n\n\n\n\nArea\nTool or Approach\nPrimary Evidence\n\n\n\n\nSecurity Testing\nGitLab SAS",
+      "date_published": "2026-05-11",
+      "tags": [
+        "Dev.to"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/diginext_work/why-your-website-ranks-on-page-2-but-never-page-1j85",
+      "title": "Why Your Website Ranks on Page 2 But Never Page",
+      "summary": "Introduction\nPage 2 of Google is one of the most frustrating places a website can be. You are close enough to think it is working, but far enough that almost nobody finds you. Studies consistently show that less than one percent of searchers ever click to Page 2. So, for all practical purposes, rank",
+      "date_published": "2026-05-11",
+      "tags": [
+        "help",
+        "webdev",
+        "writing"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/ayushsingh1610/add-basic-authentication-console-based-40ad",
-      "title": "Add Basic Authentication (Console - based)",
-      "summary": "If you just want to see how the authentication looks like in Spring Boot, this blog is for you. \n\n\n  \n  \n  Basic Authentication\n\n\n\n\nCreate any controller which you want to secure.\n\n@GetMapping(\"/\")\npublic String helloWorld() {\nreturn \"Hello World\";\n}\n\n\n\n\nAdd the spring-boot-starter-security dependen",
+      "url": "https://dev.to/gitshot/collectform-a-free-typeform-alternative-1ej4",
+      "title": "I Built a Free Typeform Alternative After Getting Laid Off",
+      "summary": "A year of nights and weekends. Then a layoff. Then a sprint. Today I'm shipping.\n\nIf you've ever tried to build a form with Typeform and hit the paywall the moment you got traction, this is for you.\n\n\n\n\n  \n  \n  What I Built\n\n\nCollectform — a completely free form builder that combines the best of two",
       "date_published": "2026-05-11",
       "tags": [
-        "springsecurity",
-        "spring",
-        "springboot",
-        "java"
+        "typeform",
+        "nocode",
+        "marketing",
+        "survey"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://dev.to/genieve_kaur_bb6d890048e0/the-ai-on-your-laptop-how-gemma-4-is-making-powerful-ai-available-to-everyone-gemmachallenge-5al6",
-      "title": "The AI on Your Laptop: How Gemma 4 Is Making Powerful AI Available to Everyone #GemmaChallenge #devchallenge #gemma",
-      "summary": "Okay so I'll be upfront with you — I am not a developer. I don't have a CS degree. Until fairly recently, \"machine learning\" sounded to me like something robots did in a sci-fi movie.\nBut I kept hearing about AI everywhere. At work, in group chats, on social media. And I got curious. Like genuinely,",
+      "url": "https://dev.to/axiom61/life-lessons-from-trading-blockchain-and-late-night-coding-49ef",
+      "title": "Life Lessons From Trading, Blockchain, and Late-Night Coding ☕💻",
+      "summary": "“If life were a trading chart, I’d be both the bull and the bear, mostly crying in between.”\n\nI started my career thinking I was going to rule the markets. I set up five monitors, installed every crypto tracker known to mankind, and convinced myself that a combination of caffeine and intuition was a",
       "date_published": "2026-05-11",
       "tags": [
-        "gemmachallenge",
-        "devchallenge",
-        "gemma",
-        "beginners"
+        "blockchain",
+        "web3",
+        "coding",
+        "career"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/mrcssdev/why-ai-agents-cost-more-than-llms-and-how-to-stop-bleeding-tokens-4e4g",
-      "title": "Why AI Agents Cost More Than LLMs (And How to Stop Bleeding Tokens)",
-      "summary": "I was building a small bookmark app last weekend. You send it a URL, Gemini\nsummarizes and tags the page, the result goes into Postgres. A few hundred lines\nof TypeScript.\n\nThe first version cost almost nothing. One LLM call per URL, that's it. Then I\nadded \"tools\" so the model could fetch pages, lo",
+      "url": "https://dev.to/extractdata/what-to-do-when-websites-change-and-your-spider-doesnt-know-12n9",
+      "title": "What to do when websites change and your spider doesn't know",
+      "summary": "Empty-field-rate monitoring catches selectors that return nothing. It does not catch selectors that return something wrong. The most damaging form of schema drift is the kind where a selector keeps producing values, the values are syntactically reasonable, and they are no longer the values you wante",
       "date_published": "2026-05-11",
       "tags": [
-        "ai",
-        "productivity"
+        "webscraping",
+        "zyte",
+        "data",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/anna17/manual-vs-automated-testing-a-false-dichotomy-j2e",
-      "title": "Manual vs Automated Testing: A False Dichotomy",
-      "summary": "In testing, we often talk about the “balance between manual and automated testing,” but this is a misleading way to think about it. Testing is not about dividing work into manual or automated. It is a process of exploring and verifying the product.   \n\nWhen faced with a certain task, the focus shoul",
+      "url": "https://dev.to/kathan555/ive-been-paying-for-ai-apis-turns-out-i-didnt-have-to-52hd",
+      "title": "I've Been Paying for AI APIs, Turns Out I Didn't Have To",
+      "summary": "Every developer knows this moment.\n\nYou have a feature idea. Something genuinely useful AI-generated descriptions, smart categorisation, a natural language search. You open the OpenAI docs, get to the billing page, and quietly close the tab.\n\nIt happens more than anyone admits. The friction of setti",
       "date_published": "2026-05-11",
       "tags": [
-        "automation",
-        "startup",
-        "news",
-        "software"
+        "ai",
+        "webdev",
+        "productivity",
+        "javascript"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/drtobbyas/ep3-native-kubernetes-deployment-is-officially-working-in-coolify-but-getting-there-meant-13h2",
-      "title": "EP3: Native Kubernetes deployment is officially working in Coolify. But getting there meant wrestling with vicious race conditions.",
-      "summary": "If you missed Episode 2, we realized that Coolify's SSH-native engine is surprisingly cluster-friendly. The architecture wasn't locked to Docker; it simply lacked a translation layer.\n\nIn Episode 3, it was time to build that translation layer and prove the concept. But turning theory into reality re",
+      "url": "https://dev.to/improving/owasp-top-10-for-llms-a-practitioners-implementation-guide-4ec8",
+      "title": "OWASP Top 10 for LLMs: A Practitioner’s Implementation Guide",
+      "summary": "Large Language Models (LLMs) are becoming a core part of modern applications — from copilots and chatbots to AI agents connected to tools and internal systems. As adoption grows, so do the security risks.\n\nThe OWASP Top 10 for LLM Applications (2025) highlights the most common security issues teams ",
       "date_published": "2026-05-11",
       "tags": [
-        "kubernetes",
-        "opensource",
-        "devops",
-        "coolify"
+        "ai",
+        "cybersecurity",
+        "llm",
+        "security"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
-      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
-      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 135\n# Comments: 34",
-      "date_published": "2026-05-10",
+      "url": "https://dev.to/jacobandrewsky/why-loaders-matter-for-performance-4b8a",
+      "title": "Why Loaders Matter for Performance",
+      "summary": "When developers think about performance optimization, they usually focus on things like:\n\n\nlazy loading\ncaching\nimage optimization\nbundle size\n\n\nAnd while those things absolutely matter there’s another area that heavily impacts user experience -> Loading states and layout stability.\n\nA badly impleme",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "vue",
+        "performance",
+        "tutorial",
+        "javascript"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://jola.dev/posts/running-local-models-on-m4",
-      "title": "Running local models on an M4 with 24GB memory",
-      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 267\n# Comments: 82",
-      "date_published": "2026-05-10",
+      "url": "https://dev.to/mohhddhassan/why-postgresql-and-clickhouse-work-so-well-together-5128",
+      "title": "Why PostgreSQL and ClickHouse Work So Well Together",
+      "summary": "A lot of people compare PostgreSQL and ClickHouse like they are competing databases.\n\nThey really are not.\n\nIn fact, modern data systems often use both together.\n\nAnd once you understand what each database is optimized for, the reason becomes pretty obvious.\n\n\n\n\n\n  \n  \n  PostgreSQL and ClickHouse So",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "dataengineering",
+        "postgres",
+        "clickhouse",
+        "systemarchitecture"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
-      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
-      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 66\n# Comments: 16",
-      "date_published": "2026-05-10",
+      "url": "https://www.npr.org/2026/05/11/nx-s1-5798754/several-states-considering-ban-on-legal-personhood-for-ai",
+      "title": "Several states considering ban on legal personhood for AI",
+      "summary": "Is it time to consider prosecuting AI models for breaking the law? Some say it's time. Others say that would be an insult to humanity. Some states are considering laws blocking AI personhood.",
+      "date_published": "2026-05-11",
       "tags": [
-        "Hacker News"
+        "NPR"
       ],
-      "_source": "Hacker News"
+      "_source": "NPR"
     },
     {
       "id": "021",
-      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 180\n# Comments: 86",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "summary": "Article URL: https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs\nComments URL: https://news.ycombinator.com/item?id=48089289\nPoints: 161\n# Comments: 40",
       "date_published": "2026-05-10",
       "tags": [
         "Hacker News"
@@ -270,6 +280,39 @@
     },
     {
       "id": "022",
+      "url": "https://jola.dev/posts/running-local-models-on-m4",
+      "title": "Running local models on an M4 with 24GB memory",
+      "summary": "Article URL: https://jola.dev/posts/running-local-models-on-m4\nComments URL: https://news.ycombinator.com/item?id=48089091\nPoints: 310\n# Comments: 94",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "summary": "Article URL: https://dunkels.com/adam/claude-user-space-ip-stack-ping/\nComments URL: https://news.ycombinator.com/item?id=48089049\nPoints: 76\n# Comments: 23",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "024",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "summary": "Article URL: https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/\nComments URL: https://news.ycombinator.com/item?id=48088576\nPoints: 210\n# Comments: 108",
+      "date_published": "2026-05-10",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "025",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
       "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
       "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises\nComments URL: h",
@@ -280,7 +323,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "023",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
       "title": "Get ready for the whisper-filled office of the future",
       "summary": "How will work setups change if we spend more and more time talking to our computers?",
@@ -297,7 +340,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
       "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
       "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
@@ -310,7 +353,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/10/uber-has-always-wanted-to-be-more-than-a-ride-now-it-has-reason-to-hurry/",
       "title": "Uber has always wanted to be more than a ride; now it has reason to hurry",
       "summary": "The company has been trying to embed itself inside the AV industry — as a data provider, an investor, and a distribution platform — but the consumer-facing bet may be just as important.",
@@ -327,7 +370,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/10/techcrunch-mobility-limes-ipo-gamble/",
       "title": "TechCrunch Mobility: Lime’s IPO gamble",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
@@ -344,7 +387,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
       "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
       "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
@@ -353,48 +396,6 @@
         "AI"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/10/the-hottest-place-for-startups-to-strike-a-deal-the-f1-paddock/",
-      "title": "The hottest place for startups to strike a deal? The F1 paddock",
-      "summary": "F1 Grands Prix have emerged as a new place to see and be seen if you are a founder or investor.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Media & Entertainment",
-        "f1",
-        "Sports"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Startups",
-        "AI",
-        "voice AI",
-        "Wispr flow"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/",
-      "title": "Do you take after your dad’s RNA?",
-      "summary": "Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.",
-      "date_published": "2026-05-10",
-      "tags": [
-        "Science",
-        "DNA",
-        "RNA",
-        "sperm",
-        "syndication"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
