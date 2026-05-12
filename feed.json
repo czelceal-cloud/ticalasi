@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
-      "title": "The Rise of the Bullshittery",
-      "summary": "Article URL: https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/\nComments URL: https://news.ycombinator.com/item?id=48113079\nPoints: 19\n# Comments: 4",
+      "url": "https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/",
+      "title": "Meta employees protest against mouse tracking tech at US offices",
+      "summary": "Article URL: https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/\nComments URL: https://news.ycombinator.com/item?id=48114461\nPoints: 25\n# Comments: 13",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
-      "title": "Unauthorized Anthropic stock sales and investment scams",
-      "summary": "Article URL: https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams\nComments URL: https://news.ycombinator.com/item?id=48112190\nPoints: 6\n# Comments: 1",
+      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+      "title": "How to make your text look futuristic (2016)",
+      "summary": "Article URL: https://typesetinthefuture.com/2016/02/18/futuristic/\nComments URL: https://news.ycombinator.com/item?id=48113895\nPoints: 93\n# Comments: 9",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 104\n# Comments: 21",
+      "url": "https://arxiv.org/abs/2605.05242",
+      "title": "Beyond Semantic Similarity",
+      "summary": "Article URL: https://arxiv.org/abs/2605.05242\nComments URL: https://news.ycombinator.com/item?id=48113518\nPoints: 20\n# Comments: 2",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -40,6 +40,28 @@
     },
     {
       "id": "004",
+      "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
+      "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
+      "summary": "Article URL: https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/\nComments URL: https://news.ycombinator.com/item?id=48113425\nPoints: 16\n# Comments: 4",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 163\n# Comments: 68",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
       "url": "https://github.com/cactus-compute/needle",
       "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we cond",
@@ -50,32 +72,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 42\n# Comments: 2",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 33\n# Comments: 14",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "007",
-      "url": "https://googlebook.google/",
-      "title": "Googlebook",
-      "summary": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin...\n\nComments URL: https://news.ycombinator.com/item?id=48111545\nPoints: 285\n# Comments: 378",
+      "url": "https://chreke.com/posts/sql-incorrect-by-construction",
+      "title": "SQL: Incorrect by Construction",
+      "summary": "Article URL: https://chreke.com/posts/sql-incorrect-by-construction\nComments URL: https://news.ycombinator.com/item?id=48111798\nPoints: 22\n# Comments: 21",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
-      "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
-      "summary": "Article URL: https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare\nComments URL: https://news.ycombinator.com/item?id=48111531\nPoints: 93\n# Comments: 30",
+      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+      "title": "Quack: The DuckDB Client-Server Protocol",
+      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 109\n# Comments: 23",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://www.hypercubic.ai/hopper",
-      "title": "Show HN: Agentic interface for mainframes and COBOL",
-      "summary": "Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (https://www.hypercubic.ai/), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: https://news.ycombinator.com/item?id=45877517.) Today we’re launching Hopper, an agentic development environment for mainframes.",
+      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+      "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 47\n# Comments: 21",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
-      "title": "Testing UPS Output Waveforms",
-      "summary": "Article URL: https://www.lttlabs.com/articles/2026/05/12/ups-exploration\nComments URL: https://news.ycombinator.com/item?id=48110858\nPoints: 27\n# Comments: 19",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "title": "Reimagining the mouse pointer for the AI era",
+      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/\nComments URL: https://news.ycombinator.com/item?id=48111581\nPoints: 84\n# Comments: 71",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -123,9 +123,9 @@
       "date_published": "2026-05-12",
       "tags": [
         "Venture",
+        "A* Capital",
         "Kevin Hartz",
-        "Startups",
-        "A* Capital"
+        "Startups"
       ],
       "_source": "TechCrunch"
     },
@@ -149,10 +149,13 @@
       "id": "013",
       "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
       "date_published": "2026-05-12",
       "tags": [
-        "AI"
+        "AI",
+        "Elon Musk",
+        "OpenAI",
+        "sam altman"
       ],
       "_source": "TechCrunch"
     },
@@ -160,7 +163,7 @@
       "id": "014",
       "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
       "date_published": "2026-05-12",
       "tags": [
         "AI",
@@ -195,9 +198,12 @@
         "AI",
         "Space",
         "Alphabet",
+        "Anthropic",
         "Google",
+        "In Brief",
         "orbital data centers",
-        "SpaceX"
+        "SpaceX",
+        "xAI"
       ],
       "_source": "TechCrunch"
     },
@@ -239,7 +245,7 @@
       "id": "019",
       "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
       "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
       "date_published": "2026-05-12",
       "tags": [
         "AI",
@@ -247,6 +253,7 @@
         "ai dictation",
         "gemini",
         "Google",
+        "rambler",
         "Wispr flow"
       ],
       "_source": "TechCrunch"
@@ -258,39 +265,40 @@
       "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
       "date_published": "2026-05-12",
       "tags": [
-        "TC",
         "Apps",
         "Android",
-        "doomscrolling",
-        "android 17"
+        "android 17",
+        "doomscrolling"
       ],
       "_source": "TechCrunch"
     },
     {
       "id": "021",
       "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
-      "title": "Google unveils Googlebooks, a new line of AI-native laptops",
+      "title": "Google unveils Googlebook, a new line of AI-native laptops",
       "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
       "date_published": "2026-05-12",
       "tags": [
-        "Hardware",
         "Gadgets",
+        "Hardware",
         "Google",
-        "laptops",
-        "googlebooks"
+        "googlebooks",
+        "laptops"
       ],
       "_source": "TechCrunch"
     },
     {
       "id": "022",
       "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
-      "summary": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
+      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
+      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
       "date_published": "2026-05-12",
       "tags": [
         "AI",
         "Apps",
-        "Google"
+        "Google",
+        "vibe coding",
+        "widgets"
       ],
       "_source": "TechCrunch"
     },
@@ -298,14 +306,15 @@
       "id": "023",
       "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
       "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
       "date_published": "2026-05-12",
       "tags": [
         "AI",
         "Apps",
         "Chrome",
+        "gemini",
         "Google",
-        "gemini"
+        "vibe coding"
       ],
       "_source": "TechCrunch"
     },
@@ -317,13 +326,13 @@
       "date_published": "2026-05-12",
       "tags": [
         "Security",
+        "Amnesty International",
         "Android",
+        "cybersecurity",
         "Google",
         "hacking",
         "Spyware",
-        "surveillance",
-        "cybersecurity",
-        "Amnesty International"
+        "surveillance"
       ],
       "_source": "TechCrunch"
     },
