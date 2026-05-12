@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Don't hijack my mouse pointer",
-    "summary": "Article URL: https://ruky.me/dont-hijack-my-pointer/\nComments URL: https://news.ycombinator.com/item?id=48107027\nPoints: 33\n# Comments: 30",
-    "url": "https://ruky.me/dont-hijack-my-pointer/",
+    "title": "Bambu Lab is abusing the open source social contract",
+    "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 208\n# Comments: 84",
+    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -12,6 +12,17 @@
   },
   {
     "id": "002",
+    "title": "Rendering the Sky, Sunsets, and Planets",
+    "summary": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 162\n# Comments: 13",
+    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
     "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
     "summary": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship\nComments URL: https://news.ycombinator.com/item?id=48107024\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
@@ -22,9 +33,9 @@
     ]
   },
   {
-    "id": "003",
+    "id": "004",
     "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 186\n# Comments: 132",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 340\n# Comments: 280",
     "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -33,21 +44,10 @@
     ]
   },
   {
-    "id": "004",
-    "title": "Coursera and Udemy are now one company",
-    "summary": "Article URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/\nComments URL: https://news.ycombinator.com/item?id=48106367\nPoints: 77\n# Comments: 24",
-    "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "005",
-    "title": "A HN post with negative points – how?",
-    "summary": "Article URL: https://news.ycombinator.com/item?id=48104663\nComments URL: https://news.ycombinator.com/item?id=48106316\nPoints: 50\n# Comments: 31",
-    "url": "https://news.ycombinator.com/item?id=48104663",
+    "title": "Coursera and Udemy are now one company",
+    "summary": "Article URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/\nComments URL: https://news.ycombinator.com/item?id=48106367\nPoints: 129\n# Comments: 50",
+    "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -57,7 +57,7 @@
   {
     "id": "006",
     "title": "Learning Software Architecture",
-    "summary": "Article URL: https://matklad.github.io/2026/05/12/software-architecture.html\nComments URL: https://news.ycombinator.com/item?id=48106024\nPoints: 237\n# Comments: 41",
+    "summary": "Article URL: https://matklad.github.io/2026/05/12/software-architecture.html\nComments URL: https://news.ycombinator.com/item?id=48106024\nPoints: 362\n# Comments: 66",
     "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -68,7 +68,7 @@
   {
     "id": "007",
     "title": "Screenshots of Old Desktop OSes",
-    "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 381\n# Comments: 164",
+    "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 480\n# Comments: 221",
     "url": "http://www.typewritten.org/Media/",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -79,7 +79,7 @@
   {
     "id": "008",
     "title": "Extremely Low Frequencies",
-    "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 127\n# Comments: 8",
+    "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 155\n# Comments: 13",
     "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -90,7 +90,7 @@
   {
     "id": "009",
     "title": "Software Internals Book Club",
-    "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 130\n# Comments: 23",
+    "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 156\n# Comments: 26",
     "url": "https://eatonphil.com/bookclub.html",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -100,6 +100,37 @@
   },
   {
     "id": "010",
+    "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+    "summary": "The round valued the three-year-old startup at $725 million.",
+    "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Fundraising",
+      "Security",
+      "AI cybersecurity tools",
+      "cybersecurity",
+      "exaforce"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Waymo issues recall to deal with a flooding problem",
+    "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
+    "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "autonomous vehicles",
+      "avs",
+      "robotaxis",
+      "self-driving cars",
+      "Waymo"
+    ]
+  },
+  {
+    "id": "012",
     "title": "Instructure strikes deal with hackers who breached it twice",
     "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
     "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
@@ -115,7 +146,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "013",
     "title": "Dessn raises $6M for its production focused design tool",
     "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
     "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
@@ -131,7 +162,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
     "summary": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
     "url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
@@ -144,7 +175,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "015",
     "title": "AI is turning connected cars into pothole-finding machines",
     "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
     "url": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
@@ -159,7 +190,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "016",
     "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
     "summary": "Spotify's new feature will show you the number of unique songs that you listened to until now",
     "url": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
@@ -173,7 +204,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "017",
     "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
     "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
     "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
@@ -191,7 +222,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "Amazon launches 30-minute delivery across the U.S.",
     "summary": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
     "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
@@ -200,13 +231,13 @@
     "tags": [
       "Commerce",
       "Amazon",
-      "e-commerce",
       "commerce",
+      "e-commerce",
       "online shopping"
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
     "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -220,7 +251,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
     "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
     "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
@@ -236,7 +267,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
     "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
     "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
@@ -250,7 +281,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "022",
     "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
     "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
     "url": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
@@ -268,9 +299,78 @@
     ]
   },
   {
-    "id": "021",
+    "id": "023",
+    "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
+    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, includ",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
+    "date": "2026-05-12",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "News",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Rivian’s AI-powered voice assistant is ready to roll",
+    "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y",
+    "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
+    "date": "2026-05-12",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Electric Cars",
+      "News",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Anker’s fast, foldable 3-in-1 charging station is back to its best price yet",
+    "summary": "Anker’s Prime Wireless Charging Station is a small, yet powerful 3-in-1 charger that can charge your iPhone, Apple Watch, and earbuds simultaneously, and now it’s on sale for $104.99 ($45 off) at Amazon, Best Buy, and Walmart. The price has only dropped this low one other time since it launched in F",
+    "url": "https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale",
+    "date": "2026-05-12",
+    "source": "The Verge",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Google’s Aluminium OS revealed in 16-minute leaked video",
+    "summary": "Aluminium OS, Google's upcoming version of Android for PC, may have just leaked a few hours before Google's Android Show presentation. As Android Authority reports, leaker Mystic Leaks shared a 16-minute video on their Telegram channel that appears to show a lengthy hands-on demo of the new operatin",
+    "url": "https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video",
+    "date": "2026-05-12",
+    "source": "The Verge",
+    "tags": [
+      "Android",
+      "Google",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "There’s an internet choke point in the Middle East — is the solution in the North Pole?",
+    "summary": "The vast majority of the world's data - emails, financial transactions, the internet - is carried by fiber optic cables that run along the ocean floor and converge at a few narrow choke points. Periodically, policymakers will release reports noting that this arrangement seems risky, but these routes",
+    "url": "https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect",
+    "date": "2026-05-12",
+    "source": "The Verge",
+    "tags": [
+      "Report",
+      "Tech"
+    ]
+  },
+  {
+    "id": "028",
     "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
-    "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now also widely available in Atlanta an",
+    "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now widely available in Atlanta and Dal",
     "url": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
     "date": "2026-05-12",
     "source": "The Verge",
@@ -281,7 +381,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "029",
     "title": "Waymo recalls robotaxis for driving on flooded roads",
     "summary": "Waymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. In documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned comp",
     "url": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
@@ -295,7 +395,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "030",
     "title": "Canvas owner reaches ‘agreement’ with hackers to secure stolen data",
     "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. The ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly",
     "url": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
@@ -305,110 +405,6 @@
       "News",
       "Security",
       "Tech"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Spotify’s latest ‘Wrapped’ covers your entire music history",
-    "summary": "Spotify is celebrating its 20th anniversary by giving listeners a \"fully personalized look at their entire music history.\" Starting today, Spotify mobile app users can access a new Wrapped-like experience that features \"never-before-shared data\" going back to when they first joined the service. The ",
-    "url": "https://www.theverge.com/entertainment/928395/spotify-20th-anniversary-wrapped-recap",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Entertainment",
-      "News",
-      "Spotify",
-      "Tech"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "How to watch Google’s Android Show: I/O Edition today",
-    "summary": "Google I/O is still a week away, but Google's big announcements kick off today with the \"Android Show: I/O Edition,\" where it's expected to announce the major Android ecosystem highlights coming to its annual developer conference. When the Android Show will happen and where you can watch it Android ",
-    "url": "https://www.theverge.com/tech/928276/google-android-show-io-edition-2026-how-to-watch",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Android",
-      "Google",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "eBay rejects GameStop’s $56 billion acquisition bid",
-    "summary": "eBay has officially rejected GameStop's offer to buy the online marketplace for $56 billion, citing concerns around \"operational risks\" and how the acquisition will be financed. In a letter to GameStop CEO Ryan Cohen on Tuesday, eBay's board of directors said it has \"concluded that your proposal is ",
-    "url": "https://www.theverge.com/games/928436/ebay-rejects-gamestop-acquisition-bid",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Business",
-      "Gaming",
-      "News"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "These new Roombas are smaller and cheaper",
-    "summary": "iRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums. This week, it introduced eight robot vacuums that improve on its current lineup and feature lower prices, some up to £200 (about $270) cheaper. Key changes include higher suction power, a smaller",
-    "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "News",
-      "Robot",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
-    "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with pe",
-    "url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Sony",
-      "Tech"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Some Women Are Obsessively Testing Their Vaginas to Optimize Them",
-    "summary": "Biohacker Bryan Johnson recently bragged about his girlfriend's “top 1%” vagina as the at-home vaginal microbiome test industry is thriving. But experts are skeptical.",
-    "url": "https://www.wired.com/story/some-women-are-obsessively-testing-their-vaginas-to-optimize-them/",
-    "date": "2026-05-12",
-    "source": "Wired",
-    "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "medicine",
-      "health",
-      "sex",
-      "Startups",
-      "Sniff Test"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Why Soccer Still Defies Statistical Analysis",
-    "summary": "Sarah Rudd, who once ran analytics for Arsenal, made her name applying the tenets of probability theory to movements on the pitch. Even she admits not everything can be solved with data.",
-    "url": "https://www.wired.com/story/book-excerpt-how-to-watch-soccer-like-a-genius-nick-greene/",
-    "date": "2026-05-12",
-    "source": "Wired",
-    "tags": [
-      "The Big Story",
-      "Book Excerpt",
-      "longreads",
-      "soccer",
-      "Sports",
-      "Brains and Behavior",
-      "fitness",
-      "statistics"
     ]
   }
 ]
