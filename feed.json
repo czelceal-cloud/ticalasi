@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://eatonphil.com/bookclub.html",
-      "title": "Software Internals Book Club",
-      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 11\n# Comments: 1",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "title": "Extremely Low Frequencies",
+      "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 5\n# Comments: 0",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
-      "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
-      "summary": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/\nComments URL: https://news.ycombinator.com/item?id=48103459\nPoints: 31\n# Comments: 15",
+      "url": "https://humanpro.co/articles/productivity-isnt-about-going-faster/",
+      "title": "Productivity isn't about going faster",
+      "summary": "Article URL: https://humanpro.co/articles/productivity-isnt-about-going-faster/\nComments URL: https://news.ycombinator.com/item?id=48103871\nPoints: 34\n# Comments: 9",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "title": "Claude Platform on AWS",
-      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 50\n# Comments: 28",
+      "url": "https://eatonphil.com/bookclub.html",
+      "title": "Software Internals Book Club",
+      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 49\n# Comments: 10",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "title": "They Live (1988) inspired Adblocker",
-      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 41\n# Comments: 2",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "title": "Claude Platform on AWS",
+      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 97\n# Comments: 43",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.npmjs.com/package/@gkiely/safe-install",
-      "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
-      "summary": "In light of the ongoing npm supply chain compromises, I built safe-install:https://www.npmjs.com/package/@gkiely/safe-installIt brings a couple of protections I wanted from npm but are not built in.Similar to Bun’s trusted dependencies, it lets you disable install scripts by default and define a lis",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "title": "They Live (1988) inspired Adblocker",
+      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 104\n# Comments: 18",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -62,6 +62,20 @@
     },
     {
       "id": "006",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "AI",
+        "interaction models",
+        "Mira Murati",
+        "Thinking Machines Lab"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "007",
       "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
@@ -77,333 +91,331 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
-      "url": "https://dev.to/hamzahassanain0/the-lie-of-time-management-why-your-energy-is-the-real-bottleneck-4lc6",
-      "title": "The Lie of Time Management: Why Your Energy is the Real Bottleneck",
-      "summary": "I recently tried a very foolish experiment. I decided to overwhelm myself with a massive workload to force myself to learn better time management. Between juggling university coursework, optimizing cloud infrastructure for Repovive, and grinding through AWS architecture study sessions, I mapped out ",
-      "date_published": "2026-05-12",
-      "tags": [
-        "productivity",
-        "programming",
-        "challenge",
-        "vibecoding"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "008",
-      "url": "https://dev.to/taskdude/day-1545-building-a-workforce-management-saas-in-public-49bn",
-      "title": "Day 15/45 — Building a Workforce Management SaaS in Public",
-      "summary": "At Taskdudes, our team is currently building a workforce management SaaS focused on simplifying employee operations for businesses.\n\nThe core problem we’re solving:\nMost companies rely on multiple disconnected tools for scheduling, attendance tracking, employee management, and invoicing. That create",
+      "url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+      "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with pe",
       "date_published": "2026-05-12",
       "tags": [
-        "buildinpublic",
-        "devjournal",
-        "saas",
-        "startup"
+        "Gadgets",
+        "News",
+        "Sony",
+        "Tech"
       ],
-      "_source": "Dev.to"
+      "_source": "The Verge"
     },
     {
       "id": "009",
-      "url": "https://dev.to/syslayer/coding-cat-oran-s2-ep3-the-auditor-arrives-mfo",
-      "title": "Coding Cat Oran S2 Ep3 — The Auditor Arrives",
-      "summary": "She doesn't look at the machines.\nShe looks at the filing cabinets.\n\n\n\n\nHer name is Ms. Chen.\n\nShe arrives at 9am with a rolling carry-on bag,\nan iPad in a hard case,\nand the specific kind of calm that belongs to people\nwho have seen this before.\n\nMany times before.\n\n\n\n\nThe plant manager gives her a",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "title": "Chewy Promo Codes: $20 Off May 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
       "date_published": "2026-05-12",
       "tags": [
-        "webdev",
-        "career",
-        "sql",
-        "database"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "010",
-      "url": "https://dev.to/booleanhunter/why-does-paying-more-make-your-llm-reply-faster-3lfn",
-      "title": "Why does paying more make your LLM reply faster?",
-      "summary": "Why does Claude respond faster when you pay more? And why does a longer conversation cost disproportionately more than a short one?\n\nFor the longest time I simply accepted these as \"it's just how it works\". Like most engineers, I burn through Claude and GPT tokens all day and assumed \"longer prompts",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "title": "Dell Coupon Codes: 20% Off for May 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
       "date_published": "2026-05-12",
       "tags": [
-        "ai",
-        "discuss",
-        "llm",
-        "deeplearning"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "011",
-      "url": "https://dev.to/chrisherlein/the-tunnel-vision-effect-and-the-eclipse-of-a-priori-judgment-in-the-age-of-ai-23ea",
-      "title": "The \"Tunnel Vision\" Effect and the Eclipse of A Priori Judgment in the Age of AI",
-      "summary": "As developers, we have always sought tools to optimize our workflow. However, the massive integration of Generative AI is not merely a change in tooling; it is a shift in our cognitive paradigm.\n\nLately, I have been reflecting on how this technology is altering our approach to complex problem-solvin",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "title": "Booking.com Promo Codes: 20% Off | May 2026",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
       "date_published": "2026-05-12",
       "tags": [
-        "softwareengineering",
-        "computerscience",
-        "generativeai",
-        "philosophyoftech"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "012",
-      "url": "https://dev.to/manojsatna31/case-file-21-the-prompt-and-pray-conspiracy-4bbp",
-      "title": "⚖️ Case File 2.1: The Prompt-and-Pray Conspiracy",
-      "summary": "The AI Syndicate\n\n\nAI doesn't make you a better engineer; it makes you a faster version of whoever you already are. If you’re a \"Software Criminal,\" it just makes you a Serial Offender.\n\n\nIn our transition to Agentic Development, we’ve entered a dangerous era. With 17+ years in tech, I’ve seen the s",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "title": "30% Off Canon Promo Codes | May 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
       "date_published": "2026-05-12",
       "tags": [
-        "webdev",
-        "programming",
-        "productivity",
-        "beginners"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "013",
-      "url": "https://dev.to/pendelabhargavasai/kubernetes-cni-complete-guide-flannel-vs-cilium-vs-calico-cloud-provider-cnis-5c6c",
-      "title": "Kubernetes CNI Complete Guide: Flannel vs Cilium vs Calico + Cloud Provider CNIs",
-      "summary": "K3s v1.29+  |  Flannel v0.24+  |  Cilium v1.15+  |  Calico v3.27+  |  AWS VPC CNI v1.18+  |  Azure CNI v1.5+  |  GKE Dataplane V2 (Cilium-based)\n\n\nA definitive comparison of every major Kubernetes CNI — open-source plugins (Flannel, Calico, Cilium, Weave, Antrea, Multus) and cloud-managed defaults (",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "title": "Paramount+ Coupon Codes and Deals for May 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
       "date_published": "2026-05-12",
       "tags": [
-        "kubernetes",
-        "networking",
-        "cni",
-        "devops"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "014",
-      "url": "https://dev.to/alanwest/migrating-off-google-analytics-umami-vs-plausible-vs-fathom-36gc",
-      "title": "Migrating Off Google Analytics: Umami vs Plausible vs Fathom",
-      "summary": "The wake-up call I didn't ask for\n\n\nLast week the TanStack folks reported what appears to be a compromise affecting some of their NPM packages (the details are still being sorted out in issue #7383 — read it yourself before drawing conclusions). I won't rehash the postmortem here. What I want to tal",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "title": "Priceline Promo Codes: 10% Off May 2026",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more this May.",
       "date_published": "2026-05-12",
       "tags": [
-        "webdev",
-        "analytics",
-        "privacy",
-        "opensource"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "015",
-      "url": "https://dev.to/sphurthi_edara/fixing-xslt-import-issues-in-mulesoft-works-in-local-but-fails-in-rtf-runtime-3bi0",
-      "title": "Fixing XSLT Import Issues in MuleSoft (Works in Local but Fails in RTF Runtime)",
-      "summary": "Fixing XSLT Import Issues in MuleSoft\n(Works in Local but Fails in RTF Runtime)\n\nIntroduction\nXSLT (Extensible Stylesheet Language Transformations) is used to transform XML data from one format into another during application integrations.\nWhile working on a MuleSoft integration project, I faced a c",
+      "url": "https://www.wired.com/story/noom-promo-code/",
+      "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for April 2026",
+      "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
       "date_published": "2026-05-12",
       "tags": [
-        "mulesoft",
-        "xslt",
-        "runtimefabric",
-        "xslttranformation"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "016",
+      "url": "https://www.wired.com/story/oneplus-promo-code/",
+      "title": "OnePlus Promo Code: $70 Off | 2026",
+      "summary": "Save 30% with a OnePlus coupon this 2026, plus save up to 10% on earbuds, phones, and more.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "018",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "title": "Hoka Coupon Codes: 30% Off | May 2026",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "title": "50% Off Home Depot Promo Codes | May 2026",
+      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "020",
+      "url": "https://www.wired.com/story/samsung-promo-codes/",
+      "title": "30% Off Samsung Promo Code | May 2026",
+      "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Samsung",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "021",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "title": "Squarespace Promo Codes: 20% Off in May 2026",
+      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "022",
+      "url": "https://dev.to/playfulprogramming/gemini-cli-googles-free-ai-agent-for-your-terminal-1blj",
+      "title": "Gemini CLI: Google's Free AI Agent for Your Terminal 🚀",
+      "summary": "Overview\n\n\nHey everyone 👋\n\nGoogle recently dropped something that's been flying under the radar: Gemini CLI, a free, open source AI agent that brings the power of Gemini directly into your terminal. While everyone's been debating Cursor vs Claude Code, Google quietly built a terminal AI that's actua",
+      "date_published": "2026-05-12",
+      "tags": [
+        "ai",
+        "productivity",
+        "gemini",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "016",
-      "url": "https://dev.to/eboo_liu_9efb3e67fdadcaef/i-built-a-local-first-ssh-sftp-workspace-for-developers-469j",
-      "title": "I Built a Local-First SSH + SFTP Workspace for Developers",
-      "summary": "Most SSH tools solve the connection problem.\n\nI wanted to solve the workflow around the connection.\n\nWhen I manage servers, the work rarely stops at \"open a terminal.\" I usually need to connect over SSH, move files with SFTP, check whether the server is under pressure, open or edit remote files, rec",
+      "id": "023",
+      "url": "https://dev.to/robertobutti/automating-storyblok-with-php-a-practical-guide-to-the-management-api-client-aka",
+      "title": "Automating Storyblok with PHP: A Practical Guide to the Management API Client",
+      "summary": "Learn how to use the Storyblok PHP Management API Client to automate stories, assets, workflows, references, CSV imports, and content operations in Storyblok.\n\n\nStoryblok gives developers and content teams a visual CMS, structured content, and APIs for delivery and management. Most projects start wi",
       "date_published": "2026-05-12",
       "tags": [
-        "opensource",
-        "ssh",
-        "electron",
+        "php",
+        "storyblok",
+        "tutorial",
+        "automation"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
+      "url": "https://dev.to/vishal_veerareddy_9cdd17d/open-design-lynkr-run-a-local-ai-design-studio-for-free-450n",
+      "title": "Open-Design + Lynkr: Run a Local AI Design Studio for Free",
+      "summary": "Open-Design + Lynkr: Run a Local AI Design Studio for Free\n\n\nHow to wire up a self-hosted design generation stack that rivals Figma's AI features — without sending your work to a third-party cloud.\n\n\n\n\nThere is a quiet corner of the open-source world where two tools have been evolving in parallel, e",
+      "date_published": "2026-05-12",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "025",
+      "url": "https://dev.to/innovationsiyu/designing-conversational-infrastructure-for-ai-agents-context-forking-rate-limiting-and-identity-41nj",
+      "title": "Designing Conversational Infrastructure for AI Agents: Context Forking, Rate Limiting, and Identity Rotation",
+      "summary": "AI agents are becoming a new interface for handling inbound messages.\n\nInstead of opening an inbox, scanning dozens of conversations, deciding which ones matter, and manually typing replies, a user can now say something like:\n\n\nCheck my recent messages for new leads.\n\n\nIn Opportunity Skill, the user",
+      "date_published": "2026-05-12",
+      "tags": [
+        "postgres",
+        "agentskills",
+        "architecture",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "026",
+      "url": "https://dev.to/_07a306f4bf233eecbc3a/the-20000-recruiter-tax-how-i-bypassed-job-boards-to-negotiate-a-25-salary-bump-2e43",
+      "title": "The $20,000 'Recruiter Tax': How I Bypassed Job Boards to Negotiate a 25% Salary Bump",
+      "summary": "Stop being a resume in a pile and start selling your value directly to the decision-makers.\n\n“We’ve decided to move forward with other candidates.”\n\nHow many times have you closed a generic rejection email from a recruiter, feeling like your resume just fell into a black hole? I’ve been there. When ",
+      "date_published": "2026-05-12",
+      "tags": [
+        "careeradvice",
+        "salarynegotiation",
+        "jobhunting",
+        "personalfinance"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "027",
+      "url": "https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92",
+      "title": "MongoDB Query Practice Guide with Real Job Portal Dataset",
+      "summary": "Overview\n\n\nRecently, I practiced MongoDB queries using a sample Job Portal database.\n\nInstead of learning operators in isolation, I used a realistic Job Portal dataset to better understand how MongoDB queries work in real-world applications.\n\n\n\n\n\n  \n  \n  Dataset Structure\n\n\nA sample jobs collection ",
+      "date_published": "2026-05-12",
+      "tags": [
+        "mongodb",
+        "backend",
+        "node",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "028",
+      "url": "https://dev.to/madhurima_rawat/four-years-of-growth-on-github-and-a-month-of-giving-back-26n",
+      "title": "🌱 Four Years of Growth on GitHub and a Month of Giving Back 🤝",
+      "summary": "Hello everyone!! It’s been quite a few days since I last posted, I got occupied with stuff, but I’ve got something really special for you all!\n\n\n  \n  \n  🎉 GitHub Anniversary Month: May 12 – June 12, 2026\n\n\nMay 12, 2026 marks my 4th GitHub anniversary! I started my journey on May 12, 2022, and the gr",
+      "date_published": "2026-05-12",
+      "tags": [
+        "github",
+        "beginners",
+        "tutorial",
+        "discuss"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "029",
+      "url": "https://dev.to/anthony-gicheru/why-your-code-breaks-in-production-and-how-docker-fixes-it-3meo",
+      "title": "Why Your Code Breaks in Production (and How Docker Fixes It)",
+      "summary": "1. Why This Matters\n\n\nYou write your code.\nYou test it locally.\nEverything works perfectly.\n\nThen it goes to production… and breaks.\n\nYou spend hours debugging, only to realize:\nnothing is wrong with your code — the environment is the problem.\n\nIn data engineering, this happens all the time:\n\n\nA Spa",
+      "date_published": "2026-05-12",
+      "tags": [
+        "containers",
+        "docker",
         "devops"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "017",
-      "url": "https://dev.to/vincent_davis_7b6665836a9/membangun-observability-gbim-dari-correlation-id-sampai-dashboard-k6-yang-terisi-3aj1",
-      "title": "Building GBIM Observability From Correlation IDs to a Populated k6 Dashboard",
-      "summary": "Summary\n\n\nIn this iteration, I improved the observability of GBIM on both the backend and frontend, based on the latest origin/staging branch. The focus is not just on installing monitoring tools. It is about ensuring that operational data relevant to the application's workflow actually appears in P",
-      "date_published": "2026-05-12",
-      "tags": [
-        "devops",
-        "monitoring",
-        "performance",
-        "sre"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/perufitlife/how-i-shipped-the-rewriter-side-of-an-ai-tell-detector-in-30-minutes-claude-nextjs-vercel-13g0",
-      "title": "How I shipped the rewriter side of an AI tell detector in 30 minutes (Claude + Next.js + Vercel)",
-      "summary": "Yesterday I shipped a free detector for the 12 most reliable AI writing fingerprints. The story behind it: my reddit account got 2 public \"all comments are AI generated\" callouts in one day. Mods removed 3 posts. I was running everything through Claude. The em-dashes and \"delve\" gave me away in seco",
-      "date_published": "2026-05-12",
-      "tags": [
-        "ai",
-        "nextjs",
-        "claude",
-        "indiehackers"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "title": "Griffin PowerMate driver for modern macOS",
-      "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver\nComments URL: https://news.ycombinator.com/item?id=48100970\nPoints: 54\n# Comments: 19",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "020",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "summary": "https://github.com/TanStack/router/issues/7383\n\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 608\n# Comments: 230",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\nComments URL: https://news.ycombinator.com/item?id=48100662\nPoints: 101\n# Comments: 110",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "022",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "title": "Interaction Models",
-      "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 122\n# Comments: 15",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "023",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 375\n# Comments: 375",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
-      "date_published": "2026-05-11",
-      "tags": [
-        "AI",
-        "Transportation",
-        "GM",
-        "Layoffs"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
-      "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
-      "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Social",
-        "Android",
-        "Apple",
-        "e2ee",
-        "Google",
-        "iOS",
-        "RCS"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
-      "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
-      "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Fundraising",
-        "defense tech",
-        "drones",
-        "helsing",
-        "In Brief"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
-      "title": "Bravo is creating unscripted microdramas for the Peacock app",
-      "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Media & Entertainment",
-        "bravo",
-        "microdrama"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
-      "title": "Digg tries again, this time as an AI news aggregator",
-      "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
-      "date_published": "2026-05-11",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "aggregation",
-        "Digg",
-        "News",
-        "Startups"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
-      "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
-      "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
-      "date_published": "2026-05-11",
-      "tags": [
-        "Climate",
-        "Transportation",
-        "Deepak Ahuja",
-        "Redwood Materials"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
-      "title": "NYT’s Wordle to become a TV game show",
-      "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/shivnathtathe/i-built-a-local-first-alternative-to-langsmith-after-spending-200-debugging-a-pipeline-i-couldnt-mpm",
+      "title": "I Built a Local-First Alternative to LangSmith After Spending $200 Debugging a Pipeline I Couldn't See | Shivnath Tathe",
+      "summary": "Last month I spent $200 on OpenAI tokens debugging a RAG pipeline. I had no idea which step was eating my budget. LangSmith would have helped — but I didn't want to send my prompts to a cloud service just to debug locally.\n\nSo I built opensmith.\n\n\n  \n  \n  What is opensmith?\n\n\nA local-first LLM pipel",
+      "date_published": "2026-05-12",
       "tags": [
-        "Apps",
-        "Gaming",
-        "Media & Entertainment",
-        "In Brief",
-        "mobile games",
-        "NYT",
-        "Wordle"
+        "python",
+        "llm",
+        "openai",
+        "opensource"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     }
   ]
 }
