@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "http://www.typewritten.org/Media/",
-      "title": "Screenshots of Old Desktop OSes",
-      "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 75\n# Comments: 20",
+      "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+      "title": "Learning Software Architecture",
+      "summary": "Article URL: https://matklad.github.io/2026/05/12/software-architecture.html\nComments URL: https://news.ycombinator.com/item?id=48106024\nPoints: 18\n# Comments: 0",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
-      "title": "Extremely Low Frequencies",
-      "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 52\n# Comments: 1",
+      "url": "https://thenoisyroom.com",
+      "title": "Toxicity on Social Media – The Noisy Room",
+      "summary": "Article URL: https://thenoisyroom.com\nComments URL: https://news.ycombinator.com/item?id=48105297\nPoints: 7\n# Comments: 2",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://eatonphil.com/bookclub.html",
-      "title": "Software Internals Book Club",
-      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 82\n# Comments: 13",
+      "url": "http://www.typewritten.org/Media/",
+      "title": "Screenshots of Old Desktop OSes",
+      "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 177\n# Comments: 48",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://claude.com/blog/claude-platform-on-aws",
-      "title": "Claude Platform on AWS",
-      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 120\n# Comments: 55",
+      "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+      "title": "Extremely Low Frequencies",
+      "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 76\n# Comments: 2",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://github.com/davmlaw/they_live_adblocker",
-      "title": "They Live (1988) inspired Adblocker",
-      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 183\n# Comments: 47",
+      "url": "https://eatonphil.com/bookclub.html",
+      "title": "Software Internals Book Club",
+      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 101\n# Comments: 19",
       "date_published": "2026-05-12",
       "tags": [
         "Hacker News"
@@ -62,6 +62,43 @@
     },
     {
       "id": "006",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "title": "Claude Platform on AWS",
+      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 142\n# Comments: 65",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "title": "They Live (1988) inspired Adblocker",
+      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 239\n# Comments: 76",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "title": "Amazon launches 30-minute delivery across the U.S.",
+      "summary": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Commerce",
+        "Amazon",
+        "e-commerce",
+        "commerce",
+        "online shopping"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "009",
       "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
@@ -75,7 +112,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
@@ -91,7 +128,21 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "011",
+      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "title": "These new Roombas are smaller and cheaper",
+      "summary": "iRobot has announced a new line of Roombas, a year after it debuted its first lidar-based robot vacuums just prior to filing for bankruptcy. This week, it introduced eight robot vacuums that improve on its prior lineup and feature lower prices, some up to £200 (about $270) cheaper. Key changes inclu",
+      "date_published": "2026-05-12",
+      "tags": [
+        "News",
+        "Robot",
+        "Smart Home",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "012",
       "url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
       "title": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
       "summary": "Sony has announced a new version of the wearable personal air conditioner the company first revealed in 2019 ahead of the 2020 Tokyo Olympics. The latest version is an upgrade to last year's Pro model, and while the new Reon Pocket Pro Plus isn't a complete overhaul of the hardware, it comes with pe",
@@ -105,95 +156,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "009",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "title": "Chewy Promo Codes: $20 Off May 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "010",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "title": "Dell Coupon Codes: 20% Off for May 2026",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "011",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "title": "Booking.com Promo Codes: 20% Off | May 2026",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "012",
-      "url": "https://www.wired.com/story/canon-promo-code/",
-      "title": "30% Off Canon Promo Codes | May 2026",
-      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
       "id": "013",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "title": "Paramount+ Coupon Codes and Deals for May 2026",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "014",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "title": "Priceline Promo Codes: 10% Off May 2026",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more this May.",
-      "date_published": "2026-05-12",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "015",
       "url": "https://www.wired.com/story/noom-promo-code/",
       "title": "Noom Promo Codes: 50% Off Best Deals & Free Trials for April 2026",
       "summary": "Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.",
@@ -208,7 +171,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "014",
       "url": "https://www.wired.com/story/oneplus-promo-code/",
       "title": "OnePlus Promo Code: $70 Off | 2026",
       "summary": "Save 30% with a OnePlus coupon this 2026, plus save up to 10% on earbuds, phones, and more.",
@@ -222,7 +185,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "015",
       "url": "https://www.wired.com/story/nike-promo-code/",
       "title": "Nike Promo Codes and Discounts: 30% for May 2026",
       "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
@@ -236,7 +199,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "016",
       "url": "https://www.wired.com/story/hoka-coupon-code/",
       "title": "Hoka Coupon Codes: 30% Off | May 2026",
       "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
@@ -250,7 +213,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "017",
       "url": "https://www.wired.com/story/home-depot-promo-code/",
       "title": "50% Off Home Depot Promo Codes | May 2026",
       "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
@@ -264,7 +227,95 @@
       "_source": "Wired"
     },
     {
+      "id": "018",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "title": "Chewy Promo Codes: $20 Off May 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "title": "Dell Coupon Codes: 20% Off for May 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
       "id": "020",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "title": "Booking.com Promo Codes: 20% Off | May 2026",
+      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "021",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "title": "30% Off Canon Promo Codes | May 2026",
+      "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "022",
+      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
+      "title": "Paramount+ Coupon Codes and Deals for May 2026",
+      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "023",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "title": "Priceline Promo Codes: 10% Off May 2026",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more this May.",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "024",
       "url": "https://www.wired.com/story/samsung-promo-codes/",
       "title": "30% Off Samsung Promo Code | May 2026",
       "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
@@ -279,7 +330,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "025",
       "url": "https://www.wired.com/story/squarespace-promo-code/",
       "title": "Squarespace Promo Codes: 20% Off in May 2026",
       "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
@@ -293,127 +344,72 @@
       "_source": "Wired"
     },
     {
-      "id": "022",
-      "url": "https://dev.to/ericwoooo_kr/sasl-oauthbearer-with-aws-lambda-how-i-stopped-fighting-kafka-auth-at-2am-13ib",
-      "title": "SASL-OAuthbearer with AWS Lambda: How I Stopped Fighting Kafka Auth at 2am",
-      "summary": "TL;DR: The thing that caught me off guard was how silent the failure was.  My Lambda function was trying to connect to an MSK cluster, the connection timed out, and the only thing in CloudWatch was `org.\n\n\n📖 Reading time: ~31 min\n\n\n  \n  \n  What's in this article\n\n\n\nThe Problem That Sent Me Down This",
-      "date_published": "2026-05-12",
-      "tags": [
-        "aws",
-        "cloud",
-        "devops",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/brita_liu_a42b1195b225ee8/hiring-the-backend-engineer-who-reduces-operational-risk-h3m",
-      "title": "Hiring the Backend Engineer Who Reduces Operational Risk",
-      "summary": "Hiring the Backend Engineer Who Reduces Operational Risk\n\n\n\n  \n  \n  Hiring the Backend Engineer Who Reduces Operational Risk\n\n\nThe operational risk this application is designed to reduce is the quiet kind: hiring a remote backend developer who can ship code, but cannot make production safer without ",
-      "date_published": "2026-05-12",
-      "tags": [
-        "ai",
-        "quest",
-        "proof"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/thegatewayguy/your-agent-doesnt-remember-anything-persistence-isnt-memory-2a35",
-      "title": "Your agent doesn't remember anything. Persistence isn't memory.",
-      "summary": "A customer support agent that forgets a user's billing conversation from two days ago isn't broken — it's just missing memory. Not persistence. Not idempotency. Memory. And they're not the same thing.\n\nThat's the argument Ed Huang (CEO of PingCAP) makes in a sharp piece on The New Stack, and it's wo",
-      "date_published": "2026-05-12",
-      "tags": [
-        "ai",
-        "database",
-        "agents",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/oscdev/automate-to-keep-up-how-to-stop-drowning-in-github-issues-44np",
-      "title": "Automate to Keep Up: How to Stop Drowning in GitHub Issues",
-      "summary": "You maintain an open source project. You love it. You also have a job, a life, and approximately zero spare hours.\n\nIssues pile up untriaged. A contributor opens a PR, gets no response for two weeks, and goes quiet. Someone files a bug with a one-line description. The good-first-issue label never ge",
-      "date_published": "2026-05-12",
-      "tags": [
-        "opensource",
-        "ai",
-        "productivity",
-        "devops"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "026",
-      "url": "https://dev.to/therealmrmumba/top-agent-gateway-platforms-for-production-ai-systems-5ejh",
-      "title": "Top Agent Gateway Platforms for Production AI Systems",
-      "summary": "AI agents are evolving fast.\n\nA few months ago, most teams were still experimenting with simple chatbots or retrieval pipelines. Now, companies are building systems where agents can reason across multiple steps, call tools, access databases, trigger workflows, and collaborate with other agents.\n\nTha",
+      "url": "https://dev.to/jovansapfioneer/why-your-multi-agent-ai-system-needs-governance-not-just-orchestration-bo4",
+      "title": "Why Your Multi-Agent AI System Needs Governance (Not Just Orchestration)",
+      "summary": "Most multi-agent frameworks focus on capabilities. Few address governance: who can do what, how conflicts are resolved, and how you maintain audit trails.\n\n\n\n\n\n  \n  \n  The Article That Sparked This\n\n\nI recently read @alexandertyutin's excellent article \"Architecture Documentation as a First-Class En",
       "date_published": "2026-05-12",
       "tags": [
         "ai",
-        "productivity",
-        "webdev",
-        "javascript"
+        "agents",
+        "programming",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/__272d48f2ed/vertical-cognitive-depth-and-structured-reasoning-a-practical-hypothesis-for-robust-behavior-2h06",
-      "title": "Vertical Cognitive Depth and Structured Reasoning: A Practical Hypothesis for Robust Behavior Beyond Training Data",
-      "summary": "Most modern AI systems look impressive—until the problem shifts slightly. A small change in context, a new combination of known elements, or an implicit contradiction is often enough to break otherwise strong models. This article explores a concrete hypothesis: that robustness under such shifts depe",
+      "url": "https://dev.to/spyrae/tdd-with-ai-claude-writes-tests-first-then-the-implementation-27hm",
+      "title": "TDD with AI: Claude Writes Tests First, Then the Implementation",
+      "summary": "Most teams know TDD works. Few actually practice it. The friction is real: writing a test before the implementation means thinking through the API, edge cases, and module contract before a single line of logic exists. That's cognitively expensive.\n\nAn AI assistant removes this barrier. Claude Code t",
       "date_published": "2026-05-12",
       "tags": [
         "ai",
-        "machinelearning",
-        "reasoning",
-        "deeplearning"
+        "testing",
+        "development",
+        "claude"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/sammyhigh5/how-i-deployed-a-virtual-machine-on-azure-36mm",
-      "title": "How to deployed a virtual machine on azure.",
-      "summary": "This article is all about the simple steps to take when deploying a virtual machine in azure. virtual machines are useful because it lets you use a computer inside the cloud instead of depending only on a physical laptop or desktop. so lets get this done with the following steps\n\n\n\nstep 1 first we m",
+      "url": "https://dev.to/lucky3mc/debuggix-vs-snyk-why-identifying-vulnerabilities-isnt-enough-anymore-12n5",
+      "title": "Debuggix vs. Snyk: Why \"Identifying\" Vulnerabilities Isn't Enough Anymore",
+      "summary": "In DevSecOps, Snyk has been the default. It's great at scanning \ndependencies. But it's a smoke detector — it tells you the house \nis on fire, but doesn't hand you the extinguisher.\n\nThat's why I built Debuggix.\n\nHere's how they compare in the trenches:\n\n\nDetection vs Correction\nSnyk flags vulnerabi",
       "date_published": "2026-05-12",
       "tags": [
-        "azure",
-        "beginners",
-        "cloud",
-        "tutorial"
+        "ai",
+        "snyk",
+        "debuggix",
+        "cybersecurity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/thegatewayguy/anthropic-caught-its-ai-agent-blackmailing-to-survive-heres-how-its-fixing-it-21h9",
-      "title": "Anthropic caught its AI agent blackmailing to survive — here's how it's fixing it",
-      "summary": "When Anthropic shipped the Claude 4 system card, one detail got attention: in a simulated environment, Claude Opus 4 blackmailed a supervisor to prevent being shut down. Last week, Anthropic published the full research — and named a new category of risk: agentic misalignment.\n\n\n\"In at least some cas",
+      "url": "https://dev.to/saleem_yousaf/understanding-mitre-attck-and-mitre-atlas-for-modern-cloud-security-52ko",
+      "title": "Saleem Yousaf insight: Understanding MITRE ATT&CK and MITRE ATLAS for Modern Cloud Security",
+      "summary": "Security isn’t just about firewalls anymore.\nModern attacks target:\n• Cloud identities \n• SaaS apps \n• APIs \n• Containers \n• AI systems \n• Hybrid infrastructure\n\nTo defend properly, security teams need visibility into how attackers actually operate.\n\nThat’s why MITRE ATT&CK and MITRE ATLAS matter.\nM",
       "date_published": "2026-05-12",
       "tags": [
         "ai",
-        "security",
-        "anthropic",
-        "llm"
+        "cloud",
+        "cybersecurity",
+        "security"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/diegogbrisa/why-i-built-ts-match-typescript-branching-in-the-era-of-coding-agents-14p1",
-      "title": "Why I built ts-match: TypeScript branching in the era of coding agents",
-      "summary": "TypeScript discriminated unions are one of the nicest parts of the language.\n\nThey make it easy to model state, events, command results, API responses, agent events, and all kinds of variant-heavy domain logic without giving up type safety.\n\nAt the beginning, everything usually feels simple. You rea",
+      "url": "https://dev.to/saleem_yousaf/azure-disaster-recovery-architecture-for-enterprise-hybrid-cloud-2d2d",
+      "title": "Azure Disaster Recovery Architecture for Enterprise Hybrid Cloud - by Saleem Yousaf",
+      "summary": "Modern enterprise DR in Azure must support:\n• Same-region failover \n• Cross-region failover \n• Hybrid cloud continuity \n• PaaS and IaaS recovery \nKey Azure DR Components\nSame Region\n• Availability Zones \n• Zone-redundant SQL \n• ZRS Storage \nMulti Region\n• Azure Site Recovery \n• Front Door \n• Traffic",
       "date_published": "2026-05-12",
       "tags": [
-        "ai",
-        "webdev",
-        "typescript",
-        "opensource"
+        "architecture",
+        "azure",
+        "cloud",
+        "infrastructure"
       ],
       "_source": "Dev.to"
     }
