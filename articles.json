@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Bambu Lab is abusing the open source social contract",
-    "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 208\n# Comments: 84",
-    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "summary": "Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (https://www.hypercubic.ai/), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: https://news.ycombinator.com/item?id=45877517.) Today we’re launching Hopper, an agentic development environment for mainframes.",
+    "url": "https://www.hypercubic.ai/hopper",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Rendering the Sky, Sunsets, and Planets",
-    "summary": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 162\n# Comments: 13",
-    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+    "summary": "Hi HN, I’m Namanyay from Gigacatalyst (link: https://gigacatalyst.com/). Gigacatalyst allows sales, CS, and users to build one-off features, so your SaaS can support long-tail customer workflows and engineers aren’t pulled away from the roadmap.When you sell software to large businesses, you realize",
+    "url": "https://news.ycombinator.com/item?id=48110593",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-    "summary": "Article URL: https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship\nComments URL: https://news.ycombinator.com/item?id=48107024\nPoints: 0\n# Comments: 0",
-    "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+    "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/\nComments URL: https://news.ycombinator.com/item?id=48110529\nPoints: 118\n# Comments: 110",
+    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html\nComments URL: https://news.ycombinator.com/item?id=48106534\nPoints: 340\n# Comments: 280",
-    "url": "https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html",
+    "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
+    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible\nComments URL: https://news.ycombinator.com/item?id=48110021\nPoints: 132\n# Comments: 123",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Coursera and Udemy are now one company",
-    "summary": "Article URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/\nComments URL: https://news.ycombinator.com/item?id=48106367\nPoints: 129\n# Comments: 50",
-    "url": "https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
+    "title": "The Future of Obsidian Plugins",
+    "summary": "Article URL: https://obsidian.md/blog/future-of-plugins/\nComments URL: https://news.ycombinator.com/item?id=48109970\nPoints: 90\n# Comments: 48",
+    "url": "https://obsidian.md/blog/future-of-plugins/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Learning Software Architecture",
-    "summary": "Article URL: https://matklad.github.io/2026/05/12/software-architecture.html\nComments URL: https://news.ycombinator.com/item?id=48106024\nPoints: 362\n# Comments: 66",
-    "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+    "summary": "Hey HN, we're Alex and Tyler, co-founders of Voker.ai (https://voker.ai/), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our main product is a lightw",
+    "url": "https://voker.ai",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Screenshots of Old Desktop OSes",
-    "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 480\n# Comments: 221",
-    "url": "http://www.typewritten.org/Media/",
+    "title": "Why senior developers fail to communicate their expertise",
+    "summary": "Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise\nComments URL: https://news.ycombinator.com/item?id=48109460\nPoints: 47\n# Comments: 17",
+    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Extremely Low Frequencies",
-    "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 155\n# Comments: 13",
-    "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "title": "Bambu Lab is abusing the open source social contract",
+    "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 632\n# Comments: 220",
+    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Software Internals Book Club",
-    "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 156\n# Comments: 26",
-    "url": "https://eatonphil.com/bookclub.html",
+    "title": "Rendering the Sky, Sunsets, and Planets",
+    "summary": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 270\n# Comments: 21",
+    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -100,8 +100,213 @@
   },
   {
     "id": "010",
+    "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+    "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
+    "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Venture",
+      "Anthropic",
+      "secondary market"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
+    "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
+    "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "autonomous vehicles",
+      "Exclusive",
+      "potholes",
+      "Samsara"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+    "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+    "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Space",
+      "Alphabet",
+      "Google",
+      "orbital data centers",
+      "SpaceX"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+    "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+    "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "AI",
+      "Apps",
+      "Android",
+      "Google",
+      "gemini",
+      "agentic ai",
+      "google io",
+      "google io 2026"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
+    "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+    "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Claude",
+      "Harvey",
+      "legora"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Android adds a feature to stop you from doomscrolling",
+    "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
+    "url": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Apps",
+      "Android",
+      "doomscrolling",
+      "android 17"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Google unveils Googlebooks, a new line of AI-native laptops",
+    "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
+    "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Hardware",
+      "Gadgets",
+      "Google",
+      "laptops",
+      "googlebooks"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
+    "summary": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
+    "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Google brings agentic AI and vibe-coded widgets to Android",
+    "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
+    "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Chrome",
+      "Google",
+      "gemini"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Google launches new Android security feature to help uncover spyware attacks",
+    "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
+    "url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "Android",
+      "Google",
+      "hacking",
+      "Spyware",
+      "surveillance",
+      "cybersecurity",
+      "Amnesty International"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Indigo brings the open social web to one app",
+    "summary": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
+    "url": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Social",
+      "Bluesky",
+      "decentralized social media",
+      "Exclusive",
+      "Indigo",
+      "Mastodon",
+      "social media"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
+    "summary": "The bank said the security lapse was due to the use of an “unauthorized” AI software app.",
+    "url": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "AI",
+      "artificial intelligence",
+      "community bank",
+      "cybersecurity",
+      "data exposure"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Threads tests a Meta AI integration that works similarly to Grok",
+    "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
+    "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Meta",
+      "meta ai",
+      "Threads"
+    ]
+  },
+  {
+    "id": "023",
     "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-    "summary": "The round valued the three-year-old startup at $725 million.",
+    "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
     "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
     "date": "2026-05-12",
     "source": "TechCrunch",
@@ -114,7 +319,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "024",
     "title": "Waymo issues recall to deal with a flooding problem",
     "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
     "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
@@ -130,7 +335,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "025",
     "title": "Instructure strikes deal with hackers who breached it twice",
     "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
     "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
@@ -146,7 +351,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "026",
     "title": "Dessn raises $6M for its production focused design tool",
     "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
     "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
@@ -162,7 +367,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "027",
     "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
     "summary": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
     "url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
@@ -175,22 +380,7 @@
     ]
   },
   {
-    "id": "015",
-    "title": "AI is turning connected cars into pothole-finding machines",
-    "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-    "url": "https://techcrunch.com/2026/05/12/ai-is-turning-connected-cars-into-pothole-finding-machines/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "autonomous vehicles",
-      "Exclusive",
-      "potholes",
-      "Samsara"
-    ]
-  },
-  {
-    "id": "016",
+    "id": "028",
     "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
     "summary": "Spotify's new feature will show you the number of unique songs that you listened to until now",
     "url": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
@@ -204,7 +394,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "029",
     "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
     "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
     "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
@@ -222,189 +412,17 @@
     ]
   },
   {
-    "id": "018",
-    "title": "Amazon launches 30-minute delivery across the U.S.",
-    "summary": "Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.",
-    "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "Commerce",
-      "Amazon",
-      "commerce",
-      "e-commerce",
-      "online shopping"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
-    "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "interaction models",
-      "Mira Murati",
-      "Thinking Machines Lab"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "IPO",
-      "retail investors",
-      "Robinhood"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-    "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "date": "2026-05-12",
-    "source": "Ars Technica",
-    "tags": [
-      "AI",
-      "Amazon",
-      "syndication",
-      "tokens"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Once again, SpaceX has set a new record for the tallest rocket ever built",
-    "summary": "SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.",
-    "url": "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
-    "date": "2026-05-12",
-    "source": "Ars Technica",
-    "tags": [
-      "Science",
-      "Space",
-      "Commercial space",
-      "launch",
-      "spacex",
-      "Starbase",
-      "starship",
-      "starship flight 12"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "George Clooney, Tom Hanks, and Meryl Streep back new ‘Human Consent Standard’ for AI licensing",
-    "summary": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs. With the Human Consent Standard, people can set terms for the use of their work or likeness, includ",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "News",
-      "Tech",
-      "Web"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Rivian’s AI-powered voice assistant is ready to roll",
-    "summary": "Rivian's AI-powered voice assistant is rolling out today to the company's vehicle fleet. The assistant will be available through a software update to all compatible Rivian Gen 1 and Gen 2 vehicle owners who subscribe to the company's Connect Plus cellular service, which costs $15 a month or $150 a y",
-    "url": "https://www.theverge.com/transportation/928651/rivian-ai-voice-assistant-r1-r2",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Electric Cars",
-      "News",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Anker’s fast, foldable 3-in-1 charging station is back to its best price yet",
-    "summary": "Anker’s Prime Wireless Charging Station is a small, yet powerful 3-in-1 charger that can charge your iPhone, Apple Watch, and earbuds simultaneously, and now it’s on sale for $104.99 ($45 off) at Amazon, Best Buy, and Walmart. The price has only dropped this low one other time since it launched in F",
-    "url": "https://www.theverge.com/gadgets/928600/anker-prime-wireless-charging-station-jbl-flip-7-deal-sale",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Tech",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Google’s Aluminium OS revealed in 16-minute leaked video",
-    "summary": "Aluminium OS, Google's upcoming version of Android for PC, may have just leaked a few hours before Google's Android Show presentation. As Android Authority reports, leaker Mystic Leaks shared a 16-minute video on their Telegram channel that appears to show a lengthy hands-on demo of the new operatin",
-    "url": "https://www.theverge.com/tech/928598/google-aluminium-os-mystic-leaks-video",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Android",
-      "Google",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "There’s an internet choke point in the Middle East — is the solution in the North Pole?",
-    "summary": "The vast majority of the world's data - emails, financial transactions, the internet - is carried by fiber optic cables that run along the ocean floor and converge at a few narrow choke points. Periodically, policymakers will release reports noting that this arrangement seems risky, but these routes",
-    "url": "https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Report",
-      "Tech"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
-    "summary": "Following a limited test run in parts of Seattle and Philadelphia that started last December, Amazon Now is officially available to millions of Amazon shoppers across the United States. In addition to Seattle and Philadelphia, the 30-minute delivery service is now widely available in Atlanta and Dal",
-    "url": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Amazon",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Waymo recalls robotaxis for driving on flooded roads",
-    "summary": "Waymo is recalling its autonomous driving software that allowed its vehicles to drive on flooded roads. The recall affects 3,791 vehicles that operate using Waymo's fifth and sixth generation systems. In documents filed with the National Highway Traffic Safety Administration, the Alphabet-owned comp",
-    "url": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
-    "date": "2026-05-12",
-    "source": "The Verge",
-    "tags": [
-      "Autonomous Cars",
-      "News",
-      "Transportation",
-      "Waymo"
-    ]
-  },
-  {
     "id": "030",
-    "title": "Canvas owner reaches ‘agreement’ with hackers to secure stolen data",
-    "summary": "Instructure, the company behind the Canvas learning management platform, says it has \"reached an agreement\" with hackers that breached its systems last week to prevent stolen data from being leaked online. The ShinyHunters hacking group claimed responsibility for the attack before Canvas was briefly",
-    "url": "https://www.theverge.com/tech/928470/instructure-canvas-hack-shinyhunters-ransom-agreement",
+    "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
+    "summary": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
     "date": "2026-05-12",
-    "source": "The Verge",
+    "source": "Ars Technica",
     "tags": [
-      "News",
-      "Security",
-      "Tech"
+      "Policy",
+      "eBay",
+      "Gamestop",
+      "ryan cohen"
     ]
   }
 ]
