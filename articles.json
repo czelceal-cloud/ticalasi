@@ -1,6 +1,94 @@
 [
   {
     "id": "001",
+    "title": "The Rise of the Bullshittery",
+    "summary": "Article URL: https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/\nComments URL: https://news.ycombinator.com/item?id=48113079\nPoints: 19\n# Comments: 4",
+    "url": "https://xn--gckvb8fzb.com/the-rise-of-the-bullshittery/",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Unauthorized Anthropic stock sales and investment scams",
+    "summary": "Article URL: https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams\nComments URL: https://news.ycombinator.com/item?id=48112190\nPoints: 6\n# Comments: 1",
+    "url": "https://support.claude.com/en/articles/13704655-unauthorized-anthropic-stock-sales-and-investment-scams",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+    "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 104\n# Comments: 21",
+    "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we cond",
+    "url": "https://github.com/cactus-compute/needle",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Quack: The DuckDB Client-Server Protocol",
+    "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 42\n# Comments: 2",
+    "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
+    "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 33\n# Comments: 14",
+    "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Googlebook",
+    "summary": "https://www.reddit.com/r/Android/comments/1tb8xls/introducin...\n\nComments URL: https://news.ycombinator.com/item?id=48111545\nPoints: 285\n# Comments: 378",
+    "url": "https://googlebook.google/",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Canada’s Bill C-22 Is a Repackaged Version of Last Year’s Surveillance Nightmare",
+    "summary": "Article URL: https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare\nComments URL: https://news.ycombinator.com/item?id=48111531\nPoints: 93\n# Comments: 30",
+    "url": "https://www.eff.org/deeplinks/2026/05/canadas-bill-c-22-repackaged-version-last-years-surveillance-nightmare",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
     "title": "Show HN: Agentic interface for mainframes and COBOL",
     "summary": "Hi HN, we’re Sai and Aayush, and we’re building Hypercubic (https://www.hypercubic.ai/), bringing AI tools to the mainframe and COBOL world. (We did a Launch HN last year: https://news.ycombinator.com/item?id=45877517.) Today we’re launching Hopper, an agentic development environment for mainframes.",
     "url": "https://www.hypercubic.ai/hopper",
@@ -11,95 +99,59 @@
     ]
   },
   {
-    "id": "002",
-    "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-    "summary": "Hi HN, I’m Namanyay from Gigacatalyst (link: https://gigacatalyst.com/). Gigacatalyst allows sales, CS, and users to build one-off features, so your SaaS can support long-tail customer workflows and engineers aren’t pulled away from the roadmap.When you sell software to large businesses, you realize",
-    "url": "https://news.ycombinator.com/item?id=48110593",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/\nComments URL: https://news.ycombinator.com/item?id=48110529\nPoints: 118\n# Comments: 110",
-    "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "eBay Rejects GameStop's $56B Takeover as Not Credible",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible\nComments URL: https://news.ycombinator.com/item?id=48110021\nPoints: 132\n# Comments: 123",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "The Future of Obsidian Plugins",
-    "summary": "Article URL: https://obsidian.md/blog/future-of-plugins/\nComments URL: https://news.ycombinator.com/item?id=48109970\nPoints: 90\n# Comments: 48",
-    "url": "https://obsidian.md/blog/future-of-plugins/",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-    "summary": "Hey HN, we're Alex and Tyler, co-founders of Voker.ai (https://voker.ai/), an agent analytics platform for AI product teams. Voker gives full visibility into what users are asking of your agents, and whether your agents are delivering, without having to dig through logs. Our main product is a lightw",
-    "url": "https://voker.ai",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Why senior developers fail to communicate their expertise",
-    "summary": "Article URL: https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise\nComments URL: https://news.ycombinator.com/item?id=48109460\nPoints: 47\n# Comments: 17",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Bambu Lab is abusing the open source social contract",
-    "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/\nComments URL: https://news.ycombinator.com/item?id=48109224\nPoints: 632\n# Comments: 220",
-    "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Rendering the Sky, Sunsets, and Planets",
-    "summary": "Article URL: https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/\nComments URL: https://news.ycombinator.com/item?id=48107997\nPoints: 270\n# Comments: 21",
-    "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-    "date": "2026-05-12",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "010",
+    "title": "Testing UPS Output Waveforms",
+    "summary": "Article URL: https://www.lttlabs.com/articles/2026/05/12/ups-exploration\nComments URL: https://news.ycombinator.com/item?id=48110858\nPoints: 27\n# Comments: 19",
+    "url": "https://www.lttlabs.com/articles/2026/05/12/ups-exploration",
+    "date": "2026-05-12",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
+    "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
+    "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Venture",
+      "Kevin Hartz",
+      "Startups",
+      "A* Capital"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
+    "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
+    "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "Climate",
+      "Exclusive",
+      "heat pumps",
+      "Sadi Thermal Machines",
+      "scoop",
+      "Tesla"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+    "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+    "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "014",
     "title": "Anthropic warns investors against secondary platforms offering access to its shares",
     "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy or sell its shares.",
     "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
@@ -113,7 +165,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "015",
     "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
     "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
     "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
@@ -128,7 +180,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "016",
     "title": "Report: Google and SpaceX in talks to put data centers into orbit",
     "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
     "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
@@ -144,7 +196,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "017",
     "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
     "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
     "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
@@ -163,9 +215,9 @@
     ]
   },
   {
-    "id": "014",
-    "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-    "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+    "id": "018",
+    "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+    "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
     "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
     "date": "2026-05-12",
     "source": "TechCrunch",
@@ -178,7 +230,23 @@
     ]
   },
   {
-    "id": "015",
+    "id": "019",
+    "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+    "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
+    "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+    "date": "2026-05-12",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Apps",
+      "ai dictation",
+      "gemini",
+      "Google",
+      "Wispr flow"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Android adds a feature to stop you from doomscrolling",
     "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
     "url": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
@@ -193,7 +261,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "021",
     "title": "Google unveils Googlebooks, a new line of AI-native laptops",
     "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
     "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
@@ -208,7 +276,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "022",
     "title": "Google’s ‘Create My Widget’ feature will let you vibe code your own widgets",
     "summary": "The new feature will first launch on the latest Samsung Galaxy and Google Pixel phones this summer.",
     "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
@@ -221,7 +289,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "023",
     "title": "Google brings agentic AI and vibe-coded widgets to Android",
     "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
     "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
@@ -236,7 +304,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "024",
     "title": "Google launches new Android security feature to help uncover spyware attacks",
     "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
     "url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
@@ -254,7 +322,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "025",
     "title": "Indigo brings the open social web to one app",
     "summary": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
     "url": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
@@ -272,23 +340,22 @@
     ]
   },
   {
-    "id": "021",
-    "title": "U.S. bank disclose security lapse after sharing customer data with AI app",
-    "summary": "The bank said the security lapse was due to the use of an “unauthorized” AI software app.",
-    "url": "https://techcrunch.com/2026/05/12/u-s-bank-disclose-security-lapse-after-sharing-customer-data-with-ai-app/",
+    "id": "026",
+    "title": "US bank discloses security lapse after sharing customer data with AI app",
+    "summary": "Community Bank, which operates in Pennsylvania, Ohio, and West Virginia, disclosed a cybersecurity incident that exposed customers’ names, dates of birth, and Social Security numbers.",
+    "url": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
     "date": "2026-05-12",
     "source": "TechCrunch",
     "tags": [
       "Security",
-      "AI",
-      "artificial intelligence",
       "community bank",
       "cybersecurity",
-      "data exposure"
+      "data exposure",
+      "In Brief"
     ]
   },
   {
-    "id": "022",
+    "id": "027",
     "title": "Threads tests a Meta AI integration that works similarly to Grok",
     "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
     "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
@@ -304,7 +371,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "028",
     "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
     "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
     "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
@@ -319,7 +386,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "029",
     "title": "Waymo issues recall to deal with a flooding problem",
     "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
     "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
@@ -335,7 +402,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "030",
     "title": "Instructure strikes deal with hackers who breached it twice",
     "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
     "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
@@ -348,81 +415,6 @@
       "instructure",
       "school",
       "shinyhunters"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Dessn raises $6M for its production focused design tool",
-    "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases.",
-    "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "BetaWorks",
-      "design",
-      "Figma",
-      "Dessn"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "TikTok now wants to be the place you book the trip you just saw on TikTok",
-    "summary": "TikTok is systematically converting its discovery engine into a transaction layer, which both deepens user retention and opens entirely new revenue streams for its new owners.",
-    "url": "https://techcrunch.com/2026/05/12/tiktok-now-wants-to-be-the-place-you-book-the-trip-you-just-saw-on-tiktok/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Social",
-      "TikTok"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Spotify’s launches a Wrapped-style recap of your entire listening history",
-    "summary": "Spotify's new feature will show you the number of unique songs that you listened to until now",
-    "url": "https://techcrunch.com/2026/05/12/spotifys-launches-a-wrapped-style-recap-of-your-entire-listening-history/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Spotify",
-      "music streaming",
-      "spotify wrapped"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "date": "2026-05-12",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Bessemer Venture Partners",
-      "Kleiner Perkins",
-      "Exclusive",
-      "M12",
-      "Peak XV Partners",
-      "Vapi",
-      "Amazon Ring"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "eBay rejects GameStop's $56B offer: \"Your proposal is neither credible nor attractive\"",
-    "summary": "eBay board doubts GameStop's ability to buy and operate the much larger firm.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/ebay-rejects-gamestops-56b-offer-your-proposal-is-neither-credible-nor-attractive/",
-    "date": "2026-05-12",
-    "source": "Ars Technica",
-    "tags": [
-      "Policy",
-      "eBay",
-      "Gamestop",
-      "ryan cohen"
     ]
   }
 ]
