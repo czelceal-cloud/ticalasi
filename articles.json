@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Extremely Low Frequencies",
-    "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 5\n# Comments: 0",
-    "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
+    "title": "Screenshots of Old Desktop OSes",
+    "summary": "Article URL: http://www.typewritten.org/Media/\nComments URL: https://news.ycombinator.com/item?id=48104428\nPoints: 75\n# Comments: 20",
+    "url": "http://www.typewritten.org/Media/",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Productivity isn't about going faster",
-    "summary": "Article URL: https://humanpro.co/articles/productivity-isnt-about-going-faster/\nComments URL: https://news.ycombinator.com/item?id=48103871\nPoints: 34\n# Comments: 9",
-    "url": "https://humanpro.co/articles/productivity-isnt-about-going-faster/",
+    "title": "Extremely Low Frequencies",
+    "summary": "Article URL: https://computer.rip/2026-05-09-extremely-low-frequencies.html\nComments URL: https://news.ycombinator.com/item?id=48104041\nPoints: 52\n# Comments: 1",
+    "url": "https://computer.rip/2026-05-09-extremely-low-frequencies.html",
     "date": "2026-05-12",
     "source": "Hacker News",
     "tags": [
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Software Internals Book Club",
-    "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 49\n# Comments: 10",
+    "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 82\n# Comments: 13",
     "url": "https://eatonphil.com/bookclub.html",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "Claude Platform on AWS",
-    "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 97\n# Comments: 43",
+    "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 120\n# Comments: 55",
     "url": "https://claude.com/blog/claude-platform-on-aws",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -46,7 +46,7 @@
   {
     "id": "005",
     "title": "They Live (1988) inspired Adblocker",
-    "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 104\n# Comments: 18",
+    "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 183\n# Comments: 47",
     "url": "https://github.com/davmlaw/they_live_adblocker",
     "date": "2026-05-12",
     "source": "Hacker News",
@@ -288,126 +288,126 @@
   },
   {
     "id": "022",
-    "title": "Gemini CLI: Google's Free AI Agent for Your Terminal 🚀",
-    "summary": "Overview\n\n\nHey everyone 👋\n\nGoogle recently dropped something that's been flying under the radar: Gemini CLI, a free, open source AI agent that brings the power of Gemini directly into your terminal. While everyone's been debating Cursor vs Claude Code, Google quietly built a terminal AI that's actua",
-    "url": "https://dev.to/playfulprogramming/gemini-cli-googles-free-ai-agent-for-your-terminal-1blj",
+    "title": "SASL-OAuthbearer with AWS Lambda: How I Stopped Fighting Kafka Auth at 2am",
+    "summary": "TL;DR: The thing that caught me off guard was how silent the failure was.  My Lambda function was trying to connect to an MSK cluster, the connection timed out, and the only thing in CloudWatch was `org.\n\n\n📖 Reading time: ~31 min\n\n\n  \n  \n  What's in this article\n\n\n\nThe Problem That Sent Me Down This",
+    "url": "https://dev.to/ericwoooo_kr/sasl-oauthbearer-with-aws-lambda-how-i-stopped-fighting-kafka-auth-at-2am-13ib",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "aws",
+      "cloud",
+      "devops",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Hiring the Backend Engineer Who Reduces Operational Risk",
+    "summary": "Hiring the Backend Engineer Who Reduces Operational Risk\n\n\n\n  \n  \n  Hiring the Backend Engineer Who Reduces Operational Risk\n\n\nThe operational risk this application is designed to reduce is the quiet kind: hiring a remote backend developer who can ship code, but cannot make production safer without ",
+    "url": "https://dev.to/brita_liu_a42b1195b225ee8/hiring-the-backend-engineer-who-reduces-operational-risk-h3m",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "quest",
+      "proof"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Your agent doesn't remember anything. Persistence isn't memory.",
+    "summary": "A customer support agent that forgets a user's billing conversation from two days ago isn't broken — it's just missing memory. Not persistence. Not idempotency. Memory. And they're not the same thing.\n\nThat's the argument Ed Huang (CEO of PingCAP) makes in a sharp piece on The New Stack, and it's wo",
+    "url": "https://dev.to/thegatewayguy/your-agent-doesnt-remember-anything-persistence-isnt-memory-2a35",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "database",
+      "agents",
+      "webdev"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Automate to Keep Up: How to Stop Drowning in GitHub Issues",
+    "summary": "You maintain an open source project. You love it. You also have a job, a life, and approximately zero spare hours.\n\nIssues pile up untriaged. A contributor opens a PR, gets no response for two weeks, and goes quiet. Someone files a bug with a one-line description. The good-first-issue label never ge",
+    "url": "https://dev.to/oscdev/automate-to-keep-up-how-to-stop-drowning-in-github-issues-44np",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "opensource",
+      "ai",
+      "productivity",
+      "devops"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Top Agent Gateway Platforms for Production AI Systems",
+    "summary": "AI agents are evolving fast.\n\nA few months ago, most teams were still experimenting with simple chatbots or retrieval pipelines. Now, companies are building systems where agents can reason across multiple steps, call tools, access databases, trigger workflows, and collaborate with other agents.\n\nTha",
+    "url": "https://dev.to/therealmrmumba/top-agent-gateway-platforms-for-production-ai-systems-5ejh",
     "date": "2026-05-12",
     "source": "Dev.to",
     "tags": [
       "ai",
       "productivity",
-      "gemini",
-      "programming"
+      "webdev",
+      "javascript"
     ]
   },
   {
-    "id": "023",
-    "title": "Automating Storyblok with PHP: A Practical Guide to the Management API Client",
-    "summary": "Learn how to use the Storyblok PHP Management API Client to automate stories, assets, workflows, references, CSV imports, and content operations in Storyblok.\n\n\nStoryblok gives developers and content teams a visual CMS, structured content, and APIs for delivery and management. Most projects start wi",
-    "url": "https://dev.to/robertobutti/automating-storyblok-with-php-a-practical-guide-to-the-management-api-client-aka",
+    "id": "027",
+    "title": "Vertical Cognitive Depth and Structured Reasoning: A Practical Hypothesis for Robust Behavior Beyond Training Data",
+    "summary": "Most modern AI systems look impressive—until the problem shifts slightly. A small change in context, a new combination of known elements, or an implicit contradiction is often enough to break otherwise strong models. This article explores a concrete hypothesis: that robustness under such shifts depe",
+    "url": "https://dev.to/__272d48f2ed/vertical-cognitive-depth-and-structured-reasoning-a-practical-hypothesis-for-robust-behavior-2h06",
     "date": "2026-05-12",
     "source": "Dev.to",
     "tags": [
-      "php",
-      "storyblok",
-      "tutorial",
-      "automation"
+      "ai",
+      "machinelearning",
+      "reasoning",
+      "deeplearning"
     ]
   },
   {
-    "id": "024",
-    "title": "Open-Design + Lynkr: Run a Local AI Design Studio for Free",
-    "summary": "Open-Design + Lynkr: Run a Local AI Design Studio for Free\n\n\nHow to wire up a self-hosted design generation stack that rivals Figma's AI features — without sending your work to a third-party cloud.\n\n\n\n\nThere is a quiet corner of the open-source world where two tools have been evolving in parallel, e",
-    "url": "https://dev.to/vishal_veerareddy_9cdd17d/open-design-lynkr-run-a-local-ai-design-studio-for-free-450n",
+    "id": "028",
+    "title": "How to deployed a virtual machine on azure.",
+    "summary": "This article is all about the simple steps to take when deploying a virtual machine in azure. virtual machines are useful because it lets you use a computer inside the cloud instead of depending only on a physical laptop or desktop. so lets get this done with the following steps\n\n\n\nstep 1 first we m",
+    "url": "https://dev.to/sammyhigh5/how-i-deployed-a-virtual-machine-on-azure-36mm",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "azure",
+      "beginners",
+      "cloud",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "Anthropic caught its AI agent blackmailing to survive — here's how it's fixing it",
+    "summary": "When Anthropic shipped the Claude 4 system card, one detail got attention: in a simulated environment, Claude Opus 4 blackmailed a supervisor to prevent being shut down. Last week, Anthropic published the full research — and named a new category of risk: agentic misalignment.\n\n\n\"In at least some cas",
+    "url": "https://dev.to/thegatewayguy/anthropic-caught-its-ai-agent-blackmailing-to-survive-heres-how-its-fixing-it-21h9",
+    "date": "2026-05-12",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "security",
+      "anthropic",
+      "llm"
+    ]
+  },
+  {
+    "id": "030",
+    "title": "Why I built ts-match: TypeScript branching in the era of coding agents",
+    "summary": "TypeScript discriminated unions are one of the nicest parts of the language.\n\nThey make it easy to model state, events, command results, API responses, agent events, and all kinds of variant-heavy domain logic without giving up type safety.\n\nAt the beginning, everything usually feels simple. You rea",
+    "url": "https://dev.to/diegogbrisa/why-i-built-ts-match-typescript-branching-in-the-era-of-coding-agents-14p1",
     "date": "2026-05-12",
     "source": "Dev.to",
     "tags": [
       "ai",
       "webdev",
-      "programming",
-      "productivity"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Designing Conversational Infrastructure for AI Agents: Context Forking, Rate Limiting, and Identity Rotation",
-    "summary": "AI agents are becoming a new interface for handling inbound messages.\n\nInstead of opening an inbox, scanning dozens of conversations, deciding which ones matter, and manually typing replies, a user can now say something like:\n\n\nCheck my recent messages for new leads.\n\n\nIn Opportunity Skill, the user",
-    "url": "https://dev.to/innovationsiyu/designing-conversational-infrastructure-for-ai-agents-context-forking-rate-limiting-and-identity-41nj",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "postgres",
-      "agentskills",
-      "architecture",
-      "python"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "The $20,000 'Recruiter Tax': How I Bypassed Job Boards to Negotiate a 25% Salary Bump",
-    "summary": "Stop being a resume in a pile and start selling your value directly to the decision-makers.\n\n“We’ve decided to move forward with other candidates.”\n\nHow many times have you closed a generic rejection email from a recruiter, feeling like your resume just fell into a black hole? I’ve been there. When ",
-    "url": "https://dev.to/_07a306f4bf233eecbc3a/the-20000-recruiter-tax-how-i-bypassed-job-boards-to-negotiate-a-25-salary-bump-2e43",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "careeradvice",
-      "salarynegotiation",
-      "jobhunting",
-      "personalfinance"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "MongoDB Query Practice Guide with Real Job Portal Dataset",
-    "summary": "Overview\n\n\nRecently, I practiced MongoDB queries using a sample Job Portal database.\n\nInstead of learning operators in isolation, I used a realistic Job Portal dataset to better understand how MongoDB queries work in real-world applications.\n\n\n\n\n\n  \n  \n  Dataset Structure\n\n\nA sample jobs collection ",
-    "url": "https://dev.to/ns_noman/mongodb-query-practice-guide-with-real-job-portal-dataset-5e92",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "mongodb",
-      "backend",
-      "node",
-      "webdev"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "🌱 Four Years of Growth on GitHub and a Month of Giving Back 🤝",
-    "summary": "Hello everyone!! It’s been quite a few days since I last posted, I got occupied with stuff, but I’ve got something really special for you all!\n\n\n  \n  \n  🎉 GitHub Anniversary Month: May 12 – June 12, 2026\n\n\nMay 12, 2026 marks my 4th GitHub anniversary! I started my journey on May 12, 2022, and the gr",
-    "url": "https://dev.to/madhurima_rawat/four-years-of-growth-on-github-and-a-month-of-giving-back-26n",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "github",
-      "beginners",
-      "tutorial",
-      "discuss"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Why Your Code Breaks in Production (and How Docker Fixes It)",
-    "summary": "1. Why This Matters\n\n\nYou write your code.\nYou test it locally.\nEverything works perfectly.\n\nThen it goes to production… and breaks.\n\nYou spend hours debugging, only to realize:\nnothing is wrong with your code — the environment is the problem.\n\nIn data engineering, this happens all the time:\n\n\nA Spa",
-    "url": "https://dev.to/anthony-gicheru/why-your-code-breaks-in-production-and-how-docker-fixes-it-3meo",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "containers",
-      "docker",
-      "devops"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "I Built a Local-First Alternative to LangSmith After Spending $200 Debugging a Pipeline I Couldn't See | Shivnath Tathe",
-    "summary": "Last month I spent $200 on OpenAI tokens debugging a RAG pipeline. I had no idea which step was eating my budget. LangSmith would have helped — but I didn't want to send my prompts to a cloud service just to debug locally.\n\nSo I built opensmith.\n\n\n  \n  \n  What is opensmith?\n\n\nA local-first LLM pipel",
-    "url": "https://dev.to/shivnathtathe/i-built-a-local-first-alternative-to-langsmith-after-spending-200-debugging-a-pipeline-i-couldnt-mpm",
-    "date": "2026-05-12",
-    "source": "Dev.to",
-    "tags": [
-      "python",
-      "llm",
-      "openai",
+      "typescript",
       "opensource"
     ]
   }
