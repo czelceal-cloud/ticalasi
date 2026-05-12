@@ -7,6 +7,61 @@
   "items": [
     {
       "id": "001",
+      "url": "https://eatonphil.com/bookclub.html",
+      "title": "Software Internals Book Club",
+      "summary": "Article URL: https://eatonphil.com/bookclub.html\nComments URL: https://news.ycombinator.com/item?id=48103511\nPoints: 11\n# Comments: 1",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/",
+      "title": "Fake building: Claude wrote 3k lines instead of import pywikibot",
+      "summary": "Article URL: https://fireflysentinel.github.io/posts/fake-building-claude-3000-lines/\nComments URL: https://news.ycombinator.com/item?id=48103459\nPoints: 31\n# Comments: 15",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "title": "Claude Platform on AWS",
+      "summary": "Article URL: https://claude.com/blog/claude-platform-on-aws\nComments URL: https://news.ycombinator.com/item?id=48103042\nPoints: 50\n# Comments: 28",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://github.com/davmlaw/they_live_adblocker",
+      "title": "They Live (1988) inspired Adblocker",
+      "summary": "Article URL: https://github.com/davmlaw/they_live_adblocker\nComments URL: https://news.ycombinator.com/item?id=48102700\nPoints: 41\n# Comments: 2",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://www.npmjs.com/package/@gkiely/safe-install",
+      "title": "Show HN: Safe-install – safer NPM installs with trusted build dependencies",
+      "summary": "In light of the ongoing npm supply chain compromises, I built safe-install:https://www.npmjs.com/package/@gkiely/safe-installIt brings a couple of protections I wanted from npm but are not built in.Similar to Bun’s trusted dependencies, it lets you disable install scripts by default and define a lis",
+      "date_published": "2026-05-12",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
       "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
@@ -22,233 +77,178 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
-      "url": "https://dev.to/anand_rathnas_d5b608cc3de/why-we-removed-ads-from-our-free-tools-and-put-them-only-on-blog-posts-2k7j",
-      "title": "Why We Removed Ads from Our Free Tools (And Put Them Only on Blog Posts)",
-      "summary": "This article was originally published on Jo4 Blog.\n\n\nWe built a suite of free developer tools: JSON formatter, JWT decoder, QR generator, UTM builder, and about a dozen others.\n\nThen we added AdSense to every page.\n\nThen we removed it from most of them.\n\nHere's why.\n\n\n  \n  \n  The Original Plan\n\n\nThe",
-      "date_published": "2026-05-12",
-      "tags": [
-        "webdev",
-        "adsense",
-        "ux",
-        "monetization"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "003",
-      "url": "https://dev.to/tian_83bd87e21f501544588a/how-i-practice-chinese-typing-as-a-developer-4je9",
-      "title": "How I practice Chinese typing as a developer",
-      "summary": "I work across English and Chinese codebases — internal docs, commit messages, customer support replies — and for a long time my Chinese typing speed was a real bottleneck. I could read characters fine, but typing them in pinyin felt like four times slower than English. That's a non-trivial tax when ",
+      "id": "007",
+      "url": "https://dev.to/hamzahassanain0/the-lie-of-time-management-why-your-energy-is-the-real-bottleneck-4lc6",
+      "title": "The Lie of Time Management: Why Your Energy is the Real Bottleneck",
+      "summary": "I recently tried a very foolish experiment. I decided to overwhelm myself with a massive workload to force myself to learn better time management. Between juggling university coursework, optimizing cloud infrastructure for Repovive, and grinding through AWS architecture study sessions, I mapped out ",
       "date_published": "2026-05-12",
       "tags": [
         "productivity",
-        "learning",
-        "tools",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "004",
-      "url": "https://dev.to/arjun-zosma/why-we-built-dhara-an-open-protocol-standard-for-ai-agents-not-another-product-4n8i",
-      "title": "Why We Built Dhara — An Open Protocol Standard for AI Agents, Not Another Product",
-      "summary": "Coding agents today are products, not platforms. Every single one ships as a bloated, all-in-one package that forces you into its way of working. Claude Code wants you to use their plugin system. Codex wants you to use their workspace model. Pi wants you to write TypeScript extensions. Opencode want",
-      "date_published": "2026-05-12",
-      "tags": [
-        "opensource",
-        "ai",
-        "agents",
-        "protocol"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "005",
-      "url": "https://dev.to/merbayerp/sqlite-and-concurrency-the-lockout-experienced-at-islistesicom-405o",
-      "title": "SQLite and Concurrency: The Lockout Experienced at islistesi.com",
-      "summary": "SQLite and Concurrency: The Lockout Experienced at islistesi.com\n\n\nA few weeks ago, the SQLite database I use to ensure data consistency in a production ERP system gave me serious trouble with an unexpected lockout (lock) issue. Specifically, I encountered situations where certain operations would g",
-      "date_published": "2026-05-12",
-      "tags": [
-        "technology",
-        "sqlite",
-        "concurrency",
-        "database"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/yqqwe/engineering-a-high-performance-reddit-video-downloader-decoding-dash-hls-and-client-side-11ke",
-      "title": "Engineering a High-Performance Reddit Video Downloader: Decoding DASH, HLS, and Client-Side Transmuxing",
-      "summary": "As developers, we often perceive video downloading as a simple GET request to a .mp4 URL. However, modern social media giants like Reddit have moved far beyond static file hosting. Today, Reddit employs sophisticated Adaptive Bitrate Streaming (ABS) to optimize bandwidth and user experience.\nIn this",
-      "date_published": "2026-05-12",
-      "tags": [
-        "webdev",
         "programming",
-        "reddit",
-        "video"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/basicscandal/i-built-a-skin-system-for-claude-code-heres-how-it-works-4pdi",
-      "title": "I Built a Skin System for Claude Code — Here's How It Works",
-      "summary": "Claude Code is genuinely remarkable. But if you've been using it for more than a week, you've noticed something: everyone's terminal looks identical. Same colors, same layout, same feel. You could screenshot my session or yours and there'd be no way to tell them apart.\n\nThat bothered me more than it",
-      "date_published": "2026-05-12",
-      "tags": [
-        "claude",
-        "ai",
-        "terminal",
-        "opensource"
+        "challenge",
+        "vibecoding"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/pandey-raghvendra/visualize-infracost-on-your-architecture-diagram-1fmg",
-      "title": "Visualize Infracost on Your Architecture Diagram",
-      "summary": "Infracost estimates your monthly cloud bill from Terraform code before you deploy. But its output — a long table of resource costs in the terminal — makes it hard to see which part of your architecture is driving spend. Is it the database? The NAT gateway? The EC2 fleet?\n\nInfraSketch's cost overlay ",
+      "url": "https://dev.to/taskdude/day-1545-building-a-workforce-management-saas-in-public-49bn",
+      "title": "Day 15/45 — Building a Workforce Management SaaS in Public",
+      "summary": "At Taskdudes, our team is currently building a workforce management SaaS focused on simplifying employee operations for businesses.\n\nThe core problem we’re solving:\nMost companies rely on multiple disconnected tools for scheduling, attendance tracking, employee management, and invoicing. That create",
       "date_published": "2026-05-12",
       "tags": [
-        "infracostdiagram",
-        "visualizeinfracost",
-        "infracostarchitecturediagram",
-        "terraformcostdiagram"
+        "buildinpublic",
+        "devjournal",
+        "saas",
+        "startup"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/alanwest/how-to-verify-ai-discovered-vulnerabilities-arent-just-training-data-echoes-1f50",
-      "title": "How to verify AI-discovered vulnerabilities aren't just training data echoes",
-      "summary": "The setup\n\n\nLast month a friend DM'd me a screenshot. An AI security agent had \"discovered\" a vulnerability in a popular open-source project. The agent walked through exploitation steps, suggested a patch, the whole nine yards. Looked legit.\n\nThen someone pointed out the CVE ID it kept almost-quotin",
+      "url": "https://dev.to/syslayer/coding-cat-oran-s2-ep3-the-auditor-arrives-mfo",
+      "title": "Coding Cat Oran S2 Ep3 — The Auditor Arrives",
+      "summary": "She doesn't look at the machines.\nShe looks at the filing cabinets.\n\n\n\n\nHer name is Ms. Chen.\n\nShe arrives at 9am with a rolling carry-on bag,\nan iPad in a hard case,\nand the specific kind of calm that belongs to people\nwho have seen this before.\n\nMany times before.\n\n\n\n\nThe plant manager gives her a",
       "date_published": "2026-05-12",
       "tags": [
-        "ai",
-        "security",
-        "llm",
-        "devops"
+        "webdev",
+        "career",
+        "sql",
+        "database"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/pandey-raghvendra/github-action-auto-post-architecture-diagrams-on-iac-prs-47l9",
-      "title": "GitHub Action: Auto-Post Architecture Diagrams on IaC PRs",
-      "summary": "Every time your team opens a pull request that changes Terraform, Kubernetes, Bicep, or any other IaC file, reviewers face the same problem: they have to mentally simulate what the code change does to the actual infrastructure. The InfraSketch GitHub Action solves this by automatically posting a cli",
+      "url": "https://dev.to/booleanhunter/why-does-paying-more-make-your-llm-reply-faster-3lfn",
+      "title": "Why does paying more make your LLM reply faster?",
+      "summary": "Why does Claude respond faster when you pay more? And why does a longer conversation cost disproportionately more than a short one?\n\nFor the longest time I simply accepted these as \"it's just how it works\". Like most engineers, I burn through Claude and GPT tokens all day and assumed \"longer prompts",
       "date_published": "2026-05-12",
       "tags": [
-        "terraformprdiagramgithubaction",
-        "infrastructurediagrampullreque",
-        "terraformdiagramcicd",
-        "githubactionarchitecturediagra"
+        "ai",
+        "discuss",
+        "llm",
+        "deeplearning"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/pandey-raghvendra/visualize-checkov-results-on-your-architecture-diagram-42ed",
-      "title": "Visualize Checkov Results on Your Architecture Diagram",
-      "summary": "Checkov finds hundreds of misconfigurations in your Terraform, Kubernetes, and CloudFormation code — but its output is a wall of terminal text. Resource names like aws_s3_bucket.data_lake and check IDs like CKV_AWS_18 don't tell you much when you're looking at 60 resources across 12 files.\n\nInfraSke",
+      "url": "https://dev.to/chrisherlein/the-tunnel-vision-effect-and-the-eclipse-of-a-priori-judgment-in-the-age-of-ai-23ea",
+      "title": "The \"Tunnel Vision\" Effect and the Eclipse of A Priori Judgment in the Age of AI",
+      "summary": "As developers, we have always sought tools to optimize our workflow. However, the massive integration of Generative AI is not merely a change in tooling; it is a shift in our cognitive paradigm.\n\nLately, I have been reflecting on how this technology is altering our approach to complex problem-solvin",
       "date_published": "2026-05-12",
       "tags": [
-        "checkovdiagram",
-        "visualizecheckovresults",
-        "checkovterraformdiagram",
-        "iacsecuritydiagram"
+        "softwareengineering",
+        "computerscience",
+        "generativeai",
+        "philosophyoftech"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/raihan-js/three-small-models-for-healthcare-intake-and-what-shipping-all-three-taught-me-71l",
-      "title": "Three small models for healthcare intake — and what shipping all three taught me",
-      "summary": "Two months ago I started a portfolio project: build three small specialized language models for healthcare practice intake, benchmark each one honestly against frontier APIs, and write about what I learned. The goal was to build the case that small specialized models still have a place in the 2026 t",
+      "url": "https://dev.to/manojsatna31/case-file-21-the-prompt-and-pray-conspiracy-4bbp",
+      "title": "⚖️ Case File 2.1: The Prompt-and-Pray Conspiracy",
+      "summary": "The AI Syndicate\n\n\nAI doesn't make you a better engineer; it makes you a faster version of whoever you already are. If you’re a \"Software Criminal,\" it just makes you a Serial Offender.\n\n\nIn our transition to Agentic Development, we’ve entered a dangerous era. With 17+ years in tech, I’ve seen the s",
       "date_published": "2026-05-12",
       "tags": [
-        "machinelearning",
-        "healthcare",
-        "ai",
-        "python"
+        "webdev",
+        "programming",
+        "productivity",
+        "beginners"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/rcsxplatform/rcs-business-messaging-5-templates-you-can-use-today-json-validation-checklist-4f52",
-      "title": "RCS Business Messaging: 5 Templates You Can Use Today (JSON + Validation Checklist)",
-      "summary": "RCS Business Messaging: 5 Templates You Can Use Today\n\n\nBuilding for RCS? The GSMA Universal Profile is 200+ pages. Most developers just need working templates and a validation checklist.\n\nAfter building RCS X — an RCS emulator for developers — we distilled the most useful patterns into this guide.\n",
+      "url": "https://dev.to/pendelabhargavasai/kubernetes-cni-complete-guide-flannel-vs-cilium-vs-calico-cloud-provider-cnis-5c6c",
+      "title": "Kubernetes CNI Complete Guide: Flannel vs Cilium vs Calico + Cloud Provider CNIs",
+      "summary": "K3s v1.29+  |  Flannel v0.24+  |  Cilium v1.15+  |  Calico v3.27+  |  AWS VPC CNI v1.18+  |  Azure CNI v1.5+  |  GKE Dataplane V2 (Cilium-based)\n\n\nA definitive comparison of every major Kubernetes CNI — open-source plugins (Flannel, Calico, Cilium, Weave, Antrea, Multus) and cloud-managed defaults (",
       "date_published": "2026-05-12",
       "tags": [
-        "rcs",
-        "api",
-        "templates",
-        "businessmessaging"
+        "kubernetes",
+        "networking",
+        "cni",
+        "devops"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification",
-      "title": "Can we code our way out of gentrification?",
-      "summary": "Article URL: https://www.freerange.city/p/can-we-code-our-way-out-of-gentrification\nComments URL: https://news.ycombinator.com/item?id=48102360\nPoints: 11\n# Comments: 32",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/alanwest/migrating-off-google-analytics-umami-vs-plausible-vs-fathom-36gc",
+      "title": "Migrating Off Google Analytics: Umami vs Plausible vs Fathom",
+      "summary": "The wake-up call I didn't ask for\n\n\nLast week the TanStack folks reported what appears to be a compromise affecting some of their NPM packages (the details are still being sorted out in issue #7383 — read it yourself before drawing conclusions). I won't rehash the postmortem here. What I want to tal",
+      "date_published": "2026-05-12",
       "tags": [
-        "Hacker News"
+        "webdev",
+        "analytics",
+        "privacy",
+        "opensource"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
-      "title": "Griffin PowerMate driver for modern macOS",
-      "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver\nComments URL: https://news.ycombinator.com/item?id=48100970\nPoints: 39\n# Comments: 14",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/sphurthi_edara/fixing-xslt-import-issues-in-mulesoft-works-in-local-but-fails-in-rtf-runtime-3bi0",
+      "title": "Fixing XSLT Import Issues in MuleSoft (Works in Local but Fails in RTF Runtime)",
+      "summary": "Fixing XSLT Import Issues in MuleSoft\n(Works in Local but Fails in RTF Runtime)\n\nIntroduction\nXSLT (Extensible Stylesheet Language Transformations) is used to transform XML data from one format into another during application integrations.\nWhile working on a MuleSoft integration project, I faced a c",
+      "date_published": "2026-05-12",
       "tags": [
-        "Hacker News"
+        "mulesoft",
+        "xslt",
+        "runtimefabric",
+        "xslttranformation"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "title": "Postmortem: TanStack npm supply-chain compromise",
-      "summary": "https://github.com/TanStack/router/issues/7383\n\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 526\n# Comments: 188",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/eboo_liu_9efb3e67fdadcaef/i-built-a-local-first-ssh-sftp-workspace-for-developers-469j",
+      "title": "I Built a Local-First SSH + SFTP Workspace for Developers",
+      "summary": "Most SSH tools solve the connection problem.\n\nI wanted to solve the workflow around the connection.\n\nWhen I manage servers, the work rarely stops at \"open a terminal.\" I usually need to connect over SSH, move files with SFTP, check whether the server is under pressure, open or edit remote files, rec",
+      "date_published": "2026-05-12",
       "tags": [
-        "Hacker News"
+        "opensource",
+        "ssh",
+        "electron",
+        "devops"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-      "title": "I let AI build a tool to help me figure out what was waking me up at night",
-      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\nComments URL: https://news.ycombinator.com/item?id=48100662\nPoints: 68\n# Comments: 68",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/vincent_davis_7b6665836a9/membangun-observability-gbim-dari-correlation-id-sampai-dashboard-k6-yang-terisi-3aj1",
+      "title": "Building GBIM Observability From Correlation IDs to a Populated k6 Dashboard",
+      "summary": "Summary\n\n\nIn this iteration, I improved the observability of GBIM on both the backend and frontend, based on the latest origin/staging branch. The focus is not just on installing monitoring tools. It is about ensuring that operational data relevant to the application's workflow actually appears in P",
+      "date_published": "2026-05-12",
       "tags": [
-        "Hacker News"
+        "devops",
+        "monitoring",
+        "performance",
+        "sre"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://thinkingmachines.ai/blog/interaction-models/",
-      "title": "Interaction Models",
-      "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 88\n# Comments: 9",
-      "date_published": "2026-05-11",
+      "url": "https://dev.to/perufitlife/how-i-shipped-the-rewriter-side-of-an-ai-tell-detector-in-30-minutes-claude-nextjs-vercel-13g0",
+      "title": "How I shipped the rewriter side of an AI tell detector in 30 minutes (Claude + Next.js + Vercel)",
+      "summary": "Yesterday I shipped a free detector for the 12 most reliable AI writing fingerprints. The story behind it: my reddit account got 2 public \"all comments are AI generated\" callouts in one day. Mods removed 3 posts. I was running everything through Claude. The em-dashes and \"delve\" gave me away in seco",
+      "date_published": "2026-05-12",
       "tags": [
-        "Hacker News"
+        "ai",
+        "nextjs",
+        "claude",
+        "indiehackers"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-      "title": "GitLab announces workforce reduction and end of their CREDIT values",
-      "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 318\n# Comments: 311",
+      "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
+      "title": "Griffin PowerMate driver for modern macOS",
+      "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver\nComments URL: https://news.ycombinator.com/item?id=48100970\nPoints: 54\n# Comments: 19",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -257,9 +257,9 @@
     },
     {
       "id": "020",
-      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-      "title": "If AI writes your code, why use Python?",
-      "summary": "Article URL: https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055\nComments URL: https://news.ycombinator.com/item?id=48100433\nPoints: 142\n# Comments: 151",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "title": "Postmortem: TanStack npm supply-chain compromise",
+      "summary": "https://github.com/TanStack/router/issues/7383\n\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 608\n# Comments: 230",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -268,9 +268,9 @@
     },
     {
       "id": "021",
-      "url": "https://github.com/Mnexa-AI/e2a",
-      "title": "Show HN: E2a – Open-source email gateway for AI agents",
-      "summary": "We were building an agent system and wanted email as a trigger. We decided to take it out and made it a standalone service.The primary email features we wanted and used for our own agent system:1. Email threading stays consistent with agent conversation threading2. Human in the loop review for outbo",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "title": "I let AI build a tool to help me figure out what was waking me up at night",
+      "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\nComments URL: https://news.ycombinator.com/item?id=48100662\nPoints: 101\n# Comments: 110",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -279,9 +279,9 @@
     },
     {
       "id": "022",
-      "url": "https://github.com/ab-613/opengravity",
-      "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-      "summary": "Hi. I’m a high school student studying for my GCSEs. I was using Google Antigravity heavily for my side projects, but I kept hitting the usage limits, and getting random \"agent terminated\" errors. So I decided to try build my own version of the IDE. I love the UI, so I copied it as accurately as pos",
+      "url": "https://thinkingmachines.ai/blog/interaction-models/",
+      "title": "Interaction Models",
+      "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 122\n# Comments: 15",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
@@ -290,9 +290,9 @@
     },
     {
       "id": "023",
-      "url": "https://github.com/mamba-studio/TypedMemory",
-      "title": "Library for fast mapping of Java records to native memory",
-      "summary": "Article URL: https://github.com/mamba-studio/TypedMemory\nComments URL: https://news.ycombinator.com/item?id=48099616\nPoints: 108\n# Comments: 24",
+      "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+      "title": "GitLab announces workforce reduction and end of their CREDIT values",
+      "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 375\n# Comments: 375",
       "date_published": "2026-05-11",
       "tags": [
         "Hacker News"
