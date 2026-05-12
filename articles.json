@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "TanStack NPM Packages Compromised",
-    "summary": "Article URL: https://github.com/TanStack/router/issues/7383\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 33\n# Comments: 3",
-    "url": "https://github.com/TanStack/router/issues/7383",
+    "title": "Griffin PowerMate driver for modern macOS",
+    "summary": "Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver\nComments URL: https://news.ycombinator.com/item?id=48100970\nPoints: 15\n# Comments: 5",
+    "url": "https://github.com/jameslockman/Griffin-PowerMate-Driver",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "summary": "Article URL: https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/\nComments URL: https://news.ycombinator.com/item?id=48100662\nPoints: 22\n# Comments: 12",
-    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+    "title": "TanStack NPM Packages Compromised",
+    "summary": "Article URL: https://github.com/TanStack/router/issues/7383\nComments URL: https://news.ycombinator.com/item?id=48100706\nPoints: 394\n# Comments: 121",
+    "url": "https://github.com/TanStack/router/issues/7383",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -24,7 +24,7 @@
   {
     "id": "003",
     "title": "Interaction Models",
-    "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 14\n# Comments: 0",
+    "summary": "Article URL: https://thinkingmachines.ai/blog/interaction-models/\nComments URL: https://news.ycombinator.com/item?id=48100524\nPoints: 63\n# Comments: 8",
     "url": "https://thinkingmachines.ai/blog/interaction-models/",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-    "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 34\n# Comments: 11",
+    "summary": "Article URL: https://about.gitlab.com/blog/gitlab-act-2/\nComments URL: https://news.ycombinator.com/item?id=48100500\nPoints: 230\n# Comments: 197",
     "url": "https://about.gitlab.com/blog/gitlab-act-2/",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -68,7 +68,7 @@
   {
     "id": "007",
     "title": "Linux Terminal Memory Usage",
-    "summary": "Article URL: https://gilesorr.com/blog/linux-terminal-memory-usage.html\nComments URL: https://news.ycombinator.com/item?id=48099790\nPoints: 21\n# Comments: 17",
+    "summary": "Article URL: https://gilesorr.com/blog/linux-terminal-memory-usage.html\nComments URL: https://news.ycombinator.com/item?id=48099790\nPoints: 40\n# Comments: 31",
     "url": "https://gilesorr.com/blog/linux-terminal-memory-usage.html",
     "date": "2026-05-11",
     "source": "Hacker News",
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Library for fast mapping of Java records to native memory",
-    "summary": "Article URL: https://github.com/mamba-studio/TypedMemory\nComments URL: https://news.ycombinator.com/item?id=48099616\nPoints: 66\n# Comments: 21",
-    "url": "https://github.com/mamba-studio/TypedMemory",
+    "title": "Red Hot Chili Peppers ink $300M deal with Warner Music to sell catalog",
+    "summary": "https://guitar.com/news/industry-news/red-hot-chili-peppers-...\n\nComments URL: https://news.ycombinator.com/item?id=48099665\nPoints: 69\n# Comments: 78",
+    "url": "https://www.hollywoodreporter.com/music/music-industry-news/wmg-acquired-red-hot-chili-peppers-catalog-for-350-million-1236589567/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-    "summary": "Article URL: https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/\nComments URL: https://news.ycombinator.com/item?id=48098537\nPoints: 167\n# Comments: 82",
-    "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
+    "title": "Library for fast mapping of Java records to native memory",
+    "summary": "Article URL: https://github.com/mamba-studio/TypedMemory\nComments URL: https://news.ycombinator.com/item?id=48099616\nPoints: 91\n# Comments: 23",
+    "url": "https://github.com/mamba-studio/TypedMemory",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "summary": "Article URL: https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage\nComments URL: https://news.ycombinator.com/item?id=48098261\nPoints: 88\n# Comments: 23",
-    "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+    "title": "Can someone please explain whether Cloudflare blackmailed Canonical?",
+    "summary": "Article URL: https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/\nComments URL: https://news.ycombinator.com/item?id=48098537\nPoints: 228\n# Comments: 136",
+    "url": "https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/",
     "date": "2026-05-11",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,20 @@
   },
   {
     "id": "011",
+    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+    "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+    "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+    "date": "2026-05-11",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "AI",
+      "GM",
+      "Layoffs"
+    ]
+  },
+  {
+    "id": "012",
     "title": "Finally, texts between Android and iPhone users can be end-to-end encrypted",
     "summary": "Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.",
     "url": "https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/",
@@ -127,7 +141,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "013",
     "title": "Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation",
     "summary": "Five-year old European military drone startup Helsing is close to raising another monster round.",
     "url": "https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/",
@@ -135,14 +149,14 @@
     "source": "TechCrunch",
     "tags": [
       "Fundraising",
-      "TC",
+      "defense tech",
       "drones",
-      "Fundraise",
-      "helsing"
+      "helsing",
+      "In Brief"
     ]
   },
   {
-    "id": "013",
+    "id": "014",
     "title": "Bravo is creating unscripted microdramas for the Peacock app",
     "summary": "As microdrama apps like ReelShort and DramaBox quietly rake in billions, Peacock announced on Monday that it is launching two unscripted Bravo microdramas, which will stream in the Peacock app.",
     "url": "https://techcrunch.com/2026/05/11/bravo-is-creating-unscripted-microdramas-for-the-peacock-app/",
@@ -155,7 +169,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "015",
     "title": "Digg tries again, this time as an AI news aggregator",
     "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
     "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
@@ -171,7 +185,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "016",
     "title": "‘Too early’ to talk IPO, Redwood Materials’ incoming CFO says",
     "summary": "The battery-recycling and energy-storage company has hired former Tesla finance chief Deepak Ahuja, reuniting him with former Tesla CTO JB Straubel.",
     "url": "https://techcrunch.com/2026/05/11/too-early-to-talk-ipo-for-redwood-materials-incoming-cfo-says/",
@@ -185,7 +199,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "017",
     "title": "NYT’s Wordle to become a TV game show",
     "summary": "This will be the first time that The Times has collaborated with a TV broadcaster for an entertainment-based program, representing yet another pivot in the media company's attempt to build a sustainable digital subscription business as print revenue continues to decline.",
     "url": "https://techcrunch.com/2026/05/11/nyts-wordle-to-become-a-tv-game-show/",
@@ -202,7 +216,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "018",
     "title": "TikTok launches an ad-free subscription plan in the UK",
     "summary": "Users who sign up for the plan won’t see ads on TikTok, and their data won’t be used for advertising purposes.",
     "url": "https://techcrunch.com/2026/05/11/tiktok-launches-an-ad-free-subscription-plan-in-the-uk/",
@@ -217,7 +231,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "019",
     "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
     "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
     "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
@@ -233,7 +247,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "020",
     "title": "Discord launches Nitro Rewards, giving subscribers access to the base tier of Xbox Game Pass for no extra cost",
     "summary": "Discord's Nitro Rewards program will give Nitro subscribers access to Xbox Game Pass and discounts from Logitech, SteelSeries, and other gaming brands.",
     "url": "https://techcrunch.com/2026/05/11/discord-launches-nitro-rewards-giving-subscribers-access-to-the-base-tier-of-xbox-game-pass-for-no-extra-cost/",
@@ -249,7 +263,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "021",
     "title": "Venmo’s biggest makeover in years comes at a very interesting time",
     "summary": "The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a stand-alone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.",
     "url": "https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/",
@@ -263,7 +277,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "022",
     "title": "Korea’s biggest manufacturers back Config, the TSMC of robot data",
     "summary": "Instead of building robots themselves, the team is focused on a simpler goal — providing data that robots need to learn and operate. They believe that better data will be key to making robots more useful.",
     "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
@@ -279,7 +293,34 @@
     ]
   },
   {
-    "id": "022",
+    "id": "023",
+    "title": "Linux bitten by second severe vulnerability in as many weeks",
+    "summary": "Production-version patches are coming online and should be installed pronto.",
+    "url": "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Biz & IT",
+      "Security",
+      "exploits",
+      "Linux",
+      "vulnerabilities"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Audi has a new Q9 flagship coming soon: Here's its interior",
+    "summary": "Audi made sure to consult American tastes for its first full-size SUV.",
+    "url": "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
+    "date": "2026-05-11",
+    "source": "Ars Technica",
+    "tags": [
+      "Cars",
+      "Audi Q9"
+    ]
+  },
+  {
+    "id": "025",
     "title": "After banning foreign routers, FCC says existing ones can get updates until 2029",
     "summary": "FCC extends waiver allowing routers and drones to get patches for two more years.",
     "url": "https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/",
@@ -292,7 +333,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "026",
     "title": "Data center guzzled 30 million gallons of water and nobody noticed for months",
     "summary": "Can AI save us from the AI industry’s endless thirst for water? Outlook not so good.",
     "url": "https://arstechnica.com/tech-policy/2026/05/data-center-used-30-million-gallons-of-water-without-initially-paying/",
@@ -307,7 +348,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "027",
     "title": "Passengers from hantavirus ship arrive in US; 3 people in biocontainment",
     "summary": "A US passenger tested \"mildly positive,\" but WHO is calling it \"inconclusive\" for now.",
     "url": "https://arstechnica.com/health/2026/05/passengers-from-hantavirus-ship-arrive-in-us-3-people-in-biocontainment/",
@@ -319,7 +360,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "028",
     "title": "Starlink shuts down its GPS-style cheat code. Researchers may unlock it anyway.",
     "summary": "Shutdown of Starlink location feature won’t dampen interest in GPS alternatives.",
     "url": "https://arstechnica.com/gadgets/2026/05/starlink-blocks-access-to-its-gps-alternative-ahead-of-spacex-ipo/",
@@ -338,7 +379,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "029",
     "title": "iOS, macOS, and iPadOS 26.5 updates arrive with encrypted RCS messaging and more",
     "summary": "Probably the last big updates we'll see before the next versions appear at WWDC.",
     "url": "https://arstechnica.com/gadgets/2026/05/ios-macos-and-ipados-26-5-updates-arrive-with-encrypted-rcs-messaging-and-more/",
@@ -357,7 +398,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "030",
     "title": "Samsung made a “mockery” of Dua Lipa by putting her picture on TV boxes, lawsuit says",
     "summary": "Lipa says her picture contributed to Samsung's \"enormous revenue.\"",
     "url": "https://arstechnica.com/gadgets/2026/05/singer-dua-lipa-sues-samsung-for-15-million-for-using-her-image-on-tv-boxes/",
@@ -368,50 +409,6 @@
       "lawsuit",
       "Samsung",
       "TVs"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Pirates are already playing Forza Horizon 6 days before its launch",
-    "summary": "Crackers take advantage of unencrypted files that briefly appeared on Steam.",
-    "url": "https://arstechnica.com/gaming/2026/05/pirates-are-already-playing-forza-horizon-6-days-before-its-launch/",
-    "date": "2026-05-11",
-    "source": "Ars Technica",
-    "tags": [
-      "Gaming",
-      "crack",
-      "driving",
-      "forza",
-      "microsoft",
-      "piracy",
-      "Racing",
-      "Steam"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "F1 set for another engine tweak in 2027, and what's this about V8s?",
-    "summary": "Rather than dig in, the sport is being proactive about fixing the problem.",
-    "url": "https://arstechnica.com/cars/2026/05/f1-set-for-another-engine-tweak-in-2027-and-whats-this-about-v8s/",
-    "date": "2026-05-11",
-    "source": "Ars Technica",
-    "tags": [
-      "Cars",
-      "Formula 1"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "A promising Indian launch startup nears its first orbital test flight",
-    "summary": "\"We wanted to get to an orbital launch vehicle in a few years.\"",
-    "url": "https://arstechnica.com/space/2026/05/with-skyroot-at-the-head-of-the-class-indias-private-space-industry-seeks-to-take-off/",
-    "date": "2026-05-11",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "india",
-      "launch",
-      "skyroot"
     ]
   }
 ]
