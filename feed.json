@@ -7,430 +7,487 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/",
-      "title": "Meta employees protest against mouse tracking tech at US offices",
-      "summary": "Article URL: https://www.reuters.com/sustainability/society-equity/meta-us-employees-organize-protest-against-mouse-tracking-tech-2026-05-12/\nComments URL: https://news.ycombinator.com/item?id=48114461\nPoints: 25\n# Comments: 13",
-      "date_published": "2026-05-12",
+      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
+      "title": "The offline desk gadget that actually got me to sit up straight",
+      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Gadgets",
+        "Work From Home",
+        "work from home gear",
+        "on device AI",
+        "local AI"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "002",
-      "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
-      "title": "How to make your text look futuristic (2016)",
-      "summary": "Article URL: https://typesetinthefuture.com/2016/02/18/futuristic/\nComments URL: https://news.ycombinator.com/item?id=48113895\nPoints: 93\n# Comments: 9",
-      "date_published": "2026-05-12",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Startups",
+        "greg brockman",
+        "OpenAI"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "003",
-      "url": "https://arxiv.org/abs/2605.05242",
-      "title": "Beyond Semantic Similarity",
-      "summary": "Article URL: https://arxiv.org/abs/2605.05242\nComments URL: https://news.ycombinator.com/item?id=48113518\nPoints: 20\n# Comments: 2",
-      "date_published": "2026-05-12",
+      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
+      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
+      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "TC",
+        "Startups",
+        "Venture",
+        "founders",
+        "Cerebras"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "004",
-      "url": "https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/",
-      "title": "Snowflake Postgres, Lakebase, HorizonDB: Picking the Lock-In You Want",
-      "summary": "Article URL: https://thebuild.com/blog/2026/05/12/snowflake-postgres-lakebase-horizondb-picking-the-lock-in-you-want/\nComments URL: https://news.ycombinator.com/item?id=48113425\nPoints: 16\n# Comments: 4",
-      "date_published": "2026-05-12",
+      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
+      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Hardware",
+        "Gadgets",
+        "Amazon",
+        "Kindle",
+        "evergreens"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "005",
-      "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "summary": "Article URL: https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html\nComments URL: https://news.ycombinator.com/item?id=48112042\nPoints: 163\n# Comments: 68",
-      "date_published": "2026-05-12",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
+      "title": "The US is betting on AI to catch insider trading in prediction markets",
+      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Policy",
+        "cftc",
+        "Kalshi",
+        "polymarket",
+        "prediction markets",
+        "syndication"
       ],
-      "_source": "Hacker News"
+      "_source": "Ars Technica"
     },
     {
       "id": "006",
-      "url": "https://github.com/cactus-compute/needle",
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "summary": "Hey HN, Henry here from Cactus. We open-sourced Needle, a 26M parameter function-calling (tool use) model. It runs at 6000 tok/s prefill and 1200 tok/s decode on consumer devices.We were always frustrated by the little effort made towards building agentic models that run on budget phones, so we cond",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it wil",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Cameras",
+        "Gadgets",
+        "News",
+        "Sony",
+        "Tech"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "007",
-      "url": "https://chreke.com/posts/sql-incorrect-by-construction",
-      "title": "SQL: Incorrect by Construction",
-      "summary": "Article URL: https://chreke.com/posts/sql-incorrect-by-construction\nComments URL: https://news.ycombinator.com/item?id=48111798\nPoints: 22\n# Comments: 21",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
+      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
+      "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and B",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Column",
+        "Interview",
+        "Report"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "008",
-      "url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
-      "title": "Quack: The DuckDB Client-Server Protocol",
-      "summary": "Article URL: https://duckdb.org/2026/05/12/quack-remote-protocol\nComments URL: https://news.ycombinator.com/item?id=48111765\nPoints: 109\n# Comments: 23",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
+      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
+      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res […]",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Gadgets",
+        "Gaming",
+        "Hands-on",
+        "PC Gaming",
+        "Reviews",
+        "Tech",
+        "Verge Shopping"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "009",
-      "url": "https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim",
-      "title": "Dead.Letter (CVE-2026-45185) – How XBOW found an unauthenticated RCE on Exim",
-      "summary": "Article URL: https://xbow.com/blog/dead-letter-cve-2026-45185-xbow-found-rce-exim\nComments URL: https://news.ycombinator.com/item?id=48111748\nPoints: 47\n# Comments: 21",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
+      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer […]",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Deals",
+        "Gadgets",
+        "Tech",
+        "Verge Shopping"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "010",
-      "url": "https://deepmind.google/blog/ai-pointer/",
-      "title": "Reimagining the mouse pointer for the AI era",
-      "summary": "Article URL: https://deepmind.google/blog/ai-pointer/\nComments URL: https://news.ycombinator.com/item?id=48111581\nPoints: 84\n# Comments: 71",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
+      "title": "Mixtape is a musical portrait of teenage life",
+      "summary": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big party. They're obsessed with finding booze. But under all of those tropes is […",
+      "date_published": "2026-05-16",
       "tags": [
-        "Hacker News"
+        "Entertainment",
+        "Games Review",
+        "Gaming"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "011",
-      "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "title": "Kevin Hartz’s A* just closed its third fund with $450 million",
-      "summary": "Early-stage venture firm A* Capital just took the wraps off its $450 million Fund III.",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+      "title": "The app you need to clean up your computer",
+      "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about David Attenborough and screenwri",
+      "date_published": "2026-05-16",
       "tags": [
-        "Venture",
-        "A* Capital",
-        "Kevin Hartz",
-        "Startups"
+        "Apps",
+        "Gadgets",
+        "Installer",
+        "Tech"
       ],
-      "_source": "TechCrunch"
+      "_source": "The Verge"
     },
     {
       "id": "012",
-      "url": "https://techcrunch.com/2026/05/12/former-tesla-exec-and-heron-power-ceo-drew-baglino-has-founded-a-heat-pump-startup/",
-      "title": "Former Tesla exec and Heron Power CEO Drew Baglino has founded a heat pump startup",
-      "summary": "Sadi Thermal Machines is Drew Baglino's second startup since leaving Tesla in 2024.",
-      "date_published": "2026-05-12",
+      "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
+      "title": "These are the laptops I recommend for pretty much anyone",
+      "summary": "Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day for years to come. So there’s a lot riding on this pricey expense. I’ve tested all kinds of laptops, […",
+      "date_published": "2026-05-16",
       "tags": [
-        "Climate",
-        "Exclusive",
-        "heat pumps",
-        "Sadi Thermal Machines",
-        "scoop",
-        "Tesla"
+        "Apple",
+        "Asus",
+        "Buying Guides",
+        "Dell",
+        "Gadgets",
+        "Gaming",
+        "HP",
+        "Laptop Reviews",
+        "Laptops",
+        "Lenovo",
+        "Microsoft",
+        "PC Gaming",
+        "Reviews",
+        "Tech",
+        "Verge Shopping",
+        "Windows"
       ],
-      "_source": "TechCrunch"
+      "_source": "The Verge"
     },
     {
       "id": "013",
-      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually d",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
+      "title": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
+      "summary": "States across the US are looking to take major sources of pollution and use them to generate much-needed power.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Elon Musk",
-        "OpenAI",
-        "sam altman"
+        "Science",
+        "Science / Environment",
+        "environment",
+        "Energy",
+        "climate change",
+        "Climate Desk",
+        "Policy",
+        "Well How About That"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "014",
-      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/",
+      "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
+      "summary": "Go fully hands-free with these tips for Android and iOS.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Venture",
-        "Anthropic",
-        "secondary market"
+        "Gear",
+        "Gear / How To and Advice",
+        "how-to",
+        "tips",
+        "ios",
+        "Android",
+        "voice assistants",
+        "Siri",
+        "Google Gemini",
+        "Speak to Me"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "015",
-      "url": "https://techcrunch.com/2026/05/12/potholes-cost-cities-millions-samsara-using-ai-trucks-fix/",
-      "title": "Potholes cost cities millions: This company is using AI and trucks to fix them",
-      "summary": "Fleet management company Samsara has developed an AI model to detect different kinds of potholes and gauge how fast they're deteriorating.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+      "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+      "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "Exclusive",
-        "potholes",
-        "Samsara"
+        "Security",
+        "Security / Cyberattacks and Hacks",
+        "Security / Privacy",
+        "Security / Security News",
+        "security roundup",
+        "cybersecurity",
+        "hacking",
+        "security",
+        "malware",
+        "privacy",
+        "OpenAI",
+        "data brokers",
+        "dark web",
+        "Security Roundup"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "016",
-      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
+      "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
+      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Space",
-        "Alphabet",
-        "Anthropic",
-        "Google",
-        "In Brief",
-        "orbital data centers",
-        "SpaceX",
-        "xAI"
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "household",
+        "kitchen",
+        "smart home",
+        "Smart Home",
+        "plants",
+        "Shopping",
+        "buying guides",
+        "Buying Guide"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "017",
-      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
-      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
-      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/after-struggling-with-evs-us-automakers-pivot-to-energy/",
+      "title": "After Struggling With EVs, US Automakers Pivot to Energy",
+      "summary": "Ford and GM are backing away from electric vehicles and moving into the battery storage business. And it all comes back to AI.",
+      "date_published": "2026-05-16",
       "tags": [
-        "TC",
-        "AI",
-        "Apps",
-        "Android",
-        "Google",
-        "gemini",
-        "agentic ai",
-        "google io",
-        "google io 2026"
+        "Gear",
+        "Gear / Gear News and Events",
+        "cars",
+        "Electric Vehicles",
+        "Energy",
+        "Infrastructure",
+        "automobiles",
+        "ford",
+        "Batteries",
+        "General Motors",
+        "Power",
+        "Alternating Current"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "018",
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
-      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other related areas.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
+      "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
+      "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Anthropic",
-        "Claude",
-        "Harvey",
-        "legora"
+        "Culture",
+        "Culture / Digital Culture",
+        "artificial intelligence",
+        "Sex and Relationships",
+        "algorithms",
+        "Brains and Behavior",
+        "RPGs",
+        "health",
+        "Tailor-Made"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "019",
-      "url": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
-      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/asteroid-2026-jh2-is-about-to-fly-right-past-the-earth-relatively-speaking/",
+      "title": "Asteroid 2026 JH2 Is About to Fly Right Past Earth—Relatively Speaking",
+      "summary": "On May 18, an asteroid about the size of Chicago’s Cloud Gate will fly four times closer to Earth than the moon.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Apps",
-        "ai dictation",
-        "gemini",
-        "Google",
-        "rambler",
-        "Wispr flow"
+        "Science",
+        "Science / Space",
+        "space",
+        "Astronomy",
+        "Asteroids",
+        "Look Out"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "020",
-      "url": "https://techcrunch.com/2026/05/12/android-adds-a-feature-to-stop-you-from-doomscrolling/",
-      "title": "Android adds a feature to stop you from doomscrolling",
-      "summary": "Google’s new Android feature, Pause Point, forces you to wait before opening distracting apps in an effort to curb addictive scrolling habits.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
+      "title": "Sportsman's Warehouse Promo Code: Save in May 2026",
+      "summary": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings this month.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Apps",
-        "Android",
-        "android 17",
-        "doomscrolling"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "021",
-      "url": "https://techcrunch.com/2026/05/12/google-unveils-googlebooks-a-new-line-of-ai-native-laptops/",
-      "title": "Google unveils Googlebook, a new line of AI-native laptops",
-      "summary": "The company says Googlebooks, which are launching this fall, are the first laptops designed from the ground up for Gemini Intelligence to offer personal and proactive help.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "title": "Surfshark Promo Codes: 87% Off | May 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Gadgets",
-        "Hardware",
-        "Google",
-        "googlebooks",
-        "laptops"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "022",
-      "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "title": "Google’s ‘Create My Widget’ feature will let you vibe-code your own widgets",
-      "summary": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order to get a custom dashboard that you can add and resize on your home screen.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/best-buy-discount-code/",
+      "title": "Best Buy Discount Codes: Up to 60% Off",
+      "summary": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Apps",
-        "Google",
-        "vibe coding",
-        "widgets"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "023",
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/doordash-promo-code/",
+      "title": "50% Off DoorDash Promo Code | May 2026",
+      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Apps",
-        "Chrome",
-        "gemini",
-        "Google",
-        "vibe coding"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "024",
-      "url": "https://techcrunch.com/2026/05/12/google-launches-new-android-security-feature-to-help-uncover-spyware-attacks/",
-      "title": "Google launches new Android security feature to help uncover spyware attacks",
-      "summary": "Intrusion Logging is a new part of Android’s Advanced Protection Mode, which aims to help protect human rights activists, journalists, and dissidents from government spyware attack and law enforcement forensic devices.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "title": "20% Off Brooks Promo Code | May 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Security",
-        "Amnesty International",
-        "Android",
-        "cybersecurity",
-        "Google",
-        "hacking",
-        "Spyware",
-        "surveillance"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "025",
-      "url": "https://techcrunch.com/2026/05/12/indigo-brings-the-open-social-web-to-one-app/",
-      "title": "Indigo brings the open social web to one app",
-      "summary": "Indigo's new social app lets you cross-post to the open social web, including Mastodon and Bluesky, and browse a unified timeline.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "B&H Photo Promo Codes and Deals This May",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Apps",
-        "Social",
-        "Bluesky",
-        "decentralized social media",
-        "Exclusive",
-        "Indigo",
-        "Mastodon",
-        "social media"
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "026",
-      "url": "https://techcrunch.com/2026/05/12/us-bank-discloses-security-lapse-after-sharing-customer-data-with-ai-app/",
-      "title": "US bank discloses security lapse after sharing customer data with AI app",
-      "summary": "Community Bank, which operates in Pennsylvania, Ohio, and West Virginia, disclosed a cybersecurity incident that exposed customers’ names, dates of birth, and Social Security numbers.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "title": "Altra Promo Codes: Get 20% Off Plus Free Shipping",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Security",
-        "community bank",
-        "cybersecurity",
-        "data exposure",
-        "In Brief"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "027",
-      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "summary": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/legalzoom-promo-code/",
+      "title": "LegalZoom Promo Code: Exclusive 10% Off LLC Formations",
+      "summary": "Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.",
+      "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Apps",
-        "Social",
-        "Meta",
-        "meta ai",
-        "Threads"
+        "Gear",
+        "coupons",
+        "Shopping"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "028",
-      "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/",
-      "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-      "summary": "As bad actors weaponize AI to exploit software vulnerabilities at unprecedented speed, companies are increasingly recognizing the need to bolster their cybersecurity defenses. The round valued the three-year-old startup at $725 million.",
-      "date_published": "2026-05-12",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "title": "AT&T Promo Codes and Bundle Deals: Save $50 in May",
+      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "date_published": "2026-05-16",
       "tags": [
-        "Fundraising",
-        "Security",
-        "AI cybersecurity tools",
-        "cybersecurity",
-        "exaforce"
+        "Gear",
+        "coupons",
+        "Shopping"
       ],
-      "_source": "TechCrunch"
+      "_source": "Wired"
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/12/waymo-issues-recall-to-deal-with-a-flooding-problem/",
-      "title": "Waymo issues recall to deal with a flooding problem",
-      "summary": "Waymo has issued a software recall that makes its robotaxis more cautious around flooded areas. A \"final remedy\" is in the works.",
-      "date_published": "2026-05-12",
+      "url": "https://dev.to/kevinccbsg/the-easiest-way-to-test-react-router-v7-apps-92p",
+      "title": "The easiest way to test React Router v7 apps",
+      "summary": "You wrote a React Router v7 route. It has a loader, an action, a form, some interactivity. Now you want to test it. The official docs hand you two paths and neither one covers the case you actually have.\n\nPath one is createRoutesStub plus @testing-library/react, running in a terminal-based test runn",
+      "date_published": "2026-05-16",
       "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "avs",
-        "robotaxis",
-        "self-driving cars",
-        "Waymo"
+        "testing",
+        "react",
+        "reactrouter",
+        "webdev"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/12/instructure-strikes-deal-with-hackers-who-breached-it-twice/",
-      "title": "Instructure strikes deal with hackers who breached it twice",
-      "summary": "The maker of the Canvas school software said it \"reached an agreement\" with the hackers, but provided no guarantees that the hackers would not release the data or keep their word.",
-      "date_published": "2026-05-12",
+      "url": "https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc",
+      "title": "Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve",
+      "summary": "Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve\n\n\nCuando empecé el proyecto final del Máster en Ciberseguridad en Evolve, tenía claro qué no quería: otro informe PDF que nadie vuelva a abrir. Quería algo que se viera en una entrevista en treinta segund",
+      "date_published": "2026-05-16",
       "tags": [
-        "Security",
         "cybersecurity",
-        "data breach",
-        "instructure",
-        "school",
-        "shinyhunters"
+        "python",
+        "infosec",
+        "networking"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     }
   ]
 }
