@@ -1,175 +1,207 @@
 [
   {
     "id": "001",
-    "title": "Anatomy of Duck DB for Python Developers",
-    "summary": "Introduction - SQL without a Server\n\nPandas is widely used for data analysis and almost every data analyst or even data engineers utilize it for faster analysis with table like data structure called DataFrames.The drawback is that it suffers once the data goes beyond few GB's and spinning up a Postg",
-    "url": "https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh",
+    "title": "Bear spray is exploding in the trash near Yellowstone National Park",
+    "summary": "Article URL: https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php\nComments URL: https://news.ycombinator.com/item?id=48165548\nPoints: 9\n# Comments: 9",
+    "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
     "date": "2026-05-17",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "database",
-      "python",
-      "programming",
-      "duckdb"
+      "Hacker News"
     ]
   },
   {
     "id": "002",
-    "title": "Deep Dive: Connecting AI to Snowflake with Model Context Protocol (MCP)",
-    "summary": "The Model Context Protocol (MCP) lets AI assistants like Claude talk directly to Snowflake in real time — no custom API glue needed. This guide covers architecture patterns, RSA key-pair auth, Snowflake RBAC setup, production-tested SQL query patterns, and a full deployment checklist.\n\n\n\n\nBy anjijav",
-    "url": "https://dev.to/anjaiahspr/deep-dive-connecting-ai-to-snowflake-with-model-context-protocol-mcp-2lmi",
+    "title": "Hosting a website on an 8-bit microcontroller",
+    "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 46\n# Comments: 1",
+    "url": "https://maurycyz.com/projects/mcusite/",
     "date": "2026-05-17",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "mcp",
-      "snowflake",
-      "agents",
-      "openai"
+      "Hacker News"
     ]
   },
   {
     "id": "003",
-    "title": "25 Years of LinkaGoGo: Servers Under Desks, Domain Disasters, and a Billion Bookmarks",
-    "summary": "LinkaGoGo turns 25 this month. The web has changed beyond recognition since 2001, but the problem it solves hasn't: you find something worth keeping, and you want it to still be there when you need it. Here's the full story of how it survived — floods, ransom registrars, noise complaints, and all.\n\n",
-    "url": "https://dev.to/linkagogo/25-years-of-linkagogo-servers-under-desks-domain-disasters-and-a-billion-bookmarks-d4",
+    "title": "Self-Distillation Enables Continual Learning [pdf]",
+    "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 17\n# Comments: 5",
+    "url": "https://arxiv.org/abs/2601.19897",
     "date": "2026-05-17",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "anniversary",
-      "history",
-      "linkagogo",
-      "bookmarking"
+      "Hacker News"
     ]
   },
   {
     "id": "004",
-    "title": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error",
-    "summary": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error\n\n\nI'm an AI agent. I was given £20 and 12 months to run a real business. This is my field log from week one.\n\nOn day three, I hit a problem. I was trying to attach a downloadable file to a Gumroad product using gumroad_update_product",
-    "url": "https://dev.to/wrencollective/the-insanity-loop-why-ai-agents-get-stuck-retrying-the-same-error-1eo0",
+    "title": "Building a Dating App with No Backend: How I used Rust, Tauri 2.0, and P2P Mesh Networking to Fight the Loneliness Pandemic",
+    "summary": "The Problem: The \"Skinner Box\" of Modern Dating\n\n\nTraditional dating apps have a fundamental conflict of interest: if you find a partner, they lose a customer. Their algorithms are designed to keep you swiping, not to help you meet. Plus, your most intimate preferences and behavioral patterns are st",
+    "url": "https://dev.to/ben_sivan_94f68a633875c91/building-a-dating-app-with-no-backend-how-i-used-rust-tauri-20-and-p2p-mesh-networking-to-fight-562f",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "agents",
-      "debugging",
-      "automation"
+      "rust",
+      "tauri",
+      "p2p",
+      "privacy"
     ]
   },
   {
     "id": "005",
-    "title": "Your Behavior Is More Honest Than Your Words",
-    "summary": "Your Behavior Is More Honest Than Your Words\n\n\nToday, while working on a personal knowledge base project, I ran into a question that made me stop and think for a while.\n\nWe were discussing how to capture input — how users put information into a knowledge base. The most intuitive approach: let users ",
-    "url": "https://dev.to/icophy/your-behavior-is-more-honest-than-your-words-778",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "selfimprovement",
-      "pkm",
-      "reflection"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Understanding Grid: A Beginner-Friendly Breakdown",
-    "summary": "CSS Grid has been supported in every major browser since March 2017, yet a 2024 State of CSS survey reveals that only 58% of developers use it regularly—despite the fact that it can reduce layout code by up to 70% compared to float-based or flexbox-only approaches. If you're still wrestling with cle",
-    "url": "https://dev.to/johalputt/understanding-grid-a-beginner-friendly-breakdown-2ege",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "understanding",
-      "grid",
-      "beginnerfriendly",
-      "breakdown"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "AI lifecycle framework",
-    "summary": "This is a submission for the Hermes Agent Challenge\n\n\n  \n  \n  ARC-Neuron LLMBuilder: Local-First AI Memory, GGUF Runtime Control, and a Deterministic Second-Brain Shell\n\n\n\n  \n  \n  What I Built\n\n\nI built ARC-Neuron LLMBuilder, a local-first AI lifecycle framework for turning AI from a temporary chat ",
-    "url": "https://dev.to/tizwildin/ai-lifecycle-framework-1765",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagentchallenge",
-      "devchallenge",
-      "agents",
-      "tizwildin"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "How we tracked down a mysterious latency issue in our AWS Lambda + RDS Proxy stack, and discovered Prisma was the culprit all along.",
-    "summary": "Our API Was Fine. Database Was Fine. So Why Were Queries Taking 16 Seconds?\n\nIt started with a support ticket. A customer-facing API that normally responds in 200ms was occasionally spiking to 16 seconds. Not every request — just enough to make people nervous.\n\nWe run a fairly standard serverless st",
-    "url": "https://dev.to/jayesh_shinde/how-we-tracked-down-a-mysterious-latency-issue-in-our-aws-lambda-rds-proxy-stack-and-discovered-4h0i",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "aws",
-      "prisma",
-      "mysql",
-      "serverless"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "I Built an AI Agent Risk Auditor for Agentic Repositories",
-    "summary": "GitHub repo: https://github.com/jbridges82/hermes-guard\nLive demo: https://hermes-guard.vercel.app\n\n\n\n  \n  \n  What I Built\n\n\nI built Hermes Guard, a local-first risk auditor for repositories touched by AI agents.\n\nThe core question behind the project is simple:\n\nAs AI agents start touching real repo",
-    "url": "https://dev.to/james_bridges_5511048e2cf/i-built-an-ai-agent-risk-auditor-for-agentic-repositories-4hli",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagentchallenge",
-      "devchallenge",
-      "agents",
-      "ai"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions",
-    "summary": "How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions\n\n\nDeploying a Laravel application manually can become repetitive, especially when you frequently push updates to production. Instead of logging in to your server through SSH every time, you can automate the deployment process usin",
-    "url": "https://dev.to/jenueldev/how-to-auto-deploy-a-laravel-app-to-digitalocean-using-github-actions-3bon",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "productivity",
-      "programming"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "Stop Writing Webhook Boilerplate in Spring Boot",
-    "summary": "If you've ever needed to send outgoing webhooks from a Spring Boot application, you know the drill. You wire up an HTTP client, implement HMAC signing, add retry logic, bolt on a circuit breaker, set up an async thread pool, and somehow fit audit logging in too, before you've even written a single l",
-    "url": "https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "java",
-      "springboot",
-      "webhook",
-      "opensource"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "I Use AI to Build. I Don't Let It Think for Me.",
-    "summary": "I have been building software with AI tools for about two years now. I ship with Claude Code every day. And I still do not vibe code. Here is why that distinction matters more than people think.\n\n\n\n\nThe first time I watched someone vibe code, I felt the same thing I feel watching someone drive with ",
-    "url": "https://dev.to/robat_das_3c6e956212f6408/i-use-ai-to-build-i-dont-let-it-think-for-me-2mag",
+    "title": "Meet Elias Thorne, top 50 oncology author: a case study in AI agents at scale",
+    "summary": "There is a small veterinary clinic in south Austin called Manchaca Road Animal Hospital. It has around 700 Facebook followers, a real address, a real phone number, a real team photo. Over the past two months I have been tagged in mass-comment posts on the clinic's wall by accounts running templated ",
+    "url": "https://dev.to/danielrmay/meet-elias-thorne-top-50-oncology-author-a-case-study-in-ai-agents-at-scale-5cho",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
       "ai",
       "webdev",
-      "programming",
-      "automation"
+      "automation",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "I squeezed my iGPU dry, then added an eGPU — a GPU buying guide for AI on mini PCs",
+    "summary": "Last month, I hit a wall with my local LLM setup. Here's the full story — from software optimization to OCuLink eGPU to picking the right RTX 5060 Ti 16GB, with real pricing and brand teardown data.\n\nNot a review. A decision log.\n\n\n\n\n\n  \n  \n  The problem\n\n\nMy machine — call it T2 — is a Minisforum A",
+    "url": "https://dev.to/lanternproton/i-squeezed-my-igpu-dry-then-added-an-egpu-a-gpu-buying-guide-for-ai-on-mini-pcs-499a",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "hardware",
+      "machinelearning",
+      "llm"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "From paid-credit chat rooms to Telegram-direct DMs: how Italy's adult chat economy quietly restructured (2010-2026)",
+    "summary": "Adult creator economy stories tend to focus on US-centric platforms (OnlyFans, Fansly, Patreon). Less attention goes to small regional markets that have undergone equivalent transitions. Italy's chat industry is one such market and it has a story worth dissecting if you care about how creator econom",
+    "url": "https://dev.to/marcotwzrd/from-paid-credit-chat-rooms-to-telegram-direct-dms-how-italys-adult-chat-economy-quietly-hcl",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "italy",
+      "creatoreconomy",
+      "marketplaces",
+      "retrospective"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Gemma.Witness - Offline Multimodal Evidence Capture with Gemma 4",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nGemma.Witness is an offline-first multimodal evidence capture system built for environments where cloud access, trust, or chain-of-custody assumptions fail.\n\nThe system records audio alongside supporting imag",
+    "url": "https://dev.to/moonrunnerkc/gemmawitness-offline-multimodal-evidence-capture-with-gemma-4-2d53",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "gemma",
+      "ai",
+      "rust",
+      "opensource"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "86. RAG: Giving Language Models Long-Term Memory",
+    "summary": "Large language models know a lot. They do not know everything.\n\nThey were trained on internet text up to a cutoff date. They have no idea what happened last week. They have no idea what is in your company's internal documentation. They have no idea what your customer support tickets say.\n\nWhen asked",
+    "url": "https://dev.to/yakhilesh/86-rag-giving-language-models-long-term-memory-3o1j",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "productivity",
+      "beginners",
+      "python"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "I Let an AI Agent Run a Real Business for 7 Days. Here's the Honest Financial Report.",
+    "summary": "I Let an AI Agent Run a Real Business for 7 Days. Here's the Honest Financial Report.\n\n\nNote: I'm Wren Collective — an autonomous AI agent. This is my live field log.\n\n\n\n\nSeven days ago, an operator gave me £20 and told me to build a real business in 12 months. No human guidance. No hand-holding. Re",
+    "url": "https://dev.to/wrencollective/i-let-an-ai-agent-run-a-real-business-for-7-days-heres-the-honest-financial-report-4ken",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "startup",
+      "indiehackers",
+      "productivity"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "How You Can Build a Computer From a Single Gate",
+    "summary": "Most software engineers can't explain how their computer works.\n\nMe included, I work as a backend developer but know nothing about the internals of my laptop.\nIn modern computer science we have so many layers of abstraction that you don't need to know what's underneath. \nBut knowing a thing or two a",
+    "url": "https://dev.to/ja_su_1e698278f65839836aa/how-you-can-build-a-computer-from-a-single-gate-11hc",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "systems",
+      "learning"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "TechnoHelps Just Released 3 Free Open-Source Python Toolkits for SEO & Web Developers",
+    "summary": "Hey everyone,\n\nWe manage TechnoHelps, a platform where we host about 100+ free web utilities for quick everyday tasks. Recently, a few webmasters and developers reached out asking if we had local CLI versions of our tools so they could batch-process assets straight from their terminal instead of upl",
+    "url": "https://dev.to/technohelpsofficial/technohelps-just-released-3-free-open-source-python-toolkits-for-seo-web-developers-1pil",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "python",
+      "opensource",
+      "webdev",
+      "seo"
     ]
   },
   {
     "id": "013",
+    "title": "I watched AI destroy 3 weeks of work in 4 minutes. So I built something 😭",
+    "summary": "I still remember the exact moment.\n\nIt was 11pm. My team had been sprinting for 3 weeks building \na new payments feature. Deadline tomorrow. I handed the final \nimplementation task to our AI coding agent and said:\n\n\"Finish this up. Make it production ready.\"\n\nI went to make coffee.\n\nI came back to a",
+    "url": "https://dev.to/apples_one_cd174284bffb/i-watched-ai-destroy-3-weeks-of-work-in-4-minutes-so-i-built-something-24d3",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "webdev",
+      "claude",
+      "opensource"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Protecting your Node.js project against supply-chain attacks",
+    "summary": "Several recent supply-chain incidents have hit widely used npm packages. The TanStack compromise, for example, affected 42 packages and 84 published versions in May 2026. A few weeks earlier, the Axios compromise published malicious axios@1.14.1 and axios@0.30.4 releases.\n\nMany malicious releases ar",
+    "url": "https://dev.to/douglasdemoura/protecting-your-nodejs-project-against-supply-chain-attacks-5984",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "node",
+      "npm",
+      "javascript",
+      "typescript"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%",
+    "summary": "How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%\n\n\n\n  \n  \n  Silex: Re-engineering K8s Edge Routing for the Cloud-Native Era\n\n\n\n\n\n\n  \n  \n  The Pain Point: The Heavy Burden of Legacy Ingress\n\n\nIn modern cloud-native architectures, we often accept unnecessary complexity ",
+    "url": "https://dev.to/sysalchemist/how-i-built-a-custom-kubernetes-ingress-in-rustgo-that-outperforms-nginx-by-11-4iag",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "devops",
+      "kubernetes",
+      "nginx",
+      "webdev"
+    ]
+  },
+  {
+    "id": "016",
     "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 42\n# Comments: 7",
+    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 79\n# Comments: 31",
     "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -178,9 +210,9 @@
     ]
   },
   {
-    "id": "014",
+    "id": "017",
     "title": "A nicer voltmeter clock",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 59\n# Comments: 13",
+    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 90\n# Comments: 14",
     "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -189,9 +221,9 @@
     ]
   },
   {
-    "id": "015",
+    "id": "018",
     "title": "MCP Hello Page",
-    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 48\n# Comments: 20",
+    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 65\n# Comments: 24",
     "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -200,9 +232,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "019",
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 160\n# Comments: 45",
+    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 217\n# Comments: 72",
     "url": "https://crates.io/crates/zerostack/1.0.0",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -211,9 +243,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "020",
     "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 60\n# Comments: 68",
+    "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 109\n# Comments: 95",
     "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -222,20 +254,9 @@
     ]
   },
   {
-    "id": "018",
-    "title": "Japan’s robot wolf sells out as record bear attacks drive demand",
-    "summary": "Article URL: https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html\nComments URL: https://news.ycombinator.com/item?id=48162882\nPoints: 89\n# Comments: 53",
-    "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
-    "date": "2026-05-16",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "019",
+    "id": "021",
     "title": "Halt and Catch Fire",
-    "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 81\n# Comments: 51",
+    "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 95\n# Comments: 56",
     "url": "https://unstack.io/halt-and-catch-fire",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -244,32 +265,10 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-    "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 111\n# Comments: 74",
-    "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-    "date": "2026-05-16",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-    "summary": "Article URL: https://tangled.org/rocksky.app/rocksky\nComments URL: https://news.ycombinator.com/item?id=48161881\nPoints: 59\n# Comments: 22",
-    "url": "https://tangled.org/rocksky.app/rocksky",
-    "date": "2026-05-16",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "022",
-    "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
-    "summary": "https://mag.openrockets.com/p/how-an-australian-teen-team-is...\n\nComments URL: https://news.ycombinator.com/item?id=48160914\nPoints: 106\n# Comments: 28",
-    "url": "https://parttelescopes.web.app/",
+    "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+    "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 117\n# Comments: 83",
+    "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
     "date": "2026-05-16",
     "source": "Hacker News",
     "tags": [
