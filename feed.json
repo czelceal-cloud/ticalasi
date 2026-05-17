@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 29\n# Comments: 4",
+      "url": "https://klaxon.live/",
+      "title": "Klaxon a livr earthquake map with no back end",
+      "summary": "Article URL: https://klaxon.live/\nComments URL: https://news.ycombinator.com/item?id=48167823\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 170\n# Comments: 46",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 48\n# Comments: 15",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 126\n# Comments: 11",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 287\n# Comments: 96",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 62\n# Comments: 16",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 152\n# Comments: 13",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -51,6 +51,122 @@
     },
     {
       "id": "005",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 68\n# Comments: 17",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
+      "title": "A revolutionary cancer treatment could transform autoimmune disease",
+      "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Health",
+        "Science",
+        "autoimmune disease",
+        "cancer treatment",
+        "syndication",
+        "targeted cancer treatments"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "007",
+      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
+      "date_published": "2026-05-17",
+      "tags": [
+        "AI",
+        "Column",
+        "The Stepback"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "008",
+      "url": "https://www.wired.com/review/oto-smart-sprinkler/",
+      "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
+      "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Shopping",
+        "review",
+        "Reviews",
+        "household",
+        "Home",
+        "smart home",
+        "Backyard",
+        "Product Review"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "009",
+      "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
+      "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
+      "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Gear / Products / Outdoor",
+        "Backyard",
+        "Yardware Upgrade",
+        "Food and Drink",
+        "grills",
+        "Hot Ones"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "010",
+      "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
+      "title": "Take Control of Your Debt With These Free Tools",
+      "summary": "These free debt calculators help you set up payment plans to get back in the black.",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Gear",
+        "Gear / How To and Advice",
+        "money",
+        "tips",
+        "how-to",
+        "banks",
+        "Apps",
+        "economics",
+        "Chip Away"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "011",
+      "url": "https://www.wired.com/story/bowling-lane-oil/",
+      "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
+      "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Sports",
+        "leisure",
+        "Training",
+        "Sports &amp; Outdoors",
+        "Slick Stuff"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "012",
       "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
       "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
       "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
@@ -67,7 +183,7 @@
       "_source": "Wired"
     },
     {
-      "id": "006",
+      "id": "013",
       "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
       "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
       "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
@@ -86,232 +202,173 @@
       "_source": "Wired"
     },
     {
-      "id": "007",
-      "url": "https://dev.to/mrduguo/where-react-for-iac-came-from-10e0",
-      "title": "Where React for IaC came from",
-      "summary": "This is the first technical post in the Dinghy series, and it is the one I had to write before any of the others made sense. It is the origin story of the project — how a Terraform codebase that had grown beyond what copy-paste could maintain ended up being rendered out of TSX — and the core concept",
-      "date_published": "2026-05-17",
-      "tags": [
-        "react",
-        "terraform",
-        "cdktf",
-        "drawio"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/kathirvel-s/breaking-down-browser-devtools-until-it-finally-made-click-3ce9",
-      "title": "Breaking Down Browser DevTools Until It Finally Made Click",
-      "summary": "Introduction\n\n\nWelcome to the 3rd episode of my series “Sunday Source - I Break It, Then Explain It”.\n\nYesterday, I attended a mock interview at my Payilagam institute, and the interviewer Prithivraj asked me a simple but tricky question:\n\n\n“In a browser, there is a button. On click, where do you se",
-      "date_published": "2026-05-17",
-      "tags": [
-        "productivity",
-        "webdev",
-        "learning",
-        "sundaysource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293",
-      "title": "Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You",
-      "summary": "In May 2026, a paper titled \"FP-Agent: Fingerprinting AI Browsing Agents\" was published on arXiv. The research team measured 7 mainstream AI browsing agents and found that their mouse trajectories, typing rhythms, and other behavioral features form a distinctive fingerprint -- not only distinguishin",
-      "date_published": "2026-05-17",
-      "tags": [
-        "machinelearning",
-        "python",
-        "privacy",
-        "automation"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j",
-      "title": "How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs",
-      "summary": "Sub-arcsecond planetary positions, sunrise for any location on Earth, and an entire astronomical calendar — all computed server-side in a Next.js app.\n\n\n\n\nFor the past year I've been building Dekho Panchang — an Indian Vedic astrology web app that computes a daily Panchang (the traditional Hindu alm",
-      "date_published": "2026-05-17",
-      "tags": [
-        "algorithms",
-        "nextjs",
-        "typescript",
-        "mathematics"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/kashishlakhara04/etcd-mvcc-database-space-exceeded-full-recovery-guide-for-on-prem-kubernetes-4pha",
-      "title": "etcd: mvcc: database space exceeded: full recovery guide for on-prem Kubernetes",
-      "summary": "It was a regular working day when the first alert landed. Kubernetes health check showing the control plane was degraded. I'd seen these before. Usually a quick look, a quick fix.\n\nThen I ran kubectl get nodes. The command just hung. I ran it again and this time it returned, slowly. Something was of",
-      "date_published": "2026-05-17",
-      "tags": [
-        "kubernetes",
-        "devops",
-        "etcd",
-        "sre"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp",
-      "title": "Why Does Google Keep Changing My Language? (And How to Fix It)",
-      "summary": "Have you ever searched for something on your browser and suddenly Google decides you now speak a completely different language just because of where you are? 😂\n\nMaybe you searched for a programming tutorial and got results in French.\nMaybe you traveled somewhere and your browser started showing loca",
-      "date_published": "2026-05-17",
-      "tags": [
-        "google",
-        "productivity",
-        "tutorial",
-        "web"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/naman_sachdeva/i-got-bored-of-normal-websites-so-i-tried-making-one-feel-alive-285a",
-      "title": "I Got Bored of “Normal” Websites… So I Tried Making One Feel Alive ✨",
-      "summary": "Most websites today are fast.\nResponsive. Clean.\n\nBut honestly?\n\nA lot of them don’t feel anything anymore.\n\nEverything became:\n\n\npredictable\nflat\noverly structured\n\n\nSo instead of building another “productive” project, I decided to build something completely unnecessary 😭\nProject link:- https://nam",
-      "date_published": "2026-05-17",
-      "tags": [
-        "javascript",
-        "webdev",
-        "frontend",
-        "css"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "014",
-      "url": "https://dev.to/innovationsiyu/what-happens-when-your-ai-profile-decays-across-conversations-our-impression-management-pipeline-4424",
-      "title": "What happens when your AI profile decays across conversations? Our impression management pipeline keeps it sharp with semantic tagging, conflict detection, and real-time dual-perspective indexing. Read the full design breakdown:",
-      "summary": "Maintaining an Agent-Searchable Profile: Public Impressions, Semantic Tags, and Real-Time Refresh\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Siyu\n            \n            \n              \n                Siyu\n                \n",
+      "url": "https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534",
+      "title": "Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nMillions of farmers in Tamil Nadu speak Tamil as their primary language. Agricultural advice — government portals, extension services, online resources — is mostly in English. When a crop fails, a farmer shou",
       "date_published": "2026-05-17",
       "tags": [
-        "agents",
-        "ai",
-        "machinelearning",
-        "systemdesign"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/aws-builders/event-driven-ransomware-detection-with-ontap-arp-datadog-4cda",
-      "title": "Event-Driven Ransomware Detection with ONTAP ARP + Datadog",
-      "summary": "TL;DR\n\n\nONTAP's Autonomous Ransomware Protection (ARP) detects encryption patterns at the storage layer. When ARP fires, an EMS event is pushed via webhook to API Gateway → Lambda → Datadog. In my validation environment, end-to-end latency was around 30 seconds. This post shows how to wire it up, wh",
+      "url": "https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap",
+      "title": "Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan",
+      "summary": "Why this project exists\n\n\nMy background is in web development. TypeScript, Node.js, React — that's been my world for years. I've spent a lot of time thinking about software architecture: SOLID principles, onion architecture, dependency injection, separation of concerns. All of that in the context of",
       "date_published": "2026-05-17",
       "tags": [
-        "aws",
-        "serverless",
-        "datadog",
-        "amazonfsxfornetappontap"
+        "cpp",
+        "gamedev",
+        "webdev",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/aws-builders/shipping-fsx-for-ontap-logs-to-datadog-the-serverless-way-n9c",
-      "title": "Shipping FSx for ONTAP Logs to Datadog — The Serverless Way",
-      "summary": "TL;DR\n\n\nDeploy a CloudFormation stack, configure ONTAP audit logging, and see structured file access events in Datadog Log Explorer within minutes — no EC2, no NFS mounts, no agents. This post walks through the full implementation: CloudFormation template, Lambda handler code, Datadog field mapping,",
+      "url": "https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a",
+      "title": "The AI Ghostwriter Experiment",
+      "summary": "Over the past few months, I ran an experiment on this blog.\n\nBalancing engineering projects, open-source contributions, and university means deep-focus writing is a luxury I rarely have. I wanted to test a hypothesis: Can a developer leverage LLMs to fully automate content creation without losing te",
       "date_published": "2026-05-17",
       "tags": [
-        "aws",
-        "serverless",
-        "datadog",
-        "amazonfsxfornetappontap"
+        "systemdesign",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/vladimirivanov/mental-algorithms-how-ai-changes-the-cost-of-thinking-48ho",
-      "title": "Mental Algorithms: How AI Changes the Cost of Thinking",
-      "summary": "Most people assume the difference between good thinking and bad thinking is intelligence.\n\nIt isn't.\n\nMore often, it comes down to cost — how much mental effort it takes to arrive at a useful answer. Some answers require slow, deliberate reasoning. Others emerge almost instantly through pattern reco",
+      "url": "https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea",
+      "title": "Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective",
+      "summary": "The Acquisition Nobody in Brisbane DevOps Should Ignore\n\n\nGoogle has completed its acquisition of Wiz — and if you're running multicloud infrastructure in Brisbane right now, your security architecture just got more complicated, not simpler.\n\nAt RSA Conference 2026, Google Cloud's Office of the CISO",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "learning",
-        "productivity"
+        "googlewizacquisition",
+        "multicloudsecurity",
+        "devsecopsbrisbane",
+        "cnappplatformengineering"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://dev.to/soumia_g_9dc322fc4404cecd/reducing-llm-hallucinations-in-2026-lora-f-dpo-and-the-math-that-actually-works-50e0",
-      "title": "Reducing LLM Hallucinations in 2026: LoRA, F-DPO, and the Math That Actually Works",
-      "summary": "It is May 2026, and the field has stopped pretending hallucinations are going to disappear.\n\n\nWhat has happened instead is more interesting. Researchers have spent the last eighteen months building an entire toolkit — fine-tuning methods, low-rank adaptation techniques, preference optimization frame",
+      "url": "https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7",
+      "title": "I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes",
+      "summary": "After seeing creators build websites quickly with Lovable, Replit, WordPress, and no-code tools, I noticed a frustrating problem:\n\nBuilding the website was easy.\nTurning it into a Play Store-ready Android app wasn't.\n\nMost solutions felt expensive, complicated, or overloaded.\n\nSo I built Native App ",
       "date_published": "2026-05-17",
       "tags": [
-        "rag",
-        "dpo",
-        "finetuning",
-        "marine"
+        "ai",
+        "webdev",
+        "nocode",
+        "pwa"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "title": "A nicer voltmeter clock",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 176\n# Comments: 24",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f",
+      "title": "React E-commerce App Is Invisible to Google - Here's Why (and the Fix)",
+      "summary": "I spent a weekend wondering why a client's Next.js store had zero Google Shopping impressions after three months live. The site looked great. Performance scores were solid. But Googlebot was essentially blind to 80% of the product catalog.\n\nThe culprit wasn't the framework. It was a handful of missi",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "seo",
+        "ecommerce",
+        "react"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "title": "MCP Hello Page",
-      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 96\n# Comments: 31",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/bala_paranj_059d338e44e7e/z3-can-prove-your-cloud-is-unsafe-it-cant-tell-you-why-48jh",
+      "title": "Z3 Can Prove Your Cloud is Unsafe. It Can't Tell You Why.",
+      "summary": "Z3 is one of the most powerful reasoning engines ever built. Microsoft Research created it to verify chip designs and flight software. It can take your cloud configuration, model it as a set of logical assertions, and mathematically prove whether an attack path exists.\n\nZ3 says when it finds one:\n\n\n",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "cloud",
+        "security",
+        "aws",
+        "go"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "021",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 390\n# Comments: 159",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/electronyxai/i-built-a-desktop-ide-around-ssh-sessions-because-nothing-else-worked-the-way-i-do-365i",
+      "title": "I built a desktop IDE around SSH sessions because nothing else worked the way I do",
+      "summary": "I'm Wes, solo developer behind AidaIDE. I launched on Hacker News today and wanted to write up the longer version here for the dev.to crowd.\n\n\n  \n  \n  The problem\n\n\nMy day-to-day has me SSHing into about 15 different boxes: a couple of cloud VMs, a homelab, embedded boards on my LAN. For years my se",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "devtools",
+        "ssh",
+        "showdev",
+        "productivity"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 14\n# Comments: 0",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/monuminu/agent-harness-running-multiple-parallel-agents-for-deep-exploration-12jg",
+      "title": "Agent Harness: Running Multiple Parallel Agents for Deep Exploration",
+      "summary": "Meta Description: Learn how agent harnesses orchestrate multiple parallel AI agents for deep exploration tasks — covering fan-out/fan-in architecture, aggregation strategies, real-world use cases like codebase analysis and security auditing, engineering challenges, and the evolving framework landsca",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "ai",
+        "agents",
+        "architecture",
+        "machinelearning"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 188\n# Comments: 211",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-i-built-and-shipped-4-cli-tools-in-one-weekend-3n8b",
+      "title": "How I Built and Shipped 4 CLI Tools in One Weekend",
+      "summary": "Last Friday night I decided to stop being a consumer and start being a builder. By Sunday midnight, I had 4 CLI tools live on npm and GitHub. Here's exactly how I did it.\n\n\n  \n  \n  The Rules I Set\n\n\n\n\nZero dependencies — no node_modules black hole\n\nSingle file per tool — no build step, no config\n\nnp",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "javascript",
+        "webdev",
+        "programming",
+        "productivity"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "title": "Halt and Catch Fire",
-      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 139\n# Comments: 73",
+      "url": "https://dev.to/sadoyan/migrating-a-scylladb-cluster-the-brain-transplant-way-538c",
+      "title": "Migrating a ScyllaDB Cluster the “Brain Transplant” Way",
+      "summary": "Ever tried migrating a ScyllaDB cluster when traditional replication tools are off the table? \n\nI went a little \"mad scientist\" and pulled off what I call a cluster brain transplant.\n\nThe idea: copy the raw data files while the source cluster keeps running, then cut over with minimal downtime.\n\nRisk",
+      "date_published": "2026-05-17",
+      "tags": [
+        "scylladb",
+        "bigdata",
+        "database"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "025",
+      "url": "https://dev.to/ismail_zamareh_d099419122bc4f/beyond-the-hype-building-production-grade-mcp-servers-for-ai-integration-1hjm",
+      "title": "Beyond the Hype: Building Production-Grade MCP Servers for AI Integration",
+      "summary": "The Model Context Protocol (MCP) is reshaping how AI applications connect to the world. Introduced by Anthropic in November 2024, MCP provides a standardized, open-source framework for Large Language Models (LLMs) to interact with external tools, data sources, and workflows. Instead of every AI plat",
+      "date_published": "2026-05-17",
+      "tags": [
+        "mcp",
+        "modelcontextprotocol",
+        "aiintegration",
+        "serverarchitecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "026",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "title": "A nicer voltmeter clock",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 212\n# Comments: 27",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -319,88 +376,48 @@
       "_source": "Hacker News"
     },
     {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "title": "The haves and have nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "AI",
-        "Startups",
-        "deedy das"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Startups",
-        "Venture",
-        "Marketing",
-        "menlo ventures",
-        "nectar social"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
       "id": "027",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "title": "MCP Hello Page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 109\n# Comments: 36",
       "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "arxiv"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "028",
-      "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
-      "title": "The offline desk gadget that actually got me to sit up straight",
-      "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 432\n# Comments: 200",
       "date_published": "2026-05-16",
       "tags": [
-        "Gadgets",
-        "Work From Home",
-        "work from home gear",
-        "on device AI",
-        "local AI"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 16\n# Comments: 0",
       "date_published": "2026-05-16",
       "tags": [
-        "AI",
-        "Startups",
-        "greg brockman",
-        "OpenAI"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
-      "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
-      "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 213\n# Comments: 255",
       "date_published": "2026-05-16",
       "tags": [
-        "TC",
-        "Startups",
-        "Venture",
-        "founders",
-        "Cerebras"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     }
   ]
 }
