@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 22\n# Comments: 0",
-    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 176\n# Comments: 80",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "I don't think AI will make your processes go faster",
-    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 82\n# Comments: 46",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 123\n# Comments: 57",
+    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Apple Silicon costs more than OpenRouter",
-    "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 77\n# Comments: 44",
-    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 43\n# Comments: 13",
+    "url": "https://github.com/tech4bot/rk3562deb",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Native all the way, until you need text",
-    "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 136\n# Comments: 74",
-    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "title": "AI is a technology not a product",
+    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 84\n# Comments: 22",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-    "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb\nComments URL: https://news.ycombinator.com/item?id=48168056\nPoints: 66\n# Comments: 43",
-    "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+    "title": "CUDA Books",
+    "summary": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 21\n# Comments: 0",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-    "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 77\n# Comments: 27",
-    "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+    "title": "Agentic Trading with Safe Guardrails",
+    "summary": "Article URL: https://github.com/ShurikenTrade/shuriken-skills\nComments URL: https://news.ycombinator.com/item?id=48168426\nPoints: 14\n# Comments: 3",
+    "url": "https://github.com/ShurikenTrade/shuriken-skills",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-    "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 388\n# Comments: 153",
-    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+    "title": "I don't think AI will make your processes go faster",
+    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 226\n# Comments: 155",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Hosting a website on an 8-bit microcontroller",
-    "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 167\n# Comments: 14",
-    "url": "https://maurycyz.com/projects/mcusite/",
+    "title": "Apple Silicon costs more than OpenRouter",
+    "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 168\n# Comments: 133",
+    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -89,6 +89,44 @@
   },
   {
     "id": "009",
+    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
+    "summary": "Article URL: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\nComments URL: https://news.ycombinator.com/item?id=48168159\nPoints: 26\n# Comments: 16",
+    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "date": "2026-05-17",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Native all the way, until you need text",
+    "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 227\n# Comments: 153",
+    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "date": "2026-05-17",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
+    "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
+    "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+    "date": "2026-05-17",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "Hardware",
+      "Venture",
+      "Fundraising",
+      "Eclipse Ventures",
+      "Cerebras"
+    ]
+  },
+  {
+    "id": "012",
     "title": "A revolutionary cancer treatment could transform autoimmune disease",
     "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
     "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
@@ -104,7 +142,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "013",
     "title": "Oddity is masterfully tense horror from the director of Hokum",
     "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
     "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
@@ -118,7 +156,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "014",
     "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
     "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
     "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
@@ -132,7 +170,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "015",
     "title": "ElliQ is a surprisingly helpful companion robot for older adults",
     "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
     "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
@@ -145,7 +183,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "016",
     "title": "Chatbots at the drive-thru are just the beginning",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
     "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
@@ -158,7 +196,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "017",
     "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
     "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
     "url": "https://www.wired.com/review/oto-smart-sprinkler/",
@@ -179,7 +217,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "018",
     "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
     "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
     "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
@@ -198,7 +236,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "019",
     "title": "Take Control of Your Debt With These Free Tools",
     "summary": "These free debt calculators help you set up payment plans to get back in the black.",
     "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
@@ -217,7 +255,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "020",
     "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
     "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
     "url": "https://www.wired.com/story/bowling-lane-oil/",
@@ -234,7 +272,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "021",
     "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
     "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
     "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
@@ -251,7 +289,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "022",
     "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
     "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
     "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
@@ -270,154 +308,113 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Why element.click() Isn't a Click",
-    "summary": "My AI agent had a checkbox to tick. A multi-step form: tick two boxes, hit Next. It ticked the boxes. It hit Next. The form rejected it and snapped back to step one — every time.\n\nThe boxes were visibly checked. The DOM said checked = true. The agent had done everything right. The form still didn't ",
-    "url": "https://dev.to/achiya-automation/why-elementclick-isnt-a-click-9kd",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "webdev",
-      "ai",
-      "opensource"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "GemmaLink: Your Private Eye Assistant",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nMost local AI setups are currently a dependency nightmare, forcing users into heavy Python environments, massive CUDA toolkits, or complex Docker configurations. I built GemmaLink to achieve the exact opposit",
-    "url": "https://dev.to/bumbulik0/gemmalink-your-private-eye-assistant-3fgg",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Building CLIAR — A simple drop-in Java class for parsing command-line arguments (Final part of 4)",
-    "summary": "Welcome to the final part of my rolling blog series. In this installment, we’ll add the remaining methods needed to access parsed command‑line arguments, along with a small but useful feature: automatically generating a formatted help message from the declared options.\nTo wrap things up, I’ll also h",
-    "url": "https://dev.to/onebitwonder/building-cliar-a-simple-drop-in-java-class-for-parsing-command-line-arguments-final-part-of-4-2oe3",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "java",
-      "cli",
-      "beginners",
-      "tutorial"
-    ]
-  },
-  {
     "id": "023",
-    "title": "Mi experiencia en el AWS re:Invent 2024: De Asistente a Speaker 🚀",
-    "summary": "¡Hola a toda la comunidad de dev.to! 👋 \n\nLlevo 11 años trabajando como DevOps Engineer y recién me animé a vivir esta experiencia de la nube en el AWS re:Invent 2024. El evento oficial ocurrió del Lunes 2 al Viernes 6 de Diciembre del 2024, y la experiencia me encantó tanto, que volví en el 2025 (¡p",
-    "url": "https://dev.to/carotechie/mi-experiencia-en-el-aws-reinvent-2024-de-asistente-a-speaker-po0",
+    "title": "Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.",
+    "summary": "Every AI benchmark I've seen makes the same mistake. They rank models by a single number — accuracy, pass rate, vulnerability rate — and call it a day.\n\nIn Part 3, we did exactly that. We ranked 5 models from Claude and Gemini by aggregate vulnerability rate and declared Haiku the safest (49%) and G",
+    "url": "https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "aws",
-      "career",
-      "womenintech",
-      "devops"
+      "ai",
+      "security",
+      "googleai",
+      "javascript"
     ]
   },
   {
     "id": "024",
-    "title": "ReactPress 3.0 : One Minute to Your Own CMS",
-    "summary": "If you’ve ever spent an afternoon juggling MySQL, .env files, separate frontend/backend repos, and half a dozen npm packages just to launch a blog—ReactPress 3.0 folds that into two commands.\n\n\nReactPress is a modern full-stack publishing platform built on React, Next.js, and NestJS: a public site, ",
-    "url": "https://dev.to/fecommunity_27/reactpress-30-one-minute-to-your-own-cms-17am",
+    "title": "Database Replication Lag: The Invisible Disaster",
+    "summary": "Database replication, a cornerstone of modern application architectures, is indispensable for providing high availability, disaster recovery, and read scalability. However, lurking within this critical mechanism is a insidious threat: replication lag. Often overlooked or underestimated, this conditi",
+    "url": "https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "reactpress",
-      "react",
-      "nextjs",
-      "programming"
+      "database",
+      "replikasyon",
+      "replicationlag",
+      "veritutarliligi"
     ]
   },
   {
     "id": "025",
-    "title": "Four LLM Workflows That Actually Survive Production",
-    "summary": "Most teams waste time trying to ship a magical assistant before they have one boring workflow that makes money or saves hours. The production wins usually come from narrow tasks, hard guardrails, and obvious success metrics.\n\nIf you are responsible for getting an LLM feature past the demo stage, the",
-    "url": "https://dev.to/nimesh_kulkarni_2f7a2057e/four-llm-workflows-that-actually-survive-production-48h9",
+    "title": "How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews",
+    "summary": "How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews — and why it matters.\n\nLet me paint a picture you’ve probably lived.\n\nYou have an interview in three days. You open YouTube, watch a two-hour system design video, take",
+    "url": "https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "llm",
-      "automation"
+      "career",
+      "interview",
+      "learning"
     ]
   },
   {
     "id": "026",
-    "title": "Building a Zero-Trust, Tamper-Evident Audit Trail in EF Core (And Why Standard Logs Fail)",
-    "summary": "Most of us have built an audit logging system at some point. The standard playbook is predictable: you hook into Entity Framework Core's SaveChanges interceptor or write a database trigger, capture the OldValues and NewValues as JSON, stamp it with a UserId and Timestamp, and save it to an AuditLogs",
-    "url": "https://dev.to/furkiak/building-a-zero-trust-tamper-evident-audit-trail-in-ef-core-and-why-standard-logs-fail-20om",
+    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+    "summary": "Ever found yourself yearning for a coding environment that's as elegant and efficient as Unix? I’ve been there, navigating through clunky IDEs and cumbersome setups, wishing for something that felt like home. That's when I stumbled upon Zerostack—a Unix-inspired coding agent crafted in pure Rust. Le",
+    "url": "https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "dotnet",
-      "security",
-      "architecture",
-      "blockchain"
+      "ai",
+      "machinelearning",
+      "techtrends"
     ]
   },
   {
     "id": "027",
-    "title": "HTML and CSS Basic",
-    "summary": "HTML and CSS, every element is considered a rectangular \"box\". This concept is known as the CSS Box Model, which determines how elements are sized and spaced on a webpage\n\nThe Four Layers of the Box Model\n\nEach box consists of four distinct areas, layered from the inside out:\n\n- Content Box: \n\nThe i",
-    "url": "https://dev.to/raja_b_0c9d242e2c26cf063b/html-and-css-basic-dfm",
+    "title": "Why npm supply chain attacks keep happening and how to harden your installs",
+    "summary": "When npm install becomes a security event\n\n\nLook, I love npm. I've been shipping JavaScript for years and the ecosystem is genuinely incredible. But every few months we get another headline: a popular package gets hijacked, a maintainer's token leaks, a typosquatted package siphons environment varia",
+    "url": "https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "html",
-      "css",
-      "raja"
+      "npm",
+      "security",
+      "javascript",
+      "devops"
     ]
   },
   {
     "id": "028",
-    "title": "The VM That Survived the Migration But Lost Its Identity",
-    "summary": "The migration ran clean. The VM came up on AHV within the expected window. Storage latency was nominal. The health check returned green. The team marked it complete, moved to the next workload, and closed the cutover ticket.\n\nSeventy-two hours later, a service desk ticket arrived. Intermittent authe",
-    "url": "https://dev.to/ntctech/the-vm-that-survived-the-migration-but-lost-its-identity-3ndo",
+    "title": "Ten MCP servers I shipped this year. I use three.",
+    "summary": "I shipped ten Model Context Protocol servers under one npm scope this year. Three I use multiple times a week. Seven sit in my config file as dead weight. This is the honest ranking. The pattern is uncomfortable for the MCP-everywhere hype cycle, so I want to write it down.\n\n\n  \n  \n  The three I act",
+    "url": "https://dev.to/mukundakatta/ten-mcp-servers-i-shipped-this-year-i-use-three-1mc5",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "vmware",
-      "infrastructure",
-      "devops",
-      "cloud"
+      "mcp",
+      "ai",
+      "opensource",
+      "productivity"
     ]
   },
   {
     "id": "029",
-    "title": "devmcp-context: A Simple AI Memory Layer for Your Agent",
-    "summary": "AI assistants are useful, but they often forget important details between sessions. That makes it hard to keep track of decisions, project notes, bugs, and tasks.\n\ndevmcp-context solves that by giving your agent a simple memory layer that lives in your project folder. It is built as a Model Context ",
-    "url": "https://dev.to/kushal1o1/devmcp-context-a-simple-ai-memory-layer-for-your-agent-176f",
+    "title": "Five problems every agent loop has. No framework needed.",
+    "summary": "Most agent failure modes are not interesting. They are boring. They are the same five problems in different costumes. After eighteen months running agent loops in production, I keep meeting these five and only these five.\n\nI do not build agent frameworks. I build small libraries that fix one failure",
+    "url": "https://dev.to/mukundakatta/five-problems-every-agent-loop-has-no-framework-needed-26di",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "mcp",
-      "python",
-      "opensource"
+      "agents",
+      "opensource",
+      "rust"
     ]
   },
   {
     "id": "030",
-    "title": "Hermes Agent as a Farmer's AI Advisor — Built on Android, Tested in Assam",
-    "summary": "Hermes Agent Challenge Build Submission\n\n\n\n\n\n  \n  \n  What I Built\n\n\nA working agricultural AI advisor powered by Hermes Agent, running entirely on an Android phone via Termux, tested with real farming questions from Silchar, Assam, Northeast India.\n\nNo laptop. No GPU. No cloud server. Just a phone, ",
-    "url": "https://dev.to/divinesouljoy/hermes-agent-as-a-farmers-ai-advisor-built-on-android-tested-in-assam-57dn",
+    "title": "How I Solved N-Queens Using Bitmasking (Step-by-Step Guide)",
+    "summary": "🚀 Solving N-Queens Using Bitmasking (Step-by-Step Guide)\n\n\n\n  \n  \n  🧠 Problem Overview\n\n\nThe N-Queens problem:\n\n\nPlace n queens on an n × n chessboard such that no two queens attack each other.\n\n\n\n\n\n\n  \n  \n  ⚡ Why Bitmasking?\n\n\nInstead of using:\n\n\nSets ❌\nArrays ❌\n\n\nWe use:\n\n\n\nBits (0/1) ✅ → faster &",
+    "url": "https://dev.to/abivarsanr/how-i-solved-n-queens-using-bitmasking-step-by-step-guide-45em",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "opensource",
       "programming",
-      "webdev"
+      "python",
+      "algorithms"
     ]
   }
 ]
