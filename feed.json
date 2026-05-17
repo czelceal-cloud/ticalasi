@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 69\n# Comments: 6",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 29\n# Comments: 4",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
-      "title": "Tesla Solar Roof is on life support as it pivot to panels",
-      "summary": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\nComments URL: https://news.ycombinator.com/item?id=48165980\nPoints: 62\n# Comments: 43",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 170\n# Comments: 46",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://twitter.com/grafana/status/2055827123236171827",
-      "title": "Grafana Labs internal source code accessed",
-      "summary": "Article URL: https://twitter.com/grafana/status/2055827123236171827\nComments URL: https://news.ycombinator.com/item?id=48165902\nPoints: 43\n# Comments: 10",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 126\n# Comments: 11",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 109\n# Comments: 8",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 62\n# Comments: 16",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -51,195 +51,212 @@
     },
     {
       "id": "005",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 53\n# Comments: 13",
+      "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
+      "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
+      "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
       "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "Science",
+        "Science / Environment",
+        "physics",
+        "Geology",
+        "nuclear",
+        "materials",
+        "Deep Impact"
       ],
-      "_source": "Hacker News"
+      "_source": "Wired"
     },
     {
       "id": "006",
-      "url": "https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285",
-      "title": "GitHub enters the terminal agent wars with Copilot CLI",
-      "summary": "GitHub has quietly been building the most compelling answer to Claude Code and OpenAI's Codex CLI — and it just arrived as a standalone product. Copilot CLI is a terminal-native coding agent that lives outside VS Code, competes head-on with Anthropic and OpenAI's standalone tools, and leans hard int",
+      "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
+      "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
+      "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "github",
-        "developer",
-        "devtools"
+        "Gear",
+        "Gear / Gear News and Events",
+        "design",
+        "Architecture",
+        "Infrastructure",
+        "construction",
+        "Israel-Hamas War",
+        "Palestine",
+        "Stack It Up"
       ],
-      "_source": "Dev.to"
+      "_source": "Wired"
     },
     {
       "id": "007",
-      "url": "https://dev.to/vishal_veerareddy_9cdd17d/html-is-the-new-markdown-3hf8",
-      "title": "HTML Is the New Markdown",
-      "summary": "A response to Thariq Shihipar's \"HTML is the new markdown\" post — and a practical answer for anyone watching their per-request costs creep up.\n\n\n\n\n\n  \n  \n  The tweet that started it\n\n\nOn May 8, Thariq Shihipar — a member of the Claude Code team at Anthropic — posted what is now one of the most-discu",
+      "url": "https://dev.to/mrduguo/where-react-for-iac-came-from-10e0",
+      "title": "Where React for IaC came from",
+      "summary": "This is the first technical post in the Dinghy series, and it is the one I had to write before any of the others made sense. It is the origin story of the project — how a Terraform codebase that had grown beyond what copy-paste could maintain ended up being rendered out of TSX — and the core concept",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "html",
-        "productivity",
-        "webdev"
+        "react",
+        "terraform",
+        "cdktf",
+        "drawio"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/nishimura/llms-diverge-humans-converge-llms-cant-come-up-with-ideas-161m",
-      "title": "LLMs Diverge, Humans Converge — LLMs Can't Come Up With Ideas",
-      "summary": "LLMs can't come up with ideas.\n\nThe output of an LLM (Large Language Model) tends to be divergent. It moves in the direction of deriving combinations from its training data. Good ideas, on the other hand, are convergent. They solve multiple problems at once with a single mechanism.\n\nWhen using LLMs,",
+      "url": "https://dev.to/kathirvel-s/breaking-down-browser-devtools-until-it-finally-made-click-3ce9",
+      "title": "Breaking Down Browser DevTools Until It Finally Made Click",
+      "summary": "Introduction\n\n\nWelcome to the 3rd episode of my series “Sunday Source - I Break It, Then Explain It”.\n\nYesterday, I attended a mock interview at my Payilagam institute, and the interviewer Prithivraj asked me a simple but tricky question:\n\n\n“In a browser, there is a button. On click, where do you se",
       "date_published": "2026-05-17",
       "tags": [
-        "llm",
-        "claude",
-        "ai"
+        "productivity",
+        "webdev",
+        "learning",
+        "sundaysource"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/myc911/algorithmic-challenge-how-do-we-mathematically-audit-semantic-authority-in-llms-open-sourcing-1i6g",
-      "title": "Algorithmic Challenge: How do we mathematically audit semantic authority in LLMs? (Open-sourcing LSW)",
-      "summary": "Hey devs, we've been running into an algorithmic challenge lately: when modern LLM search engines (like Perplexity or ChatGPT Search) crawl our enterprise platforms, how do they mathematically determine semantic authority?\n\nWe've open-sourced a theoretical multi-factor vector framework called LSW In",
+      "url": "https://dev.to/bing_yu/training-your-mouse-behavior-clone-make-ai-browser-agents-move-like-you-5293",
+      "title": "Training Your Mouse Behavior Clone: Make AI Browser Agents Move Like You",
+      "summary": "In May 2026, a paper titled \"FP-Agent: Fingerprinting AI Browsing Agents\" was published on arXiv. The research team measured 7 mainstream AI browsing agents and found that their mouse trajectories, typing rhythms, and other behavioral features form a distinctive fingerprint -- not only distinguishin",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
         "machinelearning",
-        "seo",
-        "python"
+        "python",
+        "privacy",
+        "automation"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/ankit_singhchadda_6570f3/what-should-you-use-now-that-google-interview-warmup-is-dead-2fci",
-      "title": "What Should You Use Now That Google Interview Warmup Is Dead?",
-      "summary": "How I built 10xInterview.com solo — the dual-backend AI router, SSE token streaming, pgvector for embeddings, and webhook-driven billing. A Google Interview Warmup alternative.\n\nWhen Google quietly retired Interview Warmup, a small but useful tool that let you record spoken interview answers and get",
+      "url": "https://dev.to/krazykrackpot/how-i-built-a-vedic-panchang-engine-in-typescript-swiss-ephemeris-meeus-fallback-zero-external-3n5j",
+      "title": "How I Built a Vedic Panchang Engine in TypeScript — Swiss Ephemeris, Meeus Fallback, Zero External APIs",
+      "summary": "Sub-arcsecond planetary positions, sunrise for any location on Earth, and an entire astronomical calendar — all computed server-side in a Next.js app.\n\n\n\n\nFor the past year I've been building Dekho Panchang — an Indian Vedic astrology web app that computes a daily Panchang (the traditional Hindu alm",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "productivity",
-        "career",
-        "interview"
+        "algorithms",
+        "nextjs",
+        "typescript",
+        "mathematics"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/forgeflows/how-solo-founders-build-ai-automations-under-100month-2hlg",
-      "title": "How Solo Founders Build AI Automations Under $100/Month",
-      "summary": "The Scenario That Started This\n\n\nIn 2026, a founder running a solo consulting practice asked me a direct question: \"I need a chatbot that qualifies leads, answers support questions, and logs everything to my CRM. My budget is tight. Do I hire a developer?\" The honest answer was no. Not because devel",
+      "url": "https://dev.to/kashishlakhara04/etcd-mvcc-database-space-exceeded-full-recovery-guide-for-on-prem-kubernetes-4pha",
+      "title": "etcd: mvcc: database space exceeded: full recovery guide for on-prem Kubernetes",
+      "summary": "It was a regular working day when the first alert landed. Kubernetes health check showing the control plane was degraded. I'd seen these before. Usually a quick look, a quick fix.\n\nThen I ran kubectl get nodes. The command just hung. I ran it again and this time it returned, slowly. Something was of",
       "date_published": "2026-05-17",
       "tags": [
-        "n8n",
-        "nocodeautomation",
-        "aiworkflows",
-        "solofounders"
+        "kubernetes",
+        "devops",
+        "etcd",
+        "sre"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/anveshasri/the-sql-arcade-no-boring-textbooks-allowed-1mh1",
-      "title": "🎮 The SQL Arcade : No Boring Textbooks Allowed",
-      "summary": "Let's be honest: staring at a dry spreadsheet or a thick textbook is probably the worst way to try to learn SQL. It doesn't have to be a grind.\n\nIf you want to learn SQL the fun way — by solving mysteries, popping bubbles, or battling dragons — you are in the right place.\n\nThese platforms are perfec",
+      "url": "https://dev.to/samthuku/why-does-google-keep-changing-my-language-and-how-to-fix-it-2ifp",
+      "title": "Why Does Google Keep Changing My Language? (And How to Fix It)",
+      "summary": "Have you ever searched for something on your browser and suddenly Google decides you now speak a completely different language just because of where you are? 😂\n\nMaybe you searched for a programming tutorial and got results in French.\nMaybe you traveled somewhere and your browser started showing loca",
       "date_published": "2026-05-17",
       "tags": [
-        "webdev",
-        "database",
-        "sql",
-        "beginners"
+        "google",
+        "productivity",
+        "tutorial",
+        "web"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/ayush_saini/raii-in-c-automating-resource-management-with-gcc-attributes-3cgf",
-      "title": "RAII in C: Automating Resource Management with GCC Attributes",
-      "summary": "Memory leaks are one of the oldest and most persistent bugs in C. But what if C could clean up resources automatically when variables leave scope — the same way C++ destructors or Rust's ownership model work?\n\nIn this article, we explore __attribute__((cleanup)), a GCC/Clang extension that brings RA",
+      "url": "https://dev.to/naman_sachdeva/i-got-bored-of-normal-websites-so-i-tried-making-one-feel-alive-285a",
+      "title": "I Got Bored of “Normal” Websites… So I Tried Making One Feel Alive ✨",
+      "summary": "Most websites today are fast.\nResponsive. Clean.\n\nBut honestly?\n\nA lot of them don’t feel anything anymore.\n\nEverything became:\n\n\npredictable\nflat\noverly structured\n\n\nSo instead of building another “productive” project, I decided to build something completely unnecessary 😭\nProject link:- https://nam",
       "date_published": "2026-05-17",
       "tags": [
-        "coding",
-        "programming",
-        "softwareengineering",
-        "tutorial"
+        "javascript",
+        "webdev",
+        "frontend",
+        "css"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://dev.to/stat_phantom/when-chaos-wins-adding-noise-improved-my-snake-ais-stability-1b5l",
-      "title": "When Chaos Wins: Adding Noise Improved My Snake AI's Stability",
-      "summary": "Greetings all! Continuing the series where I build Rainbow DQN one component at a time on Snake. The first post covered encoding, the second covered memory, the third covered PER hurting performance. This one is about a truly WTF?! moment I stumbled into while evaluating the models.\n\nWhen you evalua",
+      "url": "https://dev.to/innovationsiyu/what-happens-when-your-ai-profile-decays-across-conversations-our-impression-management-pipeline-4424",
+      "title": "What happens when your AI profile decays across conversations? Our impression management pipeline keeps it sharp with semantic tagging, conflict detection, and real-time dual-perspective indexing. Read the full design breakdown:",
+      "summary": "Maintaining an Agent-Searchable Profile: Public Impressions, Semantic Tags, and Real-Time Refresh\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Siyu\n            \n            \n              \n                Siyu\n                \n",
       "date_published": "2026-05-17",
       "tags": [
-        "machinelearning",
-        "deeplearning",
+        "agents",
         "ai",
-        "chaos"
+        "machinelearning",
+        "systemdesign"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/aimiten/31-pages-30-days-i-split-the-prepost-data-the-win-predated-the-work-pa2",
-      "title": "31 Pages, 30 Days. I Split the Pre/Post Data. The Win Predated the Work.",
-      "summary": "The 28-day data for /tools/pe-ratio-calculator/ showed \"forward pe calculator\" sitting at position 6.7. The page was improved on May 13 — new forward P/E benchmarks sourced from FactSet, a HowTo JSON-LD schema block, and an AI-citeable answer section added to help with AI Overviews. Position 6.7 on ",
+      "url": "https://dev.to/aws-builders/event-driven-ransomware-detection-with-ontap-arp-datadog-4cda",
+      "title": "Event-Driven Ransomware Detection with ONTAP ARP + Datadog",
+      "summary": "TL;DR\n\n\nONTAP's Autonomous Ransomware Protection (ARP) detects encryption patterns at the storage layer. When ARP fires, an EMS event is pushed via webhook to API Gateway → Lambda → Datadog. In my validation environment, end-to-end latency was around 30 seconds. This post shows how to wire it up, wh",
       "date_published": "2026-05-17",
       "tags": [
-        "seo",
-        "webdev",
-        "ai",
-        "claude"
+        "aws",
+        "serverless",
+        "datadog",
+        "amazonfsxfornetappontap"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/catsnipe/claude-code-vscode-notifications-are-broken-heres-my-windows-workaround-4b23",
-      "title": "Claude Code VSCode Notifications Are Broken — Here's My Windows Workaround",
-      "summary": "Even as someone with only a very loose understanding of web technologies, I was able to ship a real business tool to users around the world in just one week — while even taking security into account.\n\nLately, that has honestly made me feel like people who can only do technical implementation may gra",
+      "url": "https://dev.to/aws-builders/shipping-fsx-for-ontap-logs-to-datadog-the-serverless-way-n9c",
+      "title": "Shipping FSx for ONTAP Logs to Datadog — The Serverless Way",
+      "summary": "TL;DR\n\n\nDeploy a CloudFormation stack, configure ONTAP audit logging, and see structured file access events in Datadog Log Explorer within minutes — no EC2, no NFS mounts, no agents. This post walks through the full implementation: CloudFormation template, Lambda handler code, Datadog field mapping,",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "claude",
-        "vscode",
-        "powershell"
+        "aws",
+        "serverless",
+        "datadog",
+        "amazonfsxfornetappontap"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/ad_man_cf946186dc71743c9b/i-stopped-paying-gpt-4-for-simple-queries-heres-the-router-i-built-36d5",
-      "title": "I Stopped Paying GPT-4 for Simple Queries — Here's the Router I Built",
-      "summary": "I Stopped Paying GPT-4 for Simple Queries\n\n\nYou know that feeling when you send \"What's 2+2?\" to GPT-4 and watch $0.03 vanish?\n\nI was burning through my OpenAI budget like it was 2021 crypto. So I built something that fixed it.\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nMost AI apps use one model fo",
+      "url": "https://dev.to/vladimirivanov/mental-algorithms-how-ai-changes-the-cost-of-thinking-48ho",
+      "title": "Mental Algorithms: How AI Changes the Cost of Thinking",
+      "summary": "Most people assume the difference between good thinking and bad thinking is intelligence.\n\nIt isn't.\n\nMore often, it comes down to cost — how much mental effort it takes to arrive at a useful answer. Some answers require slow, deliberate reasoning. Others emerge almost instantly through pattern reco",
       "date_published": "2026-05-17",
       "tags": [
-        "programming"
+        "ai",
+        "learning",
+        "productivity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-      "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 122\n# Comments: 46",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/soumia_g_9dc322fc4404cecd/reducing-llm-hallucinations-in-2026-lora-f-dpo-and-the-math-that-actually-works-50e0",
+      "title": "Reducing LLM Hallucinations in 2026: LoRA, F-DPO, and the Math That Actually Works",
+      "summary": "It is May 2026, and the field has stopped pretending hallucinations are going to disappear.\n\n\nWhat has happened instead is more interesting. Researchers have spent the last eighteen months building an entire toolkit — fine-tuning methods, low-rank adaptation techniques, preference optimization frame",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "rag",
+        "dpo",
+        "finetuning",
+        "marine"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "019",
       "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
       "title": "A nicer voltmeter clock",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 152\n# Comments: 22",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 176\n# Comments: 24",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -250,7 +267,7 @@
       "id": "020",
       "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
       "title": "MCP Hello Page",
-      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 85\n# Comments: 31",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 96\n# Comments: 31",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -261,7 +278,7 @@
       "id": "021",
       "url": "https://crates.io/crates/zerostack/1.0.0",
       "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 342\n# Comments: 142",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 390\n# Comments: 159",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -272,7 +289,7 @@
       "id": "022",
       "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
       "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 5\n# Comments: 0",
+      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 14\n# Comments: 0",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -281,6 +298,28 @@
     },
     {
       "id": "023",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 188\n# Comments: 211",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "024",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "title": "Halt and Catch Fire",
+      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 139\n# Comments: 73",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -293,7 +332,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
       "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
       "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
@@ -308,7 +347,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
@@ -320,7 +359,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
       "title": "The offline desk gadget that actually got me to sit up straight",
       "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
@@ -335,7 +374,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
@@ -349,7 +388,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
       "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
       "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
@@ -362,38 +401,6 @@
         "Cerebras"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
-      "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
-      "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Hardware",
-        "Gadgets",
-        "Amazon",
-        "Kindle",
-        "evergreens"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
-      "title": "The US is betting on AI to catch insider trading in prediction markets",
-      "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "AI",
-        "Policy",
-        "cftc",
-        "Kalshi",
-        "polymarket",
-        "prediction markets",
-        "syndication"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
