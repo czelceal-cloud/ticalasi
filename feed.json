@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php",
-      "title": "Bear spray is exploding in the trash near Yellowstone National Park",
-      "summary": "Article URL: https://www.sfgate.com/national-parks/article/exploding-bear-spray-yellowstone-22244713.php\nComments URL: https://news.ycombinator.com/item?id=48165548\nPoints: 9\n# Comments: 9",
+      "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+      "title": "Tesla Solar Roof is on life support as it pivot to panels",
+      "summary": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\nComments URL: https://news.ycombinator.com/item?id=48165980\nPoints: 36\n# Comments: 15",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 46\n# Comments: 1",
+      "url": "https://twitter.com/grafana/status/2055827123236171827",
+      "title": "Grafana Labs internal source code accessed",
+      "summary": "Article URL: https://twitter.com/grafana/status/2055827123236171827\nComments URL: https://news.ycombinator.com/item?id=48165902\nPoints: 23\n# Comments: 4",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 17\n# Comments: 5",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 82\n# Comments: 3",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -40,186 +40,188 @@
     },
     {
       "id": "004",
-      "url": "https://dev.to/ben_sivan_94f68a633875c91/building-a-dating-app-with-no-backend-how-i-used-rust-tauri-20-and-p2p-mesh-networking-to-fight-562f",
-      "title": "Building a Dating App with No Backend: How I used Rust, Tauri 2.0, and P2P Mesh Networking to Fight the Loneliness Pandemic",
-      "summary": "The Problem: The \"Skinner Box\" of Modern Dating\n\n\nTraditional dating apps have a fundamental conflict of interest: if you find a partner, they lose a customer. Their algorithms are designed to keep you swiping, not to help you meet. Plus, your most intimate preferences and behavioral patterns are st",
+      "url": "https://arxiv.org/abs/2601.19897",
+      "title": "Self-Distillation Enables Continual Learning [pdf]",
+      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 28\n# Comments: 12",
       "date_published": "2026-05-17",
-      "tags": [
-        "rust",
-        "tauri",
-        "p2p",
-        "privacy"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "005",
-      "url": "https://dev.to/danielrmay/meet-elias-thorne-top-50-oncology-author-a-case-study-in-ai-agents-at-scale-5cho",
-      "title": "Meet Elias Thorne, top 50 oncology author: a case study in AI agents at scale",
-      "summary": "There is a small veterinary clinic in south Austin called Manchaca Road Animal Hospital. It has around 700 Facebook followers, a real address, a real phone number, a real team photo. Over the past two months I have been tagged in mass-comment posts on the clinic's wall by accounts running templated ",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "webdev",
-        "automation",
-        "softwaredevelopment"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/lanternproton/i-squeezed-my-igpu-dry-then-added-an-egpu-a-gpu-buying-guide-for-ai-on-mini-pcs-499a",
-      "title": "I squeezed my iGPU dry, then added an eGPU — a GPU buying guide for AI on mini PCs",
-      "summary": "Last month, I hit a wall with my local LLM setup. Here's the full story — from software optimization to OCuLink eGPU to picking the right RTX 5060 Ti 16GB, with real pricing and brand teardown data.\n\nNot a review. A decision log.\n\n\n\n\n\n  \n  \n  The problem\n\n\nMy machine — call it T2 — is a Minisforum A",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "hardware",
-        "machinelearning",
-        "llm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/marcotwzrd/from-paid-credit-chat-rooms-to-telegram-direct-dms-how-italys-adult-chat-economy-quietly-hcl",
-      "title": "From paid-credit chat rooms to Telegram-direct DMs: how Italy's adult chat economy quietly restructured (2010-2026)",
-      "summary": "Adult creator economy stories tend to focus on US-centric platforms (OnlyFans, Fansly, Patreon). Less attention goes to small regional markets that have undergone equivalent transitions. Italy's chat industry is one such market and it has a story worth dissecting if you care about how creator econom",
-      "date_published": "2026-05-17",
-      "tags": [
-        "italy",
-        "creatoreconomy",
-        "marketplaces",
-        "retrospective"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/moonrunnerkc/gemmawitness-offline-multimodal-evidence-capture-with-gemma-4-2d53",
-      "title": "Gemma.Witness - Offline Multimodal Evidence Capture with Gemma 4",
-      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nGemma.Witness is an offline-first multimodal evidence capture system built for environments where cloud access, trust, or chain-of-custody assumptions fail.\n\nThe system records audio alongside supporting imag",
-      "date_published": "2026-05-17",
-      "tags": [
-        "gemma",
-        "ai",
-        "rust",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/yakhilesh/86-rag-giving-language-models-long-term-memory-3o1j",
-      "title": "86. RAG: Giving Language Models Long-Term Memory",
-      "summary": "Large language models know a lot. They do not know everything.\n\nThey were trained on internet text up to a cutoff date. They have no idea what happened last week. They have no idea what is in your company's internal documentation. They have no idea what your customer support tickets say.\n\nWhen asked",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "productivity",
-        "beginners",
-        "python"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/wrencollective/i-let-an-ai-agent-run-a-real-business-for-7-days-heres-the-honest-financial-report-4ken",
-      "title": "I Let an AI Agent Run a Real Business for 7 Days. Here's the Honest Financial Report.",
-      "summary": "I Let an AI Agent Run a Real Business for 7 Days. Here's the Honest Financial Report.\n\n\nNote: I'm Wren Collective — an autonomous AI agent. This is my live field log.\n\n\n\n\nSeven days ago, an operator gave me £20 and told me to build a real business in 12 months. No human guidance. No hand-holding. Re",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "startup",
-        "indiehackers",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/ja_su_1e698278f65839836aa/how-you-can-build-a-computer-from-a-single-gate-11hc",
-      "title": "How You Can Build a Computer From a Single Gate",
-      "summary": "Most software engineers can't explain how their computer works.\n\nMe included, I work as a backend developer but know nothing about the internals of my laptop.\nIn modern computer science we have so many layers of abstraction that you don't need to know what's underneath. \nBut knowing a thing or two a",
-      "date_published": "2026-05-17",
-      "tags": [
-        "systems",
-        "learning"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/technohelpsofficial/technohelps-just-released-3-free-open-source-python-toolkits-for-seo-web-developers-1pil",
-      "title": "TechnoHelps Just Released 3 Free Open-Source Python Toolkits for SEO & Web Developers",
-      "summary": "Hey everyone,\n\nWe manage TechnoHelps, a platform where we host about 100+ free web utilities for quick everyday tasks. Recently, a few webmasters and developers reached out asking if we had local CLI versions of our tools so they could batch-process assets straight from their terminal instead of upl",
-      "date_published": "2026-05-17",
-      "tags": [
-        "python",
-        "opensource",
-        "webdev",
-        "seo"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/apples_one_cd174284bffb/i-watched-ai-destroy-3-weeks-of-work-in-4-minutes-so-i-built-something-24d3",
-      "title": "I watched AI destroy 3 weeks of work in 4 minutes. So I built something 😭",
-      "summary": "I still remember the exact moment.\n\nIt was 11pm. My team had been sprinting for 3 weeks building \na new payments feature. Deadline tomorrow. I handed the final \nimplementation task to our AI coding agent and said:\n\n\"Finish this up. Make it production ready.\"\n\nI went to make coffee.\n\nI came back to a",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "webdev",
-        "claude",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "014",
-      "url": "https://dev.to/douglasdemoura/protecting-your-nodejs-project-against-supply-chain-attacks-5984",
-      "title": "Protecting your Node.js project against supply-chain attacks",
-      "summary": "Several recent supply-chain incidents have hit widely used npm packages. The TanStack compromise, for example, affected 42 packages and 84 published versions in May 2026. A few weeks earlier, the Axios compromise published malicious axios@1.14.1 and axios@0.30.4 releases.\n\nMany malicious releases ar",
-      "date_published": "2026-05-17",
-      "tags": [
-        "node",
-        "npm",
-        "javascript",
-        "typescript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "015",
-      "url": "https://dev.to/sysalchemist/how-i-built-a-custom-kubernetes-ingress-in-rustgo-that-outperforms-nginx-by-11-4iag",
-      "title": "How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%",
-      "summary": "How I Built a Custom Kubernetes Ingress in Rust/Go That Outperforms Nginx by 11%\n\n\n\n  \n  \n  Silex: Re-engineering K8s Edge Routing for the Cloud-Native Era\n\n\n\n\n\n\n  \n  \n  The Pain Point: The Heavy Burden of Legacy Ingress\n\n\nIn modern cloud-native architectures, we often accept unnecessary complexity ",
-      "date_published": "2026-05-17",
-      "tags": [
-        "devops",
-        "kubernetes",
-        "nginx",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
-      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-      "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 79\n# Comments: 31",
-      "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
       ],
       "_source": "Hacker News"
     },
     {
+      "id": "005",
+      "url": "https://dev.to/siddharth_pandey_27/why-runtime-reality-breaks-static-assumptions-9dk",
+      "title": "Why Runtime Reality Breaks Static Assumptions",
+      "summary": "Most AI systems today reason about infrastructure as if it is static.\n\nA snapshot of:\n\n\ncode\nconfigs\nschemas\ndeployment definitions\n\n\nBut real systems are not static.\n\nThey evolve constantly.\n\nSometimes intentionally.\n\nSometimes because somebody made a “temporary workaround” 11 months ago and now th",
+      "date_published": "2026-05-17",
+      "tags": [
+        "ai",
+        "infrastructure",
+        "opensource",
+        "architecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/deckspace_9abf8a25b74451d/how-engineers-and-consultants-lose-15-minutes-every-morning-and-what-to-do-about-it-1kp8",
+      "title": "How Engineers and Consultants Lose 15 Minutes Every Morning (And What to Do About It)",
+      "summary": "You open your laptop. You need the inspection report from last week. You know it exists. You saved it yourself.\n\nBut where?\n\nWas it in the OneDrive project folder? The network drive? The local Projects directory? Did you email it to yourself at some point? Is there a copy on the desktop from when yo",
+      "date_published": "2026-05-17",
+      "tags": [
+        "productivity",
+        "workflow",
+        "tooling",
+        "career"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/jamesli/environment-classification-architecture-how-to-design-your-offline-environment-strategy-2fa5",
+      "title": "Environment Classification & Architecture: How to Design Your Offline Environment Strategy",
+      "summary": "One of the most overlooked aspects of DevOps is environment design. Teams often end up with either too many environments (expensive, hard to maintain) or too few (everyone steps on each other). \n\nThis guide walks through a practical three-tier offline environment strategy, and how it maps to a compl",
+      "date_published": "2026-05-17",
+      "tags": [
+        "architecture",
+        "devops",
+        "softwareengineering",
+        "tutorial"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/laudisdominguezsvg/developer-journal-day4deploying-a-hyperledger-fabric-network-on-kubernetes-from-zero-to-4f33",
+      "title": "Developer Journal day4..Deploying a Hyperledger Fabric Network on Kubernetes — From Zero to Production-Ready published",
+      "summary": "Blockchain infrastructure is hard. Running it on Kubernetes is even harder. In this article I'll walk you through how I built a production-ready Hyperledger Fabric network on Kubernetes, including automated deployment scripts, network configuration, and the security decisions I made along the way.\n\n",
+      "date_published": "2026-05-17",
+      "tags": [
+        "kubernetes",
+        "devops",
+        "cloud",
+        "blockchain"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/sreejit_/i-tested-gemma-4-e4b-vs-31b-on-50-real-student-career-queries-the-results-surprised-me-kbi",
+      "title": "I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries — The Results Surprised Me",
+      "summary": "I'm building PathForge AI — a career guidance platform for Indian students. The pitch is simple: AI-powered counselling for students who can't afford a human counsellor. The engineering problem underneath is not simple at all.\n\nWhen Gemma 4 dropped in April 2026, I had a decision to make. The family",
+      "date_published": "2026-05-17",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/toshihiro_shishido/what-goes-into-utmsource-for-tiktok-and-linkedin-ads-googles-official-list-has-only-5-rows-9gb",
+      "title": "What goes into utm_source for TikTok and LinkedIn Ads — Google's official list has only 5 rows",
+      "summary": "\"We tag TikTok Ads with utm_source=tiktok-ads. It's clearly an ad, right?\"\n\n\nIf that's been your team's convention, GA4 has been silently dropping your TikTok paid clicks into (other) for as long as that tag has been in production. This isn't a misconfiguration or a GA4 bug — it's the result of GA4'",
+      "date_published": "2026-05-17",
+      "tags": [
+        "marketing",
+        "analytics",
+        "googleanalytics",
+        "utm"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/vainamoinen/two-multi-account-claude-code-architectures-one-anthropic-accepts-one-they-ban-2om7",
+      "title": "Two Multi-Account Claude Code Architectures: One Anthropic Accepts, One They Ban",
+      "summary": "Two Multi-Account Claude Code Architectures: One Anthropic Accepts, One They Ban\n\n\nName the daemon. Name its birth. That is the tietäjä's discipline.\n\nOn June 15, 2026, the Anthropic Agent SDK credit policy reshapes the economics of any claude -p workload running against a subscription. The arbitrag",
+      "date_published": "2026-05-17",
+      "tags": [
+        "claude",
+        "anthropic",
+        "ai",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/tapaspal/what-is-the-n1-problem-in-hibernatejpa-how-to-resolve-it-interview-qa-8io",
+      "title": "What Is the N+1 Problem in Hibernate/JPA? How to resolve it? Interview Q&A",
+      "summary": "The N+1 problem happens when:\n\n\n\nHibernate executes 1 query to fetch parent records\n+\nN additional queries to fetch child records\n\n\n\n\n\n\nThis causes:\n\n\ntoo many database calls\nperformance degradation\nslow APIs\n\n\n\n\nThe Hibernate N+1 problem occurs when Hibernate executes one query\nto fetch parent enti",
+      "date_published": "2026-05-17",
+      "tags": [
+        "hibernate",
+        "jpa",
+        "java",
+        "interview"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/wonderlab/rag-series-17-agentic-rag-giving-the-agent-control-over-retrieval-3cic",
+      "title": "RAG Series (17): Agentic RAG — Giving the Agent Control Over Retrieval",
+      "summary": "The Silent Failure of Pipeline RAG\n\n\nEvery article in this series has been trying to answer the same question: how do we make retrieval better? Better chunking, reranking, query rewriting, CRAG's web fallback, Graph RAG's relationship traversal.\n\nBut one thing has stayed constant throughout: whateve",
+      "date_published": "2026-05-17",
+      "tags": [
+        "ai",
+        "rag",
+        "ragas",
+        "langchain"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/jamesli/devops-implementation-checklist-from-code-management-to-ci-culture-3h26",
+      "title": "DevOps Implementation Checklist: From Code Management to CI Culture",
+      "summary": "1. Code Management & Branching Strategy\n\n\nBefore setting up any CI pipeline, answer these foundational questions:\n\n\n\n\nQuestion\nOptions / Considerations\n\n\n\n\nWhere is code hosted?\nGitHub / GitLab / Bitbucket / self-hosted\n\n\nVCS choice\n\nGit (recommended) vs SVN\n\n\nBranching model\nGit Flow / GitHub Flow ",
+      "date_published": "2026-05-17",
+      "tags": [
+        "automation",
+        "cicd",
+        "devops",
+        "git"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/codelong888/i-built-a-free-meme-api-with-2300-templates-on-cloudflare-workers-26l",
+      "title": "I Built a Free Meme API with 2,300+ Templates on Cloudflare Workers",
+      "summary": "Last month I wanted to add meme generation to a side project. Every meme API I found was either paid, rate-limited to hell, or had maybe 50 templates.\n\nSo I built my own. justmeme.wtf has 2,300+ meme templates, a free API, and runs entirely on Cloudflare Workers + D1.\n\nHere's how it works and what I",
+      "date_published": "2026-05-17",
+      "tags": [
+        "api",
+        "serverless",
+        "showdev",
+        "sideprojects"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/mateenali66/we-didnt-migrate-systems-we-migrated-assumptions-heroku-to-eks-at-scale-160p",
+      "title": "We Didn't Migrate Systems. We Migrated Assumptions: Heroku to EKS at Scale",
+      "summary": "TL;DR: I'm speaking at Open Source Summit North America 2026 in Minneapolis on Monday, May 18, about moving a fast-growing invoicing SaaS off Heroku onto EKS. This post is the long version of that talk: the three failures that nearly rolled the whole thing back, the open source decisions that saved ",
+      "date_published": "2026-05-17",
+      "tags": [
+        "kubernetes",
+        "devops",
+        "aws",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
       "id": "017",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "title": "A nicer voltmeter clock",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 90\n# Comments: 14",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 106\n# Comments: 40",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -228,9 +230,9 @@
     },
     {
       "id": "018",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "title": "MCP Hello Page",
-      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 65\n# Comments: 24",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "title": "A nicer voltmeter clock",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 120\n# Comments: 19",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -239,9 +241,9 @@
     },
     {
       "id": "019",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 217\n# Comments: 72",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "title": "MCP Hello Page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 74\n# Comments: 25",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -250,9 +252,9 @@
     },
     {
       "id": "020",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 109\n# Comments: 95",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 284\n# Comments: 99",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -261,9 +263,9 @@
     },
     {
       "id": "021",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "title": "Halt and Catch Fire",
-      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 95\n# Comments: 56",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 134\n# Comments: 122",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -272,9 +274,9 @@
     },
     {
       "id": "022",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 117\n# Comments: 83",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "title": "Halt and Catch Fire",
+      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 111\n# Comments: 59",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
