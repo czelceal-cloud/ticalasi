@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://klaxon.live/",
-      "title": "Klaxon a livr earthquake map with no back end",
-      "summary": "Article URL: https://klaxon.live/\nComments URL: https://news.ycombinator.com/item?id=48167823\nPoints: 3\n# Comments: 0",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 22\n# Comments: 0",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
-      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 48\n# Comments: 15",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "title": "I don't think AI will make your processes go faster",
+      "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 82\n# Comments: 46",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 287\n# Comments: 96",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "title": "Apple Silicon costs more than OpenRouter",
+      "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 77\n# Comments: 44",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://maurycyz.com/projects/mcusite/",
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 152\n# Comments: 13",
+      "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+      "title": "Native all the way, until you need text",
+      "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 136\n# Comments: 74",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://arxiv.org/abs/2601.19897",
-      "title": "Self-Distillation Enables Continual Learning [pdf]",
-      "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 68\n# Comments: 17",
+      "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "summary": "Article URL: https://www.thestateofbrand.com/news/ai-subscription-time-bomb\nComments URL: https://news.ycombinator.com/item?id=48168056\nPoints: 66\n# Comments: 43",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -62,6 +62,39 @@
     },
     {
       "id": "006",
+      "url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+      "title": "Playing Atari ST Music on the Amiga with Zero CPU",
+      "summary": "Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/\nComments URL: https://news.ycombinator.com/item?id=48166920\nPoints: 77\n# Comments: 27",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 388\n# Comments: 153",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://maurycyz.com/projects/mcusite/",
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 167\n# Comments: 14",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
       "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
       "title": "A revolutionary cancer treatment could transform autoimmune disease",
       "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
@@ -77,7 +110,48 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "007",
+      "id": "010",
+      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
+      "title": "Oddity is masterfully tense horror from the director of Hokum",
+      "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Film",
+        "Movie Review"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "011",
+      "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+      "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+      "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Cameras",
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "012",
+      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "title": "ElliQ is a surprisingly helpful companion robot for older adults",
+      "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Gadgets",
+        "Smart Home",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "013",
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
       "title": "Chatbots at the drive-thru are just the beginning",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
@@ -90,7 +164,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "008",
+      "id": "014",
       "url": "https://www.wired.com/review/oto-smart-sprinkler/",
       "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
       "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
@@ -111,7 +185,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "015",
       "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
       "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
       "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
@@ -130,7 +204,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "016",
       "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
       "title": "Take Control of Your Debt With These Free Tools",
       "summary": "These free debt calculators help you set up payment plans to get back in the black.",
@@ -149,7 +223,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "017",
       "url": "https://www.wired.com/story/bowling-lane-oil/",
       "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
       "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
@@ -166,7 +240,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "018",
       "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
       "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
       "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
@@ -183,7 +257,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "019",
       "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
       "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
       "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
@@ -202,10 +276,24 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
-      "url": "https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534",
-      "title": "Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4",
-      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nMillions of farmers in Tamil Nadu speak Tamil as their primary language. Agricultural advice — government portals, extension services, online resources — is mostly in English. When a crop fails, a farmer shou",
+      "id": "020",
+      "url": "https://dev.to/achiya-automation/why-elementclick-isnt-a-click-9kd",
+      "title": "Why element.click() Isn't a Click",
+      "summary": "My AI agent had a checkbox to tick. A multi-step form: tick two boxes, hit Next. It ticked the boxes. It hit Next. The form rejected it and snapped back to step one — every time.\n\nThe boxes were visibly checked. The DOM said checked = true. The agent had done everything right. The form still didn't ",
+      "date_published": "2026-05-17",
+      "tags": [
+        "javascript",
+        "webdev",
+        "ai",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "021",
+      "url": "https://dev.to/bumbulik0/gemmalink-your-private-eye-assistant-3fgg",
+      "title": "GemmaLink: Your Private Eye Assistant",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nMost local AI setups are currently a dependency nightmare, forcing users into heavy Python environments, massive CUDA toolkits, or complex Docker configurations. I built GemmaLink to achieve the exact opposit",
       "date_published": "2026-05-17",
       "tags": [
         "devchallenge",
@@ -215,209 +303,128 @@
       "_source": "Dev.to"
     },
     {
-      "id": "015",
-      "url": "https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap",
-      "title": "Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan",
-      "summary": "Why this project exists\n\n\nMy background is in web development. TypeScript, Node.js, React — that's been my world for years. I've spent a lot of time thinking about software architecture: SOLID principles, onion architecture, dependency injection, separation of concerns. All of that in the context of",
-      "date_published": "2026-05-17",
-      "tags": [
-        "cpp",
-        "gamedev",
-        "webdev",
-        "programming"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a",
-      "title": "The AI Ghostwriter Experiment",
-      "summary": "Over the past few months, I ran an experiment on this blog.\n\nBalancing engineering projects, open-source contributions, and university means deep-focus writing is a luxury I rarely have. I wanted to test a hypothesis: Can a developer leverage LLMs to fully automate content creation without losing te",
-      "date_published": "2026-05-17",
-      "tags": [
-        "systemdesign",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "017",
-      "url": "https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea",
-      "title": "Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective",
-      "summary": "The Acquisition Nobody in Brisbane DevOps Should Ignore\n\n\nGoogle has completed its acquisition of Wiz — and if you're running multicloud infrastructure in Brisbane right now, your security architecture just got more complicated, not simpler.\n\nAt RSA Conference 2026, Google Cloud's Office of the CISO",
-      "date_published": "2026-05-17",
-      "tags": [
-        "googlewizacquisition",
-        "multicloudsecurity",
-        "devsecopsbrisbane",
-        "cnappplatformengineering"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7",
-      "title": "I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes",
-      "summary": "After seeing creators build websites quickly with Lovable, Replit, WordPress, and no-code tools, I noticed a frustrating problem:\n\nBuilding the website was easy.\nTurning it into a Play Store-ready Android app wasn't.\n\nMost solutions felt expensive, complicated, or overloaded.\n\nSo I built Native App ",
-      "date_published": "2026-05-17",
-      "tags": [
-        "ai",
-        "webdev",
-        "nocode",
-        "pwa"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/mitudas/react-e-commerce-app-is-invisible-to-google-heres-why-and-the-fix-413f",
-      "title": "React E-commerce App Is Invisible to Google - Here's Why (and the Fix)",
-      "summary": "I spent a weekend wondering why a client's Next.js store had zero Google Shopping impressions after three months live. The site looked great. Performance scores were solid. But Googlebot was essentially blind to 80% of the product catalog.\n\nThe culprit wasn't the framework. It was a handful of missi",
-      "date_published": "2026-05-17",
-      "tags": [
-        "seo",
-        "ecommerce",
-        "react"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://dev.to/bala_paranj_059d338e44e7e/z3-can-prove-your-cloud-is-unsafe-it-cant-tell-you-why-48jh",
-      "title": "Z3 Can Prove Your Cloud is Unsafe. It Can't Tell You Why.",
-      "summary": "Z3 is one of the most powerful reasoning engines ever built. Microsoft Research created it to verify chip designs and flight software. It can take your cloud configuration, model it as a set of logical assertions, and mathematically prove whether an attack path exists.\n\nZ3 says when it finds one:\n\n\n",
-      "date_published": "2026-05-17",
-      "tags": [
-        "cloud",
-        "security",
-        "aws",
-        "go"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/electronyxai/i-built-a-desktop-ide-around-ssh-sessions-because-nothing-else-worked-the-way-i-do-365i",
-      "title": "I built a desktop IDE around SSH sessions because nothing else worked the way I do",
-      "summary": "I'm Wes, solo developer behind AidaIDE. I launched on Hacker News today and wanted to write up the longer version here for the dev.to crowd.\n\n\n  \n  \n  The problem\n\n\nMy day-to-day has me SSHing into about 15 different boxes: a couple of cloud VMs, a homelab, embedded boards on my LAN. For years my se",
-      "date_published": "2026-05-17",
-      "tags": [
-        "devtools",
-        "ssh",
-        "showdev",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "022",
-      "url": "https://dev.to/monuminu/agent-harness-running-multiple-parallel-agents-for-deep-exploration-12jg",
-      "title": "Agent Harness: Running Multiple Parallel Agents for Deep Exploration",
-      "summary": "Meta Description: Learn how agent harnesses orchestrate multiple parallel AI agents for deep exploration tasks — covering fan-out/fan-in architecture, aggregation strategies, real-world use cases like codebase analysis and security auditing, engineering challenges, and the evolving framework landsca",
+      "url": "https://dev.to/onebitwonder/building-cliar-a-simple-drop-in-java-class-for-parsing-command-line-arguments-final-part-of-4-2oe3",
+      "title": "Building CLIAR — A simple drop-in Java class for parsing command-line arguments (Final part of 4)",
+      "summary": "Welcome to the final part of my rolling blog series. In this installment, we’ll add the remaining methods needed to access parsed command‑line arguments, along with a small but useful feature: automatically generating a formatted help message from the declared options.\nTo wrap things up, I’ll also h",
       "date_published": "2026-05-17",
       "tags": [
-        "ai",
-        "agents",
-        "architecture",
-        "machinelearning"
+        "java",
+        "cli",
+        "beginners",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://dev.to/ke_jia_24bb2f9f84f14f728a/how-i-built-and-shipped-4-cli-tools-in-one-weekend-3n8b",
-      "title": "How I Built and Shipped 4 CLI Tools in One Weekend",
-      "summary": "Last Friday night I decided to stop being a consumer and start being a builder. By Sunday midnight, I had 4 CLI tools live on npm and GitHub. Here's exactly how I did it.\n\n\n  \n  \n  The Rules I Set\n\n\n\n\nZero dependencies — no node_modules black hole\n\nSingle file per tool — no build step, no config\n\nnp",
+      "url": "https://dev.to/carotechie/mi-experiencia-en-el-aws-reinvent-2024-de-asistente-a-speaker-po0",
+      "title": "Mi experiencia en el AWS re:Invent 2024: De Asistente a Speaker 🚀",
+      "summary": "¡Hola a toda la comunidad de dev.to! 👋 \n\nLlevo 11 años trabajando como DevOps Engineer y recién me animé a vivir esta experiencia de la nube en el AWS re:Invent 2024. El evento oficial ocurrió del Lunes 2 al Viernes 6 de Diciembre del 2024, y la experiencia me encantó tanto, que volví en el 2025 (¡p",
       "date_published": "2026-05-17",
       "tags": [
-        "javascript",
-        "webdev",
-        "programming",
-        "productivity"
+        "aws",
+        "career",
+        "womenintech",
+        "devops"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/sadoyan/migrating-a-scylladb-cluster-the-brain-transplant-way-538c",
-      "title": "Migrating a ScyllaDB Cluster the “Brain Transplant” Way",
-      "summary": "Ever tried migrating a ScyllaDB cluster when traditional replication tools are off the table? \n\nI went a little \"mad scientist\" and pulled off what I call a cluster brain transplant.\n\nThe idea: copy the raw data files while the source cluster keeps running, then cut over with minimal downtime.\n\nRisk",
+      "url": "https://dev.to/fecommunity_27/reactpress-30-one-minute-to-your-own-cms-17am",
+      "title": "ReactPress 3.0 : One Minute to Your Own CMS",
+      "summary": "If you’ve ever spent an afternoon juggling MySQL, .env files, separate frontend/backend repos, and half a dozen npm packages just to launch a blog—ReactPress 3.0 folds that into two commands.\n\n\nReactPress is a modern full-stack publishing platform built on React, Next.js, and NestJS: a public site, ",
       "date_published": "2026-05-17",
       "tags": [
-        "scylladb",
-        "bigdata",
-        "database"
+        "reactpress",
+        "react",
+        "nextjs",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/ismail_zamareh_d099419122bc4f/beyond-the-hype-building-production-grade-mcp-servers-for-ai-integration-1hjm",
-      "title": "Beyond the Hype: Building Production-Grade MCP Servers for AI Integration",
-      "summary": "The Model Context Protocol (MCP) is reshaping how AI applications connect to the world. Introduced by Anthropic in November 2024, MCP provides a standardized, open-source framework for Large Language Models (LLMs) to interact with external tools, data sources, and workflows. Instead of every AI plat",
+      "url": "https://dev.to/nimesh_kulkarni_2f7a2057e/four-llm-workflows-that-actually-survive-production-48h9",
+      "title": "Four LLM Workflows That Actually Survive Production",
+      "summary": "Most teams waste time trying to ship a magical assistant before they have one boring workflow that makes money or saves hours. The production wins usually come from narrow tasks, hard guardrails, and obvious success metrics.\n\nIf you are responsible for getting an LLM feature past the demo stage, the",
       "date_published": "2026-05-17",
       "tags": [
-        "mcp",
-        "modelcontextprotocol",
-        "aiintegration",
-        "serverarchitecture"
+        "ai",
+        "llm",
+        "automation"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "title": "A nicer voltmeter clock",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 212\n# Comments: 27",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/furkiak/building-a-zero-trust-tamper-evident-audit-trail-in-ef-core-and-why-standard-logs-fail-20om",
+      "title": "Building a Zero-Trust, Tamper-Evident Audit Trail in EF Core (And Why Standard Logs Fail)",
+      "summary": "Most of us have built an audit logging system at some point. The standard playbook is predictable: you hook into Entity Framework Core's SaveChanges interceptor or write a database trigger, capture the OldValues and NewValues as JSON, stamp it with a UserId and Timestamp, and save it to an AuditLogs",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "dotnet",
+        "security",
+        "architecture",
+        "blockchain"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "title": "MCP Hello Page",
-      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 109\n# Comments: 36",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/raja_b_0c9d242e2c26cf063b/html-and-css-basic-dfm",
+      "title": "HTML and CSS Basic",
+      "summary": "HTML and CSS, every element is considered a rectangular \"box\". This concept is known as the CSS Box Model, which determines how elements are sized and spaced on a webpage\n\nThe Four Layers of the Box Model\n\nEach box consists of four distinct areas, layered from the inside out:\n\n- Content Box: \n\nThe i",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "html",
+        "css",
+        "raja"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 432\n# Comments: 200",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/ntctech/the-vm-that-survived-the-migration-but-lost-its-identity-3ndo",
+      "title": "The VM That Survived the Migration But Lost Its Identity",
+      "summary": "The migration ran clean. The VM came up on AHV within the expected window. Storage latency was nominal. The health check returned green. The team marked it complete, moved to the next workload, and closed the cutover ticket.\n\nSeventy-two hours later, a service desk ticket arrived. Intermittent authe",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "vmware",
+        "infrastructure",
+        "devops",
+        "cloud"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
-      "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
-      "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 16\n# Comments: 0",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/kushal1o1/devmcp-context-a-simple-ai-memory-layer-for-your-agent-176f",
+      "title": "devmcp-context: A Simple AI Memory Layer for Your Agent",
+      "summary": "AI assistants are useful, but they often forget important details between sessions. That makes it hard to keep track of decisions, project notes, bugs, and tasks.\n\ndevmcp-context solves that by giving your agent a simple memory layer that lives in your project folder. It is built as a Model Context ",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "ai",
+        "mcp",
+        "python",
+        "opensource"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 213\n# Comments: 255",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/divinesouljoy/hermes-agent-as-a-farmers-ai-advisor-built-on-android-tested-in-assam-57dn",
+      "title": "Hermes Agent as a Farmer's AI Advisor — Built on Android, Tested in Assam",
+      "summary": "Hermes Agent Challenge Build Submission\n\n\n\n\n\n  \n  \n  What I Built\n\n\nA working agricultural AI advisor powered by Hermes Agent, running entirely on an Android phone via Termux, tested with real farming questions from Silchar, Assam, Northeast India.\n\nNo laptop. No GPU. No cloud server. Just a phone, ",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "ai",
+        "opensource",
+        "programming",
+        "webdev"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     }
   ]
 }
