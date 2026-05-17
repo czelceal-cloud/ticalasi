@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Tesla Solar Roof is on life support as it pivot to panels",
-    "summary": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\nComments URL: https://news.ycombinator.com/item?id=48165980\nPoints: 36\n# Comments: 15",
-    "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
+    "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+    "summary": "Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/\nComments URL: https://news.ycombinator.com/item?id=48166459\nPoints: 69\n# Comments: 6",
+    "url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Grafana Labs internal source code accessed",
-    "summary": "Article URL: https://twitter.com/grafana/status/2055827123236171827\nComments URL: https://news.ycombinator.com/item?id=48165902\nPoints: 23\n# Comments: 4",
-    "url": "https://twitter.com/grafana/status/2055827123236171827",
+    "title": "Tesla Solar Roof is on life support as it pivot to panels",
+    "summary": "Article URL: https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/\nComments URL: https://news.ycombinator.com/item?id=48165980\nPoints: 62\n# Comments: 43",
+    "url": "https://electrek.co/2026/05/14/tesla-solar-roof-promise-vs-reality-pivot-panels/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Hosting a website on an 8-bit microcontroller",
-    "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 82\n# Comments: 3",
-    "url": "https://maurycyz.com/projects/mcusite/",
+    "title": "Grafana Labs internal source code accessed",
+    "summary": "Article URL: https://twitter.com/grafana/status/2055827123236171827\nComments URL: https://news.ycombinator.com/item?id=48165902\nPoints: 43\n# Comments: 10",
+    "url": "https://twitter.com/grafana/status/2055827123236171827",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Self-Distillation Enables Continual Learning [pdf]",
-    "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 28\n# Comments: 12",
-    "url": "https://arxiv.org/abs/2601.19897",
+    "title": "Hosting a website on an 8-bit microcontroller",
+    "summary": "Article URL: https://maurycyz.com/projects/mcusite/\nComments URL: https://news.ycombinator.com/item?id=48165295\nPoints: 109\n# Comments: 8",
+    "url": "https://maurycyz.com/projects/mcusite/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -45,176 +45,183 @@
   },
   {
     "id": "005",
-    "title": "Why Runtime Reality Breaks Static Assumptions",
-    "summary": "Most AI systems today reason about infrastructure as if it is static.\n\nA snapshot of:\n\n\ncode\nconfigs\nschemas\ndeployment definitions\n\n\nBut real systems are not static.\n\nThey evolve constantly.\n\nSometimes intentionally.\n\nSometimes because somebody made a “temporary workaround” 11 months ago and now th",
-    "url": "https://dev.to/siddharth_pandey_27/why-runtime-reality-breaks-static-assumptions-9dk",
+    "title": "Self-Distillation Enables Continual Learning [pdf]",
+    "summary": "Article URL: https://arxiv.org/abs/2601.19897\nComments URL: https://news.ycombinator.com/item?id=48165265\nPoints: 53\n# Comments: 13",
+    "url": "https://arxiv.org/abs/2601.19897",
     "date": "2026-05-17",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "ai",
-      "infrastructure",
-      "opensource",
-      "architecture"
+      "Hacker News"
     ]
   },
   {
     "id": "006",
-    "title": "How Engineers and Consultants Lose 15 Minutes Every Morning (And What to Do About It)",
-    "summary": "You open your laptop. You need the inspection report from last week. You know it exists. You saved it yourself.\n\nBut where?\n\nWas it in the OneDrive project folder? The network drive? The local Projects directory? Did you email it to yourself at some point? Is there a copy on the desktop from when yo",
-    "url": "https://dev.to/deckspace_9abf8a25b74451d/how-engineers-and-consultants-lose-15-minutes-every-morning-and-what-to-do-about-it-1kp8",
+    "title": "GitHub enters the terminal agent wars with Copilot CLI",
+    "summary": "GitHub has quietly been building the most compelling answer to Claude Code and OpenAI's Codex CLI — and it just arrived as a standalone product. Copilot CLI is a terminal-native coding agent that lives outside VS Code, competes head-on with Anthropic and OpenAI's standalone tools, and leans hard int",
+    "url": "https://dev.to/thegatewayguy/github-enters-the-terminal-agent-wars-with-copilot-cli-285",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "productivity",
-      "workflow",
-      "tooling",
-      "career"
+      "ai",
+      "github",
+      "developer",
+      "devtools"
     ]
   },
   {
     "id": "007",
-    "title": "Environment Classification & Architecture: How to Design Your Offline Environment Strategy",
-    "summary": "One of the most overlooked aspects of DevOps is environment design. Teams often end up with either too many environments (expensive, hard to maintain) or too few (everyone steps on each other). \n\nThis guide walks through a practical three-tier offline environment strategy, and how it maps to a compl",
-    "url": "https://dev.to/jamesli/environment-classification-architecture-how-to-design-your-offline-environment-strategy-2fa5",
+    "title": "HTML Is the New Markdown",
+    "summary": "A response to Thariq Shihipar's \"HTML is the new markdown\" post — and a practical answer for anyone watching their per-request costs creep up.\n\n\n\n\n\n  \n  \n  The tweet that started it\n\n\nOn May 8, Thariq Shihipar — a member of the Claude Code team at Anthropic — posted what is now one of the most-discu",
+    "url": "https://dev.to/vishal_veerareddy_9cdd17d/html-is-the-new-markdown-3hf8",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "architecture",
-      "devops",
+      "ai",
+      "html",
+      "productivity",
+      "webdev"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "LLMs Diverge, Humans Converge — LLMs Can't Come Up With Ideas",
+    "summary": "LLMs can't come up with ideas.\n\nThe output of an LLM (Large Language Model) tends to be divergent. It moves in the direction of deriving combinations from its training data. Good ideas, on the other hand, are convergent. They solve multiple problems at once with a single mechanism.\n\nWhen using LLMs,",
+    "url": "https://dev.to/nishimura/llms-diverge-humans-converge-llms-cant-come-up-with-ideas-161m",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "llm",
+      "claude",
+      "ai"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Algorithmic Challenge: How do we mathematically audit semantic authority in LLMs? (Open-sourcing LSW)",
+    "summary": "Hey devs, we've been running into an algorithmic challenge lately: when modern LLM search engines (like Perplexity or ChatGPT Search) crawl our enterprise platforms, how do they mathematically determine semantic authority?\n\nWe've open-sourced a theoretical multi-factor vector framework called LSW In",
+    "url": "https://dev.to/myc911/algorithmic-challenge-how-do-we-mathematically-audit-semantic-authority-in-llms-open-sourcing-1i6g",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "seo",
+      "python"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "What Should You Use Now That Google Interview Warmup Is Dead?",
+    "summary": "How I built 10xInterview.com solo — the dual-backend AI router, SSE token streaming, pgvector for embeddings, and webhook-driven billing. A Google Interview Warmup alternative.\n\nWhen Google quietly retired Interview Warmup, a small but useful tool that let you record spoken interview answers and get",
+    "url": "https://dev.to/ankit_singhchadda_6570f3/what-should-you-use-now-that-google-interview-warmup-is-dead-2fci",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "productivity",
+      "career",
+      "interview"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "How Solo Founders Build AI Automations Under $100/Month",
+    "summary": "The Scenario That Started This\n\n\nIn 2026, a founder running a solo consulting practice asked me a direct question: \"I need a chatbot that qualifies leads, answers support questions, and logs everything to my CRM. My budget is tight. Do I hire a developer?\" The honest answer was no. Not because devel",
+    "url": "https://dev.to/forgeflows/how-solo-founders-build-ai-automations-under-100month-2hlg",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "n8n",
+      "nocodeautomation",
+      "aiworkflows",
+      "solofounders"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "🎮 The SQL Arcade : No Boring Textbooks Allowed",
+    "summary": "Let's be honest: staring at a dry spreadsheet or a thick textbook is probably the worst way to try to learn SQL. It doesn't have to be a grind.\n\nIf you want to learn SQL the fun way — by solving mysteries, popping bubbles, or battling dragons — you are in the right place.\n\nThese platforms are perfec",
+    "url": "https://dev.to/anveshasri/the-sql-arcade-no-boring-textbooks-allowed-1mh1",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "database",
+      "sql",
+      "beginners"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "RAII in C: Automating Resource Management with GCC Attributes",
+    "summary": "Memory leaks are one of the oldest and most persistent bugs in C. But what if C could clean up resources automatically when variables leave scope — the same way C++ destructors or Rust's ownership model work?\n\nIn this article, we explore __attribute__((cleanup)), a GCC/Clang extension that brings RA",
+    "url": "https://dev.to/ayush_saini/raii-in-c-automating-resource-management-with-gcc-attributes-3cgf",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "coding",
+      "programming",
       "softwareengineering",
       "tutorial"
     ]
   },
   {
-    "id": "008",
-    "title": "Developer Journal day4..Deploying a Hyperledger Fabric Network on Kubernetes — From Zero to Production-Ready published",
-    "summary": "Blockchain infrastructure is hard. Running it on Kubernetes is even harder. In this article I'll walk you through how I built a production-ready Hyperledger Fabric network on Kubernetes, including automated deployment scripts, network configuration, and the security decisions I made along the way.\n\n",
-    "url": "https://dev.to/laudisdominguezsvg/developer-journal-day4deploying-a-hyperledger-fabric-network-on-kubernetes-from-zero-to-4f33",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "kubernetes",
-      "devops",
-      "cloud",
-      "blockchain"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "I Tested Gemma 4 E4B vs 31B on 50 Real Student Career Queries — The Results Surprised Me",
-    "summary": "I'm building PathForge AI — a career guidance platform for Indian students. The pitch is simple: AI-powered counselling for students who can't afford a human counsellor. The engineering problem underneath is not simple at all.\n\nWhen Gemma 4 dropped in April 2026, I had a decision to make. The family",
-    "url": "https://dev.to/sreejit_/i-tested-gemma-4-e4b-vs-31b-on-50-real-student-career-queries-the-results-surprised-me-kbi",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma",
-      "opensource"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "What goes into utm_source for TikTok and LinkedIn Ads — Google's official list has only 5 rows",
-    "summary": "\"We tag TikTok Ads with utm_source=tiktok-ads. It's clearly an ad, right?\"\n\n\nIf that's been your team's convention, GA4 has been silently dropping your TikTok paid clicks into (other) for as long as that tag has been in production. This isn't a misconfiguration or a GA4 bug — it's the result of GA4'",
-    "url": "https://dev.to/toshihiro_shishido/what-goes-into-utmsource-for-tiktok-and-linkedin-ads-googles-official-list-has-only-5-rows-9gb",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "marketing",
-      "analytics",
-      "googleanalytics",
-      "utm"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "Two Multi-Account Claude Code Architectures: One Anthropic Accepts, One They Ban",
-    "summary": "Two Multi-Account Claude Code Architectures: One Anthropic Accepts, One They Ban\n\n\nName the daemon. Name its birth. That is the tietäjä's discipline.\n\nOn June 15, 2026, the Anthropic Agent SDK credit policy reshapes the economics of any claude -p workload running against a subscription. The arbitrag",
-    "url": "https://dev.to/vainamoinen/two-multi-account-claude-code-architectures-one-anthropic-accepts-one-they-ban-2om7",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "claude",
-      "anthropic",
-      "ai",
-      "devops"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "What Is the N+1 Problem in Hibernate/JPA? How to resolve it? Interview Q&A",
-    "summary": "The N+1 problem happens when:\n\n\n\nHibernate executes 1 query to fetch parent records\n+\nN additional queries to fetch child records\n\n\n\n\n\n\nThis causes:\n\n\ntoo many database calls\nperformance degradation\nslow APIs\n\n\n\n\nThe Hibernate N+1 problem occurs when Hibernate executes one query\nto fetch parent enti",
-    "url": "https://dev.to/tapaspal/what-is-the-n1-problem-in-hibernatejpa-how-to-resolve-it-interview-qa-8io",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "hibernate",
-      "jpa",
-      "java",
-      "interview"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "RAG Series (17): Agentic RAG — Giving the Agent Control Over Retrieval",
-    "summary": "The Silent Failure of Pipeline RAG\n\n\nEvery article in this series has been trying to answer the same question: how do we make retrieval better? Better chunking, reranking, query rewriting, CRAG's web fallback, Graph RAG's relationship traversal.\n\nBut one thing has stayed constant throughout: whateve",
-    "url": "https://dev.to/wonderlab/rag-series-17-agentic-rag-giving-the-agent-control-over-retrieval-3cic",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "rag",
-      "ragas",
-      "langchain"
-    ]
-  },
-  {
     "id": "014",
-    "title": "DevOps Implementation Checklist: From Code Management to CI Culture",
-    "summary": "1. Code Management & Branching Strategy\n\n\nBefore setting up any CI pipeline, answer these foundational questions:\n\n\n\n\nQuestion\nOptions / Considerations\n\n\n\n\nWhere is code hosted?\nGitHub / GitLab / Bitbucket / self-hosted\n\n\nVCS choice\n\nGit (recommended) vs SVN\n\n\nBranching model\nGit Flow / GitHub Flow ",
-    "url": "https://dev.to/jamesli/devops-implementation-checklist-from-code-management-to-ci-culture-3h26",
+    "title": "When Chaos Wins: Adding Noise Improved My Snake AI's Stability",
+    "summary": "Greetings all! Continuing the series where I build Rainbow DQN one component at a time on Snake. The first post covered encoding, the second covered memory, the third covered PER hurting performance. This one is about a truly WTF?! moment I stumbled into while evaluating the models.\n\nWhen you evalua",
+    "url": "https://dev.to/stat_phantom/when-chaos-wins-adding-noise-improved-my-snake-ais-stability-1b5l",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "automation",
-      "cicd",
-      "devops",
-      "git"
+      "machinelearning",
+      "deeplearning",
+      "ai",
+      "chaos"
     ]
   },
   {
     "id": "015",
-    "title": "I Built a Free Meme API with 2,300+ Templates on Cloudflare Workers",
-    "summary": "Last month I wanted to add meme generation to a side project. Every meme API I found was either paid, rate-limited to hell, or had maybe 50 templates.\n\nSo I built my own. justmeme.wtf has 2,300+ meme templates, a free API, and runs entirely on Cloudflare Workers + D1.\n\nHere's how it works and what I",
-    "url": "https://dev.to/codelong888/i-built-a-free-meme-api-with-2300-templates-on-cloudflare-workers-26l",
+    "title": "31 Pages, 30 Days. I Split the Pre/Post Data. The Win Predated the Work.",
+    "summary": "The 28-day data for /tools/pe-ratio-calculator/ showed \"forward pe calculator\" sitting at position 6.7. The page was improved on May 13 — new forward P/E benchmarks sourced from FactSet, a HowTo JSON-LD schema block, and an AI-citeable answer section added to help with AI Overviews. Position 6.7 on ",
+    "url": "https://dev.to/aimiten/31-pages-30-days-i-split-the-prepost-data-the-win-predated-the-work-pa2",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "serverless",
-      "showdev",
-      "sideprojects"
+      "seo",
+      "webdev",
+      "ai",
+      "claude"
     ]
   },
   {
     "id": "016",
-    "title": "We Didn't Migrate Systems. We Migrated Assumptions: Heroku to EKS at Scale",
-    "summary": "TL;DR: I'm speaking at Open Source Summit North America 2026 in Minneapolis on Monday, May 18, about moving a fast-growing invoicing SaaS off Heroku onto EKS. This post is the long version of that talk: the three failures that nearly rolled the whole thing back, the open source decisions that saved ",
-    "url": "https://dev.to/mateenali66/we-didnt-migrate-systems-we-migrated-assumptions-heroku-to-eks-at-scale-160p",
+    "title": "Claude Code VSCode Notifications Are Broken — Here's My Windows Workaround",
+    "summary": "Even as someone with only a very loose understanding of web technologies, I was able to ship a real business tool to users around the world in just one week — while even taking security into account.\n\nLately, that has honestly made me feel like people who can only do technical implementation may gra",
+    "url": "https://dev.to/catsnipe/claude-code-vscode-notifications-are-broken-heres-my-windows-workaround-4b23",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "kubernetes",
-      "devops",
-      "aws",
-      "opensource"
+      "ai",
+      "claude",
+      "vscode",
+      "powershell"
     ]
   },
   {
     "id": "017",
+    "title": "I Stopped Paying GPT-4 for Simple Queries — Here's the Router I Built",
+    "summary": "I Stopped Paying GPT-4 for Simple Queries\n\n\nYou know that feeling when you send \"What's 2+2?\" to GPT-4 and watch $0.03 vanish?\n\nI was burning through my OpenAI budget like it was 2021 crypto. So I built something that fixed it.\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nMost AI apps use one model fo",
+    "url": "https://dev.to/ad_man_cf946186dc71743c9b/i-stopped-paying-gpt-4-for-simple-queries-heres-the-router-i-built-36d5",
+    "date": "2026-05-17",
+    "source": "Dev.to",
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "id": "018",
     "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
-    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 106\n# Comments: 40",
+    "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 122\n# Comments: 46",
     "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -223,9 +230,9 @@
     ]
   },
   {
-    "id": "018",
+    "id": "019",
     "title": "A nicer voltmeter clock",
-    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 120\n# Comments: 19",
+    "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 152\n# Comments: 22",
     "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -234,9 +241,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "020",
     "title": "MCP Hello Page",
-    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 74\n# Comments: 25",
+    "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 85\n# Comments: 31",
     "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -245,9 +252,9 @@
     ]
   },
   {
-    "id": "020",
+    "id": "021",
     "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 284\n# Comments: 99",
+    "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 342\n# Comments: 142",
     "url": "https://crates.io/crates/zerostack/1.0.0",
     "date": "2026-05-16",
     "source": "Hacker News",
@@ -256,21 +263,10 @@
     ]
   },
   {
-    "id": "021",
-    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 134\n# Comments: 122",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "date": "2026-05-16",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "022",
-    "title": "Halt and Catch Fire",
-    "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 111\n# Comments: 59",
-    "url": "https://unstack.io/halt-and-catch-fire",
+    "title": "Twilight of the Velocipede: Typesetting Races Before the Age of Linotype",
+    "summary": "Article URL: https://publicdomainreview.org/essay/twilight-of-the-velocipede/\nComments URL: https://news.ycombinator.com/item?id=48163956\nPoints: 5\n# Comments: 0",
+    "url": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
     "date": "2026-05-16",
     "source": "Hacker News",
     "tags": [
