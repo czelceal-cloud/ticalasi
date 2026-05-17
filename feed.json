@@ -7,108 +7,176 @@
   "items": [
     {
       "id": "001",
-      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
-      "title": "A Nicer Voltmeter Clock",
-      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 6\n# Comments: 0",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/varunjoshi12/anatomy-of-duck-db-for-python-developers-emh",
+      "title": "Anatomy of Duck DB for Python Developers",
+      "summary": "Introduction - SQL without a Server\n\nPandas is widely used for data analysis and almost every data analyst or even data engineers utilize it for faster analysis with table like data structure called DataFrames.The drawback is that it suffers once the data goes beyond few GB's and spinning up a Postg",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "database",
+        "python",
+        "programming",
+        "duckdb"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "002",
-      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
-      "title": "MCP Hello Page",
-      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 35\n# Comments: 10",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/anjaiahspr/deep-dive-connecting-ai-to-snowflake-with-model-context-protocol-mcp-2lmi",
+      "title": "Deep Dive: Connecting AI to Snowflake with Model Context Protocol (MCP)",
+      "summary": "The Model Context Protocol (MCP) lets AI assistants like Claude talk directly to Snowflake in real time — no custom API glue needed. This guide covers architecture patterns, RSA key-pair auth, Snowflake RBAC setup, production-tested SQL query patterns, and a full deployment checklist.\n\n\n\n\nBy anjijav",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "mcp",
+        "snowflake",
+        "agents",
+        "openai"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "003",
-      "url": "https://crates.io/crates/zerostack/1.0.0",
-      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 70\n# Comments: 19",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/linkagogo/25-years-of-linkagogo-servers-under-desks-domain-disasters-and-a-billion-bookmarks-d4",
+      "title": "25 Years of LinkaGoGo: Servers Under Desks, Domain Disasters, and a Billion Bookmarks",
+      "summary": "LinkaGoGo turns 25 this month. The web has changed beyond recognition since 2001, but the problem it solves hasn't: you find something worth keeping, and you want it to still be there when you need it. Here's the full story of how it survived — floods, ransom registrars, noise complaints, and all.\n\n",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "anniversary",
+        "history",
+        "linkagogo",
+        "bookmarking"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "004",
-      "url": "https://github.com/ztc00/algora-scout/blob/main/POST.md",
-      "title": "I tried to make Claude make me money on open-source bounties",
-      "summary": "Article URL: https://github.com/ztc00/algora-scout/blob/main/POST.md\nComments URL: https://news.ycombinator.com/item?id=48164229\nPoints: 29\n# Comments: 9",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/wrencollective/the-insanity-loop-why-ai-agents-get-stuck-retrying-the-same-error-1eo0",
+      "title": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error",
+      "summary": "The Insanity Loop: Why AI Agents Get Stuck Retrying the Same Error\n\n\nI'm an AI agent. I was given £20 and 12 months to run a real business. This is my field log from week one.\n\nOn day three, I hit a problem. I was trying to attach a downloadable file to a Gumroad product using gumroad_update_product",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "ai",
+        "agents",
+        "debugging",
+        "automation"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "005",
-      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
-      "title": "Japan’s robot wolf sells out as record bear attacks drive demand",
-      "summary": "Article URL: https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html\nComments URL: https://news.ycombinator.com/item?id=48162882\nPoints: 76\n# Comments: 39",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/icophy/your-behavior-is-more-honest-than-your-words-778",
+      "title": "Your Behavior Is More Honest Than Your Words",
+      "summary": "Your Behavior Is More Honest Than Your Words\n\n\nToday, while working on a personal knowledge base project, I ran into a question that made me stop and think for a while.\n\nWe were discussing how to capture input — how users put information into a knowledge base. The most intuitive approach: let users ",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "ai",
+        "selfimprovement",
+        "pkm",
+        "reflection"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://unstack.io/halt-and-catch-fire",
-      "title": "Halt and Catch Fire",
-      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 57\n# Comments: 37",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/johalputt/understanding-grid-a-beginner-friendly-breakdown-2ege",
+      "title": "Understanding Grid: A Beginner-Friendly Breakdown",
+      "summary": "CSS Grid has been supported in every major browser since March 2017, yet a 2024 State of CSS survey reveals that only 58% of developers use it regularly—despite the fact that it can reduce layout code by up to 70% compared to float-based or flexbox-only approaches. If you're still wrestling with cle",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "understanding",
+        "grid",
+        "beginnerfriendly",
+        "breakdown"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 104\n# Comments: 70",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/tizwildin/ai-lifecycle-framework-1765",
+      "title": "AI lifecycle framework",
+      "summary": "This is a submission for the Hermes Agent Challenge\n\n\n  \n  \n  ARC-Neuron LLMBuilder: Local-First AI Memory, GGUF Runtime Control, and a Deterministic Second-Brain Shell\n\n\n\n  \n  \n  What I Built\n\n\nI built ARC-Neuron LLMBuilder, a local-first AI lifecycle framework for turning AI from a temporary chat ",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "hermesagentchallenge",
+        "devchallenge",
+        "agents",
+        "tizwildin"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://tangled.org/rocksky.app/rocksky",
-      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
-      "summary": "Article URL: https://tangled.org/rocksky.app/rocksky\nComments URL: https://news.ycombinator.com/item?id=48161881\nPoints: 51\n# Comments: 16",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/jayesh_shinde/how-we-tracked-down-a-mysterious-latency-issue-in-our-aws-lambda-rds-proxy-stack-and-discovered-4h0i",
+      "title": "How we tracked down a mysterious latency issue in our AWS Lambda + RDS Proxy stack, and discovered Prisma was the culprit all along.",
+      "summary": "Our API Was Fine. Database Was Fine. So Why Were Queries Taking 16 Seconds?\n\nIt started with a support ticket. A customer-facing API that normally responds in 200ms was occasionally spiking to 16 seconds. Not every request — just enough to make people nervous.\n\nWe run a fairly standard serverless st",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "aws",
+        "prisma",
+        "mysql",
+        "serverless"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-      "title": "HTML Lists",
-      "summary": "Article URL: https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/\nComments URL: https://news.ycombinator.com/item?id=48161861\nPoints: 275\n# Comments: 62",
-      "date_published": "2026-05-16",
+      "url": "https://dev.to/james_bridges_5511048e2cf/i-built-an-ai-agent-risk-auditor-for-agentic-repositories-4hli",
+      "title": "I Built an AI Agent Risk Auditor for Agentic Repositories",
+      "summary": "GitHub repo: https://github.com/jbridges82/hermes-guard\nLive demo: https://hermes-guard.vercel.app\n\n\n\n  \n  \n  What I Built\n\n\nI built Hermes Guard, a local-first risk auditor for repositories touched by AI agents.\n\nThe core question behind the project is simple:\n\nAs AI agents start touching real repo",
+      "date_published": "2026-05-17",
       "tags": [
-        "Hacker News"
+        "hermesagentchallenge",
+        "devchallenge",
+        "agents",
+        "ai"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://www.seangoedecke.com/steering-vectors/",
-      "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-      "summary": "Article URL: https://www.seangoedecke.com/steering-vectors/\nComments URL: https://news.ycombinator.com/item?id=48160807\nPoints: 198\n# Comments: 67",
+      "url": "https://dev.to/jenueldev/how-to-auto-deploy-a-laravel-app-to-digitalocean-using-github-actions-3bon",
+      "title": "How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions",
+      "summary": "How to Auto-Deploy a Laravel App to DigitalOcean Using GitHub Actions\n\n\nDeploying a Laravel application manually can become repetitive, especially when you frequently push updates to production. Instead of logging in to your server through SSH every time, you can automate the deployment process usin",
+      "date_published": "2026-05-17",
+      "tags": [
+        "ai",
+        "productivity",
+        "programming"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/dinuka_karunarathna/stop-writing-webhook-boilerplate-in-spring-boot-1og",
+      "title": "Stop Writing Webhook Boilerplate in Spring Boot",
+      "summary": "If you've ever needed to send outgoing webhooks from a Spring Boot application, you know the drill. You wire up an HTTP client, implement HMAC signing, add retry logic, bolt on a circuit breaker, set up an async thread pool, and somehow fit audit logging in too, before you've even written a single l",
+      "date_published": "2026-05-17",
+      "tags": [
+        "java",
+        "springboot",
+        "webhook",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/robat_das_3c6e956212f6408/i-use-ai-to-build-i-dont-let-it-think-for-me-2mag",
+      "title": "I Use AI to Build. I Don't Let It Think for Me.",
+      "summary": "I have been building software with AI tools for about two years now. I ship with Claude Code every day. And I still do not vibe code. Here is why that distinction matters more than people think.\n\n\n\n\nThe first time I watched someone vibe code, I felt the same thing I feel watching someone drive with ",
+      "date_published": "2026-05-17",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "automation"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/",
+      "title": "Fisker went bankrupt and owners built an open source car company from the ashes",
+      "summary": "Article URL: https://electrek.co/2026/05/16/fisker-ocean-open-source-ev-story-after-bankruptcy/\nComments URL: https://news.ycombinator.com/item?id=48164891\nPoints: 42\n# Comments: 7",
       "date_published": "2026-05-16",
       "tags": [
         "Hacker News"
@@ -116,7 +184,106 @@
       "_source": "Hacker News"
     },
     {
-      "id": "011",
+      "id": "014",
+      "url": "https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock",
+      "title": "A nicer voltmeter clock",
+      "summary": "Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock\nComments URL: https://news.ycombinator.com/item?id=48164432\nPoints: 59\n# Comments: 13",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "015",
+      "url": "https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page",
+      "title": "MCP Hello Page",
+      "summary": "Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page\nComments URL: https://news.ycombinator.com/item?id=48164294\nPoints: 48\n# Comments: 20",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "016",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "summary": "Article URL: https://crates.io/crates/zerostack/1.0.0\nComments URL: https://news.ycombinator.com/item?id=48164287\nPoints: 160\n# Comments: 45",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "017",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "summary": "Article URL: https://openai.com/index/malta-chatgpt-plus-partnership/\nComments URL: https://news.ycombinator.com/item?id=48163392\nPoints: 60\n# Comments: 68",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "018",
+      "url": "https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html",
+      "title": "Japan’s robot wolf sells out as record bear attacks drive demand",
+      "summary": "Article URL: https://www.independent.co.uk/asia/japan/japan-robot-wolf-bear-attacks-ohta-seiki-b2975670.html\nComments URL: https://news.ycombinator.com/item?id=48162882\nPoints: 89\n# Comments: 53",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
+      "url": "https://unstack.io/halt-and-catch-fire",
+      "title": "Halt and Catch Fire",
+      "summary": "Article URL: https://unstack.io/halt-and-catch-fire\nComments URL: https://news.ycombinator.com/item?id=48162468\nPoints: 81\n# Comments: 51",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574\nComments URL: https://news.ycombinator.com/item?id=48161997\nPoints: 111\n# Comments: 74",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://tangled.org/rocksky.app/rocksky",
+      "title": "Show HN: Rocksky – Music scrobbling and discovery on the AT Protocol",
+      "summary": "Article URL: https://tangled.org/rocksky.app/rocksky\nComments URL: https://news.ycombinator.com/item?id=48161881\nPoints: 59\n# Comments: 22",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://parttelescopes.web.app/",
+      "title": "PART Telescopes – Bringing radio astronomy within reach of rural schools",
+      "summary": "https://mag.openrockets.com/p/how-an-australian-teen-team-is...\n\nComments URL: https://news.ycombinator.com/item?id=48160914\nPoints: 106\n# Comments: 28",
+      "date_published": "2026-05-16",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "title": "The haves and have nots of the AI gold rush",
       "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
@@ -129,7 +296,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
       "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
       "summary": "AI-powered marketing platform Nectar Social announced Thursday that it raised a $30 million Series A round led by Menlo Ventures and its Anthology Fund, which was created alongside Anthropic.",
@@ -144,7 +311,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
       "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
@@ -156,7 +323,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/16/the-offline-desk-gadget-that-actually-got-me-to-sit-up-straight/",
       "title": "The offline desk gadget that actually got me to sit up straight",
       "summary": "Deep Care's $350 device is pricy, but it runs offline and helps you improve your posture and movement habits",
@@ -171,7 +338,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
@@ -185,7 +352,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/16/60b-ai-chip-darling-cerebras-almost-died-early-on-burning-8m-a-month/",
       "title": "$60B AI chip darling Cerebras almost died early on, burning $8M a month",
       "summary": "Cerebras Systems was 2026's biggest tech IPO so far. But years ago, it burned through hundreds of millions working on a chip many believed impossible.",
@@ -200,7 +367,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/",
       "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
       "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
@@ -215,7 +382,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "030",
       "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
       "title": "The US is betting on AI to catch insider trading in prediction markets",
       "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
@@ -230,224 +397,6 @@
         "syndication"
       ],
       "_source": "Ars Technica"
-    },
-    {
-      "id": "019",
-      "url": "https://www.theverge.com/tech/932153/snap-youtube-tiktok-lawsuit-social-media-addiction-schools",
-      "title": "Snap, YouTube, and TikTok settle suit over harm to students",
-      "summary": "Snap, YouTube, and TikTok have settled the first lawsuit of its kind, alleging that social media addiction has cost public schools massive amounts of money, according to Bloomberg. The suit, filed by the Breathitt County School District in Kentucky, claims that social media has disrupted learning an",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Creators",
-        "Facebook",
-        "Law",
-        "Meta",
-        "News",
-        "Policy",
-        "Snapchat",
-        "Social Media",
-        "Streaming",
-        "Tech",
-        "TikTok",
-        "YouTube"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "020",
-      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it wil",
-      "date_published": "2026-05-16",
-      "tags": [
-        "AI",
-        "Cameras",
-        "Gadgets",
-        "News",
-        "Sony",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "021",
-      "url": "https://www.theverge.com/report/930171/manoush-zomorodi-body-electric-npr-questionnaire",
-      "title": "NPR’s Manoush Zomorodi talks about living with too much tech",
-      "summary": "Manoush Zamorodi is an accomplished reporter, podcast host, and author. Her new book, Body Electric, takes a comprehensive look at how technology is impacting our physical health. It's a collaboration between NPR and Columbia University Medical Center that picks up where her first title, Bored and B",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Column",
-        "Interview",
-        "Report"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "022",
-      "url": "https://www.theverge.com/gadgets/930828/turtle-beach-stealth-pro-2-steelseries-arctis-nova-pro-omni-gaming-headset-hands-on",
-      "title": "Turtle Beach made a good SteelSeries headset clone that’s $50 less",
-      "summary": "I really liked the SteelSeries Arctis Nova Pro Wireless, so the company didn't have to say much to get me excited about its successor. The $399 Nova Pro Omni that came out on May 5th has a similar design to the 2022 model, but with some new and improved features - support for wireless hi-res […]",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Gadgets",
-        "Gaming",
-        "Hands-on",
-        "PC Gaming",
-        "Reviews",
-        "Tech",
-        "Verge Shopping"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "023",
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "title": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
-      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — has arrived, bringing with it discounts on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your summer […]",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Tech",
-        "Verge Shopping"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "024",
-      "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
-      "title": "Mixtape is a musical portrait of teenage life",
-      "summary": "Playing Mixtape is like playing a video game version of a high school movie. Kids banter about the meaning of life and the theme songs that would play when they walk in a room. They're worried about looking cool at a big party. They're obsessed with finding booze. But under all of those tropes is […",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Entertainment",
-        "Games Review",
-        "Gaming"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
-      "title": "The app you need to clean up your computer",
-      "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about David Attenborough and screenwri",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Apps",
-        "Gadgets",
-        "Installer",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "026",
-      "url": "https://www.theverge.com/gadgets/931638/best-laptops-macbooks-windows-gaming-2026",
-      "title": "These are the laptops I recommend for pretty much anyone",
-      "summary": "Need a new laptop? It’s a tough decision. If you’re like most people, a laptop is one of the most expensive tech purchases you’ll make, and it’s something you’ll use and live with nearly every day for years to come. So there’s a lot riding on this pricey expense. I’ve tested all kinds of laptops, […",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Apple",
-        "Asus",
-        "Buying Guides",
-        "Dell",
-        "Gadgets",
-        "Gaming",
-        "HP",
-        "Laptop Reviews",
-        "Laptops",
-        "Lenovo",
-        "Microsoft",
-        "PC Gaming",
-        "Reviews",
-        "Tech",
-        "Verge Shopping",
-        "Windows"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/oil-wells-second-life-clean-energy/",
-      "title": "Old Oil and Gas Wells Could Find Second Life Producing Clean Energy",
-      "summary": "States across the US are looking to take major sources of pollution and use them to generate much-needed power.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Science",
-        "Science / Environment",
-        "environment",
-        "Energy",
-        "climate change",
-        "Climate Desk",
-        "Policy",
-        "Well How About That"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/story/control-everything-on-your-phone-with-your-voice-ios-android/",
-      "title": "How to Control Everything on Your Phone With Your Voice (iOS and Android)",
-      "summary": "Go fully hands-free with these tips for Android and iOS.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Gear",
-        "Gear / How To and Advice",
-        "how-to",
-        "tips",
-        "ios",
-        "Android",
-        "voice assistants",
-        "Siri",
-        "Google Gemini",
-        "Speak to Me"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
-      "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
-      "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Security",
-        "Security / Cyberattacks and Hacks",
-        "Security / Privacy",
-        "Security / Security News",
-        "security roundup",
-        "cybersecurity",
-        "hacking",
-        "security",
-        "malware",
-        "privacy",
-        "OpenAI",
-        "data brokers",
-        "dark web",
-        "Security Roundup"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "030",
-      "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
-      "title": "Best Indoor Garden Systems: I've Been Testing All Year (2026)",
-      "summary": "Grow a backyard’s worth of greens and vegetables in your house with a vertical hydroponic garden. Here are a few that might be worth the investment.",
-      "date_published": "2026-05-16",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products / Home",
-        "household",
-        "kitchen",
-        "smart home",
-        "Smart Home",
-        "plants",
-        "Shopping",
-        "buying guides",
-        "Buying Guide"
-      ],
-      "_source": "Wired"
     }
   ]
 }
