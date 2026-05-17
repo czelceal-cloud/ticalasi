@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
-    "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/\nComments URL: https://news.ycombinator.com/item?id=48171015\nPoints: 8\n# Comments: 1",
-    "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
+    "title": "Scientists \"bottle the sun\" with a liquid battery that stores solar energy",
+    "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm\nComments URL: https://news.ycombinator.com/item?id=48171906\nPoints: 17\n# Comments: 9",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
-    "summary": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 21\n# Comments: 3",
-    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
+    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+    "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/\nComments URL: https://news.ycombinator.com/item?id=48171015\nPoints: 108\n# Comments: 48",
+    "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "The occasional ECONNRESET",
-    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 11\n# Comments: 1",
-    "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "summary": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 131\n# Comments: 68",
+    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Americans Are Smashing Flock Cameras",
-    "summary": "Article URL: https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\nComments URL: https://news.ycombinator.com/item?id=48170798\nPoints: 134\n# Comments: 93",
-    "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "title": "The occasional ECONNRESET",
+    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 49\n# Comments: 9",
+    "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
-    "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5\nComments URL: https://news.ycombinator.com/item?id=48170122\nPoints: 39\n# Comments: 25",
-    "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
+    "title": "Dontsurveil.me",
+    "summary": "Article URL: https://opencivics-labs.github.io/dontsurveil.me/c22.html\nComments URL: https://news.ycombinator.com/item?id=48170247\nPoints: 47\n# Comments: 8",
+    "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "XS: A programming language. Anywhere, anytime, by anyone",
-    "summary": "Article URL: https://xslang.org\nComments URL: https://news.ycombinator.com/item?id=48169424\nPoints: 18\n# Comments: 8",
-    "url": "https://xslang.org",
+    "title": "Don't Outsource the Learning",
+    "summary": "Article URL: https://addyosmani.com/blog/dont-outsource-learning/\nComments URL: https://news.ycombinator.com/item?id=48170118\nPoints: 13\n# Comments: 4",
+    "url": "https://addyosmani.com/blog/dont-outsource-learning/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-    "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 371\n# Comments: 155",
-    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "title": "XS: A programming language. Anywhere, anytime, by anyone",
+    "summary": "Article URL: https://xslang.org\nComments URL: https://news.ycombinator.com/item?id=48169424\nPoints: 38\n# Comments: 22",
+    "url": "https://xslang.org",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 189\n# Comments: 106",
-    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 478\n# Comments: 199",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 115\n# Comments: 65",
-    "url": "https://github.com/tech4bot/rk3562deb",
+    "title": "WHO declares Ebola outbreak a global health emergency",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 231\n# Comments: 138",
+    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "AI is a technology not a product",
-    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 167\n# Comments: 54",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 163\n# Comments: 89",
+    "url": "https://github.com/tech4bot/rk3562deb",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,19 @@
   },
   {
     "id": "011",
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+    "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "date": "2026-05-17",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "012",
     "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
     "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -124,7 +137,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "013",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
     "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -142,7 +155,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "014",
     "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
     "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
     "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
@@ -158,7 +171,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "015",
     "title": "A revolutionary cancer treatment could transform autoimmune disease",
     "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
     "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
@@ -174,7 +187,22 @@
     ]
   },
   {
-    "id": "015",
+    "id": "016",
+    "title": "Revamped Siri will reportedly offer auto-deleting chats",
+    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
+    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+    "date": "2026-05-17",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "017",
     "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
     "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
     "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
@@ -188,7 +216,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "Oddity is masterfully tense horror from the director of Hokum",
     "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
     "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
@@ -202,7 +230,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
     "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
     "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
@@ -216,7 +244,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "ElliQ is a surprisingly helpful companion robot for older adults",
     "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
     "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
@@ -229,7 +257,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "Chatbots at the drive-thru are just the beginning",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
     "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
@@ -242,7 +270,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "022",
     "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
     "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
     "url": "https://www.wired.com/review/oto-smart-sprinkler/",
@@ -263,7 +291,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "023",
     "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
     "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
     "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
@@ -282,7 +310,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "024",
     "title": "Take Control of Your Debt With These Free Tools",
     "summary": "These free debt calculators help you set up payment plans to get back in the black.",
     "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
@@ -301,7 +329,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "025",
     "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
     "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
     "url": "https://www.wired.com/story/bowling-lane-oil/",
@@ -318,7 +346,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "026",
     "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
     "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
     "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
@@ -335,7 +363,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "027",
     "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
     "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
     "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
@@ -354,73 +382,42 @@
     ]
   },
   {
-    "id": "026",
-    "title": "Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines",
-    "summary": "Introduction\n\nAs enterprise adoption of LLMs grows, inference costs, hallucinations, and retrieval inefficiencies are becoming major production challenges.\n\nTraditional vector-based Retrieval-Augmented Generation (RAG) improves grounding, but it still struggles with multi-hop reasoning and relations",
-    "url": "https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "architecture",
-      "llm",
-      "rag",
-      "showdev"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Azertio: API and Database Testing Without the Glue Code",
-    "summary": "If you have ever maintained a Cucumber + RestAssured test suite, you know the feeling. The feature files look clean. But underneath there are dozens of step definition classes, ScenarioContext maps to pass state between steps, @Before hooks to wire up the HTTP client, and a pom.xml that has grown to",
-    "url": "https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "api",
-      "opensource",
-      "showdev",
-      "testing"
-    ]
-  },
-  {
     "id": "028",
-    "title": "How to Test a REST API Automatically Without Writing Code",
-    "summary": "If you've ever built a REST API, you know the pain. You test it manually in Postman, everything works, you ship — and then three days later, something breaks silently in production, and nobody notices until a user complains.\n\nThe problem is that manual testing doesn't scale. You can't open Postman a",
-    "url": "https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam",
+    "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
+    "summary": "Retrieval-augmented generation (RAG) has become the de facto standard for grounding large language models (LLMs) in private data. The standard architecture — chunking documents, embedding them into a vector database, and retrieving top-k results via cosine similarity — is effective for unstructured ",
+    "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
     "date": "2026-05-17",
-    "source": "Dev.to",
+    "source": "VentureBeat",
     "tags": [
-      "api",
-      "testing",
-      "automation",
-      "webdev"
+      "Orchestration",
+      "DataDecisionMakers"
     ]
   },
   {
     "id": "029",
-    "title": "How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph",
-    "summary": "Traditional Vector RAG struggles with highly connected cybersecurity data.\n\nThreat actors, malware, CVEs, and attack techniques exist as relationships -  not isolated text chunks.\n\nTo explore whether graph-based retrieval performs better, we built CyberGraph RAG, a cybersecurity benchmarking platfor",
-    "url": "https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon",
+    "title": "CONNECTING POWER BI TO SQL",
+    "summary": "Connecting Power BI to PostgreSQL Databases for Business Intelligence\n\n\nBusinesses generate massive amounts of data every day, but raw data alone is not useful unless it can be transformed into meaningful insights. This is where Power BI and SQL databases become essential tools for modern business i",
+    "url": "https://dev.to/moraa_omwoyo/connecting-power-bi-to-sql-4ocn",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "cybersecurity",
-      "database",
-      "llm",
-      "rag"
+      "powerfuldevs",
+      "postgres",
+      "datascience"
     ]
   },
   {
     "id": "030",
-    "title": "One Day, These Posts Will Be Running on Kiwi Engine",
-    "summary": "One of the things that helps me avoid burnout while building large systems is something surprisingly small:\n\nMicrogoals.\n\nNot “change the entire software industry” goals.\n\nNot “build the next massive platform” goals.\n\nTiny, visible progress points.\n\nAnd recently, one of those microgoals hit me while",
-    "url": "https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365",
+    "title": "xAI open-sourced their ranker. It doesn't compile.",
+    "summary": "On 2026-05-15, xAI pushed an update to xai-org/x-algorithm — the recommender behind X's For You feed. Three years after Twitter's original 2023 release, under different leadership.\n\nI cloned it and ran analysis on it.\n\nThe released code does not compile.\n\n\n  \n  \n  What's missing\n\n\nThere's no Cargo.t",
+    "url": "https://dev.to/roobie/xai-open-sourced-their-ranker-it-doesnt-compile-2gfj",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "programming",
-      "systemdesign",
-      "opensource"
+      "ai",
+      "opensource",
+      "security",
+      "discuss"
     ]
   }
 ]
