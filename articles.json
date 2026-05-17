@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
-    "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 176\n# Comments: 80",
-    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "title": "EU weighs restricting use of US cloud platforms to process sensitive gov data",
+    "summary": "Article URL: https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/\nComments URL: https://news.ycombinator.com/item?id=48171015\nPoints: 8\n# Comments: 1",
+    "url": "https://www.osnews.com/story/144943/eu-weighs-restricting-use-of-us-cloud-platforms-to-process-sensitive-government-data/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
-    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 123\n# Comments: 57",
-    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+    "title": "Meta deletes popular 1M follower account after Kuwaiti request",
+    "summary": "Article URL: https://twitter.com/ryangrim/status/2055992439031185782\nComments URL: https://news.ycombinator.com/item?id=48170810\nPoints: 21\n# Comments: 3",
+    "url": "https://twitter.com/ryangrim/status/2055992439031185782",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 43\n# Comments: 13",
-    "url": "https://github.com/tech4bot/rk3562deb",
+    "title": "The occasional ECONNRESET",
+    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 11\n# Comments: 1",
+    "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "AI is a technology not a product",
-    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 84\n# Comments: 22",
-    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "title": "Americans Are Smashing Flock Cameras",
+    "summary": "Article URL: https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/\nComments URL: https://news.ycombinator.com/item?id=48170798\nPoints: 134\n# Comments: 93",
+    "url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "CUDA Books",
-    "summary": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 21\n# Comments: 0",
-    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "title": "Mistral's CEO: Europe has 2 years to stop becoming America's AI 'vassal state'",
+    "summary": "Article URL: https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5\nComments URL: https://news.ycombinator.com/item?id=48170122\nPoints: 39\n# Comments: 25",
+    "url": "https://www.businessinsider.com/mistral-ceo-warns-europe-2-years-avoid-us-ai-dependence-2026-5",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Agentic Trading with Safe Guardrails",
-    "summary": "Article URL: https://github.com/ShurikenTrade/shuriken-skills\nComments URL: https://news.ycombinator.com/item?id=48168426\nPoints: 14\n# Comments: 3",
-    "url": "https://github.com/ShurikenTrade/shuriken-skills",
+    "title": "XS: A programming language. Anywhere, anytime, by anyone",
+    "summary": "Article URL: https://xslang.org\nComments URL: https://news.ycombinator.com/item?id=48169424\nPoints: 18\n# Comments: 8",
+    "url": "https://xslang.org",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "I don't think AI will make your processes go faster",
-    "summary": "Article URL: https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/\nComments URL: https://news.ycombinator.com/item?id=48168221\nPoints: 226\n# Comments: 155",
-    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+    "summary": "Article URL: https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html\nComments URL: https://news.ycombinator.com/item?id=48168856\nPoints: 371\n# Comments: 155",
+    "url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Apple Silicon costs more than OpenRouter",
-    "summary": "Article URL: https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html\nComments URL: https://news.ycombinator.com/item?id=48168198\nPoints: 168\n# Comments: 133",
-    "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "title": "WHO Declares Ebola Outbreak a Global Health Emergency",
+    "summary": "Article URL: https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html\nComments URL: https://news.ycombinator.com/item?id=48168708\nPoints: 189\n# Comments: 106",
+    "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Scientists believe ibogaine can help veterans overcome PTSD",
-    "summary": "Article URL: https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd\nComments URL: https://news.ycombinator.com/item?id=48168159\nPoints: 26\n# Comments: 16",
-    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 115\n# Comments: 65",
+    "url": "https://github.com/tech4bot/rk3562deb",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Native all the way, until you need text",
-    "summary": "Article URL: https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/\nComments URL: https://news.ycombinator.com/item?id=48168058\nPoints: 227\n# Comments: 153",
-    "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "title": "AI is a technology not a product",
+    "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 167\n# Comments: 54",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,38 @@
   },
   {
     "id": "011",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "date": "2026-05-17",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "commencement speeches",
+      "Eric Schmidt",
+      "gloria caulfield"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
+    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "date": "2026-05-17",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "AI",
+      "General Motors",
+      "Rivian",
+      "RJ Scaringe",
+      "Rapido",
+      "techcrunch mobility",
+      "mind robotics"
+    ]
+  },
+  {
+    "id": "013",
     "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
     "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
     "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
@@ -126,7 +158,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "A revolutionary cancer treatment could transform autoimmune disease",
     "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
     "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
@@ -142,7 +174,21 @@
     ]
   },
   {
-    "id": "013",
+    "id": "015",
+    "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+    "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+    "date": "2026-05-17",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "016",
     "title": "Oddity is masterfully tense horror from the director of Hokum",
     "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
     "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
@@ -156,7 +202,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "017",
     "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
     "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
     "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
@@ -170,7 +216,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "018",
     "title": "ElliQ is a surprisingly helpful companion robot for older adults",
     "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
     "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
@@ -183,7 +229,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "019",
     "title": "Chatbots at the drive-thru are just the beginning",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
     "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
@@ -196,7 +242,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "020",
     "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
     "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
     "url": "https://www.wired.com/review/oto-smart-sprinkler/",
@@ -217,7 +263,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "021",
     "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
     "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
     "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
@@ -236,7 +282,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "022",
     "title": "Take Control of Your Debt With These Free Tools",
     "summary": "These free debt calculators help you set up payment plans to get back in the black.",
     "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
@@ -255,7 +301,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "023",
     "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
     "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
     "url": "https://www.wired.com/story/bowling-lane-oil/",
@@ -272,7 +318,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "024",
     "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
     "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
     "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
@@ -289,7 +335,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "025",
     "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
     "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
     "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
@@ -308,113 +354,73 @@
     ]
   },
   {
-    "id": "023",
-    "title": "Aggregate Benchmarks Lie. Here's What 700 AI Functions Look Like by Security Domain.",
-    "summary": "Every AI benchmark I've seen makes the same mistake. They rank models by a single number — accuracy, pass rate, vulnerability rate — and call it a day.\n\nIn Part 3, we did exactly that. We ranked 5 models from Claude and Gemini by aggregate vulnerability rate and declared Haiku the safest (49%) and G",
-    "url": "https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "security",
-      "googleai",
-      "javascript"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Database Replication Lag: The Invisible Disaster",
-    "summary": "Database replication, a cornerstone of modern application architectures, is indispensable for providing high availability, disaster recovery, and read scalability. However, lurking within this critical mechanism is a insidious threat: replication lag. Often overlooked or underestimated, this conditi",
-    "url": "https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "database",
-      "replikasyon",
-      "replicationlag",
-      "veritutarliligi"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews",
-    "summary": "How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews — and why it matters.\n\nLet me paint a picture you’ve probably lived.\n\nYou have an interview in three days. You open YouTube, watch a two-hour system design video, take",
-    "url": "https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "career",
-      "interview",
-      "learning"
-    ]
-  },
-  {
     "id": "026",
-    "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
-    "summary": "Ever found yourself yearning for a coding environment that's as elegant and efficient as Unix? I’ve been there, navigating through clunky IDEs and cumbersome setups, wishing for something that felt like home. That's when I stumbled upon Zerostack—a Unix-inspired coding agent crafted in pure Rust. Le",
-    "url": "https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i",
+    "title": "Building a Biomedical GraphRAG Inference System: Comparing LLM-Only, Basic RAG, and GraphRAG Pipelines",
+    "summary": "Introduction\n\nAs enterprise adoption of LLMs grows, inference costs, hallucinations, and retrieval inefficiencies are becoming major production challenges.\n\nTraditional vector-based Retrieval-Augmented Generation (RAG) improves grounding, but it still struggles with multi-hop reasoning and relations",
+    "url": "https://dev.to/kavyanjali_lingam/building-a-biomedical-graphrag-inference-system-with-tigergraph-and-llm-benchmarking-410n",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "machinelearning",
-      "techtrends"
+      "architecture",
+      "llm",
+      "rag",
+      "showdev"
     ]
   },
   {
     "id": "027",
-    "title": "Why npm supply chain attacks keep happening and how to harden your installs",
-    "summary": "When npm install becomes a security event\n\n\nLook, I love npm. I've been shipping JavaScript for years and the ecosystem is genuinely incredible. But every few months we get another headline: a popular package gets hijacked, a maintainer's token leaks, a typosquatted package siphons environment varia",
-    "url": "https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p",
+    "title": "Azertio: API and Database Testing Without the Glue Code",
+    "summary": "If you have ever maintained a Cucumber + RestAssured test suite, you know the feeling. The feature files look clean. But underneath there are dozens of step definition classes, ScenarioContext maps to pass state between steps, @Before hooks to wire up the HTTP client, and a pom.xml that has grown to",
+    "url": "https://dev.to/luiinge/azertio-api-and-database-testing-without-the-glue-code-1ibl",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "npm",
-      "security",
-      "javascript",
-      "devops"
+      "api",
+      "opensource",
+      "showdev",
+      "testing"
     ]
   },
   {
     "id": "028",
-    "title": "Ten MCP servers I shipped this year. I use three.",
-    "summary": "I shipped ten Model Context Protocol servers under one npm scope this year. Three I use multiple times a week. Seven sit in my config file as dead weight. This is the honest ranking. The pattern is uncomfortable for the MCP-everywhere hype cycle, so I want to write it down.\n\n\n  \n  \n  The three I act",
-    "url": "https://dev.to/mukundakatta/ten-mcp-servers-i-shipped-this-year-i-use-three-1mc5",
+    "title": "How to Test a REST API Automatically Without Writing Code",
+    "summary": "If you've ever built a REST API, you know the pain. You test it manually in Postman, everything works, you ship — and then three days later, something breaks silently in production, and nobody notices until a user complains.\n\nThe problem is that manual testing doesn't scale. You can't open Postman a",
+    "url": "https://dev.to/samiron_barai_951bfa56753/how-to-test-a-rest-api-automatically-without-writing-code-1mam",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "mcp",
-      "ai",
-      "opensource",
-      "productivity"
+      "api",
+      "testing",
+      "automation",
+      "webdev"
     ]
   },
   {
     "id": "029",
-    "title": "Five problems every agent loop has. No framework needed.",
-    "summary": "Most agent failure modes are not interesting. They are boring. They are the same five problems in different costumes. After eighteen months running agent loops in production, I keep meeting these five and only these five.\n\nI do not build agent frameworks. I build small libraries that fix one failure",
-    "url": "https://dev.to/mukundakatta/five-problems-every-agent-loop-has-no-framework-needed-26di",
+    "title": "How We Built CyberGraph RAG: A 3.5M Token Cybersecurity GraphRAG System with TigerGraph",
+    "summary": "Traditional Vector RAG struggles with highly connected cybersecurity data.\n\nThreat actors, malware, CVEs, and attack techniques exist as relationships -  not isolated text chunks.\n\nTo explore whether graph-based retrieval performs better, we built CyberGraph RAG, a cybersecurity benchmarking platfor",
+    "url": "https://dev.to/bhuvi_d/how-we-built-cybergraph-rag-a-35m-token-cybersecurity-graphrag-system-with-tigergraph-5eon",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "agents",
-      "opensource",
-      "rust"
+      "cybersecurity",
+      "database",
+      "llm",
+      "rag"
     ]
   },
   {
     "id": "030",
-    "title": "How I Solved N-Queens Using Bitmasking (Step-by-Step Guide)",
-    "summary": "🚀 Solving N-Queens Using Bitmasking (Step-by-Step Guide)\n\n\n\n  \n  \n  🧠 Problem Overview\n\n\nThe N-Queens problem:\n\n\nPlace n queens on an n × n chessboard such that no two queens attack each other.\n\n\n\n\n\n\n  \n  \n  ⚡ Why Bitmasking?\n\n\nInstead of using:\n\n\nSets ❌\nArrays ❌\n\n\nWe use:\n\n\n\nBits (0/1) ✅ → faster &",
-    "url": "https://dev.to/abivarsanr/how-i-solved-n-queens-using-bitmasking-step-by-step-guide-45em",
+    "title": "One Day, These Posts Will Be Running on Kiwi Engine",
+    "summary": "One of the things that helps me avoid burnout while building large systems is something surprisingly small:\n\nMicrogoals.\n\nNot “change the entire software industry” goals.\n\nNot “build the next massive platform” goals.\n\nTiny, visible progress points.\n\nAnd recently, one of those microgoals hit me while",
+    "url": "https://dev.to/stinklewinks/one-day-these-posts-will-be-running-on-kiwi-engine-5365",
     "date": "2026-05-17",
     "source": "Dev.to",
     "tags": [
+      "webdev",
       "programming",
-      "python",
-      "algorithms"
+      "systemdesign",
+      "opensource"
     ]
   }
 ]
