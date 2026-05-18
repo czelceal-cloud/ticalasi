@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
-      "title": "There Is No 'Hard Problem of Consciousness'",
-      "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 17\n# Comments: 15",
+      "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+      "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
+      "summary": "Article URL: https://www.youtube.com/watch?v=1OIxzewWilc\nComments URL: https://news.ycombinator.com/item?id=48175637\nPoints: 6\n# Comments: 1",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
-      "title": "Most Americans don't trust AI – or the people in charge of it",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai\nComments URL: https://news.ycombinator.com/item?id=48174808\nPoints: 35\n# Comments: 11",
+      "url": "https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/",
+      "title": "America's Most-Spoken Languages After English and Spanish",
+      "summary": "Article URL: https://www.visualcapitalist.com/mapped-americas-most-spoken-languages-after-english-and-spanish/\nComments URL: https://news.ycombinator.com/item?id=48175319\nPoints: 18\n# Comments: 0",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -29,182 +29,180 @@
     },
     {
       "id": "003",
-      "url": "https://dev.to/speed_engineer/go-benchmarks-that-actually-mean-something-why-your-40-faster-optimization-does-nothing-in-38kh",
-      "title": "Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in…",
-      "summary": "Your JSON unmarshalling drops from 250ns to 150ns. That’s 40% faster! The graphs look amazing, your code review gets approved, everyone’s… \n\n\n\n\n\n  \n  \n  Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in Production — And What Actually Works\n\n\n Look, this is",
+      "url": "https://dev.to/17j/day-7-cloud-computing-aws-fundamentals-24f2",
+      "title": "Day 7 — Cloud Computing & AWS Fundamentals",
+      "summary": "Cloud computing is no longer optional.\n\nWhether you're building modern applications, deploying containers, running AI workloads, hosting websites, automating DevOps pipelines, or scaling startups — cloud platforms power almost everything today.\n\nIf you're entering:\n\n\nDevOps\nCloud Engineering\nCyberse",
       "date_published": "2026-05-18",
       "tags": [
-        "backend",
-        "go",
-        "performance",
-        "testing"
+        "masterclassdevsecops",
+        "webdev",
+        "cloudcomputing",
+        "productivity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "004",
-      "url": "https://dev.to/wplacetool/i-spent-3-months-building-an-ai-motion-tool-so-creators-dont-have-to-hate-their-workflow-anymore-492b",
-      "title": "I spent 3 months building an AI motion tool so creators don't have to hate their workflow anymore",
-      "summary": "Let me be honest for a second.\n\nI don't have a team. I don't have a research lab. I don't have a mocap suit hanging in my closet (I wish).\n\nI'm just a builder who got really, really tired of watching creators give up on cool ideas because the tools were too painful.\n\nThat's why I built Motion Contro",
+      "url": "https://dev.to/young_steve_official/good-morning-where-can-i-learn-codingai-dev-discuss-productivity-4j1i",
+      "title": "Good morning \nWhere can I learn coding?\n#ai #dev #discuss #productivity",
+      "summary": "Good morning \nWhere can I learn coding?\n#ai #dev #discuss #p",
       "date_published": "2026-05-18",
       "tags": [
-        "ai"
+        "beginners",
+        "codenewbie",
+        "discuss",
+        "learning"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "005",
-      "url": "https://dev.to/kunpeng-ai-lab/how-i-make-deepseek-work-closer-to-claude-code-in-practice-5dn5",
-      "title": "How I Make DeepSeek Work Closer to Claude Code in Practice",
-      "summary": "People have been asking me how I make DeepSeek feel closer to Claude Code in real work.\n\nMy answer is not a magic prompt. It is a mentor model workflow.\n\nI use a stronger model to plan, supervise, debug, and review. Then I let smaller or cheaper models handle bounded execution tasks in parallel.\n\nIm",
+      "url": "https://dev.to/tarik_anjum_d8446b422256b/how-i-built-a-free-client-side-pdf-merger-cropper-and-splitter-57kd",
+      "title": "How I Built a Free, Client‑Side PDF Merger, Cropper, and Splitter",
+      "summary": "Most online PDF tools upload your files to a server. I wanted to create something different: a set of PDF utilities that work entirely in the browser, where your documents never leave your device.\n\nThat's why I built PDFcone.\n\nThe idea was simple – merge, crop, and split PDFs without a backend, with",
       "date_published": "2026-05-18",
       "tags": [
-        "ai",
-        "programming",
-        "opensource",
-        "github"
+        "javascript",
+        "webdev",
+        "tutorial",
+        "productivity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://dev.to/tokenmixai/veo-4-doesnt-exist-yet-but-people-are-already-selling-it-3ch9",
-      "title": "Veo 4 Doesn't Exist Yet, But People Are Already Selling It",
-      "summary": "I went looking for Google Veo 4 last week. I had three browser tabs open with \"Veo 4\" landing pages, a credit card warmed up, and 30 minutes blocked to test the model that everyone on my feed seemed to be talking about.\n\nTwo hours later I was pretty sure I had not actually found Google's Veo 4 anywh",
+      "url": "https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-2nl8",
+      "title": "Which Gemma 4 Variant Should Power Your MCP Agent?",
+      "summary": "I’m writing this from a phone, on vacation. That’s not a flex — it’s the point.\n\nI run an MCP server in production: WebsitePublisher.ai, 55+ tools, 9 AI platforms connected. This afternoon I opened Google AI Studio on my phone, selected Gemma 4 26B, gave it our tool schemas, and asked it to build a ",
       "date_published": "2026-05-18",
       "tags": [
-        "ai",
-        "video",
-        "googlecloud",
-        "webdev"
+        "gemmachallenge"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://dev.to/betzy_flores_1b008f235189/best-productivity-apps-for-adults-with-adhd-well-tested-12al",
-      "title": "Best Productivity Apps for Adults with ADHD (Well Tested)",
-      "summary": "The Best Productivity Apps for Adults with ADHD (Tested Over Months, Not Days)\n\n\nI've spent the last several months testing productivity apps specifically with ADHD brains in mind. Not because I wanted to write a listicle. Because the existing ones are terrible.\n\nMost of them are written by people w",
+      "url": "https://dev.to/mattlewandowski93/i-gave-claude-six-months-of-our-retros-it-found-three-things-id-missed-c1p",
+      "title": "I gave Claude six months of our retros. It found three things I'd missed.",
+      "summary": "There's a thing PMs do that nobody puts on a job description. Every couple of weeks, after a retro, you flag three or four items in your head as things to watch. Then a sprint goes by. Then another. Three months later you're in a leadership review, somebody asks \"is X getting better or worse?\", and ",
       "date_published": "2026-05-18",
       "tags": [
+        "ai",
+        "mcp",
         "productivity",
-        "workstations"
+        "agile"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/mohammadrrashid/how-we-keep-mobile-session-replay-17x-cheaper-than-posthog-d5k",
-      "title": "How We Keep Mobile Session Replay 17x Cheaper Than PostHog",
-      "summary": "How We Keep Mobile Session Replay 17× Cheaper Than PostHog\n\n\nPostHog bills around $85/month for 25,000 sessions.\n\nRejourney bills $5/month.\n\nAt higher volumes, the gap gets even wider. At 350,000 sessions/month, Rejourney is roughly 20× cheaper.\n\nThis post is not about pricing strategy but why those",
+      "url": "https://dev.to/sreeni5018/ml-engineer-vs-ai-engineer-whats-actually-the-difference-hca",
+      "title": "ML Engineer vs AI Engineer: What's Actually the Difference?",
+      "summary": "Introduction: A Confusion That's Costing the Industry\n\n\nEvery week, someone posts a job description asking for an \"ML Engineer\" when they actually need an \"AI Engineer.\" Hiring managers conflate the two. Candidates apply for the wrong roles. Teams get built incorrectly, expectations get misaligned, ",
       "date_published": "2026-05-18",
       "tags": [
-        "analytics",
-        "sessionreplay",
-        "reactnative",
-        "mobile"
+        "Dev.to"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/mchellappa/spec2pr-reimagining-the-sdlc-for-intelligent-software-delivery-n8f",
-      "title": "Spec2PR: Reimagining the SDLC for Intelligent Software Delivery",
-      "summary": "Spec2PR: Reimagining the SDLC for Intelligent Software Delivery\n\n\n\nThe future of software delivery is not faster coding. It is intelligent orchestration.\n\n\nI didn't set outto rethink the software delivery lifecycle.\n\nI set out to help engineers ship faster. What I discovered along the way changed ho",
+      "url": "https://dev.to/tharun_lingala_a304dda79e/why-i-stopped-using-useeffect-for-everything-and-what-i-do-instead-2g1g",
+      "title": "Why I stopped using useEffect for everything and what I do instead",
+      "summary": "There was a point in my React journey where useEffect \nwas my answer to everything.\n\nData needs to load when the component mounts? useEffect.\nSomething needs to happen when a prop changes? useEffect.\nNeed to sync two pieces of state? useEffect.\n\nSix months ago I looked at a component I'd written and",
       "date_published": "2026-05-18",
       "tags": [
-        "ai",
-        "softwareengineering",
-        "architecture",
-        "devops"
+        "typescript",
+        "webdev",
+        "react",
+        "javascript"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/fadow/nextjs-dark-mode-with-tailwind-css-v4-in-5-minutes-5e3n",
-      "title": "Next.js Dark Mode with Tailwind CSS v4 in 5 Minutes",
-      "summary": "Dark mode isn't a \"nice to have\" anymore — users expect it. Here's the fastest way to add it to a Next.js 16 app with Tailwind v4 and next-themes.\n\n\n  \n  \n  1. Install\n\n\n\n\n\nnpm install next-themes\n\n\n\n\n\n\n\n  \n  \n  2. Wrap your app\n\n\n\n\n\n// app/layout.tsx\nimport { ThemeProvider } from 'next-themes';\n\nex",
+      "url": "https://dev.to/guslift/stripe-payment-and-processing-3146",
+      "title": "Stripe Payment and Processing",
+      "summary": "Since GusLift is a ride-sharing platform, payments are an important part of the user experience. Riders need a simple and secure way to complete payment, while the backend needs a reliable way to track payment status for each ride. To begin this process, we integrated Stripe Checkout into the projec",
       "date_published": "2026-05-18",
       "tags": [
-        "nextjs",
-        "webdev",
-        "react",
-        "frontend"
+        "api",
+        "backend",
+        "mobile",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/sathishkumar_krishnan_4a9/github-copilot-claude-sonnet-vs-claude-a-practitioners-guide-for-2026-3obl",
-      "title": "GitHub Copilot - Claude Sonnet vs Claude: A Practitioner's Guide for 2026",
-      "summary": "TL;DR — You don't choose between GitHub Copilot and Claude Code. You use each where it fits. This article maps every Claude-powered tool to the right job in your workflow, with real patterns from enterprise Java and full-stack development.\n\n\n\n\n\n\n  \n  \n  Who This Is For\n\n\nYou're a developer or IT arc",
+      "url": "https://dev.to/marshateo/the-scheduling-boundaries-behind-responsive-ui-2m56",
+      "title": "The Scheduling Boundaries Behind Responsive UI",
+      "summary": "This is the last article in a series on how JavaScript actually runs. You can read the full series here or on my website.\n\n\n\n\nWe now know how the event loop and rendering pipeline behave.  \n\nThe browser:\n\n\nRuns a macrotask to completion.\nDrains all microtasks.\nExecutes any scheduled requestAnimation",
       "date_published": "2026-05-18",
       "tags": [
-        "ai",
-        "productivity",
-        "claude",
-        "github"
+        "javascript",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/thejs_pythonguy/navigating-the-it-job-market-a-guide-for-aspiring-software-engineers-1l75",
-      "title": "Navigating the IT Job Market: A Guide for Aspiring Software Engineers",
-      "summary": "The era of the IT industry is evolving rapidly. With the rise of AI and a highly competitive job market, aspiring software engineers whether pursuing a degree in Computer Science, BCA, or MCA must adapt to stand out. While the market may seem discouraging, opportunities remain abundant for those who",
+      "url": "https://dev.to/merbayerp/cache-stampede-in-front-of-the-cdn-origin-server-loading-wars-39l",
+      "title": "Cache Stampede in Front of the CDN: Origin Server Loading Wars",
+      "summary": "Introduction: What is Cache Stampede in Front of a CDN?\n\n\nIn today's high-performance web applications, Content Delivery Networks (CDNs) play an indispensable role. They reduce latency by delivering content to users from geographically close servers, lower bandwidth costs, and alleviate the load on ",
       "date_published": "2026-05-18",
       "tags": [
-        "beginners",
-        "career",
-        "computerscience",
-        "softwareengineering"
+        "cdn",
+        "cache",
+        "cachestampede",
+        "performance"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/season_mudbhary_7856e4083/stop-naming-your-healthcare-columns-wrong-iso-11179-explained-2hnb",
-      "title": "Stop Naming Your Healthcare Columns Wrong — ISO-11179 Explained",
-      "summary": "If you've ever inherited a healthcare database with columns named DOB, PatientID, or CLAIM_NUMBER — this guide is for you.\n\nHealthcare data engineering has a naming problem. Every team, every vendor, every health plan names their columns differently. A \"member ID\" becomes MemberID in one system, mem",
+      "url": "https://dev.to/vyomanshi27/learncurator-i-built-a-youtube-tutorial-search-engine-that-filters-videos-ranks-by-ai-analysed-4aab",
+      "title": "LearnCurator - I built a YouTube tutorial search engine that filters videos, ranks by AI‑analysed comments",
+      "summary": "LearnCurator – Stop wasting time on bad YouTube tutorials\n\n\nI love learning from YouTube, but I kept running into the same problems:\n\n\n\nShorts mixed into search results (too short to teach anything)\n\nNon‑English/Hindi videos (I don’t speak Tamil or Telugu)\n\nOutdated tutorials (still showing 4‑year‑o",
       "date_published": "2026-05-18",
       "tags": [
-        "healthcare",
-        "dataengineering",
-        "sql",
-        "database"
+        "ai",
+        "webdev",
+        "javascript",
+        "api"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://dev.to/andyt2503/how-angular-change-detection-works-without-zonejs-4193",
-      "title": "How Angular Change Detection Works Without ZoneJs?",
-      "summary": "Angular Change Detection is the process that keeps the UI in sync with component state. When a value changes in TypeScript, Angular must update the template. For example:\n\n\n\n<h1>{{ title }}</h1>\n\n\n\n\n\n\nIf title changes, Angular needs to update the text in the DOM. This is important because users shou",
+      "url": "https://dev.to/el_mustapha_ef06697a31214/my-first-hackathon-experience-2lc1",
+      "title": "My First Hackathon Experience",
+      "summary": "Over the weekend my team and I attended SquadCo Hackathon 3.0, it’s my first and the craziest hackathon I’ve attended . Yeah it’s my first and the craziest ,you heard that right😅.\nThe format was a full SWE interview-style mixed with a pitchathon, but we didn’t make it to the final ten to pitch , but",
       "date_published": "2026-05-18",
       "tags": [
-        "angular",
-        "tuhoangdev",
-        "typescript"
+        "ai",
+        "beginners",
+        "interview",
+        "softwareengineering"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-      "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 17\n# Comments: 1",
-      "date_published": "2026-05-17",
+      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+      "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
+      "date_published": "2026-05-18",
       "tags": [
-        "Hacker News"
+        "BBC News"
       ],
-      "_source": "Hacker News"
+      "_source": "BBC News"
     },
     {
       "id": "016",
-      "url": "https://github.com/open-energy-transition/grid2poster",
-      "title": "Design posters showcasing your country's electrical grid",
-      "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 68\n# Comments: 18",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 60\n# Comments: 3",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -215,7 +213,7 @@
       "id": "017",
       "url": "https://xca-attacks.github.io/fabricked/",
       "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-      "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 31\n# Comments: 16",
+      "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 43\n# Comments: 21",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -226,7 +224,7 @@
       "id": "018",
       "url": "https://www.jdhodges.com/blog/thinkpad-history/",
       "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 65\n# Comments: 34",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 82\n# Comments: 42",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -237,7 +235,7 @@
       "id": "019",
       "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
       "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 129\n# Comments: 108",
+      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 159\n# Comments: 134",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -248,7 +246,7 @@
       "id": "020",
       "url": "https://www.metalevel.at/prolog/horror",
       "title": "Prolog Coding Horror",
-      "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 70\n# Comments: 25",
+      "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 88\n# Comments: 28",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -259,7 +257,7 @@
       "id": "021",
       "url": "https://spectrum.ieee.org/payphone-voip",
       "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 126\n# Comments: 37",
+      "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 140\n# Comments: 41",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -268,6 +266,17 @@
     },
     {
       "id": "022",
+      "url": "https://github.com/MinishLab/semble",
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
       "title": "Apple’s Siri revamp could include auto-deleting chats",
       "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
@@ -282,7 +291,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "023",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
@@ -295,7 +304,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
@@ -309,7 +318,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
       "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
       "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
@@ -327,7 +336,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
       "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
       "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
@@ -343,7 +352,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "028",
       "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
       "title": "A revolutionary cancer treatment could transform autoimmune disease",
       "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
@@ -359,7 +368,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "028",
+      "id": "029",
       "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
       "title": "Microsoft is retiring Teams’ Together Mode",
       "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. T",
@@ -372,7 +381,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "029",
+      "id": "030",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "title": "Revamped Siri will reportedly offer auto-deleting chats",
       "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
@@ -381,20 +390,6 @@
         "AI",
         "Apple",
         "Apple Rumors",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "030",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-      "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
-      "date_published": "2026-05-17",
-      "tags": [
-        "AI",
-        "Google",
         "News",
         "Tech"
       ],
