@@ -1,195 +1,193 @@
 [
   {
     "id": "001",
-    "title": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn",
-    "summary": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn\n\n\nTimers are one of those things every React developer writes by hand the first ten times and gets wrong on at least six of them. The pattern looks simple: call setTimeout in a useEffect, return a cleanup functio",
-    "url": "https://dev.to/childrentime/timers-in-react-without-settimeout-usetimeout-useinterval-usecountdown-and-useraffn-3oe1",
+    "title": "There Is No 'Hard Problem of Consciousness'",
+    "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 17\n# Comments: 15",
+    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "react",
-      "javascript",
-      "webdev",
-      "tutorial"
+      "Hacker News"
     ]
   },
   {
     "id": "002",
-    "title": "Host & Network Penetration Testing: Exploitation CTF Walkthrough",
-    "summary": "Introduction\n\n\nAfter recently transitioning into my first cybersecurity role, I'm continuing my practical skills development through hands-on labs. This writeup documents my approach to completing the Exploitation CTF, which focuses on vulnerability identification, exploit modification, and privileg",
-    "url": "https://dev.to/james_kariuki/host-network-penetration-testing-exploitation-ctf-walkthrough-f7m",
+    "title": "Most Americans don't trust AI – or the people in charge of it",
+    "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai\nComments URL: https://news.ycombinator.com/item?id=48174808\nPoints: 35\n# Comments: 11",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "cybersecurity",
-      "ctf"
+      "Hacker News"
     ]
   },
   {
     "id": "003",
-    "title": "Bidet AI — on-device Gemma 4 turns a messy brain-dump into clean writing",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI'm Mark. I'm a middle-school teacher, and I'm not a coder. A few times a year there's a piece of writing that wrecks me: honest comments about real students — the most personal, highest-stakes writing I do. ",
-    "url": "https://dev.to/mark_barnett_a50bc71e7433/bidet-ai-on-device-gemma-4-turns-a-messy-brain-dump-into-clean-writing-4256",
+    "title": "Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in…",
+    "summary": "Your JSON unmarshalling drops from 250ns to 150ns. That’s 40% faster! The graphs look amazing, your code review gets approved, everyone’s… \n\n\n\n\n\n  \n  \n  Go Benchmarks That Actually Mean Something Why Your “40% Faster” Optimization Does Nothing in Production — And What Actually Works\n\n\n Look, this is",
+    "url": "https://dev.to/speed_engineer/go-benchmarks-that-actually-mean-something-why-your-40-faster-optimization-does-nothing-in-38kh",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "backend",
+      "go",
+      "performance",
+      "testing"
     ]
   },
   {
     "id": "004",
-    "title": "The Death of \"Just Write the Code\": How AI-Native Development Is Reshaping What It Means to Be a Developer",
-    "summary": "You're not losing your job to AI. But the developer who knows how to work with AI might.\n\n\n\n\nI used to spend 40 minutes writing a database migration script. Last Tuesday, I described what I needed in two sentences, reviewed the output, caught one edge case, fixed it, and shipped. Total time: 8 minut",
-    "url": "https://dev.to/oketch/the-death-of-just-write-the-code-how-ai-native-development-is-reshaping-what-it-means-to-be-a-21n9",
+    "title": "I spent 3 months building an AI motion tool so creators don't have to hate their workflow anymore",
+    "summary": "Let me be honest for a second.\n\nI don't have a team. I don't have a research lab. I don't have a mocap suit hanging in my closet (I wish).\n\nI'm just a builder who got really, really tired of watching creators give up on cool ideas because the tools were too painful.\n\nThat's why I built Motion Contro",
+    "url": "https://dev.to/wplacetool/i-spent-3-months-building-an-ai-motion-tool-so-creators-dont-have-to-hate-their-workflow-anymore-492b",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "webdev",
-      "productivity",
-      "career"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
-    "summary": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.\n\nIt's not that AI agents are useless. It's the opposite. They got good enough that handing one a shell started to feel reckless.\n\nA shell isn't really an interface. It's a weapon with tab completion. It can r",
-    "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "opensource",
-      "go",
-      "selfhosted"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "GemmaChallenge: Build a Socratic Study Buddy with Gemma 4",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI built a local Socratic Study Buddy application. It pairs the localized inference engine of LM Studio with a custom-built Streamlit Web UI frontend. Instead of acting as a lazy \"answer engine\" that does a st",
-    "url": "https://dev.to/leslysandra/gemmachallenge-build-a-socratic-study-buddy-with-gemma-4-5c44",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "AI fixed how fast I can build. It broke how I know what I'm building.",
-    "summary": "A markdown convention I wrote to track 5-10 half-built projects without losing my mind, and without another SaaS subscription.\n\n\nTL;DR. AI made it cheap to generate ideas, draft plans, and start projects. It did not make it cheap to track them. I ended up with 5-10 half-built projects, plan files ev",
-    "url": "https://dev.to/yrangana/ai-fixed-how-fast-i-can-build-it-broke-how-i-know-what-im-building-2lnp",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "productivity",
-      "tooling",
-      "ai",
-      "claude"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "my apps were invisible to AI agents — here's what I am doing about it",
-    "summary": "i'm an indie app builder and vibe coder. i've shipped over 30 small business apps — invoicing, inventory, packing slips, tax tracking. and now apparently an open standard for ai agents.\n\nthat last one surprised me too.\n\nthe problem i kept running into: even the best ai agents hallucinate when they l",
-    "url": "https://dev.to/jill_builds_apps/my-apps-were-invisible-to-ai-agents-heres-what-i-am-doing-about-it-5h4d",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "mcp",
-      "webdev",
-      "indiedev"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "Debugging DNS leaks: why your VPN isn't hiding what you think it is",
-    "summary": "Last month I was setting up a hardened dev environment for a client doing security research. They wanted all traffic from their workstation tunneled through a VPN, no exceptions. Simple, right? Install WireGuard, flip the toggle, done.\n\nThen I ran a leak test and watched their real ISP-assigned DNS ",
-    "url": "https://dev.to/alanwest/debugging-dns-leaks-why-your-vpn-isnt-hiding-what-you-think-it-is-4ecg",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "networking",
-      "security",
-      "devops",
-      "linux"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
-    "summary": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the era of intelligence-per-parameter—a metric of how much reasoning power is packed into a compact model. Gemma 4, built on the latest research from Google DeepMind, brings high-level, multi-step reasoni",
-    "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "gemma",
-      "handson",
-      "lmstudio",
       "ai"
     ]
   },
   {
-    "id": "011",
-    "title": "Engineering RAG Systems That Actually Work: Conversational Retrieval, Page Awareness & Debugging (Part 5)",
-    "summary": "From a working prototype to something that actually behaves like a real system.\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nIn the previous parts, we built a fairly solid RAG pipeline:\n\n\nVector search using FAISS\nBetter chunking strategies\nContext optimization\nHyDE for improving retrieval quality\n\n\nAt that point, ",
-    "url": "https://dev.to/sharathkurup/engineering-rag-systems-that-actually-work-conversational-retrieval-page-awareness-debugging-52bm",
+    "id": "005",
+    "title": "How I Make DeepSeek Work Closer to Claude Code in Practice",
+    "summary": "People have been asking me how I make DeepSeek feel closer to Claude Code in real work.\n\nMy answer is not a magic prompt. It is a mentor model workflow.\n\nI use a stronger model to plan, supervise, debug, and review. Then I let smaller or cheaper models handle bounded execution tasks in parallel.\n\nIm",
+    "url": "https://dev.to/kunpeng-ai-lab/how-i-make-deepseek-work-closer-to-claude-code-in-practice-5dn5",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "rag",
-      "tutorial",
-      "python"
+      "programming",
+      "opensource",
+      "github"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Veo 4 Doesn't Exist Yet, But People Are Already Selling It",
+    "summary": "I went looking for Google Veo 4 last week. I had three browser tabs open with \"Veo 4\" landing pages, a credit card warmed up, and 30 minutes blocked to test the model that everyone on my feed seemed to be talking about.\n\nTwo hours later I was pretty sure I had not actually found Google's Veo 4 anywh",
+    "url": "https://dev.to/tokenmixai/veo-4-doesnt-exist-yet-but-people-are-already-selling-it-3ch9",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "video",
+      "googlecloud",
+      "webdev"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Best Productivity Apps for Adults with ADHD (Well Tested)",
+    "summary": "The Best Productivity Apps for Adults with ADHD (Tested Over Months, Not Days)\n\n\nI've spent the last several months testing productivity apps specifically with ADHD brains in mind. Not because I wanted to write a listicle. Because the existing ones are terrible.\n\nMost of them are written by people w",
+    "url": "https://dev.to/betzy_flores_1b008f235189/best-productivity-apps-for-adults-with-adhd-well-tested-12al",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "productivity",
+      "workstations"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "How We Keep Mobile Session Replay 17x Cheaper Than PostHog",
+    "summary": "How We Keep Mobile Session Replay 17× Cheaper Than PostHog\n\n\nPostHog bills around $85/month for 25,000 sessions.\n\nRejourney bills $5/month.\n\nAt higher volumes, the gap gets even wider. At 350,000 sessions/month, Rejourney is roughly 20× cheaper.\n\nThis post is not about pricing strategy but why those",
+    "url": "https://dev.to/mohammadrrashid/how-we-keep-mobile-session-replay-17x-cheaper-than-posthog-d5k",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "analytics",
+      "sessionreplay",
+      "reactnative",
+      "mobile"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Spec2PR: Reimagining the SDLC for Intelligent Software Delivery",
+    "summary": "Spec2PR: Reimagining the SDLC for Intelligent Software Delivery\n\n\n\nThe future of software delivery is not faster coding. It is intelligent orchestration.\n\n\nI didn't set outto rethink the software delivery lifecycle.\n\nI set out to help engineers ship faster. What I discovered along the way changed ho",
+    "url": "https://dev.to/mchellappa/spec2pr-reimagining-the-sdlc-for-intelligent-software-delivery-n8f",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "softwareengineering",
+      "architecture",
+      "devops"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Next.js Dark Mode with Tailwind CSS v4 in 5 Minutes",
+    "summary": "Dark mode isn't a \"nice to have\" anymore — users expect it. Here's the fastest way to add it to a Next.js 16 app with Tailwind v4 and next-themes.\n\n\n  \n  \n  1. Install\n\n\n\n\n\nnpm install next-themes\n\n\n\n\n\n\n\n  \n  \n  2. Wrap your app\n\n\n\n\n\n// app/layout.tsx\nimport { ThemeProvider } from 'next-themes';\n\nex",
+    "url": "https://dev.to/fadow/nextjs-dark-mode-with-tailwind-css-v4-in-5-minutes-5e3n",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "nextjs",
+      "webdev",
+      "react",
+      "frontend"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "GitHub Copilot - Claude Sonnet vs Claude: A Practitioner's Guide for 2026",
+    "summary": "TL;DR — You don't choose between GitHub Copilot and Claude Code. You use each where it fits. This article maps every Claude-powered tool to the right job in your workflow, with real patterns from enterprise Java and full-stack development.\n\n\n\n\n\n\n  \n  \n  Who This Is For\n\n\nYou're a developer or IT arc",
+    "url": "https://dev.to/sathishkumar_krishnan_4a9/github-copilot-claude-sonnet-vs-claude-a-practitioners-guide-for-2026-3obl",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "productivity",
+      "claude",
+      "github"
     ]
   },
   {
     "id": "012",
-    "title": "Everyone is vibe coding but nobody is maintaining the vibe code.",
-    "summary": "Six months after the AI-generated prototype ships to production, the engineer who wrote zero of it is on call at 3 AM trying to understand it.\n\nVibe coding is real and it works for what it is. You can describe a goal in plain English and get working software in an hour that would have taken a week t",
-    "url": "https://dev.to/emilywoodsnyc/everyone-is-vibe-coding-but-nobody-is-maintaining-the-vibe-code-4399",
+    "title": "Navigating the IT Job Market: A Guide for Aspiring Software Engineers",
+    "summary": "The era of the IT industry is evolving rapidly. With the rise of AI and a highly competitive job market, aspiring software engineers whether pursuing a degree in Computer Science, BCA, or MCA must adapt to stand out. While the market may seem discouraging, opportunities remain abundant for those who",
+    "url": "https://dev.to/thejs_pythonguy/navigating-the-it-job-market-a-guide-for-aspiring-software-engineers-1l75",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "vibecoding",
-      "ai",
-      "webdev",
-      "career"
+      "beginners",
+      "career",
+      "computerscience",
+      "softwareengineering"
     ]
   },
   {
     "id": "013",
-    "title": "Design posters showcasing your country's electrical grid",
-    "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 54\n# Comments: 15",
-    "url": "https://github.com/open-energy-transition/grid2poster",
-    "date": "2026-05-17",
-    "source": "Hacker News",
+    "title": "Stop Naming Your Healthcare Columns Wrong — ISO-11179 Explained",
+    "summary": "If you've ever inherited a healthcare database with columns named DOB, PatientID, or CLAIM_NUMBER — this guide is for you.\n\nHealthcare data engineering has a naming problem. Every team, every vendor, every health plan names their columns differently. A \"member ID\" becomes MemberID in one system, mem",
+    "url": "https://dev.to/season_mudbhary_7856e4083/stop-naming-your-healthcare-columns-wrong-iso-11179-explained-2hnb",
+    "date": "2026-05-18",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "healthcare",
+      "dataengineering",
+      "sql",
+      "database"
     ]
   },
   {
     "id": "014",
-    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-    "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 22\n# Comments: 13",
-    "url": "https://xca-attacks.github.io/fabricked/",
-    "date": "2026-05-17",
-    "source": "Hacker News",
+    "title": "How Angular Change Detection Works Without ZoneJs?",
+    "summary": "Angular Change Detection is the process that keeps the UI in sync with component state. When a value changes in TypeScript, Angular must update the template. For example:\n\n\n\n<h1>{{ title }}</h1>\n\n\n\n\n\n\nIf title changes, Angular needs to update the text in the DOM. This is important because users shou",
+    "url": "https://dev.to/andyt2503/how-angular-change-detection-works-without-zonejs-4193",
+    "date": "2026-05-18",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "angular",
+      "tuhoangdev",
+      "typescript"
     ]
   },
   {
     "id": "015",
-    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 56\n# Comments: 26",
-    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 17\n# Comments: 1",
+    "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -198,9 +196,9 @@
   },
   {
     "id": "016",
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 94\n# Comments: 74",
-    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "title": "Design posters showcasing your country's electrical grid",
+    "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 68\n# Comments: 18",
+    "url": "https://github.com/open-energy-transition/grid2poster",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -209,9 +207,9 @@
   },
   {
     "id": "017",
-    "title": "Prolog Coding Horror",
-    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 57\n# Comments: 21",
-    "url": "https://www.metalevel.at/prolog/horror",
+    "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+    "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 31\n# Comments: 16",
+    "url": "https://xca-attacks.github.io/fabricked/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -220,9 +218,9 @@
   },
   {
     "id": "018",
-    "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-    "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 115\n# Comments: 33",
-    "url": "https://spectrum.ieee.org/payphone-voip",
+    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 65\n# Comments: 34",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -231,9 +229,9 @@
   },
   {
     "id": "019",
-    "title": "The occasional ECONNRESET",
-    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 93\n# Comments: 20",
-    "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 129\n# Comments: 108",
+    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -242,9 +240,9 @@
   },
   {
     "id": "020",
-    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-    "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
-    "url": "https://github.com/MinishLab/semble",
+    "title": "Prolog Coding Horror",
+    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 70\n# Comments: 25",
+    "url": "https://www.metalevel.at/prolog/horror",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
@@ -253,9 +251,9 @@
   },
   {
     "id": "021",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 255\n# Comments: 120",
-    "url": "https://github.com/tech4bot/rk3562deb",
+    "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+    "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 126\n# Comments: 37",
+    "url": "https://spectrum.ieee.org/payphone-voip",
     "date": "2026-05-17",
     "source": "Hacker News",
     "tags": [
