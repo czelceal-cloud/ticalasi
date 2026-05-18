@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://archestra.ai/blog/only-responsible-ai",
-      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 49\n# Comments: 7",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 72\n# Comments: 16",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what",
-      "title": "What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
-      "summary": "Article URL: https://gadallon.substack.com/p/the-third-time-amazon-did-this-what\nComments URL: https://news.ycombinator.com/item?id=48180881\nPoints: 11\n# Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+      "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait\nComments URL: https://news.ycombinator.com/item?id=48182592\nPoints: 39\n# Comments: 27",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.wired.com/story/normie-vibe-code/",
-      "title": "I'm a Normie. Can Normies Vibe Code?",
-      "summary": "Article URL: https://www.wired.com/story/normie-vibe-code/\nComments URL: https://news.ycombinator.com/item?id=48180705\nPoints: 8\n# Comments: 2",
+      "url": "https://twitter.com/cursor_ai/status/2056415413077233983",
+      "title": "Cursor Introduces Composer 2.5",
+      "summary": "Article URL: https://twitter.com/cursor_ai/status/2056415413077233983\nComments URL: https://news.ycombinator.com/item?id=48182516\nPoints: 24\n# Comments: 5",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://github.com/2b2tplace/1m_release",
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "summary": "Article URL: https://github.com/2b2tplace/1m_release\nComments URL: https://news.ycombinator.com/item?id=48180204\nPoints: 47\n# Comments: 26",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "title": "Anthropic Acquires Stainless",
+      "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 86\n# Comments: 46",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
-      "title": "Actually, Democracy Dies in H.R.",
-      "summary": "https://archive.ph/RKltX\n\nComments URL: https://news.ycombinator.com/item?id=48180091\nPoints: 97\n# Comments: 46",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+      "title": "Qwen 3.7 Preview",
+      "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2056403591464984753\nComments URL: https://news.ycombinator.com/item?id=48181877\nPoints: 52\n# Comments: 19",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "title": "Project Glasswing: what Mythos showed us",
-      "summary": "Article URL: https://blog.cloudflare.com/cyber-frontier-models/\nComments URL: https://news.ycombinator.com/item?id=48179732\nPoints: 47\n# Comments: 6",
+      "url": "https://github.com/InsForge/InsForge",
+      "title": "Show HN: InsForge – Open-source Heroku for coding agents",
+      "summary": "Hi HN, I'm Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 (https://github.com/InsForge/InsForge). Quick demo here (https://youtu.be/7Bax",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://github.com/zakirullin/files.md",
-      "title": "Show HN: Files.md – Open-source alternative to Obsidian",
-      "summary": "Article URL: https://github.com/zakirullin/files.md\nComments URL: https://news.ycombinator.com/item?id=48179677\nPoints: 215\n# Comments: 124",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+      "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 226\n# Comments: 98",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
-      "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
-      "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/\nComments URL: https://news.ycombinator.com/item?id=48179569\nPoints: 13\n# Comments: 0",
+      "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+      "title": "Garry Tan, the CEO of venture YC, accused me of unethical reporting",
+      "summary": "Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism\nComments URL: https://news.ycombinator.com/item?id=48181041\nPoints: 46\n# Comments: 0",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
-      "title": "'We mould trees to grow into the shape of chairs'",
-      "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o\nComments URL: https://news.ycombinator.com/item?id=48179183\nPoints: 110\n# Comments: 31",
+      "url": "https://github.com/2b2tplace/1m_release",
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "summary": "Article URL: https://github.com/2b2tplace/1m_release\nComments URL: https://news.ycombinator.com/item?id=48180204\nPoints: 96\n# Comments: 47",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
-      "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-      "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840\nComments URL: https://news.ycombinator.com/item?id=48179029\nPoints: 99\n# Comments: 48",
+      "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+      "title": "Actually, democracy dies in H.R.",
+      "summary": "https://archive.ph/RKltX\n\nComments URL: https://news.ycombinator.com/item?id=48180091\nPoints: 188\n# Comments: 130",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -117,6 +117,22 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
+      "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+      "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Security",
+        "cyberattack",
+        "cybersecurity",
+        "data breach",
+        "healthcare",
+        "new york city"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
       "title": "Kin Health raises $9M to build an AI notetaker for patients",
       "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
@@ -131,7 +147,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
       "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
       "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
@@ -148,7 +164,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
       "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
       "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
@@ -165,25 +181,39 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
       "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
       "date_published": "2026-05-18",
       "tags": [
-        "Startups",
-        "Hardware",
         "AI",
-        "optics",
-        "SMART Glasses",
+        "Hardware",
+        "Startups",
         "ai glasses",
         "LetinAR",
-        "optics technology"
+        "optics",
+        "optics technology",
+        "SMART Glasses"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "016",
+      "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
+      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
+      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Tech",
+        "windows 11",
+        "windows 11 24h2",
+        "windows 11 25h2"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "017",
       "url": "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
       "title": "BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive",
       "summary": "The 2027 M3 CS Handschalter is lighter and comes with three pedals instead of two.",
@@ -195,7 +225,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "016",
+      "id": "018",
       "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
       "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
       "summary": "Isaacman's $25 million donation leads to impressive new facilities.",
@@ -209,7 +239,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "017",
+      "id": "019",
       "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
       "title": "Bug bounty businesses bombarded with AI slop",
       "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
@@ -224,7 +254,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "018",
+      "id": "020",
       "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
       "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
       "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
@@ -239,7 +269,71 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "019",
+      "id": "021",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
+      "date_published": "2026-05-18",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "Law",
+        "News",
+        "OpenAI",
+        "Policy",
+        "Tech",
+        "xAI"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "022",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "title": "Elon Musk lost his case against Sam Altman",
+      "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […",
+      "date_published": "2026-05-18",
+      "tags": [
+        "AI",
+        "Elon Musk",
+        "Law",
+        "Microsoft",
+        "News",
+        "OpenAI",
+        "Policy",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "023",
+      "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
+      "title": "Google is rolling out its redesigned Workspace app icons",
+      "summary": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will notice they now have a gradient look that fades from lighter to darker shades, rath",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Apps",
+        "Design",
+        "Google",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "024",
+      "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
+      "title": "Sony is raising short-subscription prices for PlayStation Plus",
+      "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.99 GBP, while 3-month subscriptions will start at $27.99 USD / €",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Gaming",
+        "News",
+        "PlayStation"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "025",
       "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
       "title": "Amazon Alexa Plus can now create AI-generated podcasts",
       "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to s",
@@ -254,7 +348,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "020",
+      "id": "026",
       "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
       "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
       "summary": "Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices are even cheaper today when you enter the code SAVETWENTY at checkout through midnight Central Time. The products included in the sale serve as ",
@@ -267,7 +361,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "021",
+      "id": "027",
       "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
       "title": "The Verge’s 2026 college graduation gift guide",
       "summary": "Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting their first apartment, too, which brings on a whole new set of responsibilities. That's why getting the rig",
@@ -281,7 +375,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "022",
+      "id": "028",
       "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
       "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
       "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register rep",
@@ -295,7 +389,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "023",
+      "id": "029",
       "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
       "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
       "summary": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [",
@@ -309,7 +403,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "024",
+      "id": "030",
       "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
       "title": "Starlink raises prices across satellite internet plans",
       "summary": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Res",
@@ -321,100 +415,6 @@
         "SpaceX"
       ],
       "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
-      "title": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
-      "summary": "We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X \"The ColleXion\" Edition have been shared online by OnLeaks and HotEUDeals, showing thicker leatherette padding and",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Gadgets",
-        "Headphones",
-        "News",
-        "Sony",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "026",
-      "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
-      "title": "Bad, Bad, Bad, Bad Roommate",
-      "summary": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bung",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Features"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "027",
-      "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
-      "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
-      "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"f",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Entertainment",
-        "Games Review",
-        "Gaming"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
-      "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
-      "summary": "So why didn't Swatch do anything to avoid it?",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "Shopping",
-        "apparel",
-        "Retail",
-        "fashion",
-        "watches",
-        "Watch Yourself"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/how-to-watch-google-io/",
-      "title": "How to Watch Google I/O 2026",
-      "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "Google",
-        "Android",
-        "Apps",
-        "software",
-        "smartphones",
-        "phones",
-        "Google Gemini",
-        "smart glasses",
-        "Google I/O"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "030",
-      "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
-      "title": "The Backward Logic of Chickenpox Parties",
-      "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Science",
-        "shingles",
-        "diseases",
-        "infectious disease",
-        "science",
-        "Viral Content"
-      ],
-      "_source": "Wired"
     }
   ]
 }
