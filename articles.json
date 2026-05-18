@@ -1,8 +1,172 @@
 [
   {
     "id": "001",
+    "title": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn",
+    "summary": "Timers in React Without setTimeout: useTimeout, useInterval, useCountDown, and useRafFn\n\n\nTimers are one of those things every React developer writes by hand the first ten times and gets wrong on at least six of them. The pattern looks simple: call setTimeout in a useEffect, return a cleanup functio",
+    "url": "https://dev.to/childrentime/timers-in-react-without-settimeout-usetimeout-useinterval-usecountdown-and-useraffn-3oe1",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "react",
+      "javascript",
+      "webdev",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Host & Network Penetration Testing: Exploitation CTF Walkthrough",
+    "summary": "Introduction\n\n\nAfter recently transitioning into my first cybersecurity role, I'm continuing my practical skills development through hands-on labs. This writeup documents my approach to completing the Exploitation CTF, which focuses on vulnerability identification, exploit modification, and privileg",
+    "url": "https://dev.to/james_kariuki/host-network-penetration-testing-exploitation-ctf-walkthrough-f7m",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "cybersecurity",
+      "ctf"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Bidet AI — on-device Gemma 4 turns a messy brain-dump into clean writing",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI'm Mark. I'm a middle-school teacher, and I'm not a coder. A few times a year there's a piece of writing that wrecks me: honest comments about real students — the most personal, highest-stakes writing I do. ",
+    "url": "https://dev.to/mark_barnett_a50bc71e7433/bidet-ai-on-device-gemma-4-turns-a-messy-brain-dump-into-clean-writing-4256",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "The Death of \"Just Write the Code\": How AI-Native Development Is Reshaping What It Means to Be a Developer",
+    "summary": "You're not losing your job to AI. But the developer who knows how to work with AI might.\n\n\n\n\nI used to spend 40 minutes writing a database migration script. Last Tuesday, I described what I needed in two sentences, reviewed the output, caught one edge case, fixed it, and shipped. Total time: 8 minut",
+    "url": "https://dev.to/oketch/the-death-of-just-write-the-code-how-ai-native-development-is-reshaping-what-it-means-to-be-a-21n9",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "webdev",
+      "productivity",
+      "career"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "I still don't want to give Claude SSH access, so I built a doctor for my homelab",
+    "summary": "A few weeks ago I wrote about why I don't want to give Claude SSH access to my home server.\n\nIt's not that AI agents are useless. It's the opposite. They got good enough that handing one a shell started to feel reckless.\n\nA shell isn't really an interface. It's a weapon with tab completion. It can r",
+    "url": "https://dev.to/higangssh/i-still-dont-want-to-give-claude-ssh-access-so-i-built-a-doctor-for-my-homelab-2me6",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "opensource",
+      "go",
+      "selfhosted"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "GemmaChallenge: Build a Socratic Study Buddy with Gemma 4",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI built a local Socratic Study Buddy application. It pairs the localized inference engine of LM Studio with a custom-built Streamlit Web UI frontend. Instead of acting as a lazy \"answer engine\" that does a st",
+    "url": "https://dev.to/leslysandra/gemmachallenge-build-a-socratic-study-buddy-with-gemma-4-5c44",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "AI fixed how fast I can build. It broke how I know what I'm building.",
+    "summary": "A markdown convention I wrote to track 5-10 half-built projects without losing my mind, and without another SaaS subscription.\n\n\nTL;DR. AI made it cheap to generate ideas, draft plans, and start projects. It did not make it cheap to track them. I ended up with 5-10 half-built projects, plan files ev",
+    "url": "https://dev.to/yrangana/ai-fixed-how-fast-i-can-build-it-broke-how-i-know-what-im-building-2lnp",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "productivity",
+      "tooling",
+      "ai",
+      "claude"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "my apps were invisible to AI agents — here's what I am doing about it",
+    "summary": "i'm an indie app builder and vibe coder. i've shipped over 30 small business apps — invoicing, inventory, packing slips, tax tracking. and now apparently an open standard for ai agents.\n\nthat last one surprised me too.\n\nthe problem i kept running into: even the best ai agents hallucinate when they l",
+    "url": "https://dev.to/jill_builds_apps/my-apps-were-invisible-to-ai-agents-heres-what-i-am-doing-about-it-5h4d",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "mcp",
+      "webdev",
+      "indiedev"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Debugging DNS leaks: why your VPN isn't hiding what you think it is",
+    "summary": "Last month I was setting up a hardened dev environment for a client doing security research. They wanted all traffic from their workstation tunneled through a VPN, no exceptions. Simple, right? Install WireGuard, flip the toggle, done.\n\nThen I ran a leak test and watched their real ISP-assigned DNS ",
+    "url": "https://dev.to/alanwest/debugging-dns-leaks-why-your-vpn-isnt-hiding-what-you-think-it-is-4ecg",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "networking",
+      "security",
+      "devops",
+      "linux"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Build a Socratic Study Buddy with Gemma 4: A Beginner’s Guide to Running AI Locally",
+    "summary": "The landscape of AI has shifted from \"bigger is better\" to \"smarter is better.\" We are entering the era of intelligence-per-parameter—a metric of how much reasoning power is packed into a compact model. Gemma 4, built on the latest research from Google DeepMind, brings high-level, multi-step reasoni",
+    "url": "https://dev.to/gde/build-a-socratic-study-buddy-with-gemma-4-a-beginners-guide-to-running-ai-locally-505a",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "gemma",
+      "handson",
+      "lmstudio",
+      "ai"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Engineering RAG Systems That Actually Work: Conversational Retrieval, Page Awareness & Debugging (Part 5)",
+    "summary": "From a working prototype to something that actually behaves like a real system.\n\n\n\n\n\n\n  \n  \n  Introduction\n\n\nIn the previous parts, we built a fairly solid RAG pipeline:\n\n\nVector search using FAISS\nBetter chunking strategies\nContext optimization\nHyDE for improving retrieval quality\n\n\nAt that point, ",
+    "url": "https://dev.to/sharathkurup/engineering-rag-systems-that-actually-work-conversational-retrieval-page-awareness-debugging-52bm",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "rag",
+      "tutorial",
+      "python"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Everyone is vibe coding but nobody is maintaining the vibe code.",
+    "summary": "Six months after the AI-generated prototype ships to production, the engineer who wrote zero of it is on call at 3 AM trying to understand it.\n\nVibe coding is real and it works for what it is. You can describe a goal in plain English and get working software in an hour that would have taken a week t",
+    "url": "https://dev.to/emilywoodsnyc/everyone-is-vibe-coding-but-nobody-is-maintaining-the-vibe-code-4399",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "vibecoding",
+      "ai",
+      "webdev",
+      "career"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Design posters showcasing your country's electrical grid",
-    "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 5\n# Comments: 1",
+    "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 54\n# Comments: 15",
     "url": "https://github.com/open-energy-transition/grid2poster",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -11,9 +175,9 @@
     ]
   },
   {
-    "id": "002",
+    "id": "014",
     "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
-    "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 14\n# Comments: 1",
+    "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 22\n# Comments: 13",
     "url": "https://xca-attacks.github.io/fabricked/",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -22,9 +186,9 @@
     ]
   },
   {
-    "id": "003",
-    "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
-    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 24\n# Comments: 6",
+    "id": "015",
+    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 56\n# Comments: 26",
     "url": "https://www.jdhodges.com/blog/thinkpad-history/",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -33,9 +197,9 @@
     ]
   },
   {
-    "id": "004",
+    "id": "016",
     "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 52\n# Comments: 31",
+    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 94\n# Comments: 74",
     "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -44,20 +208,9 @@
     ]
   },
   {
-    "id": "005",
-    "title": "An AI Hate Wave Is Here",
-    "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment\nComments URL: https://news.ycombinator.com/item?id=48173318\nPoints: 49\n# Comments: 30",
-    "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
+    "id": "017",
     "title": "Prolog Coding Horror",
-    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 43\n# Comments: 12",
+    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 57\n# Comments: 21",
     "url": "https://www.metalevel.at/prolog/horror",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -66,9 +219,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "018",
     "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-    "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 104\n# Comments: 24",
+    "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 115\n# Comments: 33",
     "url": "https://spectrum.ieee.org/payphone-voip",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -77,9 +230,9 @@
     ]
   },
   {
-    "id": "008",
+    "id": "019",
     "title": "The occasional ECONNRESET",
-    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 85\n# Comments: 19",
+    "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 93\n# Comments: 20",
     "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -88,7 +241,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "020",
     "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
     "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
     "url": "https://github.com/MinishLab/semble",
@@ -99,7 +252,18 @@
     ]
   },
   {
-    "id": "010",
+    "id": "021",
+    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 255\n# Comments: 120",
+    "url": "https://github.com/tech4bot/rk3562deb",
+    "date": "2026-05-17",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "022",
     "title": "Apple’s Siri revamp could include auto-deleting chats",
     "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
     "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -114,7 +278,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "023",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
     "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -127,7 +291,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "024",
     "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
     "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -141,7 +305,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "025",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
     "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -159,7 +323,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "026",
     "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
     "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
     "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
@@ -175,7 +339,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "027",
     "title": "A revolutionary cancer treatment could transform autoimmune disease",
     "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
     "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
@@ -191,7 +355,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "028",
     "title": "Microsoft is retiring Teams’ Together Mode",
     "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. T",
     "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
@@ -204,7 +368,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "029",
     "title": "Revamped Siri will reportedly offer auto-deleting chats",
     "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
     "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
@@ -219,7 +383,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "030",
     "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
     "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
     "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
@@ -230,198 +394,6 @@
       "Google",
       "News",
       "Tech"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Oddity is masterfully tense horror from the director of Hokum",
-    "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
-    "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Film",
-      "Movie Review"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
-    "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
-    "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "Cameras",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "ElliQ is a surprisingly helpful companion robot for older adults",
-    "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
-    "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Chatbots at the drive-thru are just the beginning",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
-    "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Column",
-      "The Stepback"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
-    "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
-    "url": "https://www.wired.com/review/oto-smart-sprinkler/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Outdoor",
-      "Shopping",
-      "review",
-      "Reviews",
-      "household",
-      "Home",
-      "smart home",
-      "Backyard",
-      "Product Review"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
-    "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
-    "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Home",
-      "Gear / Products / Outdoor",
-      "Backyard",
-      "Yardware Upgrade",
-      "Food and Drink",
-      "grills",
-      "Hot Ones"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Take Control of Your Debt With These Free Tools",
-    "summary": "These free debt calculators help you set up payment plans to get back in the black.",
-    "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "money",
-      "tips",
-      "how-to",
-      "banks",
-      "Apps",
-      "economics",
-      "Chip Away"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
-    "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
-    "url": "https://www.wired.com/story/bowling-lane-oil/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Sports",
-      "leisure",
-      "Training",
-      "Sports &amp; Outdoors",
-      "Slick Stuff"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
-    "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
-    "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "physics",
-      "Geology",
-      "nuclear",
-      "materials",
-      "Deep Impact"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
-    "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
-    "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
-    "date": "2026-05-17",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "design",
-      "Architecture",
-      "Infrastructure",
-      "construction",
-      "Israel-Hamas War",
-      "Palestine",
-      "Stack It Up"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
-    "summary": "Retrieval-augmented generation (RAG) has become the de facto standard for grounding large language models (LLMs) in private data. The standard architecture — chunking documents, embedding them into a vector database, and retrieving top-k results via cosine similarity — is effective for unstructured ",
-    "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
-    "date": "2026-05-17",
-    "source": "VentureBeat",
-    "tags": [
-      "Orchestration",
-      "DataDecisionMakers"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Psychological Capital",
-    "summary": "Components of Positive Psychological Capital (PsyCap). Source: Luthans, F., & Youssef, C. M. (2007). Emerging positive organizational behavior. Journal of management, 33(3), 321–349.\n\nPsychological capital is not about being positive all the time. It's about having the inner resources to function we",
-    "url": "https://dev.to/1grace/psychological-capital-5c4h",
-    "date": "2026-05-17",
-    "source": "Dev.to",
-    "tags": [
-      "psychology",
-      "psychologicalcapital",
-      "growth",
-      "mindset"
     ]
   }
 ]
