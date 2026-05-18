@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 72\n# Comments: 16",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 7\n# Comments: 0",
+    "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait",
-    "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait\nComments URL: https://news.ycombinator.com/item?id=48182592\nPoints: 39\n# Comments: 27",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 10\n# Comments: 0",
+    "url": "https://hyperpolyglot.org/lisp",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Cursor Introduces Composer 2.5",
-    "summary": "Article URL: https://twitter.com/cursor_ai/status/2056415413077233983\nComments URL: https://news.ycombinator.com/item?id=48182516\nPoints: 24\n# Comments: 5",
-    "url": "https://twitter.com/cursor_ai/status/2056415413077233983",
+    "title": "New York to tax luxury second homes in NYC",
+    "summary": "Article URL: https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd\nComments URL: https://news.ycombinator.com/item?id=48183784\nPoints: 40\n# Comments: 8",
+    "url": "https://apnews.com/article/mamdani-nyc-hochul-tax-rich-a30833850bfdbd638634def266ca76dd",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Anthropic Acquires Stainless",
-    "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 86\n# Comments: 46",
-    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "title": "Agora-1: The Multi-Agent World Model",
+    "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 24\n# Comments: 5",
+    "url": "https://odyssey.ml/introducing-agora-1",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Qwen 3.7 Preview",
-    "summary": "Article URL: https://twitter.com/Alibaba_Qwen/status/2056403591464984753\nComments URL: https://news.ycombinator.com/item?id=48181877\nPoints: 52\n# Comments: 19",
-    "url": "https://twitter.com/Alibaba_Qwen/status/2056403591464984753",
+    "title": "Haiku OS runs on M1 Macs now",
+    "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 122\n# Comments: 40",
+    "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Show HN: InsForge – Open-source Heroku for coding agents",
-    "summary": "Hi HN, I'm Hang, cofounder of InsForge (YC P26). InsForge is an open-source Heroku for AI coding agents: a backend platform designed for coding agents to deploy, operate, and debug end-to-end. Open source under Apache 2.0 (https://github.com/InsForge/InsForge). Quick demo here (https://youtu.be/7Bax",
-    "url": "https://github.com/InsForge/InsForge",
+    "title": "We let AIs run radio stations",
+    "summary": "Hey HN!I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools ",
+    "url": "https://andonlabs.com/blog/andon-fm",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-    "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 226\n# Comments: 98",
-    "url": "https://archestra.ai/blog/only-responsible-ai",
+    "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
+    "summary": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 31\n# Comments: 6",
+    "url": "https://modal.com/blog/truly-serverless-gpus",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Garry Tan, the CEO of venture YC, accused me of unethical reporting",
-    "summary": "Article URL: https://radleybalko.substack.com/p/truth-power-and-honest-journalism\nComments URL: https://news.ycombinator.com/item?id=48181041\nPoints: 46\n# Comments: 0",
-    "url": "https://radleybalko.substack.com/p/truth-power-and-honest-journalism",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 434\n# Comments: 215",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-    "summary": "Article URL: https://github.com/2b2tplace/1m_release\nComments URL: https://news.ycombinator.com/item?id=48180204\nPoints: 96\n# Comments: 47",
-    "url": "https://github.com/2b2tplace/1m_release",
+    "title": "Iran starts Bitcoin-backed ship insurance for Hormuz strait",
+    "summary": "https://finance.yahoo.com/markets/crypto/articles/iran-start...\n\nComments URL: https://news.ycombinator.com/item?id=48182592\nPoints: 110\n# Comments: 159",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Actually, democracy dies in H.R.",
-    "summary": "https://archive.ph/RKltX\n\nComments URL: https://news.ycombinator.com/item?id=48180091\nPoints: 188\n# Comments: 130",
-    "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
+    "title": "Anthropic acquires Stainless",
+    "summary": "Article URL: https://www.anthropic.com/news/anthropic-acquires-stainless\nComments URL: https://news.ycombinator.com/item?id=48182281\nPoints: 206\n# Comments: 144",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -111,7 +111,20 @@
   },
   {
     "id": "011",
-    "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
+    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "date": "2026-05-18",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Stainless"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
     "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
     "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
     "date": "2026-05-18",
@@ -126,9 +139,9 @@
     ]
   },
   {
-    "id": "012",
+    "id": "013",
     "title": "Kin Health raises $9M to build an AI notetaker for patients",
-    "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+    "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
     "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
     "date": "2026-05-18",
     "source": "TechCrunch",
@@ -141,7 +154,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "014",
     "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
     "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
     "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
@@ -158,7 +171,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "015",
     "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
     "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
     "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
@@ -175,7 +188,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "016",
     "title": "South Korea’s LetinAR is building optics behind AI glasses",
     "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
     "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -193,7 +206,85 @@
     ]
   },
   {
-    "id": "016",
+    "id": "017",
+    "title": "Australian Aboriginals cared for a dingo's grave for decades",
+    "summary": "For some ancient Aboriginal Australian communities, dingoes were part of the family.",
+    "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "aboriginal australians",
+      "Archaeology",
+      "australia",
+      "dingo",
+      "science",
+      "zooarchaeology"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Policy",
+      "Artificial Intelligence",
+      "Elon Musk",
+      "openai",
+      "sam altman",
+      "xAI"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Pompeii victim ID'd as a likely doctor",
+    "summary": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
+    "url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "Archaeology",
+      "Pompeii"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Guy Gardner makes a cameo in new Lanterns teaser",
+    "summary": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
+    "url": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "hbo max",
+      "Lanterns",
+      "streaming television",
+      "Trailers"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
+    "summary": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
+    "url": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Reviews",
+      "Tech",
+      "e-ink",
+      "reviews",
+      "smart home"
+    ]
+  },
+  {
+    "id": "022",
     "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
     "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
     "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
@@ -207,7 +298,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "023",
     "title": "BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive",
     "summary": "The 2027 M3 CS Handschalter is lighter and comes with three pedals instead of two.",
     "url": "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
@@ -219,7 +310,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "024",
     "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
     "summary": "Isaacman's $25 million donation leads to impressive new facilities.",
     "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
@@ -233,7 +324,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "025",
     "title": "Bug bounty businesses bombarded with AI slop",
     "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
     "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
@@ -248,7 +339,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "026",
     "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
     "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
     "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
@@ -263,151 +354,66 @@
     ]
   },
   {
-    "id": "021",
-    "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-    "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its founding mission of developing AI to benefit humanity and shifting focus to boosting profits ",
-    "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+    "id": "027",
+    "title": "PlayStation exclusives aren’t coming to PC anymore",
+    "summary": "Sony reportedly won't release its major single-player PlayStation games on PC anymore. According to Bloomberg's Jason Schreier, Hermen Hulst, who heads up PlayStation's studios business, informed employees in a town hall on Monday about the change in strategy. Schreier had previously reported on the",
+    "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Gaming",
+      "News",
+      "PC Gaming",
+      "PlayStation"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Musk v. Altman proved that AI is led by the wrong people",
+    "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future of AI. Altman's lawyers, in turn, poked at Musk's own credibility. A jury came to a verdict on Monda",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
     "date": "2026-05-18",
     "source": "The Verge",
     "tags": [
       "AI",
+      "Analysis",
       "Elon Musk",
       "Law",
-      "News",
+      "Microsoft",
       "OpenAI",
       "Policy",
+      "Report",
       "Tech",
       "xAI"
     ]
   },
   {
-    "id": "022",
-    "title": "Elon Musk lost his case against Sam Altman",
-    "summary": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitations, and a third failed thanks to the dismissal of one of these. The jury here is an advisory jury, […",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+    "id": "029",
+    "title": "Walmart launches new budget-friendly Android tablets starting at $97",
+    "summary": "Walmart's Onn brand just launched a whole line of budget-friendly Android tablets that, all together, cost less in total than a single iPad Pro. As spotted by 9to5Google, the six new tablets ship with Android 16 and all but one cost less than $200. The little Onn Core 7 is the most affordable of the",
+    "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
     "date": "2026-05-18",
     "source": "The Verge",
     "tags": [
-      "AI",
-      "Elon Musk",
-      "Law",
-      "Microsoft",
-      "News",
-      "OpenAI",
-      "Policy",
-      "Tech"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Google is rolling out its redesigned Workspace app icons",
-    "summary": "It's not just you - the Google Workspace apps are getting a new look. The redesigned app icons, leaked last month, are now rolling out widely, as we started noticing this morning. Users with the redesigned icons will notice they now have a gradient look that fades from lighter to darker shades, rath",
-    "url": "https://www.theverge.com/tech/932417/google-gmail-docs-cal-sheets-workspace-icon-redesign",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "Apps",
-      "Design",
+      "Android",
       "Google",
       "News",
       "Tech"
     ]
   },
   {
-    "id": "024",
-    "title": "Sony is raising short-subscription prices for PlayStation Plus",
-    "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will start at $10.99 USD / €9.99 EUR / £7.99 GBP, while 3-month subscriptions will start at $27.99 USD / €",
-    "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "Gaming",
-      "News",
-      "PlayStation"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-    "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to s",
-    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Alexa",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
-    "summary": "Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices are even cheaper today when you enter the code SAVETWENTY at checkout through midnight Central Time. The products included in the sale serve as ",
-    "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
+    "id": "030",
+    "title": "Dyson’s super-slim PencilWash just hit its best price to date for Memorial Day",
+    "summary": "If Dyson’s PencilVac Fluffycones made you wish the company had built something similarly slim for scrubbing the hard floors in your home, enter the recently released Dyson PencilWash. The cordless cleaner is designed to tackle spills and stains on tile and other surfaces, and right now, it’s availab",
+    "url": "https://www.theverge.com/gadgets/932449/dyson-pencilwash-hard-floor-cleaner-memorial-day-2026-deal-sale",
     "date": "2026-05-18",
     "source": "The Verge",
     "tags": [
       "Deals",
       "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "The Verge’s 2026 college graduation gift guide",
-    "summary": "Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting their first apartment, too, which brings on a whole new set of responsibilities. That's why getting the rig",
-    "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
+      "Smart Home",
       "Tech",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
-    "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register rep",
-    "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "Linux",
-      "News",
-      "Security",
-      "Tech"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
-    "summary": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [",
-    "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "Creators",
-      "Decoder",
-      "Podcasts",
-      "Tech"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Starlink raises prices across satellite internet plans",
-    "summary": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Res",
-    "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
-    "date": "2026-05-18",
-    "source": "The Verge",
-    "tags": [
-      "News",
-      "Science",
-      "Space",
-      "SpaceX"
     ]
   }
 ]
