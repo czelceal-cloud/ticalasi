@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.metalevel.at/prolog/horror",
-      "title": "Prolog Coding Horror",
-      "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 7\n# Comments: 0",
+      "url": "https://github.com/open-energy-transition/grid2poster",
+      "title": "Design posters showcasing your country's electrical grid",
+      "summary": "Article URL: https://github.com/open-energy-transition/grid2poster\nComments URL: https://news.ycombinator.com/item?id=48173849\nPoints: 5\n# Comments: 1",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://openclaw.ai/blog/where-openclaw-security-is-heading",
-      "title": "Where OpenClaw Security Is Heading",
-      "summary": "Article URL: https://openclaw.ai/blog/where-openclaw-security-is-heading\nComments URL: https://news.ycombinator.com/item?id=48172952\nPoints: 8\n# Comments: 0",
+      "url": "https://xca-attacks.github.io/fabricked/",
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "summary": "Article URL: https://xca-attacks.github.io/fabricked/\nComments URL: https://news.ycombinator.com/item?id=48173708\nPoints: 14\n# Comments: 1",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://spectrum.ieee.org/payphone-voip",
-      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-      "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 53\n# Comments: 9",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 24\n# Comments: 6",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
-      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
-      "summary": "Article URL: https://www.sciencedaily.com/releases/2026/05/260513221821.htm\nComments URL: https://news.ycombinator.com/item?id=48171906\nPoints: 35\n# Comments: 26",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 52\n# Comments: 31",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
-      "title": "The occasional ECONNRESET",
-      "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 79\n# Comments: 19",
+      "url": "https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment",
+      "title": "An AI Hate Wave Is Here",
+      "summary": "Article URL: https://www.axios.com/2026/05/17/ai-backlash-polling-sentiment\nComments URL: https://news.ycombinator.com/item?id=48173318\nPoints: 49\n# Comments: 30",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://addyosmani.com/blog/dont-outsource-learning/",
-      "title": "Don’t Outsource the Learning",
-      "summary": "Article URL: https://addyosmani.com/blog/dont-outsource-learning/\nComments URL: https://news.ycombinator.com/item?id=48170118\nPoints: 37\n# Comments: 13",
+      "url": "https://www.metalevel.at/prolog/horror",
+      "title": "Prolog Coding Horror",
+      "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 43\n# Comments: 12",
       "date_published": "2026-05-17",
       "tags": [
         "Hacker News"
@@ -73,6 +73,28 @@
     },
     {
       "id": "007",
+      "url": "https://spectrum.ieee.org/payphone-voip",
+      "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+      "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 104\n# Comments: 24",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "title": "The occasional ECONNRESET",
+      "summary": "Article URL: https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=48170799\nPoints: 85\n# Comments: 19",
+      "date_published": "2026-05-17",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
       "url": "https://github.com/MinishLab/semble",
       "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
       "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
@@ -83,40 +105,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
-      "url": "https://github.com/tech4bot/rk3562deb",
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 202\n# Comments: 111",
-      "date_published": "2026-05-17",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
-      "title": "AI is a technology not a product",
-      "summary": "Article URL: https://daringfireball.net/2026/05/ai_is_technology_not_a_product\nComments URL: https://news.ycombinator.com/item?id=48168626\nPoints: 269\n# Comments: 100",
-      "date_published": "2026-05-17",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "010",
-      "url": "https://github.com/alternbits/awesome-cuda-books",
-      "title": "CUDA Books",
-      "summary": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 97\n# Comments: 18",
-      "date_published": "2026-05-17",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "011",
       "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
       "title": "Apple’s Siri revamp could include auto-deleting chats",
       "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
@@ -131,7 +120,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "011",
       "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
       "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
       "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
@@ -144,7 +133,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
       "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
       "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
@@ -158,7 +147,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
       "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
       "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
@@ -176,7 +165,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
       "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
       "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
@@ -192,7 +181,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "015",
       "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
       "title": "A revolutionary cancer treatment could transform autoimmune disease",
       "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
@@ -208,7 +197,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "017",
+      "id": "016",
       "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
       "title": "Microsoft is retiring Teams’ Together Mode",
       "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. T",
@@ -221,7 +210,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "018",
+      "id": "017",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "title": "Revamped Siri will reportedly offer auto-deleting chats",
       "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
@@ -236,7 +225,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "019",
+      "id": "018",
       "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
       "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
       "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is already a contentious topic, and it's not surprising that those about to enter a ravaged job market feel p",
@@ -250,7 +239,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "020",
+      "id": "019",
       "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
       "title": "Oddity is masterfully tense horror from the director of Hokum",
       "summary": "Hokum recently hit theaters, and it's already outperforming box office expectations. If this Kubrick-referencing haunted hotel flick starring Adam Scott was your introduction to director Damian McCarthy, do yourself a favor and go watch his previous film, Oddity. If you prefer to go in blind - the i",
@@ -264,7 +253,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "021",
+      "id": "020",
       "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
       "title": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
       "summary": "Fujifilm’s X Half digital camera wasn’t designed to replace your main camera, though you’d be forgiven for assuming it was with its ludicrous $850 price. However, the company recently reduced the MSRP to $649.99, and is now knocking an additional $100 off through June 28th. That means you can grab t",
@@ -278,7 +267,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "022",
+      "id": "021",
       "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
       "title": "ElliQ is a surprisingly helpful companion robot for older adults",
       "summary": "A week before the ElliQ robot arrived, a neurologist told me we need to rebalance my mom's life. Her Parkinson's disease medication had steadily become less effective over the previous month, and with it, she had slowly stopped doing many of the things crucial to managing the disease - exercising, s",
@@ -291,7 +280,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "023",
+      "id": "022",
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
       "title": "Chatbots at the drive-thru are just the beginning",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started In 2021, McDonald's ",
@@ -304,7 +293,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "024",
+      "id": "023",
       "url": "https://www.wired.com/review/oto-smart-sprinkler/",
       "title": "Oto Smart Sprinkler Review (2026): Solar-Powered and Simple to Use",
       "summary": "The Oto Smart Sprinkler makes it easy to keep your lawn watered—as long as it gets three hours a day of direct sun to stay charged.",
@@ -325,7 +314,7 @@
       "_source": "Wired"
     },
     {
-      "id": "025",
+      "id": "024",
       "url": "https://www.wired.com/story/best-grills-and-smart-grills/",
       "title": "The 6 Best Grills and Smokers of 2026: Smart, Portable, Pellet",
       "summary": "I grilled, smoked, seared, cleaned, and synced digital temp controllers to find the best grill option for every cookout and tailgate.",
@@ -344,7 +333,7 @@
       "_source": "Wired"
     },
     {
-      "id": "026",
+      "id": "025",
       "url": "https://www.wired.com/story/free-debt-calculator-apps-services/",
       "title": "Take Control of Your Debt With These Free Tools",
       "summary": "These free debt calculators help you set up payment plans to get back in the black.",
@@ -363,7 +352,7 @@
       "_source": "Wired"
     },
     {
-      "id": "027",
+      "id": "026",
       "url": "https://www.wired.com/story/bowling-lane-oil/",
       "title": "If You’re a Serious Bowler, You Need to Know About Bowling Lane Oil",
       "summary": "Bowling centers apply oil to their lanes using a machine that works like a giant inkjet printer. The pattern in which it’s applied can change everything about how the ball travels.",
@@ -380,7 +369,7 @@
       "_source": "Wired"
     },
     {
-      "id": "028",
+      "id": "027",
       "url": "https://www.wired.com/story/the-first-atomic-bomb-test-in-1945-created-an-entirely-new-material/",
       "title": "The First Atomic Bomb Test in 1945 Created an Entirely New Material",
       "summary": "The discovery from the Trinity nuclear test site shows how extreme conditions can result in materials never before seen in nature or in the lab.",
@@ -397,7 +386,7 @@
       "_source": "Wired"
     },
     {
-      "id": "029",
+      "id": "028",
       "url": "https://www.wired.com/story/gaza-is-rebuilding-with-lego-like-bricks-made-from-rubble/",
       "title": "Gaza Is Rebuilding With Lego-Like Bricks Made From Rubble",
       "summary": "As reconstruction materials remain blocked, Palestinians are crushing debris into interlocking blocks to build shelters from destruction.",
@@ -416,7 +405,7 @@
       "_source": "Wired"
     },
     {
-      "id": "030",
+      "id": "029",
       "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
       "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
       "summary": "Retrieval-augmented generation (RAG) has become the de facto standard for grounding large language models (LLMs) in private data. The standard architecture — chunking documents, embedding them into a vector database, and retrieving top-k results via cosine similarity — is effective for unstructured ",
@@ -426,6 +415,20 @@
         "DataDecisionMakers"
       ],
       "_source": "VentureBeat"
+    },
+    {
+      "id": "030",
+      "url": "https://dev.to/1grace/psychological-capital-5c4h",
+      "title": "Psychological Capital",
+      "summary": "Components of Positive Psychological Capital (PsyCap). Source: Luthans, F., & Youssef, C. M. (2007). Emerging positive organizational behavior. Journal of management, 33(3), 321–349.\n\nPsychological capital is not about being positive all the time. It's about having the inner resources to function we",
+      "date_published": "2026-05-17",
+      "tags": [
+        "psychology",
+        "psychologicalcapital",
+        "growth",
+        "mindset"
+      ],
+      "_source": "Dev.to"
     }
   ]
 }
