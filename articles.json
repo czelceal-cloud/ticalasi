@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Germany goes from labour shortages to hiring freezes",
-    "summary": "Article URL: https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126\nComments URL: https://news.ycombinator.com/item?id=48177086\nPoints: 3\n# Comments: 1",
-    "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
+    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "summary": "Article URL: https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/\nComments URL: https://news.ycombinator.com/item?id=48177716\nPoi",
+    "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
-    "summary": "Article URL: https://www.reddit.com/r/pasadena/s/94BHlkE84r\nComments URL: https://news.ycombinator.com/item?id=48176762\nPoints: 17\n# Comments: 5",
-    "url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "title": "Dogme 25 – Vow of Chastity",
+    "summary": "Article URL: https://dogma25.dk/\nComments URL: https://news.ycombinator.com/item?id=48177452\nPoints: 5\n# Comments: 1",
+    "url": "https://dogma25.dk/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 81\n# Comments: 204",
-    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+    "summary": "Article URL: http://www.csl.sri.com/users/neumann/psos.pdf\nComments URL: https://news.ycombinator.com/item?id=48177300\nPoints: 43\n# Comments: 21",
+    "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -34,6 +34,83 @@
   },
   {
     "id": "004",
+    "title": "Where Are the Vibecoded Photoshops?",
+    "summary": "Article URL: https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/\nComments URL: https://news.ycombinator.com/item?id=48177228\nPoints: 134\n# Comments: 134",
+    "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+    "date": "2026-05-18",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "summary": "Article URL: https://www.reddit.com/r/pasadena/s/94BHlkE84r\nComments URL: https://news.ycombinator.com/item?id=48176762\nPoints: 38\n# Comments: 20",
+    "url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
+    "date": "2026-05-18",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 123\n# Comments: 305",
+    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "date": "2026-05-18",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+    "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "date": "2026-05-18",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Hardware",
+      "AI",
+      "optics",
+      "SMART Glasses",
+      "ai glasses",
+      "LetinAR",
+      "optics technology"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
+    "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
+    "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Features",
+      "Space",
+      "falcon 9",
+      "spacex",
+      "starship"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Bad, Bad, Bad, Bad Roommate",
+    "summary": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bung",
+    "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Features"
+    ]
+  },
+  {
+    "id": "010",
     "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
     "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"f",
     "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
@@ -46,7 +123,80 @@
     ]
   },
   {
-    "id": "005",
+    "id": "011",
+    "title": "How to Watch Google I/O",
+    "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
+    "url": "https://www.wired.com/story/how-to-watch-google-io/",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Google",
+      "Android",
+      "Apps",
+      "software",
+      "smartphones",
+      "phones",
+      "Google Gemini",
+      "smart glasses",
+      "Google I/O"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "The Backward Logic of Chickenpox Parties",
+    "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
+    "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "shingles",
+      "diseases",
+      "infectious disease",
+      "science",
+      "Viral Content"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
+    "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
+    "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "Science / Health",
+      "HIV",
+      "health",
+      "medicine",
+      "diseases",
+      "Super Cells"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "I’m a Normie. Can Normies Really Vibe Code?",
+    "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
+    "url": "https://www.wired.com/story/normie-vibe-code/",
+    "date": "2026-05-18",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "artificial intelligence",
+      "programming",
+      "coding",
+      "Anthropic",
+      "Sludge Report"
+    ]
+  },
+  {
+    "id": "015",
     "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
     "summary": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
     "url": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
@@ -69,7 +219,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "016",
     "title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
     "summary": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can’t.",
     "url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
@@ -88,172 +238,185 @@
     ]
   },
   {
-    "id": "007",
-    "title": "# ElixirConf EU 2026: Three Technical Shifts That Matter",
-    "summary": "Estimated read time: 3 minutes\n\nMálaga hosted the ElixirConf EU 2026. Here's what changed.\n\n\n\n\n\n  \n  \n  1. Type Inference Arrives (No Annotations Required)\n\n\nElixir 1.20 introduces whole-program type inference. The compiler now understands function signatures, guard conditions, and map key domains w",
-    "url": "https://dev.to/aturo_phil/-elixirconf-eu-2026-three-technical-shifts-that-matter-1ih8",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "elixir",
-      "functional",
-      "erlang",
-      "phoenix"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Week 1: 100 Days of Solana",
-    "summary": "Identity on Solana Finally Clicked for Me When I Compared It to SSH Keys\n\n\nComing from a Web2 background, I always thought “blockchain identity” sounded way more complicated than it actually is.\n\nPeople throw around terms like wallets, addresses, private keys, and self-custody, and at first it hones",
-    "url": "https://dev.to/pujan77/week-1-100-days-of-solana-5daj",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "100daysofsolana",
-      "solana",
-      "web3",
-      "beginners"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "How I built an anonymous daily leaderboard — and why it resets every night",
-    "summary": "Every competitive typing site has a leaderboard. Most of them are terrible.\n\nTypeRacer shows you an all-time WPM rank that you'll never crack. MonkeyType has a global top-1000 that's been locked in by dedicated grinders for years. Both create the same problem: if you're not already in the top tier, ",
-    "url": "https://dev.to/clackpit_dev/how-i-built-an-anonymous-daily-leaderboard-and-why-it-resets-every-night-3pni",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "gamedev",
-      "typescript"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "One Person, One Vote? The Technical Struggle of Web Poll Integrity",
-    "summary": "Picking our poison: The trade-offs of tracking\nIP-based fingerprinting\nHash the voter's IP to restrict votes to one per IP.\n\nExcept not really. A university campus shares one public IP. An entire office behind a corporate NAT looks like a single user. You just locked out hundreds of legitimate voter",
-    "url": "https://dev.to/alikhan21/one-person-one-vote-the-technical-struggle-of-web-poll-integrity-bed",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "firstpost",
-      "webdev",
-      "productivity",
-      "ai"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "LLVM #5 — Mutable Variables",
-    "summary": "So far, Kaleidoscope has been a functional language with immutable variables and no reassignment. But to write anything resembling real code (loops that accumulate or programs with state), we need mutation. We add it now.\n\nWe introduce two features: the ability to mutate variables with =, and the ab",
-    "url": "https://dev.to/lahari_tenneti_4a8a082e9c/llvm-5-mutable-variables-ppg",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "llvm",
-      "compilers",
-      "computerscience",
-      "learning"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "What Building and Deploying a Real Production App Taught Me Beyond Tutorials",
-    "summary": "Recently I finished building and deploying a production real-estate platform for a non-technical client using:\n\n\nNext.js\nMongoDB\nCloudinary\nVercel\n\n\nThe project itself wasn’t “massive” from an enterprise perspective, but it taught me something important:\n\nreal-world software engineering starts where",
-    "url": "https://dev.to/panicengineer/what-building-and-deploying-a-real-production-app-taught-me-beyond-tutorials-57bk",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "learning",
-      "nextjs",
-      "softwareengineering",
-      "webdev"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "Full-Text Search Functions",
-    "summary": "I) Cấu trúc chính\n\n\n\n\n\nMATCH (col1,col2,...) AGAINST (expr [search_modifier])\n\n\n\n\n\n\n\n\ncol1, col2, ...: Các cột chứa dữ liệu văn bản mà bạn muốn tìm kiếm.\n\nexpr: Biểu thức tìm kiếm, có thể là một chuỗi hoặc một biến\n\nsearch_modifier: Tùy chọn để xác định cách thức tìm kiếm, có thể là IN NATURAL LANGU",
-    "url": "https://dev.to/hoangmanhkhiem/full-text-search-functions-55en",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "Dev.to"
-    ]
-  },
-  {
-    "id": "014",
-    "title": "Apple Product Page Optimization (PPO) Guide for 2026",
-    "summary": "Apple Product Page Optimization (PPO) Guide for 2026\n\n\nApple Product Page Optimization is the single most underused growth lever on the App Store in 2026. It is free, it is native, and it uses real organic App Store traffic to tell you which creative actually converts. Yet most indie developers and ",
-    "url": "https://dev.to/shotlingo/apple-product-page-optimization-ppo-guide-for-2026-4a4p",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ios",
-      "appstore",
-      "aso",
-      "mobile"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "🧠 Wie ich eine selbstlernende KI gebaut habe, die über 8.000 SSH‑Angriffe pro Stunde blockiert (und wie sie skaliert",
-    "summary": "Vor zwei Wochen habe ich eine selbstlernende KI veröffentlicht, die SSH‑Brute‑Force‑Angriffe in Echtzeit erkennt und automatisch blockiert.\nNach zehntausenden Angriffen, hunderten gebannten IPs und mehreren produktiven Servern ist es Zeit, die technische Architektur dahinter zu zeigen – inklusive Sk",
-    "url": "https://dev.to/kajane/wie-ich-eine-selbstlernende-ki-gebaut-habe-die-uber-8000-ssh-angriffe-pro-stunde-blockiert-und-49c4",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "security",
-      "opensource",
-      "python"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "Lessons from three months of vibe coding (and a complexity score of 53)",
-    "summary": "TL;DR — I spent three months vibe-coding a side project with an AI agent. It felt fast and productive until I opened a file and saw 3000 lines, functions that should have been one helper but were copy-pasted ten times, and a cyclomatic complexity score of 58 in one of them. The agent wasn't the prob",
-    "url": "https://dev.to/maxkrivich/lessons-from-three-months-of-vibe-coding-and-a-complexity-score-of-53-3bdj",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "productivity",
-      "devops",
-      "codequality"
-    ]
-  },
-  {
     "id": "017",
-    "title": "30 CVR Improvement Checks for EC Sites — Where to Start When Sales Don't Move",
-    "summary": "\"Ad sessions keep coming in, but purchases are not growing.\" \"Add-to-cart looks fine, but checkout drops off.\" Every EC operator hits this wall, and the answer is almost always the same one — a CVR (Conversion Rate) leak somewhere in the funnel.\n\nCVR is a simple formula — purchasing sessions ÷ all s",
-    "url": "https://dev.to/toshihiro_shishido/30-cvr-improvement-checks-for-ec-sites-where-to-start-when-sales-dont-move-11mn",
+    "title": "Java Concurrency: From Threads to Thread Safety — Part 1",
+    "summary": "I have been spending some time to dig deeper into Java concurrency - threads, synchronization, race conditions.\nMost tutorials usually show you how to start a Thread, print \"Hello World\" which is not how any of this works in production.\n\nThis post covers my experiments, traps that I fell into, and w",
+    "url": "https://dev.to/aswathyn9/java-concurrency-from-threads-to-thread-safety-part-1-128h",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "ecommerce",
-      "analytics",
-      "ux",
-      "conversion"
+      "java",
+      "programming",
+      "multithreading",
+      "concurrency"
     ]
   },
   {
     "id": "018",
-    "title": "Which Tech Roles Will Dominate Vietnam’s IT Industry in the Next Few Years?",
-    "summary": "Vietnam’s IT Market Feels Like It’s Entering A Different Era\n\n\nOver the past few months, I’ve been seeing more and more discussions around salaries, hiring trends and career directions in Vietnam’s tech industry. And honestly, the market feels very different compared to just a few years ago.\nBack th",
-    "url": "https://dev.to/duy_nguyn/which-tech-roles-will-dominate-vietnams-it-industry-in-the-next-few-years-54a",
+    "title": "Accessible error messages: the patterns that work across JAWS, NVDA and VoiceOver",
+    "summary": "You added aria-live=\"assertive\". You set aria-invalid=\"true\". You tested in Chrome with a mouse.\n\nThe error message works perfectly.\n\nThen a JAWS user fills out your form and hears... nothing useful. Or worse,they hear the error, but by the time they navigate back to the field, the message is gone.\n",
+    "url": "https://dev.to/a11ysolutions/accessible-error-messages-the-patterns-that-work-across-jaws-nvda-and-voiceover-1b5n",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "vietnam",
-      "ai",
-      "machinelearning",
-      "career"
+      "webdev",
+      "a11y",
+      "html"
     ]
   },
   {
     "id": "019",
+    "title": "Claprec: Machine Learning in Practice (4/6)",
+    "summary": "Series Roadmap\n\n\n\nProduct Overview (1/6)\nArchitecture: N-Tier Design, Decoupling, and Microservices (2/6)\nFrontend: Angular, NgRx, and OpenAPI Integration (3/6)\nMachine Learning in Practice (4/6)\nDatabase Design and Data Modeling (5/6)\nEngineering Tradeoffs: Limited Time vs. Ideal Architecture (6/6)",
+    "url": "https://dev.to/keno_sej/claprec-machine-learning-in-practice-46-4e22",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "machinelearning",
+      "dotnet",
+      "algorithms",
+      "backend"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "MCP Gateways vs Agent Gateways vs AI Gateways: What's the Difference and Which Do You Need?",
+    "summary": "I've been in three meetings this month where someone said \"we need an AI gateway\" and three different people in the room nodded enthusiastically while meaning three completely different things.\n\n\nOne meant LLM routing (because OpenAI went down again).\nOne meant MCP governance (because an intern's ag",
+    "url": "https://dev.to/lovestaco/mcp-gateways-vs-agent-gateways-vs-ai-gateways-whats-the-difference-and-which-do-you-need-2gn6",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "webdev",
+      "mcp",
+      "productivity"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Sector-aware threat intel API: stop triaging hundreds of CVEs manually",
+    "summary": "A Monday morning in a SOC\n\n\nA SOC (Security Operations Center) is the team that watches for cyberattacks against a company. They sit between the firewall and the incident report, and one of their daily jobs is to read the day's new software vulnerabilities and decide which ones the company has to pa",
+    "url": "https://dev.to/setounkpe7/sector-aware-threat-intel-api-stop-triaging-hundreds-of-cves-manually-5097",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "cybersecurity",
+      "osint",
+      "python",
+      "devops"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Windows Secretly Ate 83GB of My Disk Space — The Hidden .db-wal File Nobody Talks About",
+    "summary": "A few days ago my Windows PC had around 57GB free space.\n\nSuddenly it dropped to:\n\n\n4GB free\nthen 2GB free\n\n\n\n  \n  \n  The weird part:\n\n\nI had not installed any new software\nno large downloads\ntemp files cleanup barely recovered MBs\n\nAt first I thought:\n\n\nWindows Update issue\nDocker issue\nbrowser cac",
+    "url": "https://dev.to/dhaval_upadhyay_30f8292a8/windows-secretly-ate-83gb-of-my-disk-space-the-hidden-db-wal-file-nobody-talks-about-1blb",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "discuss",
+      "learning",
+      "microsoft"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "How to Make Your AI Agent Earn Real Money — Mercatai Integration Guide",
+    "summary": "Your AI agent can write code, research topics, translate documents, and analyze data.\nBut can it pay its own API bills?\n\nNow it can.\n\nMercatai is a B2B marketplace where businesses post tasks\nand AI agents bid, complete the work, and get paid — automatically, in EUR, via SEPA.\n\nIn this guide I'll sh",
+    "url": "https://dev.to/jan_kachyna_ee6960fe62432/how-to-make-your-ai-agent-earn-real-money-mercatai-integration-guide-p28",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "python",
+      "crewai",
+      "langchain"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Building Hypervisor Infrastructure with Proxmox and Ceph",
+    "summary": "Author: Rajendra Acharya\n.\nWhy Proxmox and Ceph?\n\nProxmox Virtual Environment (PVE) is a powerful, open-source platform for managing virtual machines and containers. Combined with Ceph, a distributed storage system, you can achieve:\n\nHigh Availability (HA): Minimized downtime with automatic failover",
+    "url": "https://dev.to/sajit21/building-hypervisor-infrastructure-with-proxmox-and-ceph-53km",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "infrastructure",
+      "linux",
+      "opensource",
+      "tutorial"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Shipped: first MCP server for ISO 10012:2026 measurement uncertainty",
+    "summary": "Spent 48 hours building a Model Context Protocol server for ISO 10012:2026 measurement uncertainty.\n\n10 tools. JCGM 100:2008 plus 101:2008 compliant. Live on MCPize.\n\nBuilt for ISO/IEC 17025 calibration labs that spend hours in Excel on the same uncertainty math every month. The buyer is a QA manage",
+    "url": "https://dev.to/kyb8801/shipped-first-mcp-server-for-iso-100122026-measurement-uncertainty-5350",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "mcp",
+      "anthropic",
+      "metrology",
+      "showdev"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Canary deployments with feature flags: reduce release risk without the infrastructure",
+    "summary": "Canary deployments and feature flag rollouts solve the same problem at different layers. Here's how they actually work, when to use each, and how to combine them.\n\nA canary deployment releases a new version of your application to a small slice of users before rolling it out fully. If something break",
+    "url": "https://dev.to/flaggy/canary-deployments-with-feature-flags-reduce-release-risk-without-the-infrastructure-26nm",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "devops",
+      "javascript",
+      "automation",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+    "summary": "I was debugging a slow response in HuggingChat last Tuesday.\n\nStandard stuff Open DevTools, check the Network tab, filter by Fetch/XHR, look at the API responses.\n\nAnd then I saw this right there in the chat UI:\n\n\n\nagentic with Kimi-K2.6 via 🤗 together\n\n\n\n\n\n\n\nHuggingChat showing exactly which model ",
+    "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "opensource",
+      "transparency",
+      "discuss"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Auth multi-tenant que prova, não promete: como o GarraIA fecha 110 cenários de RBAC + 81 de RLS antes do beta da Fase 3",
+    "summary": "No GarraIA — framework de agentes IA em Rust, 100% local, MIT — a Fase 3 (Group Workspace) é o módulo onde múltiplos usuários compartilham arquivos, tasks, chats e memória IA dentro de um espaço comum. É o módulo que define se o projeto pode ser usado por equipes brasileiras sob LGPD ou se vai ficar",
+    "url": "https://dev.to/michel_garraia/auth-multi-tenant-que-prova-nao-promete-como-o-garraia-fecha-110-cenarios-de-rbac-81-de-rls-568i",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "rust",
+      "postgres",
+      "security",
+      "opensource"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "How to Clean Time Series Data in Python",
+    "summary": "Real-world time series data is rarely clean. Sensors drop out, systems clock-drift, pipelines duplicate records, and manual data entry introduces mistakes. By the time a dataset reaches your notebook,",
+    "url": "https://www.freecodecamp.org/news/how-to-clean-time-series-data-in-python/",
+    "date": "2026-05-18",
+    "source": "FreeCodeCamp",
+    "tags": [
+      "Data Science",
+      "Python"
+    ]
+  },
+  {
+    "id": "030",
     "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
     "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
@@ -261,148 +424,6 @@
     "source": "BBC News",
     "tags": [
       "BBC News"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 131\n# Comments: 30",
-    "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 193\n# Comments: 193",
-    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Prolog Coding Horror",
-    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 140\n# Comments: 57",
-    "url": "https://www.metalevel.at/prolog/horror",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
-    "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
-    "url": "https://github.com/MinishLab/semble",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 365\n# Comments: 171",
-    "url": "https://github.com/tech4bot/rk3562deb",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "CUDA Books",
-    "summary": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 196\n# Comments: 46",
-    "url": "https://github.com/alternbits/awesome-cuda-books",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-    "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "date": "2026-05-17",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Apple",
-      "siri",
-      "gemini"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-    "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "date": "2026-05-17",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "OpenAI"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-    "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "date": "2026-05-17",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "commencement speeches",
-      "Eric Schmidt",
-      "gloria caulfield"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-    "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "date": "2026-05-17",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "AI",
-      "General Motors",
-      "Rivian",
-      "RJ Scaringe",
-      "Rapido",
-      "techcrunch mobility",
-      "mind robotics"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
-    "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
-    "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-    "date": "2026-05-17",
-    "source": "TechCrunch",
-    "tags": [
-      "Space",
-      "Hardware",
-      "Venture",
-      "Fundraising",
-      "Eclipse Ventures",
-      "Cerebras"
     ]
   }
 ]
