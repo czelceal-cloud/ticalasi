@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "'We mould trees to grow into the shape of chairs'",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o\nComments URL: https://news.ycombinator.com/item?id=48179183\nPoints: 30\n# Comments: 10",
-    "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
+    "title": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+    "summary": "Article URL: https://archestra.ai/blog/only-responsible-ai\nComments URL: https://news.ycombinator.com/item?id=48181125\nPoints: 49\n# Comments: 7",
+    "url": "https://archestra.ai/blog/only-responsible-ai",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
-    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840\nComments URL: https://news.ycombinator.com/item?id=48179029\nPoints: 41\n# Comments: 19",
-    "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
+    "title": "What “Amazon Supply Chain Services” Tells Us About What Amazon Is",
+    "summary": "Article URL: https://gadallon.substack.com/p/the-third-time-amazon-did-this-what\nComments URL: https://news.ycombinator.com/item?id=48180881\nPoints: 11\n# Comments: 1",
+    "url": "https://gadallon.substack.com/p/the-third-time-amazon-did-this-what",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Benedict Evans: AI eats the world (Spring 26) [pdf]",
-    "summary": "Article URL: https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=48179021\nPoints: 54\n# Comments: 21",
-    "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+    "title": "I'm a Normie. Can Normies Vibe Code?",
+    "summary": "Article URL: https://www.wired.com/story/normie-vibe-code/\nComments URL: https://news.ycombinator.com/item?id=48180705\nPoints: 8\n# Comments: 2",
+    "url": "https://www.wired.com/story/normie-vibe-code/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Hershey Bets on Agentic AI to Rethink $2B in Marketing Spend",
-    "summary": "Article URL: https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/\nComments URL: https://news.ycombinator.com/item?id=48178929\nPoints: 12\n# Comments: 21",
-    "url": "https://www.adweek.com/brand-marketing/exclusive-hershey-bets-on-ai-agents-to-fix-its-2-billion-marketing-blind-spot/",
+    "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+    "summary": "Article URL: https://github.com/2b2tplace/1m_release\nComments URL: https://news.ycombinator.com/item?id=48180204\nPoints: 47\n# Comments: 26",
+    "url": "https://github.com/2b2tplace/1m_release",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Linux security mailing list 'almost unmanageable'",
-    "summary": "Article URL: https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633\nComments URL: https://news.ycombinator.com/item?id=48178692\nPoints: 66\n# Comments: 18",
-    "url": "https://www.theregister.com/security/2026/05/18/linus-torvalds-says-ai-powered-bug-hunters-have-made-linux-security-mailing-list-almost-entirely-unmanageable/5241633",
+    "title": "Actually, Democracy Dies in H.R.",
+    "summary": "https://archive.ph/RKltX\n\nComments URL: https://news.ycombinator.com/item?id=48180091\nPoints: 97\n# Comments: 46",
+    "url": "https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Utah lawmakers form united front in push to ban prediction markets",
-    "summary": "Article URL: https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets\nComments URL: https://news.ycombinator.com/item?id=48178255\nPoints: 53\n# Comments: 24",
-    "url": "https://www.theguardian.com/us-news/2026/may/18/you-can-bet-on-it-utah-lawmakers-form-united-front-in-push-to-ban-prediction-markets",
+    "title": "Project Glasswing: what Mythos showed us",
+    "summary": "Article URL: https://blog.cloudflare.com/cyber-frontier-models/\nComments URL: https://news.ycombinator.com/item?id=48179732\nPoints: 47\n# Comments: 6",
+    "url": "https://blog.cloudflare.com/cyber-frontier-models/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "I automated opt-outs for 500 data broker sites (open source)",
-    "summary": "Article URL: https://github.com/stephenlthorn/auto-identity-remove\nComments URL: https://news.ycombinator.com/item?id=48178184\nPoints: 204\n# Comments: 65",
-    "url": "https://github.com/stephenlthorn/auto-identity-remove",
+    "title": "Show HN: Files.md – Open-source alternative to Obsidian",
+    "summary": "Article URL: https://github.com/zakirullin/files.md\nComments URL: https://news.ycombinator.com/item?id=48179677\nPoints: 215\n# Comments: 124",
+    "url": "https://github.com/zakirullin/files.md",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Eric Schmidt speech about AI booed during graduation",
-    "summary": "Article URL: https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585\nComments URL: https://news.ycombinator.com/item?id=48177785\nPoints: 248\n# Comments: 221",
-    "url": "https://www.nbcnews.com/tech/tech-news/former-google-ceo-booed-graduation-speech-ai-rcna345585",
+    "title": "Researchers Wanted Preschool Teachers to Wear Cameras to Train AI",
+    "summary": "Article URL: https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/\nComments URL: https://news.ycombinator.com/item?id=48179569\nPoints: 13\n# Comments: 0",
+    "url": "https://www.404media.co/researchers-wanted-preschool-teachers-to-wear-cameras-to-train-ai/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-    "summary": "Article URL: http://www.csl.sri.com/users/neumann/psos.pdf\nComments URL: https://news.ycombinator.com/item?id=48177300\nPoints: 72\n# Comments: 35",
-    "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+    "title": "'We mould trees to grow into the shape of chairs'",
+    "summary": "Article URL: https://www.bbc.co.uk/news/articles/cvg0yy3gp71o\nComments URL: https://news.ycombinator.com/item?id=48179183\nPoints: 110\n# Comments: 31",
+    "url": "https://www.bbc.co.uk/news/articles/cvg0yy3gp71o",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Where Are the Vibecoded Photoshops?",
-    "summary": "Article URL: https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/\nComments URL: https://news.ycombinator.com/item?id=48177228\nPoints: 196\n# Comments: 241",
-    "url": "https://indiepixel.de/blog/posts/where-are-the-vibecoded-photoshops/",
+    "title": "Enough with the AI FOMO, go slow-mo, says Domo CDO",
+    "summary": "Article URL: https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840\nComments URL: https://news.ycombinator.com/item?id=48179029\nPoints: 99\n# Comments: 48",
+    "url": "https://www.theregister.com/ai-ml/2026/05/17/enough-with-the-ai-fomo-go-slow-mo-says-domo-cdo/5240840",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,38 @@
   },
   {
     "id": "011",
+    "title": "Kin Health raises $9M to build an AI notetaker for patients",
+    "summary": "The app is similar to a meeting notetaker: you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
+    "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
+    "date": "2026-05-18",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "ai scribe",
+      "Health tech",
+      "Kin Health",
+      "maveron"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+    "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+    "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+    "date": "2026-05-18",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "alexa plus",
+      "alexa+",
+      "Amazon",
+      "Generative AI",
+      "podcasts"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
     "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
     "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
@@ -127,7 +159,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "South Korea’s LetinAR is building optics behind AI glasses",
     "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
     "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -145,7 +177,48 @@
     ]
   },
   {
-    "id": "013",
+    "id": "015",
+    "title": "BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive",
+    "summary": "The 2027 M3 CS Handschalter is lighter and comes with three pedals instead of two.",
+    "url": "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Cars",
+      "BMW M3 CS Handschalter"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
+    "summary": "Isaacman's $25 million donation leads to impressive new facilities.",
+    "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "inspiraiton4",
+      "space",
+      "space camp"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Bug bounty businesses bombarded with AI slop",
+    "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
+    "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
+    "date": "2026-05-18",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Security",
+      "bug bounties",
+      "syndication",
+      "White Hat Hacking"
+    ]
+  },
+  {
+    "id": "018",
     "title": "The US space enterprise is desperately waiting for Starship—will it finally deliver?",
     "summary": "\"This is such a wild ride. The highs are high. The lows are low.\"",
     "url": "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
@@ -160,7 +233,91 @@
     ]
   },
   {
-    "id": "014",
+    "id": "019",
+    "title": "Amazon Alexa Plus can now create AI-generated podcasts",
+    "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, and the AI assistant will offer an overview of what its AI hosts plan to talk about, allowing you to s",
+    "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Amazon Alexa",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Philips Hue smart lights and a whole lot more are over 20 percent off",
+    "summary": "Woot is having a day-long sale on a range of tech, including a mix of new and open-box Philips Hue smart lighting. The retailer’s already-discounted prices are even cheaper today when you enter the code SAVETWENTY at checkout through midnight Central Time. The products included in the sale serve as ",
+    "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "The Verge’s 2026 college graduation gift guide",
+    "summary": "Graduating from college is exciting, but it can also feel slightly terrifying. Along with celebrating a huge accomplishment, many grads jump right into looking for a job. Some might be getting their first apartment, too, which brings on a whole new set of responsibilities. That's why getting the rig",
+    "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Gift Guides",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Linus Torvalds says Linux security list is becoming ‘unmanageable’ due to AI bug reports",
+    "summary": "Linux founder Linus Torvalds said in his most recent state of the kernel post that \"the continued flood of AI reports has basically made the security list almost entirely unmanageable, with enormous duplication due to different people finding the same things with the same tools,\" as The Register rep",
+    "url": "https://www.theverge.com/tech/932312/linus-torvalds-linux-ai-security-bugs",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Linux",
+      "News",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Exclusive: Jonah Peretti explains why he sold BuzzFeed",
+    "summary": "Today, I’m talking with Jonah Peretti, who is, technically, the CEO of BuzzFeed — although that will be coming to an end very soon. Just days before we spoke, Jonah agreed to sell 52 percent of BuzzFeed for a total of $120 million to Byron Allen, who owns The Weather Channel, a number of broadcast [",
+    "url": "https://www.theverge.com/podcast/932154/peretti-allen-buzzfeed-ai-slop-social-media",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "Creators",
+      "Decoder",
+      "Podcasts",
+      "Tech"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Starlink raises prices across satellite internet plans",
+    "summary": "Starlink is raising prices across its satellite internet plans in the US - including Standby Mode - with the cheapest 100Mbps Residential plan going from $50 to $55 / month, as reported earlier by PCMag. Meanwhile, Starlink's 200Mbps residential plan has jumped from $80 to $85 / month, while the Res",
+    "url": "https://www.theverge.com/science/932294/starlink-price-increase-standby-mode",
+    "date": "2026-05-18",
+    "source": "The Verge",
+    "tags": [
+      "News",
+      "Science",
+      "Space",
+      "SpaceX"
+    ]
+  },
+  {
+    "id": "025",
     "title": "Leaked images reveal Sony’s 10th anniversary ‘ColleXion’ headphones",
     "summary": "We now have a good idea of what Sony's upcoming 10th anniversary headphones will look like before their expected launch tomorrow. Leaked image renders of what appears to be Sony's 1000X \"The ColleXion\" Edition have been shared online by OnLeaks and HotEUDeals, showing thicker leatherette padding and",
     "url": "https://www.theverge.com/tech/932262/sony-1000x-headphone-collexion-image-spec-leaks",
@@ -175,7 +332,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "026",
     "title": "Bad, Bad, Bad, Bad Roommate",
     "summary": "The wildfires that would come to engulf Los Angeles had just begun to burn when Frankee Grove finally admitted to herself that she needed a roommate. It was January 2025, and Grove, then 42, had recently broken up with her boyfriend of six years. They had lived together in a two-bedroom Spanish bung",
     "url": "https://www.theverge.com/cs/features/919365/bad-roommate-housing-los-angeles-eviction",
@@ -186,7 +343,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "027",
     "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
     "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"f",
     "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
@@ -199,7 +356,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "028",
     "title": "The Catastrophic Swatch x Audemars Piguet Launch Was Entirely Predictable and Utterly Avoidable",
     "summary": "So why didn't Swatch do anything to avoid it?",
     "url": "https://www.wired.com/story/the-catastrophic-swatch-x-audemars-piguet-launch-was-entirely-predictable-and-utterly-avoidable/",
@@ -213,11 +370,11 @@
       "Retail",
       "fashion",
       "watches",
-      "Learning Disorder"
+      "Watch Yourself"
     ]
   },
   {
-    "id": "018",
+    "id": "029",
     "title": "How to Watch Google I/O 2026",
     "summary": "Google I/O is back with updates to Search, Android, Gemini, and a fresh peek at upcoming Android XR smart glasses. Here's how to watch the announcements live and what to expect.",
     "url": "https://www.wired.com/story/how-to-watch-google-io/",
@@ -238,7 +395,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "030",
     "title": "The Backward Logic of Chickenpox Parties",
     "summary": "Before vaccines, some parents intentionally exposed their children to the virus. In the internet age, that thinking is resurfacing.",
     "url": "https://www.wired.com/story/chickenpox-parties-and-the-pre-vaccine-internet/",
@@ -251,178 +408,6 @@
       "infectious disease",
       "science",
       "Viral Content"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
-    "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-    "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/",
-    "date": "2026-05-18",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Health",
-      "HIV",
-      "health",
-      "medicine",
-      "diseases",
-      "Super Cells"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "I’m a Normie. Can Normies Really Vibe Code?",
-    "summary": "Apparently anyone can vibe code anything these days. So Claude and I tried to make a database for tracking the petty grievances of the masses.",
-    "url": "https://www.wired.com/story/normie-vibe-code/",
-    "date": "2026-05-18",
-    "source": "Wired",
-    "tags": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "longreads",
-      "artificial intelligence",
-      "programming",
-      "coding",
-      "Anthropic",
-      "Sludge Report"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
-    "summary": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
-    "url": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
-    "date": "2026-05-18",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Politics / Policy",
-      "Department of Homeland Security",
-      "immigration",
-      "Immigration and Customs Enforcement",
-      "Police",
-      "Guns",
-      "Crime",
-      "politics",
-      "Military",
-      "Trigger Warning"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
-    "summary": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can’t.",
-    "url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
-    "date": "2026-05-18",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Health",
-      "vaccines",
-      "medicine",
-      "diseases",
-      "public health",
-      "Robert F. Kennedy Jr.",
-      "autism",
-      "Public Health"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
-    "url": "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
-    "date": "2026-05-18",
-    "source": "MIT Tech Review",
-    "tags": [
-      "The Download"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "I hid an entire webpage inside a cat face",
-    "summary": "The source of this page is just a cat face:\n\nhttps://nothing-to-see-here.surge.sh/\n\nView source. You'll see (=･ω･=) and nothing else.\nBut the page runs. Rainbow animation, layout, everything.\n\nThe entire JavaScript is encoded as invisible Unicode \nVariation Selectors attached to the cat emoji.\n\nUnic",
-    "url": "https://dev.to/prospectorlabs/i-hid-an-entire-webpage-inside-a-cat-face-5gc9",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "unicode",
-      "webdev",
-      "showdev"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "The Evolution of a C++ Telegram Bot: From \"Spaghetti\" in main() to OOP, In-Memory Cache, and Fibonacci Mutes",
-    "summary": "Hi everyone!\n\nIn this article, I'll talk about the evolution of my project — GroupModerBot, a bot for moderating Telegram groups. I'll show how the project went from the first 'all-in-one-file' version to a well-thought-out architecture with OOP, in-memory caching, safe command execution, and non-st",
-    "url": "https://dev.to/hdowl/the-evolution-of-a-c-telegram-bot-from-spaghetti-in-main-to-oop-in-memory-cache-and-4ani",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "cpp",
-      "opensource",
-      "database",
-      "programming"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "🎮 TCJSGame Update: The Future is Being Drawn",
-    "summary": "🎮 TCJSGame Update: The Future is Being Drawn\n\n\n\n  \n  \n  A New Version. A Possible New Name.\n\n\nWe're excited to announce that TCJSGame V4 is in active development—and with it, we're exploring a significant change: a rebrand to Limn Engines.\n\n\nNothing is final yet. But we wanted to share where we're h",
-    "url": "https://dev.to/kehinde_owolabi_e2e54567a/tcjsgame-update-the-future-is-being-drawn-198c",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "tutorial",
-      "programming",
-      "webdev"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "I'm a beginner who let AI do too much of the thinking — and now I want to actually learn",
-    "summary": "I'll be honest with you: my programming knowledge is still pretty limited. I'm not someone who's been coding for years and just got lazy. I'm someone who started learning, discovered AI tools early on, and — without fully realizing it — let them take over the parts that were supposed to make me grow",
-    "url": "https://dev.to/edris_ed_d6e468e0f19f5524/im-a-beginner-who-let-ai-do-too-much-of-the-thinking-and-now-i-want-to-actually-learn-1ko3",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "programming",
-      "beginners",
-      "productivity"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "I built a PDF parser that actually preserves table structure for RAG — here's why it matters",
-    "summary": "Every RAG tutorial shows the same pipeline:\n\n\n\nPDF → extract text → split every 512 tokens → embed → store → query\n\n\n\n\n\n\nIt works fine for blog posts. It completely falls apart for anything structured.\n\n\n  \n  \n  The problem nobody talks about\n\n\nTake a financial report. It has a revenue table:\n\n\n\n\nRe",
-    "url": "https://dev.to/gunjantailor/i-built-a-pdf-parser-that-actually-preserves-table-structure-for-rag-heres-why-it-matters-19fo",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "rag",
-      "python",
-      "ai",
-      "llm"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Your Agent Is Becoming the Crown Jewel: SOC, Reviews, and Governance for the Dynamic-Consent Era",
-    "summary": "The previous article in this series argued that the combination of incremental and dynamic user consent and Microsoft Entra Agent ID gives interactive AI agents something genuinely new: the ability to earn their access in the wild, scope by scope, prompted by the humans and other agents they work al",
-    "url": "https://dev.to/astaykov/your-agent-is-becoming-the-crown-jewel-soc-reviews-and-governance-for-the-dynamic-consent-era-23l3",
-    "date": "2026-05-18",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "entraagentid",
-      "security"
     ]
   }
 ]
