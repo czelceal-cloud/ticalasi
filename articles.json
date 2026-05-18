@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Étienne Ghys: The Shape of Letters: From Leonardo da Vinci to Donald Knuth",
-    "summary": "Article URL: https://www.youtube.com/watch?v=1OIxzewWilc\nComments URL: https://news.ycombinator.com/item?id=48175637\nPoints: 21\n# Comments: 3",
-    "url": "https://www.youtube.com/watch?v=1OIxzewWilc",
+    "title": "Germany goes from labour shortages to hiring freezes",
+    "summary": "Article URL: https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126\nComments URL: https://news.ycombinator.com/item?id=48177086\nPoints: 3\n# Comments: 1",
+    "url": "https://www.ft.com/content/2a6c1cb9-6c11-41c8-a8ea-a367b8799126",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "It is time to give up the dualism introduced by the debate on consciousness",
-    "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 35\n# Comments: 106",
-    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
+    "title": "Why is Google Maps back to showing old satellite images of Altadena?",
+    "summary": "Article URL: https://www.reddit.com/r/pasadena/s/94BHlkE84r\nComments URL: https://news.ycombinator.com/item?id=48176762\nPoints: 17\n# Comments: 5",
+    "url": "https://www.reddit.com/r/pasadena/s/94BHlkE84r",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -23,172 +23,237 @@
   },
   {
     "id": "003",
-    "title": "Signal Internals: Managing Memory and the Dependency Graph",
-    "summary": "Quick Recap\n\n\nIn the previous article, we looked at the role of the Scheduler.\n\nThe Scheduler is responsible for arranging downstream jobs after data changes and batching those updates so the system does not recompute everything immediately and repeatedly.\n\nHowever, scheduling alone is not enough to",
-    "url": "https://dev.to/luciano0322/signal-internals-managing-memory-and-the-dependency-graph-4hi1",
+    "title": "It is time to give up the dualism introduced by the debate on consciousness",
+    "summary": "Article URL: https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/\nComments URL: https://news.ycombinator.com/item?id=48175140\nPoints: 81\n# Comments: 204",
+    "url": "https://www.noemamag.com/there-is-no-hard-problem-of-consciousness/",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "javascript",
-      "webdev",
-      "frontend",
-      "typescript"
+      "Hacker News"
     ]
   },
   {
     "id": "004",
-    "title": "Stop trusting your agent skills with vibes. Eliminate the context security risk.",
-    "summary": "When you install an npm package, you can run npm audit. When you install a Python package, there's pip-audit. But when you install plugins that give your AI agent new skills and rules, you know, things that directly shape how it reasons and what it does, what do you run?\n\nIf your answer is \"nothing\"",
-    "url": "https://dev.to/tessl/stop-trusting-your-agent-skills-with-vibes-eliminate-the-context-security-risk-10a2",
+    "title": "Disco Elysium’s spiritual successor can’t escape its phantoms",
+    "summary": "Zero Parades: For Dead Spies wants you to question the price of forgiveness. After leading a crew of spies through a failed operation, protagonist Cascade is willing to pay whatever amount is needed to reestablish contact not just with fellow agents, but with the friends she let down. After being \"f",
+    "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "The Verge",
     "tags": [
-      "ai",
-      "agentskills",
-      "agents",
-      "security"
+      "Entertainment",
+      "Games Review",
+      "Gaming"
     ]
   },
   {
     "id": "005",
-    "title": "🌐How Internet Works (Step-by-Step Guide)",
-    "summary": "🎯 What is Internet?\n\n\nThe Internet is a global network of connected computers that communicate with each other.\n\n👉 Simple meaning:\nInternet = Computers talking to other computers\n\n\n\n\n\n  \n  \n  🧠 Easy Analogy\n\n\nThink of the Internet like a postal system 📮\n\n\n\n\nReal Life\nInternet\n\n\n\n\nYour Home Address\nI",
-    "url": "https://dev.to/juned_silavat_5e465abc240/how-internet-works-step-by-step-guide-24l9",
+    "title": "An ICE Firearms Trainer Was Involved in At Least 4 Deadly Shootings",
+    "summary": "David Norman, a former Phoenix police officer who’s described himself as “a fucking savage,” now runs a company that provided training to Homeland Security’s Special Response Teams.",
+    "url": "https://www.wired.com/story/an-ice-firearms-trainer-was-involved-in-at-least-4-deadly-shootings/",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "webdev",
-      "tutorial",
-      "beginners",
-      "networking"
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Politics / Policy",
+      "Department of Homeland Security",
+      "immigration",
+      "Immigration and Customs Enforcement",
+      "Police",
+      "Guns",
+      "Crime",
+      "politics",
+      "Military",
+      "Trigger Warning"
     ]
   },
   {
     "id": "006",
-    "title": "Cox Proportional Hazards: The Workhorse of Survival Analysis",
-    "summary": "Survival analysis starts with a question: how long until an event happens? A patient relapses, a customer churns, a borrower defaults on a loan, a prisoner is rearrested. Parametric models answer by assuming a shape for the hazard — Weibull, log-logistic, exponential — and estimating its parameters.",
-    "url": "https://dev.to/berkan_sesen/cox-proportional-hazards-the-workhorse-of-survival-analysis-8an",
+    "title": "A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy",
+    "summary": "The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became US health policy chief, most vaccine scientists tended to ignore it. Now they can’t.",
+    "url": "https://www.wired.com/story/a-danish-couples-maverick-african-research-finds-its-moment-in-rfk-jrs-vaccine-policy/",
     "date": "2026-05-18",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "statistics",
-      "supervisedlearning"
+      "Science",
+      "Science / Health",
+      "vaccines",
+      "medicine",
+      "diseases",
+      "public health",
+      "Robert F. Kennedy Jr.",
+      "autism",
+      "Public Health"
     ]
   },
   {
     "id": "007",
-    "title": "I Built Windows11Alert — A Windows Utility That Sends Telegram Alerts When My PC Turns On",
-    "summary": "Sometimes the best projects are not huge.\n\nSometimes they are small utilities that solve one specific problem really well.\n\nI wanted a simple way to know when my Windows PC turns on, restarts, or was previously shut down. I did not want a heavy monitoring dashboard or an enterprise-level monitoring ",
-    "url": "https://dev.to/coderx09/i-built-windows11alert-a-windows-utility-that-sends-telegram-alerts-when-my-pc-turns-on-51d4",
+    "title": "# ElixirConf EU 2026: Three Technical Shifts That Matter",
+    "summary": "Estimated read time: 3 minutes\n\nMálaga hosted the ElixirConf EU 2026. Here's what changed.\n\n\n\n\n\n  \n  \n  1. Type Inference Arrives (No Annotations Required)\n\n\nElixir 1.20 introduces whole-program type inference. The compiler now understands function signatures, guard conditions, and map key domains w",
+    "url": "https://dev.to/aturo_phil/-elixirconf-eu-2026-three-technical-shifts-that-matter-1ih8",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "python",
-      "microsoft",
-      "telegram",
-      "automation"
+      "elixir",
+      "functional",
+      "erlang",
+      "phoenix"
     ]
   },
   {
     "id": "008",
-    "title": "I Built a 7-Agent Sales Pipeline and the Hardest Part Was the Topology",
-    "summary": "When I started designing VORTEX — a seven-agent pipeline that turns product usage signals into sales outreach — I made the same mistake most people make with multi-agent systems: I let agents talk to each other. Each one passed its output downstream, each one knew about its neighbor, and the routing",
-    "url": "https://dev.to/babulu/i-built-a-7-agent-sales-pipeline-and-the-hardest-part-was-the-topology-2i81",
+    "title": "Week 1: 100 Days of Solana",
+    "summary": "Identity on Solana Finally Clicked for Me When I Compared It to SSH Keys\n\n\nComing from a Web2 background, I always thought “blockchain identity” sounded way more complicated than it actually is.\n\nPeople throw around terms like wallets, addresses, private keys, and self-custody, and at first it hones",
+    "url": "https://dev.to/pujan77/week-1-100-days-of-solana-5daj",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "agents",
-      "architecture",
-      "showdev",
-      "systemdesign"
+      "100daysofsolana",
+      "solana",
+      "web3",
+      "beginners"
     ]
   },
   {
     "id": "009",
-    "title": "Frontend HLD: Understanding Different Types of Applications",
-    "summary": "Modern frontend applications are no longer limited to simple webpages and forms. Nowadays, they handle large datasets, complex user interactions, and intensive computations, all inside a single browser.\n\nAnd I believe it is a good idea to understand the basic types of applications and their nature, ",
-    "url": "https://dev.to/paras594/frontend-hld-understanding-different-types-of-applications-ea6",
+    "title": "How I built an anonymous daily leaderboard — and why it resets every night",
+    "summary": "Every competitive typing site has a leaderboard. Most of them are terrible.\n\nTypeRacer shows you an all-time WPM rank that you'll never crack. MonkeyType has a global top-1000 that's been locked in by dedicated grinders for years. Both create the same problem: if you're not already in the top tier, ",
+    "url": "https://dev.to/clackpit_dev/how-i-built-an-anonymous-daily-leaderboard-and-why-it-resets-every-night-3pni",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
       "webdev",
-      "frontend",
-      "beginners",
-      "productivity"
+      "javascript",
+      "gamedev",
+      "typescript"
     ]
   },
   {
     "id": "010",
-    "title": "I Built and Deployed a Production Web Backend in Raw C++20",
-    "summary": "I built something most developers would probably tell me not to build:\n\nA production web backend in raw C++20.\n\nBuilding a production web server in raw C++20. \nNo frameworks. No external libraries. \nZero dependencies beyond the OS itself.\n\nNot because I had to. Because I wanted to understand \ninfras",
-    "url": "https://dev.to/apo72a/i-built-and-deployed-a-production-web-backend-in-raw-c20-27ka",
+    "title": "One Person, One Vote? The Technical Struggle of Web Poll Integrity",
+    "summary": "Picking our poison: The trade-offs of tracking\nIP-based fingerprinting\nHash the voter's IP to restrict votes to one per IP.\n\nExcept not really. A university campus shares one public IP. An entire office behind a corporate NAT looks like a single user. You just locked out hundreds of legitimate voter",
+    "url": "https://dev.to/alikhan21/one-person-one-vote-the-technical-struggle-of-web-poll-integrity-bed",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "cpp",
-      "backend",
-      "devops",
-      "webdev"
+      "firstpost",
+      "webdev",
+      "productivity",
+      "ai"
     ]
   },
   {
     "id": "011",
-    "title": "Token Deep Dive #2: The /50 That Did Nothing",
-    "summary": "The other day, I noticed something funky with my accordion component's hover state.\n\nIt wasn't broken in an obvious, \"error-thrown-in-console\" kind of way. The background color changed when I hovered over it, sure, but the opacity was completely gone. I had explicitly coded hover:bg-background-muted",
-    "url": "https://dev.to/7onic/token-deep-dive-2-the-50-that-did-nothing-3a3e",
+    "title": "LLVM #5 — Mutable Variables",
+    "summary": "So far, Kaleidoscope has been a functional language with immutable variables and no reassignment. But to write anything resembling real code (loops that accumulate or programs with state), we need mutation. We add it now.\n\nWe introduce two features: the ability to mutate variables with =, and the ab",
+    "url": "https://dev.to/lahari_tenneti_4a8a082e9c/llvm-5-mutable-variables-ppg",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "designtokens",
-      "tailwindcss",
-      "cssvariables",
-      "tailwindv3"
+      "llvm",
+      "compilers",
+      "computerscience",
+      "learning"
     ]
   },
   {
     "id": "012",
-    "title": "How to Extract Buying Signals from Any User Interview Transcript (Free Method)",
-    "summary": "Most founders do user interviews wrong.\n\nNot the interview itself — the analysis after. They finish a 45-minute call, feel great about it, write some notes, and move on. Two weeks later when it's time to make a product decision, they can't remember what the user actually said.\n\nThe worst part? The m",
-    "url": "https://dev.to/shahporan_k/how-to-extract-buying-signals-from-any-user-interview-transcript-free-method-3pi3",
+    "title": "What Building and Deploying a Real Production App Taught Me Beyond Tutorials",
+    "summary": "Recently I finished building and deploying a production real-estate platform for a non-technical client using:\n\n\nNext.js\nMongoDB\nCloudinary\nVercel\n\n\nThe project itself wasn’t “massive” from an enterprise perspective, but it taught me something important:\n\nreal-world software engineering starts where",
+    "url": "https://dev.to/panicengineer/what-building-and-deploying-a-real-production-app-taught-me-beyond-tutorials-57bk",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "productivity",
-      "ux",
-      "startup",
-      "javascript"
+      "learning",
+      "nextjs",
+      "softwareengineering",
+      "webdev"
     ]
   },
   {
     "id": "013",
-    "title": "I built ZKP auth so passwords never touch your server",
-    "summary": "Every time you hear about a major breach, the headline is the same: \"Millions of passwords exposed.\" Attackers get in, dump the database, and walk away with your users' bcrypt hashes. Given enough time and a GPU farm, weak passwords crack. Even strong ones end up in breach databases. The root cause ",
-    "url": "https://dev.to/abhik_mondal/i-built-zkp-auth-so-passwords-never-touch-your-server-3n41",
+    "title": "Full-Text Search Functions",
+    "summary": "I) Cấu trúc chính\n\n\n\n\n\nMATCH (col1,col2,...) AGAINST (expr [search_modifier])\n\n\n\n\n\n\n\n\ncol1, col2, ...: Các cột chứa dữ liệu văn bản mà bạn muốn tìm kiếm.\n\nexpr: Biểu thức tìm kiếm, có thể là một chuỗi hoặc một biến\n\nsearch_modifier: Tùy chọn để xác định cách thức tìm kiếm, có thể là IN NATURAL LANGU",
+    "url": "https://dev.to/hoangmanhkhiem/full-text-search-functions-55en",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "javascript",
-      "security",
-      "authentication",
-      "node"
+      "Dev.to"
     ]
   },
   {
     "id": "014",
-    "title": "Stop chatting with Claude Code: 3 rules for cleaner context and lower bills",
-    "summary": "I corrected Claude in a debugging session. It said \"you're right.\"\n\nThen it spent the next 20 messages quietly building on the bug I had just disproved.\n\nThe bug wasn't in the model. It was in how I was using context.\n\n\n\n\nMost developers I know use Claude Code like a chat window. One terminal, one s",
-    "url": "https://dev.to/ouvarov/stop-chatting-with-claude-code-3-rules-for-cleaner-context-and-lower-bills-235d",
+    "title": "Apple Product Page Optimization (PPO) Guide for 2026",
+    "summary": "Apple Product Page Optimization (PPO) Guide for 2026\n\n\nApple Product Page Optimization is the single most underused growth lever on the App Store in 2026. It is free, it is native, and it uses real organic App Store traffic to tell you which creative actually converts. Yet most indie developers and ",
+    "url": "https://dev.to/shotlingo/apple-product-page-optimization-ppo-guide-for-2026-4a4p",
     "date": "2026-05-18",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "claude",
-      "productivity",
-      "devtools"
+      "ios",
+      "appstore",
+      "aso",
+      "mobile"
     ]
   },
   {
     "id": "015",
+    "title": "🧠 Wie ich eine selbstlernende KI gebaut habe, die über 8.000 SSH‑Angriffe pro Stunde blockiert (und wie sie skaliert",
+    "summary": "Vor zwei Wochen habe ich eine selbstlernende KI veröffentlicht, die SSH‑Brute‑Force‑Angriffe in Echtzeit erkennt und automatisch blockiert.\nNach zehntausenden Angriffen, hunderten gebannten IPs und mehreren produktiven Servern ist es Zeit, die technische Architektur dahinter zu zeigen – inklusive Sk",
+    "url": "https://dev.to/kajane/wie-ich-eine-selbstlernende-ki-gebaut-habe-die-uber-8000-ssh-angriffe-pro-stunde-blockiert-und-49c4",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "security",
+      "opensource",
+      "python"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Lessons from three months of vibe coding (and a complexity score of 53)",
+    "summary": "TL;DR — I spent three months vibe-coding a side project with an AI agent. It felt fast and productive until I opened a file and saw 3000 lines, functions that should have been one helper but were copy-pasted ten times, and a cyclomatic complexity score of 58 in one of them. The agent wasn't the prob",
+    "url": "https://dev.to/maxkrivich/lessons-from-three-months-of-vibe-coding-and-a-complexity-score-of-53-3bdj",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "productivity",
+      "devops",
+      "codequality"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "30 CVR Improvement Checks for EC Sites — Where to Start When Sales Don't Move",
+    "summary": "\"Ad sessions keep coming in, but purchases are not growing.\" \"Add-to-cart looks fine, but checkout drops off.\" Every EC operator hits this wall, and the answer is almost always the same one — a CVR (Conversion Rate) leak somewhere in the funnel.\n\nCVR is a simple formula — purchasing sessions ÷ all s",
+    "url": "https://dev.to/toshihiro_shishido/30-cvr-improvement-checks-for-ec-sites-where-to-start-when-sales-dont-move-11mn",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "ecommerce",
+      "analytics",
+      "ux",
+      "conversion"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Which Tech Roles Will Dominate Vietnam’s IT Industry in the Next Few Years?",
+    "summary": "Vietnam’s IT Market Feels Like It’s Entering A Different Era\n\n\nOver the past few months, I’ve been seeing more and more discussions around salaries, hiring trends and career directions in Vietnam’s tech industry. And honestly, the market feels very different compared to just a few years ago.\nBack th",
+    "url": "https://dev.to/duy_nguyn/which-tech-roles-will-dominate-vietnams-it-industry-in-the-next-few-years-54a",
+    "date": "2026-05-18",
+    "source": "Dev.to",
+    "tags": [
+      "vietnam",
+      "ai",
+      "machinelearning",
+      "career"
+    ]
+  },
+  {
+    "id": "019",
     "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
     "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
     "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
@@ -199,9 +264,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "020",
     "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
-    "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 105\n# Comments: 21",
+    "summary": "Article URL: https://hellmood.111mb.de//wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48173962\nPoints: 131\n# Comments: 30",
     "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -210,20 +275,9 @@
     ]
   },
   {
-    "id": "017",
-    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
-    "summary": "Article URL: https://www.jdhodges.com/blog/thinkpad-history/\nComments URL: https://news.ycombinator.com/item?id=48173547\nPoints: 94\n# Comments: 43",
-    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "018",
+    "id": "021",
     "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
-    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 187\n# Comments: 169",
+    "summary": "Article URL: https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base\nComments URL: https://news.ycombinator.com/item?id=48173468\nPoints: 193\n# Comments: 193",
     "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -232,9 +286,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "022",
     "title": "Prolog Coding Horror",
-    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 119\n# Comments: 48",
+    "summary": "Article URL: https://www.metalevel.at/prolog/horror\nComments URL: https://news.ycombinator.com/item?id=48173268\nPoints: 140\n# Comments: 57",
     "url": "https://www.metalevel.at/prolog/horror",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -243,18 +297,7 @@
     ]
   },
   {
-    "id": "020",
-    "title": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-    "summary": "Article URL: https://spectrum.ieee.org/payphone-voip\nComments URL: https://news.ycombinator.com/item?id=48172505\nPoints: 147\n# Comments: 44",
-    "url": "https://spectrum.ieee.org/payphone-voip",
-    "date": "2026-05-17",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
+    "id": "023",
     "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
     "summary": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can't find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still m",
     "url": "https://github.com/MinishLab/semble",
@@ -265,9 +308,9 @@
     ]
   },
   {
-    "id": "022",
+    "id": "024",
     "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 335\n# Comments: 153",
+    "summary": "Article URL: https://github.com/tech4bot/rk3562deb\nComments URL: https://news.ycombinator.com/item?id=48168668\nPoints: 365\n# Comments: 171",
     "url": "https://github.com/tech4bot/rk3562deb",
     "date": "2026-05-17",
     "source": "Hacker News",
@@ -276,7 +319,18 @@
     ]
   },
   {
-    "id": "023",
+    "id": "025",
+    "title": "CUDA Books",
+    "summary": "Article URL: https://github.com/alternbits/awesome-cuda-books\nComments URL: https://news.ycombinator.com/item?id=48168485\nPoints: 196\n# Comments: 46",
+    "url": "https://github.com/alternbits/awesome-cuda-books",
+    "date": "2026-05-17",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "026",
     "title": "Apple’s Siri revamp could include auto-deleting chats",
     "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
     "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -291,7 +345,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "027",
     "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
     "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
     "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
@@ -304,7 +358,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "028",
     "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
     "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
     "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -318,7 +372,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "029",
     "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
     "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
@@ -336,7 +390,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "030",
     "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its  physical-world thesis",
     "summary": "Investing in the real world was lonely for Lior Susan 10 years ago. Now his firm finds itself at the center of the tech world's action.",
     "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
@@ -349,50 +403,6 @@
       "Fundraising",
       "Eclipse Ventures",
       "Cerebras"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "A revolutionary cancer treatment could transform autoimmune disease",
-    "summary": "Researchers are testing CAR T cell therapy as a way to reset the immune system.",
-    "url": "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "date": "2026-05-17",
-    "source": "Ars Technica",
-    "tags": [
-      "Health",
-      "Science",
-      "autoimmune disease",
-      "cancer treatment",
-      "syndication",
-      "targeted cancer treatments"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Microsoft is retiring Teams’ Together Mode",
-    "summary": "Microsoft launched Teams' Together Mode during the pandemic to give the illusion of a bunch of people sitting in a conference room together, even if they were really sitting at home without pants on. But times have changed, and it's now being retired in favor of a more simplified Teams experience. T",
-    "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Revamped Siri will reportedly offer auto-deleting chats",
-    "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark Gurman, the more chatbot-like Siri set to debut in iOS 27 will include the option to autodelete chat",
-    "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-    "date": "2026-05-17",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Tech"
     ]
   }
 ]
