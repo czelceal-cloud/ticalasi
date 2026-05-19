@@ -7,75 +7,201 @@
   "items": [
     {
       "id": "001",
-      "url": "https://arxiv.org/abs/2601.10160",
-      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-      "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 13\n# Comments: 10",
-      "date_published": "2026-05-18",
+      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+      "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "Gaming",
+        "LG",
+        "News",
+        "PC Gaming",
+        "Tech"
       ],
-      "_source": "Hacker News"
+      "_source": "The Verge"
     },
     {
       "id": "002",
-      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
-      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-      "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 101\n# Comments: 42",
-      "date_published": "2026-05-18",
+      "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "Artificial intelligence",
+        "App"
       ],
-      "_source": "Hacker News"
+      "_source": "MIT Tech Review"
     },
     {
       "id": "003",
-      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-      "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 170\n# Comments: 68",
-      "date_published": "2026-05-18",
+      "url": "https://dev.to/kvnpt/how-to-remotely-iterate-deploy-your-sideloaded-ios-apps-over-tailnet-jak",
+      "title": "How to remotely iterate & deploy your sideloaded iOS-apps over tailnet",
+      "summary": "Sideloading an iPhone over Tailscale from anywhere, no USB, Touch grass while CI/CD on iOS.\n\n\n\n  \n  \n  TL;DR\n\n\niOS 17+ moved iPhone development tooling onto a stack — CoreDevice + RemoteXPC + Bonjour — that's deliberately scoped to local-network adjacency. The official position is: USB-tether to the",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "ios",
+        "tailscale",
+        "networking",
+        "macos"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "004",
-      "url": "https://hyperpolyglot.org/lisp",
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 115\n# Comments: 22",
-      "date_published": "2026-05-18",
+      "url": "https://dev.to/jenueldev/ai-is-moving-from-demo-to-infrastructure-and-today-made-that-obvious-1gcb",
+      "title": "AI is moving from demo to infrastructure, and today made that obvious",
+      "summary": "Today's AI news has a pattern to it. The big stories are not really about a clever chatbot trick or another model benchmark. They are about power, infrastructure, lawsuits, labor, and trust.\n\nThat might sound less exciting than a flashy product demo. It is also more important.\n\nGoogle and Blackstone",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "ai",
+        "cloud",
+        "ethics",
+        "webdev"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "005",
-      "url": "https://loopmaster.xyz/",
-      "title": "Loopmaster – Livecoding Music IDE",
-      "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 43\n# Comments: 14",
-      "date_published": "2026-05-18",
+      "url": "https://dev.to/ai-ops/kubernetes-tools-4f8c",
+      "title": "Kubernetes Tools",
+      "summary": "Every Kubernetes Tool Explained In One Post (And Why They Exist)\nThe Kubernetes Ecosystem Has a Story. Every tool exists because Kubernetes alone wasn’t enough.\n\nYou run everything with kubectl. Get pods, describe, logs, exec, delete, apply, 50 times a day across 5 namespaces. It works, but it is sl",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "devops",
+        "kubernetes",
+        "productivity",
+        "tooling"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://odyssey.ml/introducing-agora-1",
-      "title": "Agora-1: The Multi-Agent World Model",
-      "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 67\n# Comments: 15",
-      "date_published": "2026-05-18",
+      "url": "https://dev.to/german_yamil_e021eef8710d/python-functools-lrucache-partial-reduce-and-wraps-mfi",
+      "title": "Python functools: lru_cache, partial, reduce, and wraps",
+      "summary": "The functools module is one of Python's most practical standard-library gems. It ships a small set of higher-order function utilities — tools that operate on or return other functions — that eliminate boilerplate, improve performance, and make your code easier to reason about. You don't need to inst",
+      "date_published": "2026-05-19",
       "tags": [
-        "Hacker News"
+        "python",
+        "beginners",
+        "tutorial",
+        "codenewbie"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-      "title": "Haiku OS runs on M1 Macs now",
-      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 252\n# Comments: 84",
+      "url": "https://dev.to/mads_hansen_27b33ebfee4c9/every-ai-database-answer-needs-a-source-trail-2de3",
+      "title": "Every AI database answer needs a source trail",
+      "summary": "An AI answer without provenance is just a confident paragraph.\n\nThat may be fine for brainstorming.\n\nIt is not enough for database answers that drive product, finance, support, or operations decisions.\n\nWhen an agent returns “MRR is up 8%,” the useful question is not only whether the number came fro",
+      "date_published": "2026-05-19",
+      "tags": [
+        "mcp",
+        "database",
+        "ai",
+        "postgres"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/imamabubakar/the-smartest-founders-i-know-arent-building-unicorns-5fle",
+      "title": "The Smartest Founders I Know Aren’t Building Unicorns",
+      "summary": "Everyone wants to build a unicorn.\n\nA billion-dollar valuation.\nA massive funding round.\nA glamorous TechCrunch headline.\nAn office somewhere in San Francisco with glass walls and free coffee.\n\nBut after years of working with founders across different countries, industries, and startup stages, I’ve ",
+      "date_published": "2026-05-19",
+      "tags": [
+        "founder"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+      "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
+      "summary": "At a glance\n\n\n\n\n\n\n\n\n\n\n\nWhat it is\nA file-based work log with semantic search, designed for AI coding agents to record and retrieve their own reasoning.\n\n\nPackage\n\nlysofdev-ailog on PyPI · CLI entry point ailog\n\n\n\nSource\ngithub.com/EstebanHernandez1523/ailog\n\n\nStack\nPython 3.11+ · Voyage AI voyage-co",
+      "date_published": "2026-05-19",
+      "tags": [
+        "agents",
+        "ai",
+        "showdev",
+        "tooling"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/charles_90891cea4a1800830/xcrawl-vs-puppeteer-vs-playwright-which-web-scraping-tool-saves-you-more-time-in-2026-1ego",
+      "title": "XCrawl vs Puppeteer vs Playwright: Which Web Scraping Tool Saves You More Time in 2026?",
+      "summary": "The Web Scraping Toolkit Spectrum\n\n\nLet's be real: there are dozens of ways to scrape the web. From raw curl to full-blow browser automation frameworks. But when it comes to JavaScript-rendered pages, most developers reach for one of three tools: Puppeteer, Playwright, or XCrawl.\n\nHere's a no-BS com",
+      "date_published": "2026-05-19",
+      "tags": [
+        "webdev",
+        "javascript",
+        "comparison",
+        "webscraping"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/charles_90891cea4a1800830/how-to-scrape-js-rendered-e-commerce-pages-without-getting-blocked-2026-guide-394g",
+      "title": "How to Scrape JS-Rendered E-Commerce Pages Without Getting Blocked (2026 Guide)",
+      "summary": "The Problem\n\n\nE-commerce sites like Amazon, Walmart, and Target have moved to heavy JavaScript rendering. Traditional HTTP clients (curl, requests, fetch) return empty HTML shells - no product data, no prices, no reviews.\n\nYou need a headless browser to render the JS. But headless browsers are slow,",
+      "date_published": "2026-05-19",
+      "tags": [
+        "webdev",
+        "javascript",
+        "tutorial",
+        "webscraping"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/ec1980/i-kept-hitting-claude-codes-5-hour-limit-after-2-hours-so-i-built-this-34nl",
+      "title": "I Kept Hitting Claude Code's 5-Hour Limit After 2 Hours. So I Built This.",
+      "summary": "If you use Claude Code heavily, you've probably hit the wall.\n\nYou're deep into a session, the agent is finally understanding your codebase, and then — usage limit reached. Not after 5 hours. After 2.\n\nAside from the limit, a major contributing factor is that every coding session re-sends the same p",
+      "date_published": "2026-05-19",
+      "tags": [
+        "opensource",
+        "ai",
+        "productivity",
+        "claude"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/ricardo_cuba/the-vtex-public-api-is-the-same-for-3760-retailers-but-no-one-aggregated-it-until-now-2hd7",
+      "title": "The VTEX public API is the same for 3,760 retailers — but no one aggregated it. Until now.",
+      "summary": "VTEX runs e-commerce for Nike, Carrefour, Samsung, Motorola, and 3,760+ other brands. Every one exposes the same search and catalog API endpoints. Same JSON schema. Same pagination rules.\n\nFor years, if you wanted to query products across retailers, you had to scrape or make separate API calls per s",
+      "date_published": "2026-05-19",
+      "tags": [
+        "api",
+        "cli",
+        "python",
+        "showdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/kokila_hansani/from-supervised-to-independent-a-six-month-framework-for-mentoring-engineers-3lcd",
+      "title": "From Supervised to Independent: A Six-Month Framework for Mentoring Engineers",
+      "summary": "This is about the specific, repeatable mechanics of taking a junior engineer and moving them in roughly six months from \"needs review on every task\" to \"leads a feature stream from intake to deploy with no hand holding.\" I have trained many technical and non-technical people and finally succeed with",
+      "date_published": "2026-05-19",
+      "tags": [
+        "mentorship",
+        "careerdevelopment",
+        "agile",
+        "engineeringmanagement"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 94\n# Comments: 56",
       "date_published": "2026-05-18",
       "tags": [
         "Hacker News"
@@ -83,7 +209,95 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
+      "id": "016",
+      "url": "https://clickclickclick.click/",
+      "title": "Click (2016)",
+      "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 193\n# Comments: 41",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "017",
+      "url": "https://arxiv.org/abs/2601.10160",
+      "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+      "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 20\n# Comments: 10",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "018",
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+      "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+      "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 129\n# Comments: 61",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
+      "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+      "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+      "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 219\n# Comments: 90",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://hyperpolyglot.org/lisp",
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 126\n# Comments: 28",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://loopmaster.xyz/",
+      "title": "Loopmaster – Livecoding Music IDE",
+      "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 65\n# Comments: 18",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://odyssey.ml/introducing-agora-1",
+      "title": "Agora-1: The Multi-Agent World Model",
+      "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 81\n# Comments: 16",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
+      "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+      "title": "Haiku OS runs on M1 Macs now",
+      "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 281\n# Comments: 91",
+      "date_published": "2026-05-18",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "024",
       "url": "https://andonlabs.com/blog/andon-fm",
       "title": "We let AIs run radio stations",
       "summary": "Hey HN!I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools ",
@@ -94,18 +308,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "009",
-      "url": "https://modal.com/blog/truly-serverless-gpus",
-      "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-      "summary": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 65\n# Comments: 15",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
       "title": "OSHA probing worker death at SpaceX’s Starbase site",
       "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
@@ -120,7 +323,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
       "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
       "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
@@ -136,7 +339,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
@@ -149,7 +352,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
       "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
@@ -165,7 +368,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
       "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
       "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
@@ -181,7 +384,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
       "title": "Kin Health raises $9M to build an AI notetaker for patients",
       "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
@@ -194,244 +397,6 @@
         "maveron"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "016",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "alexa plus",
-        "alexa+",
-        "Amazon",
-        "Generative AI",
-        "podcasts"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "017",
-      "url": "https://techcrunch.com/2026/05/18/open-source-tool-maker-grafana-labs-says-hackers-stole-its-code-refuses-to-pay-ransom/",
-      "title": "Open source tool maker Grafana Labs says hackers stole its code, refuses to pay ransom",
-      "summary": "The open source project said hackers stole its codebase and threatened to publish its source code if the company did not pay.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Security",
-        "cyberattack",
-        "cybersecurity",
-        "data breach",
-        "extortion",
-        "grafana",
-        "open source"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "018",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Startups",
-        "ai glasses",
-        "LetinAR",
-        "optics",
-        "optics technology",
-        "SMART Glasses"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/",
-      "title": "Ebola outbreak: WHO declares emergency, US restricts travel, American infected",
-      "summary": "CDC is working to move the infected American and six others to Germany.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Health",
-        "CDC",
-        "Democratic Republic of the Congo",
-        "drc",
-        "ebola",
-        "outbreak",
-        "south sudan",
-        "uganda"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "020",
-      "url": "https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/",
-      "title": "Legal fail: Don’t use AI to sue Facebook users for calling you a bad date",
-      "summary": "Fake citations dashed a dude’s “Are We Dating the Same Guy” revenge lawsuit.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "AI",
-        "Policy",
-        "ai lawyer",
-        "Artificial Intelligence",
-        "defamation",
-        "doxing",
-        "Facebook",
-        "fake citations",
-        "meta"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "021",
-      "url": "https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/",
-      "title": "One Mars spacecraft, two senators, and a cloud of questions",
-      "summary": "\"I think there's plenty of fire lit under them already.\"",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Space",
-        "Mars",
-        "mars telecommunications network",
-        "mars telecommunications orbiter",
-        "NASA",
-        "rocket lab"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "022",
-      "url": "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
-      "title": "Australian Aboriginals cared for a dingo's grave for decades",
-      "summary": "For some ancient Aboriginal Australian communities, dingoes were part of the family.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Science",
-        "aboriginal australians",
-        "Archaeology",
-        "australia",
-        "dingo",
-        "science",
-        "zooarchaeology"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "023",
-      "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
-      "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-      "summary": "Musk plans to appeal after judge immediately affirmed the jury's decision.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "AI",
-        "Policy",
-        "Artificial Intelligence",
-        "Elon Musk",
-        "openai",
-        "sam altman",
-        "xAI"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "024",
-      "url": "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
-      "title": "Pompeii victim ID'd as a likely doctor",
-      "summary": "New X-rays and CT scans showed small case with locking mechanism containing metal instruments.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Science",
-        "Archaeology",
-        "Pompeii"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "025",
-      "url": "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
-      "title": "Guy Gardner makes a cameo in new Lanterns teaser",
-      "summary": "\"This ring? It's the greatest weapon in the Universe. When and if to use it, that's the whole ball game.\"",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Culture",
-        "entertainment",
-        "hbo max",
-        "Lanterns",
-        "streaming television",
-        "Trailers"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "026",
-      "url": "https://arstechnica.com/gadgets/2026/05/the-dory-sign-is-e-ink-smart-screen-simplicity-at-its-finest/",
-      "title": "The Dory Sign is E ink, smart screen simplicity at its finest",
-      "summary": "Dory CEO claims the $149 signs won't be bricked should Dory go out of business.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Reviews",
-        "Tech",
-        "e-ink",
-        "reviews",
-        "smart home"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "027",
-      "url": "https://arstechnica.com/gadgets/2026/05/five-years-later-windows-11-brings-back-much-missed-taskbar-options-and-more/",
-      "title": "Five years later, Windows 11 brings back much-missed taskbar options (and more)",
-      "summary": "Microsoft is also testing a smaller taskbar and more customizable Start menu.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Tech",
-        "windows 11",
-        "windows 11 24h2",
-        "windows 11 25h2"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "028",
-      "url": "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
-      "title": "BMW sends off the 6th-gen M3 CS with a manual gearbox, rear-wheel drive",
-      "summary": "The 2027 M3 CS Handschalter is lighter and comes with three pedals instead of two.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Cars",
-        "BMW M3 CS Handschalter"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "029",
-      "url": "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
-      "title": "Did Artemis II break through? Registrations at Space Camp double afterward.",
-      "summary": "Isaacman's $25 million donation leads to impressive new facilities.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "Space",
-        "inspiraiton4",
-        "space",
-        "space camp"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/",
-      "title": "Bug bounty businesses bombarded with AI slop",
-      "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
-      "date_published": "2026-05-18",
-      "tags": [
-        "AI",
-        "Security",
-        "bug bounties",
-        "syndication",
-        "White Hat Hacking"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
