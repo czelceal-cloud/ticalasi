@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Peter Salus has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 53\n# Comments: 4",
-    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "title": "PyTorch Landscape",
+    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 13\n# Comments: 0",
+    "url": "https://pytorch.landscape2.io",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "War Game Exposed U.S. Vulnerability to Low-Tech Warfare",
-    "summary": "Article URL: https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare\nComments URL: https://news.ycombinator.com/item?id=48188506\nPoints: 5\n# Comments: 3",
-    "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+    "title": "Codex-maxxing",
+    "summary": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/\nComments URL: https://news.ycombinator.com/item?id=48189156\nPoints: 22\n# Comments: 10",
+    "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "The American Rebellion Against AI Is Gaining Steam",
-    "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529\nComments URL: https://news.ycombinator.com/item?id=48188310\nPoints: 57\n# Comments: 47",
-    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+    "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
+    "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generato",
+    "url": "https://github.com/harmont-dev/hsrs",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The last six months in LLMs in five minutes",
-    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 52\n# Comments: 10",
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "title": "Peter Neumann has died",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 10\n# Comments: 1",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -45,6 +45,67 @@
   },
   {
     "id": "005",
+    "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
+    "summary": "Background: I was using Cursor to set up an OpenAI integration.The agent read my .env file, added the key to the config, and everything worked. What I didn't think about: that key was now sitting in a plaintext SQLite database at ~/Library/ApplicationSupport/Cursor/User/workspaceStorage/..AI coding ",
+    "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Peter Salus has died",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 100\n# Comments: 8",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "War game exposed U.S. vulnerability to low-tech warfare",
+    "summary": "Article URL: https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare\nComments URL: https://news.ycombinator.com/item?id=48188506\nPoints: 40\n# Comments: 39",
+    "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "The last six months in LLMs in five minutes",
+    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 180\n# Comments: 92",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
+    "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
+    "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
+    "date": "2026-05-19",
+    "source": "TechCrunch",
+    "tags": [
+      "Media & Entertainment",
+      "TC",
+      "Venture",
+      "How To Rule the World",
+      "stanford",
+      "Theo Baker",
+      "venture capital"
+    ]
+  },
+  {
+    "id": "010",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
     "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
     "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
@@ -59,7 +120,155 @@
     ]
   },
   {
-    "id": "006",
+    "id": "011",
+    "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
+    "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+    "url": "https://www.wired.com/story/tempo-meals-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "HBO Max Promo Code: 50% Off | May",
+    "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+    "url": "https://www.wired.com/story/max-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Norton Coupon Codes: Up to 58% Off",
+    "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
+    "url": "https://www.wired.com/story/norton-coupon-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Limited Time: TurboTax Full Service Coupons This May",
+    "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
+    "url": "https://www.wired.com/story/turbotax-coupon/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Booking.com Promo Codes: 20% Off | May 2026",
+    "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+    "url": "https://www.wired.com/story/booking-com-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Lenovo Coupon Codes and Deals in May 2026",
+    "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
+    "url": "https://www.wired.com/story/lenovo-coupon-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "50% Off Home Depot Promo Codes | May 2026",
+    "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
+    "url": "https://www.wired.com/story/home-depot-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "iRobot Promo Code: 15% Off",
+    "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
+    "url": "https://www.wired.com/story/irobot-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
+    "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
+    "url": "https://www.wired.com/story/barkbox-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "30% Off Tempur-Pedic Promo Codes | May 2026",
+    "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
+    "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "021",
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
     "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
@@ -71,322 +280,126 @@
     ]
   },
   {
-    "id": "007",
-    "title": "I Gave an AI Agent a Telegram Bot and It Started Editing Videos",
-    "summary": "I wanted to test something simple:\n\nCould an autonomous AI agent receive a video from Telegram, process it automatically, write its own Python code, and send the result back to me?\n\nTurns out:\n\nYes.\n\nAnd surprisingly, it worked better than I expected.\n\n\n\n\n\n  \n  \n  The Setup\n\n\nI deployed an OpenClaw ",
-    "url": "https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm",
+    "id": "022",
+    "title": "RealtimeSTT's 5 Hidden Uses 🔥",
+    "summary": "Most developers install RealtimeSTT and use it for one thing: basic speech-to-text. But here's what's shocking — this library with 9,790 GitHub Stars has capabilities that 90% of users completely ignore. In 2026, with local AI inference becoming the dominant paradigm, RealtimeSTT has evolved into a ",
+    "url": "https://dev.to/_cbd692d476c5faf3b61bcf/realtimestts-5-hidden-uses-2666",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "openclaw",
-      "agents"
+      "Dev.to"
     ]
   },
   {
-    "id": "008",
-    "title": "Implementando uma pilha a partir de uma fila",
-    "summary": "Em uma conversa despretenciosa com o Leandro Proença no LinkedIn, mencionei que dá pra implementar pilha usando apenas uma fila.\n\nBem, vamos fazer isso? Primeiro, vamos definir exatamente o que é \"implementar uma estrutura X com uma estrutura Y\", então vamos pro caso mais trivial que é implementar u",
-    "url": "https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b",
+    "id": "023",
+    "title": "Why your diffusion model is slow at batch size 1 (and what actually helps)",
+    "summary": "TL;DR: Single-image diffusion inference is bottlenecked by kernel launch overhead and attention memory traffic, not raw FLOPs. torch.compile with mode=\"reduce-overhead\", a fused attention backend, and CFG batching get you most of the way before you reach for distillation.\n\nI spend a lot of time look",
+    "url": "https://dev.to/elise_moreau/why-your-diffusion-model-is-slow-at-batch-size-1-and-what-actually-helps-n15",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "estruturadedados",
-      "java",
-      "braziliandevs"
+      "machinelearning",
+      "pytorch",
+      "computervision",
+      "mlops"
     ]
   },
   {
-    "id": "009",
-    "title": "Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science",
-    "summary": "Introduction\nA couple of weeks ago, I built a full-stack mobile and AI-powered supply chain optimization app designed to simulate the real world. The goal of the project was to build an intelligent system that combines:\n\n\nMobile development\nBackend engineering\nData analytics\nMachine learning\ninto a ",
-    "url": "https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4",
+    "id": "024",
+    "title": "Why Your Backtest Is Lying to You: Data Biases That Ruin Equity Research",
+    "summary": "You built a backtest. It returns 18% annualized over the last\ndecade. The Sharpe is 1.4. The drawdown is acceptable. You're\nalready mentally apartment-shopping in the city you'll move to\nafter the strategy makes you wealthy.\n\nIt's probably wrong. Not because your code has bugs — backtest\ncode can be",
+    "url": "https://dev.to/pickuma/why-your-backtest-is-lying-to-you-data-biases-that-ruin-equity-research-22hd",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "datascience",
-      "reactnative",
-      "showdev"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "The portfolio math. When 30 small apps beat 1 big one.",
-    "summary": "The portfolio math. When 30 small apps beat 1 big one.\n\n\nFor a decade the indie hacker playbook stayed the same. Pick one product. Find a niche. Focus. Iterate. Sell. That advice fit 2014 perfectly. It started quietly going wrong in 2022, and by 2026 it is the wrong default for most solo operators, ",
-    "url": "https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "indiehackers",
-      "startup",
-      "productivity"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "What If Your Phone Addiction Was Actually Building an Empire? (A Game Dev Story)",
-    "summary": "What If Your Phone Addiction Was Actually Building an Empire? (A Game Dev Story)\n\n\nWe all know that feeling.\n\nYou pick up your phone. 30 minutes later, you're three rabbit holes deep on TikTok, Instagram, Reddit. You've scrolled through hundreds of posts. Nothing's changed. You haven't learned anyth",
-    "url": "https://dev.to/tanishpaul1106/what-if-your-phone-addiction-was-actually-building-an-empire-a-game-dev-story-120l",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "gamedev",
-      "indiegame",
-      "cyberpunk",
-      "gaming"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "I Broke My Proxmox Home Lab with a GPU Passthrough - Here's How I Fixed It",
-    "summary": "How a Kubernetes worker VM with a passed-through AMD GPU sent my entire home lab into an infinite crash loop — and the GRUB-level trick that saved it.\n\n\n\n\n\n\n  \n  \n  What I Was Trying to Do\n\n\nMy home lab runs on a Mini PC with Proxmox as the hypervisor. The setup hosts a mix of LXC containers and KVM",
-    "url": "https://dev.to/pendelabhargavasai/i-broke-my-proxmox-home-lab-with-a-gpu-passthrough-heres-how-i-fixed-it-45na",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "kubernetes",
-      "linux",
-      "devops",
-      "proxmox"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "⚖️ Case File 3.1: The Rubber Stamp Fraud",
-    "summary": "The Collaboration Cartel\n\n\nThe most common form of technical fraud in software engineering isn’t writing buggy code; it’s signing off on logic you haven't actually read.\n\n\nAfter leading engineering teams for years, I can tell you that the quickest way to destroy a team’s trust is to treat the Pull R",
-    "url": "https://dev.to/manojsatna31/case-file-31-the-rubber-stamp-fraud-971",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
+      "investing",
+      "finance",
       "beginners",
-      "programming",
       "productivity"
     ]
   },
   {
-    "id": "014",
-    "title": "Prime vs (hermes+ openclaw)",
-    "summary": "This is a submission for the Hermes Agent Challenge\n\n\n  \n  \n  What I Built\n\n\nPrime is an open-source, ultra-lightweight desktop orchestrator and micro-kernel environment engineered to eliminate the multi-subscription, high-latency \"context switching fatigue\" that plagues modern software architects. ",
-    "url": "https://dev.to/alyghaly2020/prime-vs-hermes-openclaw-857",
+    "id": "025",
+    "title": "现代化 UI 架构总结：设计主权回归与团队落地",
+    "summary": "本文是 UI 架构系列的第四篇，也是最后一篇。建议先阅读 第一篇：三层颜色体系与系统化设计方案、第二篇：Drawable 层规范与工程实践、第三篇：Style 层如何系统性消除代码冗余 了解完整架构体系。\n\n\n\n\n\n\n  \n  \n  一、架构全景：\n\n\n在前面三篇文章中，我们构建了一套完整的 UI 资源架构体系：\n\n\n\n\n  \n  \n  1.1 架构的核心价值\n\n\n\n\n\n层级\n核心价值\n解决的问题\n\n\n\n\nStyle\n消除冗余，提升复用\n重复属性定义\n\n\nDrawable\n统一形态，状态管理\n视觉不一致\n\n\n\nFunc_*\n语义抽象，职能归一\n颜色滥用\n\n\n基础色+主题\n主题切换，灵活适配\n多",
+    "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "android",
+      "architecture",
+      "mobile",
+      "ui"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Hermes Agent: Why Open Agentic Systems Matter",
+    "summary": "🚀 What Is Hermes Agent?\n\n\nIf you’ve been following the agentic space, Hermes Agent probably doesn’t need much introduction. For everyone else: it’s an open-source agent framework from Nous Research that you can run on your own infrastructure — from a $5 VPS to a GPU cluster.  \n\nThe magic? Hermes isn",
+    "url": "https://dev.to/printo_tom/hermes-agent-why-open-agentic-systems-matter-46ma",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
       "hermesagentchallenge",
       "devchallenge",
       "agents",
-      "openclaw"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "The CVE That Wasn't: Microsoft's Azure Vulnerability Rejection and the Eroding Trust in Cloud Disclosure",
-    "summary": "TL;DR:\n\n\n\nA security researcher discovered a critical cross-tenant access flaw in Microsoft Azure's identity management layer, capable of exposing sensitive customer data across organizational boundaries — and provided full technical documentation with proof-of-concept code.\n\nMicrosoft's Security Re",
-    "url": "https://dev.to/susiloharjo/the-cve-that-wasnt-microsofts-azure-vulnerability-rejection-and-the-eroding-trust-in-cloud-229g",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "cybersecurity",
-      "infosec",
-      "security"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "Lighthouse Attention: The Training-Time Hierarchy That Makes Quadratic Attention Practical Again",
-    "summary": "TL;DR:\n\n\n\n1.4–1.7× pretraining wall-clock speedup against dense SDPA at 32K–128K context — no inference overhead, no architectural changes.\n\nSymmetric pyramid pooling compresses queries, keys, and values together — unlike every prior sparse method that only pools K/V — yielding an S²d attention call",
-    "url": "https://dev.to/susiloharjo/lighthouse-attention-the-training-time-hierarchy-that-makes-quadratic-attention-practical-again-1fn",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "machinelearning"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "When AI Diagnoses the Plant Before Anyone Notices: How Endress+Hauser Eliminated 80% of Measurement Fault Support Calls",
-    "summary": "TL;DR:\n\n\n\nEndress+Hauser deployed an AI diagnostic engine across 300+ industrial plants; the system resolves 80% of measurement device faults without human intervention or vendor support calls.\n\nMachine learning models trained on decades of field device telemetry classify root causes -- sensor drift",
-    "url": "https://dev.to/susiloharjo/when-ai-diagnoses-the-plant-before-anyone-notices-how-endresshauser-eliminated-80-of-measurement-j2o",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "iot",
-      "edgecomputing",
-      "industrialiot"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "[Day 7] Does Giving an AI More 'Thinking Time' Really Make It Smarter? Training an OpenMythos-Style Mini Model on DGX",
-    "summary": "[Day 7] Does Giving an AI More \"Thinking Time\" Really Make It Smarter? Training an OpenMythos-Style Mini Model on DGX\n\n\n\n  \n  \n  Intro\n\n\nDay 7!\n\nReddit kept surfacing this new project called OpenMythos in my feed with \"12 days to replicate frontier AI, ASI is near\" headlines, and I got curious enoug",
-    "url": "https://dev.to/peppercorn_llm/day-7-does-giving-an-ai-more-thinking-time-really-make-it-smarter-training-an-openmythos-style-1epk",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "localllm",
-      "ai",
-      "dgxspark",
-      "transformers"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
-    "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 141\n# Comments: 84",
-    "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Click (2016)",
-    "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 227\n# Comments: 53",
-    "url": "https://clickclickclick.click/",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-    "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 29\n# Comments: 12",
-    "url": "https://arxiv.org/abs/2601.10160",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 246\n# Comments: 98",
-    "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 141\n# Comments: 29",
-    "url": "https://hyperpolyglot.org/lisp",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Loopmaster – Livecoding Music IDE",
-    "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 79\n# Comments: 23",
-    "url": "https://loopmaster.xyz/",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "OSHA probing worker death at SpaceX’s Starbase site",
-    "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
-    "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
-    "tags": [
-      "Space",
-      "Transportation",
-      "OSHA",
-      "SpaceX",
-      "starbase"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Claude",
-      "Eric Schmidt",
-      "Google",
-      "SandboxAQ"
+      "opensource"
     ]
   },
   {
     "id": "027",
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-    "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
+    "title": "SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight",
+    "summary": "You finished the comparison shopping between Polygon and Alpha\nVantage, maybe even signed up for a free tier of each. Now you\nwant to pull fundamentals — revenue, earnings, free cash flow —\nfor your screener.\n\nDon't reach for the paid tier just yet. The SEC publishes every\nfiling from every public U",
+    "url": "https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi",
+    "date": "2026-05-19",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Anthropic",
-      "Stainless"
+      "investing",
+      "finance",
+      "beginners",
+      "productivity"
     ]
   },
   {
     "id": "028",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
+    "title": "现代化 UI 架构：Style 层如何系统性消除代码冗余",
+    "summary": "本文是 UI 架构系列的第三篇，建议先阅读 第一篇：三层颜色体系与系统化设计方案、第二篇：Drawable 层规范与工程实践 了解核心设计理念。\n\n\n\n\n\n\n  \n  \n  前言\n\n\n在多年的 Android 开发实践中，我发现一个普遍存在的问题：TextView 的属性定义存在大量重复。\n\n打开任何一个中等规模的 Android 项目，你会发现几乎每个布局文件中都有类似这样的代码：\n\n\n\n<TextView\n    android:layout_width=\"wrap_content\"\n    android:layout_height=\"wrap_content\"\n    android:",
+    "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb",
+    "date": "2026-05-19",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Elon Musk",
-      "greg brockman",
-      "Microsoft",
-      "OpenAI trial",
-      "sam altman"
+      "android",
+      "architecture",
+      "mobile",
+      "ui"
     ]
   },
   {
     "id": "029",
-    "title": "NYC Health + Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-    "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics — including fingerprints — in one of the largest recorded breaches of 2026.",
-    "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
+    "title": "现代化 UI 架构：Drawable 层规范与工程实践",
+    "summary": "本文是 UI 架构系列的第二篇，建议先阅读 第一篇：三层颜色体系与系统化设计方案 了解核心设计理念。\n\n\n\n\n\n\n  \n  \n  前言\n\n\n在上一篇文章中，我们建立了一套完整的颜色体系。但颜色只是 UI 的基础，真正让 UI 活起来的是形态和交互。\n\n一个按钮不仅需要颜色，还需要：\n\n\n圆角、描边、阴影\n按下、禁用、选中的状态变化\n渐变、透明等视觉效果\n\n\n这些都需要通过 Drawable 来实现。\n\n\n贯穿 UI 架构层的一条铁律：颜色、Drawable、Style 等所有资源定义，都不要和业务挂钩；命名表达的是 UI 职能，职能 ≠ 业务。一旦用「登录页按钮」「订单失败红框」这类业务语义去",
+    "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-drawable-ceng-gui-fan-yu-gong-cheng-shi-jian-16km",
+    "date": "2026-05-19",
+    "source": "Dev.to",
     "tags": [
-      "Security",
-      "cyberattack",
-      "cybersecurity",
-      "data breach",
-      "healthcare",
-      "new york city"
+      "android",
+      "architecture",
+      "mobile",
+      "ui"
     ]
   },
   {
     "id": "030",
-    "title": "Kin Health raises $9M to build an AI notetaker for patients",
-    "summary": "The app is similar to a meeting notetaker — you can record doctor visits, and it will return an AI summary of the meeting, with the next steps, all of which you share with family and friends if you want to.",
-    "url": "https://techcrunch.com/2026/05/18/kin-health-raises-9m-to-build-an-ai-notetaker-for-patients/",
-    "date": "2026-05-18",
-    "source": "TechCrunch",
+    "title": "When AI Meets Reality: Why “Hello World” Isn’t Enough for LLM Systems",
+    "summary": "Most AI tutorials stop at “Hello World.” You wire up a model, send a prompt, get a response, and feel like you’ve built something. But the moment you try to ship that into production, the ground shifts beneath your feet.\n\nI learned this the hard way. After years of building fraud detection and prici",
+    "url": "https://dev.to/printo_tom/when-ai-meets-reality-why-hello-world-isnt-enough-for-llm-systems-27ea",
+    "date": "2026-05-19",
+    "source": "Dev.to",
     "tags": [
-      "Apps",
-      "ai scribe",
-      "Health tech",
-      "Kin Health",
-      "maveron"
+      "ai",
+      "architecture",
+      "llm",
+      "mlops"
     ]
   }
 ]
