@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 92\n# Comments: 44",
-    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
+    "summary": "Article URL: https://github.com/vostride/id-agent\nComments URL: https://news.ycombinator.com/item?id=48191852\nPoints: 9\n# Comments: 9",
+    "url": "https://github.com/vostride/id-agent",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "PyTorch Landscape",
-    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 45\n# Comments: 8",
-    "url": "https://pytorch.landscape2.io",
+    "title": "Gaussian Splat of a Strawberry",
+    "summary": "Article URL: https://superspl.at/scene/84df8849\nComments URL: https://news.ycombinator.com/item?id=48191602\nPoints: 92\n# Comments: 41",
+    "url": "https://superspl.at/scene/84df8849",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -23,6 +23,28 @@
   },
   {
     "id": "003",
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 130\n# Comments: 69",
+    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "PyTorch Landscape",
+    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 50\n# Comments: 14",
+    "url": "https://pytorch.landscape2.io",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
     "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
     "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generato",
     "url": "https://github.com/harmont-dev/hsrs",
@@ -33,20 +55,9 @@
     ]
   },
   {
-    "id": "004",
-    "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
-    "summary": "Article URL: https://www.llmcap.io/\nComments URL: https://news.ycombinator.com/item?id=48188996\nPoints: 18\n# Comments: 15",
-    "url": "https://www.llmcap.io/",
-    "date": "2026-05-19",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
+    "id": "006",
     "title": "Peter Neumann has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 108\n# Comments: 6",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 161\n# Comments: 10",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -55,9 +66,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "007",
     "title": "Peter Salus has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 135\n# Comments: 11",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 147\n# Comments: 12",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -66,9 +77,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "008",
     "title": "The last six months in LLMs in five minutes",
-    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 440\n# Comments: 304",
+    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 503\n# Comments: 378",
     "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -77,7 +88,22 @@
     ]
   },
   {
-    "id": "008",
+    "id": "009",
+    "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+    "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
+    "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+    "date": "2026-05-19",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Venture",
+      "AI",
+      "a16z",
+      "legal tech"
+    ]
+  },
+  {
+    "id": "010",
     "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
     "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
     "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
@@ -93,7 +119,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "011",
     "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
     "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
     "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
@@ -110,7 +136,80 @@
     ]
   },
   {
-    "id": "010",
+    "id": "012",
+    "title": "Marshall brings ANC back to its smaller on-ear wireless headphones",
+    "summary": "Marshall's first headphones with active noise canceling were the Marshall Mid A.N.C. first launched in 2018. Its current lineup only offers noise canceling on its larger over-ear Monitor III A.N.C. headphones, but its new Milton A.N.C. bring the feature back to Marshall's smaller and lighter on-ear ",
+    "url": "https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Audio",
+      "Gadgets",
+      "Headphones",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "These are the robot vacuum-mops I recommend for every type of home",
+    "summary": "Inviting a robot vacuum-mop into your life is a big decision. An autonomous floor-cleaning machine roaming your home is equal parts glorious and intrusive. But if it does its job well, you may forgive it for eating your rug tassel, running over your Apple Watch, smearing strawberry jam across your c",
+    "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Buying Guides",
+      "Gadgets",
+      "Robot",
+      "Smart Home",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
+    "summary": "Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and \"make it more visible.\" It certainly hasn't taken long for Xbox fans to make their feedback very clear. The most upvoted feedback on Xbox Player Voice demands exclusive games for Xbox consoles, more",
+    "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Google I/O 2026: How to watch and what to expect",
+    "summary": "Google's annual developer conference has arrived. We're expecting plenty of updates to Gemini, Search, and every other product that Google has stuffed AI inside of. The keynote kicks off later today - here's what to expect. When Google I/O will happen and where you can watch it Google I/O starts at ",
+    "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Google",
+      "Google I/O 2026",
+      "Tech"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Gemini is in danger of going full Copilot",
+    "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's […]",
+    "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Google",
+      "Google I/O 2026",
+      "Tech"
+    ]
+  },
+  {
+    "id": "017",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
     "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
     "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
@@ -125,7 +224,108 @@
     ]
   },
   {
-    "id": "011",
+    "id": "018",
+    "title": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
+    "summary": "The Coyl uses a coil design for the power cable, keeping it neat and taut between the desk and the wall. And instead of relying on boring levers to adjust the height, it has a nifty rotary dial.",
+    "url": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Home Office",
+      "Desks",
+      "Furniture",
+      "design",
+      "home",
+      "Gaming",
+      "video games",
+      "home office",
+      "Shopping",
+      "Accessories and Peripherals",
+      "Game On"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
+    "summary": "Recreation.gov was supposed to make access to public lands more equitable and streamlined. Instead, it’s rife with bots and inequality, while a government contractor benefits.",
+    "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "environment",
+      "government",
+      "camping",
+      "hiking",
+      "USDA",
+      "Wreck.gov"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
+    "summary": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
+    "url": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "how-to",
+      "Android",
+      "phones",
+      "tips",
+      "ios",
+      "iPhone",
+      "Pixel",
+      "How To"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
+    "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
+    "url": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Video",
+      "Politics",
+      "Business",
+      "Big Interview",
+      "Uncanny Valley Podcast",
+      "podcasts",
+      "Q&A",
+      "Donald Trump",
+      "artificial intelligence",
+      "National Affairs",
+      "Silicon Valley",
+      "The Big Interview"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
+    "summary": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
+    "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Google",
+      "Google Gemini",
+      "Android",
+      "Apps",
+      "software",
+      "artificial intelligence",
+      "Google I/O"
+    ]
+  },
+  {
+    "id": "023",
     "title": "How to Make Apps and Websites Remove Your Nonconsensual Nudes",
     "summary": "Starting May 19, tech platforms in the US will have to start complying with the Take It Down Act. Here's how more than a dozen of the largest platforms are handling takedown demands for your nudes.",
     "url": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
@@ -155,36 +355,7 @@
     ]
   },
   {
-    "id": "012",
-    "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
-    "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
-    "url": "https://www.wired.com/story/tempo-meals-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "HBO Max Promo Code: 50% Off | May",
-    "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-    "url": "https://www.wired.com/story/max-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "014",
+    "id": "024",
     "title": "Norton Coupon Codes: Up to 58% Off",
     "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
     "url": "https://www.wired.com/story/norton-coupon-code/",
@@ -199,7 +370,36 @@
     ]
   },
   {
-    "id": "015",
+    "id": "025",
+    "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
+    "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
+    "url": "https://www.wired.com/story/tempo-meals-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "HBO Max Promo Code: 50% Off | May",
+    "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
+    "url": "https://www.wired.com/story/max-promo-code/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "027",
     "title": "Limited Time: TurboTax Full Service Coupons This May",
     "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
     "url": "https://www.wired.com/story/turbotax-coupon/",
@@ -214,7 +414,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "028",
     "title": "Booking.com Promo Codes: 20% Off | May 2026",
     "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
     "url": "https://www.wired.com/story/booking-com-promo-code/",
@@ -229,7 +429,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "029",
     "title": "Lenovo Coupon Codes and Deals in May 2026",
     "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
     "url": "https://www.wired.com/story/lenovo-coupon-code/",
@@ -244,7 +444,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "030",
     "title": "50% Off Home Depot Promo Codes | May 2026",
     "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
     "url": "https://www.wired.com/story/home-depot-promo-code/",
@@ -255,173 +455,6 @@
       "coupons",
       "Shopping",
       "Coupons"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "iRobot Promo Code: 15% Off",
-    "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
-    "url": "https://www.wired.com/story/irobot-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
-    "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
-    "url": "https://www.wired.com/story/barkbox-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "30% Off Tempur-Pedic Promo Codes | May 2026",
-    "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
-    "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "date": "2026-05-19",
-    "source": "MIT Tech Review",
-    "tags": [
-      "Artificial intelligence",
-      "App"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Comparing Traffic Data APIs: Road511 vs HERE vs TomTom vs INRIX",
-    "summary": "If you're building an app that needs traffic data, you have a few options. The big names — HERE, TomTom, INRIX — dominate the market. But they all sell the same thing: traffic flow from probe data (GPS traces from phones and connected vehicles).\n\nRoad511 is different. It aggregates infrastructure da",
-    "url": "https://dev.to/road511/comparing-traffic-data-apis-road511-vs-here-vs-tomtom-vs-inrix-55cg",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "api",
-      "webdev",
-      "architecture",
-      "go"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "What I Learned From Reading 50 Data Pipeline Postmortems",
-    "summary": "After analyzing 50 public postmortems from Uber, Netflix, Stripe, and others, four failure patterns emerge again and again. Most of them are preventable at the design stage.\n\n\n  \n  \n  The postmortem paradox\n\n\nEvery major tech company publishes them now. Stripe has a status page full of them. Netflix",
-    "url": "https://dev.to/andrew_tan_layline/what-i-learned-from-reading-50-data-pipeline-postmortems-1moi",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "dataengineering",
-      "kafka",
-      "softwareengineering",
-      "data"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "SEO Mistakes That Are Silently Killing Your Dev Projects",
-    "summary": "I spent 3 hours debugging why Google couldn't crawl my React app. Lighthouse scores were green. The app loaded fine in the browser. But Googlebot was seeing a blank <div id=\"root\"></div> and walking away confused. The fix was 4 lines of meta tags and a prerender config I'd been skipping for months.\n",
-    "url": "https://dev.to/mitudas/seo-mistakes-that-are-silently-killing-your-dev-projects-5bbm",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "seo",
-      "developer",
-      "webdev"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "I Needed a Faster Way to Make VTT Tokens for DnD, So I Built a Local-First Token Maker",
-    "summary": "I built a simple token maker for my DnD and VTT workflow\nTags: dnd, webdev, gamedev, tooling\nMaking tokens for a tabletop campaign should not take that long.\nBut if you run DnD games, you probably know the small routine:\n• find character art\n• open an image editor\n• crop the face or body\n• add a bor",
-    "url": "https://dev.to/sir_97b7841232683cb925c9/i-needed-a-faster-way-to-make-vtt-tokens-for-dnd-so-i-built-a-local-first-token-maker-3b7h",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "dnd",
-      "tooling",
-      "gamedev",
-      "webdev"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Fine-Tuning Llama 3.2 3B on Medical QA: Week 1 Setup and Baseline Inference",
-    "summary": "The Problem With General-Purpose LLMs in Healthcare\n\n\nAsk a general-purpose LLM about the early symptoms of type 2 diabetes and it might tell you:\n\n\"When your body produces more insulin, it can cause your body to hold onto more water, leading to increased thirst.\"\n\nThat is wrong. Increased thirst in",
-    "url": "https://dev.to/sarko07/fine-tuning-llama-32-3b-on-medical-qa-week-1-setup-and-baseline-inference-3k25",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "learning",
-      "llm",
-      "machinelearning"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "5 Production Stacks for Live Data Ingestion at Scale (Without Getting Blocked)",
-    "summary": "TL;DR: Most teams over-engineer data ingestion. They use Kafka before they’ve hit their first rate limit, or Playwright before they’ve checked the network tab. This guide shows five production-tested stacks for live data ingestion from minimal fetch + cron up to LLM agents calling Model Context Prot",
-    "url": "https://dev.to/prithwish_nath/5-production-stacks-for-live-data-ingestion-at-scale-without-getting-blocked-25k9",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "programming",
-      "javascript",
-      "webdev"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Deepfake Fraud Just Tripled to $1.1B — And You're Looking for the Wrong Thing",
-    "summary": "investigating the $1.1B surge in synthetic media fraud\n\nThe technical landscape of digital evidence just shifted under our feet. Deepfake-related fraud losses in the U.S. didn't just grow last year; they tripled to $1.1 billion. For developers working in computer vision, biometrics, or OSINT tooling",
-    "url": "https://dev.to/caracomp/deepfake-fraud-just-tripled-to-11b-and-youre-looking-for-the-wrong-thing-19ig",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "machinelearning",
-      "computervision",
-      "biometrics"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Past Tense: A DragonRuby Sound Installation Built on libpd",
-    "summary": "Two to four tablets sit on plinths in a gallery. Each one is listening: a contact mic on the floor, an electromagnetic pickup near the wall, a shortwave radio scanning. A black-hole visualization fills the screen, slowly accreting whatever the room is making. Visitors swipe a circular slider and rel",
-    "url": "https://dev.to/julianrubisch/past-tense-a-dragonruby-sound-installation-built-on-libpd-28lf",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "gamedev",
-      "ruby",
-      "showdev"
     ]
   }
 ]
