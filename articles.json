@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Show HN: Id-agent – Token efficient UUID alternative for AI agents",
-    "summary": "Article URL: https://github.com/vostride/id-agent\nComments URL: https://news.ycombinator.com/item?id=48191852\nPoints: 9\n# Comments: 9",
-    "url": "https://github.com/vostride/id-agent",
+    "title": "Anthropic Is Preparing for IPO and We Should Be Worried",
+    "summary": "Article URL: https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/\nComments URL: https://news.ycombinator.com/item?id=48193111\nPoints: 6\n# Comments: 0",
+    "url": "https://www.vincentschmalbach.com/anthropic-ipo-developers-should-be-worried-v2/",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Gaussian Splat of a Strawberry",
-    "summary": "Article URL: https://superspl.at/scene/84df8849\nComments URL: https://news.ycombinator.com/item?id=48191602\nPoints: 92\n# Comments: 41",
-    "url": "https://superspl.at/scene/84df8849",
+    "title": "OpenBSD 7.9 Released",
+    "summary": "Article URL: https://www.openbsd.org/79.html\nComments URL: https://news.ycombinator.com/item?id=48192882\nPoints: 33\n# Comments: 3",
+    "url": "https://www.openbsd.org/79.html",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 130\n# Comments: 69",
-    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "title": "Colonization of Venus",
+    "summary": "Article URL: https://en.wikipedia.org/wiki/Colonization_of_Venus\nComments URL: https://news.ycombinator.com/item?id=48192410\nPoints: 35\n# Comments: 19",
+    "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "PyTorch Landscape",
-    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 50\n# Comments: 14",
-    "url": "https://pytorch.landscape2.io",
+    "title": "New accessibility features powered by Apple Intelligence",
+    "summary": "Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48192224\nPoints: 150\n# Comments: 63",
+    "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
     "date": "2026-05-19",
     "source": "Hacker News",
     "tags": [
@@ -45,6 +45,39 @@
   },
   {
     "id": "005",
+    "title": "Gaussian Splat of a Strawberry",
+    "summary": "Article URL: https://superspl.at/scene/84df8849\nComments URL: https://news.ycombinator.com/item?id=48191602\nPoints: 211\n# Comments: 76",
+    "url": "https://superspl.at/scene/84df8849",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 179\n# Comments: 104",
+    "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "PyTorch Landscape",
+    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 61\n# Comments: 17",
+    "url": "https://pytorch.landscape2.io",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
     "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
     "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generato",
     "url": "https://github.com/harmont-dev/hsrs",
@@ -55,9 +88,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "009",
     "title": "Peter Neumann has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 161\n# Comments: 10",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 209\n# Comments: 18",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -66,9 +99,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "010",
     "title": "Peter Salus has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 147\n# Comments: 12",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 154\n# Comments: 12",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -77,18 +110,7 @@
     ]
   },
   {
-    "id": "008",
-    "title": "The last six months in LLMs in five minutes",
-    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 503\n# Comments: 378",
-    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-    "date": "2026-05-19",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
+    "id": "011",
     "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
     "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
     "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
@@ -103,7 +125,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "012",
     "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
     "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
     "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
@@ -119,7 +141,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "013",
     "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
     "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
     "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
@@ -136,7 +158,100 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
+    "title": "In addition to space stations, Vast says it will now build high-power satellites",
+    "summary": "\"Every single successful space company is diversified in its products.\"",
+    "url": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
+    "date": "2026-05-19",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "space",
+      "vast satellites",
+      "vast space"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
+    "summary": "Iran's claim over subsea chokepoint pushes US tech companies to overland fiber.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
+    "date": "2026-05-19",
+    "source": "Ars Technica",
+    "tags": [
+      "Policy",
+      "Tech",
+      "big tech",
+      "fiber optic cable",
+      "Iran",
+      "Strait of Hormuz",
+      "subsea cables",
+      "undersea cable cuts",
+      "undersea cables",
+      "USA-Iran War"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Anker fixes the two worst things about power stations",
+    "summary": "Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy. Impressively, it achieves this at an incredibly low introductory price that works out to just $0.29 per Wh. Unlik",
+    "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Energy",
+      "Science",
+      "Tech",
+      "Work anywhere"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Nintendo keeps finding new ways to reinvent platformers",
+    "summary": "In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss. But even though Yoshi and the Mysterious Book uses familiar gameplay - you traverse the world by jumping, climbing, and, uh,",
+    "url": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Entertainment",
+      "Games Review",
+      "Gaming",
+      "Nintendo"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
+    "summary": "Almost exactly two years ago, Microsoft introduced Arm-powered versions of the Surface Pro 11 and Surface Laptop 7, with Intel models not ready until more than six months later. This time around Microsoft is refreshing its Surface Pro and Surface Laptop models with Intel's latest Core Ultra Series 3",
+    "url": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Laptops",
+      "Microsoft",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "The Mandalorian and Grogu should have been a season of TV",
+    "summary": "When The Mandalorian first debuted on Disney Plus, it was a refreshing reminder of how fascinating Star Wars stories can be when they aren't focused on the same handful of well-established characters. Especially in its first season, the series felt like a sign that Disney was shifting gears after di",
+    "url": "https://www.theverge.com/entertainment/933409/the-mandalorian-and-grogu-review",
+    "date": "2026-05-19",
+    "source": "The Verge",
+    "tags": [
+      "Disney",
+      "Entertainment",
+      "Film",
+      "Movie Review",
+      "Star Wars",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Marshall brings ANC back to its smaller on-ear wireless headphones",
     "summary": "Marshall's first headphones with active noise canceling were the Marshall Mid A.N.C. first launched in 2018. Its current lineup only offers noise canceling on its larger over-ear Monitor III A.N.C. headphones, but its new Milton A.N.C. bring the feature back to Marshall's smaller and lighter on-ear ",
     "url": "https://www.theverge.com/tech/930787/marshall-milton-anc-active-noise-canceling-wireless-headphones",
@@ -151,7 +266,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "021",
     "title": "These are the robot vacuum-mops I recommend for every type of home",
     "summary": "Inviting a robot vacuum-mop into your life is a big decision. An autonomous floor-cleaning machine roaming your home is equal parts glorious and intrusive. But if it does its job well, you may forgive it for eating your rug tassel, running over your Apple Watch, smearing strawberry jam across your c",
     "url": "https://www.theverge.com/gadgets/932425/best-robot-vacuum-mop-reviews-buying-guide",
@@ -167,7 +282,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "022",
     "title": "Xbox fans want exclusives, more backward compatibility, and free online multiplayer",
     "summary": "Microsoft launched a new Xbox Player Voice portal yesterday, aiming to collect feedback from fans and \"make it more visible.\" It certainly hasn't taken long for Xbox fans to make their feedback very clear. The most upvoted feedback on Xbox Player Voice demands exclusive games for Xbox consoles, more",
     "url": "https://www.theverge.com/games/933328/xbox-fan-feedback-exclusives-backward-compatibility-online-multiplayer",
@@ -182,7 +297,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "023",
     "title": "Google I/O 2026: How to watch and what to expect",
     "summary": "Google's annual developer conference has arrived. We're expecting plenty of updates to Gemini, Search, and every other product that Google has stuffed AI inside of. The keynote kicks off later today - here's what to expect. When Google I/O will happen and where you can watch it Google I/O starts at ",
     "url": "https://www.theverge.com/tech/932939/google-io-2026-how-to-watch",
@@ -195,7 +310,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "024",
     "title": "Gemini is in danger of going full Copilot",
     "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's […]",
     "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
@@ -209,7 +324,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "025",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
     "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
     "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
@@ -224,7 +339,27 @@
     ]
   },
   {
-    "id": "018",
+    "id": "026",
+    "title": "The Best Action Cameras for All Your Craziest Adventures (2026)",
+    "summary": "Gearing up to shred the slopes or dive into the seas? These photography tools are made for danger.",
+    "url": "https://www.wired.com/gallery/best-action-cameras/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Cameras",
+      "Shopping",
+      "buying guides",
+      "camera",
+      "action cameras",
+      "cameras",
+      "Photography",
+      "Buying Guide"
+    ]
+  },
+  {
+    "id": "027",
     "title": "The Herman Miller Coyl Standing Desk Is Built Just for Gamers",
     "summary": "The Coyl uses a coil design for the power cable, keeping it neat and taut between the desk and the wall. And instead of relying on boring levers to adjust the height, it has a nifty rotary dial.",
     "url": "https://www.wired.com/story/exclusive-herman-miller-coyl-standing-desk-for-gamers/",
@@ -247,7 +382,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "028",
     "title": "The US Built a Site to Ensure Fair Access to Public Lands. Then Everything Went Wrong",
     "summary": "Recreation.gov was supposed to make access to public lands more equitable and streamlined. Instead, it’s rife with bots and inequality, while a government contractor benefits.",
     "url": "https://www.wired.com/story/the-us-built-a-site-to-ensure-fair-access-to-public-lands-then-everything-went-wrong/",
@@ -264,27 +399,7 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
-    "summary": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
-    "url": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "how-to",
-      "Android",
-      "phones",
-      "tips",
-      "ios",
-      "iPhone",
-      "Pixel",
-      "How To"
-    ]
-  },
-  {
-    "id": "021",
+    "id": "029",
     "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
     "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
     "url": "https://www.wired.com/story/the-big-interview-podcast-tom-steyer/",
@@ -306,155 +421,23 @@
     ]
   },
   {
-    "id": "022",
-    "title": "Google I/O 2026 Live Blog: All the Gemini and Smart Glasses Updates as They Happen",
-    "summary": "Follow our live coverage of Google’s annual developer keynote, where the company will announce updates to its Gemini suite of AI tools and more details about Android XR smart glasses.",
-    "url": "https://www.wired.com/live/google-io-2026-live-blog-gemini-android-xr-search/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Google",
-      "Google Gemini",
-      "Android",
-      "Apps",
-      "software",
-      "artificial intelligence",
-      "Google I/O"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "How to Make Apps and Websites Remove Your Nonconsensual Nudes",
-    "summary": "Starting May 19, tech platforms in the US will have to start complying with the Take It Down Act. Here's how more than a dozen of the largest platforms are handling takedown demands for your nudes.",
-    "url": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Apps",
-      "privacy",
-      "Google",
-      "reddit",
-      "YouTube",
-      "Roblox",
-      "dating apps",
-      "Deepfakes",
-      "xAI",
-      "X",
-      "Meta",
-      "Microsoft",
-      "Instagram",
-      "Facebook",
-      "Threads",
-      "LinkedIn",
-      "Explicit Demands"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Norton Coupon Codes: Up to 58% Off",
-    "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
-    "url": "https://www.wired.com/story/norton-coupon-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
-    "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
-    "url": "https://www.wired.com/story/tempo-meals-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "HBO Max Promo Code: 50% Off | May",
-    "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
-    "url": "https://www.wired.com/story/max-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Limited Time: TurboTax Full Service Coupons This May",
-    "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-    "url": "https://www.wired.com/story/turbotax-coupon/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Booking.com Promo Codes: 20% Off | May 2026",
-    "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-    "url": "https://www.wired.com/story/booking-com-promo-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Lenovo Coupon Codes and Deals in May 2026",
-    "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-    "url": "https://www.wired.com/story/lenovo-coupon-code/",
-    "date": "2026-05-19",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
     "id": "030",
-    "title": "50% Off Home Depot Promo Codes | May 2026",
-    "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
-    "url": "https://www.wired.com/story/home-depot-promo-code/",
+    "title": "Set Up Your Phone’s Always-On Display So You’re Unlocking It Less Often",
+    "summary": "Break the pattern of unlocking your phone for one thing and then getting sucked into something else. Set up your lock screen to show all the information you need at a glance.",
+    "url": "https://www.wired.com/story/set-up-always-on-display-iphone-android/",
     "date": "2026-05-19",
     "source": "Wired",
     "tags": [
       "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Gear / How To and Advice",
+      "how-to",
+      "Android",
+      "phones",
+      "tips",
+      "ios",
+      "iPhone",
+      "Pixel",
+      "How To"
     ]
   }
 ]
