@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "summary": "Article URL: https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html\nComments URL: https://news.ycombinator.com/item?id=48194614\nPoints: 3\n# Comments: 0",
+      "url": "https://io.google/2026/",
+      "title": "Google I/O",
+      "summary": "Article URL: https://io.google/2026/\nComments URL: https://news.ycombinator.com/item?id=48196020\nPoints: 75\n# Comments: 52",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://twitter.com/karpathy/status/2056753169888334312",
-      "title": "I’ve joined Anthropic",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2056753169888334312\nComments URL: https://news.ycombinator.com/item?id=48194352\nPoints: 244\n# Comments: 65",
+      "url": "https://www.youtube.com/watch?v=wYSncx9zLIU",
+      "title": "Google IO 26 Keynote",
+      "summary": "Article URL: https://www.youtube.com/watch?v=wYSncx9zLIU\nComments URL: https://news.ycombinator.com/item?id=48195914\nPoints: 18\n# Comments: 0",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
-      "title": "Iran demands Big Tech pay fees for undersea Internet cables in Strait of Hormuz",
-      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/\nComments URL: https://news.ycombinator.com/item?id=48193578\nPoints: 32\n# Comments: 22",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "summary": "Article URL: https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures\nComments URL: https://news.ycombinator.com/item?id=48195706\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://setpose.com/",
-      "title": "Show HN: I made a 3D pose maker for artists",
-      "summary": "Article URL: https://setpose.com/\nComments URL: https://news.ycombinator.com/item?id=48193474\nPoints: 35\n# Comments: 15",
+      "url": "https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/",
+      "title": "Congress Wants You to Pay $130 a Year Just to Drive an Electric Car",
+      "summary": "Article URL: https://insideevs.com/news/796222/ev-fee-gas-tax-house-bill-2026/\nComments URL: https://news.ycombinator.com/item?id=48195237\nPoints: 15\n# Comments: 25",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.openbsd.org/79.html",
-      "title": "OpenBSD 7.9",
-      "summary": "Article URL: https://www.openbsd.org/79.html\nComments URL: https://news.ycombinator.com/item?id=48192882\nPoints: 206\n# Comments: 106",
+      "url": "https://superlog.sh/",
+      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "summary": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog (https://superlog.sh). We're building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper logging and an agent that investigates errors and opens PRs.Super short demo: https://www",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://en.wikipedia.org/wiki/Colonization_of_Venus",
-      "title": "Colonization of Venus",
-      "summary": "Article URL: https://en.wikipedia.org/wiki/Colonization_of_Venus\nComments URL: https://news.ycombinator.com/item?id=48192410\nPoints: 81\n# Comments: 46",
+      "url": "https://virtualosmuseum.org/",
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "summary": "Article URL: https://virtualosmuseum.org/\nComments URL: https://news.ycombinator.com/item?id=48195009\nPoints: 213\n# Comments: 36",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330",
-      "title": "U.S. Cybersecurity Agency Leaves Its Digital Keys Out in Public on GitHub",
-      "summary": "Article URL: https://gizmodo.com/the-worst-leak-that-ive-witnessed-u-s-cybersecurity-agency-leaves-its-digital-keys-out-in-public-on-github-2000760330\nComments URL: https://news.ycombinator.com/item?id=48192397\nPoints: 65\n# Comments: 12",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "summary": "Article URL: https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html\nComments URL: https://news.ycombinator.com/item?id=48194614\nPoints: 48\n# Comments: 10",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-      "title": "New accessibility features powered by Apple Intelligence",
-      "summary": "Article URL: https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/\nComments URL: https://news.ycombinator.com/item?id=48192224\nPoints: 285\n# Comments: 148",
+      "url": "https://twitter.com/karpathy/status/2056753169888334312",
+      "title": "I’ve joined Anthropic",
+      "summary": "https://xcancel.com/karpathy/status/2056753169888334312\n\nComments URL: https://news.ycombinator.com/item?id=48194352\nPoints: 659\n# Comments: 255",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://superspl.at/scene/84df8849",
-      "title": "Gaussian Splat of a Strawberry",
-      "summary": "Article URL: https://superspl.at/scene/84df8849\nComments URL: https://news.ycombinator.com/item?id=48191602\nPoints: 297\n# Comments: 125",
+      "url": "https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk",
+      "title": "Why are most humans right-handed? The answer may lie in how we learned to walk",
+      "summary": "Article URL: https://www.ox.ac.uk/news/2026-05-15-why-is-almost-everyone-right-handed-the-answer-may-lie-in-how-we-learned-to-walk\nComments URL: https://news.ycombinator.com/item?id=48194098\nPoints: 35\n# Comments: 38",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on GitHub",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/\nComments URL: https://news.ycombinator.com/item?id=48190454\nPoints: 139\n# Comments: 35",
+      "url": "https://setpose.com/",
+      "title": "Show HN: I made a 3D pose maker for artists",
+      "summary": "Article URL: https://setpose.com/\nComments URL: https://news.ycombinator.com/item?id=48193474\nPoints: 49\n# Comments: 21",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -117,9 +117,255 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "title": "Google’s Genie world model can now simulate real streets with Street View",
+      "summary": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather changes, and rare scenarios.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Robotics",
+        "genie 3",
+        "Google",
+        "Google I/O",
+        "google io 2026",
+        "Google Maps",
+        "Street View"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building software from scratch.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "gemini",
+        "gemini flash 3.5",
+        "Google",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "title": "How to use Google’s new information agents",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Google",
+        "Google Search",
+        "AI agents",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "title": "Google Search as you know it is over",
+      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce traffic to publishers across the web.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "TC",
+        "AI",
+        "Apps",
+        "Google",
+        "Google Search",
+        "AI search",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "gmail",
+        "Google",
+        "Google Workspace",
+        "gemini ai",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "016",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "Android",
+        "Google",
+        "coding",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "017",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "title": "Google just declared itself a contender in AI design",
+      "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google I/O",
+        "google pics",
+        "google i/o 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "018",
+      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "summary": "The updates signal Google’s push to turn its Gemini Gemini app into an all-purpose AI hub rather than a standalone chatbot.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "Google I/O",
+        "gemini",
+        "google i/o 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "019",
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build Android apps faster from the command line.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "TC",
+        "AI",
+        "Apps",
+        "Android",
+        "Google",
+        "coding",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "020",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
+      "title": "Google’s new Universal Cart wants to follow you across the entire internet",
+      "summary": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "Commerce",
+        "Google",
+        "Google I/O",
+        "google i/o 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "021",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "summary": "At the I/O developer conference, Google announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Google I/O",
+        "gemini",
+        "google io 2026",
+        "Gemini Spark",
+        "agentic AI assistant"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "022",
+      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "summary": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "Google",
+        "voice AI",
+        "google docs",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "023",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the  AI Pro plan alongside Antigravity 2.0 launch.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "ai coding",
+        "Google",
+        "Google Antigravity",
+        "google io 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "024",
+      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "Google",
+        "Veo",
+        "google io 2026",
+        "google gemini omni",
+        "gemini omni flash"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "025",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "date_published": "2026-05-19",
+      "tags": [
+        "AI",
+        "c2pa",
+        "deepfake",
+        "Google",
+        "OpenAI",
+        "provenance",
+        "synthid"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
       "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-      "summary": "Andrej Karpathy has joined Anthropic to work on pre-training. He previously co-founded and worked at OpenAI and led computer vision and AI at Tesla.",
+      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive phases of building a frontier model.",
       "date_published": "2026-05-19",
       "tags": [
         "AI",
@@ -131,7 +377,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/19/the-minimalist-light-phone-teams-up-with-andrew-yangs-noble-mobile-which-pays-you-to-stop-doomscrolling/",
       "title": "The minimalist Light Phone teams up with Andrew Yang’s Noble Mobile, which pays you to stop doomscrolling",
       "summary": "\"The Light Phone is designed to be used as little as possible,\" founder Joe Hollier told TechCrunch.",
@@ -148,7 +394,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/19/hackers-have-compromised-dozens-of-popular-open-source-packages-in-an-ongoing-supply-chain-attack/",
       "title": "Hackers have compromised dozens of popular open source packages in an ongoing supply chain attack",
       "summary": "The attacks are part of a wider campaign known as Mini Shai-Hulud, which has already compromised several open source projects and, in turn, developers and companies that use them.",
@@ -164,7 +410,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/19/us-cyber-agency-cisa-exposed-reams-of-passwords-and-cloud-keys-to-the-open-web/",
       "title": "US cyber agency CISA exposed reams of passwords and cloud keys to the open web",
       "summary": "The federal cybersecurity agency left plaintext passwords in a spreadsheet uploaded to a public GitHub repository, per a report by independent journalist Brian Krebs.",
@@ -180,7 +426,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/19/apple-announces-apple-intelligence-powered-accessibility-feature-updates/",
       "title": "Apple announces Apple Intelligence powered accessibility feature updates",
       "summary": "Apple is introducing a feature to let Vision Pro control a compatible wheelchair with their eyes",
@@ -192,229 +438,6 @@
         "Apple Intelligence"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "016",
-      "url": "https://techcrunch.com/2026/05/19/survivor-stars-kyle-fraser-and-kamilla-karthigesu-introduce-a-goal-tracking-app-paprclip/",
-      "title": "‘Survivor’ stars Kyle Fraser and Kamilla Karthigesu introduce  a goal-tracking app, Paprclip",
-      "summary": "A new app from Survivor 48 winner Kyle Fraser and castmate Kamilla Karthigesu aims to turn goal tracking into a social experience, pairing users for accountability, daily challenges, and shared progress clips.",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Startups",
-        "Apps",
-        "Survivor",
-        "social apps",
-        "kyle fraser"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "017",
-      "url": "https://techcrunch.com/2026/05/19/gamified-social-media-network-status-announces-17m-funding-to-help-usher-in-new-era-of-social-networking/",
-      "title": "Forget the feed: Status AI raises $17M to turn social media into interactive entertainment",
-      "summary": "Interactive social media site Status  announced Tuesday $17 million in combined seed and Series A funding, with investors including General Catalyst, YC, LightShed Ventures, and Abstract.",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Gaming",
-        "Social",
-        "Startups",
-        "Venture",
-        "games",
-        "social media"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "018",
-      "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
-      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
-      "summary": "Stilta announced Tuesday a $10 million seed round led by Andreessen Horowitz. Other investors in the round include YC and operators from companies like OpenAI, Legora, and Lovable.",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Startups",
-        "Venture",
-        "AI",
-        "a16z",
-        "legal tech"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
-      "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
-      "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Climate",
-        "data centers",
-        "renewable energy",
-        "Solar Power",
-        "lithium ion batteries",
-        "fossil fuels"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
-      "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
-      "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Media & Entertainment",
-        "TC",
-        "Venture",
-        "How To Rule the World",
-        "stanford",
-        "Theo Baker",
-        "venture capital"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
-      "title": "Electrical utility megamerger is all about the data centers",
-      "summary": "NextEra’s blockbuster deal with Dominion likely means higher bills for consumers.",
-      "date_published": "2026-05-19",
-      "tags": [
-        "AI",
-        "Policy",
-        "data centers",
-        "electricity",
-        "renewables",
-        "syndication",
-        "utlities"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "022",
-      "url": "https://arstechnica.com/space/2026/05/vast-space-seeks-to-diversify-by-building-satellites-as-well-as-space-stations/",
-      "title": "In addition to space stations, Vast says it will now build high-power satellites",
-      "summary": "\"Every single successful space company is diversified in its products.\"",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Space",
-        "space",
-        "vast satellites",
-        "vast space"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "023",
-      "url": "https://www.theverge.com/tech/933168/sony-1000x-collexion-review",
-      "title": "Sony’s 1000X The Collexion are a luxurious and expensive celebration of its iconic headphones",
-      "summary": "Ten years ago Sony introduced the MDR-1000X headphones. They combined noise canceling, good sound, design, and comfort in a way that we hadn't quite seen before in a set of wireless headphones. (At the time, the Bose QC35 were the closest competitor, but I wasn't a huge fan of their sound tuning.) T",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Headphone Reviews",
-        "Reviews",
-        "Sony",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "024",
-      "url": "https://www.theverge.com/tech/932454/google-io-2026-news-announcements",
-      "title": "Google I/O 2026: All the news and announcements",
-      "summary": "Google I/O 2026 kicks off today, with the event’s keynote presentation slated for 10AM PT / 1PM ET on May 19th.  Gemini is expected to be front-and-center once again at this year’s developer conference, with Google potentially introducing new versions of AI models and more agentic AI features. Googl",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Google",
-        "Google I/O 2026",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.theverge.com/tech/933653/ai-graduation-commencement-glendale-community-college",
-      "title": "An AI announcer mispronounced and skipped names during a graduation",
-      "summary": "The use of AI-powered tools to announce students as they walk on stage during graduation and commencement ceremonies has grown in popularity over the past few years, but it's not always succeeding at the one job it's there for. Many schools have switched to these systems as a way to ensure names are",
-      "date_published": "2026-05-19",
-      "tags": [
-        "AI",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "026",
-      "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
-      "title": "America’s dangerous, messy deepfakes crackdown is here",
-      "summary": "A law requiring social networks to quickly remove sexual deepfakes and other nonconsensual imagery is now fully in force. But experts warn the policy could do little to help victims - and at worst could facilitate censorship online. Last May, President Donald Trump signed the Take It Down Act, a law",
-      "date_published": "2026-05-19",
-      "tags": [
-        "AI",
-        "Policy",
-        "Politics",
-        "Speech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "027",
-      "url": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
-      "title": "Apple’s accessibility features add more AI-powered processing",
-      "summary": "Apple's annual update about accessibility features on its platforms has new additions for the iPhone, Mac, and especially Vision Pro, with a focus on how on-device AI processing is being used in features like VoiceOver, Magnifier, Voice Control, and Accessibility Reader. One addition that jumped out",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Apple",
-        "iPad",
-        "iPhone",
-        "macOS",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "028",
-      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
-      "title": "Anker fixes the two worst things about power stations",
-      "summary": "Anker's Solix S2000 solves two major pain points with power stations: idle power draw that can leave a battery unexpectedly dead, and the large footprint required to hold so much energy. Impressively, it achieves this at an incredibly low introductory price that works out to just $0.29 per Wh. Unlik",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Energy",
-        "Science",
-        "Tech",
-        "Work anywhere"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "029",
-      "url": "https://www.theverge.com/entertainment/931663/yoshi-and-the-mysterious-book-review-nintendo-switch-2",
-      "title": "Nintendo keeps finding new ways to reinvent platformers",
-      "summary": "In most platforming games, you're fighting against the world around you. You're trying to beat a level, nail a seemingly impossible series of jumps, or defeat a powerful boss. But even though Yoshi and the Mysterious Book uses familiar gameplay - you traverse the world by jumping, climbing, and, uh,",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Entertainment",
-        "Games Review",
-        "Gaming",
-        "Nintendo"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "030",
-      "url": "https://www.theverge.com/news/933269/microsoft-surface-pro-12-surface-laptop-8-specs-pricing-release-date",
-      "title": "Microsoft launches Surface Pro 12 and Surface Laptop 8 with Intel chips",
-      "summary": "Almost exactly two years ago, Microsoft introduced Arm-powered versions of the Surface Pro 11 and Surface Laptop 7, with Intel models not ready until more than six months later. This time around Microsoft is refreshing its Surface Pro and Surface Laptop models with Intel's latest Core Ultra Series 3",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Gadgets",
-        "Laptops",
-        "Microsoft",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
     }
   ]
 }
