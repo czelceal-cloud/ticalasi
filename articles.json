@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-    "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 54\n# Comments: 23",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
+    "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
+    "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 13\n# Comments: 10",
+    "url": "https://arxiv.org/abs/2601.10160",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 113\n# Comments: 42",
-    "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
+    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
+    "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 101\n# Comments: 42",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 69\n# Comments: 10",
-    "url": "https://hyperpolyglot.org/lisp",
+    "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
+    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 170\n# Comments: 68",
+    "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Show HN: We missed Winamp, so we built an audio player for macOS",
-    "summary": "Article URL: https://www.advanced-research.net/180db\nComments URL: https://news.ycombinator.com/item?id=48184214\nPoints: 37\n# Comments: 29",
-    "url": "https://www.advanced-research.net/180db",
+    "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 115\n# Comments: 22",
+    "url": "https://hyperpolyglot.org/lisp",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
@@ -45,8 +45,8 @@
   },
   {
     "id": "005",
-    "title": "loopmaster – Livecoding Music IDE",
-    "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 23\n# Comments: 7",
+    "title": "Loopmaster – Livecoding Music IDE",
+    "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 43\n# Comments: 14",
     "url": "https://loopmaster.xyz/",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -57,7 +57,7 @@
   {
     "id": "006",
     "title": "Agora-1: The Multi-Agent World Model",
-    "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 47\n# Comments: 10",
+    "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 67\n# Comments: 15",
     "url": "https://odyssey.ml/introducing-agora-1",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -68,7 +68,7 @@
   {
     "id": "007",
     "title": "Haiku OS runs on M1 Macs now",
-    "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 218\n# Comments: 74",
+    "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 252\n# Comments: 84",
     "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -90,7 +90,7 @@
   {
     "id": "009",
     "title": "Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint",
-    "summary": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 51\n# Comments: 11",
+    "summary": "Article URL: https://modal.com/blog/truly-serverless-gpus\nComments URL: https://news.ycombinator.com/item?id=48183038\nPoints: 65\n# Comments: 15",
     "url": "https://modal.com/blog/truly-serverless-gpus",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -100,17 +100,6 @@
   },
   {
     "id": "010",
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/\nComments URL: https://news.ycombinator.com/item?id=48182754\nPoints: 595\n# Comments: 299",
-    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
     "title": "OSHA probing worker death at SpaceX’s Starbase site",
     "summary": "The death is the latest worker safety issue at the Starbase facility, which has a higher injury rate than all other SpaceX sites.",
     "url": "https://techcrunch.com/2026/05/18/osha-probing-worker-death-at-spacexs-starbase-site/",
@@ -125,9 +114,9 @@
     ]
   },
   {
-    "id": "012",
+    "id": "011",
     "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that the bigger obstacle is access, and that Claude solves it.",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
     "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "date": "2026-05-18",
     "source": "TechCrunch",
@@ -141,7 +130,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "012",
     "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
     "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
     "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
@@ -151,6 +140,22 @@
       "AI",
       "Anthropic",
       "Stainless"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+    "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+    "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "date": "2026-05-18",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "greg brockman",
+      "Microsoft",
+      "OpenAI trial",
+      "sam altman"
     ]
   },
   {
