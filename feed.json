@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://pytorch.landscape2.io",
-      "title": "PyTorch Landscape",
-      "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 13\n# Comments: 0",
+      "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 25\n# Comments: 2",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
-      "title": "Codex-maxxing",
-      "summary": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/\nComments URL: https://news.ycombinator.com/item?id=48189156\nPoints: 22\n# Comments: 10",
+      "url": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
+      "title": "Mug Shots: A Small Town Noir (2014)",
+      "summary": "Article URL: https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir\nComments URL: https://news.ycombinator.com/item?id=48189233\nPoints: 5\n# Comments: 0",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -29,6 +29,28 @@
     },
     {
       "id": "003",
+      "url": "https://pytorch.landscape2.io",
+      "title": "PyTorch Landscape",
+      "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 27\n# Comments: 3",
+      "date_published": "2026-05-19",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
+      "title": "Codex-maxxing",
+      "summary": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/\nComments URL: https://news.ycombinator.com/item?id=48189156\nPoints: 63\n# Comments: 43",
+      "date_published": "2026-05-19",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
       "url": "https://github.com/harmont-dev/hsrs",
       "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
       "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generato",
@@ -39,32 +61,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "004",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
-      "title": "Peter Neumann has died",
-      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 10\n# Comments: 1",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
-      "url": "https://apps.apple.com/us/app/sieve-secret-scanner/id6767409365?mt=12",
-      "title": "Sieve – scans Cursor/Claude chat history for leaked API keys",
-      "summary": "Background: I was using Cursor to set up an OpenAI integration.The agent read my .env file, added the key to the config, and everything worked. What I didn't think about: that key was now sitting in a plaintext SQLite database at ~/Library/ApplicationSupport/Cursor/User/workspaceStorage/..AI coding ",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "006",
-      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
-      "title": "Peter Salus has died",
-      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 100\n# Comments: 8",
+      "url": "https://www.llmcap.io/",
+      "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
+      "summary": "Article URL: https://www.llmcap.io/\nComments URL: https://news.ycombinator.com/item?id=48188996\nPoints: 7\n# Comments: 5",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
-      "title": "War game exposed U.S. vulnerability to low-tech warfare",
-      "summary": "Article URL: https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare\nComments URL: https://news.ycombinator.com/item?id=48188506\nPoints: 40\n# Comments: 39",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
+      "title": "Peter Neumann has died",
+      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 54\n# Comments: 2",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-      "title": "The last six months in LLMs in five minutes",
-      "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 180\n# Comments: 92",
+      "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+      "title": "Peter Salus has died",
+      "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 117\n# Comments: 9",
       "date_published": "2026-05-19",
       "tags": [
         "Hacker News"
@@ -95,6 +95,17 @@
     },
     {
       "id": "009",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "title": "The last six months in LLMs in five minutes",
+      "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 320\n# Comments: 198",
+      "date_published": "2026-05-19",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
       "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
       "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
@@ -111,7 +122,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "010",
+      "id": "011",
       "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
       "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
       "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
@@ -126,7 +137,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "011",
+      "id": "012",
       "url": "https://www.wired.com/story/tempo-meals-promo-code/",
       "title": "Tempo Promo Code: 60% Off Ready-to-Heat Meals in 2026",
       "summary": "Upgrade your meal prep with these Tempo discount codes and offers. Save on high-protein, ready-to-heat meals delivered to your door.",
@@ -141,7 +152,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "013",
       "url": "https://www.wired.com/story/max-promo-code/",
       "title": "HBO Max Promo Code: 50% Off | May",
       "summary": "Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.",
@@ -155,7 +166,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "014",
       "url": "https://www.wired.com/story/norton-coupon-code/",
       "title": "Norton Coupon Codes: Up to 58% Off",
       "summary": "Whether you’re looking to protect your small business or your personal computer, we have the top coupons and deals to help you save at Norton.",
@@ -170,7 +181,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "015",
       "url": "https://www.wired.com/story/turbotax-coupon/",
       "title": "Limited Time: TurboTax Full Service Coupons This May",
       "summary": "Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
@@ -185,7 +196,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "016",
       "url": "https://www.wired.com/story/booking-com-promo-code/",
       "title": "Booking.com Promo Codes: 20% Off | May 2026",
       "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
@@ -200,7 +211,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "017",
       "url": "https://www.wired.com/story/lenovo-coupon-code/",
       "title": "Lenovo Coupon Codes and Deals in May 2026",
       "summary": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
@@ -215,7 +226,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "018",
       "url": "https://www.wired.com/story/home-depot-promo-code/",
       "title": "50% Off Home Depot Promo Codes | May 2026",
       "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this May.",
@@ -229,7 +240,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "019",
       "url": "https://www.wired.com/story/irobot-promo-code/",
       "title": "iRobot Promo Code: 15% Off",
       "summary": "Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.",
@@ -244,7 +255,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "020",
       "url": "https://www.wired.com/story/barkbox-promo-code/",
       "title": "Barkbox Promo Codes and Discounts: Up to 50% Off",
       "summary": "Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.",
@@ -259,7 +270,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "021",
       "url": "https://www.wired.com/story/tempur-pedic-promo-code/",
       "title": "30% Off Tempur-Pedic Promo Codes | May 2026",
       "summary": "Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.",
@@ -274,7 +285,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "022",
       "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
       "title": "Here’s why Elon Musk lost his suit against OpenAI",
       "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
@@ -286,125 +297,114 @@
       "_source": "MIT Tech Review"
     },
     {
-      "id": "022",
-      "url": "https://dev.to/_cbd692d476c5faf3b61bcf/realtimestts-5-hidden-uses-2666",
-      "title": "RealtimeSTT's 5 Hidden Uses 🔥",
-      "summary": "Most developers install RealtimeSTT and use it for one thing: basic speech-to-text. But here's what's shocking — this library with 9,790 GitHub Stars has capabilities that 90% of users completely ignore. In 2026, with local AI inference becoming the dominant paradigm, RealtimeSTT has evolved into a ",
-      "date_published": "2026-05-19",
-      "tags": [
-        "Dev.to"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "023",
-      "url": "https://dev.to/elise_moreau/why-your-diffusion-model-is-slow-at-batch-size-1-and-what-actually-helps-n15",
-      "title": "Why your diffusion model is slow at batch size 1 (and what actually helps)",
-      "summary": "TL;DR: Single-image diffusion inference is bottlenecked by kernel launch overhead and attention memory traffic, not raw FLOPs. torch.compile with mode=\"reduce-overhead\", a fused attention backend, and CFG batching get you most of the way before you reach for distillation.\n\nI spend a lot of time look",
+      "url": "https://dev.to/niamtokik/discovering-swift-3o94",
+      "title": "Discovering Swift",
+      "summary": "Is Swift one of those so called \"modern\" languages trying to fix what C gave us for good? Or just something else? Well, for the ones who know me a bit, \"modern\" languages like Rust or Go are not really my friends. Swift, in other hands, is trying something that annoys me: mobile application developm",
       "date_published": "2026-05-19",
       "tags": [
-        "machinelearning",
-        "pytorch",
-        "computervision",
-        "mlops"
+        "swift",
+        "beginners",
+        "tooling",
+        "ios"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/pickuma/why-your-backtest-is-lying-to-you-data-biases-that-ruin-equity-research-22hd",
-      "title": "Why Your Backtest Is Lying to You: Data Biases That Ruin Equity Research",
-      "summary": "You built a backtest. It returns 18% annualized over the last\ndecade. The Sharpe is 1.4. The drawdown is acceptable. You're\nalready mentally apartment-shopping in the city you'll move to\nafter the strategy makes you wealthy.\n\nIt's probably wrong. Not because your code has bugs — backtest\ncode can be",
+      "url": "https://dev.to/kharonte/the-ai-coding-agent-workflow-that-actually-works-after-1000-hours-54jc",
+      "title": "The AI Coding Agent Workflow That Actually Works After 1,000 Hours",
+      "summary": "The first time I gave an AI agent real autonomy on a production codebase, it confidently refactored a utility method that happened to share a name with a method in a Feign client interface six modules away. The code compiled cleanly. My unit tests passed. Staging broke in a way that took two hours t",
       "date_published": "2026-05-19",
       "tags": [
-        "investing",
-        "finance",
-        "beginners",
-        "productivity"
+        "ai",
+        "productivity",
+        "programming",
+        "claudecode"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-zong-jie-she-ji-zhu-quan-hui-gui-yu-tuan-dui-luo-di-5h5j",
-      "title": "现代化 UI 架构总结：设计主权回归与团队落地",
-      "summary": "本文是 UI 架构系列的第四篇，也是最后一篇。建议先阅读 第一篇：三层颜色体系与系统化设计方案、第二篇：Drawable 层规范与工程实践、第三篇：Style 层如何系统性消除代码冗余 了解完整架构体系。\n\n\n\n\n\n\n  \n  \n  一、架构全景：\n\n\n在前面三篇文章中，我们构建了一套完整的 UI 资源架构体系：\n\n\n\n\n  \n  \n  1.1 架构的核心价值\n\n\n\n\n\n层级\n核心价值\n解决的问题\n\n\n\n\nStyle\n消除冗余，提升复用\n重复属性定义\n\n\nDrawable\n统一形态，状态管理\n视觉不一致\n\n\n\nFunc_*\n语义抽象，职能归一\n颜色滥用\n\n\n基础色+主题\n主题切换，灵活适配\n多",
+      "url": "https://dev.to/michelfaure/pourquoi-ta-requete-supabase-sarrete-a-exactement-1000-lignes-et-ne-te-le-dit-jamais-18hj",
+      "title": "Pourquoi ta requête Supabase s'arrête à exactement 1000 lignes (et ne te le dit jamais)",
+      "summary": "La nuit où un dropdown m'a menti\n\n\nVingt-trois heures, fin avril. Une utilisatrice de mon outil interne me signale un filtre incomplet sur un dropdown. Mon premier diagnostic accuse un sous-filtre côté interface. Je le démonte, j'isole la source du dataset, je relance sans filtre. Le compteur retour",
       "date_published": "2026-05-19",
       "tags": [
-        "android",
-        "architecture",
-        "mobile",
-        "ui"
+        "supabase",
+        "postgrest",
+        "postgres",
+        "eslint"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/printo_tom/hermes-agent-why-open-agentic-systems-matter-46ma",
-      "title": "Hermes Agent: Why Open Agentic Systems Matter",
-      "summary": "🚀 What Is Hermes Agent?\n\n\nIf you’ve been following the agentic space, Hermes Agent probably doesn’t need much introduction. For everyone else: it’s an open-source agent framework from Nous Research that you can run on your own infrastructure — from a $5 VPS to a GPU cluster.  \n\nThe magic? Hermes isn",
+      "url": "https://dev.to/michelfaure/why-your-supabase-query-stops-at-exactly-1000-rows-and-never-tells-you-4g57",
+      "title": "Why your Supabase query stops at exactly 1000 rows (and never tells you)",
+      "summary": "The night a dropdown lied to me\n\n\nEleven at night, late April. A user of my internal tool reports an incomplete filter on a dropdown. My first diagnosis blames a sub-filter on the UI side. I take it apart, I isolate the dataset source, I re-run without filters. The counter returns a thousand on the ",
       "date_published": "2026-05-19",
       "tags": [
-        "hermesagentchallenge",
-        "devchallenge",
-        "agents",
-        "opensource"
+        "supabase",
+        "postgrest",
+        "postgres",
+        "eslint"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/pickuma/sec-edgar-for-developers-the-free-fundamentals-api-hiding-in-plain-sight-1cbi",
-      "title": "SEC EDGAR for Developers: The Free Fundamentals API Hiding in Plain Sight",
-      "summary": "You finished the comparison shopping between Polygon and Alpha\nVantage, maybe even signed up for a free tier of each. Now you\nwant to pull fundamentals — revenue, earnings, free cash flow —\nfor your screener.\n\nDon't reach for the paid tier just yet. The SEC publishes every\nfiling from every public U",
+      "url": "https://dev.to/nirsa_aa5eea4f3dcf42a8e14/why-ai-coding-agents-fail-with-incomplete-specs-3e74",
+      "title": "Why AI coding agents fail with incomplete specs",
+      "summary": "AI coding agents like Codex and Claude Code are getting surprisingly good at writing code.\n\nBut after using them in real projects, I noticed something:\n\nMost failures were not caused by the model.\n\nThey were caused by incomplete specs.\n\nWhen a specification has gaps, the AI fills them in with plausi",
       "date_published": "2026-05-19",
       "tags": [
-        "investing",
-        "finance",
-        "beginners",
-        "productivity"
+        "ai",
+        "opensource",
+        "devtools",
+        "github"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-style-ceng-ru-he-xi-tong-xing-xiao-chu-dai-ma-rong-yu-4nmb",
-      "title": "现代化 UI 架构：Style 层如何系统性消除代码冗余",
-      "summary": "本文是 UI 架构系列的第三篇，建议先阅读 第一篇：三层颜色体系与系统化设计方案、第二篇：Drawable 层规范与工程实践 了解核心设计理念。\n\n\n\n\n\n\n  \n  \n  前言\n\n\n在多年的 Android 开发实践中，我发现一个普遍存在的问题：TextView 的属性定义存在大量重复。\n\n打开任何一个中等规模的 Android 项目，你会发现几乎每个布局文件中都有类似这样的代码：\n\n\n\n<TextView\n    android:layout_width=\"wrap_content\"\n    android:layout_height=\"wrap_content\"\n    android:",
+      "url": "https://dev.to/abdulosman/quiet-exits-quiet-collapse-part-1-how-people-become-exitable-without-noise-241k",
+      "title": "Quiet Exits, Quiet Collapse (Part 1): How People Become Exitable without Noise",
+      "summary": "There is a specific kind of professional experience that has no official name.\n\nIt is not termination. It is not conflict. It is not the moment someone decides to leave.\n\nIt is the period before any of those things — the weeks or months during which a system a person is still formally part of begins",
       "date_published": "2026-05-19",
       "tags": [
-        "android",
-        "architecture",
-        "mobile",
-        "ui"
+        "leadership",
+        "organizationalpsychology",
+        "corporateculture",
+        "systemsthinking"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/zealot2002/xian-dai-hua-ui-jia-gou-drawable-ceng-gui-fan-yu-gong-cheng-shi-jian-16km",
-      "title": "现代化 UI 架构：Drawable 层规范与工程实践",
-      "summary": "本文是 UI 架构系列的第二篇，建议先阅读 第一篇：三层颜色体系与系统化设计方案 了解核心设计理念。\n\n\n\n\n\n\n  \n  \n  前言\n\n\n在上一篇文章中，我们建立了一套完整的颜色体系。但颜色只是 UI 的基础，真正让 UI 活起来的是形态和交互。\n\n一个按钮不仅需要颜色，还需要：\n\n\n圆角、描边、阴影\n按下、禁用、选中的状态变化\n渐变、透明等视觉效果\n\n\n这些都需要通过 Drawable 来实现。\n\n\n贯穿 UI 架构层的一条铁律：颜色、Drawable、Style 等所有资源定义，都不要和业务挂钩；命名表达的是 UI 职能，职能 ≠ 业务。一旦用「登录页按钮」「订单失败红框」这类业务语义去",
+      "url": "https://dev.to/devtoaaron/what-is-geo-the-complete-guide-to-generative-engine-optimization-4777",
+      "title": "What is GEO? The Complete Guide to Generative Engine Optimization",
+      "summary": "What is GEO? The Complete Guide to Generative Engine Optimization\n\n\nGenerative Engine Optimization (GEO) is the practice of optimizing digital content so that AI-powered search engines cite, reference, and recommend that content in their generated responses. GEO differs from traditional SEO in a fun",
       "date_published": "2026-05-19",
       "tags": [
-        "android",
-        "architecture",
-        "mobile",
-        "ui"
+        "geo",
+        "seo",
+        "ai",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/printo_tom/when-ai-meets-reality-why-hello-world-isnt-enough-for-llm-systems-27ea",
-      "title": "When AI Meets Reality: Why “Hello World” Isn’t Enough for LLM Systems",
-      "summary": "Most AI tutorials stop at “Hello World.” You wire up a model, send a prompt, get a response, and feel like you’ve built something. But the moment you try to ship that into production, the ground shifts beneath your feet.\n\nI learned this the hard way. After years of building fraud detection and prici",
+      "url": "https://dev.to/devtoaaron/ai-crawler-management-how-to-optimize-your-robotstxt-for-ai-search-2pme",
+      "title": "AI Crawler Management: How to Optimize Your robots.txt for AI Search",
+      "summary": "AI Crawler Management: How to Optimize Your robots.txt for AI Search\n\n\nAI crawler management refers to the practice of configuring a website's robots.txt file to control which AI search engine crawlers can access website content. AI crawlers are automated bots operated by companies like OpenAI, Anth",
       "date_published": "2026-05-19",
       "tags": [
+        "geo",
+        "seo",
         "ai",
-        "architecture",
-        "llm",
-        "mlops"
+        "webdev"
       ],
       "_source": "Dev.to"
     }
