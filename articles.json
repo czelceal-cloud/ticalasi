@@ -1,6 +1,50 @@
 [
   {
     "id": "001",
+    "title": "Peter Salus has died",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 53\n# Comments: 4",
+    "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "War Game Exposed U.S. Vulnerability to Low-Tech Warfare",
+    "summary": "Article URL: https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare\nComments URL: https://news.ycombinator.com/item?id=48188506\nPoints: 5\n# Comments: 3",
+    "url": "https://nsarchive.gwu.edu/news/2024-11-01/rigged-war-game-exposed-us-vulnerability-low-tech-warfare",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "The American Rebellion Against AI Is Gaining Steam",
+    "summary": "Article URL: https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529\nComments URL: https://news.ycombinator.com/item?id=48188310\nPoints: 57\n# Comments: 47",
+    "url": "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "The last six months in LLMs in five minutes",
+    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 52\n# Comments: 10",
+    "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "date": "2026-05-19",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
     "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
     "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
@@ -15,7 +59,7 @@
     ]
   },
   {
-    "id": "002",
+    "id": "006",
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
     "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announc",
     "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
@@ -27,174 +71,171 @@
     ]
   },
   {
-    "id": "003",
-    "title": "How to remotely iterate & deploy your sideloaded iOS-apps over tailnet",
-    "summary": "Sideloading an iPhone over Tailscale from anywhere, no USB, Touch grass while CI/CD on iOS.\n\n\n\n  \n  \n  TL;DR\n\n\niOS 17+ moved iPhone development tooling onto a stack — CoreDevice + RemoteXPC + Bonjour — that's deliberately scoped to local-network adjacency. The official position is: USB-tether to the",
-    "url": "https://dev.to/kvnpt/how-to-remotely-iterate-deploy-your-sideloaded-ios-apps-over-tailnet-jak",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ios",
-      "tailscale",
-      "networking",
-      "macos"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "AI is moving from demo to infrastructure, and today made that obvious",
-    "summary": "Today's AI news has a pattern to it. The big stories are not really about a clever chatbot trick or another model benchmark. They are about power, infrastructure, lawsuits, labor, and trust.\n\nThat might sound less exciting than a flashy product demo. It is also more important.\n\nGoogle and Blackstone",
-    "url": "https://dev.to/jenueldev/ai-is-moving-from-demo-to-infrastructure-and-today-made-that-obvious-1gcb",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "cloud",
-      "ethics",
-      "webdev"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "Kubernetes Tools",
-    "summary": "Every Kubernetes Tool Explained In One Post (And Why They Exist)\nThe Kubernetes Ecosystem Has a Story. Every tool exists because Kubernetes alone wasn’t enough.\n\nYou run everything with kubectl. Get pods, describe, logs, exec, delete, apply, 50 times a day across 5 namespaces. It works, but it is sl",
-    "url": "https://dev.to/ai-ops/kubernetes-tools-4f8c",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "devops",
-      "kubernetes",
-      "productivity",
-      "tooling"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Python functools: lru_cache, partial, reduce, and wraps",
-    "summary": "The functools module is one of Python's most practical standard-library gems. It ships a small set of higher-order function utilities — tools that operate on or return other functions — that eliminate boilerplate, improve performance, and make your code easier to reason about. You don't need to inst",
-    "url": "https://dev.to/german_yamil_e021eef8710d/python-functools-lrucache-partial-reduce-and-wraps-mfi",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "python",
-      "beginners",
-      "tutorial",
-      "codenewbie"
-    ]
-  },
-  {
     "id": "007",
-    "title": "Every AI database answer needs a source trail",
-    "summary": "An AI answer without provenance is just a confident paragraph.\n\nThat may be fine for brainstorming.\n\nIt is not enough for database answers that drive product, finance, support, or operations decisions.\n\nWhen an agent returns “MRR is up 8%,” the useful question is not only whether the number came fro",
-    "url": "https://dev.to/mads_hansen_27b33ebfee4c9/every-ai-database-answer-needs-a-source-trail-2de3",
+    "title": "I Gave an AI Agent a Telegram Bot and It Started Editing Videos",
+    "summary": "I wanted to test something simple:\n\nCould an autonomous AI agent receive a video from Telegram, process it automatically, write its own Python code, and send the result back to me?\n\nTurns out:\n\nYes.\n\nAnd surprisingly, it worked better than I expected.\n\n\n\n\n\n  \n  \n  The Setup\n\n\nI deployed an OpenClaw ",
+    "url": "https://dev.to/johnsonbuilds/i-gave-an-ai-agent-a-telegram-bot-and-it-started-editing-videos-55gm",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "mcp",
-      "database",
       "ai",
-      "postgres"
+      "openclaw",
+      "agents"
     ]
   },
   {
     "id": "008",
-    "title": "The Smartest Founders I Know Aren’t Building Unicorns",
-    "summary": "Everyone wants to build a unicorn.\n\nA billion-dollar valuation.\nA massive funding round.\nA glamorous TechCrunch headline.\nAn office somewhere in San Francisco with glass walls and free coffee.\n\nBut after years of working with founders across different countries, industries, and startup stages, I’ve ",
-    "url": "https://dev.to/imamabubakar/the-smartest-founders-i-know-arent-building-unicorns-5fle",
+    "title": "Implementando uma pilha a partir de uma fila",
+    "summary": "Em uma conversa despretenciosa com o Leandro Proença no LinkedIn, mencionei que dá pra implementar pilha usando apenas uma fila.\n\nBem, vamos fazer isso? Primeiro, vamos definir exatamente o que é \"implementar uma estrutura X com uma estrutura Y\", então vamos pro caso mais trivial que é implementar u",
+    "url": "https://dev.to/jeffque/implementando-uma-pilha-a-partir-de-uma-fila-4k4b",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "founder"
+      "estruturadedados",
+      "java",
+      "braziliandevs"
     ]
   },
   {
     "id": "009",
-    "title": "lysofdev-ailog: A git log for Why Your AI Agent Did What It Did",
-    "summary": "At a glance\n\n\n\n\n\n\n\n\n\n\n\nWhat it is\nA file-based work log with semantic search, designed for AI coding agents to record and retrieve their own reasoning.\n\n\nPackage\n\nlysofdev-ailog on PyPI · CLI entry point ailog\n\n\n\nSource\ngithub.com/EstebanHernandez1523/ailog\n\n\nStack\nPython 3.11+ · Voyage AI voyage-co",
-    "url": "https://dev.to/lysofdev/lysofdev-ailog-a-git-log-for-why-your-ai-agent-did-what-it-did-17ea",
+    "title": "Building an AI-Powered Supply Chain Platform with FastAPI, React Native, and Data Science",
+    "summary": "Introduction\nA couple of weeks ago, I built a full-stack mobile and AI-powered supply chain optimization app designed to simulate the real world. The goal of the project was to build an intelligent system that combines:\n\n\nMobile development\nBackend engineering\nData analytics\nMachine learning\ninto a ",
+    "url": "https://dev.to/chiedu/building-an-ai-powered-supply-chain-platform-with-fastapi-react-native-and-data-science-2hp4",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "agents",
       "ai",
-      "showdev",
-      "tooling"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "XCrawl vs Puppeteer vs Playwright: Which Web Scraping Tool Saves You More Time in 2026?",
-    "summary": "The Web Scraping Toolkit Spectrum\n\n\nLet's be real: there are dozens of ways to scrape the web. From raw curl to full-blow browser automation frameworks. But when it comes to JavaScript-rendered pages, most developers reach for one of three tools: Puppeteer, Playwright, or XCrawl.\n\nHere's a no-BS com",
-    "url": "https://dev.to/charles_90891cea4a1800830/xcrawl-vs-puppeteer-vs-playwright-which-web-scraping-tool-saves-you-more-time-in-2026-1ego",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "comparison",
-      "webscraping"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "How to Scrape JS-Rendered E-Commerce Pages Without Getting Blocked (2026 Guide)",
-    "summary": "The Problem\n\n\nE-commerce sites like Amazon, Walmart, and Target have moved to heavy JavaScript rendering. Traditional HTTP clients (curl, requests, fetch) return empty HTML shells - no product data, no prices, no reviews.\n\nYou need a headless browser to render the JS. But headless browsers are slow,",
-    "url": "https://dev.to/charles_90891cea4a1800830/how-to-scrape-js-rendered-e-commerce-pages-without-getting-blocked-2026-guide-394g",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "tutorial",
-      "webscraping"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "I Kept Hitting Claude Code's 5-Hour Limit After 2 Hours. So I Built This.",
-    "summary": "If you use Claude Code heavily, you've probably hit the wall.\n\nYou're deep into a session, the agent is finally understanding your codebase, and then — usage limit reached. Not after 5 hours. After 2.\n\nAside from the limit, a major contributing factor is that every coding session re-sends the same p",
-    "url": "https://dev.to/ec1980/i-kept-hitting-claude-codes-5-hour-limit-after-2-hours-so-i-built-this-34nl",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "ai",
-      "productivity",
-      "claude"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "The VTEX public API is the same for 3,760 retailers — but no one aggregated it. Until now.",
-    "summary": "VTEX runs e-commerce for Nike, Carrefour, Samsung, Motorola, and 3,760+ other brands. Every one exposes the same search and catalog API endpoints. Same JSON schema. Same pagination rules.\n\nFor years, if you wanted to query products across retailers, you had to scrape or make separate API calls per s",
-    "url": "https://dev.to/ricardo_cuba/the-vtex-public-api-is-the-same-for-3760-retailers-but-no-one-aggregated-it-until-now-2hd7",
-    "date": "2026-05-19",
-    "source": "Dev.to",
-    "tags": [
-      "api",
-      "cli",
-      "python",
+      "datascience",
+      "reactnative",
       "showdev"
     ]
   },
   {
-    "id": "014",
-    "title": "From Supervised to Independent: A Six-Month Framework for Mentoring Engineers",
-    "summary": "This is about the specific, repeatable mechanics of taking a junior engineer and moving them in roughly six months from \"needs review on every task\" to \"leads a feature stream from intake to deploy with no hand holding.\" I have trained many technical and non-technical people and finally succeed with",
-    "url": "https://dev.to/kokila_hansani/from-supervised-to-independent-a-six-month-framework-for-mentoring-engineers-3lcd",
+    "id": "010",
+    "title": "The portfolio math. When 30 small apps beat 1 big one.",
+    "summary": "The portfolio math. When 30 small apps beat 1 big one.\n\n\nFor a decade the indie hacker playbook stayed the same. Pick one product. Find a niche. Focus. Iterate. Sell. That advice fit 2014 perfectly. It started quietly going wrong in 2022, and by 2026 it is the wrong default for most solo operators, ",
+    "url": "https://dev.to/thegdsks/the-portfolio-math-when-30-small-apps-beat-1-big-one-41ai",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "mentorship",
-      "careerdevelopment",
-      "agile",
-      "engineeringmanagement"
+      "webdev",
+      "indiehackers",
+      "startup",
+      "productivity"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "What If Your Phone Addiction Was Actually Building an Empire? (A Game Dev Story)",
+    "summary": "What If Your Phone Addiction Was Actually Building an Empire? (A Game Dev Story)\n\n\nWe all know that feeling.\n\nYou pick up your phone. 30 minutes later, you're three rabbit holes deep on TikTok, Instagram, Reddit. You've scrolled through hundreds of posts. Nothing's changed. You haven't learned anyth",
+    "url": "https://dev.to/tanishpaul1106/what-if-your-phone-addiction-was-actually-building-an-empire-a-game-dev-story-120l",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "gamedev",
+      "indiegame",
+      "cyberpunk",
+      "gaming"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "I Broke My Proxmox Home Lab with a GPU Passthrough - Here's How I Fixed It",
+    "summary": "How a Kubernetes worker VM with a passed-through AMD GPU sent my entire home lab into an infinite crash loop — and the GRUB-level trick that saved it.\n\n\n\n\n\n\n  \n  \n  What I Was Trying to Do\n\n\nMy home lab runs on a Mini PC with Proxmox as the hypervisor. The setup hosts a mix of LXC containers and KVM",
+    "url": "https://dev.to/pendelabhargavasai/i-broke-my-proxmox-home-lab-with-a-gpu-passthrough-heres-how-i-fixed-it-45na",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "kubernetes",
+      "linux",
+      "devops",
+      "proxmox"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "⚖️ Case File 3.1: The Rubber Stamp Fraud",
+    "summary": "The Collaboration Cartel\n\n\nThe most common form of technical fraud in software engineering isn’t writing buggy code; it’s signing off on logic you haven't actually read.\n\n\nAfter leading engineering teams for years, I can tell you that the quickest way to destroy a team’s trust is to treat the Pull R",
+    "url": "https://dev.to/manojsatna31/case-file-31-the-rubber-stamp-fraud-971",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "beginners",
+      "programming",
+      "productivity"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Prime vs (hermes+ openclaw)",
+    "summary": "This is a submission for the Hermes Agent Challenge\n\n\n  \n  \n  What I Built\n\n\nPrime is an open-source, ultra-lightweight desktop orchestrator and micro-kernel environment engineered to eliminate the multi-subscription, high-latency \"context switching fatigue\" that plagues modern software architects. ",
+    "url": "https://dev.to/alyghaly2020/prime-vs-hermes-openclaw-857",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "hermesagentchallenge",
+      "devchallenge",
+      "agents",
+      "openclaw"
     ]
   },
   {
     "id": "015",
-    "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-    "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 94\n# Comments: 56",
+    "title": "The CVE That Wasn't: Microsoft's Azure Vulnerability Rejection and the Eroding Trust in Cloud Disclosure",
+    "summary": "TL;DR:\n\n\n\nA security researcher discovered a critical cross-tenant access flaw in Microsoft Azure's identity management layer, capable of exposing sensitive customer data across organizational boundaries — and provided full technical documentation with proof-of-concept code.\n\nMicrosoft's Security Re",
+    "url": "https://dev.to/susiloharjo/the-cve-that-wasnt-microsofts-azure-vulnerability-rejection-and-the-eroding-trust-in-cloud-229g",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "cybersecurity",
+      "infosec",
+      "security"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Lighthouse Attention: The Training-Time Hierarchy That Makes Quadratic Attention Practical Again",
+    "summary": "TL;DR:\n\n\n\n1.4–1.7× pretraining wall-clock speedup against dense SDPA at 32K–128K context — no inference overhead, no architectural changes.\n\nSymmetric pyramid pooling compresses queries, keys, and values together — unlike every prior sparse method that only pools K/V — yielding an S²d attention call",
+    "url": "https://dev.to/susiloharjo/lighthouse-attention-the-training-time-hierarchy-that-makes-quadratic-attention-practical-again-1fn",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "machinelearning"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "When AI Diagnoses the Plant Before Anyone Notices: How Endress+Hauser Eliminated 80% of Measurement Fault Support Calls",
+    "summary": "TL;DR:\n\n\n\nEndress+Hauser deployed an AI diagnostic engine across 300+ industrial plants; the system resolves 80% of measurement device faults without human intervention or vendor support calls.\n\nMachine learning models trained on decades of field device telemetry classify root causes -- sensor drift",
+    "url": "https://dev.to/susiloharjo/when-ai-diagnoses-the-plant-before-anyone-notices-how-endresshauser-eliminated-80-of-measurement-j2o",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "iot",
+      "edgecomputing",
+      "industrialiot"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "[Day 7] Does Giving an AI More 'Thinking Time' Really Make It Smarter? Training an OpenMythos-Style Mini Model on DGX",
+    "summary": "[Day 7] Does Giving an AI More \"Thinking Time\" Really Make It Smarter? Training an OpenMythos-Style Mini Model on DGX\n\n\n\n  \n  \n  Intro\n\n\nDay 7!\n\nReddit kept surfacing this new project called OpenMythos in my feed with \"12 days to replicate frontier AI, ASI is near\" headlines, and I got curious enoug",
+    "url": "https://dev.to/peppercorn_llm/day-7-does-giving-an-ai-more-thinking-time-really-make-it-smarter-training-an-openmythos-style-1epk",
+    "date": "2026-05-19",
+    "source": "Dev.to",
+    "tags": [
+      "localllm",
+      "ai",
+      "dgxspark",
+      "transformers"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Pope Leo XIV’s first encyclical Magnifica humanitas to be published May 25",
+    "summary": "Article URL: https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48187201\nPoints: 141\n# Comments: 84",
     "url": "https://www.vaticannews.va/en/pope/news/2026-05/pope-leo-xiv-first-encyclical-magnifica-humanitas.html",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -203,9 +244,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "020",
     "title": "Click (2016)",
-    "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 193\n# Comments: 41",
+    "summary": "Article URL: https://clickclickclick.click/\nComments URL: https://news.ycombinator.com/item?id=48187054\nPoints: 227\n# Comments: 53",
     "url": "https://clickclickclick.click/",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -214,9 +255,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "021",
     "title": "Alignment pretraining: AI discourse creates self-fulfilling (mis)alignment",
-    "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 20\n# Comments: 10",
+    "summary": "Article URL: https://arxiv.org/abs/2601.10160\nComments URL: https://news.ycombinator.com/item?id=48185938\nPoints: 29\n# Comments: 12",
     "url": "https://arxiv.org/abs/2601.10160",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -225,20 +266,9 @@
     ]
   },
   {
-    "id": "018",
-    "title": "Shutterstock to pay $35M over hard-to-cancel subscriptions",
-    "summary": "Article URL: https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices\nComments URL: https://news.ycombinator.com/item?id=48184635\nPoints: 129\n# Comments: 61",
-    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "019",
+    "id": "022",
     "title": "The FBI Wants to Buy Nationwide Access to License Plate Readers",
-    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 219\n# Comments: 90",
+    "summary": "Article URL: https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/\nComments URL: https://news.ycombinator.com/item?id=48184350\nPoints: 246\n# Comments: 98",
     "url": "https://www.404media.co/the-fbi-wants-to-buy-nationwide-access-to-license-plate-readers/",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -247,9 +277,9 @@
     ]
   },
   {
-    "id": "020",
+    "id": "023",
     "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 126\n# Comments: 28",
+    "summary": "Article URL: https://hyperpolyglot.org/lisp\nComments URL: https://news.ycombinator.com/item?id=48184322\nPoints: 141\n# Comments: 29",
     "url": "https://hyperpolyglot.org/lisp",
     "date": "2026-05-18",
     "source": "Hacker News",
@@ -258,43 +288,10 @@
     ]
   },
   {
-    "id": "021",
-    "title": "Loopmaster – Livecoding Music IDE",
-    "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 65\n# Comments: 18",
-    "url": "https://loopmaster.xyz/",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Agora-1: The Multi-Agent World Model",
-    "summary": "Article URL: https://odyssey.ml/introducing-agora-1\nComments URL: https://news.ycombinator.com/item?id=48183748\nPoints: 81\n# Comments: 16",
-    "url": "https://odyssey.ml/introducing-agora-1",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Haiku OS runs on M1 Macs now",
-    "summary": "Article URL: https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2\nComments URL: https://news.ycombinator.com/item?id=48183579\nPoints: 281\n# Comments: 91",
-    "url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-    "date": "2026-05-18",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "024",
-    "title": "We let AIs run radio stations",
-    "summary": "Hey HN!I'm Lukas from Andon Labs. We let AIs run companies without humans in the loop and report to the public on what can go wrong. Previously, we've done experiments in retail (vending machines, stores, and cafes), but we just launched one in the media sector. We gave four AI agents all the tools ",
-    "url": "https://andonlabs.com/blog/andon-fm",
+    "title": "Loopmaster – Livecoding Music IDE",
+    "summary": "Article URL: https://loopmaster.xyz/\nComments URL: https://news.ycombinator.com/item?id=48183757\nPoints: 79\n# Comments: 23",
+    "url": "https://loopmaster.xyz/",
     "date": "2026-05-18",
     "source": "Hacker News",
     "tags": [
