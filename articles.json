@@ -2,7 +2,7 @@
   {
     "id": "001",
     "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
-    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 25\n# Comments: 2",
+    "summary": "Article URL: https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/\nComments URL: https://news.ycombinator.com/item?id=48189368\nPoints: 92\n# Comments: 44",
     "url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -12,19 +12,8 @@
   },
   {
     "id": "002",
-    "title": "Mug Shots: A Small Town Noir (2014)",
-    "summary": "Article URL: https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir\nComments URL: https://news.ycombinator.com/item?id=48189233\nPoints: 5\n# Comments: 0",
-    "url": "https://theappendix.net/issues/2014/4/mug-shots-a-small-town-noir",
-    "date": "2026-05-19",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
     "title": "PyTorch Landscape",
-    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 27\n# Comments: 3",
+    "summary": "Article URL: https://pytorch.landscape2.io\nComments URL: https://news.ycombinator.com/item?id=48189178\nPoints: 45\n# Comments: 8",
     "url": "https://pytorch.landscape2.io",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -33,18 +22,7 @@
     ]
   },
   {
-    "id": "004",
-    "title": "Codex-maxxing",
-    "summary": "Article URL: https://jxnl.co/writing/2026/05/10/codex-maxxing/\nComments URL: https://news.ycombinator.com/item?id=48189156\nPoints: 63\n# Comments: 43",
-    "url": "https://jxnl.co/writing/2026/05/10/codex-maxxing/",
-    "date": "2026-05-19",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
+    "id": "003",
     "title": "Show HN: Hsrs – Type-Safe Haskell Bindings Generator for Rust",
     "summary": "Hey everyone! I've been working on hsrs, a type-safe Haskell Bindings Generator for Rust.I couldn't really find any bindings generator that would create type-safe, rich bindings for Haskell from Rust. Naturally, both languages have rich type systems, so I was amazed that no awesome bindings generato",
     "url": "https://github.com/harmont-dev/hsrs",
@@ -55,9 +33,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "004",
     "title": "LLMCap – A proxy that hard-stops LLM API calls when you hit a dollar cap",
-    "summary": "Article URL: https://www.llmcap.io/\nComments URL: https://news.ycombinator.com/item?id=48188996\nPoints: 7\n# Comments: 5",
+    "summary": "Article URL: https://www.llmcap.io/\nComments URL: https://news.ycombinator.com/item?id=48188996\nPoints: 18\n# Comments: 15",
     "url": "https://www.llmcap.io/",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -66,9 +44,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "005",
     "title": "Peter Neumann has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 54\n# Comments: 2",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html\nComments URL: https://news.ycombinator.com/item?id=48188787\nPoints: 108\n# Comments: 6",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033748.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -77,9 +55,9 @@
     ]
   },
   {
-    "id": "008",
+    "id": "006",
     "title": "Peter Salus has died",
-    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 117\n# Comments: 9",
+    "summary": "Article URL: https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html\nComments URL: https://news.ycombinator.com/item?id=48188665\nPoints: 135\n# Comments: 11",
     "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -88,9 +66,9 @@
     ]
   },
   {
-    "id": "009",
+    "id": "007",
     "title": "The last six months in LLMs in five minutes",
-    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 320\n# Comments: 198",
+    "summary": "Article URL: https://simonwillison.net/2026/May/19/5-minute-llms/\nComments URL: https://news.ycombinator.com/item?id=48188183\nPoints: 440\n# Comments: 304",
     "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
     "date": "2026-05-19",
     "source": "Hacker News",
@@ -99,7 +77,23 @@
     ]
   },
   {
-    "id": "010",
+    "id": "008",
+    "title": "Solar to dominate energy by 2035, but AI data centers will keep fossil fuels in business",
+    "summary": "Costs for solar panels are expected to drop another 30% in the coming decade, helping the tech cement its lead in energy markets.",
+    "url": "https://techcrunch.com/2026/05/19/solar-to-dominate-energy-in-2035-but-data-centers-will-keep-fossil-fuels-in-business/",
+    "date": "2026-05-19",
+    "source": "TechCrunch",
+    "tags": [
+      "Climate",
+      "data centers",
+      "renewable energy",
+      "Solar Power",
+      "lithium ion batteries",
+      "fossil fuels"
+    ]
+  },
+  {
+    "id": "009",
     "title": "Theo Baker spent four years investigating Stanford. Before he leaves, here’s what he found.",
     "summary": "\"There's a common refrain among [young] people in this world that it's easier to raise money for a startup right now than to get an internship. Which is remarkable, right?\"",
     "url": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
@@ -116,7 +110,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "010",
     "title": "LG will release the first 1000Hz, 1080p gaming monitor this year",
     "summary": "If you just can't choose between refresh rate and resolution, LG's next gaming monitor could solve your problem, as the UltraGear 25G590B monitor is the first one announced that will be capable of a native 1000Hz refresh rate at 1,920 x 1,080 resolution. So far, the 1,000Hz models we've seen have on",
     "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
@@ -128,6 +122,36 @@
       "News",
       "PC Gaming",
       "Tech"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "How to Make Apps and Websites Remove Your Nonconsensual Nudes",
+    "summary": "Starting May 19, tech platforms in the US will have to start complying with the Take It Down Act. Here's how more than a dozen of the largest platforms are handling takedown demands for your nudes.",
+    "url": "https://www.wired.com/story/how-to-remove-nudes-take-it-down-act/",
+    "date": "2026-05-19",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "Apps",
+      "privacy",
+      "Google",
+      "reddit",
+      "YouTube",
+      "Roblox",
+      "dating apps",
+      "Deepfakes",
+      "xAI",
+      "X",
+      "Meta",
+      "Microsoft",
+      "Instagram",
+      "Facebook",
+      "Threads",
+      "LinkedIn",
+      "Explicit Demands"
     ]
   },
   {
@@ -292,114 +316,112 @@
   },
   {
     "id": "023",
-    "title": "Discovering Swift",
-    "summary": "Is Swift one of those so called \"modern\" languages trying to fix what C gave us for good? Or just something else? Well, for the ones who know me a bit, \"modern\" languages like Rust or Go are not really my friends. Swift, in other hands, is trying something that annoys me: mobile application developm",
-    "url": "https://dev.to/niamtokik/discovering-swift-3o94",
+    "title": "Comparing Traffic Data APIs: Road511 vs HERE vs TomTom vs INRIX",
+    "summary": "If you're building an app that needs traffic data, you have a few options. The big names — HERE, TomTom, INRIX — dominate the market. But they all sell the same thing: traffic flow from probe data (GPS traces from phones and connected vehicles).\n\nRoad511 is different. It aggregates infrastructure da",
+    "url": "https://dev.to/road511/comparing-traffic-data-apis-road511-vs-here-vs-tomtom-vs-inrix-55cg",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "swift",
-      "beginners",
-      "tooling",
-      "ios"
+      "api",
+      "webdev",
+      "architecture",
+      "go"
     ]
   },
   {
     "id": "024",
-    "title": "The AI Coding Agent Workflow That Actually Works After 1,000 Hours",
-    "summary": "The first time I gave an AI agent real autonomy on a production codebase, it confidently refactored a utility method that happened to share a name with a method in a Feign client interface six modules away. The code compiled cleanly. My unit tests passed. Staging broke in a way that took two hours t",
-    "url": "https://dev.to/kharonte/the-ai-coding-agent-workflow-that-actually-works-after-1000-hours-54jc",
+    "title": "What I Learned From Reading 50 Data Pipeline Postmortems",
+    "summary": "After analyzing 50 public postmortems from Uber, Netflix, Stripe, and others, four failure patterns emerge again and again. Most of them are preventable at the design stage.\n\n\n  \n  \n  The postmortem paradox\n\n\nEvery major tech company publishes them now. Stripe has a status page full of them. Netflix",
+    "url": "https://dev.to/andrew_tan_layline/what-i-learned-from-reading-50-data-pipeline-postmortems-1moi",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "productivity",
-      "programming",
-      "claudecode"
+      "dataengineering",
+      "kafka",
+      "softwareengineering",
+      "data"
     ]
   },
   {
     "id": "025",
-    "title": "Pourquoi ta requête Supabase s'arrête à exactement 1000 lignes (et ne te le dit jamais)",
-    "summary": "La nuit où un dropdown m'a menti\n\n\nVingt-trois heures, fin avril. Une utilisatrice de mon outil interne me signale un filtre incomplet sur un dropdown. Mon premier diagnostic accuse un sous-filtre côté interface. Je le démonte, j'isole la source du dataset, je relance sans filtre. Le compteur retour",
-    "url": "https://dev.to/michelfaure/pourquoi-ta-requete-supabase-sarrete-a-exactement-1000-lignes-et-ne-te-le-dit-jamais-18hj",
+    "title": "SEO Mistakes That Are Silently Killing Your Dev Projects",
+    "summary": "I spent 3 hours debugging why Google couldn't crawl my React app. Lighthouse scores were green. The app loaded fine in the browser. But Googlebot was seeing a blank <div id=\"root\"></div> and walking away confused. The fix was 4 lines of meta tags and a prerender config I'd been skipping for months.\n",
+    "url": "https://dev.to/mitudas/seo-mistakes-that-are-silently-killing-your-dev-projects-5bbm",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "supabase",
-      "postgrest",
-      "postgres",
-      "eslint"
+      "seo",
+      "developer",
+      "webdev"
     ]
   },
   {
     "id": "026",
-    "title": "Why your Supabase query stops at exactly 1000 rows (and never tells you)",
-    "summary": "The night a dropdown lied to me\n\n\nEleven at night, late April. A user of my internal tool reports an incomplete filter on a dropdown. My first diagnosis blames a sub-filter on the UI side. I take it apart, I isolate the dataset source, I re-run without filters. The counter returns a thousand on the ",
-    "url": "https://dev.to/michelfaure/why-your-supabase-query-stops-at-exactly-1000-rows-and-never-tells-you-4g57",
+    "title": "I Needed a Faster Way to Make VTT Tokens for DnD, So I Built a Local-First Token Maker",
+    "summary": "I built a simple token maker for my DnD and VTT workflow\nTags: dnd, webdev, gamedev, tooling\nMaking tokens for a tabletop campaign should not take that long.\nBut if you run DnD games, you probably know the small routine:\n• find character art\n• open an image editor\n• crop the face or body\n• add a bor",
+    "url": "https://dev.to/sir_97b7841232683cb925c9/i-needed-a-faster-way-to-make-vtt-tokens-for-dnd-so-i-built-a-local-first-token-maker-3b7h",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "supabase",
-      "postgrest",
-      "postgres",
-      "eslint"
+      "dnd",
+      "tooling",
+      "gamedev",
+      "webdev"
     ]
   },
   {
     "id": "027",
-    "title": "Why AI coding agents fail with incomplete specs",
-    "summary": "AI coding agents like Codex and Claude Code are getting surprisingly good at writing code.\n\nBut after using them in real projects, I noticed something:\n\nMost failures were not caused by the model.\n\nThey were caused by incomplete specs.\n\nWhen a specification has gaps, the AI fills them in with plausi",
-    "url": "https://dev.to/nirsa_aa5eea4f3dcf42a8e14/why-ai-coding-agents-fail-with-incomplete-specs-3e74",
+    "title": "Fine-Tuning Llama 3.2 3B on Medical QA: Week 1 Setup and Baseline Inference",
+    "summary": "The Problem With General-Purpose LLMs in Healthcare\n\n\nAsk a general-purpose LLM about the early symptoms of type 2 diabetes and it might tell you:\n\n\"When your body produces more insulin, it can cause your body to hold onto more water, leading to increased thirst.\"\n\nThat is wrong. Increased thirst in",
+    "url": "https://dev.to/sarko07/fine-tuning-llama-32-3b-on-medical-qa-week-1-setup-and-baseline-inference-3k25",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "opensource",
-      "devtools",
-      "github"
+      "learning",
+      "llm",
+      "machinelearning"
     ]
   },
   {
     "id": "028",
-    "title": "Quiet Exits, Quiet Collapse (Part 1): How People Become Exitable without Noise",
-    "summary": "There is a specific kind of professional experience that has no official name.\n\nIt is not termination. It is not conflict. It is not the moment someone decides to leave.\n\nIt is the period before any of those things — the weeks or months during which a system a person is still formally part of begins",
-    "url": "https://dev.to/abdulosman/quiet-exits-quiet-collapse-part-1-how-people-become-exitable-without-noise-241k",
+    "title": "5 Production Stacks for Live Data Ingestion at Scale (Without Getting Blocked)",
+    "summary": "TL;DR: Most teams over-engineer data ingestion. They use Kafka before they’ve hit their first rate limit, or Playwright before they’ve checked the network tab. This guide shows five production-tested stacks for live data ingestion from minimal fetch + cron up to LLM agents calling Model Context Prot",
+    "url": "https://dev.to/prithwish_nath/5-production-stacks-for-live-data-ingestion-at-scale-without-getting-blocked-25k9",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "leadership",
-      "organizationalpsychology",
-      "corporateculture",
-      "systemsthinking"
+      "ai",
+      "programming",
+      "javascript",
+      "webdev"
     ]
   },
   {
     "id": "029",
-    "title": "What is GEO? The Complete Guide to Generative Engine Optimization",
-    "summary": "What is GEO? The Complete Guide to Generative Engine Optimization\n\n\nGenerative Engine Optimization (GEO) is the practice of optimizing digital content so that AI-powered search engines cite, reference, and recommend that content in their generated responses. GEO differs from traditional SEO in a fun",
-    "url": "https://dev.to/devtoaaron/what-is-geo-the-complete-guide-to-generative-engine-optimization-4777",
+    "title": "Deepfake Fraud Just Tripled to $1.1B — And You're Looking for the Wrong Thing",
+    "summary": "investigating the $1.1B surge in synthetic media fraud\n\nThe technical landscape of digital evidence just shifted under our feet. Deepfake-related fraud losses in the U.S. didn't just grow last year; they tripled to $1.1 billion. For developers working in computer vision, biometrics, or OSINT tooling",
+    "url": "https://dev.to/caracomp/deepfake-fraud-just-tripled-to-11b-and-youre-looking-for-the-wrong-thing-19ig",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "geo",
-      "seo",
       "ai",
-      "webdev"
+      "machinelearning",
+      "computervision",
+      "biometrics"
     ]
   },
   {
     "id": "030",
-    "title": "AI Crawler Management: How to Optimize Your robots.txt for AI Search",
-    "summary": "AI Crawler Management: How to Optimize Your robots.txt for AI Search\n\n\nAI crawler management refers to the practice of configuring a website's robots.txt file to control which AI search engine crawlers can access website content. AI crawlers are automated bots operated by companies like OpenAI, Anth",
-    "url": "https://dev.to/devtoaaron/ai-crawler-management-how-to-optimize-your-robotstxt-for-ai-search-2pme",
+    "title": "Past Tense: A DragonRuby Sound Installation Built on libpd",
+    "summary": "Two to four tablets sit on plinths in a gallery. Each one is listening: a contact mic on the floor, an electromagnetic pickup near the wall, a shortwave radio scanning. A black-hole visualization fills the screen, slowly accreting whatever the room is making. Visitors swipe a circular slider and rel",
+    "url": "https://dev.to/julianrubisch/past-tense-a-dragonruby-sound-installation-built-on-libpd-28lf",
     "date": "2026-05-19",
     "source": "Dev.to",
     "tags": [
-      "geo",
-      "seo",
-      "ai",
-      "webdev"
+      "gamedev",
+      "ruby",
+      "showdev"
     ]
   }
 ]
