@@ -7,22 +7,162 @@
   "items": [
     {
       "id": "001",
-      "url": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
-      "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
-      "summary": "Truecaller's eSIM product will initially launch in 29 countries",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "summary": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 119\n# Comments: 43",
       "date_published": "2026-05-20",
       "tags": [
-        "Apps",
-        "esim",
-        "travel",
-        "Truecaller"
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report",
+      "title": "Tracking Starbucks' 'widely recyclable' cups: none ended up at recycling",
+      "summary": "Article URL: https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report\nComments URL: https://news.ycombinator.com/item?id=48212279\nPoints: 80\n# Comments: 56",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://nodejs.org/en/blog/release/v26.0.0",
+      "title": "Node.js 26.0.0 (Now with Temporal)",
+      "summary": "Article URL: https://nodejs.org/en/blog/release/v26.0.0\nComments URL: https://news.ycombinator.com/item?id=48212242\nPoints: 36\n# Comments: 7",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://docs.flipper.net/one/general/tech-specs",
+      "title": "Flipper One Tech Specs",
+      "summary": "Article URL: https://docs.flipper.net/one/general/tech-specs\nComments URL: https://news.ycombinator.com/item?id=48212046\nPoints: 27\n# Comments: 6",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+      "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+      "summary": "Article URL: https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained\nComments URL: https://news.ycombinator.com/item?id=48211409\nPoints: 20\n# Comments: 8",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html",
+      "title": "Why is Inkwell stuck in review",
+      "summary": "Article URL: https://www.manton.org/2026/05/19/why-is-inkwell-stuck-in.html\nComments URL: https://news.ycombinator.com/item?id=48211134\nPoints: 34\n# Comments: 13",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://twitter.com/pokemoncentral/status/2057123807404638250",
+      "title": "Apparently Google hates us now",
+      "summary": "Article URL: https://twitter.com/pokemoncentral/status/2057123807404638250\nComments URL: https://news.ycombinator.com/item?id=48210263\nPoints: 300\n# Comments: 146",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://github.com/bytedance/Lance",
+      "title": "Show HN: Lance – image/video generation and understanding in one model",
+      "summary": "The model has 3B active parameters. We put the code, homepage, paper and model links here:- Code: https://github.com/bytedance/Lance- Homepage: https://lance-project.github.io/- Paper: https://arxiv.org/abs/2605.18678- Model: https://huggingface.co/bytedance-research/Lancep.s. Lance is a research pr",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "summary": "Article URL: https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/\nComments URL: https://news.ycombinator.com/item?id=48209558\nPoints: 84\n# Comments: 5",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
+      "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+      "title": "Formal Verification Gates for AI Coding Loops",
+      "summary": "Article URL: https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/\nComments URL: https://news.ycombinator.com/item?id=48209323\nPoints: 65\n# Comments: 8",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
+      "date_published": "2026-05-20",
+      "tags": [
+        "AI",
+        "andrew ng",
+        "google brain",
+        "IrisGo"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
+      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
+      "summary": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver assistance system.",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Transportation",
+        "autonomous vehicles",
+        "Europe",
+        "EVs",
+        "Tesla",
+        "Tesla FSD"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
+      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
+      "summary": "Airbnb will soon let you book luggage storage and car rental services on its app.",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Apps",
+        "Airbnb",
+        "customer support",
+        "hotel bookings"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "title": "Global EV market goes K-shaped as the U.S. gets left behind",
+      "title": "Global EV market goes K-shaped as the US gets left behind",
       "summary": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
       "date_published": "2026-05-20",
       "tags": [
@@ -36,21 +176,24 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "003",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-      "title": "OpenAI barrels towards IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+      "id": "015",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
       "date_published": "2026-05-20",
       "tags": [
         "AI",
         "Startups",
+        "Elon Musk",
+        "In Brief",
         "IPOs",
-        "OpenAI"
+        "OpenAI",
+        "sam altman"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "004",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
       "title": "Jeff Bezos, you were so close to making a good point",
       "summary": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
@@ -62,7 +205,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
       "title": "Customers say Trump Mobile is leaking their personal information",
       "summary": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
@@ -79,7 +222,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "006",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
       "title": "Intuit to lay off over 3,000 employees to refocus on AI",
       "summary": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
@@ -94,7 +237,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
       "title": "AI search startups are blowing up",
       "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
@@ -109,7 +252,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
       "title": "Stability AI releases a new audio model that can create 6-minute songs",
       "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
@@ -124,23 +267,23 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "009",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
       "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-      "summary": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch.",
+      "summary": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a computer, NanoClaw runs sandboxed in a container.",
       "date_published": "2026-05-20",
       "tags": [
         "AI",
         "Startups",
         "AI agents",
-        "Hugging Face",
         "NanoClaw",
-        "openclaw"
+        "openclaw",
+        "Valley Capital Partners"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "010",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
       "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
       "summary": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today.",
@@ -158,10 +301,10 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/20/github-says-hackers-stole-data-from-thousands-of-internal-repositories/",
       "title": "GitHub says hackers stole data from thousands of internal repositories",
-      "summary": "The code hosting giant GitHub said it was investigating a breach, but said there was no evidence of customer data theft.",
+      "summary": "The code hosting giant GitHub said it was investigating a breach but said there was no evidence of customer data theft.",
       "date_published": "2026-05-20",
       "tags": [
         "Security",
@@ -175,22 +318,22 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
       "title": "Figma adds an AI assistant to its collaborative canvas",
-      "summary": "Figma's new AI assistant will be first available on Figma Design",
+      "summary": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs.",
       "date_published": "2026-05-20",
       "tags": [
         "AI",
         "Apps",
+        "AI assistant",
         "design",
-        "Figma",
-        "AI assistant"
+        "Figma"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
       "title": "This startup raised $43M to build a hive mind for ships",
       "summary": "The Arlington, Virginia-based startup has raised $42 million to equip ships with sensors that blow the current AIS tech out of the water.",
@@ -206,7 +349,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/19/ask-youtube-brings-ai-powered-conversational-search-to-video-adds-gemini-omni-to-shorts/",
       "title": "‘Ask YouTube’ brings AI-powered conversational search to video, adds Gemini Omni to Shorts",
       "summary": "Google is completely revamping its search experience, and that doesn't stop at YouTube.",
@@ -224,239 +367,68 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
-      "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/",
-      "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-      "summary": "Google's AI search evolution is accelerating at I/O 2026.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Google",
-        "Artificial Intelligence",
-        "google",
-        "search"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "016",
-      "url": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/",
-      "title": "Man jailed for posting Trump meme wins $835,000 settlement",
-      "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Policy",
-        "Donald Trump",
-        "First Amendment",
-        "meme",
-        "online censorship"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "017",
-      "url": "https://arstechnica.com/space/2026/05/russias-plan-to-advertise-on-rockets-and-spacecraft-takes-off/",
-      "title": "Russia's plan to advertise on rockets and spacecraft takes off",
-      "summary": "We now pause for a word from our sponsors.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Space",
-        "advertising",
-        "roscosmos",
-        "russia",
-        "space"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "018",
-      "url": "https://arstechnica.com/gadgets/2026/05/inside-the-fight-to-force-vizio-to-share-linux-based-source-code-for-its-tvs-os/",
-      "title": "Yearslong fight over users' right to tweak smart TV software heads to trial",
-      "summary": "Access to TV OS's source code could allow users to limit ads, tracking.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Features",
-        "Tech",
-        "ads",
-        "Linux",
-        "software",
-        "TVs",
-        "Vizio",
-        "walmart"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "019",
-      "url": "https://arstechnica.com/tech-policy/2026/05/china-banned-rtx-5090d-v2-while-nvidia-ceo-jensen-huang-was-visiting/",
-      "title": "China banned RTX 5090D V2 while Nvidia CEO Jensen Huang was visiting",
-      "summary": "The chip was added to a list of banned goods at China’s customs checkpoints last Friday.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Policy",
-        "NVIDIA",
-        "syndication"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "020",
-      "url": "https://arstechnica.com/ai/2026/05/the-internet-cant-stop-watching-figure-ais-humanoid-robots-handling-packages/",
-      "title": "The Internet can't stop watching Figure AI's humanoid robots handling packages",
-      "summary": "Figure AI's 24/7 livestream showcases human soft spot for humanoid robots.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Figure AI",
-        "humanoid robots",
-        "Robotics",
-        "robots"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "021",
-      "url": "https://arstechnica.com/cars/2026/05/moose-proof-and-megacasting-ars-drives-the-new-volvo-ex60/",
-      "title": "Moose-proof and megacasting: Ars drives the new Volvo EX60",
-      "summary": "Volvo is coming for its competitors with more efficient production and newer tech.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Cars",
-        "car review",
-        "First drive",
-        "Volvo EX60"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "022",
-      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
-      "title": "Anthropic and OpenAI take their beef to the midterm elections",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the car crashes piling up on a daily basis at the Washington-based intersection of technology and politics. If you're not a subscriber, sign up for our fine editorial enterprise today, especially as we process the end of Musk v",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Column",
-        "Policy",
-        "Politics",
-        "Regulator"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "023",
-      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-      "title": "Vibe coding is coming to your phone",
-      "summary": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't strictly true - I'm still waiting for that one perfect grocery list app. Still, apps […]",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Android",
-        "Google",
-        "Google I/O 2026",
-        "Mobile",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "024",
-      "url": "https://www.theverge.com/transportation/932805/volvo-ex60-ceo-interview-ev-strategy",
-      "title": "Volvo is trying to put its EV stumbles in the rearview",
-      "summary": "Volvo once had ambitions to fully exit the gas car business. Now it's trying to keep its tenuous foothold in the EV market. It's not an understatement to say that Volvo's EV journey has been a bumpy one. The compact EX40 has been a consistent winner, but the Swedish brand's other EVs have been plagu",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Cars",
-        "Electric Cars",
-        "Transportation",
-        "Volvo"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-      "title": "You can now remix other people’s YouTube Shorts with AI",
-      "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when you click the remix icon, you'll see an option to \"reimagine\" it. Here, you can prompt Gemini to turn ",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Google",
-        "Google I/O 2026",
-        "News",
-        "Streaming",
-        "Tech",
-        "YouTube"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "026",
-      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
-      "title": "Samsung has a tentative deal with workers to avoid a memory chip strike",
-      "summary": "More than 47,000 Samsung Electronics workers were gearing up for an 18-day strike after bonus payment negotiations between the company and its union collapsed. The strike was set to start on Thursday at Samsung's domestic chipmaking plants, raising concerns around the already constrained production ",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Business",
-        "News",
-        "Samsung",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
       "id": "027",
-      "url": "https://www.theverge.com/report/934687/xbox-matthew-ball-strategy-officer-hire",
-      "title": "Xbox hires game industry analyst Matthew Ball to lead strategy",
-      "summary": "Microsoft has recruited game industry analyst Matthew Ball as Xbox chief strategy officer. Ball publishes an annual state of video gaming report, which is a popular read across the game industry, and he's \"widely respected across gaming, media, and technology,\" according to Xbox CEO Asha Sharma. Sha",
+      "url": "https://arstechnica.com/gadgets/2026/05/amd-reportedly-plans-ryzen-5800x3d-re-release-for-upgraders-on-a-budget/",
+      "title": "\"Ryzen 5800X3D 10th Anniversary Edition\" may help you avoid paying for a new PC",
+      "summary": "It could be one way to make your old PC play nicely with a high-end GPU.",
       "date_published": "2026-05-20",
       "tags": [
-        "Gaming",
-        "Microsoft",
-        "Report",
         "Tech",
-        "Xbox"
+        "3d V-cache",
+        "AMD",
+        "Ryzen"
       ],
-      "_source": "The Verge"
+      "_source": "Ars Technica"
     },
     {
       "id": "028",
-      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "title": "Google Search’s AI evolution includes more ads",
-      "summary": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" about why you should purchase a specific one. The update comes just one day after Google revealed a ne",
+      "url": "https://arstechnica.com/security/2026/05/google-publishes-exploit-code-threatening-millions-of-chromium-users/",
+      "title": "Google publishes exploit code threatening millions of Chromium users",
+      "summary": "Google publishes exploit code before patch, reported 29 months earlier, is fixed.",
       "date_published": "2026-05-20",
       "tags": [
-        "AI",
-        "Google",
-        "News",
-        "Tech"
+        "Biz & IT",
+        "Security",
+        "chromium",
+        "exploits",
+        "vulnerabilities"
       ],
-      "_source": "The Verge"
+      "_source": "Ars Technica"
     },
     {
       "id": "029",
-      "url": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
-      "title": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
-      "summary": "Whether you’re heading out for a quick Memorial Day getaway or preparing for summer travel, a reliable power bank can come in handy when there’s no outlet in sight. Fortunately, Anker’s Laptop Power Bank can keep all your essential gadgets charged, and it’s currently on sale at Amazon, Best Buy, and",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-wants-1b-to-protect-white-house-ballroom-from-drones-and-other-threats/",
+      "title": "Trump wants $1B to protect White House ballroom from drones and other threats",
+      "summary": "President asks $1B from taxpayers to secure his $400M privately funded ballroom.",
       "date_published": "2026-05-20",
       "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
+        "Policy",
+        "Tech",
+        "AI drones",
+        "anti-drone",
+        "drones",
+        "military drones",
+        "President Donald Trump",
+        "trump white house",
+        "White House"
       ],
-      "_source": "The Verge"
+      "_source": "Ars Technica"
     },
     {
       "id": "030",
-      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
-      "title": "The Verge’s 2026 high school graduation gift guide",
-      "summary": "High school graduation is a time of change that might be felt more deeply by family members than by the grads themselves. While some grads may immediately embark on a career path, many continue their education and delve deeper into their studies at college. Either way, they'll be taking on more resp",
+      "url": "https://arstechnica.com/gadgets/2026/05/hulu-set-to-keep-existing-as-standalone-streaming-service-and-app-for-now/",
+      "title": "Hulu set to keep existing as standalone streaming service and app (for now)",
+      "summary": "Disney still has a lot of tech to unite and bundles to push.",
       "date_published": "2026-05-20",
       "tags": [
-        "Gadgets",
-        "Gift Guides",
-        "Verge Shopping"
+        "Tech",
+        "acquisitions",
+        "Disney",
+        "Hulu",
+        "mergers",
+        "streaming"
       ],
-      "_source": "The Verge"
+      "_source": "Ars Technica"
     }
   ]
 }
