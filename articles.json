@@ -1,6 +1,61 @@
 [
   {
     "id": "001",
+    "title": "A Girl Who Couldn't Draw Home",
+    "summary": "Article URL: https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home\nComments URL: https://news.ycombinator.com/item?id=48220829\nPoints: 3\n# Comments: 0",
+    "url": "https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Python 3.15: features that didn't make the headlines",
+    "summary": "Article URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html\nComments URL: https://news.ycombinator.com/item?id=48220696\nPoints: 23\n# Comments: 1",
+    "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Flipper One – we need your help",
+    "summary": "Article URL: https://blog.flipper.net/flipper-one-we-need-your-help/\nComments URL: https://news.ycombinator.com/item?id=48220647\nPoints: 39\n# Comments: 10",
+    "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Google officially announces that ads will be included in AI Mode search results",
+    "summary": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/\nComments URL: https://news.ycombinator.com/item?id=48220105\nPoints: 138\n# Comments: 145",
+    "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "No Slop Grenade",
+    "summary": "Article URL: https://noslopgrenade.com/\nComments URL: https://news.ycombinator.com/item?id=48219992\nPoints: 52\n# Comments: 24",
+    "url": "https://noslopgrenade.com/",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
     "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
     "summary": "Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.Two surfaces: a tmux-compatible CLI (~90 commands, your keybindings j",
     "url": "https://github.com/helvesec/rmux",
@@ -11,18 +66,7 @@
     ]
   },
   {
-    "id": "002",
-    "title": "The famous O3 \"GeoGuessr\" prompt did not work",
-    "summary": "Article URL: https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/\nComments URL: https://news.ycombinator.com/item?id=48219682\nPoints: 14\n# Comments: 0",
-    "url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
-    "date": "2026-05-21",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
+    "id": "007",
     "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
     "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48219340\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
@@ -33,9 +77,9 @@
     ]
   },
   {
-    "id": "004",
+    "id": "008",
     "title": "Vivaldi 8.0",
-    "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\nComments URL: https://news.ycombinator.com/item?id=48219060\nPoints: 118\n# Comments: 53",
+    "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\nComments URL: https://news.ycombinator.com/item?id=48219060\nPoints: 176\n# Comments: 94",
     "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -44,9 +88,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "009",
     "title": "Haskell Foundation 2026 Update",
-    "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 114\n# Comments: 32",
+    "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 130\n# Comments: 41",
     "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -55,9 +99,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "010",
     "title": "What is a Demand Coop",
-    "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 62\n# Comments: 60",
+    "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 69\n# Comments: 73",
     "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -66,18 +110,36 @@
     ]
   },
   {
-    "id": "007",
-    "title": "Intuit to lay off over 3k employees to refocus on AI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 190\n# Comments: 141",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "id": "011",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "summary": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
+    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
     "date": "2026-05-21",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "Security",
+      "cyberattacks",
+      "cybersecurity",
+      "Microsoft",
+      "phishing",
+      "scam"
     ]
   },
   {
-    "id": "008",
+    "id": "012",
+    "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
+    "summary": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
+    "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
+    "date": "2026-05-21",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Venture",
+      "SaaS"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
     "summary": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
     "url": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
@@ -91,7 +153,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "014",
     "title": "General Catalyst just led a $63M bet on India’s travel payments market",
     "summary": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
     "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
@@ -107,7 +169,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "015",
     "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
     "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
     "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
@@ -121,7 +183,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "016",
     "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
     "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
     "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
@@ -136,7 +198,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "017",
     "title": "Anthropic says it’s about to have its first profitable quarter",
     "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
     "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
@@ -150,7 +212,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "018",
     "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
     "summary": "Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit asking him to delete his code. Now the 3D printing community is lining up behind Jarczak to fund a war again",
     "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
@@ -163,7 +225,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "019",
     "title": "Meta lays off thousands of employees to offset AI investments",
     "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"",
     "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
@@ -178,7 +240,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "020",
     "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
     "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track o",
     "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
@@ -200,7 +262,106 @@
     ]
   },
   {
-    "id": "016",
+    "id": "021",
+    "title": "5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared",
+    "summary": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
+    "url": "https://www.wired.com/story/the-best-android-tablets/",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Android",
+      "tablets",
+      "Google",
+      "productivity",
+      "Shopping",
+      "Samsung",
+      "And Oranges"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
+    "summary": "A svelte smart ring can track important activity, sleep, and health metrics. Plus—unlike most smartwatches—it doesn’t need to be charged every day.",
+    "url": "https://www.wired.com/gallery/best-smart-rings/",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Health and Fitness",
+      "Shopping",
+      "buying guides",
+      "Wearables",
+      "Samsung",
+      "Fitness Trackers",
+      "Sleep",
+      "health",
+      "fitness",
+      "Tiny Tech"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
+    "summary": "Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.",
+    "url": "https://www.wired.com/gallery/best-dyson-vacuums/",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Home",
+      "vacuums",
+      "home",
+      "household",
+      "buying guides",
+      "Shopping",
+      "Vacuums",
+      "Dyson",
+      "Floor Show"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars",
+    "summary": "Unlike Euphoria, the Apple TV show wants to humanize the experience of sex workers rather than catastrophize the extremes of the profession.",
+    "url": "https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "tags": [
+      "Culture",
+      "Culture / TV",
+      "TV",
+      "HBO",
+      "porn",
+      "Sex and Relationships",
+      "apple tv",
+      "OnlyFans",
+      "Social Media"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "4chan’s Misogynist ‘Wizards’ Are Nudifying Women by Request",
+    "summary": "As nonconsensual explicit deepfakes continue to proliferate online, entire communities are now collaborating on this digital form of sexual abuse.",
+    "url": "https://www.wired.com/story/4chans-misogynist-wizards-are-nudifying-women-by-request/",
+    "date": "2026-05-21",
+    "source": "Wired",
+    "tags": [
+      "Culture",
+      "Culture / Digital Culture",
+      "Social Media",
+      "porn",
+      "4chan",
+      "Sexual Harassment",
+      "generative AI",
+      "Digital violence"
+    ]
+  },
+  {
+    "id": "026",
     "title": "Best Yoga Mats (2026): Lululemon, Manduka, JadeYoga",
     "summary": "Searching for the best yoga mat to help deepen your flow, master tree pose, and discover the meaning of life? For two of the three, we’ve got you covered.",
     "url": "https://www.wired.com/gallery/the-best-yoga-mat/",
@@ -220,7 +381,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "027",
     "title": "The Department of Labor’s Faith Leader Is Now Also in Charge of Its Civil Rights Enforcement",
     "summary": "Kenneth Wolfe organized the Department of Labor’s controversial prayer services before he was quietly appointed to lead a major agency office.",
     "url": "https://www.wired.com/story/the-department-of-labors-faith-leader-is-now-also-in-charge-of-its-civil-rights-enforcement/",
@@ -235,7 +396,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "028",
     "title": "The Best Home Security System Is Modular (2026)",
     "summary": "I’ve had SimpliSafe’s modular, no-contract setup for nearly a decade, and adding on to it has been a cinch.",
     "url": "https://www.wired.com/story/simplisafe-rave-2026/",
@@ -255,7 +416,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "029",
     "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
     "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks that has impacted hundreds of organizations.",
     "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
@@ -278,7 +439,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "030",
     "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
     "summary": "France is already moving on from Zoom and Microsoft Teams in favor of homegrown alternatives. Other countries are quickly following suit.",
     "url": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
@@ -301,157 +462,6 @@
       "Donald Trump",
       "france",
       "Parting Ways"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Columbia Promo Codes: 15% Off | May 2026",
-    "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
-    "url": "https://www.wired.com/story/columbia-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Sam's Club Coupons and Promo May 2026",
-    "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
-    "url": "https://www.wired.com/story/sams-club-coupon/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
-    "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
-    "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
-    "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
-    "url": "https://www.wired.com/story/ll-bean-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "15% Off Adidas Promo Code | May 2026",
-    "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
-    "url": "https://www.wired.com/story/adidas-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Hulu Promo Codes & Discounts: 20% Off in May",
-    "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
-    "url": "https://www.wired.com/story/hulu-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
-    "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
-    "url": "https://www.wired.com/story/vitamix-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Castlery Promo Codes: 15% Off for May 2026",
-    "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
-    "url": "https://www.wired.com/story/castlery-promo-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Chirp Discount Codes: Save Up to 67%",
-    "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-    "url": "https://www.wired.com/story/chirp-discount-code/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
-    "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
-    "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
-    "date": "2026-05-21",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "xAI",
-      "SpaceX",
-      "IPOs",
-      "Grok",
-      "Elon Musk",
-      "artificial intelligence",
-      "Spicy Mode"
     ]
   }
 ]
