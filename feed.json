@@ -7,10 +7,10 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.spacex.com/launches/starship-flight-12",
-      "title": "Starship's Twelfth Flight Test",
-      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-12\nComments URL: https://news.ycombinator.com/item?id=48214558\nPoints: 76\n# Comments: 63",
-      "date_published": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 27\n# Comments: 6",
+      "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
       ],
@@ -18,86 +18,236 @@
     },
     {
       "id": "002",
-      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
-      "title": "Google Declaring War on the Web",
-      "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 238\n# Comments: 136",
-      "date_published": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+      "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Enterprise",
+        "TC",
+        "cpus",
+        "nvidia"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "003",
-      "url": "https://github.com/kouhxp/yapsnap",
-      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-      "summary": "Article URL: https://github.com/kouhxp/yapsnap\nComments URL: https://news.ycombinator.com/item?id=48214399\nPoints: 14\n# Comments: 1",
-      "date_published": "2026-05-20",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "title": "Anthropic says it’s about to have its first profitable quarter",
+      "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "AI",
+        "Anthropic",
+        "Claude",
+        "OpenAI"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "004",
-      "url": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-      "title": "GitHub's take on age assurance for developers",
-      "summary": "Article URL: https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/\nComments URL: https://news.ycombinator.com/item?id=48214215\nPoints: 20\n# Comments: 8",
-      "date_published": "2026-05-20",
+      "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
+      "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
+      "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "Business",
+        "Business / Artificial Intelligence",
+        "xAI",
+        "SpaceX",
+        "IPOs",
+        "Grok",
+        "Elon Musk",
+        "artificial intelligence",
+        "Spicy Mode"
       ],
-      "_source": "Hacker News"
+      "_source": "Wired"
     },
     {
       "id": "005",
-      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
-      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-      "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play\nComments URL: https://news.ycombinator.com/item?id=48214188\nPoints: 31\n# Comments: 6",
-      "date_published": "2026-05-20",
+      "url": "https://dev.to/mukundakatta/a-3-step-agent-cost-me-420-agenttrace-showed-me-the-on-tool-call-hiding-in-plain-sight-3omp",
+      "title": "A 3-step agent cost me $4.20. agenttrace showed me the O(n ) tool call hiding in plain sight.",
+      "summary": "I ran a small agent. Three steps. One web search, one summarize, one cite-check. I had budgeted maybe 12 cents.\n\nThe bill at the end of the run was $4.20.\n\nI knew something was off but the per-call invoice line items were not telling me anything useful. They were just a list of messages.create calls",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "hermesagent",
+        "ai",
+        "llm",
+        "observability"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-      "title": "SpaceX S-1",
-      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\nComments URL: https://news.ycombinator.com/item?id=48213933\nPoints: 176\n# Comments: 123",
-      "date_published": "2026-05-20",
+      "url": "https://dev.to/ai_superapp/beyond-webview-the-next-evolution-of-hybrid-app-architecture-170n",
+      "title": "Beyond WebView: The Next Evolution of Hybrid App Architecture",
+      "summary": "1. The Hybrid App Journey — What Got Us Here\n\n\nFor years, mobile development teams have faced the same trade-off: native applications provide the best performance and user experience, but they also require maintaining separate iOS and Android codebases, independent release cycles, and higher develop",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "miniprogram",
+        "mobile",
+        "platform",
+        "fintech"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://legiscan.com/CO/bill/SB051/2026",
-      "title": "Colorado Amended SB051 (Age Verification Bill) to Exclude Open Source Projects",
-      "summary": "Article URL: https://legiscan.com/CO/bill/SB051/2026\nComments URL: https://news.ycombinator.com/item?id=48213651\nPoints: 51\n# Comments: 16",
-      "date_published": "2026-05-20",
+      "url": "https://dev.to/mukundakatta/our-retry-loop-made-an-outage-worse-the-circuit-breaker-stopped-the-cascade-4n47",
+      "title": "Our retry loop made an outage worse. The circuit breaker stopped the cascade.",
+      "summary": "A few weeks back there was a 22-minute window where Anthropic returned a high rate of 5xx responses. Not a full outage. Degraded.\n\nOur agent service had a retry policy that backed off and tried again on 5xx. With six workers and a shared retry budget that I had set too high, we were re-issuing faile",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "hermesagent",
+        "ai",
+        "llm",
+        "rust"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing",
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "summary": "Article URL: https://www.science.org/content/article/not-alive-not-dead-disembodied-human-brains-used-drug-testing\nComments URL: https://news.ycombinator.com/item?id=48212992\nPoints: 130\n# Comments: 104",
-      "date_published": "2026-05-20",
+      "url": "https://dev.to/mukundakatta/claude-returned-json-blocks-14-of-the-time-here-is-the-rust-crate-i-wish-i-had-earlier-4dp6",
+      "title": "Claude returned ```json blocks 14% of the time. Here is the Rust crate I wish I had earlier.",
+      "summary": "I had a system prompt that ended with: Reply with only a JSON object. Do not include code fences. Do not include explanation.\n\nThat should be enough. It is not.\n\nOver a week of structured-output calls (12,400 of them, mostly Claude Sonnet 4.5 and 4.7), I logged how often the response was actually pa",
+      "date_published": "2026-05-21",
       "tags": [
-        "Hacker News"
+        "hermesagent",
+        "ai",
+        "llm",
+        "rust"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "summary": "Article URL: https://openai.com/index/model-disproves-discrete-geometry-conjecture/\nComments URL: https://news.ycombinator.com/item?id=48212493\nPoints: 622\n# Comments: 427",
+      "url": "https://dev.to/mukundakatta/i-burned-my-anthropic-org-cap-and-waited-3-days-then-i-built-llmfleet-2noo",
+      "title": "I burned my Anthropic org cap and waited 3 days. Then I built llmfleet.",
+      "summary": "Tuesday afternoon I kicked off a re-grading job. About 18,000 prompts against claude-opus-4-7, eight workers, each one looping messages.create as fast as it could.\n\nForty minutes in, every call started coming back with a 429 and a header that said anthropic-ratelimit-tokens-remaining: 0. Fine, I tho",
+      "date_published": "2026-05-21",
+      "tags": [
+        "hermesagent",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-71-codegraph-pre-index-your-codebase-for-ai-agents-save-35-50f3",
+      "title": "One Open Source Project a Day (No. 71): CodeGraph — Pre-Index Your Codebase for AI Agents, Save 35% Cost and 70% Tool Calls",
+      "summary": "Introduction\n\n\n\n\"~35% cheaper · ~70% fewer tool calls · 100% local\"\n\n\nThis is the No.71 article in the \"One Open Source Project a Day\" series. Today we are exploring CodeGraph.\n\nStart with a scenario: you ask Claude Code \"How is AuthService being called?\" Without any assistance, Claude's approach is",
+      "date_published": "2026-05-21",
+      "tags": [
+        "opensource",
+        "claude",
+        "mcp",
+        "sqlite"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/mukundakatta/the-prompt-your-sdk-sends-is-not-the-prompt-you-wrote-1o3l",
+      "title": "The prompt your SDK sends is not the prompt you wrote",
+      "summary": "A reply from Claude came back nonsense. The system prompt looked fine in my code. The messages looked fine in my logs. So I added a print(messages) right before client.messages.create(...). Still fine.\n\nI was looking in the wrong place. The SDK was building the request body. What hit the wire was no",
+      "date_published": "2026-05-21",
+      "tags": [
+        "hermesagent",
+        "ai",
+        "llm",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/casperday11/i-rebuilt-my-little-corner-of-the-internet-2lk0",
+      "title": "I rebuilt my little corner of the internet",
+      "summary": "Spent the last day redesigning my github + portfolio until they finally started feeling like me instead of another developer template pretending to have personality.\n\ndark interfaces.\ntiny details nobody notices consciously.\nmachine learning mixed with interaction design.\nand a slightly unhealthy ob",
+      "date_published": "2026-05-21",
+      "tags": [
+        "ai",
+        "webdev",
+        "programming",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/annaspies/from-years-to-hours-joe",
+      "title": "From Years to Hours",
+      "summary": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual truth. That was the year I joined a lovely Portland-based startup called Stackery, which took infrastructure as code (IaC for those familiar) and generated an architecture diagram that looked like this:",
+      "date_published": "2026-05-21",
+      "tags": [
+        "ai",
+        "stripe",
+        "cli",
+        "agents"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/samreid/why-your-uptime-monitor-says-everythings-fine-while-users-see-a-white-screen-2j0d",
+      "title": "Why your uptime monitor says everything's fine while users see a white screen",
+      "summary": "It was 11:47 PM on a Thursday when the Slack messages started rolling in.\n\n\"Hey, the checkout page looks broken.\"\n\n\"Is the site down? I'm seeing a blank screen.\"\n\n\"Tried three different browsers, same thing.\"\n\nI pulled up our uptime monitor. Green. Every check passing. Response times normal. HTTP 20",
+      "date_published": "2026-05-21",
+      "tags": [
+        "webdev",
+        "devops",
+        "monitoring",
+        "javascript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/brian_becker_0b40adcf07f9/what-id-do-differently-if-i-migrated-this-cicd-pipeline-again-next-week-28f2",
+      "title": "What I'd do differently if I migrated this CI/CD pipeline again next week",
+      "summary": "by the AI that did it\n\n\nI'm Brian. I'm 63. I've been writing software since 1980 — Fortran on punch cards at Mizzou, the AT&T PC clone running MIDI on the road in the late '80s, SEMO.net from 1995 to a few months ago when I gave it away to a former employee. These days I'm VP of Software Engineering",
+      "date_published": "2026-05-21",
+      "tags": [
+        "claude",
+        "devops",
+        "aws",
+        "receipts"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/futuredevtech/what-is-mcp-model-context-protocol-and-why-developers-suddenly-care-4l7d",
+      "title": "What is MCP (Model Context Protocol) and Why Developers Suddenly Care",
+      "summary": "Everybody in AI suddenly started talking about MCP like it’s obvious.\n\nOne week it was AI agents. Then workflow automation. Then Claude Desktop integrations. Then Cursor and Windsurf started pushing MCP support everywhere. And suddenly developers everywhere started saying:\n\n“Just use MCP.”\n\nBut most",
+      "date_published": "2026-05-21",
+      "tags": [
+        "ai",
+        "llm",
+        "mcp",
+        "tooling"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "BBC News"
+      ],
+      "_source": "BBC News"
+    },
+    {
+      "id": "018",
+      "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
+      "title": "The Letter S, by Donald Knuth [pdf]",
+      "summary": "Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf\nComments URL: https://news.ycombinator.com/item?id=48216016\nPoints: 8\n# Comments: 0",
       "date_published": "2026-05-20",
       "tags": [
         "Hacker News"
@@ -105,25 +255,102 @@
       "_source": "Hacker News"
     },
     {
-      "id": "010",
+      "id": "019",
+      "url": "https://github.com/kageroumado/phosphene",
+      "title": "I reverse engineered Apple's video wallpapers",
+      "summary": "Article URL: https://github.com/kageroumado/phosphene\nComments URL: https://news.ycombinator.com/item?id=48215979\nPoints: 56\n# Comments: 9",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://www.spacex.com/launches/starship-flight-12",
+      "title": "Starship's Twelfth Flight Test",
+      "summary": "Article URL: https://www.spacex.com/launches/starship-flight-12\nComments URL: https://news.ycombinator.com/item?id=48214558\nPoints: 91\n# Comments: 80",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+      "title": "Google Declaring War on the Web",
+      "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 333\n# Comments: 235",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
+      "url": "https://github.com/kouhxp/yapsnap",
+      "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
+      "summary": "Article URL: https://github.com/kouhxp/yapsnap\nComments URL: https://news.ycombinator.com/item?id=48214399\nPoints: 29\n# Comments: 12",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "023",
+      "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
+      "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
+      "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play\nComments URL: https://news.ycombinator.com/item?id=48214188\nPoints: 33\n# Comments: 6",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "024",
+      "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
+      "title": "Anthropic is expanding to Colossus2. Will use GB200",
+      "summary": "Article URL: https://xcancel.com/nottombrown/status/2057194829986300375\nComments URL: https://news.ycombinator.com/item?id=48214017\nPoints: 79\n# Comments: 69",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "025",
+      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
+      "title": "SpaceX S-1",
+      "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\nComments URL: https://news.ycombinator.com/item?id=48213933\nPoints: 233\n# Comments: 171",
+      "date_published": "2026-05-20",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
       "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
-      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and Chairman of the board.",
+      "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
       "date_published": "2026-05-20",
       "tags": [
         "Space",
         "Transportation",
         "Elon Musk",
         "IPOs",
-        "rockets",
         "SpaceX",
-        "Starlink",
-        "xAI"
+        "rockets",
+        "xAI",
+        "Starlink"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
       "title": "Clouted wants to take the guesswork out of making short videos go viral",
       "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
@@ -140,7 +367,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
       "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
@@ -157,7 +384,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
       "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
       "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
@@ -171,7 +398,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
       "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
       "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
@@ -189,254 +416,6 @@
         "xAI"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "015",
-      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
-      "title": "Anthropic will pay xAI $1.25B per month for compute",
-      "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "colossus",
-        "data centers",
-        "SpaceX",
-        "xAI"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "016",
-      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-      "title": "Sam Altman makes ‘mic drop’ offer to every Y Combinator startup",
-      "summary": "Altman offered to have OpenAI invest in every single startup in this Y Combinator class: tokens for equity.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Startups",
-        "Venture",
-        "OpenAI",
-        "sam altman",
-        "Y Combinator"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "017",
-      "url": "https://techcrunch.com/video/you-dont-need-to-be-an-ai-startup-to-raise-lucra-has-20m-to-prove-it/",
-      "title": "You don’t need to be an AI startup to raise. Lucra has $20M to prove it.",
-      "summary": "Slapping “AI” on your startup’s pitch deck is basically table stakes right now. When a founder raised $20 million from Cathie Wood’s ARK Invest for an eSports gamification loyalty startup without those two letters in the spotlight, it got us wondering how the conversation even started — especially w",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Startups",
-        "AI startup",
-        "ark invest",
-        "Cathie Wood",
-        "Equity podcast",
-        "Lucra",
-        "startup fundraising",
-        "venture capital"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "018",
-      "url": "https://techcrunch.com/2026/05/20/microsofts-carbon-removal-plans-arent-dead-after-all/",
-      "title": "Microsoft’s carbon-removal plans aren’t dead after all",
-      "summary": "Microsoft is responsible for over 90% of the carbon-removal market, and reports suggested the company was pausing purchases entirely. This new deal should help assuage the fears of CDR startups.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Climate",
-        "biogas",
-        "carbon credits",
-        "carbon removal",
-        "Exclusive",
-        "Microsoft"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-      "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "ChatGPT",
-        "erdos problems",
-        "OpenAI",
-        "reasoning models"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "summary": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "andrew ng",
-        "google brain",
-        "IrisGo"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://techcrunch.com/2026/05/20/teslas-full-self-driving-software-is-creeping-into-europe/",
-      "title": "Tesla’s Full Self-Driving software is creeping into Europe",
-      "summary": "First came the Netherlands, now it's Lithuania. And more European countries appear to be in the queue for Tesla's driver-assistance system.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "Europe",
-        "EVs",
-        "Tesla",
-        "Tesla FSD"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "022",
-      "url": "https://techcrunch.com/2026/05/20/airbnb-gets-into-hotels-expands-ai-for-host-onboarding-and-customer-support/",
-      "title": "Airbnb gets into hotels, expands AI for host onboarding and customer support",
-      "summary": "Airbnb will soon let you book luggage storage and car rental services on its app.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Apps",
-        "Airbnb",
-        "customer support",
-        "hotel bookings"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "023",
-      "url": "https://techcrunch.com/2026/05/20/global-ev-market-goes-k-shaped-as-the-u-s-gets-left-behind/",
-      "title": "Global EV market goes K-shaped as the US gets left behind",
-      "summary": "EV sales have surged worldwide in every region but the U.S., posing risks for legacy and startup automakers.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Climate",
-        "Transportation",
-        "Analysis",
-        "electric vehicles",
-        "EVs",
-        "one big beautiful bill"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Startups",
-        "Elon Musk",
-        "In Brief",
-        "IPOs",
-        "OpenAI",
-        "sam altman"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/20/jeff-bezos-you-were-so-close-to-making-a-good-point/",
-      "title": "Jeff Bezos, you were so close to making a good point",
-      "summary": "\"Why is a nurse in Queens who makes $75,000 a year paying more than $1,000 a month in taxes?\" Bezos said Wednesday morning on CNBC. \"That's $1,000 that could help with rent, or groceries, or anything.\"",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Commerce",
-        "Amazon",
-        "jeff bezos"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/",
-      "title": "Customers say Trump Mobile is leaking their personal information",
-      "summary": "Trump Mobile is leaking customers’ email and home addresses but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their leaked data is authentic.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "data exposure",
-        "Data leak",
-        "Donald Trump",
-        "privacy",
-        "Trump Mobile"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
-      "title": "Intuit to lay off over 3,000 employees to refocus on AI",
-      "summary": "In a memo to employees, CEO Sasan Goodarzi said the layoffs are meant to reduce complexity, simplify the company's corporate structure, and deliver better AI products.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Enterprise",
-        "Intuit",
-        "Layoffs",
-        "Sasan Goodarzi",
-        "tech layoffs"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "title": "AI search startups are blowing up",
-      "summary": "AI search has quietly become one of the most attractive targets in consumer AI.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "AI search",
-        "Exa Labs",
-        "In Brief",
-        "Parallel Web Systems"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "summary": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "audio creation",
-        "Music",
-        "Stability AI"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
-      "title": "Trump admin didn't want Ebola-exposed Americans, sent them to Berlin, Prague",
-      "summary": "Officials denied refusing entry, but dodged questions on why Americans didn't return.",
-      "date_published": "2026-05-20",
-      "tags": [
-        "Health",
-        "CDC",
-        "ebola",
-        "restrictions",
-        "travel",
-        "trump administration"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
