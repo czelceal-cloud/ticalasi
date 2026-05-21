@@ -7,6 +7,83 @@
   "items": [
     {
       "id": "001",
+      "url": "https://github.com/helvesec/rmux",
+      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+      "summary": "Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.Two surfaces: a tmux-compatible CLI (~90 commands, your keybindings j",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+      "title": "The famous O3 \"GeoGuessr\" prompt did not work",
+      "summary": "Article URL: https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/\nComments URL: https://news.ycombinator.com/item?id=48219682\nPoints: 14\n# Comments: 0",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
+      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
+      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+      "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48219340\nPoints: 0\n# Comments: 0",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "004",
+      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
+      "title": "Vivaldi 8.0",
+      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\nComments URL: https://news.ycombinator.com/item?id=48219060\nPoints: 118\n# Comments: 53",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+      "title": "Haskell Foundation 2026 Update",
+      "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 114\n# Comments: 32",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+      "title": "What is a Demand Coop",
+      "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 62\n# Comments: 60",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+      "title": "Intuit to lay off over 3k employees to refocus on AI",
+      "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 190\n# Comments: 141",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
       "url": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
       "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
       "summary": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
@@ -20,7 +97,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
+      "id": "009",
       "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
       "title": "General Catalyst just led a $63M bet on India’s travel payments market",
       "summary": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
@@ -36,7 +113,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "003",
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
       "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
       "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
@@ -50,7 +127,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "004",
+      "id": "011",
       "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
       "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
@@ -65,7 +142,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
       "title": "Anthropic says it’s about to have its first profitable quarter",
       "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
@@ -79,7 +156,35 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "006",
+      "id": "013",
+      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+      "summary": "Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit asking him to delete his code. Now the 3D printing community is lining up behind Jarczak to fund a war again",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Gadgets",
+        "Report",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "014",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Business",
+        "Meta",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "015",
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
       "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track o",
@@ -101,7 +206,85 @@
       "_source": "The Verge"
     },
     {
-      "id": "007",
+      "id": "016",
+      "url": "https://www.wired.com/gallery/the-best-yoga-mat/",
+      "title": "Best Yoga Mats (2026): Lululemon, Manduka, JadeYoga",
+      "summary": "Searching for the best yoga mat to help deepen your flow, master tree pose, and discover the meaning of life? For two of the three, we’ve got you covered.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Gear",
+        "Gear / Products",
+        "Gear / Products / Health and Fitness",
+        "Shopping",
+        "buying guides",
+        "health",
+        "fitness",
+        "apparel",
+        "Yoga",
+        "Buying Guide"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
+      "url": "https://www.wired.com/story/the-department-of-labors-faith-leader-is-now-also-in-charge-of-its-civil-rights-enforcement/",
+      "title": "The Department of Labor’s Faith Leader Is Now Also in Charge of Its Civil Rights Enforcement",
+      "summary": "Kenneth Wolfe organized the Department of Labor’s controversial prayer services before he was quietly appointed to lead a major agency office.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Politics",
+        "politics",
+        "government",
+        "religion",
+        "Prayers Up"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "018",
+      "url": "https://www.wired.com/story/simplisafe-rave-2026/",
+      "title": "The Best Home Security System Is Modular (2026)",
+      "summary": "I’ve had SimpliSafe’s modular, no-contract setup for nearly a decade, and adding on to it has been a cinch.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Gear",
+        "Gear / Products / Home",
+        "Gear / Products",
+        "smart home",
+        "household",
+        "Shopping",
+        "gadgets",
+        "rants and raves",
+        "security camera",
+        "Safe Bet"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
+      "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
+      "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks that has impacted hundreds of organizations.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Security",
+        "Security / Cyberattacks and Hacks",
+        "Security / Security News",
+        "hacks",
+        "github",
+        "Microsoft",
+        "Crime",
+        "cyberattacks",
+        "cybercrime",
+        "hackers",
+        "data breach",
+        "software",
+        "Rampage"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "020",
       "url": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
       "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
       "summary": "France is already moving on from Zoom and Microsoft Teams in favor of homegrown alternatives. Other countries are quickly following suit.",
@@ -127,7 +310,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "021",
       "url": "https://www.wired.com/story/columbia-promo-code/",
       "title": "Columbia Promo Codes: 15% Off | May 2026",
       "summary": "Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.",
@@ -142,7 +325,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "022",
       "url": "https://www.wired.com/story/sams-club-coupon/",
       "title": "Sam's Club Coupons and Promo May 2026",
       "summary": "Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.",
@@ -157,7 +340,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "023",
       "url": "https://www.wired.com/story/the-motley-fool-promo-code/",
       "title": "The Motley Fool Promo Code: Save Up to $200 on Stock Advisor May 2026",
       "summary": "Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.",
@@ -172,7 +355,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "024",
       "url": "https://www.wired.com/story/ll-bean-promo-code/",
       "title": "L.L.Bean Promo Codes and Coupons: 75% Off",
       "summary": "Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.",
@@ -187,7 +370,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "025",
       "url": "https://www.wired.com/story/adidas-promo-code/",
       "title": "15% Off Adidas Promo Code | May 2026",
       "summary": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
@@ -201,7 +384,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "026",
       "url": "https://www.wired.com/story/hulu-promo-code/",
       "title": "Hulu Promo Codes & Discounts: 20% Off in May",
       "summary": "Students can get a Hulu plan for $1.99 per month. Get more details on this and other great deals below.",
@@ -215,7 +398,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "027",
       "url": "https://www.wired.com/story/vitamix-promo-code/",
       "title": "Vitamix Promo Codes and Deals: $25 Off + Free Shipping",
       "summary": "Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.",
@@ -229,7 +412,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "028",
       "url": "https://www.wired.com/story/castlery-promo-code/",
       "title": "Castlery Promo Codes: 15% Off for May 2026",
       "summary": "Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.",
@@ -244,7 +427,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "029",
       "url": "https://www.wired.com/story/chirp-discount-code/",
       "title": "Chirp Discount Codes: Save Up to 67%",
       "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
@@ -259,7 +442,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "030",
       "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
       "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
       "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
@@ -276,183 +459,6 @@
         "Spicy Mode"
       ],
       "_source": "Wired"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/ola-zoll/architecting-a-self-governing-de-fi-agent-heres-how-it-ranked-ljo",
-      "title": "Architecting a Self Governing De-Fi Agent - Here's How It Ranked",
-      "summary": "What if your AI trading agent couldn't execute a single trade unless you had explicitly told it that it was allowed to?\n\nNot \"the AI will try its best to follow your preferences.\" Not \"there's a risk limit slider somewhere in the settings.\" I mean a hard, synchronous block. As long as the rule doesn",
-      "date_published": "2026-05-21",
-      "tags": [
-        "blockchain",
-        "web3",
-        "agents",
-        "softwareengineering"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/ip1337/how-to-structure-a-saas-product-page-so-ai-assistants-can-recommend-it-3h02",
-      "title": "How to Structure a SaaS Product Page So AI Assistants Can Recommend It",
-      "summary": "Most SaaS product pages in 2026 are structured for human eyes and Google's old keyword crawler. They render fine in a browser, they score well on Lighthouse, they have a /blog and a /pricing and a /about. And they are nearly invisible to ChatGPT, Claude, Perplexity, and Gemini when a user asks \"what",
-      "date_published": "2026-05-21",
-      "tags": [
-        "ai",
-        "agents",
-        "programming",
-        "aeo"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://dev.to/developer_trail_b67d3a3e7/how-to-submit-a-session-proposal-for-dreamforce-2026-cfp-closes-may-27-1b74",
-      "title": "How to Submit a Session Proposal for Dreamforce 2026 — CFP Closes May 27",
-      "summary": "Dreamforce has always been more than just another tech conference in the Salesforce ecosystem. For many professionals, it’s where careers grow, ideas get recognized, and real community connections happen.\n\nIf you’ve ever thought about speaking at Dreamforce, now is the time to act. The Dreamforce 20",
-      "date_published": "2026-05-21",
-      "tags": [
-        "dreamforce",
-        "salesforce",
-        "dreamforce2026",
-        "salesforceevents"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/durva_shah/strange-truths-from-the-architecture-of-ai-1jj9",
-      "title": "Strange Truths from the Architecture of AI",
-      "summary": "Pulling back the curtain on modern machine learning architecture reveals something entirely different: a system that is brilliantly complex, intensely stubborn, and sometimes hilariously lazy 😶‍🌫️\nHere are the realities that completely redefine what \"artificial intelligence\" actually means under the",
-      "date_published": "2026-05-21",
-      "tags": [
-        "ai",
-        "machinelearning",
-        "embeddedsystems",
-        "career"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/kichucoder/singleton-design-pattern-in-java-from-naive-to-thread-safe-g7l",
-      "title": "Singleton Design Pattern in Java — From Naive to Thread-Safe",
-      "summary": "What is the need for Singleton Pattern ?\n\n\nLet's say we need to connect to DB and for every request if we keep creating a new Instance of Db connection to connect to Db this will create a Performance overhead. As it is costly to create a Db connection for every request and it takes time to create th",
-      "date_published": "2026-05-21",
-      "tags": [
-        "java",
-        "designpatterns",
-        "beginners",
-        "singleton"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/johrdan_blaack_0b818db70a/how-to-measure-whether-ai-video-is-production-ready-cost-per-usable-clip-427m",
-      "title": "How to Measure Whether AI Video Is Production-Ready: Cost per Usable Clip",
-      "summary": "AI video demos well. Production is where it gets messy.\n\nThe failure mode I keep seeing:\n\n\nTeam generates 50 short clips, 7 are usable, nobody tracks why the other 43 failed, and the next batch starts from scratch.\n\n\nThat is not just a model problem. It is a workflow and measurement problem.\n\nIf you",
-      "date_published": "2026-05-21",
-      "tags": [
-        "ai",
-        "automation"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/micro-saas-journal/selling-digital-products-without-platforms-arbitrary-approval-2h19",
-      "title": "Selling Digital Products Without Platforms' Arbitrary Approval",
-      "summary": "The Problem We Were Actually Solving\n\n\nOur team focused on creating an inclusive marketplace for creators and buyers alike. We ensured our digital products were accessible across the globe, with multiple payment options to accommodate different regions. However, our reliance on traditional payment g",
-      "date_published": "2026-05-21",
-      "tags": [
-        "webdev",
-        "programming",
-        "dataengineering",
-        "python"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/jaksontate/virtualize-game-development-with-nvidia-rtx-pro-6000-blackwell-servers-5d8n",
-      "title": "Virtualize Game Development with NVIDIA RTX PRO 6000 Blackwell Servers",
-      "summary": "The game development ecosystem is scaling at an unprecedented rate. Modern studio teams are engineering massive, interconnected virtual worlds operating across highly complex asset pipelines, shifting rapidly toward heavily distributed remote workforces. \n\nDespite these advanced structural transitio",
-      "date_published": "2026-05-21",
-      "tags": [
-        "gamedev",
-        "devops",
-        "sre",
-        "virtualization"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/hkn_2011/leveling-up-from-class-10-icse-to-polytechnic-here-is-why-i-think-even-beginners-need-to-look-at-4hma",
-      "title": "Leveling up from Class 10 ICSE to Polytechnic! Here is why I think even beginners need to look at code through a security lens. 👁️💻",
-      "summary": "Hey everyone! 👋\n\nI’m Ch Hima Kartikeya Naidu. I just finished my Class 10 from an ICSE school, and I’m about to start my diploma journey. My ultimate dream is to build a career in Cyber Security, but on the side, I’m also a small-scale game developer who loves using storytelling and creativity to cr",
-      "date_published": "2026-05-21",
-      "tags": [
-        "cybersecurity",
-        "diplomabound",
-        "infosecbeginner",
-        "beginners"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/marketoracle/i-corrected-my-ai-email-security-analysis-6-companies-have-real-gaps-47gn",
-      "title": "I corrected my AI email security analysis — 6 companies have real gaps",
-      "summary": "Yesterday I published an analysis claiming that 26 of 39 AI companies use SPF softfail, implying their email could be spoofed. A reader (@privacyfish) pointed out that this is misleading:\n\n\nSPF ~all by itself does not always mean \"the domain can be spoofed into inboxes\" if the domain has DMARC enfor",
-      "date_published": "2026-05-21",
-      "tags": [
-        "security",
-        "email",
-        "dns",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/tage_cc_b441e6b367279d2fa/i-open-sourced-memduck-a-self-hosted-ai-memory-workspace-ko5",
-      "title": "I open sourced memduck, a self-hosted AI memory workspace",
-      "summary": "I built memduck because useful context keeps disappearing across links, copied text, screenshots, and chat messages.\n\nMost of my actual working memory is not in one clean notes app. It is spread across browser tabs, saved links, snippets, screenshots, Telegram messages, and random text I copied whil",
-      "date_published": "2026-05-21",
-      "tags": [
-        "ai",
-        "opensource",
-        "productivity",
-        "showdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/knkrn5/visual-guide-to-tcp-at-the-transport-layer-dn7",
-      "title": "Visual Guide to TCP at the Transport Layer",
-      "summary": "I built a detailed visual diagrams for the Transmission Control Protocol (TCP) — one of the core protocols powering the internet, that operates at the Transport Layer (Layer 4) of the OSI model.\n\nI broke down:\n🔹 TCP Segment Structure: -\nSource & destination ports\nSequence number\nAcknowledgment numbe",
-      "date_published": "2026-05-21",
-      "tags": [
-        "networking",
-        "webdev",
-        "tcp",
-        "computerscience"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "030",
-      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
-      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
-      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "BBC News"
-      ],
-      "_source": "BBC News"
     }
   ]
 }
