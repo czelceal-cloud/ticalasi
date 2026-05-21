@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf",
-      "title": "Serving Netflix Video Traffic at 400Gb/S and Beyond (2022) [pdf]",
-      "summary": "Article URL: https://nabstreamingsummit.com/wp-content/uploads/2022/05/2022-Streaming-Summit-Netflix.pdf\nComments URL: https://news.ycombinator.com/item?id=48227068\nPoints: 20\n# Comments: 9",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 27\n# Comments: 1",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.thek6project.co.uk/",
-      "title": "Where are all the UK red telephone kiosks?",
-      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 33\n# Comments: 16",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "title": "Using Kagi Search with Low Vision",
+      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 38\n# Comments: 1",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 303\n# Comments: 107",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 68\n# Comments: 23",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-      "title": "Chewing gum restores dad's taste and smell years after Covid",
-      "summary": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/\nComments URL: https://news.ycombinator.com/item?id=48226038\nPoints: 83\n# Comments: 34",
+      "url": "https://www.thek6project.co.uk/",
+      "title": "Where are all the UK red telephone kiosks?",
+      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 51\n# Comments: 33",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -51,6 +51,28 @@
     },
     {
       "id": "005",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 365\n# Comments: 148",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
+      "title": "Chewing gum restores dad's taste and smell years after Covid",
+      "summary": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/\nComments URL: https://news.ycombinator.com/item?id=48226038\nPoints: 115\n# Comments: 46",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
       "url": "https://news.ycombinator.com/item?id=48225852",
       "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
       "summary": "Comments URL: https://news.ycombinator.com/item?id=48225852\nPoints: 0\n# Comments: 0",
@@ -61,32 +83,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "006",
-      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
-      "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\nComments URL: https://news.ycombinator.com/item?id=48225838\nPoints: 113\n# Comments: 34",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://news.ycombinator.com/item?id=48225596",
-      "title": "Show HN: Agent.email – sign up via curl, claim with a human OTP",
-      "summary": "Hi HN! We're Haakam, Michael, and Adi from AgentMail- a ycs25 company. We give AI agents their own email inboxes. Recently, we ran an experiment called Agent.Email. It's a signup flow designed specifically for AI agents instead of humans.The inspiration came from a few comments we received when we d",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "008",
-      "url": "https://valhovey.github.io/gaia-mary/",
-      "title": "Project Hail Mary – Stellar Navigation Chart",
-      "summary": "Article URL: https://valhovey.github.io/gaia-mary/\nComments URL: https://news.ycombinator.com/item?id=48225297\nPoints: 230\n# Comments: 67",
+      "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+      "title": "News outlets are limiting the Internet Archive’s access to their journalism",
+      "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\nComments URL: https://news.ycombinator.com/item?id=48225838\nPoints: 164\n# Comments: 54",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://www.runtm.com/",
-      "title": "Launch HN: Runtime (YC P26) – Sandboxed coding agents for everyone on a team",
-      "summary": "Hey HN, We're Gus and Carlos from Runtime (https://runtm.com). We're building infra that lets your whole team (including non-engineers) ship with Claude Code, Codex, and other agents without engineering having to handhold every session.After Mentum (YC S21) was acquired, I personally shipped 4 full-",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/\nComments URL: https://news.ycombinator.com/item?id=48225426\nPoints: 190\n# Comments: 239",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -106,6 +106,54 @@
     },
     {
       "id": "010",
+      "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+      "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
+      "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "TC",
+        "Transportation",
+        "antonio gracias",
+        "Elon Musk",
+        "SpaceX",
+        "spacex ipo"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
+      "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
+      "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Transportation",
+        "autonomous vehicles",
+        "avs",
+        "robotaxis",
+        "Waymo"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
+      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
+      "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Apps",
+        "Government & Policy",
+        "Media & Entertainment",
+        "Social",
+        "Politics",
+        "Twitch",
+        "zohran mamdani"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
@@ -121,7 +169,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
       "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
       "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
@@ -137,7 +185,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
       "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
       "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
@@ -158,7 +206,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
       "title": "Six search engines worth trying now that Google isn’t really Google anymore",
       "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
@@ -171,7 +219,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
       "title": "Convective Capital raises an $85 million fund to build disaster resilience",
       "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
@@ -185,7 +233,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
       "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
@@ -199,7 +247,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
       "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
       "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
@@ -213,7 +261,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
       "title": "Spotify takes on Google’s NotebookLM with its new app",
       "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
@@ -228,7 +276,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
@@ -243,7 +291,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
       "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
       "summary": "Spotify is releasing new audiobook plans later this year",
@@ -259,7 +307,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "020",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
       "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
       "summary": "Spotify said that it will monitor activity like streams and shares to determine who is a top fan",
@@ -273,39 +321,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "021",
-      "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-      "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-      "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Apps",
-        "Government & Policy",
-        "Media & Entertainment",
-        "Social",
-        "Politics",
-        "Twitch",
-        "zohran mamdani"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "022",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-      "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Transportation",
-        "autonomous vehicles",
-        "avs",
-        "robotaxis",
-        "Waymo"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "023",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
       "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
@@ -323,7 +339,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
       "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
@@ -338,7 +354,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
       "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
       "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
@@ -352,7 +368,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
       "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
@@ -370,7 +386,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
       "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
       "summary": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
@@ -383,49 +399,33 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "AI",
-        "Climate",
-        "Aluminum",
-        "AMP Robotics",
-        "Exclusive",
-        "recycling",
-        "Sortera"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
-      "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
-      "summary": "Flipper Devices said that the new gadget is in development and the base model will cost under $350.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Gadgets",
-        "Hardware",
-        "Flipper Devices",
-        "Flipper Zero",
-        "offline ai"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/tech-policy/2026/05/zillow-loses-access-to-thousands-of-home-listings-amid-bitter-legal-feud/",
-      "title": "Zillow loses thousands of listings in fight over “hidden” homes",
-      "summary": "Zillow asked for a preliminary injunction as real estate industry fight heats up.",
+      "url": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
+      "title": "AT&T sues California in attempt to shut off old phone network",
+      "summary": "AT&T asks a court and the FCC to block California phone requirements.",
       "date_published": "2026-05-21",
       "tags": [
         "Policy",
-        "Chicago",
-        "real estate",
-        "us housing",
-        "Zillow"
+        "AT&T",
+        "California",
+        "fiber",
+        "wireless"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "030",
+      "url": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
+      "title": "JWST maps the weather on a hot gas giant 700 light-years away",
+      "summary": "The differences seen here could be throwing off how we study planetary atmospheres.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Science",
+        "astronomy",
+        "atmospheric science",
+        "gas giant",
+        "planetary science",
+        "Weather"
       ],
       "_source": "Ars Technica"
     }
