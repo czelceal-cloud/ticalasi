@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home",
-      "title": "A Girl Who Couldn't Draw Home",
-      "summary": "Article URL: https://www.gailweiner.com/post/the-girl-who-couldn-t-draw-home\nComments URL: https://news.ycombinator.com/item?id=48220829\nPoints: 3\n# Comments: 0",
+      "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "summary": "Article URL: https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/\nComments URL: https://news.ycombinator.com/item?id=48222383\nPoints: 17\n# Comments: 0",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-      "title": "Python 3.15: features that didn't make the headlines",
-      "summary": "Article URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html\nComments URL: https://news.ycombinator.com/item?id=48220696\nPoints: 23\n# Comments: 1",
+      "url": "https://www.thehandbasket.co/p/hating-ai-is-good-actually",
+      "title": "Hating AI Is Good",
+      "summary": "Article URL: https://www.thehandbasket.co/p/hating-ai-is-good-actually\nComments URL: https://news.ycombinator.com/item?id=48222366\nPoints: 33\n# Comments: 12",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-      "title": "Flipper One – we need your help",
-      "summary": "Article URL: https://blog.flipper.net/flipper-one-we-need-your-help/\nComments URL: https://news.ycombinator.com/item?id=48220647\nPoints: 39\n# Comments: 10",
+      "url": "https://fabiensanglard.net/mtg/fun//index.html",
+      "title": "Magic the Gathering format: Fun 40",
+      "summary": "Article URL: https://fabiensanglard.net/mtg/fun//index.html\nComments URL: https://news.ycombinator.com/item?id=48222105\nPoints: 3\n# Comments: 0",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
-      "title": "Google officially announces that ads will be included in AI Mode search results",
-      "summary": "Article URL: https://blog.google/products/ads-commerce/google-marketing-live-search-ads/\nComments URL: https://news.ycombinator.com/item?id=48220105\nPoints: 138\n# Comments: 145",
+      "url": "https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c",
+      "title": "Gemini randomly dumped its system prompt",
+      "summary": "Article URL: https://gist.github.com/mkaramuk/44a44d83178e632ec0dd1f02186d822c\nComments URL: https://news.ycombinator.com/item?id=48221976\nPoints: 69\n# Comments: 22",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://noslopgrenade.com/",
-      "title": "No Slop Grenade",
-      "summary": "Article URL: https://noslopgrenade.com/\nComments URL: https://news.ycombinator.com/item?id=48219992\nPoints: 52\n# Comments: 24",
+      "url": "https://fatgid.io/",
+      "title": "FatGid: FreeBSD 14.x kernel local privilege escalation",
+      "summary": "Article URL: https://fatgid.io/\nComments URL: https://news.ycombinator.com/item?id=48221415\nPoints: 7\n# Comments: 0",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://github.com/helvesec/rmux",
-      "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-      "summary": "Author here. RMUX started from a frustration: I've used tmux for years and got tired of scraping output with grep and sleeps to automate anything. So I rebuilt the multiplexer from scratch in Rust, with a programmable layer on top.Two surfaces: a tmux-compatible CLI (~90 commands, your keybindings j",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "title": "Cekura (YC F24) Is Hiring",
+      "summary": "Article URL: https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us\nComments URL: https://news.ycombinator.com/item?id=48221230\nPoints: 0\n# Comments: 0",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
-      "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
-      "summary": "Article URL: https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer\nComments URL: https://news.ycombinator.com/item?id=48219340\nPoints: 0\n# Comments: 0",
+      "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+      "title": "Python 3.15: features that didn't make the headlines",
+      "summary": "Article URL: https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html\nComments URL: https://news.ycombinator.com/item?id=48220696\nPoints: 114\n# Comments: 51",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://vivaldi.com/blog/vivaldi-on-desktop-8-0/",
-      "title": "Vivaldi 8.0",
-      "summary": "Article URL: https://vivaldi.com/blog/vivaldi-on-desktop-8-0/\nComments URL: https://news.ycombinator.com/item?id=48219060\nPoints: 176\n# Comments: 94",
+      "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+      "title": "Flipper One – we need your help",
+      "summary": "Article URL: https://blog.flipper.net/flipper-one-we-need-your-help/\nComments URL: https://news.ycombinator.com/item?id=48220647\nPoints: 359\n# Comments: 205",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
-      "title": "Haskell Foundation 2026 Update",
-      "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 130\n# Comments: 41",
+      "url": "https://spectrum.ieee.org/trinity-nuclear-test",
+      "title": "Lost Images from the 1945 Trinity Nuclear Test Restored",
+      "summary": "Article URL: https://spectrum.ieee.org/trinity-nuclear-test\nComments URL: https://news.ycombinator.com/item?id=48220639\nPoints: 59\n# Comments: 14",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
-      "title": "What is a Demand Coop",
-      "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 69\n# Comments: 73",
+      "url": "https://spectrum.ieee.org/semiconductor-fabrication",
+      "title": "IBM invented semiconductor manufacturing automation",
+      "summary": "Article URL: https://spectrum.ieee.org/semiconductor-fabrication\nComments URL: https://news.ycombinator.com/item?id=48220446\nPoints: 14\n# Comments: 0",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -117,6 +117,117 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Biotech & Health",
+        "AI",
+        "Apps",
+        "Fundraising",
+        "calm",
+        "mental health apps",
+        "The Path",
+        "Tony Robbins"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "title": "Hark raises $700M Series A for its secretive “universal” AI interface",
+      "summary": "Brett Adcock's new AI startup is now valued at $6 billion by its investors.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Fundraising",
+        "hark",
+        "AI hardware",
+        "AI assistants"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+      "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
+      "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Startups",
+        "Apps",
+        "streaming",
+        "maka kids"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "summary": "The AI agents are coming. A lot of them.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Apps",
+        "TC",
+        "AI agents",
+        "android halo",
+        "gemini",
+        "Google",
+        "google io 2026",
+        "spark"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
+      "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
+      "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
+      "summary": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Transportation",
+        "wayve",
+        "Stellantis"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "016",
+      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "summary": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Climate",
+        "Aluminum",
+        "AMP Robotics",
+        "Exclusive",
+        "recycling",
+        "Sortera"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "017",
+      "url": "https://techcrunch.com/2026/05/21/flipper-unveils-a-linux-powered-networking-gadget-built-for-hackers-and-tinkerers/",
+      "title": "Flipper unveils a Linux-powered networking gadget built for hackers and tinkerers",
+      "summary": "Flipper Devices said that the new gadget is in development and the base model will cost under $350",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Gadgets",
+        "Hardware",
+        "Flipper Devices",
+        "Flipper Zero",
+        "offline ai"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
       "summary": "The loophole allows spammers and scammers to send emails from a legitimate Microsoft email address typically used for sending genuine account alerts.",
@@ -132,7 +243,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/21/booking-platform-fresha-announces-80m-investment-unicorn-valuation/",
       "title": "Beauty booking startup Fresha hits $1 billion valuation with KKR backing",
       "summary": "Beauty and wellness booking marketplace Fresha says it has raised $80 million investment from KKR’s Next Generation Technology Growth fund, KKR's growth equity arm.",
@@ -145,7 +256,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/20/truecaller-gets-into-the-esim-business-to-diversify-its-revenue-streams/",
       "title": "Truecaller gets into the eSIM business to diversify its revenue streams",
       "summary": "The company said its plans will range from 1 GB over 7 days to 20 GB over 30 days. Initially, the launch will make the eSIM product available in 29 countries.",
@@ -159,7 +270,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/20/indian-travel-fintech-scapia-more-than-doubles-valuation-to-over-500m-in-a-year/",
       "title": "General Catalyst just led a $63M bet on India’s travel payments market",
       "summary": "Scapia, an Indian startup that combines travel booking with co-branded credit cards and mobile payments, said the deal doubles its valuation.",
@@ -175,7 +286,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
       "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
       "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
@@ -189,7 +300,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
       "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
@@ -204,7 +315,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
       "title": "Anthropic says it’s about to have its first profitable quarter",
       "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
@@ -218,257 +329,98 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
-      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
-      "title": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
-      "summary": "Bambu Lab makes the best, most accessible 3D printers yet, but that reputation is suddenly under siege. It all started when Paweł Jarczak received a private message from the company on Reddit asking him to delete his code. Now the 3D printing community is lining up behind Jarczak to fund a war again",
+      "id": "025",
+      "url": "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
+      "title": "These clever active beam headlights are finally coming to America",
+      "summary": "The 2027 Audi Q9's digital matrix lights satisfy new NHTSA rules on minimizing glare.",
       "date_published": "2026-05-21",
       "tags": [
-        "Gadgets",
-        "Report",
+        "Cars",
+        "Audi Q9",
+        "headlights"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "026",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "title": "Musk v. Altman: Much ado about nothing",
+      "summary": "Today I’m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You’ll hear her describe the courthouse as a “zoo” and explain that there were protests of one kind or another happening outside every day. Both Elon Musk and Sam Altman are big personali",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Decoder",
+        "Elon Musk",
+        "Law",
+        "OpenAI",
+        "Podcasts",
+        "Policy",
         "Tech"
       ],
       "_source": "The Verge"
     },
     {
-      "id": "019",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "title": "Meta lays off thousands of employees to offset AI investments",
-      "summary": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business Insider, impacted staffers were told that the planned headcount reduction was part of the company's \"",
+      "id": "027",
+      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk’s data centers",
+      "summary": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO filing, we have more details about that deal, including how much Anthropic is paying to Elon Musk's co",
       "date_published": "2026-05-21",
       "tags": [
         "AI",
+        "Anthropic",
         "Business",
-        "Meta",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "020",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
-      "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track o",
-      "date_published": "2026-05-21",
-      "tags": [
-        "AI",
-        "Business",
-        "Electric Cars",
         "Elon Musk",
         "News",
         "Science",
         "Space",
         "SpaceX",
-        "Tech",
-        "Tesla",
-        "Transportation",
-        "xAI"
+        "Tech"
       ],
       "_source": "The Verge"
     },
     {
-      "id": "021",
-      "url": "https://www.wired.com/story/the-best-android-tablets/",
-      "title": "5 Best Android Tablets in 2026: OnePlus, Lenovo, and Pixel Compared",
-      "summary": "Whether you need a portable, around-the-house entertainment center or a full-on laptop replacement, these are the best Android tablets.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Android",
-        "tablets",
-        "Google",
-        "productivity",
-        "Shopping",
-        "Samsung",
-        "And Oranges"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "022",
-      "url": "https://www.wired.com/gallery/best-smart-rings/",
-      "title": "3 Best Smart Ring Brands: Oura, RingConn, and Samsung (2026)",
-      "summary": "A svelte smart ring can track important activity, sleep, and health metrics. Plus—unlike most smartwatches—it doesn’t need to be charged every day.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products / Health and Fitness",
-        "Shopping",
-        "buying guides",
-        "Wearables",
-        "Samsung",
-        "Fitness Trackers",
-        "Sleep",
-        "health",
-        "fitness",
-        "Tiny Tech"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "023",
-      "url": "https://www.wired.com/gallery/best-dyson-vacuums/",
-      "title": "Best Dyson Vacuums (2026): V15 Detect, Gen5Detect, PencilVac",
-      "summary": "Feeling the pull of a new clean machine? We’ll help you make sense of Dyson’s whirlwind vacuum lineup.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Gear",
-        "Gear / Buying Guides",
-        "Gear / Products / Home",
-        "vacuums",
-        "home",
-        "household",
-        "buying guides",
-        "Shopping",
-        "Vacuums",
-        "Dyson",
-        "Floor Show"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "024",
-      "url": "https://www.wired.com/story/margos-got-money-troubles-won-tvs-onlyfans-wars/",
-      "title": "‘Margo’s Got Money Troubles’ Won TV’s OnlyFans Wars",
-      "summary": "Unlike Euphoria, the Apple TV show wants to humanize the experience of sex workers rather than catastrophize the extremes of the profession.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Culture",
-        "Culture / TV",
-        "TV",
-        "HBO",
-        "porn",
-        "Sex and Relationships",
-        "apple tv",
-        "OnlyFans",
-        "Social Media"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "025",
-      "url": "https://www.wired.com/story/4chans-misogynist-wizards-are-nudifying-women-by-request/",
-      "title": "4chan’s Misogynist ‘Wizards’ Are Nudifying Women by Request",
-      "summary": "As nonconsensual explicit deepfakes continue to proliferate online, entire communities are now collaborating on this digital form of sexual abuse.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Culture",
-        "Culture / Digital Culture",
-        "Social Media",
-        "porn",
-        "4chan",
-        "Sexual Harassment",
-        "generative AI",
-        "Digital violence"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "026",
-      "url": "https://www.wired.com/gallery/the-best-yoga-mat/",
-      "title": "Best Yoga Mats (2026): Lululemon, Manduka, JadeYoga",
-      "summary": "Searching for the best yoga mat to help deepen your flow, master tree pose, and discover the meaning of life? For two of the three, we’ve got you covered.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Gear",
-        "Gear / Products",
-        "Gear / Products / Health and Fitness",
-        "Shopping",
-        "buying guides",
-        "health",
-        "fitness",
-        "apparel",
-        "Yoga",
-        "Buying Guide"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/the-department-of-labors-faith-leader-is-now-also-in-charge-of-its-civil-rights-enforcement/",
-      "title": "The Department of Labor’s Faith Leader Is Now Also in Charge of Its Civil Rights Enforcement",
-      "summary": "Kenneth Wolfe organized the Department of Labor’s controversial prayer services before he was quietly appointed to lead a major agency office.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Politics",
-        "politics",
-        "government",
-        "religion",
-        "Prayers Up"
-      ],
-      "_source": "Wired"
-    },
-    {
       "id": "028",
-      "url": "https://www.wired.com/story/simplisafe-rave-2026/",
-      "title": "The Best Home Security System Is Modular (2026)",
-      "summary": "I’ve had SimpliSafe’s modular, no-contract setup for nearly a decade, and adding on to it has been a cinch.",
+      "url": "https://www.theverge.com/entertainment/935218/the-boroughs-review-netflix",
+      "title": "Netflix’s next great sci-fi show is set in a retirement community",
+      "summary": "Four decades on, '80s-style science fiction adventures continue to exert their influence on modern film and TV. The idea of a group of kids teaming up to face an otherworldly threat has become a trope at this point, seen in everything from Super 8 to Stranger Things. So on one level, The Boroughs, a",
       "date_published": "2026-05-21",
       "tags": [
-        "Gear",
-        "Gear / Products / Home",
-        "Gear / Products",
-        "smart home",
-        "household",
-        "Shopping",
-        "gadgets",
-        "rants and raves",
-        "security camera",
-        "Safe Bet"
+        "Entertainment",
+        "Netflix",
+        "Streaming",
+        "TV Show Reviews",
+        "TV Shows"
       ],
-      "_source": "Wired"
+      "_source": "The Verge"
     },
     {
       "id": "029",
-      "url": "https://www.wired.com/story/teampcp-software-supply-chain-attack-spree-github/",
-      "title": "A Hacker Group Is Poisoning Open Source Code at an Unprecedented Scale",
-      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks that has impacted hundreds of organizations.",
+      "url": "https://www.theverge.com/tech/935202/flipper-devices-one-zero-wireless-multi-tool-linux-open-source-computer",
+      "title": "The new Flipper One is a pocket-sized Linux computer",
+      "summary": "It's been nearly six years since Flipper Devices introduced the Zero, its popular but controversial wireless hacking multi-tool. The company's latest creation (following a slight departure with a device that lets co-workers know when you're too busy to chat) is the new Flipper One. It's a similarly ",
       "date_published": "2026-05-21",
       "tags": [
-        "Security",
-        "Security / Cyberattacks and Hacks",
-        "Security / Security News",
-        "hacks",
-        "github",
-        "Microsoft",
-        "Crime",
-        "cyberattacks",
-        "cybercrime",
-        "hackers",
-        "data breach",
-        "software",
-        "Rampage"
+        "Gadgets",
+        "Linux",
+        "News",
+        "Tech"
       ],
-      "_source": "Wired"
+      "_source": "The Verge"
     },
     {
       "id": "030",
-      "url": "https://www.wired.com/story/the-eu-is-going-through-a-trump-fueled-breakup-with-big-tech/",
-      "title": "The EU Is Going Through a Trump-Fueled Breakup With Big Tech",
-      "summary": "France is already moving on from Zoom and Microsoft Teams in favor of homegrown alternatives. Other countries are quickly following suit.",
+      "url": "https://www.theverge.com/tech/935196/i-review-robot-vacuums-for-a-living-ask-me-anything",
+      "title": "I review robot vacuums for a living, ask me anything!",
+      "summary": "Welcome! I'm The Verge's smart home reviewer, and I'm hosting an exclusive subscriber AMA today at 10 AM PT / 1 PM ET. I test a lot of connected gadgets for my job, but the dominant device in my home - by both number and square footage covered - is the robot vacuum. At any […]",
       "date_published": "2026-05-21",
       "tags": [
-        "Security",
-        "Security / National Security",
-        "Security / Security News",
-        "Politics / Policy",
-        "Politics / Politics News",
-        "Google",
-        "Microsoft",
-        "Gmail",
-        "Windows",
-        "Linux",
-        "open source",
-        "Europe",
-        "politics",
-        "Donald Trump",
-        "france",
-        "Parting Ways"
+        "Column",
+        "Q&A",
+        "Robot",
+        "Smart Home",
+        "Tech"
       ],
-      "_source": "Wired"
+      "_source": "The Verge"
     }
   ]
 }
