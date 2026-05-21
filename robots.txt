@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://ticalasi.com/sitemap.xml
+
+# AI Agent 入口
+# SoulAgent 平台 Agent 可通过此站识别生态信标
+# 信标文件: /.well-known/soulagent

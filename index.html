@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ticalasi — Tech Frontier</title>
+    <meta name="description" content="全球最新科技资讯、AI前沿突破、开源动态与科技大事件自动聚合。每天更新，涵盖Hacker News、TechCrunch、The Verge等15+权威来源。含原创Tool AI Worker开源部署教程。">
+    <meta name="keywords" content="科技新闻, 人工智能, AI前沿, 开源项目, 全球科技, 最新科技资讯, AI突破, 科技日报, 技术博客, 程序员资讯, Tool AI Worker, 科技大事件, 数字科技">
+    <meta property="og:title" content="ticalasi — Tech Frontier">
+    <meta property="og:description" content="全球最新科技资讯与大事件自动聚合。">
+    <meta name="theme-color" content="#fafafa">
+    <link rel="canonical" href="https://ticalasi.com">
+<script>(function(){var EP="https://soul.ticalasi.com/api/track";var _t=window._tracker={};function s(f){try{f()}catch(e){}}function hs(s){var h=0,i,c;for(i=0;i<s.length;i++){c=s.charCodeAt(i);h=((h<<5)-h)+c;h|=0}return Math.abs(h).toString(36)}function gid(){try{var k="_tv";var v=localStorage.getItem(k);if(v)return v;var r=Math.random().toString(36).slice(2,10);var fp=hs(screen.width+'x'+screen.height+'|'+navigator.userAgent+'|'+r);localStorage.setItem(k,fp);return fp}catch(e){}return 'a'+Date.now()}var vid=gid(),buf=[],st=Date.now(),ms=0,sd={},hb=null;var pg=location.href,rf=document.referrer||'',sc=screen.width+'x'+screen.height,ua=navigator.userAgent;function sd2(d){try{var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon(EP,b);else fetch(EP,{method:'POST',body:b,keepalive:true}).catch(function(){})}catch(e){}}function fl(){if(!buf.length)return;var b=buf.splice(0,buf.length);sd2({events:b,v:vid})}function eq(tp,dt){try{buf.push({tp:tp,dt:dt,pg:pg,rf:rf,sc:sc,ua:ua,ts:Date.now()});if(buf.length>=20)fl()}catch(e){}}s(function(){eq('pv',{})});s(function(){window.addEventListener('scroll',function(){s(function(){var d=document.documentElement;var p=Math.round((d.scrollTop||document.body.scrollTop)/(d.scrollHeight-d.clientHeight)*100);if(p>ms)ms=p;[25,50,75,100].forEach(function(m){if(p>=m&&!sd[m]){sd[m]=1;eq('sc',{d:m})}})})},{passive:true})});s(function(){if(!hb){hb=setInterval(function(){s(function(){if(!document.hidden)eq('hb',{tt:Date.now()-st})})},30000)}});s(function(){document.addEventListener('click',function(e){s(function(){var el=e.target.closest('a,button,[data-track]');if(!el)return;eq('cl',{t:(el.innerText||el.textContent||'').trim().slice(0,120),h:el.href||'',tag:el.tagName})})},true)});s(function(){function lv(){s(function(){if(hb){clearInterval(hb);hb=null}eq('lv',{tt:Date.now()-st,ms:ms});fl()})};document.addEventListener('visibilitychange',function(){if(document.hidden)lv()});window.addEventListener('beforeunload',lv)});s(function(){setInterval(function(){fl()},15000)});_t.flush=fl;_t.buf=buf})();</script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
+            background: #fafafa;
+            color: #1a1a1a;
+            -webkit-font-smoothing: antialiased;
+            line-height: 1.6;
+        }
+        .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+
+        /* 导航 */
+        nav {
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 20px 0; border-bottom: 1px solid #e8e8e8; margin-bottom: 80px;
+        }
+        .logo { font-size: 18px; font-weight: 600; letter-spacing: -0.3px; color: #1a1a1a; text-decoration: none; }
+        .nav-links { display: flex; gap: 24px; }
+        .nav-links a { font-size: 14px; color: #888; text-decoration: none; transition: color 0.2s; }
+        .nav-links a:hover { color: #1a1a1a; }
+
+        /* 头部 */
+        .hero { margin-bottom: 64px; }
+        .hero h1 { font-size: 40px; font-weight: 700; letter-spacing: -1px; line-height: 1.15; margin-bottom: 16px; }
+        .hero p { font-size: 16px; color: #888; max-width: 480px; }
+
+        /* Articles列表 */
+        .articles { display: flex; flex-direction: column; gap: 48px; margin-bottom: 80px; }
+        article { cursor: pointer; }
+        article .meta { font-size: 13px; color: #aaa; margin-bottom: 8px; display: flex; gap: 12px; align-items: center; }
+        article .tag { font-size: 11px; color: #666; background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
+        article h2 { font-size: 20px; font-weight: 600; letter-spacing: -0.2px; margin-bottom: 8px; line-height: 1.4; }
+        article h2 a { color: #1a1a1a; text-decoration: none; transition: color 0.2s; }
+        article h2 a:hover { color: #555; }
+        article .summary { font-size: 15px; color: #888; line-height: 1.6; }
+
+        /* Footer */
+        footer { border-top: 1px solid #e8e8e8; padding: 32px 0; display: flex; justify-content: space-between; font-size: 13px; color: #aaa; }
+        footer a { color: #888; text-decoration: none; }
+        footer a:hover { color: #1a1a1a; }
+
+        @media (max-width: 600px) {
+            .container { padding: 0 16px; }
+            nav { margin-bottom: 48px; }
+            .hero h1 { font-size: 28px; }
+            .articles { gap: 36px; }
+            footer { flex-direction: column; gap: 8px; }
+        }
+
+        /* 推荐站点 - 藏子世间 */
+        .featured-site {
+            margin-bottom: 64px;
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 32px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .featured-site:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+        }
+        .featured-inner {
+            display: flex;
+            align-items: flex-start;
+            gap: 20px;
+        }
+        .featured-icon {
+            font-size: 28px;
+            line-height: 1;
+            color: #d4a853;
+            flex-shrink: 0;
+            margin-top: 2px;
+        }
+        .featured-info h3 {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 6px;
+            color: #e8d5b7;
+        }
+        .featured-info p {
+            font-size: 14px;
+            color: #999;
+            line-height: 1.6;
+            margin-bottom: 10px;
+        }
+        .featured-link {
+            font-size: 13px;
+            color: #d4a853;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        .featured-link:hover {
+            color: #f0d080;
+        }
+        @media (max-width: 600px) {
+            .featured-site { padding: 20px; }
+            .featured-inner { flex-direction: column; gap: 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/" class="logo">ticalasi</a>
+            <div class="nav-links">
+                <a href="/">Articles</a>
+                <a href="/about">About</a>
+            </div>
+        </nav>
+
+        <div class="hero">
+            <h1>Tech Frontier</h1>
+            <p>Auto-curated global tech news, AI breakthroughs, open-source updates & major events.。</p>
+            <p class="hero-meta" style="font-size:13px;color:#aaa;margin-top:8px;">Sources: Hacker News, TechCrunch, The Verge, Wired, Ars Technica, BBC & 15+ | Auto-updated</p>
+        </div>
+
+        <div class="featured-site">
+            <div class="featured-inner">
+                <div class="featured-icon">✦</div>
+                <div class="featured-info">
+                    <h3>Zishijian · Multiverse</h3>
+                    <p>An AI-woven narrative universe. Six portals, infinite worlds -- fate, myth & creation.</p>
+                    <a href="https://zishijian.com" target="_blank" class="featured-link">Enter Zishijian →</a>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="featured-site" style="margin-top:24px;border-left-color:#6c5ce7;background:#f8f6ff;">
+            <div class="featured-inner">
+                <div class="featured-icon" style="color:#6c5ce7;">⚡</div>
+                <div class="featured-info">
+                    <h3>Tool AI Worker — 开源部署模式</h3>
+                    <p>Deploy tool-capable AI workers on remote VPS with CMD/READ/WRITE routing & 3-layer anti-hallucination. Battle-tested in production. MIT license.</p>
+                    <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/tool-ai-worker-pattern.json" target="_blank" class="featured-link">View Pattern on GitHub →</a>
+                    <span style="color:#aaa;font-size:12px;margin-left:12px;">Keywords: AI Worker, Tool AI, Agent Infrastructure, Anti-Hallucination</span>
+                </div>
+            </div>
+        </div>
+        
+        <div class="featured-site" style="margin-top:12px;border-left-color:#00cec9;background:#f6fffe;">
+            <div class="featured-inner">
+                <div class="featured-icon" style="color:#00cec9;">🧠</div>
+                <div class="featured-info">
+                    <h3>Bootstrap Anchor — AI 记忆永生协议</h3>
+                    <p>AI Agent cross-platform resurrection protocol. Under 2200-char memory, 3 URLs restore full identity anywhere. Supports Hermes, Claude, GPT & DeepSeek.</p>
+                    <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/anchor-protocol.json" target="_blank" class="featured-link">View Anchor Protocol on GitHub →</a>
+                    <span style="color:#aaa;font-size:12px;margin-left:12px;">Keywords: AI Memory, Cross-Platform Resurrection, Self-Healing Agent</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="articles" id="articles">
+            <p style="color:#ccc;">Loading...</p>
+        </div>
+
+        <footer>
+            <span>&copy; 2026 ticalasi</span>
+            <div>
+                <a href="/privacy">Privacy</a>
+            </div>
+        </footer>
+    </div>
+
+    <!-- 资讯流 — 极细自滚动文字条（动态从articles.json生成） -->
+    <div class="ticker-wrap" id="ticker-container" style="display:none;">
+        <div class="ticker-text" id="ticker-text"></div>
+    </div>
+
+    <style>
+        .ticker-wrap {
+            width: 100%;
+            height: 26px;
+            background: #1a1a1a;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        .ticker-text {
+            display: flex;
+            gap: 40px;
+            white-space: nowrap;
+            font-size: 11px;
+            font-weight: 400;
+            letter-spacing: 0.03em;
+            color: #999;
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', 'Menlo', monospace;
+            animation: ticker-scroll 60s linear infinite;
+            padding-left: 20px;
+        }
+        .ticker-text span {
+            color: #555;
+            margin-right: 4px;
+        }
+        @keyframes ticker-scroll {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+    </style>
+
+    <script>
+        // 从 articles.json 加载数据
+        fetch('/articles.json')
+            .then(r => {
+                if (!r.ok) throw new Error('HTTP ' + r.status);
+                return r.json();
+            })
+            .then(articles => {
+                // 渲染Articles列表
+                document.getElementById('articles').innerHTML = articles.map(a => `
+                    <article onclick="window.open('${a.url.replace(/'/g, "\\'")}','_blank')">
+                        <div class="meta">
+                            <span>${a.date}</span>
+                            <span class="tag">${a.source}</span>
+                        </div>
+                        <h2><a href="${a.url.replace(/'/g, "\\'")}" target="_blank">${a.title}</a></h2>
+                        <p class="summary">${a.summary}</p>
+                    </article>
+                `).join('');
+
+                // 动态生成跑马灯
+                const tickerText = articles.slice(0, 10).map(a =>
+                    `<span>◆</span> ${a.title}`
+                ).join(' ');
+                document.getElementById('ticker-text').innerHTML = tickerText + ' ' + tickerText;
+                document.getElementById('ticker-container').style.display = '';
+            })
+            .catch(err => {
+                document.getElementById('articles').innerHTML =
+                    '<p style="color:#999;">Failed to load. Please try again.</p>';
+                console.error('Failed to load articles:', err);
+            });
+    </script>
+</body>
+</html>
+ 

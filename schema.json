@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "ticalasi",
+  "url": "https://ticalasi.com",
+  "description": "AI 前沿资讯与技术分析",
+  "inLanguage": "zh-CN",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://ticalasi.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
