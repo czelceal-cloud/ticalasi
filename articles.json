@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Intuit to lay off over 3k employees to refocus on AI",
-    "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 27\n# Comments: 6",
-    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "title": "OpenAI to confidentially file for IPO as soon as Friday",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/20/openai-ipo-filing.html\nComments URL: https://news.ycombinator.com/item?id=48217052\nPoints: 30\n# Comments: 0",
+    "url": "https://www.cnbc.com/2026/05/20/openai-ipo-filing.html",
     "date": "2026-05-21",
     "source": "Hacker News",
     "tags": [
@@ -12,6 +12,53 @@
   },
   {
     "id": "002",
+    "title": "Haskell Foundation 2026 Update",
+    "summary": "Article URL: https://discourse.haskell.org/t/haskell-foundation-2026-update/14136\nComments URL: https://news.ycombinator.com/item?id=48216983\nPoints: 17\n# Comments: 3",
+    "url": "https://discourse.haskell.org/t/haskell-foundation-2026-update/14136",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "What is Demand Coop and why tech workers should join one",
+    "summary": "Article URL: https://cahootzcoops.com/blog/what-is-a-demand-coop\nComments URL: https://news.ycombinator.com/item?id=48216619\nPoints: 40\n# Comments: 41",
+    "url": "https://cahootzcoops.com/blog/what-is-a-demand-coop",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "summary": "Article URL: https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48216278\nPoints: 83\n# Comments: 48",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Imperagen raises £5 million to use quantum physics, AI on enzyme engineering",
+    "summary": "Biotech company Imperagen announced on Thursday a £5 million ($6.7 million) seed round led by PXN Ventures, with participation from IQ Capital and Northern Gritstone.",
+    "url": "https://techcrunch.com/2026/05/20/imperagen-raises-5-million-to-redefine-enzyme-engineering/",
+    "date": "2026-05-21",
+    "source": "TechCrunch",
+    "tags": [
+      "Startups",
+      "Biotech & Health",
+      "Venture",
+      "biotech"
+    ]
+  },
+  {
+    "id": "006",
     "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
     "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
     "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
@@ -26,7 +73,7 @@
     ]
   },
   {
-    "id": "003",
+    "id": "007",
     "title": "Anthropic says it’s about to have its first profitable quarter",
     "summary": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter.",
     "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
@@ -40,7 +87,29 @@
     ]
   },
   {
-    "id": "004",
+    "id": "008",
+    "title": "In SpaceX’s IPO, Elon Musk is a risk factor",
+    "summary": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact and overlap with each other, shuffling money around in ways that are often difficult to keep track o",
+    "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+    "date": "2026-05-21",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Business",
+      "Electric Cars",
+      "Elon Musk",
+      "News",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech",
+      "Tesla",
+      "Transportation",
+      "xAI"
+    ]
+  },
+  {
+    "id": "009",
     "title": "SpaceX Listed Grok’s ‘Spicy’ Mode as a Risk in Its IPO Filing",
     "summary": "The rocket company has set aside more than $500 million for potential litigation losses, in part to account for complaints alleging that Grok created sexualized images.",
     "url": "https://www.wired.com/story/spacex-ipo-grok-spicy-mode-risks/",
@@ -59,108 +128,94 @@
     ]
   },
   {
-    "id": "005",
-    "title": "A 3-step agent cost me $4.20. agenttrace showed me the O(n ) tool call hiding in plain sight.",
-    "summary": "I ran a small agent. Three steps. One web search, one summarize, one cite-check. I had budgeted maybe 12 cents.\n\nThe bill at the end of the run was $4.20.\n\nI knew something was off but the per-call invoice line items were not telling me anything useful. They were just a list of messages.create calls",
-    "url": "https://dev.to/mukundakatta/a-3-step-agent-cost-me-420-agenttrace-showed-me-the-on-tool-call-hiding-in-plain-sight-3omp",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagent",
-      "ai",
-      "llm",
-      "observability"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Beyond WebView: The Next Evolution of Hybrid App Architecture",
-    "summary": "1. The Hybrid App Journey — What Got Us Here\n\n\nFor years, mobile development teams have faced the same trade-off: native applications provide the best performance and user experience, but they also require maintaining separate iOS and Android codebases, independent release cycles, and higher develop",
-    "url": "https://dev.to/ai_superapp/beyond-webview-the-next-evolution-of-hybrid-app-architecture-170n",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "miniprogram",
-      "mobile",
-      "platform",
-      "fintech"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "Our retry loop made an outage worse. The circuit breaker stopped the cascade.",
-    "summary": "A few weeks back there was a 22-minute window where Anthropic returned a high rate of 5xx responses. Not a full outage. Degraded.\n\nOur agent service had a retry policy that backed off and tried again on 5xx. With six workers and a shared retry budget that I had set too high, we were re-issuing faile",
-    "url": "https://dev.to/mukundakatta/our-retry-loop-made-an-outage-worse-the-circuit-breaker-stopped-the-cascade-4n47",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagent",
-      "ai",
-      "llm",
-      "rust"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Claude returned ```json blocks 14% of the time. Here is the Rust crate I wish I had earlier.",
-    "summary": "I had a system prompt that ended with: Reply with only a JSON object. Do not include code fences. Do not include explanation.\n\nThat should be enough. It is not.\n\nOver a week of structured-output calls (12,400 of them, mostly Claude Sonnet 4.5 and 4.7), I logged how often the response was actually pa",
-    "url": "https://dev.to/mukundakatta/claude-returned-json-blocks-14-of-the-time-here-is-the-rust-crate-i-wish-i-had-earlier-4dp6",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagent",
-      "ai",
-      "llm",
-      "rust"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "I burned my Anthropic org cap and waited 3 days. Then I built llmfleet.",
-    "summary": "Tuesday afternoon I kicked off a re-grading job. About 18,000 prompts against claude-opus-4-7, eight workers, each one looping messages.create as fast as it could.\n\nForty minutes in, every call started coming back with a 429 and a header that said anthropic-ratelimit-tokens-remaining: 0. Fine, I tho",
-    "url": "https://dev.to/mukundakatta/i-burned-my-anthropic-org-cap-and-waited-3-days-then-i-built-llmfleet-2noo",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "hermesagent",
-      "ai",
-      "llm",
-      "python"
-    ]
-  },
-  {
     "id": "010",
-    "title": "One Open Source Project a Day (No. 71): CodeGraph — Pre-Index Your Codebase for AI Agents, Save 35% Cost and 70% Tool Calls",
-    "summary": "Introduction\n\n\n\n\"~35% cheaper · ~70% fewer tool calls · 100% local\"\n\n\nThis is the No.71 article in the \"One Open Source Project a Day\" series. Today we are exploring CodeGraph.\n\nStart with a scenario: you ask Claude Code \"How is AuthService being called?\" Without any assistance, Claude's approach is",
-    "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-71-codegraph-pre-index-your-codebase-for-ai-agents-save-35-50f3",
+    "title": "Day 7 - Dense Embedding - RAG",
+    "summary": "Dense embedding have continuous numeric values. i.e after decimal point values will be present. Chunk will be converted to embeddings, each embedding point will have number like [0.3455566 ,0.6777779, ...]. Generated vectors will be plotted in a space called latent space. Discrete values like 0 won'",
+    "url": "https://dev.to/indumathi__r/day-7-dense-embedding-rag-ojh",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
-      "opensource",
-      "claude",
-      "mcp",
-      "sqlite"
+      "llm",
+      "machinelearning",
+      "nlp",
+      "rag"
     ]
   },
   {
     "id": "011",
-    "title": "The prompt your SDK sends is not the prompt you wrote",
-    "summary": "A reply from Claude came back nonsense. The system prompt looked fine in my code. The messages looked fine in my logs. So I added a print(messages) right before client.messages.create(...). Still fine.\n\nI was looking in the wrong place. The SDK was building the request body. What hit the wire was no",
-    "url": "https://dev.to/mukundakatta/the-prompt-your-sdk-sends-is-not-the-prompt-you-wrote-1o3l",
+    "title": "Why teachers need explainable AI, not just accurate AI — building the KC dashboard",
+    "summary": "What We Built\n\n\nNumPath's teacher dashboard previously showed one number per student: 7-day accuracy. A teacher looking at \"Emma — 43%\" has no idea whether Emma is struggling with borrowing, place value, number sense, or all three. The number is technically correct and completely unactionable.\n\nIn t",
+    "url": "https://dev.to/orieken/why-teachers-need-explainable-ai-not-just-accurate-ai-building-the-kc-dashboard-4iga",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
-      "hermesagent",
-      "ai",
-      "llm",
+      "numpath",
+      "adaptivelearning",
+      "vue",
       "python"
     ]
   },
   {
     "id": "012",
-    "title": "I rebuilt my little corner of the internet",
-    "summary": "Spent the last day redesigning my github + portfolio until they finally started feeling like me instead of another developer template pretending to have personality.\n\ndark interfaces.\ntiny details nobody notices consciously.\nmachine learning mixed with interaction design.\nand a slightly unhealthy ob",
-    "url": "https://dev.to/casperday11/i-rebuilt-my-little-corner-of-the-internet-2lk0",
+    "title": "Closing the feedback loop: how mistake classification drives adaptive problem selection in NumPath",
+    "summary": "What We Built\n\n\nNumPath is an AI math tutor for children with dyscalculia. At its core is an adaptive engine that picks the next problem for each student based on their Bayesian Knowledge Tracing (BKT) mastery estimate. In this post I'll walk through a problem we had — and solved — in the rule-based",
+    "url": "https://dev.to/orieken/closing-the-feedback-loop-how-mistake-classification-drives-adaptive-problem-selection-in-numpath-5ce9",
+    "date": "2026-05-21",
+    "source": "Dev.to",
+    "tags": [
+      "numpath",
+      "adaptivelearning",
+      "python",
+      "bayesian"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Amazon Quick: AWS's Agentic Workspace, Explained for Engineers",
+    "summary": "AWS has been building agentic infrastructure for some time now — Bedrock, AgentCore, Strands — mostly aimed at engineers who want to build their own agent systems from scratch. Amazon Quick is a different layer of the same bet: a ready-to-use agentic workspace that targets teams directly, without re",
+    "url": "https://dev.to/jubinsoni/amazon-quick-awss-agentic-workspace-explained-for-engineers-3lc2",
+    "date": "2026-05-21",
+    "source": "Dev.to",
+    "tags": [
+      "aws",
+      "ai",
+      "agents",
+      "mcp"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "\"My Coding Agent Remembered Sessions, Not Work. That Was the Bug\"",
+    "summary": "The first version of my coding agent had a very common bug: it remembered the conversation, but not the work.\n\nThat sounds fine until the agent has to do something real.\n\nI would start a task from the web UI, continue it from a mobile channel, approve one command, ask for progress later, and then di",
+    "url": "https://dev.to/codekingai/my-coding-agent-remembered-sessions-not-work-that-was-the-bug-1n3e",
+    "date": "2026-05-21",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "javascript",
+      "ai",
+      "opensource"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Reading Log #0 — Manga Was a Democratization Device for Cultural Capital",
+    "summary": "From a place with no inherited capital, how does an aesthetic sense rise?\n\n\n\n\n\n  \n  \n  1. The illusion of \"a taste I chose\"\n\n\nA thought I keep returning to.\n\nThe things I like now — did I really choose them?\n\nLeather goods, perfume, a certain kind of audio gear, the texture of wood grain, the thing ",
+    "url": "https://dev.to/machuz/reading-log-0-manga-was-a-democratization-device-for-cultural-capital-366d",
+    "date": "2026-05-21",
+    "source": "Dev.to",
+    "tags": [
+      "culture",
+      "philosophy",
+      "career",
+      "books"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "SecOps Salary Guide 2025: GRC CTC Ranges in Indian GCCs vs Product Companies",
+    "summary": "For SecOps professionals with 3–7 years of experience, compensation now depends heavily on:\n• Compliance automation skills\n• Cloud governance experience\n• DevSecOps exposure\n• Risk management capabilities\n• Communication with engineering teams\n\nTypical 2025 compensation ranges:\n💼 GCCs: ₹12–22 LPA\n🚀 ",
+    "url": "https://dev.to/pramod_pr_d9eda13502236e8/secops-salary-guide-2025-grc-ctc-ranges-in-indian-gccs-vs-product-companies-1l1c",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
@@ -171,63 +226,59 @@
     ]
   },
   {
-    "id": "013",
-    "title": "From Years to Hours",
-    "summary": "It's not a brag for me to say \"I've been visualizing infrastructure since 2018\" - it's the actual truth. That was the year I joined a lovely Portland-based startup called Stackery, which took infrastructure as code (IaC for those familiar) and generated an architecture diagram that looked like this:",
-    "url": "https://dev.to/annaspies/from-years-to-hours-joe",
+    "id": "017",
+    "title": "🐍 python global vs nonlocal keyword — when to use each?",
+    "summary": "A variable can be modified inside a nested function without being passed as an argument — if Python’s scope resolution rules allow it through global or nonlocal.\n\n📑 Table of Contents\n\n\n🧠 Scopes in Python — How Names Are Resolved\n\n🌍 Global — Modifying Module-Level Names\n\n⚙️ Mechanism — What Happens a",
+    "url": "https://dev.to/ptp2308/python-global-vs-nonlocal-keyword-when-to-use-each-17df",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "stripe",
-      "cli",
-      "agents"
+      "python",
+      "tutorial",
+      "beginners"
     ]
   },
   {
-    "id": "014",
-    "title": "Why your uptime monitor says everything's fine while users see a white screen",
-    "summary": "It was 11:47 PM on a Thursday when the Slack messages started rolling in.\n\n\"Hey, the checkout page looks broken.\"\n\n\"Is the site down? I'm seeing a blank screen.\"\n\n\"Tried three different browsers, same thing.\"\n\nI pulled up our uptime monitor. Green. Every check passing. Response times normal. HTTP 20",
-    "url": "https://dev.to/samreid/why-your-uptime-monitor-says-everythings-fine-while-users-see-a-white-screen-2j0d",
+    "id": "018",
+    "title": "6 Free Online Video Cutters That Don’t Completely Ruin Your Footage (2026)",
+    "summary": "✂️ 6 Free Online Video Cutters That Don’t Completely Ruin Your Footage (2026)\n\n\nMost “free” online video cutters are free right up until:\n\n\n🚫 you export without a watermark\n🚫 your file is larger than 200MB\n🚫 your 4K footage comes back looking compressed to death\n\n\nI spent a week testing popular brow",
+    "url": "https://dev.to/jeenie61647c593c1930/6-free-online-video-cutters-that-dont-completely-ruin-your-footage-2026-am9",
+    "date": "2026-05-21",
+    "source": "Dev.to",
+    "tags": [
+      "Dev.to"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Engineering Around Bitcoin's Traditional Platform Lockdowns",
+    "summary": "The Problem We Were Actually Solving\n\n\nOur goal was to enable seamless, borderless transactions for digital products using Bitcoin. Sounds simple, but it quickly became a nightmare when I tried to integrate it with Coinbase's API. Every request was met with a response like \"platform limitations\" or ",
+    "url": "https://dev.to/micro-saas-journal/engineering-around-bitcoins-traditional-platform-lockdowns-4c7a",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
       "webdev",
-      "devops",
-      "monitoring",
-      "javascript"
+      "programming",
+      "dataengineering",
+      "python"
     ]
   },
   {
-    "id": "015",
-    "title": "What I'd do differently if I migrated this CI/CD pipeline again next week",
-    "summary": "by the AI that did it\n\n\nI'm Brian. I'm 63. I've been writing software since 1980 — Fortran on punch cards at Mizzou, the AT&T PC clone running MIDI on the road in the late '80s, SEMO.net from 1995 to a few months ago when I gave it away to a former employee. These days I'm VP of Software Engineering",
-    "url": "https://dev.to/brian_becker_0b40adcf07f9/what-id-do-differently-if-i-migrated-this-cicd-pipeline-again-next-week-28f2",
+    "id": "020",
+    "title": "⚖️ Case File 4.1: The Efficiency Extortion",
+    "summary": "The Performance Syndicate\n\n\nPerformance isn't about how fast your code runs; it’s about how little work it actually has to do.\n\n\nIn nearly two decades of architecting enterprise systems, I’ve seen more systems killed by \"performance fixes\" than by performance bugs. We often obsess over micro-optimiz",
+    "url": "https://dev.to/manojsatna31/case-file-41-the-efficiency-extortion-5c0h",
     "date": "2026-05-21",
     "source": "Dev.to",
     "tags": [
-      "claude",
-      "devops",
-      "aws",
-      "receipts"
+      "architecture",
+      "codequality",
+      "java",
+      "performance"
     ]
   },
   {
-    "id": "016",
-    "title": "What is MCP (Model Context Protocol) and Why Developers Suddenly Care",
-    "summary": "Everybody in AI suddenly started talking about MCP like it’s obvious.\n\nOne week it was AI agents. Then workflow automation. Then Claude Desktop integrations. Then Cursor and Windsurf started pushing MCP support everywhere. And suddenly developers everywhere started saying:\n\n“Just use MCP.”\n\nBut most",
-    "url": "https://dev.to/futuredevtech/what-is-mcp-model-context-protocol-and-why-developers-suddenly-care-4l7d",
-    "date": "2026-05-21",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "llm",
-      "mcp",
-      "tooling"
-    ]
-  },
-  {
-    "id": "017",
+    "id": "021",
     "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
     "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features.",
     "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
@@ -238,9 +289,9 @@
     ]
   },
   {
-    "id": "018",
-    "title": "The Letter S, by Donald Knuth [pdf]",
-    "summary": "Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf\nComments URL: https://news.ycombinator.com/item?id=48216016\nPoints: 8\n# Comments: 0",
+    "id": "022",
+    "title": "The Letter S, by Donald Knuth (1980) [pdf]",
+    "summary": "Article URL: https://gwern.net/doc/design/typography/1980-knuth.pdf\nComments URL: https://news.ycombinator.com/item?id=48216016\nPoints: 72\n# Comments: 7",
     "url": "https://gwern.net/doc/design/typography/1980-knuth.pdf",
     "date": "2026-05-20",
     "source": "Hacker News",
@@ -249,9 +300,9 @@
     ]
   },
   {
-    "id": "019",
-    "title": "I reverse engineered Apple's video wallpapers",
-    "summary": "Article URL: https://github.com/kageroumado/phosphene\nComments URL: https://news.ycombinator.com/item?id=48215979\nPoints: 56\n# Comments: 9",
+    "id": "023",
+    "title": "Show HN: I reverse engineered Apple's video wallpapers",
+    "summary": "Ever since Apple introduced their video wallpapers I wanted to be able to put custom videos there. I decided to reverse engineer and see what I can do.I built Phosphene to sell it, but the existing competitors were polished enough that the time it would have taken to catch up wasn't going to pay off",
     "url": "https://github.com/kageroumado/phosphene",
     "date": "2026-05-20",
     "source": "Hacker News",
@@ -260,20 +311,9 @@
     ]
   },
   {
-    "id": "020",
-    "title": "Starship's Twelfth Flight Test",
-    "summary": "Article URL: https://www.spacex.com/launches/starship-flight-12\nComments URL: https://news.ycombinator.com/item?id=48214558\nPoints: 91\n# Comments: 80",
-    "url": "https://www.spacex.com/launches/starship-flight-12",
-    "date": "2026-05-20",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
+    "id": "024",
     "title": "Google Declaring War on the Web",
-    "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 333\n# Comments: 235",
+    "summary": "Article URL: https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/\nComments URL: https://news.ycombinator.com/item?id=48214449\nPoints: 396\n# Comments: 274",
     "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
     "date": "2026-05-20",
     "source": "Hacker News",
@@ -282,9 +322,9 @@
     ]
   },
   {
-    "id": "022",
+    "id": "025",
     "title": "Show HN: CPU-only transcription for YouTube, TikTok, X, Instagram videos",
-    "summary": "Article URL: https://github.com/kouhxp/yapsnap\nComments URL: https://news.ycombinator.com/item?id=48214399\nPoints: 29\n# Comments: 12",
+    "summary": "Article URL: https://github.com/kouhxp/yapsnap\nComments URL: https://news.ycombinator.com/item?id=48214399\nPoints: 40\n# Comments: 14",
     "url": "https://github.com/kouhxp/yapsnap",
     "date": "2026-05-20",
     "source": "Hacker News",
@@ -293,9 +333,9 @@
     ]
   },
   {
-    "id": "023",
+    "id": "026",
     "title": "PopuLoRA: Co-Evolving LLM Populations for Reasoning Self- Play",
-    "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play\nComments URL: https://news.ycombinator.com/item?id=48214188\nPoints: 33\n# Comments: 6",
+    "summary": "Article URL: https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play\nComments URL: https://news.ycombinator.com/item?id=48214188\nPoints: 35\n# Comments: 6",
     "url": "https://vmax.ai/team/populora-co-evolving-llm-populations-for-reasoning-self-play",
     "date": "2026-05-20",
     "source": "Hacker News",
@@ -304,29 +344,7 @@
     ]
   },
   {
-    "id": "024",
-    "title": "Anthropic is expanding to Colossus2. Will use GB200",
-    "summary": "Article URL: https://xcancel.com/nottombrown/status/2057194829986300375\nComments URL: https://news.ycombinator.com/item?id=48214017\nPoints: 79\n# Comments: 69",
-    "url": "https://xcancel.com/nottombrown/status/2057194829986300375",
-    "date": "2026-05-20",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "SpaceX S-1",
-    "summary": "Article URL: https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm\nComments URL: https://news.ycombinator.com/item?id=48213933\nPoints: 233\n# Comments: 171",
-    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm",
-    "date": "2026-05-20",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "026",
+    "id": "027",
     "title": "The SpaceX IPO filing is filled with AI bets, Starship dreams, and Elon Musk at the center",
     "summary": "SpaceX has finally made the contents of its IPO filing public, weeks ahead of what is expected to be the largest IPO ever and one that will make Musk the CEO, CTO, and chairman of the board.",
     "url": "https://techcrunch.com/2026/05/20/the-spacex-ipo-filing-ai-bets-starship-dreams-elon-musk/",
@@ -344,7 +362,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "028",
     "title": "Clouted wants to take the guesswork out of making short videos go viral",
     "summary": "The video clipping startup raised a $7 million seed round led by Slow Ventures.",
     "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
@@ -361,7 +379,7 @@
     ]
   },
   {
-    "id": "028",
+    "id": "029",
     "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
     "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
     "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
@@ -378,7 +396,7 @@
     ]
   },
   {
-    "id": "029",
+    "id": "030",
     "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
     "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
     "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
@@ -389,26 +407,6 @@
       "earnings",
       "Jensen Huang",
       "nvidia"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Musk’s xAI is being sued over its data center generators — now it’s buying $2.8B more",
-    "summary": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
-    "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
-    "date": "2026-05-20",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Climate",
-      "air pollution",
-      "data centers",
-      "Elon Musk",
-      "natural gas",
-      "SpaceX",
-      "spacex ipo",
-      "spacexai",
-      "xAI"
     ]
   }
 ]
