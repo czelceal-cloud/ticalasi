@@ -1,6 +1,83 @@
 [
   {
     "id": "001",
+    "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+    "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 6\n# Comments: 0",
+    "url": "https://arxiv.org/abs/2605.19269",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
+    "summary": "Article URL: https://pythongiant.github.io/KVBoost/\nComments URL: https://news.ycombinator.com/item?id=48232060\nPoints: 6\n# Comments: 0",
+    "url": "https://pythongiant.github.io/KVBoost/",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Slumber a TUI HTTP Client",
+    "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 7\n# Comments: 0",
+    "url": "https://slumber.lucaspickering.me",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
+    "summary": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task into multiple subtasks and implement them one by one\n",
+    "url": "https://news.ycombinator.com/item?id=48231575",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
+    "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 17\n# Comments: 1",
+    "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Coins Stream",
+    "summary": "Article URL: https://coins.stream\nComments URL: https://news.ycombinator.com/item?id=48231256\nPoints: 7\n# Comments: 3",
+    "url": "https://coins.stream",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
+    "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126\nComments URL: https://news.ycombinator.com/item?id=48230892\nPoints: 195\n# Comments: 132",
+    "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
+    "date": "2026-05-22",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
     "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
     "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
     "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -15,7 +92,7 @@
     ]
   },
   {
-    "id": "002",
+    "id": "009",
     "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
     "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
     "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
@@ -28,7 +105,7 @@
     ]
   },
   {
-    "id": "003",
+    "id": "010",
     "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
     "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
     "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
@@ -48,7 +125,105 @@
     ]
   },
   {
-    "id": "004",
+    "id": "011",
+    "title": "Chewy Promo Codes: $20 Off May 2026",
+    "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
+    "url": "https://www.wired.com/story/chewy-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Peacock Promo Codes: 40% Off May 2026",
+    "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+    "url": "https://www.wired.com/story/peacock-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Nike Promo Codes and Discounts: 30% for May 2026",
+    "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+    "url": "https://www.wired.com/story/nike-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Google Workspace Promo Codes: 14% Off for May",
+    "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+    "url": "https://www.wired.com/story/google-workspace-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "30% Off Samsung Promo Code | May 2026",
+    "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+    "url": "https://www.wired.com/story/samsung-promo-codes/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Samsung",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "AT&T Promo Codes: $50 Off This May 2026",
+    "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+    "url": "https://www.wired.com/story/att-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Dyson Promo Codes: 25% Off in May 2026",
+    "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
+    "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping"
+    ]
+  },
+  {
+    "id": "018",
     "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
     "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
     "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
@@ -66,381 +241,167 @@
     ]
   },
   {
-    "id": "005",
-    "title": "I Kept Sorting Text Manually… Until I Realized I Was Wasting Time",
-    "summary": "The Problem Felt Too Small to Automate\n\n\nThis happened more often than I expected.\n\nI’d have:\n\n\nA list of keywords\nNames\nNotes\nTags\nRandom copied text\n\n\nAnd I’d start organizing them manually.\n\nMove this line.\nMove that line.\nCheck if it’s alphabetical.\n\nRepeat.\n\n\n  \n  \n  What Looked Like a 30-Secon",
-    "url": "https://dev.to/bhavin-allinonetools/i-kept-sorting-text-manually-until-i-realized-i-was-wasting-time-4gp0",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "buildinpublic",
-      "productivity",
-      "text"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "16 Python Libraries You Should Know",
-    "summary": "Python libraries make development much easier because you don’t have to build everything from scratch.\n\nToday, the hard part isn't building everything from scratch anymore; it's knowing which Python libraries are actually worth learning.\n\nThere are libraries for almost everything: web scraping, APIs",
-    "url": "https://dev.to/devshefali/16-python-libraries-you-should-know-856",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "python",
-      "pythonlibraries",
-      "programming"
-    ]
-  },
-  {
-    "id": "007",
-    "title": "How does VuReact compile Vue 3's lifecycle hooks to React?",
-    "summary": "VuReact is a tool that compiles Vue 3 code into standard, maintainable React code. In this article, we will look at how common Vue 3 lifecycle hooks are mapped into React.\n\nIf you write Vue lifecycle hooks, what does VuReact generate on the React side?\n\n\n  \n  \n  Before We Start\n\n\nTo keep the example",
-    "url": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-lifecycle-hooks-to-react-788",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "vue",
-      "react",
-      "webdev",
-      "javascript"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Securing AI Agents in a Bank: From Daily ChatGPT Use to a Production-Ready Secure Harness",
-    "summary": "AI agents are moving from personal productivity tools into operational workflows. That shift changes the security model.\n\nIf employees use ChatGPT, Claude, or Gemini to summarize notes, draft emails, explain code, or help write documentation, the primary security problem is AI usage governance.\n\nIf ",
-    "url": "https://dev.to/mike_anderson_d01f52129fb/securing-ai-agents-in-a-bank-from-daily-chatgpt-use-to-a-production-ready-secure-harness-1b99",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "cybersecurity",
-      "harness",
-      "datasecurity"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "That quote I half-remember at 2am? I can find it now.",
-    "summary": "gemma-brief: I built an AI that keeps up so I don't have to\n\n\nI'm a broke college student. Base MacBook Air. No API budget. Constantly behind.\n\nI follow too many YouTube channels. Research, tech, founders, stuff that actually matters. But I'm in class, I'm studying, I'm sleeping. By the time I get t",
-    "url": "https://dev.to/amadeobonde/that-quote-i-half-remember-at-2am-i-can-find-it-now-2blo",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma",
-      "automation"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "Bugs and Slop. What’s in a Name?",
-    "summary": "Before I broke into software engineering, I spent a decade in retail management. It was high-stress, fast-moving, and punishing. If a metric slipped, if an inventory count came up short, if one of your associates made a blunder, there was a room and spotlight waiting for you. They weren’t looking fo",
-    "url": "https://dev.to/giovanni_rufinogeo_77b/bugs-and-slop-whats-in-a-name-4bhc",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "programming",
-      "devdiscuss",
-      "coding"
-    ]
-  },
-  {
-    "id": "011",
-    "title": "Building a Practical Home Lab Starter Kit for Network Engineers",
-    "summary": "A lot of network engineers learn their best lessons in home labs, especially the lessons that do not fit neatly into certification tracks or production change windows.\n\nThey are also where things can get messy quickly.\n\nOne folder has topology notes. Another has Ansible experiments. A diagram lives ",
-    "url": "https://dev.to/brentf_io/building-a-practical-home-lab-starter-kit-for-network-engineers-5f43",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "networkengineering",
-      "linux",
-      "ansible",
-      "gns3"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "Strengthening Ride Matching, Notifications, and Schedule Management",
-    "summary": "For our last week, focused on improving session persistence and preparing GusLift for broader platform support. This week, we continued improving the core ride-sharing experience by working on notifications, routing, schedule management, ride matching, and user interface consistency.\n\n\n  \n  \n  Impro",
-    "url": "https://dev.to/guslift/strengthening-ride-matching-notifications-and-schedule-management-27h7",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "devjournal",
-      "mobile",
-      "reactnative",
-      "ui"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "I open-sourced 24 QA skills for Claude Code — from spec to release",
-    "summary": "TL;DR — I just open-sourced QA Claude Skill — 24 production-grade QA skills for Claude Code covering test design, automation, performance, security, mutation testing, and more. MIT for non-commercial use. GitHub repo.\n\n\n\n  \n  \n  The problem\n\n\nFor two years I've been iterating a personal Claude Code ",
-    "url": "https://dev.to/kao273183/i-open-sourced-24-qa-skills-for-claude-code-from-spec-to-release-2d57",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "claudecode",
-      "qa",
-      "testing",
-      "opensource"
-    ]
-  },
-  {
-    "id": "014",
-    "title": "FUKUSHIMA UAV Complete FAQ - 29 Questions on Hardware, GCS, and AI",
-    "summary": "FUKUSHIMA UAV: The Complete FAQ\n\n\nA reference guide to the FUKUSHIMA UAV product family — flight controllers, browser-based GCS, AI detection capabilities, pricing, custom development, and procurement — in one place. Last updated May 2026.\n\n\n\n\nThis document collects the questions we are asked most o",
-    "url": "https://dev.to/fukushimauav/fukushima-uav-complete-faq-29-questions-on-hardware-gcs-and-ai-fah",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "drones",
-      "ardupilot",
-      "hardware",
-      "embedded"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "New Avatar",
-    "summary": "This post is originally published on yoursunny.com blog https://yoursunny.com/t/2026/avatar/\n\n\n\n\nIn computing, an avatar is a graphical representation of a user, the user's character, or persona.\nAn avatar can be a two-dimensional picture, also known as a profile picture or userpic, or a three-dimen",
-    "url": "https://dev.to/yoursunny/new-avatar-59e6",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "art"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "AI-Enabled UAV Ground Control Stations Compared - 2026",
-    "summary": "AI-Enabled UAV Ground Control Stations Compared: FlightHub 2, Auterion AMC, FUKUSHIMA UAV, QGroundControl in 2026\n\n\nGround control stations diverged years ago. The old open-source GCS (Mission Planner, QGroundControl) handle flight, but not perception. The new enterprise platforms (DJI FlightHub 2, ",
-    "url": "https://dev.to/fukushimauav/ai-enabled-uav-ground-control-stations-compared-2026-hc2",
-    "date": "2026-05-22",
-    "source": "Dev.to",
-    "tags": [
-      "drones",
-      "ai",
-      "aviation",
-      "opensource"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
-    "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
-    "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-22",
-    "source": "BBC News",
-    "tags": [
-      "BBC News"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
-    "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
-    "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "TC",
-      "Transportation",
-      "antonio gracias",
-      "Elon Musk",
-      "SpaceX",
-      "spacex ipo"
-    ]
-  },
-  {
     "id": "019",
-    "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
-    "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
-    "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "I built a streaming app with 7,000+ downloads at ₹0/month — here's the exact architecture",
+    "summary": "I'm Wasey, a solo developer from Varanasi, India. I built DramaHub — \na fully live OTT streaming app on Google Play Store. 7,000+ downloads, \n1,000+ daily active users, sub-1% crash rate, ₹0/month infrastructure.\n\nHere's the exact architecture that makes it possible.\n\n\n  \n  \n  The Problem\n\n\nI had ze",
+    "url": "https://dev.to/waseyjamal/i-built-a-streaming-app-with-7000-downloads-at-0month-heres-the-exact-architecture-572h",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Transportation",
-      "autonomous vehicles",
-      "avs",
-      "robotaxis",
-      "Waymo"
+      "flutter",
+      "github",
+      "cloudflarechallenge",
+      "architecture"
     ]
   },
   {
     "id": "020",
-    "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
-    "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
-    "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "I built a crowdsourced deals + map app for Vietnam in 6 months — stack, traffic, and what broke",
+    "summary": "22 days ago I shipped cheap-map.app — a crowdsourced map of cheap restaurants, shops, and gas stations across Vietnam, with a multi-merchant affiliate deals aggregator bolted on. ~50 organic users a day now,\n  hockey-stick just starting.\n\nThis is the build-log: real stack, real costs, three things t",
+    "url": "https://dev.to/daohieu91/i-built-a-crowdsourced-deals-map-app-for-vietnam-in-6-months-stack-traffic-and-what-broke-5ac7",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Apps",
-      "Government & Policy",
-      "Media & Entertainment",
-      "Social",
-      "Politics",
-      "Twitch",
-      "zohran mamdani"
+      "showdev",
+      "webdev",
+      "nextjs",
+      "java"
     ]
   },
   {
     "id": "021",
-    "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-    "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Women Techmakers Ambassador Applications are here!",
+    "summary": "Women Techmakers Ambassador Applications are here!\n\n\n\nThis program brings together individuals who are passionate about technology, community, and creating space for others to grow.\nAs an Ambassador, you'll have the opportunity to:\n– Foster inclusive tech communities\n– Organize and lead meaningful i",
+    "url": "https://dev.to/1grace/women-techmakers-ambassador-applications-are-here-3lcn",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Media & Entertainment",
-      "AI",
-      "Apps",
-      "Spotify",
-      "ai music",
-      "universal music group"
+      "wtm",
+      "womentechmakers",
+      "technovation",
+      "womenintech"
     ]
   },
   {
     "id": "022",
-    "title": "How Elon Musk will increase his power through the SpaceX IPO",
-    "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-    "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "AI That Empowers Every Dream: My Vision Inspired by Google I/O 2026",
+    "summary": "Google I/O 2026 introduced a lot of exciting updates around AI, Gemini, Android, Firebase, and cloud technologies. But for me, the most inspiring part wasn’t just the technology itself — it was seeing how accessible AI development is becoming for students and independent developers.\n\nAs someone who ",
+    "url": "https://dev.to/hrishika_malviya_cec808f3/ai-that-empowers-every-dream-my-vision-inspired-by-google-io-2026-5859",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Transportation",
-      "Elon Musk",
-      "IPO",
-      "SpaceX",
-      "xAI",
-      "artificial intelligence"
+      "devchallenge",
+      "googleiochallenge"
     ]
   },
   {
     "id": "023",
-    "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
-    "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
-    "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "How We Reduced LLM Costs Without Touching Model Quality",
+    "summary": "How We Reduced LLM Costs Without Touching Model Quality\n\n\nOne of the fastest ways to destroy an AI system in production is uncontrolled token growth.\n\nMost demos ignore this problem because they run small prompts against clean datasets. Real enterprise systems do not behave like that.\n\nOnce multiple",
+    "url": "https://dev.to/karan2598/how-we-reduced-llm-costs-without-touching-model-quality-5d2f",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Security",
-      "cyberattacks",
-      "cybercrime",
-      "cybersecurity",
-      "Europol",
-      "FBI",
-      "First VPN",
-      "hackers",
-      "law enforcement",
-      "ransomware",
-      "vpn"
+      "brainpackai",
+      "infrastructure",
+      "vectordatabase",
+      "ai"
     ]
   },
   {
     "id": "024",
-    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-    "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Profiling a CUDA Python Program with GPUFlight",
+    "summary": "In the previous post, I used a C++ CUDA example to look at memory coalescing and how memory access patterns affect GPU performance.\n\nThis time, I wanted to look at a similar performance problem from Python.\n\nI usually write CUDA code in C++, but recently I have been spending more time with Python, e",
+    "url": "https://dev.to/codinginavan/profiling-a-cuda-python-program-with-gpuflight-466d",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "evergreen",
-      "Google"
+      "performance",
+      "python",
+      "tooling",
+      "tutorial"
     ]
   },
   {
     "id": "025",
-    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-    "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-    "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Hybrid Warfare Never Stopped. Most People Just Stopped Recognizing It.",
+    "summary": "What a decade of observing hybrid warfare ecosystems reveals about where we are now.\nThere is a moment, when you have been watching something long enough, where the pattern stops feeling like analysis and starts feeling like memory.\n\nI have spent well over a decade monitoring the intersection of hyb",
+    "url": "https://dev.to/aetherintel/hybrid-warfare-never-stopped-most-people-just-stopped-recognizing-it-1h4l",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Venture",
-      "Convective Capital",
-      "Funding",
-      "Y Combinator"
+      "ai",
+      "cybersecurity",
+      "geopolitical",
+      "eu"
     ]
   },
   {
     "id": "026",
-    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-    "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Run Hermes Agent on Any Model — Free, Local, and Cost-Routed",
+    "summary": "If you've spent any time wrestling with AI coding tools and agents in 2026, you've hit two walls:\n\n\n\nProvider lock-in. Claude Code expects Anthropic. Codex expects OpenAI. Your shiny new agent framework wants whatever its README assumes.\n\nAgent amnesia. Every session starts from zero. Your \"AI assis",
+    "url": "https://dev.to/vishal_veerareddy_9cdd17d/hermes-lynkr-the-self-improving-agent-meets-the-universal-llm-proxy-3n11",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Government & Policy",
-      "ai executive order",
-      "Trump"
+      "ai",
+      "opensource",
+      "agents",
+      "llm"
     ]
   },
   {
     "id": "027",
-    "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-    "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-    "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Day 11 - AWS VPC",
+    "summary": "When you start learning AWS, services like EC2, S3, Lambda, and RDS feel exciting.\n\nBut behind almost every real AWS architecture, there is one silent foundation:\n\nAmazon VPC — Virtual Private Cloud\n\nIf EC2 is your server, RDS is your database, and ALB is your traffic manager, then VPC is the privat",
+    "url": "https://dev.to/17j/-day-11-aws-vpc-3l4m",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "Startups",
-      "Venture",
-      "biotech",
-      "fragrance"
+      "devops",
+      "tutorial",
+      "webdev",
+      "masterclassdevsecops"
     ]
   },
   {
     "id": "028",
-    "title": "Spotify takes on Google’s NotebookLM with its new app",
-    "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Interview Sheet Q2:- 121. Best Time to Buy and Sell Stock",
+    "summary": "Approach 1: Brute Force\n\n\n\nTry every possible buy day.\nFor each buy day, try every sell day after it.\nCalculate profit and keep maximum.\n\n\n\n\nclass Solution {\n    public int maxProfit(int[] prices) {\n        int maxProfit = 0;\n\n        for (int i = 0; i < prices.length; i++) {\n            for (int j ",
+    "url": "https://dev.to/shipra_shakya_5ebf9808e2a/interview-sheet-q2-1-two-sum-2oe8",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Apps",
-      "AI generated podcasts",
-      "podcasts",
-      "Spotify"
+      "leetcode",
+      "interview",
+      "career",
+      "programming"
     ]
   },
   {
     "id": "029",
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Reviving TruthGuard AI: From Zero History to Full CRUD with GitHub Copilot",
+    "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge.\n\n\n\n\n\n  \n  \n  🛡️ What I Built\n\n\nTruthGuard AI is an enterprise-grade fake news detection and fact-checking tool that combines real-time web search with advanced LLM analysis. Users can paste any claim, news excerpt, or social media post,",
+    "url": "https://dev.to/awaisranahmad/reviving-truthguard-ai-from-zero-history-to-full-crud-with-github-copilot-42kl",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Apps",
-      "AI audio",
-      "ai generated content",
-      "Spotify"
+      "devchallenge",
+      "githubchallenge"
     ]
   },
   {
     "id": "030",
-    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-    "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
+    "title": "Google Antigravity 2.0 Broke My IDE: Fixing the Missing File Explorer and Workspace Bug",
+    "summary": "If you recently updated Google Antigravity to version 2.0.1 or higher and suddenly lost:\n\n\nyour file explorer,\nworkspace sidebar,\ncode editor layout,\nor previous chat history,\n\n\nyou’re not alone.\n\nAfter updating, both:\n\n\nAntigravity\nand Antigravity IDE\n\n\n\nstarted opening the exact same agent-focused",
+    "url": "https://dev.to/naveen_gaur/google-antigravity-20-broke-my-ide-fixing-the-missing-file-explorer-and-workspace-bug-3phk",
+    "date": "2026-05-22",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "audiobooks",
-      "ElevenLabs",
-      "Spotify"
+      "antigravity",
+      "google",
+      "ai",
+      "agents"
     ]
   }
 ]
