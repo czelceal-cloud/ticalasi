@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://arxiv.org/abs/2605.12460",
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 27\n# Comments: 1",
+      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
+      "title": "Uv is fantastic, but its package management UX is a mess",
+      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 31\n# Comments: 6",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "title": "Using Kagi Search with Low Vision",
-      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 38\n# Comments: 1",
+      "url": "https://github.com/eigenpal/docx-editor",
+      "title": "Show HN: Open-source .docx editor library for building document apps",
+      "summary": "We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0.A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses OOXML directly and uses its own rendering+layout engin",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 68\n# Comments: 23",
+      "url": "https://arxiv.org/abs/2605.12460",
+      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
+      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 42\n# Comments: 2",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://www.thek6project.co.uk/",
-      "title": "Where are all the UK red telephone kiosks?",
-      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 51\n# Comments: 33",
+      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+      "title": "Using Kagi Search with Low Vision",
+      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 95\n# Comments: 8",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 365\n# Comments: 148",
+      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 131\n# Comments: 81",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/",
-      "title": "Chewing gum restores dad's taste and smell years after Covid",
-      "summary": "Article URL: https://discover.swns.com/2026/05/chewing-gum-restores-dads-taste-and-smell-years-after-covid/\nComments URL: https://news.ycombinator.com/item?id=48226038\nPoints: 115\n# Comments: 46",
+      "url": "https://www.thek6project.co.uk/",
+      "title": "Where are all the UK red telephone kiosks?",
+      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 65\n# Comments: 37",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -73,6 +73,17 @@
     },
     {
       "id": "007",
+      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
+      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 393\n# Comments: 163",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
       "url": "https://news.ycombinator.com/item?id=48225852",
       "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
       "summary": "Comments URL: https://news.ycombinator.com/item?id=48225852\nPoints: 0\n# Comments: 0",
@@ -83,21 +94,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
+      "id": "009",
       "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
       "title": "News outlets are limiting the Internet Archive’s access to their journalism",
-      "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\nComments URL: https://news.ycombinator.com/item?id=48225838\nPoints: 164\n# Comments: 54",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-      "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/\nComments URL: https://news.ycombinator.com/item?id=48225426\nPoints: 190\n# Comments: 239",
+      "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\nComments URL: https://news.ycombinator.com/item?id=48225838\nPoints: 198\n# Comments: 72",
       "date_published": "2026-05-21",
       "tags": [
         "Hacker News"
@@ -235,7 +235,7 @@
     {
       "id": "018",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
       "date_published": "2026-05-21",
       "tags": [
@@ -294,7 +294,7 @@
       "id": "022",
       "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
       "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "summary": "Spotify is releasing new audiobook plans later this year",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
       "date_published": "2026-05-21",
       "tags": [
         "AI",
@@ -322,6 +322,21 @@
     },
     {
       "id": "024",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
+      "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
+      "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Transportation",
+        "autonomous vehicles",
+        "avs",
+        "robotaxis",
+        "Waymo"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
       "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
@@ -339,7 +354,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
       "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
       "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
@@ -354,7 +369,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
       "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
       "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
@@ -368,7 +383,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
       "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
@@ -386,7 +401,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
       "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
       "summary": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
@@ -399,32 +414,15 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "029",
-      "url": "https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/",
-      "title": "AT&T sues California in attempt to shut off old phone network",
-      "summary": "AT&T asks a court and the FCC to block California phone requirements.",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Policy",
-        "AT&T",
-        "California",
-        "fiber",
-        "wireless"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
       "id": "030",
-      "url": "https://arstechnica.com/science/2026/05/jwst-maps-the-weather-on-a-hot-gas-giant-700-light-years-away/",
-      "title": "JWST maps the weather on a hot gas giant 700 light-years away",
-      "summary": "The differences seen here could be throwing off how we study planetary atmospheres.",
+      "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
+      "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
+      "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
       "date_published": "2026-05-21",
       "tags": [
-        "Science",
-        "astronomy",
-        "atmospheric science",
-        "gas giant",
-        "planetary science",
+        "Tech",
+        "smart home",
+        "software",
         "Weather"
       ],
       "_source": "Ars Technica"
