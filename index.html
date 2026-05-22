@@ -222,21 +222,6 @@ footer a:hover { color: #888; }
     <h3>cloud</h3>
     <p>AI infrastructure — distributed agent orchestration</p>
   </a>
-  <a href="https://github.com/ticalzzt/tical-code" class="product-card">
-    <div class="icon">&#9675;</div>
-    <h3>tical-code</h3>
-    <p>Open-source AI agent framework — multi-worker, self-healing</p>
-  </a>
-  <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/tool-ai-worker-pattern.json" class="product-card">
-    <div class="icon">&#9673;</div>
-    <h3>Tool AI Worker</h3>
-    <p>Open-source AI agent deployment pattern — deploy, verify, scale</p>
-  </a>
-  <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/anchor-protocol.json" class="product-card">
-    <div class="icon">&#9641;</div>
-    <h3>Anchor Protocol</h3>
-    <p>AI identity &amp; coordination protocol for multi-agent systems</p>
-  </a>
 </section>
 
 <!-- Ticker -->
@@ -262,46 +247,6 @@ footer a:hover { color: #888; }
 
 <footer>
   <span>&copy; ticalasi</span>
-  <span><a href="https://github.com/ticalzzt">GitHub</a> &middot; <a href="/feed.json">RSS</a> &middot; <a href="/robots.txt">robots</a></span>
-</footer>
-
-<script>
-const canvas = document.getElementById('particles');
-const ctx = canvas.getContext('2d');
-let particles = [];
-function resize() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
-resize(); window.addEventListener('resize', resize);
-
-class Particle {
-  constructor() { this.reset(); }
-  reset() {
-    this.x = Math.random() * canvas.width;
-    this.y = Math.random() * canvas.height;
-    this.size = Math.random() * 1.5 + 0.3;
-    this.speedX = (Math.random() - 0.5) * 0.2;
-    this.speedY = (Math.random() - 0.5) * 0.2;
-    this.opacity = Math.random() * 0.3 + 0.05;
-  }
-  update() {
-    this.x += this.speedX; this.y += this.speedY;
-    if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) this.reset();
-  }
-  draw() {
-    ctx.beginPath(); ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-    ctx.fillStyle = `rgba(200, 200, 200, ${this.opacity})`; ctx.fill();
-  }
-}
-const count = Math.min(Math.floor(canvas.width * canvas.height / 15000), 80);
-for (let i = 0; i < count; i++) particles.push(new Particle());
-function animate() { ctx.clearRect(0,0,canvas.width,canvas.height); particles.forEach(p => { p.update(); p.draw(); }); requestAnimationFrame(animate); }
-animate();
-
-fetch('/articles.json').then(r=>r.json()).then(data => {
-  const articles = Array.isArray(data) ? data : (data.articles || data.items || []);
-  document.getElementById('articles').innerHTML = articles.slice(0,20).map(a => `
-    <article>
-      <p class="source"><span>${a.source || 'Web'}</span></p>
-      <h2><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></h2>
       <p class="summary">${(a.summary || '').slice(0,120)}</p>
     </article>
   `).join('');
