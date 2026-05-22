@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://paulgraham.com/winc.html",
-      "title": "How to convert between wealth and income tax",
-      "summary": "Article URL: https://paulgraham.com/winc.html\nComments URL: https://news.ycombinator.com/item?id=48237422\nPoints: 13\n# Comments: 4",
+      "url": "https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun",
+      "title": "Microsoft Drops Claude Code After Budget Overrun",
+      "summary": "Article URL: https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun\nComments URL: https://news.ycombinator.com/item?id=48238896\nPoints: 40\n# Comments: 14",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-      "title": "Why Japanese companies do so many different things",
-      "summary": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many\nComments URL: https://news.ycombinator.com/item?id=48237163\nPoints: 60\n# Comments: 11",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "title": "1940 Air Terminal Museum Begins Liquidation",
+      "summary": "Article URL: https://www.1940airterminal.org/news/liquidation-of-simulators\nComments URL: https://news.ycombinator.com/item?id=48238568\nPoints: 8\n# Comments: 2",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-      "title": "A Forth-inspired language for writing websites",
-      "summary": "Article URL: https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites\nComments URL: https://news.ycombinator.com/item?id=48236887\nPoints: 19\n# Comments: 3",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "title": "You can no longer Google the word 'disregard'",
+      "summary": "Article URL: https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/\nComments URL: https://news.ycombinator.com/item?id=48238351\nPoints: 99\n# Comments: 50",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -40,6 +40,72 @@
     },
     {
       "id": "004",
+      "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+      "summary": "Article URL: https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators\nComments URL: https://news.ycombinator.com/item?id=48238025\nPoints: 91\n# Comments: 38",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+      "title": "Trump Mobile exposed customers' personal data",
+      "summary": "Article URL: https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/\nComments URL: https://news.ycombinator.com/item?id=48237684\nPoints: 126\n# Comments: 42",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://api-docs.deepseek.com/quick_start/pricing",
+      "title": "DeepSeek makes the V4 Pro price discount permanent",
+      "summary": "> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC.https://x.com/deepseek_ai/status/2057854261699195173\n\nComments URL: https://news.ycombinator.com/item?id=48237663\nPoints: 44\n# Comments: ",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://paulgraham.com/winc.html",
+      "title": "How to convert between wealth and income tax",
+      "summary": "Article URL: https://paulgraham.com/winc.html\nComments URL: https://news.ycombinator.com/item?id=48237422\nPoints: 45\n# Comments: 140",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+      "title": "Why Japanese companies do so many different things",
+      "summary": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many\nComments URL: https://news.ycombinator.com/item?id=48237163\nPoints: 224\n# Comments: 91",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
+      "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+      "title": "A Forth-inspired language for writing websites",
+      "summary": "Article URL: https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites\nComments URL: https://news.ycombinator.com/item?id=48236887\nPoints: 53\n# Comments: 6",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "010",
       "url": "https://github.com/superset-sh/superset",
       "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
       "summary": "Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (https://github.com/superset-sh/superset), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel.Demo: https://www.youtube.com/watch?v=YWDHn7gUwfgTry it: https://superset.sh/We’re three engin",
@@ -50,62 +116,54 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
-      "url": "https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html",
-      "title": "The Spread of Christianity Animated",
-      "summary": "Article URL: https://www.openculture.com/2026/05/the-spread-of-christianity-animated-from-antiquity-until-today.html\nComments URL: https://news.ycombinator.com/item?id=48235733\nPoints: 40\n# Comments: 5",
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
+      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
+      "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
       "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "Security",
+        "cybersecurity",
+        "FBI",
+        "hackers",
+        "hacking",
+        "infostealer",
+        "Kash Patel",
+        "malware"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
-      "id": "006",
-      "url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-      "title": "AI has a multiplying effect on existing technical skills",
-      "summary": "Article URL: https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/\nComments URL: https://news.ycombinator.com/item?id=48235526\nPoints: 107\n# Comments: 124",
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
+      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
+      "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
       "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "Apps",
+        "Commerce",
+        "Apple",
+        "Court",
+        "Epic Games",
+        "lawsuit"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
-      "id": "007",
-      "url": "https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android",
-      "title": "Circle Medical (YC S15) Is Hiring a Mobile Engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/circle-medical/jobs/onMKAG9-mobile-engineer-android\nComments URL: https://news.ycombinator.com/item?id=48234688\nPoints: 0\n# Comments: 0",
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
+      "title": "Spotify’s AI bet: more of everything, less of what you want",
+      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
       "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "Apps",
+        "AI audio",
+        "Spotify"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
-      "id": "008",
-      "url": "https://annas-archive.gl/blog/llms-txt.html",
-      "title": "If you’re an LLM, please read this",
-      "summary": "Article URL: https://annas-archive.gl/blog/llms-txt.html\nComments URL: https://news.ycombinator.com/item?id=48234413\nPoints: 459\n# Comments: 281",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/",
-      "title": "The current AI pricing was always going to go away",
-      "summary": "Article URL: https://arnon.dk/the-current-ai-pricing-was-always-going-to-go-away/\nComments URL: https://news.ycombinator.com/item?id=48234391\nPoints: 25\n# Comments: 17",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
       "title": "We tried Google’s AI glasses and they’re almost there",
       "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
@@ -114,35 +172,17 @@
         "AI",
         "Gadgets",
         "Hardware",
-        "TC",
         "Android XR",
         "android xr glasses",
         "gemini glasses",
         "Google",
-        "google glasses"
+        "google glasses",
+        "google io 2026"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
-      "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
-      "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
-      "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform, and was evaluating whether it needs to notify customers.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Security",
-        "cybersecurity",
-        "data exposure",
-        "Data leak",
-        "Donald Trump",
-        "Exclusive",
-        "privacy",
-        "Trump Mobile"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "012",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
       "title": "Meta quietly launches a new Reddit-like app called Forum",
       "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
@@ -159,7 +199,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
       "title": "Smart ring maker Oura files to go public",
       "summary": "The Finnish company said in September that it has sold 5.5 million smart rings to date.",
@@ -167,6 +207,7 @@
       "tags": [
         "Hardware",
         "fitness wearables",
+        "In Brief",
         "oura",
         "Oura Ring",
         "wearables"
@@ -174,10 +215,10 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
-      "title": "Audio generation app Huxe, founded by former NotebookLM developers, shuts down",
-      "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month",
+      "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
+      "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
       "date_published": "2026-05-22",
       "tags": [
         "Apps",
@@ -189,10 +230,10 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
-      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
-      "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
+      "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "summary": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
       "date_published": "2026-05-22",
       "tags": [
         "Gadgets",
@@ -205,7 +246,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
       "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
       "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
@@ -220,7 +261,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
       "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
       "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
@@ -233,7 +274,81 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "021",
+      "url": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
+      "title": "Soaring solar and a surge in hydro push more coal off the US grid",
+      "summary": "The first data from 2026 seem to indicate that last year was an oddity.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Science",
+        "coal",
+        "Energy",
+        "gas",
+        "green",
+        "hydro",
+        "nuclear",
+        "renewable energy",
+        "solar",
+        "Wind"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "022",
+      "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
+      "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
+      "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
+      "date_published": "2026-05-22",
+      "tags": [
+        "AI",
+        "Policy",
+        "AI regulation",
+        "AI safety",
+        "ai safety testing",
+        "Artificial Intelligence",
+        "cybersecurity",
+        "Donald Trump",
+        "national security"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "023",
+      "url": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
+      "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
+      "summary": "Keep the charging puck’s exposed pins far away from anything metal.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gaming",
+        "charger",
+        "controller",
+        "fire",
+        "hardware",
+        "Hazard",
+        "metal",
+        "pins",
+        "Steam",
+        "Valve"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "024",
+      "url": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
+      "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
+      "summary": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Space",
+        "bureaucracy",
+        "NASA",
+        "reorganization",
+        "space"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "025",
       "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
       "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
       "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth.",
@@ -250,7 +365,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "019",
+      "id": "026",
       "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
       "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
       "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
@@ -266,7 +381,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "020",
+      "id": "027",
       "url": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
       "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
       "summary": "All eyes on South Texas for the latest Starship test flight.",
@@ -279,7 +394,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "021",
+      "id": "028",
       "url": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
       "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
       "summary": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
@@ -296,7 +411,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "022",
+      "id": "029",
       "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
       "title": "A hacker group is poisoning open source code at an unprecedented scale",
       "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
@@ -313,7 +428,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "023",
+      "id": "030",
       "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
       "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
       "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
@@ -331,106 +446,6 @@
         "texas"
       ],
       "_source": "Ars Technica"
-    },
-    {
-      "id": "024",
-      "url": "https://www.theverge.com/gadgets/936122/lg-b5-oled-77-best-buy-gift-card-memorial-day-deal-sale",
-      "title": "LG’s 77-inch B5 OLED TV is down to $1,500 and comes with a $200 gift card",
-      "summary": "Best Buy’s Memorial Day sale includes a good deal on a massive OLED TV. The 77-inch LG B5 is down to $1,499.99 (originally $2,999.99), and the purchase includes a $200 Best Buy gift card. I’m a 55-inch TV kind of person, but if you’ve got the budget — and the wall space — this is […]",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
-      "title": "The Trump phone is not here",
-      "summary": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. It's now been more than a week since Trump Mobile announced that phones would \"start shipping this week.\" Last week Trump Mobile announced that the T1 Ph",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gadgets",
-        "Mobile",
-        "News",
-        "Phones",
-        "Policy",
-        "Politics",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "026",
-      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "title": "The literary world isn’t prepared for AI",
-      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selections for the prestigious award: It appears to have been written by AI. Jamir Nazir's \"The Serpent in th",
-      "date_published": "2026-05-22",
-      "tags": [
-        "AI",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "027",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-      "title": "Why would you disrespect your favorite artist with an AI remix?",
-      "summary": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of The Weeknd, and monotonous Motown reimaginings of AC/DC. Now, a new tool from Spotify will make the",
-      "date_published": "2026-05-22",
-      "tags": [
-        "AI",
-        "Entertainment",
-        "Music",
-        "Report",
-        "Spotify"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "028",
-      "url": "https://www.theverge.com/transportation/936078/tesla-model-y-missing-sticker-recall",
-      "title": "Tesla recalls thousands of Model Ys at risk of… missing a sticker",
-      "summary": "The National Highway Traffic Safety Administration (NHTSA) has issued a recall for 14,575 Model Y vehicles over an issue that Tesla can't fix with its usual software update: a missing label. According to the recall report, Model Ys made between November 17th, 2024 and April 21st, 2026 could be missi",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Electric Cars",
-        "News",
-        "Tesla",
-        "Transportation"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "029",
-      "url": "https://www.theverge.com/entertainment/935285/i-love-boosters-boots-riley-interview",
-      "title": "Boots Riley turns class struggle into comedy with I Love Boosters",
-      "summary": "Before Boots Riley became the writer / director / musician behind Sorry to Bother You and I'm a Virgo, he was a young community organizer fighting for social justice as part of the Progressive Labor Party. Riley has channeled his anti-establishment, pro-worker politics into every piece of art that h",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Entertainment",
-        "Film",
-        "Interview",
-        "Report"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "030",
-      "url": "https://www.theverge.com/podcast/936037/google-io-2026-search-agents-vergecast",
-      "title": "The post-search Google era begins",
-      "summary": "Google is many things, but most of the time it's a verb: It is what it is to search the internet for information. But what if it's an AI agent doing the searching? And it's doing it proactively? Without even telling you about it? In the world Google imagines, in which so much of the […]",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Google",
-        "Google I/O 2026",
-        "Podcasts",
-        "Tech",
-        "Vergecast"
-      ],
-      "_source": "The Verge"
     }
   ]
 }
