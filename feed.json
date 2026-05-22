@@ -9,7 +9,7 @@
       "id": "001",
       "url": "https://arxiv.org/abs/2605.19269",
       "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 6\n# Comments: 0",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 49\n# Comments: 3",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://pythongiant.github.io/KVBoost/",
       "title": "Show HN: KVBoost – chunk-level KV cache reuse for HuggingFace, 5–48x faster TTFT",
-      "summary": "Article URL: https://pythongiant.github.io/KVBoost/\nComments URL: https://news.ycombinator.com/item?id=48232060\nPoints: 6\n# Comments: 0",
+      "summary": "Article URL: https://pythongiant.github.io/KVBoost/\nComments URL: https://news.ycombinator.com/item?id=48232060\nPoints: 18\n# Comments: 12",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -31,7 +31,7 @@
       "id": "003",
       "url": "https://slumber.lucaspickering.me",
       "title": "Slumber a TUI HTTP Client",
-      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 7\n# Comments: 0",
+      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 48\n# Comments: 21",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://news.ycombinator.com/item?id=48231575",
-      "title": "Show HN: Spec-Driven Development Workflow for Claude Code",
-      "summary": "Spec Driven Development approach allows to squeeze more from coding agents thanks to few strong concepts:\n- decomposition across two dimensions. first you generate specs in multiple steps (requirements, code analysis, design), than you split task into multiple subtasks and implement them one by one\n",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "title": "Cleve Moler has died",
+      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 70\n# Comments: 4",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -51,39 +51,22 @@
     },
     {
       "id": "005",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "title": "Cleve Moler (Matlab, MathWorks) passed away on May 20, 2026",
-      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 17\n# Comments: 1",
+      "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
+      "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
+      "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
       "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "Gadgets",
+        "Hardware",
+        "HMD Global",
+        "India",
+        "Sarvam AI",
+        "smartphone"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "006",
-      "url": "https://coins.stream",
-      "title": "Coins Stream",
-      "summary": "Article URL: https://coins.stream\nComments URL: https://news.ycombinator.com/item?id=48231256\nPoints: 7\n# Comments: 3",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://qz.com/samsung-chip-workers-bonus-ai-profits-052126",
-      "title": "Samsung chip workers will get an average $340k bonus as AI profits soar",
-      "summary": "Article URL: https://qz.com/samsung-chip-workers-bonus-ai-profits-052126\nComments URL: https://news.ycombinator.com/item?id=48230892\nPoints: 195\n# Comments: 132",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
       "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
       "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
@@ -98,7 +81,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "009",
+      "id": "007",
       "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
       "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
       "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
@@ -111,7 +94,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "010",
+      "id": "008",
       "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
       "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
       "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
@@ -129,6 +112,35 @@
         "texas"
       ],
       "_source": "Ars Technica"
+    },
+    {
+      "id": "009",
+      "url": "https://www.wired.com/story/nike-promo-code/",
+      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
+      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "010",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "title": "Google Workspace Promo Codes: 14% Off for May",
+      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
     },
     {
       "id": "011",
@@ -160,35 +172,6 @@
     },
     {
       "id": "013",
-      "url": "https://www.wired.com/story/nike-promo-code/",
-      "title": "Nike Promo Codes and Discounts: 30% for May 2026",
-      "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "014",
-      "url": "https://www.wired.com/story/google-workspace-promo-code/",
-      "title": "Google Workspace Promo Codes: 14% Off for May",
-      "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "015",
       "url": "https://www.wired.com/story/samsung-promo-codes/",
       "title": "30% Off Samsung Promo Code | May 2026",
       "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
@@ -203,7 +186,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "014",
       "url": "https://www.wired.com/story/att-promo-code/",
       "title": "AT&T Promo Codes: $50 Off This May 2026",
       "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
@@ -216,7 +199,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "015",
       "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
       "title": "Dyson Promo Codes: 25% Off in May 2026",
       "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
@@ -229,7 +212,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "016",
       "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
       "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
       "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
@@ -247,168 +230,187 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
-      "url": "https://dev.to/waseyjamal/i-built-a-streaming-app-with-7000-downloads-at-0month-heres-the-exact-architecture-572h",
-      "title": "I built a streaming app with 7,000+ downloads at ₹0/month — here's the exact architecture",
-      "summary": "I'm Wasey, a solo developer from Varanasi, India. I built DramaHub — \na fully live OTT streaming app on Google Play Store. 7,000+ downloads, \n1,000+ daily active users, sub-1% crash rate, ₹0/month infrastructure.\n\nHere's the exact architecture that makes it possible.\n\n\n  \n  \n  The Problem\n\n\nI had ze",
+      "id": "017",
+      "url": "https://dev.to/nadyyym/how-we-run-our-newsletter-on-our-own-astro-stack-instead-of-substack-20fb",
+      "title": "How we run our newsletter on our own Astro stack instead of Substack",
+      "summary": "This is a post about plumbing. We send a newsletter, it goes out from our own site, and over the last few months that setup turned into something I actually like working on. Here is the whole thing.\n\n\n  \n  \n  Why we left Substack\n\n\nThe newsletter used to live on Substack. We moved it for one reason:",
       "date_published": "2026-05-22",
       "tags": [
-        "flutter",
-        "github",
-        "cloudflarechallenge",
-        "architecture"
+        "newsletter",
+        "buildinpublic",
+        "opensource",
+        "sal"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "018",
+      "url": "https://dev.to/ericwoooo_kr/the-three-durable-function-forms-orchestrators-activities-and-entities-with-real-code-57kk",
+      "title": "The Three Durable Function Forms: Orchestrators, Activities, and Entities (With Real Code)",
+      "summary": "TL;DR: The thing that pushed me toward Durable Functions wasn't some architectural epiphany — it was a cron job graveyard.  I had a payment retry workflow split across three Azure Functions, a storage table acting as a makeshift state machine, and a timer trigger that woke up every five\n\n\n📖 Reading ",
+      "date_published": "2026-05-22",
+      "tags": [
+        "productivity",
+        "tools",
+        "webdev",
+        "discuss"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "019",
+      "url": "https://dev.to/diksha_sharma15/i-finally-understood-elasticsearch-after-thinking-about-libraries-1jhh",
+      "title": "I Finally Understood Elasticsearch After Thinking About Libraries",
+      "summary": "Imagine Elasticsearch as a huge digital library system, and Apache Lucene as the high-performance search engine library working behind the scenes. Elasticsearch is built on top of Lucene to provide distributed storage and extremely fast searching capabilities.\n\nA library contains different corners o",
+      "date_published": "2026-05-22",
+      "tags": [
+        "beginners",
+        "database",
+        "learning",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://dev.to/daohieu91/i-built-a-crowdsourced-deals-map-app-for-vietnam-in-6-months-stack-traffic-and-what-broke-5ac7",
-      "title": "I built a crowdsourced deals + map app for Vietnam in 6 months — stack, traffic, and what broke",
-      "summary": "22 days ago I shipped cheap-map.app — a crowdsourced map of cheap restaurants, shops, and gas stations across Vietnam, with a multi-merchant affiliate deals aggregator bolted on. ~50 organic users a day now,\n  hockey-stick just starting.\n\nThis is the build-log: real stack, real costs, three things t",
+      "url": "https://dev.to/abhishek_kadlii_9ef4ca8bc/my-first-day-in-the-cloud-how-i-built-a-secured-digital-fortress-in-azure-3aka",
+      "title": "🚀 My First Day in the Cloud: How I Built a Secured Digital Fortress in Azure",
+      "summary": "Many people think learning \"Cloud Computing\" means watching videos and memorizing words. But to actually become a real engineer, you have to get your hands dirty.\n\nToday was my very first day building live systems inside Microsoft's global network (Azure). I didn't just build a cloud computer; I wra",
       "date_published": "2026-05-22",
       "tags": [
-        "showdev",
-        "webdev",
-        "nextjs",
-        "java"
+        "Dev.to"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "021",
-      "url": "https://dev.to/1grace/women-techmakers-ambassador-applications-are-here-3lcn",
-      "title": "Women Techmakers Ambassador Applications are here!",
-      "summary": "Women Techmakers Ambassador Applications are here!\n\n\n\nThis program brings together individuals who are passionate about technology, community, and creating space for others to grow.\nAs an Ambassador, you'll have the opportunity to:\n– Foster inclusive tech communities\n– Organize and lead meaningful i",
+      "url": "https://dev.to/mohammed_thaha/from-a-phone-in-a-cave-to-global-open-source-why-googles-gemma-models-are-a-lifeline-for-budget-3ebe",
+      "title": "From a Phone in a \"Cave\" to Global Open Source: Why Google’s Gemma Models are a Lifeline for Budget Developers",
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nBefore you dive into reading this blog, I want to share one thing with you straight from the heart. I didn’t just write this blog directly using an LLM or any AI tool. I sat down and drafted every single bit of this story in my not",
       "date_published": "2026-05-22",
       "tags": [
-        "wtm",
-        "womentechmakers",
-        "technovation",
-        "womenintech"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://dev.to/hrishika_malviya_cec808f3/ai-that-empowers-every-dream-my-vision-inspired-by-google-io-2026-5859",
-      "title": "AI That Empowers Every Dream: My Vision Inspired by Google I/O 2026",
-      "summary": "Google I/O 2026 introduced a lot of exciting updates around AI, Gemini, Android, Firebase, and cloud technologies. But for me, the most inspiring part wasn’t just the technology itself — it was seeing how accessible AI development is becoming for students and independent developers.\n\nAs someone who ",
+      "url": "https://dev.to/francisco_cf38f1a60a9801d/building-a-privacy-first-ai-app-for-patient-caregiver-doctor-visit-notes-3og6",
+      "title": "Building a Privacy-First AI App for Patient & Caregiver Doctor Visit Notes",
+      "summary": "Hi DEV Community,\n\nI wanted to share a project I've been working on called AI Doctor Notes. It’s an app built specifically to solve a common problem: walking out of a doctor's visit and completely forgetting the instructions, medication steps, or follow-up details.\n\nUnlike generic voice-recording or",
       "date_published": "2026-05-22",
       "tags": [
-        "devchallenge",
-        "googleiochallenge"
+        "showdev",
+        "healthtech",
+        "ai",
+        "swift"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://dev.to/karan2598/how-we-reduced-llm-costs-without-touching-model-quality-5d2f",
-      "title": "How We Reduced LLM Costs Without Touching Model Quality",
-      "summary": "How We Reduced LLM Costs Without Touching Model Quality\n\n\nOne of the fastest ways to destroy an AI system in production is uncontrolled token growth.\n\nMost demos ignore this problem because they run small prompts against clean datasets. Real enterprise systems do not behave like that.\n\nOnce multiple",
+      "url": "https://dev.to/whitetirocket/my-side-project-gets-most-of-its-traffic-from-chatgpt-not-google-here-is-the-schema-work-behind-3j4",
+      "title": "My side project gets most of its traffic from ChatGPT, not Google. Here is the schema work behind it.",
+      "summary": "My side project gets most of its traffic from ChatGPT, not Google. Here is the schema work behind it.\n\n\nA few weeks ago I opened Google Analytics for a passport-photo tool I build and maintain, and the traffic-source breakdown stopped me:\n\n\nchatgpt.com — 65% of sessions\ngoogle / organic — about 6%\nd",
       "date_published": "2026-05-22",
       "tags": [
-        "brainpackai",
-        "infrastructure",
-        "vectordatabase",
-        "ai"
+        "webdev",
+        "ai",
+        "ceo",
+        "nextjs"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/codinginavan/profiling-a-cuda-python-program-with-gpuflight-466d",
-      "title": "Profiling a CUDA Python Program with GPUFlight",
-      "summary": "In the previous post, I used a C++ CUDA example to look at memory coalescing and how memory access patterns affect GPU performance.\n\nThis time, I wanted to look at a similar performance problem from Python.\n\nI usually write CUDA code in C++, but recently I have been spending more time with Python, e",
+      "url": "https://dev.to/antoine_laurentt/comment-simuler-une-api-pour-les-tests-guide-pratique-dm3",
+      "title": "Comment simuler une API pour les tests: Guide pratique",
+      "summary": "Les tests qui dépendent d'une API réelle échouent souvent pour de mauvaises raisons : serveur de staging indisponible, limite de débit atteinte, donnée modifiée par un collègue, latence réseau. La simulation d'API supprime cette fragilité : vous remplacez l'endpoint réel par un substitut contrôlé qu",
       "date_published": "2026-05-22",
       "tags": [
-        "performance",
-        "python",
-        "tooling",
+        "api",
+        "backend",
+        "testing",
         "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/aetherintel/hybrid-warfare-never-stopped-most-people-just-stopped-recognizing-it-1h4l",
-      "title": "Hybrid Warfare Never Stopped. Most People Just Stopped Recognizing It.",
-      "summary": "What a decade of observing hybrid warfare ecosystems reveals about where we are now.\nThere is a moment, when you have been watching something long enough, where the pattern stops feeling like analysis and starts feeling like memory.\n\nI have spent well over a decade monitoring the intersection of hyb",
+      "url": "https://dev.to/flowkithq/build-an-ai-customer-support-bot-with-n8n-handles-tickets-automatically-free-workflow-3b8i",
+      "title": "Build an AI customer support bot with n8n — handles tickets automatically (free workflow)",
+      "summary": "My inbox had 47 unanswered support tickets on a Monday morning. Most were the same 4 questions: pricing, setup help, refund requests, and \"how do I...?\" questions.\n\nI built an n8n workflow that handles 80% of them automatically. Here's the full JSON — free.\n\n\n  \n  \n  What it does\n\n\n\nWebhook receives",
       "date_published": "2026-05-22",
       "tags": [
-        "ai",
-        "cybersecurity",
-        "geopolitical",
-        "eu"
+        "n8nautomationaiproductivity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/vishal_veerareddy_9cdd17d/hermes-lynkr-the-self-improving-agent-meets-the-universal-llm-proxy-3n11",
-      "title": "Run Hermes Agent on Any Model — Free, Local, and Cost-Routed",
-      "summary": "If you've spent any time wrestling with AI coding tools and agents in 2026, you've hit two walls:\n\n\n\nProvider lock-in. Claude Code expects Anthropic. Codex expects OpenAI. Your shiny new agent framework wants whatever its README assumes.\n\nAgent amnesia. Every session starts from zero. Your \"AI assis",
+      "url": "https://dev.to/avash_karn_94b5261a69ce23/building-an-e2ee-chat-app-in-flask-part-1-why-encryption-matters-2lo4",
+      "title": "Building an E2EE Chat App in Flask - Part 1: Why Encryption Matters",
+      "summary": "Hey everyone! I'm building an encrypted chat application in Flask and documenting the journey. Here's Part 1.\nWhy E2EE Matters\nMost messaging apps claim to be secure, but they're not. Your messages sit on their servers where anyone with access can read them.\n\nEnd-to-End Encryption (E2EE) = only you ",
       "date_published": "2026-05-22",
       "tags": [
-        "ai",
-        "opensource",
-        "agents",
-        "llm"
+        "privacy",
+        "python",
+        "security",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/17j/-day-11-aws-vpc-3l4m",
-      "title": "Day 11 - AWS VPC",
-      "summary": "When you start learning AWS, services like EC2, S3, Lambda, and RDS feel exciting.\n\nBut behind almost every real AWS architecture, there is one silent foundation:\n\nAmazon VPC — Virtual Private Cloud\n\nIf EC2 is your server, RDS is your database, and ALB is your traffic manager, then VPC is the privat",
+      "url": "https://dev.to/antoine_laurentt/framework-de-tests-automatises-api-avec-pytest-tutoriel-pratique-2kfc",
+      "title": "Framework de Tests Automatisés API avec Pytest: Tutoriel Pratique",
+      "summary": "Les développeurs Python choisissent souvent pytest pour tester des API parce qu’il reste simple : un test est une fonction test_*, une assertion est un assert, et le runner s’occupe de l’exécution. Avec requests, vous obtenez une base légère et maintenable pour automatiser des tests d’API directemen",
       "date_published": "2026-05-22",
       "tags": [
-        "devops",
-        "tutorial",
-        "webdev",
-        "masterclassdevsecops"
+        "api",
+        "python",
+        "testing",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/shipra_shakya_5ebf9808e2a/interview-sheet-q2-1-two-sum-2oe8",
-      "title": "Interview Sheet Q2:- 121. Best Time to Buy and Sell Stock",
-      "summary": "Approach 1: Brute Force\n\n\n\nTry every possible buy day.\nFor each buy day, try every sell day after it.\nCalculate profit and keep maximum.\n\n\n\n\nclass Solution {\n    public int maxProfit(int[] prices) {\n        int maxProfit = 0;\n\n        for (int i = 0; i < prices.length; i++) {\n            for (int j ",
+      "url": "https://dev.to/athithya_sivasankarar/useeffect-hook-in-react-10g0",
+      "title": "useEffect Hook in React",
+      "summary": "React provides many Hooks that make functional components powerful and easy to manage. One of the most important Hooks is useEffect.\n\nThe useEffect Hook is used to perform side effects in React components.\n\nWhat is a Side Effect?\n\nA side effect is any action that happens outside the normal rendering",
       "date_published": "2026-05-22",
       "tags": [
-        "leetcode",
-        "interview",
-        "career",
-        "programming"
+        "beginners",
+        "javascript",
+        "react",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/awaisranahmad/reviving-truthguard-ai-from-zero-history-to-full-crud-with-github-copilot-42kl",
-      "title": "Reviving TruthGuard AI: From Zero History to Full CRUD with GitHub Copilot",
-      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge.\n\n\n\n\n\n  \n  \n  🛡️ What I Built\n\n\nTruthGuard AI is an enterprise-grade fake news detection and fact-checking tool that combines real-time web search with advanced LLM analysis. Users can paste any claim, news excerpt, or social media post,",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
       "date_published": "2026-05-22",
       "tags": [
-        "devchallenge",
-        "githubchallenge"
+        "BBC News"
       ],
-      "_source": "Dev.to"
+      "_source": "BBC News"
     },
     {
       "id": "030",
-      "url": "https://dev.to/naveen_gaur/google-antigravity-20-broke-my-ide-fixing-the-missing-file-explorer-and-workspace-bug-3phk",
-      "title": "Google Antigravity 2.0 Broke My IDE: Fixing the Missing File Explorer and Workspace Bug",
-      "summary": "If you recently updated Google Antigravity to version 2.0.1 or higher and suddenly lost:\n\n\nyour file explorer,\nworkspace sidebar,\ncode editor layout,\nor previous chat history,\n\n\nyou’re not alone.\n\nAfter updating, both:\n\n\nAntigravity\nand Antigravity IDE\n\n\n\nstarted opening the exact same agent-focused",
-      "date_published": "2026-05-22",
+      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+      "title": "The memory shortage is causing a repricing of consumer electronics",
+      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 161\n# Comments: 164",
+      "date_published": "2026-05-21",
       "tags": [
-        "antigravity",
-        "google",
-        "ai",
-        "agents"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     }
   ]
 }
