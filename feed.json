@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://arxiv.org/abs/2605.19269",
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 63\n# Comments: 7",
+      "url": "https://abuseofnotation.github.io/boolean-thinking/",
+      "title": "The case against boolean logic",
+      "summary": "Article URL: https://abuseofnotation.github.io/boolean-thinking/\nComments URL: https://news.ycombinator.com/item?id=48234128\nPoints: 26\n# Comments: 12",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://slumber.lucaspickering.me",
-      "title": "Slumber a TUI HTTP Client",
-      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 75\n# Comments: 28",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "summary": "Article URL: https://modelrift.com/blog/openscad-llm-benchmark/\nComments URL: https://news.ycombinator.com/item?id=48234090\nPoints: 50\n# Comments: 18",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
-      "title": "Cleve Moler has died",
-      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 103\n# Comments: 9",
+      "url": "https://fsfe.org/news/2026/news-20260519-01.en.html",
+      "title": "FSFE intervenes against Apple before EUCJ for the second time",
+      "summary": "Article URL: https://fsfe.org/news/2026/news-20260519-01.en.html\nComments URL: https://news.ycombinator.com/item?id=48233939\nPoints: 26\n# Comments: 1",
       "date_published": "2026-05-22",
       "tags": [
         "Hacker News"
@@ -40,6 +40,50 @@
     },
     {
       "id": "004",
+      "url": "https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5",
+      "title": "Steve Wozniak cheered after telling students they have AI – actual intelligence",
+      "summary": "Article URL: https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5\nComments URL: https://news.ycombinator.com/item?id=48233563\nPoints: 128\n# Comments: 73",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://arxiv.org/abs/2605.19269",
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "summary": "Article URL: https://arxiv.org/abs/2605.19269\nComments URL: https://news.ycombinator.com/item?id=48232118\nPoints: 79\n# Comments: 8",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://slumber.lucaspickering.me",
+      "title": "Slumber a TUI HTTP Client",
+      "summary": "Article URL: https://slumber.lucaspickering.me\nComments URL: https://news.ycombinator.com/item?id=48231938\nPoints: 100\n# Comments: 34",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://www.mathworks.com/company/aboutus/founders/clevemoler.html",
+      "title": "Cleve Moler has died",
+      "summary": "Article URL: https://www.mathworks.com/company/aboutus/founders/clevemoler.html\nComments URL: https://news.ycombinator.com/item?id=48231319\nPoints: 135\n# Comments: 14",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
       "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
       "title": "Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
       "summary": "HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages",
@@ -55,7 +99,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "009",
       "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
       "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
       "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
@@ -70,7 +114,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "006",
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
       "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
       "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
@@ -83,7 +127,54 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "007",
+      "id": "011",
+      "url": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
+      "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
+      "summary": "All eyes on South Texas for the latest Starship test flight.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Space",
+        "rocket report",
+        "space"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "012",
+      "url": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
+      "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
+      "summary": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Features",
+        "Policy",
+        "copyright",
+        "DIRECTV",
+        "OJ Simpson",
+        "piracy",
+        "satellite TV"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "013",
+      "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
+      "title": "A hacker group is poisoning open source code at an unprecedented scale",
+      "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Biz & IT",
+        "Security",
+        "GitHub",
+        "malware",
+        "open source",
+        "syndication",
+        "teampcp"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "014",
       "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
       "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
       "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
@@ -103,7 +194,36 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "008",
+      "id": "015",
+      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+      "title": "Samsung’s memory chip employees negotiated $340,000 bonuses this year",
+      "summary": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses of $340,000. The proposed 18-day strike had hinged on Samsung's bonus cap for employees in the semic",
+      "date_published": "2026-05-22",
+      "tags": [
+        "AI",
+        "Business",
+        "Labor",
+        "News",
+        "Samsung",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "016",
+      "url": "https://www.theverge.com/news/935982/microsoft-yusuf-mehdi-leaving",
+      "title": "Microsoft’s consumer marketing chief to leave next year",
+      "summary": "Yusuf Mehdi, executive vice president and consumer chief marketing officer at Microsoft, is leaving the company after 35 years. Mehdi announced his departure in an internal memo on Thursday, noting that he will leave Microsoft next year. He will remain focused on marketing for Windows, Copilot for c",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Microsoft",
+        "News",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "017",
       "url": "https://www.theverge.com/news/935967/microsoft-copilot-floating-button-office-excel-apps-removal",
       "title": "Microsoft is letting Office users remove an annoying Copilot button",
       "summary": "Microsoft is rolling out Office app updates next week that allow users to disable a floating Copilot button. The button appeared in Word, Excel, and PowerPoint in recent weeks, and floats above the bottom right-hand section of spreadsheets or documents. It has angered many Excel users in particular,",
@@ -116,7 +236,111 @@
       "_source": "The Verge"
     },
     {
-      "id": "009",
+      "id": "018",
+      "url": "https://www.wired.com/review/samsung-movingstyle-32-m7/",
+      "title": "Samsung Movingstyle M7 Review: A Screen on Wheels",
+      "summary": "Made for those who hate having a TV in the home, Samsung’s Movingstyle monitor-on-wheels brings the entertainment when you need it and hides away in a closet when you don’t.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products",
+        "Gear / Products / Computers",
+        "Monitors",
+        "Shopping",
+        "Samsung",
+        "review",
+        "Reviews",
+        "Product Review"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "019",
+      "url": "https://www.wired.com/gallery/the-best-vacuum-cleaner/",
+      "title": "Best Vacuum Cleaner (2026): Cordless Vacuums, Robot Vacuums, Dysons",
+      "summary": "Looking for all our top recommended vacuums? Here are our favorites in every style we’ve tested, from stick vacs to robot vacuums.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Shopping",
+        "household",
+        "buying guides",
+        "Vacuums",
+        "vacuums",
+        "robot vacuum",
+        "Clean Machine"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "020",
+      "url": "https://www.wired.com/story/the-best-fans-2026/",
+      "title": "The 13 Best Fans to Buy Before It Gets Hot Again (2026)",
+      "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Gear / Products / Smart Home",
+        "buying guides",
+        "Shopping",
+        "household",
+        "lifestyle",
+        "Smart Home",
+        "cooling",
+        "Heating",
+        "air improvement",
+        "air quality",
+        "home office",
+        "Blown Away"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "021",
+      "url": "https://www.wired.com/story/story/all-measuring-devices-run-on-two-stone-age-techniques/",
+      "title": "All the Fancy Measuring Devices Used in Science Rely on Two Stone-Age Techniques",
+      "summary": "The multifarious methods we use to gather experimental data ultimately boil down to counting or comparing.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Science",
+        "Science / Physics and Math",
+        "Dot Physics",
+        "physics",
+        "science",
+        "experiments",
+        "measurements"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "022",
+      "url": "https://www.wired.com/review/valve-steam-controller-2026/",
+      "title": "Valve Steam Controller Review (2026): Wait for the Steam Machine",
+      "summary": "Without the context of Valve’s Steam Machine (which is still MIA), this controller can’t fully dazzle players yet.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "Gear / Products / Gaming",
+        "Gear / Reviews",
+        "Shopping",
+        "Valve",
+        "Steam",
+        "controllers",
+        "Gaming",
+        "video games",
+        "Accessories and Peripherals",
+        "PC Games",
+        "Product Review"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "023",
       "url": "https://www.wired.com/review/review-razer-viper-v4-pro/",
       "title": "Razer Viper V4 Pro Review: Iterative Update Packs Big Performance",
       "summary": "Small, iterative improvements bring serious performance gains to Razer’s Viper V4 Pro.",
@@ -135,7 +359,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "024",
       "url": "https://www.wired.com/story/trdo-is-a-great-free-radio-app-for-windows/",
       "title": "Finally, a Great Free Radio App for Windows",
       "summary": "Tune into live broadcasts from your Windows desktop with Trdo, a free and open-source application.",
@@ -153,7 +377,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "025",
       "url": "https://www.wired.com/story/the-gulfs-ai-boom-has-an-undersea-cable-problem/",
       "title": "The Gulf’s AI Boom Has an Undersea Cable Problem",
       "summary": "Hyperscalers are pushing the Gulf to rethink internet infrastructure as AI raises the stakes of cable disruptions.",
@@ -171,35 +395,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
-      "url": "https://www.wired.com/story/chewy-promo-code/",
-      "title": "Chewy Promo Codes: $20 Off May 2026",
-      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "013",
-      "url": "https://www.wired.com/story/peacock-promo-code/",
-      "title": "Peacock Promo Codes: 40% Off May 2026",
-      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "014",
+      "id": "026",
       "url": "https://www.wired.com/story/nike-promo-code/",
       "title": "Nike Promo Codes and Discounts: 30% for May 2026",
       "summary": "Check out our deals for Nike this month, including 15% off select purchases.",
@@ -213,7 +409,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "027",
       "url": "https://www.wired.com/story/google-workspace-promo-code/",
       "title": "Google Workspace Promo Codes: 14% Off for May",
       "summary": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
@@ -228,7 +424,35 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "028",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "title": "Chewy Promo Codes: $20 Off May 2026",
+      "summary": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more May 2026 discounts.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "029",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "title": "Peacock Promo Codes: 40% Off May 2026",
+      "summary": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "030",
       "url": "https://www.wired.com/story/samsung-promo-codes/",
       "title": "30% Off Samsung Promo Code | May 2026",
       "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
@@ -241,204 +465,6 @@
         "Coupons"
       ],
       "_source": "Wired"
-    },
-    {
-      "id": "017",
-      "url": "https://www.wired.com/story/att-promo-code/",
-      "title": "AT&T Promo Codes: $50 Off This May 2026",
-      "summary": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "018",
-      "url": "https://www.wired.com/story/dyson-cordless-vacuum-promo-code/",
-      "title": "Dyson Promo Codes: 25% Off in May 2026",
-      "summary": "Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "019",
-      "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
-      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
-      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Business",
-        "Business / Artificial Intelligence",
-        "Model Behavior",
-        "artificial intelligence",
-        "OpenAI",
-        "Sam Altman",
-        "government",
-        "communications"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "020",
-      "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
-      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "summary": "This Sunday, a group of 42 athletes will gather in Las Vegas to compete in a somewhat unusual sporting competition. Participants in the inaugural Enhanced Games are being encouraged to take performance-enhancing drugs. The goal is to “push the boundaries of human performance.” The games’ organizers ",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Biotechnology and health",
-        "App",
-        "Summary",
-        "The Checkup"
-      ],
-      "_source": "MIT Tech Review"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/michelfaure/three-weeks-after-i-said-claudemd-writes-itself-it-added-4-more-rules-without-me-5c",
-      "title": "Three weeks after I said CLAUDE.md writes itself, it added 4 more rules without me",
-      "summary": "A thesis, three weeks later\n\n\nOn April 28th, I published an article on DEV.to that made four claims about a CLAUDE.md file — the one that constrains the coding agent at each session — and ended with this sentence: \"the CLAUDE.md is never finished, and that's precisely why it works\" (4 incidents, 4 r",
-      "date_published": "2026-05-22",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "022",
-      "url": "https://dev.to/mininglamp/why-on-device-ai-is-quietly-winning-over-cloud-inference-three-reasons-you-didnt-see-coming-3h07",
-      "title": "Why On-Device AI Is Quietly Winning Over Cloud Inference — Three Reasons You Didn't See Coming",
-      "summary": "I noticed something odd a few months ago. Several engineers I respect — people building serious AI pipelines, not hobbyists — quietly shifted from API-based inference back toward running models locally. Not because of some principled stance. Not because they read a blog post. Because they hit real p",
-      "date_published": "2026-05-22",
-      "tags": [
-        "ai",
-        "agents",
-        "machinelearning",
-        "privacy"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/michelfaure/trois-semaines-apres-avoir-dit-que-mon-claudemd-secrivait-tout-seul-il-a-ajoute-4-regles-sans-moi-29j9",
-      "title": "Trois semaines après avoir dit que mon CLAUDE.md s'écrivait tout seul, il a ajouté 4 règles sans moi",
-      "summary": "Une thèse, trois semaines plus tard\n\n\nLe 28 avril, j'ai publié sur DEV.to un article qui affirmait quatre choses à propos d'un fichier CLAUDE.md — celui qui contraint l'agent de codage à chaque session — et qui finissait par cette phrase : « le CLAUDE.md n'est jamais fini, et c'est précisément pour ",
-      "date_published": "2026-05-22",
-      "tags": [
-        "claudecode",
-        "ai",
-        "productivity",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/enrique_gordoncillo_0e27b/building-a-p2p-wikipedia-for-machines-verifiable-rag-with-the-holepunch-stack-1kge",
-      "title": "Building a P2P 'Wikipedia for Machines': Verifiable RAG with the Holepunch Stack",
-      "summary": "Current LLMs hallucinate when they lack context. While Retrieval-Augmented Generation (RAG) helps, existing pipelines force a tough compromise: you either trust centralized search APIs, scrape the live web (which is slow, fragile, and bloated with SEO spam), or maintain heavy, complex crawling infra",
-      "date_published": "2026-05-22",
-      "tags": [
-        "opensource",
-        "ai",
-        "node",
-        "p2p"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/nkmakau/one-command-one-working-kubernetes-cluster-building-my-daily-driver-lab-on-orbstack-34k5",
-      "title": "One Command, One Working Kubernetes Cluster! Building My Daily-Driver Lab on OrbStack.",
-      "summary": "Part 2 of 7 — The Mac Kubernetes Lab: A Production-Mirror Setup from Scratch.\n\n\nPreviously in Part 1: I walked through why I replaced Multipass with OrbStack, the dual-cluster architecture I settled on, and a preview of the M1 vs M4 CNI problem that’s coming in Part 4.\n\n\n\n\n\nThe cluster I am going to",
-      "date_published": "2026-05-22",
-      "tags": [
-        "platformengineering",
-        "kubernetes",
-        "devops",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/piiiico/npm-supply-chain-audit-the-checklist-most-teams-stop-too-early-1h4",
-      "title": "npm Supply Chain Audit: The Checklist Most Teams Stop Too Early",
-      "summary": "Originally posted on getcommit.dev.\n\nIn October 2021, ua-parser-js was used by Facebook, Microsoft, Amazon, and Google. It had 7 million weekly downloads. It had no reported CVEs. It had clean code and an active maintainer. Every security tool in the npm ecosystem reported: nothing wrong here.\n\nThen",
-      "date_published": "2026-05-22",
-      "tags": [
-        "npm",
-        "security",
-        "javascript",
-        "supplychain"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/flowkithq/get-a-daily-business-report-in-your-inbox-every-morning-automate-it-with-n8n-free-workflow-json-e4",
-      "title": "Get a daily business report in your inbox every morning — automate it with n8n (free workflow JSON)",
-      "summary": "Every founder has some version of a morning ritual: open 4 different tabs, check Stripe, check analytics, check the spreadsheet, try to mentally add up whether yesterday was a good day.\n\nThat's 15 minutes every morning. 250+ times a year. 60+ hours you'll never get back.\n\nHere's a 5-node n8n workflo",
-      "date_published": "2026-05-22",
-      "tags": [
-        "n8n",
-        "automation",
-        "productivity",
-        "javascript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/flancer64/try-to-hack-my-ai-agent-workflow-github-issues-as-a-control-surface-4jcf",
-      "title": "Try to Hack My AI-Agent Workflow: GitHub Issues as a Control Surface",
-      "summary": "I built a small public experiment.\n\nYou can open a GitHub Issue and ask an AI-agent workflow to create a static page on my website:\n\n\nIf your request fits the rules, the workflow may turn it into a published page.\nIf your request does not fit the rules, the agents should reject it and explain why.\n\n",
-      "date_published": "2026-05-22",
-      "tags": [
-        "agents",
-        "ai",
-        "github",
-        "security"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/phonemyatt/-i-built-a-type-safe-sql-library-for-bun-no-orm-no-codegen-just-sql-1k43",
-      "title": "# I built a type-safe SQL library for Bun — no ORM, no codegen, just SQL (using Claude Code)",
-      "summary": "I've been using Bun for a while and kept running into the same problem: every SQL library either requires Node.js internals, leans heavily on an ORM abstraction I don't want, or generates types from a schema file at build time.\n\nSo I built squn — a lightweight, type-safe SQL query library that works",
-      "date_published": "2026-05-22",
-      "tags": [
-        "typescript",
-        "javascript",
-        "sql",
-        "bunjs"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "030",
-      "url": "https://dev.to/aman_singh_414811a9e4168b/dynamodb-contributor-insights-pricing-what-youre-actually-paying-for-17no",
-      "title": "DynamoDB Contributor Insights Pricing: What You're Actually Paying For",
-      "summary": "/$0.50 per rule per month. $0.03 per million events. Enabling Contributor Insights on a single DynamoDB table auto-creates four rules so your floor is $2.00/month before a single event is counted.\n\nAt 500 million events/month, that's $17.00/month. At 5 billion, it's $152.00/month.\n\nWhether that's ju",
-      "date_published": "2026-05-22",
-      "tags": [
-        "ai",
-        "dynamodb",
-        "cloudcomputing",
-        "finops"
-      ],
-      "_source": "Dev.to"
     }
   ]
 }
