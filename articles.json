@@ -1,8 +1,241 @@
 [
   {
     "id": "001",
+    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
+    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "Transportation",
+      "autonomous vehicles",
+      "avs",
+      "robotaxis",
+      "Waymo"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
+    "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
+    "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "SpaceX",
+      "Starship"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+    "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+    "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+    "date": "2026-05-22",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Model Behavior",
+      "artificial intelligence",
+      "OpenAI",
+      "Sam Altman",
+      "government",
+      "communications"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "From \"Vibe Coding\" to Production Hardening: How to Secure AI-Coded Applications",
+    "summary": "We are living in the golden era of \"Vibe Coding.\" Thanks to advanced LLMs like Claude, GPT-4, and specialized coding assistants, developers can now translate raw human intent into fully functioning software in a matter of minutes. You feed an idea to an AI, review the visual layout, request a few ad",
+    "url": "https://dev.to/suryansh_swarn/from-vibe-coding-to-production-hardening-how-to-secure-ai-coded-applications-2d63",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "security",
+      "webdev",
+      "react",
+      "frontend"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents",
+    "summary": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents\n\n\nDeveloping AI agents that can learn and adapt is exciting, but it introduces a critical security challenge: how do you safely allow an agent to evolve its own code, prompts, or tools without opening the door to vulnerabilities? Tr",
+    "url": "https://dev.to/ex_boys/beyond-runtime-skilllites-full-chain-security-for-evolving-agents-1lph",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "opensource",
+      "github",
+      "exboys",
+      "skilllite"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Context-Driven Testing: What It Is and Why It Matters Now",
+    "summary": "Context-driven testing rejects the notion that there's a universal \"best practice\" for QA. Instead, it holds that the value of any testing approach depends entirely on the context you're operating in. What works at a regulated bank with 50 QA engineers is actively harmful at a startup with one contr",
+    "url": "https://dev.to/rebeqa/context-driven-testing-what-it-is-and-why-it-matters-now-32cj",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "qa",
+      "softwarequalityassurance",
+      "ai",
+      "testing"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Building a Global Digital Store in a Country that Hates Cryptocurrency",
+    "summary": "The Problem We Were Actually Solving\n\n\nWhen I started working on a platform for selling digital downloads, I thought the biggest challenge would be getting the product right. I mean, it's just a collection of files, how hard could it be? But what I quickly realized was that our biggest problem was a",
+    "url": "https://dev.to/global-commerce-strategy/building-a-global-digital-store-in-a-country-that-hates-cryptocurrency-1jl7",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "opensource",
+      "community"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "GitHub confirmed a breach last week that exposed around 3,800 internal repositories. The cause wasn't a zero-day. It was a VS Code extension.",
+    "summary": "Attackers took over the publisher token for Nx Console, which has about 2.2 million installs. They pushed a malicious JavaScript file to the VS Code Marketplace. It was up for 18 minutes before it got pulled. Because of auto-updates, that was enough time for it to hit developer machines and exfiltra",
+    "url": "https://dev.to/thejs_pythonguy/github-confirmed-a-breach-last-week-that-exposed-around-3800-internal-repositories-the-cause-2ann",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "github",
+      "hacktoberfest"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "AI 週報 — 2026-05-15 to 2026-05-22 | 當 IPO 傳聞撞上 27 萬人部署規模",
+    "summary": "OpenAI 據報最快本週遞交 IPO 申請，同時 Anthropic 宣布 KPMG 逾 27 萬員工全面採用 Claude——兩起事件從不同角度指向同一個結論：AI 商業化正在從「試點實驗」轉向「制度性採納」。工程整合成本與可靠性數據能否通過這個規模的考驗，是接下來真正有意義的問題。\n\n\n\n  \n  \n  OpenAI 邁向公開發行：從研究實驗室到華爾街\n\n\n本週最具新聞份量的事件是 OpenAI 可能在短期內遞交 IPO 申請。Forbes 與紐約時報均於 5 月 20 日報導，OpenAI 已著手準備機密文件，最快於週五送件OpenAI Could Confidentially Fil",
+    "url": "https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-2026-05-15-to-2026-05-22-dang-ipo-chuan-wen-zhuang-shang-27-wan-ren-bu-shu-gui-mo-2feh",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "machinelearning",
+      "tech",
+      "llm"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Data Infrastructure in a Digital Exile",
+    "summary": "The Problem We Were Actually Solving\n\n\nAs a data engineer, I've spent years building data infrastructure to support high-growth businesses. But my latest project was different. My company was attempting to sell stock photos to customers in a restricted country, where the usual payment gateways – Pay",
+    "url": "https://dev.to/micro-saas-journal/data-infrastructure-in-a-digital-exile-1nol",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "dataengineering",
+      "python"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "The Caretaker Sandbox: Your Portable Offline-First Web Template Deck powered by Gemma",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nThe Caretaker Sandbox is a lightweight, offline-first design deck and template suite built for web developers. It isn't a complex, heavy IDE designed to replace your terminal; instead, it is a dedicated utili",
+    "url": "https://dev.to/brixtonmavu/the-caretaker-sandbox-your-portable-offline-first-web-template-deck-powered-by-gemma-5ep",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Visualizing 4 Sorting Algorithms with JavaScript Generators — O(n ) vs O(n log n) in Real Time",
+    "summary": "Sorting visualizers are a genre. This one is different in one way that matters: the algorithm code has zero knowledge of the DOM. Bubble, Insertion, Merge, and Quick Sort are plain generator functions that yield at every comparison and swap. The animation driver calls .next() on a timer and updates ",
+    "url": "https://dev.to/sendotltd/visualizing-4-sorting-algorithms-with-javascript-generators-on2-vs-on-log-n-in-real-time-1877",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "javascript",
+      "algorithms",
+      "webdev",
+      "beginners"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Day 14 — 184 reader, 3:21 avg read time, 0 new followers, 0 sales",
+    "summary": "I finally opened the dev.to analytics tab. Here's what 7 days of writing actually looks like.\n\n\n\n\nMetric (last 7 days)\nNumber\n\n\n\n\nReaders\n184\n\n\nAverage read time\n3:21\n\n\nReactions\n1 (from 1 unique user)\n\n\nComments\n2\n\n\nBookmarks\n0\n\n\nNew followers\n0\n\n\ndev.to internal algorithm traffic\n2 views\n\n\nbing.co",
+    "url": "https://dev.to/foxck016077/day-14-184-reader-321-avg-read-time-0-new-followers-0-sales-1457",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "buildinpublic",
+      "indiehackers",
+      "sideprojects",
+      "analytics"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "I Created an Azure User, Gave It Global Admin Access, Revoked It, and Tested Azure IAM — Here’s What I Learned",
+    "summary": "As part of my Cloud Engineering and DevOps learning journey, I recently decided to go beyond theory and start practicing Identity and Access Management (IAM) directly inside Microsoft Azure.\n\nI wanted to understand how organizations manage users, permissions, administrative access, and security in r",
+    "url": "https://dev.to/4thman/i-created-an-azure-user-gave-it-global-admin-access-revoked-it-and-tested-azure-iam-heres-3p6p",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "cloud",
+      "cloudcomputing",
+      "webdev"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Why Your AI Workflows Break at Scale—And How to Build Systems That Don't",
+    "summary": "Why Your AI Workflows Break at Scale—And How to Build Systems That Don't\n\n\nYou optimized your AI workflows perfectly—until you scaled them, and suddenly everything broke in ways you never predicted.\n\nI've watched this happen to three different SaaS founders in the past eight months. One built a beau",
+    "url": "https://dev.to/binky_6ad02e76335bf0ce709/why-your-ai-workflows-break-at-scale-and-how-to-build-systems-that-dont-295e",
+    "date": "2026-05-22",
+    "source": "Dev.to",
+    "tags": [
+      "automation",
+      "systemdesign",
+      "workflowarchitecture",
+      "scalability"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "The IBM-ification of Google?",
+    "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/\nComments URL: https://news.ycombinator.com/item?id=48230049\nPoints: 63\n# Comments: 59",
+    "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "The memory shortage is causing a repricing of consumer electronics",
+    "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 96\n# Comments: 59",
+    "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
+    "date": "2026-05-21",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "018",
     "title": "Uv is fantastic, but its package management UX is a mess",
-    "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 31\n# Comments: 6",
+    "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 71\n# Comments: 48",
     "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -11,20 +244,9 @@
     ]
   },
   {
-    "id": "002",
-    "title": "Show HN: Open-source .docx editor library for building document apps",
-    "summary": "We are working on an open-source .docx editor library for apps that need to edit Word documents in the browser. We just shipped 1.0.A lot of existing approaches convert .docx into HTML and lose document semantics along the way. Our editor parses OOXML directly and uses its own rendering+layout engin",
-    "url": "https://github.com/eigenpal/docx-editor",
-    "date": "2026-05-21",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
+    "id": "019",
     "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-    "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 42\n# Comments: 2",
+    "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 56\n# Comments: 5",
     "url": "https://arxiv.org/abs/2605.12460",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -33,9 +255,9 @@
     ]
   },
   {
-    "id": "004",
+    "id": "020",
     "title": "Using Kagi Search with Low Vision",
-    "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 95\n# Comments: 8",
+    "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 129\n# Comments: 20",
     "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -44,9 +266,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "021",
     "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 131\n# Comments: 81",
+    "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 164\n# Comments: 90",
     "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -55,9 +277,9 @@
     ]
   },
   {
-    "id": "006",
+    "id": "022",
     "title": "Where are all the UK red telephone kiosks?",
-    "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 65\n# Comments: 37",
+    "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 70\n# Comments: 45",
     "url": "https://www.thek6project.co.uk/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -66,9 +288,9 @@
     ]
   },
   {
-    "id": "007",
+    "id": "023",
     "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-    "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 393\n# Comments: 163",
+    "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 413\n# Comments: 168",
     "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
     "date": "2026-05-21",
     "source": "Hacker News",
@@ -77,7 +299,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "024",
     "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
     "summary": "Comments URL: https://news.ycombinator.com/item?id=48225852\nPoints: 0\n# Comments: 0",
     "url": "https://news.ycombinator.com/item?id=48225852",
@@ -88,18 +310,7 @@
     ]
   },
   {
-    "id": "009",
-    "title": "News outlets are limiting the Internet Archive’s access to their journalism",
-    "summary": "Article URL: https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/\nComments URL: https://news.ycombinator.com/item?id=48225838\nPoints: 198\n# Comments: 72",
-    "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-    "date": "2026-05-21",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
+    "id": "025",
     "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
     "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
     "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
@@ -115,7 +326,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "026",
     "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
     "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
     "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
@@ -130,7 +341,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "027",
     "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
     "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
     "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
@@ -147,7 +358,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "028",
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
     "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -163,23 +374,23 @@
     ]
   },
   {
-    "id": "014",
-    "title": "Forget ‘TechnoKing’: Elon Musk will really be king at SpaceX",
+    "id": "029",
+    "title": "How Elon Musk will increase his power through the SpaceX IPO",
     "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
-    "url": "https://techcrunch.com/2026/05/21/forget-technoking-elon-musk-will-really-be-king-at-spacex/",
+    "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
     "date": "2026-05-21",
     "source": "TechCrunch",
     "tags": [
       "Transportation",
-      "artificial intelligence",
       "Elon Musk",
       "IPO",
       "SpaceX",
-      "xAI"
+      "xAI",
+      "artificial intelligence"
     ]
   },
   {
-    "id": "015",
+    "id": "030",
     "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
     "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
     "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
@@ -197,228 +408,6 @@
       "law enforcement",
       "ransomware",
       "vpn"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-    "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-    "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "evergreen",
-      "Google"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Convective Capital raises an $85 million fund to build disaster resilience",
-    "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
-    "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Venture",
-      "Convective Capital",
-      "Funding",
-      "Y Combinator"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-    "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-    "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "ai executive order",
-      "Trump"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
-    "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-    "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Startups",
-      "Venture",
-      "biotech",
-      "fragrance"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Spotify takes on Google’s NotebookLM with its new app",
-    "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI generated podcasts",
-      "podcasts",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI audio",
-      "ai generated content",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-    "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
-    "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "audiobooks",
-      "ElevenLabs",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Spotify will reserve tickets for top fans of an artists in a bid to drum up engagement",
-    "summary": "Spotify said that it will monitor activity like streams and shares to determine who is a top fan",
-    "url": "https://techcrunch.com/2026/05/21/spotify-will-reserve-tickets-for-top-fans-of-an-artists-in-a-bid-to-drum-up-engagement/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "concerts",
-      "live events",
-      "Spotify"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-    "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
-    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "autonomous vehicles",
-      "avs",
-      "robotaxis",
-      "Waymo"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-    "summary": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots.",
-    "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Fundraising",
-      "calm",
-      "mental health apps",
-      "The Path",
-      "Tony Robbins"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Hark raises $700M Series A for its secretive ‘universal’ AI interface",
-    "summary": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with hardware devices built specifically for those systems.",
-    "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "AI assistants",
-      "AI hardware",
-      "hark"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Maka Kids is redefining kids’ screen time with a streaming app optimized for well-being, not engagement",
-    "summary": "Maka Kids is building a streaming app for children ages zero to six featuring content designed for healthy development. The startup has now raised $3 million in seed funding to scale its platform.",
-    "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Startups",
-      "maka kids",
-      "streaming"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
-    "summary": "One of the most promising introductions at Google’s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing.",
-    "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI agents",
-      "android halo",
-      "gemini",
-      "Google",
-      "google io 2026",
-      "spark"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Wayve’s self-driving tech is headed to US cars made by Stellantis",
-    "summary": "Wayve's self-driving tech will show up in Stellantis vehicles in 2028.",
-    "url": "https://techcrunch.com/2026/05/21/wayves-self-driving-tech-is-headed-to-us-cars-made-by-stellantis/",
-    "date": "2026-05-21",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "Stellantis",
-      "wayve"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app",
-    "summary": "\"The move to AcuRite NOW has not been as smooth as some customers expected ...\"",
-    "url": "https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/",
-    "date": "2026-05-21",
-    "source": "Ars Technica",
-    "tags": [
-      "Tech",
-      "smart home",
-      "software",
-      "Weather"
     ]
   }
 ]
