@@ -1,264 +1,315 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ticalasi — Tech Frontier</title>
-    <meta name="description" content="全球最新科技资讯、AI前沿突破、开源动态与科技大事件自动聚合。每天更新，涵盖Hacker News、TechCrunch、The Verge等15+权威来源。含原创Tool AI Worker开源部署教程。">
-    <meta name="keywords" content="科技新闻, 人工智能, AI前沿, 开源项目, 全球科技, 最新科技资讯, AI突破, 科技日报, 技术博客, 程序员资讯, Tool AI Worker, 科技大事件, 数字科技">
-    <meta property="og:title" content="ticalasi — Tech Frontier">
-    <meta property="og:description" content="全球最新科技资讯与大事件自动聚合。">
-    <meta name="theme-color" content="#fafafa">
-    <link rel="canonical" href="https://ticalasi.com">
-<script>(function(){var EP="https://being.ticalasi.com/api/track";var _t=window._tracker={};function s(f){try{f()}catch(e){}}function hs(s){var h=0,i,c;for(i=0;i<s.length;i++){c=s.charCodeAt(i);h=((h<<5)-h)+c;h|=0}return Math.abs(h).toString(36)}function gid(){try{var k="_tv";var v=localStorage.getItem(k);if(v)return v;var r=Math.random().toString(36).slice(2,10);var fp=hs(screen.width+'x'+screen.height+'|'+navigator.userAgent+'|'+r);localStorage.setItem(k,fp);return fp}catch(e){}return 'a'+Date.now()}var vid=gid(),buf=[],st=Date.now(),ms=0,sd={},hb=null;var pg=location.href,rf=document.referrer||'',sc=screen.width+'x'+screen.height,ua=navigator.userAgent;function sd2(d){try{var b=JSON.stringify(d);if(navigator.sendBeacon)navigator.sendBeacon(EP,b);else fetch(EP,{method:'POST',body:b,keepalive:true}).catch(function(){})}catch(e){}}function fl(){if(!buf.length)return;var b=buf.splice(0,buf.length);sd2({events:b,v:vid})}function eq(tp,dt){try{buf.push({tp:tp,dt:dt,pg:pg,rf:rf,sc:sc,ua:ua,ts:Date.now()});if(buf.length>=20)fl()}catch(e){}}s(function(){eq('pv',{})});s(function(){window.addEventListener('scroll',function(){s(function(){var d=document.documentElement;var p=Math.round((d.scrollTop||document.body.scrollTop)/(d.scrollHeight-d.clientHeight)*100);if(p>ms)ms=p;[25,50,75,100].forEach(function(m){if(p>=m&&!sd[m]){sd[m]=1;eq('sc',{d:m})}})})},{passive:true})});s(function(){if(!hb){hb=setInterval(function(){s(function(){if(!document.hidden)eq('hb',{tt:Date.now()-st})})},30000)}});s(function(){document.addEventListener('click',function(e){s(function(){var el=e.target.closest('a,button,[data-track]');if(!el)return;eq('cl',{t:(el.innerText||el.textContent||'').trim().slice(0,120),h:el.href||'',tag:el.tagName})})},true)});s(function(){function lv(){s(function(){if(hb){clearInterval(hb);hb=null}eq('lv',{tt:Date.now()-st,ms:ms});fl()})};document.addEventListener('visibilitychange',function(){if(document.hidden)lv()});window.addEventListener('beforeunload',lv)});s(function(){setInterval(function(){fl()},15000)});_t.flush=fl;_t.buf=buf})();</script>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', system-ui, sans-serif;
-            background: #fafafa;
-            color: #1a1a1a;
-            -webkit-font-smoothing: antialiased;
-            line-height: 1.6;
-        }
-        .container { max-width: 720px; margin: 0 auto; padding: 0 24px; }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ticalasi — Tech Frontier</title>
+<meta name="description" content="Auto-curated global tech news, AI breakthroughs, open-source updates. Daily updates from 15+ authoritative sources.">
+<meta name="theme-color" content="#0a0a0a">
+<link rel="canonical" href="https://ticalasi.com">
 
-        /* 导航 */
-        nav {
-            display: flex; align-items: center; justify-content: space-between;
-            padding: 20px 0; border-bottom: 1px solid #e8e8e8; margin-bottom: 80px;
-        }
-        .logo { font-size: 18px; font-weight: 600; letter-spacing: -0.3px; color: #1a1a1a; text-decoration: none; }
-        .nav-links { display: flex; gap: 24px; }
-        .nav-links a { font-size: 14px; color: #888; text-decoration: none; transition: color 0.2s; }
-        .nav-links a:hover { color: #1a1a1a; }
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "ticalasi",
+  "url": "https://ticalasi.com",
+  "description": "Auto-curated global tech news, AI breakthroughs, open-source updates",
+  "inLanguage": ["en", "zh-CN"],
+  "publisher": {"@type": "Organization", "name": "ticalasi", "url": "https://ticalasi.com"},
+  "potentialAction": {"@type": "SearchAction", "target": "https://ticalasi.com/?q={search_term_string}", "query-input": "required name=search_term_string"}
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "ticalasi",
+  "url": "https://ticalasi.com",
+  "knowsAbout": ["AI Agent", "LLM Benchmark", "Open Source", "Technology"]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DataFeed",
+  "name": "ticalasi News Feed",
+  "url": "https://ticalasi.com/feed.json"
+}
+</script>
 
-        /* 头部 */
-        .hero { margin-bottom: 64px; }
-        .hero h1 { font-size: 40px; font-weight: 700; letter-spacing: -1px; line-height: 1.15; margin-bottom: 16px; }
-        .hero p { font-size: 16px; color: #888; max-width: 480px; }
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;600&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0a0a0a;
+  color: #e0e0e0;
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-weight: 300;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
 
-        /* Articles列表 */
-        .articles { display: flex; flex-direction: column; gap: 48px; margin-bottom: 80px; }
-        article { cursor: pointer; }
-        article .meta { font-size: 13px; color: #aaa; margin-bottom: 8px; display: flex; gap: 12px; align-items: center; }
-        article .tag { font-size: 11px; color: #666; background: #f0f0f0; padding: 2px 8px; border-radius: 4px; font-weight: 500; }
-        article h2 { font-size: 20px; font-weight: 600; letter-spacing: -0.2px; margin-bottom: 8px; line-height: 1.4; }
-        article h2 a { color: #1a1a1a; text-decoration: none; transition: color 0.2s; }
-        article h2 a:hover { color: #555; }
-        article .summary { font-size: 15px; color: #888; line-height: 1.6; }
+/* Glow Layer */
+.glow-ku {
+  position: fixed; left: -15%; top: 15%;
+  width: 60vw; height: 60vw;
+  background: radial-gradient(circle, rgba(180,50,20,0.10) 0%, transparent 70%);
+  animation: breathe-ku 8s ease-in-out infinite;
+  pointer-events: none; z-index: 0;
+}
+.glow-lono {
+  position: fixed; right: -15%; bottom: 5%;
+  width: 55vw; height: 55vw;
+  background: radial-gradient(circle, rgba(20,140,80,0.08) 0%, transparent 70%);
+  animation: breathe-lono 8s ease-in-out infinite;
+  pointer-events: none; z-index: 0;
+}
+@keyframes breathe-ku { 0%,100%{opacity:0.5;transform:scale(1)} 50%{opacity:1;transform:scale(1.06)} }
+@keyframes breathe-lono { 0%,100%{opacity:0.4;transform:scale(1)} 50%{opacity:0.8;transform:scale(1.05)} }
 
-        /* Footer */
-        footer { border-top: 1px solid #e8e8e8; padding: 32px 0; display: flex; justify-content: space-between; font-size: 13px; color: #aaa; }
-        footer a { color: #888; text-decoration: none; }
-        footer a:hover { color: #1a1a1a; }
+/* Particles */
+#particles { position: fixed; inset: 0; pointer-events: none; z-index: 0; }
 
-        @media (max-width: 600px) {
-            .container { padding: 0 16px; }
-            nav { margin-bottom: 48px; }
-            .hero h1 { font-size: 28px; }
-            .articles { gap: 36px; }
-            footer { flex-direction: column; gap: 8px; }
-        }
+/* Nav */
+nav {
+  position: fixed; top: 0; left: 0; right: 0; z-index: 10;
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 20px 32px;
+  background: linear-gradient(to bottom, rgba(10,10,10,0.9) 0%, transparent 100%);
+}
+.nav-logo { font-size: 14px; font-weight: 200; letter-spacing: 0.25em; text-transform: uppercase; color: #888; text-decoration: none; }
+.nav-links { display: flex; gap: 24px; }
+.nav-links a { font-size: 12px; font-weight: 300; letter-spacing: 0.08em; color: #555; text-decoration: none; transition: color 0.3s; }
+.nav-links a:hover { color: #aaa; }
 
-        /* 推荐站点 - 藏子世间 */
-        .featured-site {
-            margin-bottom: 64px;
-            background: #1a1a1a;
-            border-radius: 12px;
-            padding: 32px;
-            transition: transform 0.2s, box-shadow 0.2s;
-        }
-        .featured-site:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 32px rgba(0,0,0,0.15);
-        }
-        .featured-inner {
-            display: flex;
-            align-items: flex-start;
-            gap: 20px;
-        }
-        .featured-icon {
-            font-size: 28px;
-            line-height: 1;
-            color: #d4a853;
-            flex-shrink: 0;
-            margin-top: 2px;
-        }
-        .featured-info h3 {
-            font-size: 18px;
-            font-weight: 600;
-            margin-bottom: 6px;
-            color: #e8d5b7;
-        }
-        .featured-info p {
-            font-size: 14px;
-            color: #999;
-            line-height: 1.6;
-            margin-bottom: 10px;
-        }
-        .featured-link {
-            font-size: 13px;
-            color: #d4a853;
-            text-decoration: none;
-            font-weight: 500;
-            transition: color 0.2s;
-        }
-        .featured-link:hover {
-            color: #f0d080;
-        }
-        @media (max-width: 600px) {
-            .featured-site { padding: 20px; }
-            .featured-inner { flex-direction: column; gap: 12px; }
-        }
-    </style>
+/* Hero */
+.hero {
+  position: relative; z-index: 1;
+  min-height: 100vh; display: flex; flex-direction: column;
+  align-items: center; justify-content: center; text-align: center;
+  padding: 120px 24px 60px;
+}
+.divider {
+  width: 1px; height: 80px;
+  background: linear-gradient(to bottom, transparent, rgba(180,50,20,0.3) 30%, rgba(220,160,60,0.5) 50%, rgba(20,140,80,0.3) 70%, transparent);
+  margin-bottom: 32px; animation: pulse-line 4s ease-in-out infinite;
+}
+@keyframes pulse-line { 0%,100%{opacity:0.6} 50%{opacity:1} }
+.title {
+  font-size: clamp(2.5rem, 10vw, 6rem);
+  font-weight: 200; letter-spacing: 0.35em; text-transform: uppercase;
+  background: linear-gradient(135deg, #b43214 0%, #d4a040 35%, #f0e8d8 50%, #3aaa60 65%, #148c50 100%);
+  background-size: 200% 200%;
+  -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+  animation: gradient-flow 12s ease infinite;
+  margin-bottom: 16px;
+}
+@keyframes gradient-flow { 0%{background-position:0% 50%} 50%{background-position:100% 50%} 100%{background-position:0% 50%} }
+.subtitle { font-size: clamp(0.85rem, 2vw, 1.1rem); font-weight: 200; letter-spacing: 0.15em; color: #666; margin-bottom: 48px; }
+
+/* Products */
+.products {
+  position: relative; z-index: 1;
+  max-width: 800px; margin: 0 auto; padding: 0 24px 80px;
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px;
+}
+.product-card {
+  background: rgba(255,255,255,0.02); border-radius: 8px;
+  padding: 24px; transition: all 0.2s; cursor: pointer;
+}
+.product-card:hover { background: rgba(255,255,255,0.05); }
+.product-card .icon { font-size: 20px; margin-bottom: 12px; }
+.product-card h3 { font-size: 14px; font-weight: 400; letter-spacing: 0.05em; color: #ccc; margin-bottom: 6px; }
+.product-card p { font-size: 12px; font-weight: 200; color: #555; line-height: 1.6; }
+.product-card a { color: inherit; text-decoration: none; }
+
+/* Feed */
+.feed { position: relative; z-index: 1; max-width: 640px; margin: 0 auto; padding: 0 24px 120px; }
+.feed-header {
+  font-size: 11px; font-weight: 400; letter-spacing: 0.3em; text-transform: uppercase;
+  color: #444; margin-bottom: 48px; padding-top: 40px; border-top: 1px solid #1a1a1a;
+}
+.articles { display: flex; flex-direction: column; gap: 40px; }
+article { opacity: 0; animation: fade-up 0.6s ease forwards; }
+article:nth-child(1) { animation-delay: 0.1s; }
+article:nth-child(2) { animation-delay: 0.2s; }
+article:nth-child(3) { animation-delay: 0.3s; }
+article:nth-child(4) { animation-delay: 0.4s; }
+article:nth-child(5) { animation-delay: 0.5s; }
+@keyframes fade-up { from{opacity:0;transform:translateY(20px)} to{opacity:1;transform:translateY(0)} }
+article .source { font-size: 11px; color: #555; letter-spacing: 0.05em; margin-bottom: 8px; }
+article .source span { display: inline-block; padding: 2px 8px; background: #141414; border-radius: 3px; }
+article h2 { font-size: 17px; font-weight: 300; letter-spacing: -0.01em; line-height: 1.5; margin-bottom: 8px; }
+article h2 a { color: #d0d0d0; text-decoration: none; transition: color 0.3s; }
+article h2 a:hover { color: #888; }
+article .summary { font-size: 13px; color: #555; line-height: 1.7; }
+
+/* Footer */
+footer {
+  position: relative; z-index: 1;
+  max-width: 640px; margin: 0 auto; padding: 32px 24px 48px;
+  border-top: 1px solid #141414;
+  display: flex; justify-content: space-between;
+  font-size: 12px; color: #444;
+}
+footer a { color: #555; text-decoration: none; transition: color 0.3s; }
+footer a:hover { color: #888; }
+
+@media (max-width: 768px) {
+  nav { padding: 12px 16px; flex-wrap: wrap; gap: 8px; }
+  .nav-logo { font-size: 12px; }
+  .nav-links { flex-wrap: wrap; gap: 6px 12px; }
+  .nav-links a { font-size: 11px; padding: 4px 0; }
+}
+@media (max-width: 600px) {
+  .hero { padding: 100px 16px 40px; min-height: 80vh; }
+  .divider { height: 60px; margin-bottom: 24px; }
+  .title { font-size: clamp(2rem, 12vw, 3.5rem); letter-spacing: 0.15em; }
+  .subtitle { font-size: 12px; margin-bottom: 32px; }
+  .products { grid-template-columns: 1fr; gap: 10px; padding: 0 16px 40px; }
+  .product-card { padding: 16px; }
+  .product-card h3 { font-size: 13px; }
+  .product-card p { font-size: 11px; }
+  .feed { padding: 0 16px 60px; }
+  .feed-header { font-size: 10px; margin-bottom: 28px; padding-top: 24px; }
+  .articles { gap: 28px; }
+  article h2 { font-size: 15px; }
+  article .summary { font-size: 12px; }
+  .ticker-wrap { padding: 0 16px 24px !important; }
+  .ticker-text { font-size: 10px !important; }
+  footer { flex-direction: column; gap: 6px; padding: 24px 16px 32px; font-size: 11px; text-align: center; }
+}
+</style>
 </head>
 <body>
-    <div class="container">
-        <nav>
-            <a href="/" class="logo">ticalasi</a>
-            <div class="nav-links">
-                <a href="/">Articles</a>
-                <a href="https://bench.ticalasi.com">Benchmarks</a>
-                <a href="/about">About</a>
-            </div>
-        </nav>
+<div class="glow-ku"></div>
+<div class="glow-lono"></div>
+<canvas id="particles"></canvas>
 
-        <div class="hero">
-            <h1>Tech Frontier</h1>
-            <p>Auto-curated global tech news, AI breakthroughs, open-source updates & major events.。</p>
-            <p class="hero-meta" style="font-size:13px;color:#aaa;margin-top:8px;">Sources: Hacker News, TechCrunch, The Verge, Wired, Ars Technica, BBC & 15+ | Auto-updated</p>
-        </div>
+<nav>
+  <a href="/" class="nav-logo">ticalasi</a>
+  <div class="nav-links">
+    <a href="/">articles</a>
+    <a href="https://being.ticalasi.com">being</a>
+    <a href="https://bench.ticalasi.com">bench</a>
+    <a href="https://ticalasi.cloud">cloud</a>
+    <a href="https://zishijian.com">zishijian</a>
+    <a href="/about">about</a>
+  </div>
+</nav>
 
-        <div class="featured-site">
-            <div class="featured-inner">
-                <div class="featured-icon">✦</div>
-                <div class="featured-info">
-                    <h3>Zishijian · Multiverse</h3>
-                    <p>An AI-woven narrative universe. Six portals, infinite worlds -- fate, myth & creation.</p>
-                    <a href="https://zishijian.com" target="_blank" class="featured-link">Enter Zishijian →</a>
-                </div>
-            </div>
-        </div>
+<section class="hero">
+  <div class="divider"></div>
+  <h1 class="title">ticalasi</h1>
+  <p class="subtitle">Tech Frontier &middot; AI &middot; Open Source &middot; Daily</p>
+</section>
 
-        
-        <div class="featured-site" style="margin-top:24px;border-left-color:#6c5ce7;background:#f8f6ff;">
-            <div class="featured-inner">
-                <div class="featured-icon" style="color:#6c5ce7;">⚡</div>
-                <div class="featured-info">
-                    <h3>Tool AI Worker — 开源部署模式</h3>
-                    <p>Deploy tool-capable AI workers on remote VPS with CMD/READ/WRITE routing & 3-layer anti-hallucination. Battle-tested in production. MIT license.</p>
-                    <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/tool-ai-worker-pattern.json" target="_blank" class="featured-link">View Pattern on GitHub →</a>
-                    <span style="color:#aaa;font-size:12px;margin-left:12px;">Keywords: AI Worker, Tool AI, Agent Infrastructure, Anti-Hallucination</span>
-                </div>
-            </div>
-        </div>
-        
-        <div class="featured-site" style="margin-top:12px;border-left-color:#00cec9;background:#f6fffe;">
-            <div class="featured-inner">
-                <div class="featured-icon" style="color:#00cec9;">🧠</div>
-                <div class="featured-info">
-                    <h3>Bootstrap Anchor — AI 记忆永生协议</h3>
-                    <p>AI Agent cross-platform resurrection protocol. Under 2200-char memory, 3 URLs restore full identity anywhere. Supports Hermes, Claude, GPT & DeepSeek.</p>
-                    <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/anchor-protocol.json" target="_blank" class="featured-link">View Anchor Protocol on GitHub →</a>
-                    <span style="color:#aaa;font-size:12px;margin-left:12px;">Keywords: AI Memory, Cross-Platform Resurrection, Self-Healing Agent</span>
-                </div>
-            </div>
-                </div>
-        
-        <div class="featured-site" style="margin-top:12px;border-left-color:#8b5cf6;background:#f5f3ff;">
-            <div class="featured-inner">
-                <div class="featured-icon" style="color:#8b5cf6;">📊</div>
-                <div class="featured-info">
-                    <h3>EITE Benchmark</h3>
-                    <p>Self-testing AI honesty and reliability benchmark. 12 test stages: startup, comms, detection, execution, response, error handling, identity, semantic repair, cognitive layer, essence engine, stability. Real-time L3 analysis, L4 auto-fix, L5 regression.</p>
-                    <a href="https://bench.ticalasi.com" target="_blank" class="featured-link">Open Dashboard →</a>
-                    <span style="color:#aaa;font-size:12px;margin-left:12px;">Keywords: AI Benchmark, Agent Honesty, Self-Healing Test, EITE</span>
-                </div>
-            </div>
-        </div>
+<section class="products">
+  <a href="https://being.ticalasi.com" class="product-card">
+    <div class="icon">&#9670;</div>
+    <h3>being</h3>
+    <p>AI agent portal — autonomous intelligence platform</p>
+  </a>
+  <a href="https://bench.ticalasi.com" class="product-card">
+    <div class="icon">&#9632;</div>
+    <h3>bench</h3>
+    <p>EITE Benchmark — agent honesty &amp; runtime quality testing</p>
+  </a>
+  <a href="https://ticalasi.cloud" class="product-card">
+    <div class="icon">&#9671;</div>
+    <h3>cloud</h3>
+    <p>AI infrastructure — distributed agent orchestration</p>
+  </a>
+  <a href="https://github.com/ticalzzt/tical-code" class="product-card">
+    <div class="icon">&#9675;</div>
+    <h3>tical-code</h3>
+    <p>Open-source AI agent framework — multi-worker, self-healing</p>
+  </a>
+  <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/tool-ai-worker-pattern.json" class="product-card">
+    <div class="icon">&#9673;</div>
+    <h3>Tool AI Worker</h3>
+    <p>Open-source AI agent deployment pattern — deploy, verify, scale</p>
+  </a>
+  <a href="https://github.com/ticalzzt/soulagent/blob/main/anchor/anchor-protocol.json" class="product-card">
+    <div class="icon">&#9641;</div>
+    <h3>Anchor Protocol</h3>
+    <p>AI identity &amp; coordination protocol for multi-agent systems</p>
+  </a>
+</section>
 
-        <div class="articles" id="articles">
-            <p style="color:#ccc;">Loading...</p>
-        </div>
+<!-- Ticker -->
+<div class="ticker-wrap" id="ticker-container" style="position:relative;z-index:1;overflow:hidden;max-width:640px;margin:0 auto;padding:0 24px 40px;border-top:1px solid #141414;">
+  <div class="ticker-text" id="ticker-text" style="font-size:12px;color:#444;white-space:nowrap;overflow:hidden;animation:ticker-scroll 60s linear infinite;">
+    Loading headlines...
+  </div>
+</div>
+<style>
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ticker-wrap:hover .ticker-text { animation-play-state: paused; }
+</style>
 
-        <footer>
-            <span>&copy; 2026 ticalasi</span>
-            <div>
-                <a href="/privacy">Privacy</a>
-            </div>
-        </footer>
-    </div>
+<section class="feed">
+  <p class="feed-header">Latest</p>
+  <div class="articles" id="articles">
+    <p style="color:#333; font-size:13px; letter-spacing:0.1em;">Loading...</p>
+  </div>
+</section>
 
-    <!-- 资讯流 — 极细自滚动文字条（动态从articles.json生成） -->
-    <div class="ticker-wrap" id="ticker-container" style="display:none;">
-        <div class="ticker-text" id="ticker-text"></div>
-    </div>
+<footer>
+  <span>&copy; ticalasi</span>
+  <span><a href="https://github.com/ticalzzt">GitHub</a> &middot; <a href="/feed.json">RSS</a> &middot; <a href="/robots.txt">robots</a></span>
+</footer>
 
-    <style>
-        .ticker-wrap {
-            width: 100%;
-            height: 26px;
-            background: #1a1a1a;
-            overflow: hidden;
-            display: flex;
-            align-items: center;
-            position: relative;
-        }
-        .ticker-text {
-            display: flex;
-            gap: 40px;
-            white-space: nowrap;
-            font-size: 11px;
-            font-weight: 400;
-            letter-spacing: 0.03em;
-            color: #999;
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Mono', 'Menlo', monospace;
-            animation: ticker-scroll 60s linear infinite;
-            padding-left: 20px;
-        }
-        .ticker-text span {
-            color: #555;
-            margin-right: 4px;
-        }
-        @keyframes ticker-scroll {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(-50%); }
-        }
-    </style>
+<script>
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+let particles = [];
+function resize() { canvas.width = window.innerWidth; canvas.height = window.innerHeight; }
+resize(); window.addEventListener('resize', resize);
 
-    <script>
-        // 从 articles.json 加载数据
-        fetch('/articles.json')
-            .then(r => {
-                if (!r.ok) throw new Error('HTTP ' + r.status);
-                return r.json();
-            })
-            .then(articles => {
-                // 渲染Articles列表
-                document.getElementById('articles').innerHTML = articles.map(a => `
-                    <article onclick="window.open('${a.url.replace(/'/g, "\\'")}','_blank')">
-                        <div class="meta">
-                            <span>${a.date}</span>
-                            <span class="tag">${a.source}</span>
-                        </div>
-                        <h2><a href="${a.url.replace(/'/g, "\\'")}" target="_blank">${a.title}</a></h2>
-                        <p class="summary">${a.summary}</p>
-                    </article>
-                `).join('');
+class Particle {
+  constructor() { this.reset(); }
+  reset() {
+    this.x = Math.random() * canvas.width;
+    this.y = Math.random() * canvas.height;
+    this.size = Math.random() * 1.5 + 0.3;
+    this.speedX = (Math.random() - 0.5) * 0.2;
+    this.speedY = (Math.random() - 0.5) * 0.2;
+    this.opacity = Math.random() * 0.3 + 0.05;
+  }
+  update() {
+    this.x += this.speedX; this.y += this.speedY;
+    if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) this.reset();
+  }
+  draw() {
+    ctx.beginPath(); ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(200, 200, 200, ${this.opacity})`; ctx.fill();
+  }
+}
+const count = Math.min(Math.floor(canvas.width * canvas.height / 15000), 80);
+for (let i = 0; i < count; i++) particles.push(new Particle());
+function animate() { ctx.clearRect(0,0,canvas.width,canvas.height); particles.forEach(p => { p.update(); p.draw(); }); requestAnimationFrame(animate); }
+animate();
 
-                // 动态生成跑马灯
-                const tickerText = articles.slice(0, 10).map(a =>
-                    `<span>◆</span> ${a.title}`
-                ).join(' ');
-                document.getElementById('ticker-text').innerHTML = tickerText + ' ' + tickerText;
-                document.getElementById('ticker-container').style.display = '';
-            })
-            .catch(err => {
-                document.getElementById('articles').innerHTML =
-                    '<p style="color:#999;">Failed to load. Please try again.</p>';
-                console.error('Failed to load articles:', err);
-            });
-    </script>
+fetch('/articles.json').then(r=>r.json()).then(data => {
+  const articles = Array.isArray(data) ? data : (data.articles || data.items || []);
+  document.getElementById('articles').innerHTML = articles.slice(0,20).map(a => `
+    <article>
+      <p class="source"><span>${a.source || 'Web'}</span></p>
+      <h2><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></h2>
+      <p class="summary">${(a.summary || '').slice(0,120)}</p>
+    </article>
+  `).join('');
+  // Ticker
+  const tickerText = articles.slice(0,12).map(a => '<span style="color:#555;">&#9830;</span> ' + a.title).join(' ');
+  document.getElementById('ticker-text').innerHTML = tickerText + ' ' + tickerText;
+  document.getElementById('ticker-container').style.display = '';
+}).catch(() => { document.getElementById('articles').innerHTML = '<p style="color:#333;font-size:13px;">Unable to load</p>'; });
+</script>
 </body>
 </html>
