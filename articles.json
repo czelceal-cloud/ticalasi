@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Microsoft Drops Claude Code After Budget Overrun",
-    "summary": "Article URL: https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun\nComments URL: https://news.ycombinator.com/item?id=48238896\nPoints: 40\n# Comments: 14",
-    "url": "https://aiweekly.co/alerts/microsoft-drops-claude-code-after-budget-overrun",
+    "title": "Project Glasswing: An Initial Update",
+    "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 22\n# Comments: 13",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "summary": "Article URL: https://www.1940airterminal.org/news/liquidation-of-simulators\nComments URL: https://news.ycombinator.com/item?id=48238568\nPoints: 8\n# Comments: 2",
-    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+    "title": "USCIS Will Grant 'Adjustment of Status' Only in Extraordinary Circumstances",
+    "summary": "Article URL: https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary\nComments URL: https://news.ycombinator.com/item?id=48240323\nPoints: 25\n# Comments: 10",
+    "url": "https://www.uscis.gov/newsroom/news-releases/us-citizenship-and-immigration-services-will-grant-adjustment-of-status-only-in-extraordinary",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "You can no longer Google the word 'disregard'",
-    "summary": "Article URL: https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/\nComments URL: https://news.ycombinator.com/item?id=48238351\nPoints: 99\n# Comments: 50",
-    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "title": "Anthropic's \"Profitability\" Swindle",
+    "summary": "Article URL: https://www.wheresyoured.at/anthropics-profitability-swindle/\nComments URL: https://news.ycombinator.com/item?id=48240198\nPoints: 18\n# Comments: 0",
+    "url": "https://www.wheresyoured.at/anthropics-profitability-swindle/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-    "summary": "Article URL: https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators\nComments URL: https://news.ycombinator.com/item?id=48238025\nPoints: 91\n# Comments: 38",
-    "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+    "title": "Bun's unreleased Rust port has 13,365 unsafe blocks",
+    "summary": "Article URL: https://bun.com/bun-unsafe-audit\nComments URL: https://news.ycombinator.com/item?id=48239790\nPoints: 32\n# Comments: 9",
+    "url": "https://bun.com/bun-unsafe-audit",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Trump Mobile exposed customers' personal data",
-    "summary": "Article URL: https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/\nComments URL: https://news.ycombinator.com/item?id=48237684\nPoints: 126\n# Comments: 42",
-    "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+    "summary": "Article URL: https://arxiv.org/abs/2605.22001\nComments URL: https://news.ycombinator.com/item?id=48239786\nPoints: 5\n# Comments: 0",
+    "url": "https://arxiv.org/abs/2605.22001",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "summary": "> (3) The deepseek-v4-pro model API pricing will be officially adjusted to 1/4 of the original price after the 75% discount promotion ends on 2026/05/31 15:59 UTC.https://x.com/deepseek_ai/status/2057854261699195173\n\nComments URL: https://news.ycombinator.com/item?id=48237663\nPoints: 44\n# Comments: ",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 54\n# Comments: 29",
+    "url": "https://www.kanbots.dev/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "How to convert between wealth and income tax",
-    "summary": "Article URL: https://paulgraham.com/winc.html\nComments URL: https://news.ycombinator.com/item?id=48237422\nPoints: 45\n# Comments: 140",
-    "url": "https://paulgraham.com/winc.html",
+    "title": "A scoping review of bicycling interventions’ impacts on well-being",
+    "summary": "Article URL: https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full\nComments URL: https://news.ycombinator.com/item?id=48239347\nPoints: 36\n# Comments: 17",
+    "url": "https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2026.1807791/full",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Why Japanese companies do so many different things",
-    "summary": "Article URL: https://davidoks.blog/p/why-japanese-companies-do-so-many\nComments URL: https://news.ycombinator.com/item?id=48237163\nPoints: 224\n# Comments: 91",
-    "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+    "title": "Thinking in an array language (2022)",
+    "summary": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md\nComments URL: https://news.ycombinator.com/item?id=48239023\nPoints: 7\n# Comments: 1",
+    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "A Forth-inspired language for writing websites",
-    "summary": "Article URL: https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites\nComments URL: https://news.ycombinator.com/item?id=48236887\nPoints: 53\n# Comments: 6",
-    "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+    "title": "Microsoft starts canceling Claude Code licenses",
+    "summary": "https://archive.ph/WfCta\n\nComments URL: https://news.ycombinator.com/item?id=48238896\nPoints: 93\n# Comments: 52",
+    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-    "summary": "Hey HN, we’re Avi, Kiet, and Satya. We’re building Superset (https://github.com/superset-sh/superset), an open-source agentic IDE for running coding agents like Claude Code, Codex, OpenCode etc in parallel.Demo: https://www.youtube.com/watch?v=YWDHn7gUwfgTry it: https://superset.sh/We’re three engin",
-    "url": "https://github.com/superset-sh/superset",
+    "title": "TorQ: Kdb+ Production Framework",
+    "summary": "Article URL: https://github.com/DataIntellectTech/TorQ\nComments URL: https://news.ycombinator.com/item?id=48238887\nPoints: 10\n# Comments: 1",
+    "url": "https://github.com/DataIntellectTech/TorQ",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -122,6 +122,7 @@
       "FBI",
       "hackers",
       "hacking",
+      "In Brief",
       "infostealer",
       "Kash Patel",
       "malware"
@@ -158,6 +159,21 @@
   },
   {
     "id": "014",
+    "title": "You can no longer Google the word ‘disregard’",
+    "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "AI summaries",
+      "Google",
+      "Google Search",
+      "In Brief"
+    ]
+  },
+  {
+    "id": "015",
     "title": "We tried Google’s AI glasses and they’re almost there",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
     "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -176,7 +192,46 @@
     ]
   },
   {
-    "id": "015",
+    "id": "016",
+    "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
+    "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
+    "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "cybersecurity",
+      "data exposure",
+      "Data leak",
+      "Donald Trump",
+      "Exclusive",
+      "In Brief",
+      "privacy",
+      "Trump Mobile"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "SpaceX files to go public, and the math requires a little faith",
+    "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that w",
+    "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "AI SearchEquity Podcast",
+      "Anthropic",
+      "Elon Musk",
+      "Equity Video",
+      "Nano Claw",
+      "OpenAI",
+      "spacex ipo",
+      "Stainless"
+    ]
+  },
+  {
+    "id": "018",
     "title": "Meta quietly launches a new Reddit-like app called Forum",
     "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
     "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
@@ -193,7 +248,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "019",
     "title": "Smart ring maker Oura files to go public",
     "summary": "The Finnish company said in September that it has sold 5.5 million smart rings to date.",
     "url": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
@@ -209,7 +264,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "020",
     "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
     "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
     "url": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
@@ -224,7 +279,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "021",
     "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
     "summary": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
     "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
@@ -240,7 +295,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "022",
     "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
     "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
     "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -255,7 +310,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "023",
     "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
     "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
     "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
@@ -268,7 +323,97 @@
     ]
   },
   {
-    "id": "021",
+    "id": "024",
+    "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
+    "summary": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
+    "tags": [
+      "Policy",
+      "Security",
+      "First VPN",
+      "ransomware",
+      "VPN"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Review: The Mandalorian and Grogu is ... fine",
+    "summary": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
+    "url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
+    "tags": [
+      "Culture",
+      "entertainment",
+      "film reviews",
+      "LucasFilms",
+      "reviews",
+      "Star Wars",
+      "The Mandalorian and Grogu"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
+    "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
+    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
+    "tags": [
+      "Biz & IT",
+      "Policy",
+      "Security",
+      "cryptography",
+      "encryption",
+      "meta",
+      "whatsapp"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "Before it comes down, what should be saved from the International Space Station?",
+    "summary": "What went up cannot all come down (for museum display).",
+    "url": "https://arstechnica.com/space/2026/05/before-it-comes-down-what-should-be-saved-from-the-international-space-station/",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
+    "tags": [
+      "Space",
+      "AIAA",
+      "American Institute of Aeroanutics and Aeronautics",
+      "ascend",
+      "deorbit",
+      "heritage",
+      "international space station",
+      "iss",
+      "legacy",
+      "National Air and Space Museum",
+      "preservation",
+      "save",
+      "Smithsonian",
+      "space artifacts",
+      "Space exploration",
+      "space history"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Marketer that claimed it could tap devices for ad targeting will pay $880K settlement",
+    "summary": "Two additional marketing companies will also pay $25,000 each.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/marketer-that-claimed-it-could-tap-devices-for-ad-targeting-will-pay-880k-settlement/",
+    "date": "2026-05-22",
+    "source": "Ars Technica",
+    "tags": [
+      "Policy",
+      "Tech",
+      "ads",
+      "FTC",
+      "voice assistant"
+    ]
+  },
+  {
+    "id": "029",
     "title": "Soaring solar and a surge in hydro push more coal off the US grid",
     "summary": "The first data from 2026 seem to indicate that last year was an oddity.",
     "url": "https://arstechnica.com/science/2026/05/soaring-solar-and-a-surge-in-hydro-push-more-coal-off-the-us-grid/",
@@ -288,7 +433,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "030",
     "title": "Trump abruptly cancels EO signing event after top AI firm CEOs declined to go",
     "summary": "Trump delays AI safety testing EO, claiming it would be an innovation “blocker.”",
     "url": "https://arstechnica.com/tech-policy/2026/05/trump-canceled-ai-safety-testing-eo-after-snub-from-tech-ceos/",
@@ -304,141 +449,6 @@
       "cybersecurity",
       "Donald Trump",
       "national security"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "The Steam Controller’s “drop-in” charger almost started a fire for this owner",
-    "summary": "Keep the charging puck’s exposed pins far away from anything metal.",
-    "url": "https://arstechnica.com/gaming/2026/05/psa-the-steam-controllers-magnetic-charger-can-be-a-fire-hazard/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Gaming",
-      "charger",
-      "controller",
-      "fire",
-      "hardware",
-      "Hazard",
-      "metal",
-      "pins",
-      "Steam",
-      "Valve"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "NASA undertakes major reorganization to reduce bureaucracy and move faster",
-    "summary": "\"It is imperative to concentrate resources towards the highest priority objectives.\"",
-    "url": "https://arstechnica.com/space/2026/05/to-achieve-major-goals-nasa-seeks-to-streamline-its-organization/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "bureaucracy",
-      "NASA",
-      "reorganization",
-      "space"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
-    "summary": "Steven Rosenbaum explains how inaccurate quotes got into his book The Future of Truth.",
-    "url": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "AI",
-      "addiction",
-      "author",
-      "ChatGPT",
-      "Claude",
-      "intoxication",
-      "truth"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "First vaccines, now mammograms? RFK Jr.’s latest firings have doctors outraged.",
-    "summary": "Doctors are angry and alarmed that preventive care could go the way of vaccines.",
-    "url": "https://arstechnica.com/health/2026/05/doctors-outraged-after-rfk-jr-fires-leaders-of-key-preventive-medicine-panel/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Health",
-      "ama",
-      "preventive care",
-      "rfk jr",
-      "robert f kennedy jr",
-      "USPSTF"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Rocket Report: Starship launch delayed, German launch company may aid Canada",
-    "summary": "All eyes on South Texas for the latest Starship test flight.",
-    "url": "https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Space",
-      "rocket report",
-      "space"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy",
-    "summary": "In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Features",
-      "Policy",
-      "copyright",
-      "DIRECTV",
-      "OJ Simpson",
-      "piracy",
-      "satellite TV"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "A hacker group is poisoning open source code at an unprecedented scale",
-    "summary": "GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.",
-    "url": "https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Biz & IT",
-      "Security",
-      "GitHub",
-      "malware",
-      "open source",
-      "syndication",
-      "teampcp"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
-    "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
-    "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Science",
-      "Space",
-      "Commercial space",
-      "launch",
-      "spacex",
-      "Starbase",
-      "starship",
-      "starship flight 12",
-      "starship v3",
-      "texas"
     ]
   }
 ]
