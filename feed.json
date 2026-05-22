@@ -35,6 +35,26 @@
     },
     {
       "id": "003",
+      "url": "https://arstechnica.com/space/2026/05/ground-system-issue-scrubs-first-launch-of-spacexs-starship-v3-rocket/",
+      "title": "Ground system issue scrubs first launch of SpaceX's Starship V3 rocket",
+      "summary": "Engineers could make another attempt to launch Starship as soon as Friday evening.",
+      "date_published": "2026-05-22",
+      "tags": [
+        "Science",
+        "Space",
+        "Commercial space",
+        "launch",
+        "spacex",
+        "Starbase",
+        "starship",
+        "starship flight 12",
+        "starship v3",
+        "texas"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "004",
       "url": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
       "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
       "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
@@ -52,271 +72,183 @@
       "_source": "Wired"
     },
     {
-      "id": "004",
-      "url": "https://dev.to/suryansh_swarn/from-vibe-coding-to-production-hardening-how-to-secure-ai-coded-applications-2d63",
-      "title": "From \"Vibe Coding\" to Production Hardening: How to Secure AI-Coded Applications",
-      "summary": "We are living in the golden era of \"Vibe Coding.\" Thanks to advanced LLMs like Claude, GPT-4, and specialized coding assistants, developers can now translate raw human intent into fully functioning software in a matter of minutes. You feed an idea to an AI, review the visual layout, request a few ad",
-      "date_published": "2026-05-22",
-      "tags": [
-        "security",
-        "webdev",
-        "react",
-        "frontend"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "005",
-      "url": "https://dev.to/ex_boys/beyond-runtime-skilllites-full-chain-security-for-evolving-agents-1lph",
-      "title": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents",
-      "summary": "Beyond Runtime: SkillLite's Full-Chain Security for Evolving Agents\n\n\nDeveloping AI agents that can learn and adapt is exciting, but it introduces a critical security challenge: how do you safely allow an agent to evolve its own code, prompts, or tools without opening the door to vulnerabilities? Tr",
+      "url": "https://dev.to/bhavin-allinonetools/i-kept-sorting-text-manually-until-i-realized-i-was-wasting-time-4gp0",
+      "title": "I Kept Sorting Text Manually… Until I Realized I Was Wasting Time",
+      "summary": "The Problem Felt Too Small to Automate\n\n\nThis happened more often than I expected.\n\nI’d have:\n\n\nA list of keywords\nNames\nNotes\nTags\nRandom copied text\n\n\nAnd I’d start organizing them manually.\n\nMove this line.\nMove that line.\nCheck if it’s alphabetical.\n\nRepeat.\n\n\n  \n  \n  What Looked Like a 30-Secon",
       "date_published": "2026-05-22",
       "tags": [
-        "opensource",
-        "github",
-        "exboys",
-        "skilllite"
+        "webdev",
+        "buildinpublic",
+        "productivity",
+        "text"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "006",
-      "url": "https://dev.to/rebeqa/context-driven-testing-what-it-is-and-why-it-matters-now-32cj",
-      "title": "Context-Driven Testing: What It Is and Why It Matters Now",
-      "summary": "Context-driven testing rejects the notion that there's a universal \"best practice\" for QA. Instead, it holds that the value of any testing approach depends entirely on the context you're operating in. What works at a regulated bank with 50 QA engineers is actively harmful at a startup with one contr",
+      "url": "https://dev.to/devshefali/16-python-libraries-you-should-know-856",
+      "title": "16 Python Libraries You Should Know",
+      "summary": "Python libraries make development much easier because you don’t have to build everything from scratch.\n\nToday, the hard part isn't building everything from scratch anymore; it's knowing which Python libraries are actually worth learning.\n\nThere are libraries for almost everything: web scraping, APIs",
       "date_published": "2026-05-22",
       "tags": [
-        "qa",
-        "softwarequalityassurance",
-        "ai",
-        "testing"
+        "webdev",
+        "python",
+        "pythonlibraries",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://dev.to/global-commerce-strategy/building-a-global-digital-store-in-a-country-that-hates-cryptocurrency-1jl7",
-      "title": "Building a Global Digital Store in a Country that Hates Cryptocurrency",
-      "summary": "The Problem We Were Actually Solving\n\n\nWhen I started working on a platform for selling digital downloads, I thought the biggest challenge would be getting the product right. I mean, it's just a collection of files, how hard could it be? But what I quickly realized was that our biggest problem was a",
+      "url": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-lifecycle-hooks-to-react-788",
+      "title": "How does VuReact compile Vue 3's lifecycle hooks to React?",
+      "summary": "VuReact is a tool that compiles Vue 3 code into standard, maintainable React code. In this article, we will look at how common Vue 3 lifecycle hooks are mapped into React.\n\nIf you write Vue lifecycle hooks, what does VuReact generate on the React side?\n\n\n  \n  \n  Before We Start\n\n\nTo keep the example",
       "date_published": "2026-05-22",
       "tags": [
+        "vue",
+        "react",
         "webdev",
-        "programming",
-        "opensource",
-        "community"
+        "javascript"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/thejs_pythonguy/github-confirmed-a-breach-last-week-that-exposed-around-3800-internal-repositories-the-cause-2ann",
-      "title": "GitHub confirmed a breach last week that exposed around 3,800 internal repositories. The cause wasn't a zero-day. It was a VS Code extension.",
-      "summary": "Attackers took over the publisher token for Nx Console, which has about 2.2 million installs. They pushed a malicious JavaScript file to the VS Code Marketplace. It was up for 18 minutes before it got pulled. Because of auto-updates, that was enough time for it to hit developer machines and exfiltra",
+      "url": "https://dev.to/mike_anderson_d01f52129fb/securing-ai-agents-in-a-bank-from-daily-chatgpt-use-to-a-production-ready-secure-harness-1b99",
+      "title": "Securing AI Agents in a Bank: From Daily ChatGPT Use to a Production-Ready Secure Harness",
+      "summary": "AI agents are moving from personal productivity tools into operational workflows. That shift changes the security model.\n\nIf employees use ChatGPT, Claude, or Gemini to summarize notes, draft emails, explain code, or help write documentation, the primary security problem is AI usage governance.\n\nIf ",
       "date_published": "2026-05-22",
       "tags": [
-        "github",
-        "hacktoberfest"
+        "ai",
+        "cybersecurity",
+        "harness",
+        "datasecurity"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-2026-05-15-to-2026-05-22-dang-ipo-chuan-wen-zhuang-shang-27-wan-ren-bu-shu-gui-mo-2feh",
-      "title": "AI 週報 — 2026-05-15 to 2026-05-22 | 當 IPO 傳聞撞上 27 萬人部署規模",
-      "summary": "OpenAI 據報最快本週遞交 IPO 申請，同時 Anthropic 宣布 KPMG 逾 27 萬員工全面採用 Claude——兩起事件從不同角度指向同一個結論：AI 商業化正在從「試點實驗」轉向「制度性採納」。工程整合成本與可靠性數據能否通過這個規模的考驗，是接下來真正有意義的問題。\n\n\n\n  \n  \n  OpenAI 邁向公開發行：從研究實驗室到華爾街\n\n\n本週最具新聞份量的事件是 OpenAI 可能在短期內遞交 IPO 申請。Forbes 與紐約時報均於 5 月 20 日報導，OpenAI 已著手準備機密文件，最快於週五送件OpenAI Could Confidentially Fil",
+      "url": "https://dev.to/amadeobonde/that-quote-i-half-remember-at-2am-i-can-find-it-now-2blo",
+      "title": "That quote I half-remember at 2am? I can find it now.",
+      "summary": "gemma-brief: I built an AI that keeps up so I don't have to\n\n\nI'm a broke college student. Base MacBook Air. No API budget. Constantly behind.\n\nI follow too many YouTube channels. Research, tech, founders, stuff that actually matters. But I'm in class, I'm studying, I'm sleeping. By the time I get t",
       "date_published": "2026-05-22",
       "tags": [
-        "ai",
-        "machinelearning",
-        "tech",
-        "llm"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "automation"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/micro-saas-journal/data-infrastructure-in-a-digital-exile-1nol",
-      "title": "Data Infrastructure in a Digital Exile",
-      "summary": "The Problem We Were Actually Solving\n\n\nAs a data engineer, I've spent years building data infrastructure to support high-growth businesses. But my latest project was different. My company was attempting to sell stock photos to customers in a restricted country, where the usual payment gateways – Pay",
+      "url": "https://dev.to/giovanni_rufinogeo_77b/bugs-and-slop-whats-in-a-name-4bhc",
+      "title": "Bugs and Slop. What’s in a Name?",
+      "summary": "Before I broke into software engineering, I spent a decade in retail management. It was high-stress, fast-moving, and punishing. If a metric slipped, if an inventory count came up short, if one of your associates made a blunder, there was a room and spotlight waiting for you. They weren’t looking fo",
       "date_published": "2026-05-22",
       "tags": [
-        "webdev",
+        "ai",
         "programming",
-        "dataengineering",
-        "python"
+        "devdiscuss",
+        "coding"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/brixtonmavu/the-caretaker-sandbox-your-portable-offline-first-web-template-deck-powered-by-gemma-5ep",
-      "title": "The Caretaker Sandbox: Your Portable Offline-First Web Template Deck powered by Gemma",
-      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nThe Caretaker Sandbox is a lightweight, offline-first design deck and template suite built for web developers. It isn't a complex, heavy IDE designed to replace your terminal; instead, it is a dedicated utili",
+      "url": "https://dev.to/brentf_io/building-a-practical-home-lab-starter-kit-for-network-engineers-5f43",
+      "title": "Building a Practical Home Lab Starter Kit for Network Engineers",
+      "summary": "A lot of network engineers learn their best lessons in home labs, especially the lessons that do not fit neatly into certification tracks or production change windows.\n\nThey are also where things can get messy quickly.\n\nOne folder has topology notes. Another has Ansible experiments. A diagram lives ",
       "date_published": "2026-05-22",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
+        "networkengineering",
+        "linux",
+        "ansible",
+        "gns3"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/sendotltd/visualizing-4-sorting-algorithms-with-javascript-generators-on2-vs-on-log-n-in-real-time-1877",
-      "title": "Visualizing 4 Sorting Algorithms with JavaScript Generators — O(n ) vs O(n log n) in Real Time",
-      "summary": "Sorting visualizers are a genre. This one is different in one way that matters: the algorithm code has zero knowledge of the DOM. Bubble, Insertion, Merge, and Quick Sort are plain generator functions that yield at every comparison and swap. The animation driver calls .next() on a timer and updates ",
+      "url": "https://dev.to/guslift/strengthening-ride-matching-notifications-and-schedule-management-27h7",
+      "title": "Strengthening Ride Matching, Notifications, and Schedule Management",
+      "summary": "For our last week, focused on improving session persistence and preparing GusLift for broader platform support. This week, we continued improving the core ride-sharing experience by working on notifications, routing, schedule management, ride matching, and user interface consistency.\n\n\n  \n  \n  Impro",
       "date_published": "2026-05-22",
       "tags": [
-        "javascript",
-        "algorithms",
-        "webdev",
-        "beginners"
+        "devjournal",
+        "mobile",
+        "reactnative",
+        "ui"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://dev.to/foxck016077/day-14-184-reader-321-avg-read-time-0-new-followers-0-sales-1457",
-      "title": "Day 14 — 184 reader, 3:21 avg read time, 0 new followers, 0 sales",
-      "summary": "I finally opened the dev.to analytics tab. Here's what 7 days of writing actually looks like.\n\n\n\n\nMetric (last 7 days)\nNumber\n\n\n\n\nReaders\n184\n\n\nAverage read time\n3:21\n\n\nReactions\n1 (from 1 unique user)\n\n\nComments\n2\n\n\nBookmarks\n0\n\n\nNew followers\n0\n\n\ndev.to internal algorithm traffic\n2 views\n\n\nbing.co",
+      "url": "https://dev.to/kao273183/i-open-sourced-24-qa-skills-for-claude-code-from-spec-to-release-2d57",
+      "title": "I open-sourced 24 QA skills for Claude Code — from spec to release",
+      "summary": "TL;DR — I just open-sourced QA Claude Skill — 24 production-grade QA skills for Claude Code covering test design, automation, performance, security, mutation testing, and more. MIT for non-commercial use. GitHub repo.\n\n\n\n  \n  \n  The problem\n\n\nFor two years I've been iterating a personal Claude Code ",
       "date_published": "2026-05-22",
       "tags": [
-        "buildinpublic",
-        "indiehackers",
-        "sideprojects",
-        "analytics"
+        "claudecode",
+        "qa",
+        "testing",
+        "opensource"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "014",
-      "url": "https://dev.to/4thman/i-created-an-azure-user-gave-it-global-admin-access-revoked-it-and-tested-azure-iam-heres-3p6p",
-      "title": "I Created an Azure User, Gave It Global Admin Access, Revoked It, and Tested Azure IAM — Here’s What I Learned",
-      "summary": "As part of my Cloud Engineering and DevOps learning journey, I recently decided to go beyond theory and start practicing Identity and Access Management (IAM) directly inside Microsoft Azure.\n\nI wanted to understand how organizations manage users, permissions, administrative access, and security in r",
+      "url": "https://dev.to/fukushimauav/fukushima-uav-complete-faq-29-questions-on-hardware-gcs-and-ai-fah",
+      "title": "FUKUSHIMA UAV Complete FAQ - 29 Questions on Hardware, GCS, and AI",
+      "summary": "FUKUSHIMA UAV: The Complete FAQ\n\n\nA reference guide to the FUKUSHIMA UAV product family — flight controllers, browser-based GCS, AI detection capabilities, pricing, custom development, and procurement — in one place. Last updated May 2026.\n\n\n\n\nThis document collects the questions we are asked most o",
       "date_published": "2026-05-22",
       "tags": [
-        "ai",
-        "cloud",
-        "cloudcomputing",
-        "webdev"
+        "drones",
+        "ardupilot",
+        "hardware",
+        "embedded"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/binky_6ad02e76335bf0ce709/why-your-ai-workflows-break-at-scale-and-how-to-build-systems-that-dont-295e",
-      "title": "Why Your AI Workflows Break at Scale—And How to Build Systems That Don't",
-      "summary": "Why Your AI Workflows Break at Scale—And How to Build Systems That Don't\n\n\nYou optimized your AI workflows perfectly—until you scaled them, and suddenly everything broke in ways you never predicted.\n\nI've watched this happen to three different SaaS founders in the past eight months. One built a beau",
+      "url": "https://dev.to/yoursunny/new-avatar-59e6",
+      "title": "New Avatar",
+      "summary": "This post is originally published on yoursunny.com blog https://yoursunny.com/t/2026/avatar/\n\n\n\n\nIn computing, an avatar is a graphical representation of a user, the user's character, or persona.\nAn avatar can be a two-dimensional picture, also known as a profile picture or userpic, or a three-dimen",
       "date_published": "2026-05-22",
       "tags": [
-        "automation",
-        "systemdesign",
-        "workflowarchitecture",
-        "scalability"
+        "art"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/",
-      "title": "The IBM-ification of Google?",
-      "summary": "Article URL: https://zeroshot.bearblog.dev/google-is-shattering-under-its-own-weight-the-ibm-ification-of-google/\nComments URL: https://news.ycombinator.com/item?id=48230049\nPoints: 63\n# Comments: 59",
-      "date_published": "2026-05-21",
+      "url": "https://dev.to/fukushimauav/ai-enabled-uav-ground-control-stations-compared-2026-hc2",
+      "title": "AI-Enabled UAV Ground Control Stations Compared - 2026",
+      "summary": "AI-Enabled UAV Ground Control Stations Compared: FlightHub 2, Auterion AMC, FUKUSHIMA UAV, QGroundControl in 2026\n\n\nGround control stations diverged years ago. The old open-source GCS (Mission Planner, QGroundControl) handle flight, but not perception. The new enterprise platforms (DJI FlightHub 2, ",
+      "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "drones",
+        "ai",
+        "aviation",
+        "opensource"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone",
-      "title": "The memory shortage is causing a repricing of consumer electronics",
-      "summary": "Article URL: https://davidoks.blog/p/ai-is-killing-the-cheap-smartphone\nComments URL: https://news.ycombinator.com/item?id=48229319\nPoints: 96\n# Comments: 59",
-      "date_published": "2026-05-21",
+      "url": "https://www.bbc.com/news/articles/cy42w782ejvo?at_medium=RSS&at_campaign=rss",
+      "title": "Musk's SpaceX postpones Starship launch as mega share sale looms",
+      "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut.",
+      "date_published": "2026-05-22",
       "tags": [
-        "Hacker News"
+        "BBC News"
       ],
-      "_source": "Hacker News"
+      "_source": "BBC News"
     },
     {
       "id": "018",
-      "url": "https://www.loopwerk.io/articles/2026/uv-ux-mess/",
-      "title": "Uv is fantastic, but its package management UX is a mess",
-      "summary": "Article URL: https://www.loopwerk.io/articles/2026/uv-ux-mess/\nComments URL: https://news.ycombinator.com/item?id=48228788\nPoints: 71\n# Comments: 48",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "019",
-      "url": "https://arxiv.org/abs/2605.12460",
-      "title": "Multi-Stream LLMs: new paper on parallelizing/separating prompts, thinking, I/O",
-      "summary": "Article URL: https://arxiv.org/abs/2605.12460\nComments URL: https://news.ycombinator.com/item?id=48227923\nPoints: 56\n# Comments: 5",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "020",
-      "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-      "title": "Using Kagi Search with Low Vision",
-      "summary": "Article URL: https://veroniiiica.com/using-kagi-search-with-low-vision/\nComments URL: https://news.ycombinator.com/item?id=48227860\nPoints: 129\n# Comments: 20",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "summary": "Article URL: https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/\nComments URL: https://news.ycombinator.com/item?id=48227397\nPoints: 164\n# Comments: 90",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "022",
-      "url": "https://www.thek6project.co.uk/",
-      "title": "Where are all the UK red telephone kiosks?",
-      "summary": "Article URL: https://www.thek6project.co.uk/\nComments URL: https://news.ycombinator.com/item?id=48226703\nPoints: 70\n# Comments: 45",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "023",
-      "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-      "title": "Seattle Shield, an intelligence-sharing network operated by the Seattle police",
-      "summary": "Article URL: https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/\nComments URL: https://news.ycombinator.com/item?id=48226588\nPoints: 413\n# Comments: 168",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "024",
-      "url": "https://news.ycombinator.com/item?id=48225852",
-      "title": "ParadeDB (YC S23) Is Hiring Distributed Systems/Platform Engineers",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=48225852\nPoints: 0\n# Comments: 0",
-      "date_published": "2026-05-21",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "025",
       "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
       "title": "Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle",
       "summary": "Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.",
@@ -332,7 +264,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/",
       "title": "Waymo halts freeway rides after robotaxis struggle in construction zones",
       "summary": "The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.",
@@ -347,7 +279,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/",
       "title": "NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers",
       "summary": "New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.",
@@ -364,7 +296,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
@@ -380,7 +312,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "029",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/21/how-elon-musk-will-increase-his-power-through-the-spacex-ipo/",
       "title": "How Elon Musk will increase his power through the SpaceX IPO",
       "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX — control that goes far beyond what other tech founders enjoy.",
@@ -396,7 +328,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "030",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/21/law-enforcement-shuts-down-vpn-service-used-by-two-dozen-ransomware-gangs/",
       "title": "Law enforcement shuts down VPN service used by two dozen ransomware gangs",
       "summary": "First VPN promised hackers complete anonymity for their cyberattacks. But Europol said it was able to notify the service’s users that they have now been identified.",
@@ -413,6 +345,107 @@
         "law enforcement",
         "ransomware",
         "vpn"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "024",
+      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "evergreen",
+        "Google"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "025",
+      "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "summary": "After launching to invest in fire tech, Convective is broadening its mandate to disaster resilience.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Venture",
+        "Convective Capital",
+        "Funding",
+        "Y Combinator"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "026",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
+      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "ai executive order",
+        "Trump"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "027",
+      "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/",
+      "title": "This young startup is taking on a fragrance industry that hasn’t changed in almost half a century",
+      "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "Startups",
+        "Venture",
+        "biotech",
+        "fragrance"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "028",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "title": "Spotify takes on Google’s NotebookLM with its new app",
+      "summary": "Spotify is releasing the new desktop app as a research preview in more than 20 markets.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Apps",
+        "AI generated podcasts",
+        "podcasts",
+        "Spotify"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "029",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Apps",
+        "AI audio",
+        "ai generated content",
+        "Spotify"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "030",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "date_published": "2026-05-21",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "audiobooks",
+        "ElevenLabs",
+        "Spotify"
       ],
       "_source": "TechCrunch"
     }
