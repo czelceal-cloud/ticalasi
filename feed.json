@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-      "title": "I Miss Terry Pratchett",
-      "summary": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/\nComments URL: https://news.ycombinator.com/item?id=48247127\nPoints: 118\n# Comments: 57",
+      "url": "https://susam.net/lisp-in-vim.html",
+      "title": "Lisp in Vim (2019)",
+      "summary": "Article URL: https://susam.net/lisp-in-vim.html\nComments URL: https://news.ycombinator.com/item?id=48248238\nPoints: 6\n# Comments: 1",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
-      "title": "80386 Microcode Disassembled",
-      "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/\nComments URL: https://news.ycombinator.com/item?id=48247004\nPoints: 66\n# Comments: 13",
+      "url": "https://nand2mario.github.io/posts/2026/z386/",
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "summary": "Article URL: https://nand2mario.github.io/posts/2026/z386/\nComments URL: https://news.ycombinator.com/item?id=48248014\nPoints: 17\n# Comments: 2",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://twitter.com/i/status/2058064720553222567",
-      "title": "Electrobun 2.0 will be decoupled from Bun due to the rust rewrite",
-      "summary": "Article URL: https://twitter.com/i/status/2058064720553222567\nComments URL: https://news.ycombinator.com/item?id=48246917\nPoints: 30\n# Comments: 3",
+      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+      "title": "Oura says it gets government demands for user data. Will it share how many?",
+      "summary": "Article URL: https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/\nComments URL: https://news.ycombinator.com/item?id=48247876\nPoints: 47\n# Comments: 17",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://horace.io/brrr_intro.html",
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "summary": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 33\n# Comments: 14",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+      "summary": "Article URL: https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/\nComments URL: https://news.ycombinator.com/item?id=48247737\nPoints: 40\n# Comments: 15",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely",
-      "title": "DHS Quits Granting Green Cards–Almost",
-      "summary": "Article URL: https://www.cato.org/blog/dhs-quits-granting-green-cards-almost-entirely\nComments URL: https://news.ycombinator.com/item?id=48246735\nPoints: 63\n# Comments: 40",
+      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+      "title": "The Art of Money Getting",
+      "summary": "Article URL: https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\nComments URL: https://news.ycombinator.com/item?id=48247208\nPoints: 15\n# Comments: 1",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "summary": "Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/\nComments URL: https://news.ycombinator.com/item?id=48246614\nPoints: 112\n# Comments: 71",
+      "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+      "title": "I Miss Terry Pratchett",
+      "summary": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/\nComments URL: https://news.ycombinator.com/item?id=48247127\nPoints: 198\n# Comments: 167",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "summary": "Article URL: https://xcancel.com/josefprusa/status/2054602354851254330\nComments URL: https://news.ycombinator.com/item?id=48245862\nPoints: 196\n# Comments: 64",
+      "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+      "title": "80386 Microcode Disassembled",
+      "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/\nComments URL: https://news.ycombinator.com/item?id=48247004\nPoints: 117\n# Comments: 21",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son\nComments URL: https://news.ycombinator.com/item?id=48245571\nPoints: 161\n# Comments: 45",
+      "url": "https://horace.io/brrr_intro.html",
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "summary": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 69\n# Comments: 26",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://github.com/amatsuda/rubish",
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "summary": "Article URL: https://github.com/amatsuda/rubish\nComments URL: https://news.ycombinator.com/item?id=48245262\nPoints: 88\n# Comments: 50",
+      "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "summary": "Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/\nComments URL: https://news.ycombinator.com/item?id=48246614\nPoints: 153\n# Comments: 111",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -106,6 +106,61 @@
     },
     {
       "id": "010",
+      "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
+      "title": "These special phone and app features can help protect you from spyware",
+      "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Security",
+        "Android",
+        "Apple",
+        "Google",
+        "hackers",
+        "hacking",
+        "WhatsApp",
+        "Spyware",
+        "Meta",
+        "cybersecurity",
+        "NSO Group",
+        "Intellexa",
+        "Paragon Solutions"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Transportation",
+        "AI",
+        "IBM",
+        "Apps",
+        "formula one",
+        "Exclusive",
+        "f1"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
+      "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
+      "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Climate",
+        "IPO",
+        "nuclear power",
+        "Deep Fission",
+        "nuclear fission"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
@@ -124,7 +179,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
       "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
       "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
@@ -139,7 +194,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "015",
       "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
       "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
       "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
@@ -167,7 +222,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
       "title": "China’s shark finning could lead to US seafood sanctions",
       "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
@@ -185,7 +240,22 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "014",
+      "id": "017",
+      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+      "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+      "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They were used on countless rec",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Column",
+        "Entertainment",
+        "Interview",
+        "Music",
+        "Report"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "018",
       "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
       "title": "Here are 38 Memorial Day deals we recommend for $50 or less",
       "summary": "Massive OLED TVs and Sonos speakers might be stealing the Memorial Day spotlight, but there are also plenty of great deals that won’t set you back nearly as much. In fact, some of the best discounts we’re seeing are on gadgets that retail for $50 or less, from portable chargers and 4K streaming devi",
@@ -193,13 +263,12 @@
       "tags": [
         "Deals",
         "Gadgets",
-        "Tech",
         "Verge Shopping"
       ],
       "_source": "The Verge"
     },
     {
-      "id": "015",
+      "id": "019",
       "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
       "title": "Hanging out in my favorite virtual coffee shop in Tokyo",
       "summary": "Finding a cafe that fits you can be a revelatory experience. For me at least, there are few places outside of my house that I can truly feel comfortable in. I'm lucky enough to have two options in walking distance: a coffee shop that's bright, airy, and full of art, and another that doubles as […]",
@@ -212,7 +281,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "016",
+      "id": "020",
       "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
       "title": "I have a new go-to browser",
       "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) This week, I've mostly been sick, which has meant nearly a full rewatch of Pa",
@@ -226,7 +295,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "017",
+      "id": "021",
       "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
       "title": "Google’s new anything-to-anything AI model is wild",
       "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
@@ -242,7 +311,31 @@
       "_source": "The Verge"
     },
     {
-      "id": "018",
+      "id": "022",
+      "url": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "title": "Best Power Banks (2026): My Picks After Testing Over 100",
+      "summary": "Keep your phone, laptop, handheld gaming console, and other electronics running with these travel-friendly power banks.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Accessories",
+        "Shopping",
+        "buying guides",
+        "portable",
+        "charging",
+        "chargers",
+        "Batteries",
+        "battery",
+        "Travel",
+        "accessories",
+        "Accessories and Peripherals",
+        "Watts Up"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "023",
       "url": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
       "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
       "summary": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
@@ -262,7 +355,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "024",
       "url": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
       "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
       "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
@@ -282,7 +375,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "025",
       "url": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
       "title": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
       "summary": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
@@ -298,7 +391,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "026",
       "url": "https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/",
       "title": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
       "summary": "We’ve tested almost a dozen options that handle everything from scheduling and weather changes to water conservation, so you don’t have to.",
@@ -317,30 +410,7 @@
       "_source": "Wired"
     },
     {
-      "id": "022",
-      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
-      "title": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
-      "summary": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Security",
-        "Security / Cyberattacks and Hacks",
-        "Security / National Security",
-        "Security / Security News",
-        "security",
-        "security roundup",
-        "cybersecurity",
-        "hacks",
-        "hacking",
-        "Google",
-        "malware",
-        "politics",
-        "Security Roundup"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "023",
+      "id": "027",
       "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
       "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
       "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
@@ -359,7 +429,7 @@
       "_source": "Wired"
     },
     {
-      "id": "024",
+      "id": "028",
       "url": "https://www.wired.com/story/best-memorial-day-deals-2026-1/",
       "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
       "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
@@ -374,7 +444,7 @@
       "_source": "Wired"
     },
     {
-      "id": "025",
+      "id": "029",
       "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/",
       "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
       "summary": "A fascinating, unclassifiable orb found in the Gulf of Alaska is not an alien object, as some speculated, but the remains of a poorly documented animal.",
@@ -390,7 +460,7 @@
       "_source": "Wired"
     },
     {
-      "id": "026",
+      "id": "030",
       "url": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
       "title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
       "summary": "The measure is part of a European Union–led strategy to eliminate all drunk-driving-related deaths and injuries by 2050.",
@@ -405,71 +475,6 @@
         "Safety",
         "traffic",
         "Sobriety Check"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
-      "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
-      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "Gear / Products / Sleep",
-        "Gear / Products / Lifestyle",
-        "Shopping",
-        "Deals",
-        "Sleep",
-        "mattresses",
-        "home",
-        "Bedroom",
-        "Memorial Day"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/hoka-coupon-code/",
-      "title": "Hoka Coupon Codes: 30% Off | May 2026",
-      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "030",
-      "url": "https://www.wired.com/story/lowes-promo-code/",
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
       ],
       "_source": "Wired"
     }
