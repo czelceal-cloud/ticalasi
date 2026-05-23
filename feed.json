@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://isaiprofitable.com/",
-      "title": "Is AI Profitable Yet?",
-      "summary": "Article URL: https://isaiprofitable.com/\nComments URL: https://news.ycombinator.com/item?id=48243863\nPoints: 162\n# Comments: 106",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "summary": "Article URL: https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/\nComments URL: https://news.ycombinator.com/item?id=48244434\nPoints: 178\n# Comments: 42",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
       "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-      "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 76\n# Comments: 20",
+      "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 116\n# Comments: 28",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -29,20 +29,251 @@
     },
     {
       "id": "003",
-      "url": "https://dev.to/amingin_ai/ais-tech-debt-is-invisible-even-to-ai-i-solved-it-at-the-architecture-layer-1nh1",
-      "title": "AI's tech debt is invisible — even to AI. I solved it at the architecture layer.",
-      "summary": "TL;DR — AI repeats your patterns badly, ignores existing services, and forgets every cross-session lesson you taught it. This isn't laziness — it's a new kind of tech debt: invisible, systemic, and architectural. Project memory hints don't scale. Bigger context windows don't help. The fix is structu",
+      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
+      "title": "Loop Earplugs Discount Codes: 40% Off",
+      "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
       "date_published": "2026-05-23",
       "tags": [
-        "Dev.to"
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "004",
+      "url": "https://www.wired.com/story/hoka-coupon-code/",
+      "title": "Hoka Coupon Codes: 30% Off | May 2026",
+      "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "005",
+      "url": "https://www.wired.com/story/lowes-promo-code/",
+      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+      "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "006",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "title": "Ulta Promo Codes: Up to 50% Off in May",
+      "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "007",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "title": "Valvoline Coupons & Promo Codes for May 2026",
+      "summary": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "008",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "title": "Squarespace Promo Codes: 20% Off in May 2026",
+      "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "009",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "title": "Newegg Promo Code: 10% Off in May 2026",
+      "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "010",
+      "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
+      "title": "T-Mobile Promo Codes: 25% Off | May",
+      "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/edmundsparrow/gnokeops-host-your-own-ai-house-party-2j81",
+      "title": "GnokeOps: Host Your Own AI House Party",
+      "summary": "Do you still build your legacy on rented land? 🙄\n\n\nCursor, Replit, and the endless wave of \"AI-native\" platforms offer convenience — but convenience is not ownership.\n\nYou write code in their environment. You run agents on their infrastructure. You adapt your workflow around their limitations. And o",
+      "date_published": "2026-05-23",
+      "tags": [
+        "agents",
+        "ai",
+        "devops",
+        "infrastructure"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "004",
-      "url": "https://dev.to/doraking/novelpilot-a-novel-writing-agent-powered-by-gemma-4-5caa",
-      "title": "NovelPilot: A Novel Writing Agent Powered by Gemma 4",
-      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I built\n\n\n\n\nNovelPilot is a web app that helps users create short fiction through a structured multi-agent workflow.\n\nThe user starts with a simple prompt, such as:\n\n\nWrite a melancholic sci-fi mystery set in modern To",
+      "id": "012",
+      "url": "https://dev.to/gursharansingh/ai-agents-in-practice-part-2-what-makes-something-an-agent-bhm",
+      "title": "AI Agents in Practice — Part 2: What Makes Something an Agent",
+      "summary": "Part 1 ended with Priya's order shipped and the agent confidently refunding her anyway.\n\nHere's the same request, in a system that's been built differently:\n\n\n\"Hi, I'd like to cancel order #4471 and get a refund.\"\n\n\nThe system reads the order status — shipped. It sees that the cancellation procedure",
+      "date_published": "2026-05-23",
+      "tags": [
+        "ai",
+        "agents",
+        "llm",
+        "architecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/baabbakk/stop-scattering-llm-sdkapi-calls-across-your-codebase-here-is-the-2-file-rule-that-fixed-mine-54on",
+      "title": "Stop scattering LLM SDK/API calls across your codebase. Here is the 2-file rule that fixed mine",
+      "summary": "I upgraded an LLM SDK and expected a routine version bump.\n\nInstead I had to touch 15+ files, fix breaking changes across four providers, and spend the rest of the day hoping I had not missed one. That was the second time it happened. I knew there would be a third.\n\nIf you have ever shipped a produc",
+      "date_published": "2026-05-23",
+      "tags": [
+        "ai",
+        "architecture",
+        "opensource",
+        "typescript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/lalitkhu/how-i-significantly-boosted-my-frontend-productivity-with-ai-in-a-large-react-app-35fg",
+      "title": "Beyond Prompts: Structuring AI Workflows for Real Frontend Engineering",
+      "summary": "This is a field-tested workflow for using AI effectively in production-grade, enterprise level React codebases in a monrepo setup — beyond toy Todo apps.\n\n\nEveryone is using AI to boost development productivity these days and organization also pushing the developers to use more and more AI to increa",
+      "date_published": "2026-05-23",
+      "tags": [
+        "ai",
+        "frontend",
+        "productivity",
+        "react"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/hrishika_malviya_cec808f3/from-an-abandoned-hackathon-project-to-an-ai-study-workspace-c86",
+      "title": "From an Abandoned Hackathon Project to an AI Study Workspace 🚀",
+      "summary": "There’s a strange feeling that comes with opening an old project folder again.\n\nYou look at the messy files, random commits, unfinished components, and half-working features… and instantly remember the excitement you had when you first started building it.\n\nThat’s exactly what happened to me.\n\nA few",
+      "date_published": "2026-05-23",
+      "tags": [
+        "devchallenge",
+        "githubchallenge",
+        "ai",
+        "githubcopilot"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/muhammad_yasin_f39f26989f/beyond-chatbots-how-google-io-2026-accelerated-the-rise-of-autonomous-scientific-ai-510f",
+      "title": "Beyond Chatbots: How Google I/O 2026 Accelerated the Rise of Autonomous Scientific AI",
+      "summary": "This is a submission for the Google I/O Writing Challenge\n\nThe Biggest Shift at Google I/O 2026 Wasn’t a Model Update\n\nFor years, AI systems mostly behaved like advanced assistants.\n\nYou asked. They answered.\n\nBut Google I/O 2026 signaled something much bigger:\n\n\nAI is evolving from passive conversa",
+      "date_published": "2026-05-23",
+      "tags": [
+        "devchallenge",
+        "googleiochallenge",
+        "ai",
+        "google"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://dev.to/hrishika_malviya_cec808f3/i-let-hermes-agent-handle-real-work-for-24-hours-heres-what-surprised-me-5d7m",
+      "title": "I Let Hermes Agent Handle Real Work for 24 Hours — Here’s What Surprised Me 🚀",
+      "summary": "Google Docs summaries, task planning, research help, workflow automation… I wanted to know whether Hermes Agent was actually useful or just another flashy AI demo. 👀\n\nLike many developers, I’ve seen countless “AI agents” online recently. Most of them look impressive for five minutes and then fall ap",
+      "date_published": "2026-05-23",
+      "tags": [
+        "hermesagentchallenge",
+        "devchallenge",
+        "agents"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "018",
+      "url": "https://dev.to/tasfinmahmud/debiasing-graph-neural-networks-for-recommendation-with-causal-rl-2783",
+      "title": "Debiasing Graph Neural Networks for Recommendation with Causal RL",
+      "summary": "As part of my undergraduate research in Graph Neural Networks (GNNs) and Causal Inference, I've been exploring a major flaw in modern recommender systems: observational bias.\n\nStandard recommendation algorithms—even state-of-the-art GNNs like LightGCN and NGCF—learn from biased data. Popular items g",
+      "date_published": "2026-05-23",
+      "tags": [
+        "machinelearning",
+        "python",
+        "opensource",
+        "gnn"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "019",
+      "url": "https://dev.to/inboxgreen/spf-record-syntax-explained-a-practical-guide-for-developers-1kii",
+      "title": "SPF record syntax explained: a practical guide for developers",
+      "summary": "SPF (Sender Policy Framework) is a DNS record that tells receiving mail servers which servers are allowed to send email on behalf of your domain. If a server not on that list sends email claiming to be from your domain, the receiving server can reject or flag it.\n\nUnderstanding the syntax makes it e",
+      "date_published": "2026-05-23",
+      "tags": [
+        "email",
+        "webdev",
+        "dns",
+        "tutorial"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "020",
+      "url": "https://dev.to/devnamipress/building-health-record-app-with-gemma-4-3d10",
+      "title": "Building Health Record App with Gemma 4",
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nWhen I discovered the agentic coding I rand out of ideas. Yes despite being a coder and IT experience. I just found myself frozen and can't think of solving any nearest problems at first. \n\nThat was upto the point where I saw other",
       "date_published": "2026-05-23",
       "tags": [
         "devchallenge",
@@ -52,361 +283,120 @@
       "_source": "Dev.to"
     },
     {
-      "id": "005",
-      "url": "https://dev.to/garudust/event-triggers-bn-garudust-4ji3",
-      "title": "Event Triggers บน Garudust",
-      "summary": "core ของ Garudust เปิดเผย primitive พื้นฐานตัวเดียว: agent.run(task) ทุก entry point — ไม่ว่าจะเป็นข้อความจากแชท, cron job, หรือ webhook call — ล้วนลงเอยที่ call เดียวกันนี้ทั้งสิ้น นั่นหมายความว่าระบบภายนอกใดก็ตามที่ส่ง HTTP POST ได้ ก็สามารถเป็น event trigger ให้ Garudust ได้เลย\n\nบทความนี้จะอธิบาย",
-      "date_published": "2026-05-23",
-      "tags": [
-        "rust",
-        "ai",
-        "agents",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd",
-      "title": "Event Loop: como o JavaScript executa código assíncrono",
-      "summary": "O JavaScript é uma linguagem single thread, ou seja, possui apenas uma thread de execução e por isso depende de um mecanismo chamado Event Loop para coordenar a execução de operações assíncronas. Algumas realizadas em paralelo por recursos externos como Web APIs, outras simplesmente adiadas para dep",
-      "date_published": "2026-05-23",
-      "tags": [
-        "computerscience",
-        "javascript",
-        "tutorial",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/harvest316/the-pre-commit-hook-that-catches-api-keys-before-they-hit-git-4h22",
-      "title": "The Pre-Commit Hook That Catches API Keys Before They Hit Git",
-      "summary": "The problem: secrets in git are forever\n\n\nYou know the drill. A developer hardcodes a Stripe secret key to test a webhook handler locally. They commit. They push. Maybe they catch it themselves and run git rm. Problem solved, right?\nWrong. The key is still in your git history. Anyone who clones the ",
-      "date_published": "2026-05-23",
-      "tags": [
-        "security",
-        "git",
-        "devops",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0",
-      "title": "5 Best AI Chatbot Plugins for WordPress in 2026 (Compared)",
-      "summary": "Looking for an AI chatbot plugin for your WordPress site? The options range from full-service live chat platforms to lightweight document-based bots. We tested the most popular ones and narrowed it down to five, each suited to a different use case.\n\nHere's the quick summary:\n\n\n\n\nPlugin\nBest For\nPric",
-      "date_published": "2026-05-23",
-      "tags": [
-        "ai",
-        "chatgpt",
-        "webdev",
-        "wordpress"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/sandeshojha/i-built-a-redis-clone-in-c-from-blocking-io-to-epoll-to-crash-safe-persistence-4imh",
-      "title": "I built a Redis clone in C: From blocking I/O to epoll to crash safe persistence",
-      "summary": "I had been hearing about sockets, TCP connections, and networking for years without truly understanding what any of it meant at the code level. Building C-dis changed that. I learned the full socket lifecycle, what happens on both sides of a connection, how the kernel manages buffers, and how to han",
-      "date_published": "2026-05-23",
-      "tags": [
-        "database",
-        "networking",
-        "showdev",
-        "systems"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h",
-      "title": "17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向",
-      "summary": "17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向\n\n\n如果你追過我前面 17 天的 ZERO-TEN build log，這篇是 Day 17。\n\n不是進度報告。是換軌。\n\n\n  \n  \n  三個 verified 數字\n\n\nZERO-TEN $9 freelancer Gmail tracking pack，17 天累積：\n\n\ndev.to 21 篇 = 247 views / 1 reaction / 5 comments\n\nGitHub repo = 1 star / 0 forks\nApify Actor = 1 us",
-      "date_published": "2026-05-23",
-      "tags": [
-        "buildlog",
-        "ai",
-        "pivot",
-        "knowledgebase"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/melentyevdev/most-new-github-repos-are-noise-the-rare-good-ones-get-buried-with-everything-else-5ahp",
-      "title": "Most new GitHub repos are noise. The rare good ones get buried with everything else.",
-      "summary": "A while ago I published an open-source project I'd put real work into — tests, docs, CI, the whole thing. It landed to complete silence. Zero stars, zero traffic.\nIt made me realize the problem isn't that good projects are rare — it's that they're impossible to find. GitHub gets 230+ new repositorie",
-      "date_published": "2026-05-23",
-      "tags": [
-        "opensource",
-        "news",
-        "automation",
-        "agents"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/nikolaysuslov/fractal-time-oriented-programming-50nb",
-      "title": "Fractal Time Oriented Programming",
-      "summary": "Everything is an Instanton (a localized event).\nInstantons \"exchange\" Solitons (causal connections).\nAn Instanton resonates at various depths of Fractal Time, forming natural harmonics of the space-time medium itself—the Instanton.\n\n\n\n\n\n\n  \n  \n  Everything is an Instanton (Computation as an Event).\n",
-      "date_published": "2026-05-23",
-      "tags": [
-        "computerscience",
-        "programming",
-        "mixedreality",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/fuadhusnan_f44f3e13/a-practical-guide-to-designing-restful-apis-48nb",
-      "title": "A Practical Guide to Designing RESTful APIs",
-      "summary": "Designing RESTful APIs is one of those skills that separates developers who build systems that last from those who end up rewriting everything six months later. A well-designed RESTful API is predictable, consistent, and easy for other developers to consume without reading a wall of documentation. W",
-      "date_published": "2026-05-23",
-      "tags": [
-        "api",
-        "backend",
-        "openapi"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "014",
-      "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
-      "title": "SpaceX launches Starship v3 rocket",
-      "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505\nComments URL: https://news.ycombinator.com/item?id=48242959\nPoints: 200\n# Comments: 97",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "015",
-      "url": "https://github.com/bkawa-bot/planet-maiko",
-      "title": "I was bored so I turned my dev tools into an alien planet ruled by my dog",
-      "summary": "Article URL: https://github.com/bkawa-bot/planet-maiko\nComments URL: https://news.ycombinator.com/item?id=48242949\nPoints: 20\n# Comments: 1",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "016",
-      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
-      "title": "Sleep research led to a new sleep apnea drug",
-      "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 90\n# Comments: 57",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "017",
-      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 258\n# Comments: 77",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "018",
-      "url": "https://github.com/anomalyco/models.dev",
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 112\n# Comments: 20",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "019",
-      "url": "https://www.anthropic.com/research/glasswing-initial-update",
-      "title": "Project Glasswing: An Initial Update",
-      "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 350\n# Comments: 218",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
-      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
-      "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/\nComments URL: https://news.ycombinator.com/item?id=48240331\nPoints: 29\n# Comments: 1",
-      "date_published": "2026-05-22",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "021",
-      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
-      "title": "A blueprint for formal verification of Apple corecrypto",
-      "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/\nComments URL: https://news.ycombinator.com/item?id=48239862\nPoints: 70\n# Comments: 3",
-      "date_published": "2026-05-22",
+      "url": "https://dev.to/sanjay_yadav_/terraform-with-ai-build-aws-infra-cursor-mcp-4hga",
+      "title": "Terraform with AI: Build AWS Infra (Cursor + MCP)",
+      "summary": "Why Terraform with AI Matters in Modern DevOps\n\n\nWriting Terraform for anything beyond a small setup quickly becomes tedious.\nOnce you start dealing with multiple modules, cross-resource dependencies, and AWS-specific quirks, the workflow slows down. Most of the time isn’t spent writing code — it’s ",
+      "date_published": "2026-05-23",
       "tags": [
-        "Hacker News"
+        "terraform",
+        "aws",
+        "devops",
+        "ai"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-      "date_published": "2026-05-22",
+      "url": "https://dev.to/adhi_m/starting-my-journey-in-ai-data-science-full-stack-development-37gd",
+      "title": "Starting My Journey in AI, Data Science & Full Stack Development",
+      "summary": "Hello DEV Community,\n\nI’m Adhi, an Artificial Intelligence & Data Science student with a strong interest in technology, problem-solving, and continuous learning.\n\nMy current focus areas include:\n• Artificial Intelligence & Machine Learning\n• Full Stack Development\n• Generative AI\n• Data Science & An",
+      "date_published": "2026-05-23",
       "tags": [
-        "AI",
-        "Transportation",
-        "crash",
-        "flight",
-        "In Brief",
-        "NTSB"
+        "ai",
+        "beginners",
+        "datascience",
+        "webdev"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
-      "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
-      "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+      "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+      "title": "Sleep research led to a new sleep apnea drug",
+      "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 121\n# Comments: 77",
       "date_published": "2026-05-22",
       "tags": [
-        "Space",
-        "TC",
-        "SpaceX",
-        "Starlink",
-        "Starship",
-        "starship v3"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "024",
-      "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
-      "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
-      "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
+      "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+      "title": "Shipping a laptop to a refugee camp in Uganda",
+      "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 310\n# Comments: 99",
       "date_published": "2026-05-22",
       "tags": [
-        "Space",
-        "Blue Origin",
-        "In Brief",
-        "new glenn"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "025",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "url": "https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/",
+      "title": "Staged publishing and new install-time controls for npm",
+      "summary": "Article URL: https://github.blog/changelog/2026-05-22-staged-publishing-and-new-install-time-controls-for-npm/\nComments URL: https://news.ycombinator.com/item?id=48240679\nPoints: 36\n# Comments: 3",
       "date_published": "2026-05-22",
       "tags": [
-        "AI",
-        "Apps",
-        "ai icons",
-        "Android",
-        "disco ball",
-        "Google",
-        "icons",
-        "PIXEL",
-        "Spotify"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "026",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "title": "Project Glasswing: An Initial Update",
+      "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 386\n# Comments: 229",
       "date_published": "2026-05-22",
       "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "annual recurring revenue",
-        "Exclusive",
-        "Valuations"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "027",
-      "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
-      "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
-      "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
+      "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
+      "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+      "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/\nComments URL: https://news.ycombinator.com/item?id=48240331\nPoints: 52\n# Comments: 1",
       "date_published": "2026-05-22",
       "tags": [
-        "Security",
-        "cybersecurity",
-        "FBI",
-        "hackers",
-        "hacking",
-        "In Brief",
-        "infostealer",
-        "Kash Patel",
-        "malware"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "028",
-      "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
-      "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
-      "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
+      "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+      "title": "A blueprint for formal verification of Apple corecrypto",
+      "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/\nComments URL: https://news.ycombinator.com/item?id=48239862\nPoints: 84\n# Comments: 4",
       "date_published": "2026-05-22",
       "tags": [
-        "Apps",
-        "Commerce",
-        "Apple",
-        "Court",
-        "Epic Games",
-        "lawsuit"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
-      "title": "Spotify’s AI bet: more of everything, less of what you want",
-      "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
+      "url": "https://www.kanbots.dev/",
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 199\n# Comments: 115",
       "date_published": "2026-05-22",
       "tags": [
-        "Apps",
-        "AI audio",
-        "Spotify"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "title": "You can no longer Google the word ‘disregard’",
-      "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+      "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+      "title": "Thinking in an array language (2022)",
+      "summary": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md\nComments URL: https://news.ycombinator.com/item?id=48239023\nPoints: 88\n# Comments: 12",
       "date_published": "2026-05-22",
       "tags": [
-        "AI",
-        "AI summaries",
-        "Google",
-        "Google Search",
-        "In Brief"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     }
   ]
 }
