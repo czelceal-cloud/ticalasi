@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Lisp in Vim (2019)",
-    "summary": "Article URL: https://susam.net/lisp-in-vim.html\nComments URL: https://news.ycombinator.com/item?id=48248238\nPoints: 6\n# Comments: 1",
-    "url": "https://susam.net/lisp-in-vim.html",
+    "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+    "summary": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\nComments URL: https://news.ycombinator.com/item?id=48248954\nPoints: 24\n# Comments: 3",
+    "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-    "summary": "Article URL: https://nand2mario.github.io/posts/2026/z386/\nComments URL: https://news.ycombinator.com/item?id=48248014\nPoints: 17\n# Comments: 2",
-    "url": "https://nand2mario.github.io/posts/2026/z386/",
+    "title": "Evaluating Spec CPU2026",
+    "summary": "Article URL: https://chipsandcheese.com/p/evaluating-spec-cpu2026\nComments URL: https://news.ycombinator.com/item?id=48248861\nPoints: 3\n# Comments: 0",
+    "url": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Oura says it gets government demands for user data. Will it share how many?",
-    "summary": "Article URL: https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/\nComments URL: https://news.ycombinator.com/item?id=48247876\nPoints: 47\n# Comments: 17",
-    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "title": "Show HN: I built a RAG and knowledge graph agent that runs locally",
+    "summary": "Claw-Coder is an AI agent that runs locally on your laptop and has access to powerful tools instead of configuring claude or codex to use a local model just use claw-coder.\nWhy was claw-coder created? Answer: To solve the problem of privacy and security. When you use an agent that is configured with",
+    "url": "https://news.ycombinator.com/item?id=48248801",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
-    "summary": "Article URL: https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/\nComments URL: https://news.ycombinator.com/item?id=48247737\nPoints: 40\n# Comments: 15",
-    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+    "title": "Italy Cancels Boeing Pegasus Order, Shifting to Airbus A330 MRTT",
+    "summary": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\nComments URL: https://news.ycombinator.com/item?id=48248775\nPoints: 74\n# Comments: 13",
+    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "The Art of Money Getting",
-    "summary": "Article URL: https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\nComments URL: https://news.ycombinator.com/item?id=48247208\nPoints: 15\n# Comments: 1",
-    "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
+    "title": "Ebola Outbreak Now Third Largest Recorded and \"Spreading Rapidly\"",
+    "summary": "Article URL: https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/\nComments URL: https://news.ycombinator.com/item?id=48248659\nPoints: 52\n# Comments: 42",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "I Miss Terry Pratchett",
-    "summary": "Article URL: https://www.mahl.me/blog/the-spell-that-wouldnt-leave/\nComments URL: https://news.ycombinator.com/item?id=48247127\nPoints: 198\n# Comments: 167",
-    "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+    "title": "Lisp in Vim (2019)",
+    "summary": "Article URL: https://susam.net/lisp-in-vim.html\nComments URL: https://news.ycombinator.com/item?id=48248238\nPoints: 27\n# Comments: 5",
+    "url": "https://susam.net/lisp-in-vim.html",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "80386 Microcode Disassembled",
-    "summary": "Article URL: https://www.reenigne.org/blog/80386-microcode-disassembled/\nComments URL: https://news.ycombinator.com/item?id=48247004\nPoints: 117\n# Comments: 21",
-    "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+    "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+    "summary": "Article URL: https://nand2mario.github.io/posts/2026/z386/\nComments URL: https://news.ycombinator.com/item?id=48248014\nPoints: 63\n# Comments: 13",
+    "url": "https://nand2mario.github.io/posts/2026/z386/",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Making Deep Learning Go Brrrr from First Principles",
-    "summary": "Article URL: https://horace.io/brrr_intro.html\nComments URL: https://news.ycombinator.com/item?id=48246889\nPoints: 69\n# Comments: 26",
-    "url": "https://horace.io/brrr_intro.html",
+    "title": "Oura says it gets government demands for user data",
+    "summary": "Article URL: https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/\nComments URL: https://news.ycombinator.com/item?id=48247876\nPoints: 172\n# Comments: 93",
+    "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "US tech firms share Dutch regulator officials' names with Senate",
-    "summary": "Article URL: https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/\nComments URL: https://news.ycombinator.com/item?id=48246614\nPoints: 153\n# Comments: 111",
-    "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
+    "title": "The FBI Wants 'Near Real-Time' Access to US License Plate Readers",
+    "summary": "Article URL: https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/\nComments URL: https://news.ycombinator.com/item?id=48247737\nPoints: 113\n# Comments: 59",
+    "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
