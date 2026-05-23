@@ -7,61 +7,6 @@
   "items": [
     {
       "id": "001",
-      "url": "https://xcancel.com/josefprusa/status/2054602354851254330",
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "summary": "Article URL: https://xcancel.com/josefprusa/status/2054602354851254330\nComments URL: https://news.ycombinator.com/item?id=48245862\nPoints: 24\n# Comments: 2",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "002",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son",
-      "title": "Experience: We found a baby on the subway – now he's our 26-year-old son",
-      "summary": "Article URL: https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son\nComments URL: https://news.ycombinator.com/item?id=48245571\nPoints: 76\n# Comments: 14",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
-      "url": "https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/",
-      "title": "Spanish Court Declines to Fine NordVPN over LaLiga Piracy Blocking Order",
-      "summary": "Article URL: https://torrentfreak.com/spanish-court-declines-to-fine-nordvpn-over-laliga-piracy-blocking-order/\nComments URL: https://news.ycombinator.com/item?id=48245362\nPoints: 55\n# Comments: 34",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
-      "url": "https://github.com/amatsuda/rubish",
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "summary": "Article URL: https://github.com/amatsuda/rubish\nComments URL: https://news.ycombinator.com/item?id=48245262\nPoints: 25\n# Comments: 6",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "005",
-      "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
-      "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-      "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 150\n# Comments: 44",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
       "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
       "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
       "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
@@ -76,7 +21,152 @@
       "_source": "TechCrunch"
     },
     {
+      "id": "002",
+      "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
+      "title": "China’s shark finning could lead to US seafood sanctions",
+      "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Policy",
+        "Science",
+        "deep sea fishing",
+        "illegal fishing",
+        "overfishing",
+        "seafood",
+        "sharks",
+        "syndication"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "003",
+      "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
+      "title": "I have a new go-to browser",
+      "summary": "Hi, friends! Welcome to Installer No. 129, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, come on you Gunners, and also you can read all the old editions at the Installer homepage.) This week, I've mostly been sick, which has meant nearly a full rewatch of Pa",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gadgets",
+        "Installer",
+        "Streaming",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "004",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "title": "Google’s new anything-to-anything AI model is wild",
+      "summary": "Last year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation. It was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. […]",
+      "date_published": "2026-05-23",
+      "tags": [
+        "AI",
+        "Google",
+        "Google I/O 2026",
+        "Hands-on",
+        "Reviews",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "005",
+      "url": "https://www.wired.com/story/llbean-zip-hunters-tote-bag/",
+      "title": "L.L.Bean's Zip Hunter's Tote Is the Only Carryall You Need",
+      "summary": "Its do-it-all thermoplastic lining can both carry gear through wet muck and transport wet, mucky groceries home from the store.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Bags",
+        "gear",
+        "Shopping",
+        "rants and raves",
+        "Travel",
+        "outdoors",
+        "Bag Check"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "006",
+      "url": "https://www.wired.com/story/quantum-jamming-could-help-unlock-the-mysteries-of-causality/",
+      "title": "Quantum ‘Jamming’ Could Help Unlock the Mysteries of Causality",
+      "summary": "To keep communications secure in a post-quantum world, cryptographers are digging down into the concept of cause and effect.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Science",
+        "quantum",
+        "cryptography",
+        "physics",
+        "quantum physics",
+        "Spooky Action"
+      ],
+      "_source": "Wired"
+    },
+    {
       "id": "007",
+      "url": "https://www.wired.com/story/best-smart-sprinklers-and-irrigation-systems/",
+      "title": "The Best Smart Sprinklers and Irrigation Systems: In-Ground Sprinklers, Hose Timers (2026)",
+      "summary": "We’ve tested almost a dozen options that handle everything from scheduling and weather changes to water conservation, so you don’t have to.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Gear",
+        "Gear / Buying Guides",
+        "Gear / Products / Home",
+        "Shopping",
+        "smart home",
+        "buying guides",
+        "Yardware Upgrade",
+        "Backyard",
+        "Lawn Order"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "008",
+      "url": "https://www.wired.com/story/security-news-this-week-fbi-license-plate-reader-real-time-access/",
+      "title": "The FBI Wants ‘Near Real-Time’ Access to US License Plate Readers",
+      "summary": "Plus: Google publishes a live exploit for an unpatched flaw, the feds arrest two men accused of creating thousands of nonconsensual deepfake nudes, and more.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Security",
+        "Security / Cyberattacks and Hacks",
+        "Security / National Security",
+        "Security / Security News",
+        "security",
+        "security roundup",
+        "cybersecurity",
+        "hacks",
+        "hacking",
+        "Google",
+        "malware",
+        "politics",
+        "Security Roundup"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "009",
+      "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
+      "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
+      "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Science",
+        "Science / Space",
+        "Astronomy",
+        "physics",
+        "space",
+        "cosmology",
+        "dark energy",
+        "dark matter",
+        "Stare Into the Void"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "010",
       "url": "https://www.wired.com/story/best-memorial-day-deals-2026-1/",
       "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
       "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
@@ -91,7 +181,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "011",
       "url": "https://www.wired.com/story/a-golden-orb-on-the-ocean-floor-came-from-a-mysterious-animal/",
       "title": "A 'Golden Orb' on the Ocean Floor Came From a Mysterious Animal",
       "summary": "A fascinating, unclassifiable orb found in the Gulf of Alaska is not an alien object, as some speculated, but the remains of a poorly documented animal.",
@@ -107,7 +197,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "012",
       "url": "https://www.wired.com/story/all-vehicles-sold-in-the-eu-must-have-breathalyzer-hook-up/",
       "title": "All Vehicles Sold in the EU Must Be Able to Hook Up to a Breathalyzer",
       "summary": "The measure is part of a European Union–led strategy to eliminate all drunk-driving-related deaths and injuries by 2050.",
@@ -126,7 +216,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "013",
       "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
       "title": "Best Early Memorial Day Mattress Deals: Helix, Saatva (2026)",
       "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
@@ -147,7 +237,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "014",
       "url": "https://www.wired.com/story/lowes-promo-code/",
       "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
       "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
@@ -162,7 +252,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "015",
       "url": "https://www.wired.com/story/ulta-coupon/",
       "title": "Ulta Promo Codes: Up to 50% Off in May",
       "summary": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
@@ -177,7 +267,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://www.wired.com/story/valvoline-coupons/",
       "title": "Valvoline Coupons & Promo Codes for May 2026",
       "summary": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
@@ -192,7 +282,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
       "title": "Loop Earplugs Discount Codes: 40% Off",
       "summary": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
@@ -207,7 +297,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://www.wired.com/story/hoka-coupon-code/",
       "title": "Hoka Coupon Codes: 30% Off | May 2026",
       "summary": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for May 2026.",
@@ -221,7 +311,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://www.wired.com/story/squarespace-promo-code/",
       "title": "Squarespace Promo Codes: 20% Off in May 2026",
       "summary": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
@@ -235,7 +325,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://www.wired.com/story/newegg-promo-code/",
       "title": "Newegg Promo Code: 10% Off in May 2026",
       "summary": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
@@ -249,7 +339,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://www.wired.com/story/t-mobile-business-promo-code/",
       "title": "T-Mobile Promo Codes: 25% Off | May",
       "summary": "Discover how to save on T-Mobile Business Internet and phone plans, from sign-up perks and switching rewards to bundled offers and free lines.",
@@ -264,162 +354,124 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
-      "url": "https://dev.to/yas79/designing-an-in-game-inflation-tracking-algorithm-for-web-utility-apps-g13",
-      "title": "Designing an In-Game Inflation Tracking Algorithm for Web Utility Apps",
-      "summary": "In modern web development, scaling an application to track real-time transactional data presents unique hurdles especially when tracking hyper-volatile secondary market economies like the Blox Fruits Easter Update. \n\nTraditional gaming utility sites rely on static JSON tables or manual content manag",
-      "date_published": "2026-05-23",
-      "tags": [
-        "webdev",
-        "dotnet",
-        "javascript",
-        "architecture"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "020",
-      "url": "https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d",
-      "title": "Google AI Studio Just Changed the Shape of App Development",
-      "summary": "This is a submission for the Google I/O Writing Challenge\n\n\n\n  \n  \n  The browser is becoming the IDE, the backend, the deployment pipeline and the App factory\n\n\n\nThe most important thing Google announced at I/O 2026 was not a model.\n\nIt was the disappearance of friction.\n\nAt first I dismissed Google",
-      "date_published": "2026-05-23",
-      "tags": [
-        "devchallenge",
-        "googleiochallenge",
-        "antigravity",
-        "learngoogleaistudio"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "021",
-      "url": "https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0",
-      "title": "If you struggle to learn then this is for you.",
-      "summary": "I have kept up with technology for almost a decade and most remote developers I worked with ask me how am I doing this.\n\nLet's assume that we have to learn something and that something is number 1 to 10.\n\nEvery number is an entire section so they are complicated.\n\nNow ideally learning 1 and then 2 t",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Dev.to"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "022",
-      "url": "https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d",
-      "title": "Best AI Agent Security & Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI",
-      "summary": "As AI agents become more autonomous — browsing the web, executing code, and making decisions — security is no longer optional. One prompt injection attack, one toxic output, or one leaked secret can break user trust overnight.\n\nThis guide compares the top AI agent security and guardrails tools in 20",
+      "url": "https://dev.to/highcenburg/how-i-caught-and-fixed-an-n1-query-in-my-django-rest-api-36p5",
+      "title": "How I Caught and Fixed an N+1 Query in My Django REST API",
+      "summary": "Every performant API eventually runs into the same silent killer: the N+1 query problem. It doesn't crash your app. It doesn't throw errors. It just quietly makes every list endpoint slower as your data grows — and it's almost invisible until Sentry flags it in production.\n\nToday, Sentry caught one ",
       "date_published": "2026-05-23",
       "tags": [
-        "aiagents",
-        "llm",
-        "security",
-        "webdev"
+        "python",
+        "django",
+        "algorithms"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9",
-      "title": "Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control",
-      "summary": "Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control\n\n\nString-based permission checks scattered across your React codebase are a maintenance nightmare. I know because I shipped CitizenApp with that anti-pattern, and it nearly bit me when we added our fifth AI ",
+      "url": "https://dev.to/manju_devi_93d3af8012a762/how-to-start-coding-as-a-student-a-complete-beginners-guide-4pm8",
+      "title": "How to Start Coding as a Student: A Complete Beginner’s Guide 🚀",
+      "summary": "Hey everyone! 👋\n\nIf you are a student and thinking about stepping into the world of coding, you are in the exact right place. At first, coding can look intimidating with all those complex lines of text, but here is the truth: coding is like a superpower that anyone can learn—no matter your age or ba",
       "date_published": "2026-05-23",
       "tags": [
-        "react19",
-        "rbac",
-        "typescript",
-        "authorization"
+        "career",
+        "coding",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/ayinedjimi-consultants/how-to-build-a-self-hosted-ai-code-review-tool-in-python-45h9",
-      "title": "How to Build a Self-Hosted AI Code Review Tool in Python",
-      "summary": "Every team has the same code review problem: PRs sit for days, reviewers miss subtle logic bugs, and security issues slip through because nobody carefully checked the authentication layer. Linters catch syntax and style issues, but they don't reason about intent. A language model can — and you can r",
+      "url": "https://dev.to/godsloveady/storing-kamal-secrets-in-aws-secrets-manager-and-deploying-to-a-cheap-hetzner-vps-2262",
+      "title": "Storing Kamal secrets in AWS Secrets Manager and deploying to a cheap Hetzner VPS",
+      "summary": "I ran into a problem with Kamal. My .kamal/secrets file was full of API keys sitting in plaintext on my laptop. Anyone with access could read them all.\n\nTLDR; Use Kamal with AWS Secrets Manager and deploy to a Hetzner VPS. No plaintext secrets, cheap hosting, compliance happy.\n\nThe problem\n\nKamal is",
       "date_published": "2026-05-23",
       "tags": [
-        "python",
-        "ai",
-        "tutorial",
-        "security"
+        "rails",
+        "kamal",
+        "devops",
+        "deployment"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/mahmut_gndzalp_c736ac4b/why-we-switched-from-react-to-htmx-in-production-a-200-site-case-study-5hgk",
-      "title": "Why We Switched from React to HTMX in Production: A 200-Site Case Study",
-      "summary": "We ran a React SPA admin panel for almost three years. It worked. Customers logged in, edited content, published articles. Bundle size kept creeping up. Build times kept creeping up. A new dev needed two weeks to be productive. We started skipping minor features because \"the diff is too risky.\"\n\nIn ",
+      "url": "https://dev.to/ho3na3/what-are-buffers-290m",
+      "title": "What Are Buffers, Really?",
+      "summary": "Buffers are temporary memory spaces used to hold data while it is being moved from one place to another.\n\nThink of it like eating rice.\n\nYou cannot move the entire plate of rice into your stomach at once.\nSo you use a spoon.\n\nThe spoon temporarily holds a small piece of rice,\nmoves it,\nThen it gets ",
       "date_published": "2026-05-23",
       "tags": [
-        "htmx",
-        "javascript",
-        "webdev",
-        "performance"
+        "beginners",
+        "codenewbie",
+        "computerscience",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://dev.to/madanimkhitar22beep/gemma-loom-the-intent-based-virtual-machine-ivm-for-edge-sovereignty-5c5c",
-      "title": "Gemma-Loom: The Intent-Based Virtual Machine (IVM) for Edge Sovereignty",
-      "summary": "⬛ 1. The Epistemic Crisis of Modern AI\n\n\nThe modern tech industry is trapped in a race of brute force. We build monolithic cloud models to predict the next word, chasing scale while suffering from a core architectural unpredictability: Hallucination. \n\nIn critical, sovereign, and resource-constraine",
+      "url": "https://dev.to/curtissummers/build-ai-agents-with-hot-dev-3po6",
+      "title": "Build AI Agents with Hot Dev",
+      "summary": "Learn how to build AI chat agents with two kinds of memory: one that follows a user across devices, and one shared by everyone in a channel.\n\nHot Chat is a web chat demo you can clone and start in about 15 minutes, with two AI agents side by side: a Personal Mode agent whose memory is keyed to the u",
       "date_published": "2026-05-23",
       "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
+        "ai",
+        "tutorial",
+        "webdev",
+        "agents"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://dev.to/ym_z_a211847c2518bf442268/javashi-xi-hai-tou-gong-lue-3tian-300ge-gou-tong-wo-shi-zen-yao-na-dao-mian-shi-de-38gh",
-      "title": "Java实习海投攻略：3天300个沟通，我是怎么拿到面试的",
-      "summary": "我的背景\n\n\n长春理工大学（双非），软件工程，2026届。\n\n\n  \n  \n  投递数据\n\n\n\nBOSS直聘：329个沟通\n10+ HR主动联系\n拼多多/快手/亚信/Strikingly/泛微 全部拿到面试机会\n\n\n\n  \n  \n  我的招呼语模板\n\n\n\nXX大学软件工程应届。Spring Boot+MyBatis实战，项目经验丰富。6月底到岗。\n\n\n30字黄金长度。 HR只看3秒，关键词要放在最前面。\n\n\n  \n  \n  平台分配\n\n\n\n\n\n平台\n数量/天\n技巧\n\n\n\n\nBOSS直聘\n120\n9-10点、14-15点黄金窗口\n\n\n实习僧\n50\n关键词\"可转正\"\"远程\"\"日常实习\"\n\n\n智联招",
+      "url": "https://dev.to/alfred_p_c0ddb65b3df9fc36/the-client-onboarding-checklist-that-prevents-90-of-project-problems-4elk",
+      "title": "The Client Onboarding Checklist That Prevents 90% of Project Problems",
+      "summary": "Most freelance project problems are visible before the project starts.\n\nThe wrong clients, unclear scope, missing access credentials, the stakeholder who was not in the initial conversation - all of these create problems later. Most could be caught in the first week with a proper onboarding process.",
       "date_published": "2026-05-23",
       "tags": [
-        "java",
+        "freelance",
+        "productivity",
         "career",
-        "jobsearch",
-        "beginners"
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://dev.to/peter_samuel_052b9056e236/i-deployed-netflixs-web-server-in-30-seconds-and-so-can-you-docker-project-1-ha1",
-      "title": "I Deployed Netflix's Web Server in 30 Seconds (And So Can You) - Docker Project 1",
-      "summary": "Introduction\nWhat You Will Build Today\n\nBy the end of this tutorial, you will have:\n\nA live web server running inside Docker\n\nYour custom HTML page served from a container\n\nA persistent website that survives container death\n\nScreenshots proving every step works\n\nTime required: 20 minutes\nPrerequisit",
+      "url": "https://dev.to/built-from-africa/scalable-treasure-hunts-are-a-myth-but-we-almost-made-one-gld",
+      "title": "Scalable Treasure Hunts Are a Myth, But We Almost Made One",
+      "summary": "The Problem We Were Actually Solving\n\n\nAs it turns out, we weren't really solving the problem of scaling our server infrastructure, but rather the problem of our own internal architecture. Our team had designed the system to be modular, with various components communicating with each other over a co",
       "date_published": "2026-05-23",
       "tags": [
-        "docker",
-        "devops",
-        "devto",
-        "projectdevops"
+        "webdev",
+        "programming",
+        "rust",
+        "performance"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/snowlyg/debugging-android-14-webrtc-disconnects-on-a-coturn-relay-path-1lbm",
-      "title": "Debugging Android 14 WebRTC Disconnects on a coturn Relay Path",
-      "summary": "I recently wrote up a debugging case around Android WebRTC, coturn, TURN relay, and ICE failures. This is the anonymized version because the useful part is the debugging method, not the original environment.\n\n\n  \n  \n  Context\n\n\n\nAndroid WebRTC audio/video call.\nThe service originally worked mostly o",
+      "url": "https://dev.to/pulkitgovrani/gemini-35-flash-has-a-1m-token-context-window-heres-what-you-can-actually-build-with-it-4he3",
+      "title": "Gemini 3.5 Flash Has a 1M Token Context Window. Here's What You Can Actually Build With It.",
+      "summary": "This is a submission for the Google I/O Writing Challenge\n\n\n\n\n\"1 million token context window\" sits in every I/O recap summary. Then people move on.\n\nIt sounds like a spec-sheet number — impressive in the abstract, like a car rated for 700 horsepower. Sure. But what road are you actually driving on?",
       "date_published": "2026-05-23",
       "tags": [
-        "webrtc"
+        "devchallenge",
+        "googleiochallenge"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/thejoud1997/130-days-system-design-question-5dd8",
-      "title": "1/30 Days System Design Question",
-      "summary": "our mobile app talks to 3 backend services directly.\n\nA 4th one ships next sprint. The mobile team is already drowning.\n\nEvery new service means a new domain to whitelist, a new auth scheme to wire, and a new error shape to parse. You’re asked to reduce coupling before NotificationService lands.\n\nHe",
+      "url": "https://dev.to/pavan_siddharthareddy_f1/i-built-a-ultra-polished-developer-portfolio-template-using-react-tailwind-v4-with-zero-jsx-278a",
+      "title": "I built a ultra-polished developer portfolio template using React & Tailwind v4 (with zero-JSX configuration)",
+      "summary": "Hey everyone! 👋 \n\nI spent the last couple of days engineering a minimal, premium dark-mode portfolio template for developers who want a high-end web presence (similar to the aesthetic of companies like Stripe or Linear) without spending weeks designing it from scratch.\n\nI wanted to push performance ",
       "date_published": "2026-05-23",
       "tags": [
-        "systemdesign",
-        "distributedsystems",
-        "microservices"
+        "webdev",
+        "react",
+        "tailwindcss",
+        "showdev"
       ],
       "_source": "Dev.to"
     }
