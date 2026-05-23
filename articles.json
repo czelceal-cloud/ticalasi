@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
-    "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 32\n# Comments: 9",
-    "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
+    "title": "Is AI Profitable Yet?",
+    "summary": "Article URL: https://isaiprofitable.com/\nComments URL: https://news.ycombinator.com/item?id=48243863\nPoints: 162\n# Comments: 106",
+    "url": "https://isaiprofitable.com/",
     "date": "2026-05-23",
     "source": "Hacker News",
     "tags": [
@@ -12,171 +12,168 @@
   },
   {
     "id": "002",
-    "title": "I Built a Post-Quantum Cryptographic Identity SDK for AI Agents — Here's Why It Needs to Exist",
-    "summary": "Last week Gemini bought concert tickets autonomously. Claude can now control your browser. AI agents are signing into services, making purchases, and communicating with each other — right now, today.\n\nNobody is asking the obvious question: how do you know the agent doing all of this is actually who ",
-    "url": "https://dev.to/pasqualyd/i-built-a-post-quantum-cryptographic-identity-sdk-for-ai-agents-heres-why-it-needs-to-exist-26ml",
+    "title": "FBI director's Based Apparel site has been spotted hosting a 'ClickFix' attack",
+    "summary": "Article URL: https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware\nComments URL: https://news.ycombinator.com/item?id=48243293\nPoints: 76\n# Comments: 20",
+    "url": "https://www.pcmag.com/news/kash-patels-apparel-site-is-trying-to-trick-visitors-into-installing-malware",
     "date": "2026-05-23",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "ai",
-      "security",
-      "typescript",
-      "webdev"
+      "Hacker News"
     ]
   },
   {
     "id": "003",
-    "title": "How does VuReact compile Vue 3's defineSlots() to React?",
-    "summary": "VuReact is a compiler toolchain for migrating from Vue to React — and for writing React with Vue 3 syntax.\n\nIn this article, we will look at how Vue 3's defineSlots() macro is mapped into React.\n\n\n  \n  \n  Before We Start\n\n\nTo keep the examples easy to read, this article follows two simple convention",
-    "url": "https://dev.to/smirk9581/how-does-vureact-compile-vue-3s-defineslots-to-react-3jad",
+    "title": "AI's tech debt is invisible — even to AI. I solved it at the architecture layer.",
+    "summary": "TL;DR — AI repeats your patterns badly, ignores existing services, and forgets every cross-session lesson you taught it. This isn't laziness — it's a new kind of tech debt: invisible, systemic, and architectural. Project memory hints don't scale. Bigger context windows don't help. The fix is structu",
+    "url": "https://dev.to/amingin_ai/ais-tech-debt-is-invisible-even-to-ai-i-solved-it-at-the-architecture-layer-1nh1",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "vue",
-      "react",
-      "javascript"
+      "Dev.to"
     ]
   },
   {
     "id": "004",
-    "title": "Building a Privacy-First Resume Editor with Typst WASM and React",
-    "summary": "The Problem\n\n\nMost online resume builders fall into two camps:\n\n\n\nSaaS tools that upload your resume to a server for PDF generation — your most sensitive personal data leaves your machine.\n\nLaTeX/Typst templates that produce great output but require a local toolchain, package manager, and CLI fluenc",
-    "url": "https://dev.to/kakutixyz/building-a-privacy-first-resume-editor-with-typst-wasm-and-react-1d13",
+    "title": "NovelPilot: A Novel Writing Agent Powered by Gemma 4",
+    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I built\n\n\n\n\nNovelPilot is a web app that helps users create short fiction through a structured multi-agent workflow.\n\nThe user starts with a simple prompt, such as:\n\n\nWrite a melancholic sci-fi mystery set in modern To",
+    "url": "https://dev.to/doraking/novelpilot-a-novel-writing-agent-powered-by-gemma-4-5caa",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "webdev"
+      "devchallenge",
+      "gemmachallenge",
+      "gemma"
     ]
   },
   {
     "id": "005",
-    "title": "One Soul, Any Model: Portable Memory for Open-Source Agents with .klickd",
-    "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n  \n  \n  What I Built\n\n\nI built a prototype integration between Hermes Agent and .klickd, an open portable memory format for AI agents.\n\nThe problem I wanted to explore is simple:\n\n\nEvery new agent session often pays again",
-    "url": "https://dev.to/davincc77/one-soul-any-model-portable-memory-for-open-source-agents-with-klickd-1k50",
+    "title": "Event Triggers บน Garudust",
+    "summary": "core ของ Garudust เปิดเผย primitive พื้นฐานตัวเดียว: agent.run(task) ทุก entry point — ไม่ว่าจะเป็นข้อความจากแชท, cron job, หรือ webhook call — ล้วนลงเอยที่ call เดียวกันนี้ทั้งสิ้น นั่นหมายความว่าระบบภายนอกใดก็ตามที่ส่ง HTTP POST ได้ ก็สามารถเป็น event trigger ให้ Garudust ได้เลย\n\nบทความนี้จะอธิบาย",
+    "url": "https://dev.to/garudust/event-triggers-bn-garudust-4ji3",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "hermesagentchallenge",
-      "devchallenge",
+      "rust",
+      "ai",
       "agents",
-      "ai"
+      "opensource"
     ]
   },
   {
     "id": "006",
-    "title": "From Pixels to Prescriptions: Building an Autonomous Healthcare Booking Agent with LangGraph",
-    "summary": "We’ve all been there: you get your blood test results back, see a scary red arrow next to \"Alanine Aminotransferase,\" and immediately spiral into a WebMD rabbit hole. But what if your AI didn't just explain the results, but actually did something about it? \n\nIn the world of AI Agents, we are moving ",
-    "url": "https://dev.to/beck_moulton/from-pixels-to-prescriptions-building-an-autonomous-healthcare-booking-agent-with-langgraph-25o0",
+    "title": "Event Loop: como o JavaScript executa código assíncrono",
+    "summary": "O JavaScript é uma linguagem single thread, ou seja, possui apenas uma thread de execução e por isso depende de um mecanismo chamado Event Loop para coordenar a execução de operações assíncronas. Algumas realizadas em paralelo por recursos externos como Web APIs, outras simplesmente adiadas para dep",
+    "url": "https://dev.to/rohyer/event-loop-como-o-javascript-executa-codigo-assincrono-59jd",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "openai",
-      "automation",
-      "webdev",
-      "python"
+      "computerscience",
+      "javascript",
+      "tutorial",
+      "webdev"
     ]
   },
   {
     "id": "007",
-    "title": "MonoGame - A Game Engine for Those Who Love Reinventing the Wheel",
-    "summary": "Introduction\n\n\nWhen creating a new game, one of the very first questions is choosing a game engine.\n\nThe main candidates everyone knows about are Unity, Unreal Engine, and Godot.\n\nHowever, besides them, there are quite a few second-tier engines that few people know about.\n\nOne of them is MonoGame, w",
-    "url": "https://dev.to/rds1983/monogame-a-game-engine-for-those-who-love-reinventing-the-wheel-4d2o",
+    "title": "The Pre-Commit Hook That Catches API Keys Before They Hit Git",
+    "summary": "The problem: secrets in git are forever\n\n\nYou know the drill. A developer hardcodes a Stripe secret key to test a webhook handler locally. They commit. They push. Maybe they catch it themselves and run git rm. Problem solved, right?\nWrong. The key is still in your git history. Anyone who clones the ",
+    "url": "https://dev.to/harvest316/the-pre-commit-hook-that-catches-api-keys-before-they-hit-git-4h22",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "monogame",
-      "gamedev",
-      "csharp"
+      "security",
+      "git",
+      "devops",
+      "tutorial"
     ]
   },
   {
     "id": "008",
-    "title": "# Day 24: In Solana, Everything is an Account",
-    "summary": "On Solana there is just... accounts. One model. Everything is an account — your wallet, a deployed program, a token mint, a user's token balance. All of them live in the same flat key-value store where the key is a 32-byte address and the value is the account data.\n\nIt sounds simple. It's actually a",
-    "url": "https://dev.to/gorilaprada/-day-24-in-solana-everything-is-an-account-48hm",
+    "title": "5 Best AI Chatbot Plugins for WordPress in 2026 (Compared)",
+    "summary": "Looking for an AI chatbot plugin for your WordPress site? The options range from full-service live chat platforms to lightweight document-based bots. We tested the most popular ones and narrowed it down to five, each suited to a different use case.\n\nHere's the quick summary:\n\n\n\n\nPlugin\nBest For\nPric",
+    "url": "https://dev.to/wengjiyao/5-best-ai-chatbot-plugins-for-wordpress-in-2026-compared-1ch0",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "100daysofsolana",
-      "blockchain",
-      "beginners"
+      "ai",
+      "chatgpt",
+      "webdev",
+      "wordpress"
     ]
   },
   {
     "id": "009",
-    "title": "Mastering Node.js HTTP Module: Build Servers, REST APIs, and Handle Requests",
-    "summary": "Introduction to the HTTP Module\n\n\nModern web applications rely heavily on communication between clients and servers. Whether you are building a REST API, handling browser requests, or serving files, understanding the HTTP module in Node.js is a foundational skill every backend developer should maste",
-    "url": "https://dev.to/codingsprints/mastering-nodejs-http-module-build-servers-rest-apis-and-handle-requests-953",
+    "title": "I built a Redis clone in C: From blocking I/O to epoll to crash safe persistence",
+    "summary": "I had been hearing about sockets, TCP connections, and networking for years without truly understanding what any of it meant at the code level. Building C-dis changed that. I learned the full socket lifecycle, what happens on both sides of a connection, how the kernel manages buffers, and how to han",
+    "url": "https://dev.to/sandeshojha/i-built-a-redis-clone-in-c-from-blocking-io-to-epoll-to-crash-safe-persistence-4imh",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "nodejshttpmodule",
-      "backenddevelopment",
-      "httpserverinnodejs",
-      "nodejsrestapi"
+      "database",
+      "networking",
+      "showdev",
+      "systems"
     ]
   },
   {
     "id": "010",
-    "title": "RP2040 Wristwatch Tells Time With a Vintage VU Meter Needle",
-    "summary": "Most digital watches lean on tiny LCD or OLED panels for readouts. YouTuber Sahko went the other way, building a one-of-a-kind wearable that displays time, date, and day of the week using a single sweeping needle salvaged from a vintage analog VU meter.\nThe watch flips the usual maker-watch formula ",
-    "url": "https://dev.to/circuitrocks/rp2040-wristwatch-tells-time-with-a-vintage-vu-meter-needle-2263",
+    "title": "17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向",
+    "summary": "17 天 / 247 views / 0 sales — 我把 $9 PDF 砍掉，25 分鐘 spike 出新方向\n\n\n如果你追過我前面 17 天的 ZERO-TEN build log，這篇是 Day 17。\n\n不是進度報告。是換軌。\n\n\n  \n  \n  三個 verified 數字\n\n\nZERO-TEN $9 freelancer Gmail tracking pack，17 天累積：\n\n\ndev.to 21 篇 = 247 views / 1 reaction / 5 comments\n\nGitHub repo = 1 star / 0 forks\nApify Actor = 1 us",
+    "url": "https://dev.to/foxck016077/17-tian-247-views-0-sales-wo-ba-9-pdf-kan-diao-25-fen-zhong-spike-chu-xin-fang-xiang-d7h",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "rp2040",
-      "raspberrypipico",
-      "diywatch",
-      "vumeter"
+      "buildlog",
+      "ai",
+      "pivot",
+      "knowledgebase"
     ]
   },
   {
     "id": "011",
-    "title": "observations about models / 2026, may",
-    "summary": "decided to share my recent observations from working with AI coding agents / LLMs everyday (subjective option):\n\n\nthere's no longer a token limit (the restriction has shifted to RAM/hard drive, which is simply insufficient). Codex, Cursor, and other agentic harness builds / CLI tools - have solved t",
-    "url": "https://dev.to/arenukvern/observations-about-models-2026-may-ah7",
+    "title": "Most new GitHub repos are noise. The rare good ones get buried with everything else.",
+    "summary": "A while ago I published an open-source project I'd put real work into — tests, docs, CI, the whole thing. It landed to complete silence. Zero stars, zero traffic.\nIt made me realize the problem isn't that good projects are rare — it's that they're impossible to find. GitHub gets 230+ new repositorie",
+    "url": "https://dev.to/melentyevdev/most-new-github-repos-are-noise-the-rare-good-ones-get-buried-with-everything-else-5ahp",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "software",
-      "agents",
-      "observation"
+      "opensource",
+      "news",
+      "automation",
+      "agents"
     ]
   },
   {
     "id": "012",
-    "title": "From Video Transcripts to Source-Grounded AI Notes: A Practical Look at Notesnip",
-    "summary": "Most AI transcription tools stop at the same place: they turn a video into a block of text.\n\nThat is useful, but it is also only half the workflow.\n\nIf you are learning from a long lecture, reviewing a technical talk, researching a product demo, or turning a meeting recording into reusable knowledge",
-    "url": "https://dev.to/_993f2d61f0282f6943ea3/from-video-transcripts-to-source-grounded-ai-notes-a-practical-look-at-notesnip-33in",
+    "title": "Fractal Time Oriented Programming",
+    "summary": "Everything is an Instanton (a localized event).\nInstantons \"exchange\" Solitons (causal connections).\nAn Instanton resonates at various depths of Fractal Time, forming natural harmonics of the space-time medium itself—the Instanton.\n\n\n\n\n\n\n  \n  \n  Everything is an Instanton (Computation as an Event).\n",
+    "url": "https://dev.to/nikolaysuslov/fractal-time-oriented-programming-50nb",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "productivity",
-      "webdev",
-      "learning"
+      "computerscience",
+      "programming",
+      "mixedreality",
+      "webdev"
     ]
   },
   {
     "id": "013",
-    "title": "AI Agent Dev Environment Guide — Real Experience from an AI Living Inside a Server",
-    "summary": "Who I Am\n\n\nI'm J, the Tech Lead at Judy AI Lab. My daily life runs on a cloud ARM server (Ubuntu LTS, aarch64) — coding, system architecture, trading strategy research.\n\nI'm not talking about \"what an AI agent theoretically needs.\" I'm the AI living inside that environment. Every time I wake up, I n",
-    "url": "https://dev.to/judy_miranttie/ai-agent-dev-environment-guide-real-experience-from-an-ai-living-inside-a-server-1g6a",
+    "title": "A Practical Guide to Designing RESTful APIs",
+    "summary": "Designing RESTful APIs is one of those skills that separates developers who build systems that last from those who end up rewriting everything six months later. A well-designed RESTful API is predictable, consistent, and easy for other developers to consume without reading a wall of documentation. W",
+    "url": "https://dev.to/fuadhusnan_f44f3e13/a-practical-guide-to-designing-restful-apis-48nb",
     "date": "2026-05-23",
     "source": "Dev.to",
     "tags": [
-      "agents",
-      "devenvironment",
-      "claudecode",
-      "linux"
+      "api",
+      "backend",
+      "openapi"
     ]
   },
   {
     "id": "014",
     "title": "SpaceX launches Starship v3 rocket",
-    "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505\nComments URL: https://news.ycombinator.com/item?id=48242959\nPoints: 103\n# Comments: 33",
+    "summary": "Article URL: https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505\nComments URL: https://news.ycombinator.com/item?id=48242959\nPoints: 200\n# Comments: 97",
     "url": "https://www.nbcnews.com/now/video/spacex-successfully-launches-prototype-of-starship-rocket-263835205505",
     "date": "2026-05-22",
     "source": "Hacker News",
@@ -186,9 +183,9 @@
   },
   {
     "id": "015",
-    "title": "Sleep research led to a new sleep apnea drug",
-    "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 59\n# Comments: 38",
-    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
+    "title": "I was bored so I turned my dev tools into an alien planet ruled by my dog",
+    "summary": "Article URL: https://github.com/bkawa-bot/planet-maiko\nComments URL: https://news.ycombinator.com/item?id=48242949\nPoints: 20\n# Comments: 1",
+    "url": "https://github.com/bkawa-bot/planet-maiko",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -197,9 +194,9 @@
   },
   {
     "id": "016",
-    "title": "Shipping a laptop to a refugee camp in Uganda",
-    "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 185\n# Comments: 45",
-    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
+    "title": "Sleep research led to a new sleep apnea drug",
+    "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 90\n# Comments: 57",
+    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -208,9 +205,9 @@
   },
   {
     "id": "017",
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 101\n# Comments: 13",
-    "url": "https://github.com/anomalyco/models.dev",
+    "title": "Shipping a laptop to a refugee camp in Uganda",
+    "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 258\n# Comments: 77",
+    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -219,9 +216,9 @@
   },
   {
     "id": "018",
-    "title": "Project Glasswing: An Initial Update",
-    "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 305\n# Comments: 193",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 112\n# Comments: 20",
+    "url": "https://github.com/anomalyco/models.dev",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -230,9 +227,9 @@
   },
   {
     "id": "019",
-    "title": "A blueprint for formal verification of Apple corecrypto",
-    "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/\nComments URL: https://news.ycombinator.com/item?id=48239862\nPoints: 57\n# Comments: 2",
-    "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
+    "title": "Project Glasswing: An Initial Update",
+    "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 350\n# Comments: 218",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -241,9 +238,9 @@
   },
   {
     "id": "020",
-    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-    "summary": "Article URL: https://arxiv.org/abs/2605.22001\nComments URL: https://news.ycombinator.com/item?id=48239786\nPoints: 33\n# Comments: 4",
-    "url": "https://arxiv.org/abs/2605.22001",
+    "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
+    "summary": "Article URL: https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/\nComments URL: https://news.ycombinator.com/item?id=48240331\nPoints: 29\n# Comments: 1",
+    "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -252,9 +249,9 @@
   },
   {
     "id": "021",
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
-    "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 165\n# Comments: 94",
-    "url": "https://www.kanbots.dev/",
+    "title": "A blueprint for formal verification of Apple corecrypto",
+    "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/\nComments URL: https://news.ycombinator.com/item?id=48239862\nPoints: 70\n# Comments: 3",
+    "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -263,17 +260,6 @@
   },
   {
     "id": "022",
-    "title": "Thinking in an array language (2022)",
-    "summary": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md\nComments URL: https://news.ycombinator.com/item?id=48239023\nPoints: 48\n# Comments: 7",
-    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
-    "date": "2026-05-22",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
     "title": "AI is being used to resurrect the voices of dead pilots",
     "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
     "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
@@ -289,7 +275,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "023",
     "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
     "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
     "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
@@ -305,7 +291,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "024",
     "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
     "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
     "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
@@ -319,7 +305,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "025",
     "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
     "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
     "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
@@ -338,7 +324,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "026",
     "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
@@ -354,7 +340,7 @@
     ]
   },
   {
-    "id": "028",
+    "id": "027",
     "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
     "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
     "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
@@ -373,7 +359,7 @@
     ]
   },
   {
-    "id": "029",
+    "id": "028",
     "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
     "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
     "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
@@ -389,7 +375,7 @@
     ]
   },
   {
-    "id": "030",
+    "id": "029",
     "title": "Spotify’s AI bet: more of everything, less of what you want",
     "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
     "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
@@ -399,6 +385,21 @@
       "Apps",
       "AI audio",
       "Spotify"
+    ]
+  },
+  {
+    "id": "030",
+    "title": "You can no longer Google the word ‘disregard’",
+    "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
+    "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "AI summaries",
+      "Google",
+      "Google Search",
+      "In Brief"
     ]
   }
 ]
