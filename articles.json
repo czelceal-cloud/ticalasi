@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "NTSB pulls docket after AI recreates dead pilots' voices",
-    "summary": "Article URL: https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/\nComments URL: https://news.ycombinator.com/item?id=48241501\nPoints: 17\n# Comments: 9",
-    "url": "https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/",
+    "title": "Why We've Filed a Referendum",
+    "summary": "Article URL: https://www.stopstratos.org\nComments URL: https://news.ycombinator.com/item?id=48242668\nPoints: 8\n# Comments: 0",
+    "url": "https://www.stopstratos.org",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 55\n# Comments: 10",
-    "url": "https://github.com/anomalyco/models.dev",
+    "title": "Sleep research led to a new sleep apnea drug",
+    "summary": "Article URL: https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug\nComments URL: https://news.ycombinator.com/item?id=48242278\nPoints: 24\n# Comments: 4",
+    "url": "https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Linux Sound Subsystem Also Seeing Many Fixes Driven by AI/LLMs",
-    "summary": "Article URL: https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes\nComments URL: https://news.ycombinator.com/item?id=48240454\nPoints: 19\n# Comments: 1",
-    "url": "https://www.phoronix.com/news/Linux-7.1-Sound-Many-Fixes",
+    "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+    "summary": "Article URL: https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda\nComments URL: https://news.ycombinator.com/item?id=48241997\nPoints: 94\n# Comments: 9",
+    "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Project Glasswing: An Initial Update",
-    "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 170\n# Comments: 104",
-    "url": "https://www.anthropic.com/research/glasswing-initial-update",
+    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+    "summary": "Article URL: https://github.com/anomalyco/models.dev\nComments URL: https://news.ycombinator.com/item?id=48241172\nPoints: 83\n# Comments: 11",
+    "url": "https://github.com/anomalyco/models.dev",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
-    "summary": "Article URL: https://arxiv.org/abs/2605.22001\nComments URL: https://news.ycombinator.com/item?id=48239786\nPoints: 20\n# Comments: 2",
-    "url": "https://arxiv.org/abs/2605.22001",
+    "title": "Project Glasswing: An Initial Update",
+    "summary": "Article URL: https://www.anthropic.com/research/glasswing-initial-update\nComments URL: https://news.ycombinator.com/item?id=48240419\nPoints: 263\n# Comments: 177",
+    "url": "https://www.anthropic.com/research/glasswing-initial-update",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Open source Kanban desktop app that runs parallel agents on every card",
-    "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 109\n# Comments: 60",
-    "url": "https://www.kanbots.dev/",
+    "title": "A blueprint for formal verification of Apple corecrypto",
+    "summary": "Article URL: https://security.apple.com/blog/formal-verification-corecrypto/\nComments URL: https://news.ycombinator.com/item?id=48239862\nPoints: 37\n# Comments: 1",
+    "url": "https://security.apple.com/blog/formal-verification-corecrypto/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Thinking in an array language (2022)",
-    "summary": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md\nComments URL: https://news.ycombinator.com/item?id=48239023\nPoints: 29\n# Comments: 2",
-    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
+    "title": "Domain-Camouflaged Injection Attacks Evade Detection in Multi-Agent LLM Systems",
+    "summary": "Article URL: https://arxiv.org/abs/2605.22001\nComments URL: https://news.ycombinator.com/item?id=48239786\nPoints: 28\n# Comments: 4",
+    "url": "https://arxiv.org/abs/2605.22001",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "TorQ: Kdb+ Production Framework",
-    "summary": "Article URL: https://github.com/DataIntellectTech/TorQ\nComments URL: https://news.ycombinator.com/item?id=48238887\nPoints: 19\n# Comments: 3",
-    "url": "https://github.com/DataIntellectTech/TorQ",
+    "title": "Open source Kanban desktop app that runs parallel agents on every card",
+    "summary": "Article URL: https://www.kanbots.dev/\nComments URL: https://news.ycombinator.com/item?id=48239413\nPoints: 146\n# Comments: 85",
+    "url": "https://www.kanbots.dev/",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Bun support is now limited and deprecated",
-    "summary": "Article URL: https://github.com/yt-dlp/yt-dlp/issues/16766\nComments URL: https://news.ycombinator.com/item?id=48238789\nPoints: 272\n# Comments: 264",
-    "url": "https://github.com/yt-dlp/yt-dlp/issues/16766",
+    "title": "Thinking in an array language (2022)",
+    "summary": "Article URL: https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md\nComments URL: https://news.ycombinator.com/item?id=48239023\nPoints: 35\n# Comments: 7",
+    "url": "https://github.com/razetime/ngn-k-tutorial/blob/main/12-thinking-in-k.md",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "summary": "Article URL: https://www.1940airterminal.org/news/liquidation-of-simulators\nComments URL: https://news.ycombinator.com/item?id=48238568\nPoints: 56\n# Comments: 12",
-    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+    "title": "TorQ: Kdb+ Production Framework",
+    "summary": "Article URL: https://github.com/DataIntellectTech/TorQ\nComments URL: https://news.ycombinator.com/item?id=48238887\nPoints: 25\n# Comments: 3",
+    "url": "https://github.com/DataIntellectTech/TorQ",
     "date": "2026-05-22",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,38 @@
   },
   {
     "id": "011",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Transportation",
+      "crash",
+      "flight",
+      "In Brief",
+      "NTSB"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "SpaceX launches Starship V3 for the first time, but loses booster on return",
+    "summary": "The company had a mostly successful first launch of its upgraded Starship V3, which it needs to power its many ambitious goals in the years to come.",
+    "url": "https://techcrunch.com/2026/05/22/spacex-launches-starship-v3-for-the-first-time-but-loses-booster-on-return/",
+    "date": "2026-05-22",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "TC",
+      "SpaceX",
+      "Starlink",
+      "Starship",
+      "starship v3"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Blue Origin cleared to fly New Glenn mega-rocket after April mishap",
     "summary": "Jeff Bezos' rocket company confirmed an engine failure led to the loss of an AST SpaceMobile satellite last month, but offered little detail.",
     "url": "https://techcrunch.com/2026/05/22/blue-origin-cleared-to-fly-new-glenn-mega-rocket-after-april-mishap/",
@@ -119,13 +151,14 @@
     "tags": [
       "Space",
       "Blue Origin",
+      "In Brief",
       "new glenn"
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-    "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+    "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
     "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
     "date": "2026-05-22",
     "source": "TechCrunch",
@@ -142,8 +175,8 @@
     ]
   },
   {
-    "id": "013",
-    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "id": "015",
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
     "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
     "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
     "date": "2026-05-22",
@@ -158,7 +191,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "016",
     "title": "Kash Patel’s clothing brand website shut down after reports it was hacked",
     "summary": "According to users on X, the website was hijacked by hackers in an attempt to trick visitors into installing malware.",
     "url": "https://techcrunch.com/2026/05/22/kash-patels-clothing-brand-website-shut-down-after-reports-it-was-hacked/",
@@ -177,7 +210,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "017",
     "title": "Apple says Epic lawsuit shouldn’t reshape App Store rules for all developers",
     "summary": "Apple is asking the Supreme Court to narrow the App Store injunction won by Epic Games and overturn the court’s contempt ruling over external payment fees.",
     "url": "https://techcrunch.com/2026/05/22/apple-says-epic-lawsuit-shouldnt-reshape-app-store-rules-for-all-developers/",
@@ -193,7 +226,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "Spotify’s AI bet: more of everything, less of what you want",
     "summary": "Spotify has released a bunch of AI-powered tools that nudge users to create more content. It can be a bit much.",
     "url": "https://techcrunch.com/2026/05/22/spotifys-ai-bet-more-of-everything-less-of-what-you-want/",
@@ -206,7 +239,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "You can no longer Google the word ‘disregard’",
     "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
     "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -221,7 +254,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "We tried Google’s AI glasses and they’re almost there",
     "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
     "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
@@ -240,7 +273,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "Trump Mobile confirms it exposed customers’ personal data, including phone numbers and home addresses",
     "summary": "President Trump’s branded cell phone maker and cell provider said the exposure was linked to a third-party platform and was evaluating whether it needs to notify customers.",
     "url": "https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/",
@@ -259,7 +292,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "022",
     "title": "SpaceX files to go public, and the math requires a little faith",
     "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that w",
     "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
@@ -279,7 +312,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "023",
     "title": "Meta quietly launches a new Reddit-like app called Forum",
     "summary": "The company describes the app as a \"dedicated space built for deeper discussions, real answers and communities you care about.\"",
     "url": "https://techcrunch.com/2026/05/22/meta-quietly-launches-a-new-reddit-like-app-called-forum/",
@@ -296,7 +329,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "024",
     "title": "Smart ring maker Oura files to go public",
     "summary": "The Finnish company said in September that it has sold 5.5 million smart rings to date.",
     "url": "https://techcrunch.com/2026/05/22/smart-ring-maker-oura-files-to-go-public/",
@@ -312,7 +345,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "025",
     "title": "Audio-generation app Huxe, founded by former NotebookLM developers, shuts down",
     "summary": "Huxe said that it has pulled its app from App Store and Play Store, and that it will stop working later this month.",
     "url": "https://techcrunch.com/2026/05/22/audio-generation-app-huxe-founded-by-former-notebooklm-developers-shuts-down/",
@@ -327,7 +360,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "026",
     "title": "Finnish phone maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market",
     "summary": "The partnership is a potential testing ground for both companies to gauge the appetite for an India-focused chatbot.",
     "url": "https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/",
@@ -343,7 +376,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "027",
     "title": "Waymo expands pause to four cities as robotaxis keep driving into floods",
     "summary": "Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.",
     "url": "https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/",
@@ -358,7 +391,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "028",
     "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
     "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
     "url": "https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/",
@@ -371,68 +404,35 @@
     ]
   },
   {
-    "id": "027",
-    "title": "The Boys is dead. Long live Vought Rising.",
-    "summary": "\"There's a brighter future. All we need to do is take it.\"",
-    "url": "https://arstechnica.com/culture/2026/05/the-boys-is-dead-long-live-vought-rising/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Culture",
-      "entertainment",
-      "prime video",
-      "streaming television",
-      "Trailers",
-      "vought rising"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Police boast of hacking VPN where criminals \"believed themselves to be safe\"",
-    "summary": "Law enforcement intercepted VPN traffic, seized domains, and arrested its operator.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/police-boast-of-hacking-vpn-where-criminals-believed-themselves-to-be-safe/",
-    "date": "2026-05-22",
-    "source": "Ars Technica",
-    "tags": [
-      "Policy",
-      "Security",
-      "First VPN",
-      "ransomware",
-      "VPN"
-    ]
-  },
-  {
     "id": "029",
-    "title": "Review: The Mandalorian and Grogu is ... fine",
-    "summary": "The plot is predictable, the fight scenes are meh, but you can't beat the charm of that little green Grogu.",
-    "url": "https://arstechnica.com/culture/2026/05/review-the-mandalorian-and-grogu-is-average-star-wars-no-more-no-less/",
+    "title": "Four Russian satellites are now within striking distance of an ICEYE radarsat",
+    "summary": "\"This capability is not common for satellites conducting typical missions.\"",
+    "url": "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
     "date": "2026-05-22",
     "source": "Ars Technica",
     "tags": [
-      "Culture",
-      "entertainment",
-      "film reviews",
-      "LucasFilms",
-      "reviews",
-      "Star Wars",
-      "The Mandalorian and Grogu"
+      "Space",
+      "Russia war on Ukraine",
+      "russian space agency",
+      "russian space program",
+      "spy satellites",
+      "Ukraine war"
     ]
   },
   {
     "id": "030",
-    "title": "Texas AG sues Meta over claims that WhatsApp doesn't provide end-to-end encryption",
-    "summary": "Critics note a lack of factual support in lawsuit filed by US Senate candidate.",
-    "url": "https://arstechnica.com/security/2026/05/texas-ag-sues-meta-over-claims-that-whatsapp-doesnt-provide-end-to-end-encryption/",
+    "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\"",
+    "summary": "Ebola outbreak risk level increased as deaths reach 177 with nearly 750 cases.",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
     "date": "2026-05-22",
     "source": "Ars Technica",
     "tags": [
-      "Biz & IT",
-      "Policy",
-      "Security",
-      "cryptography",
-      "encryption",
-      "meta",
-      "whatsapp"
+      "Health",
+      "CDC",
+      "drc",
+      "ebola",
+      "uganda",
+      "WHO"
     ]
   }
 ]
