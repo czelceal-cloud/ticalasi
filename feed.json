@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://veronicaexplains.net/my-first-writerdeck/",
-      "title": "It's time to talk about my writerdeck",
-      "summary": "Article URL: https://veronicaexplains.net/my-first-writerdeck/\nComments URL: https://news.ycombinator.com/item?id=48250144\nPoints: 157\n# Comments: 94",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "title": "My I3-Emacs Integration",
+      "summary": "Article URL: https://khz.ac/software/i3-integration.html\nComments URL: https://news.ycombinator.com/item?id=48252535\nPoints: 6\n# Comments: 0",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-      "title": "Texas woman arrested for Facebook post about town water quality",
-      "summary": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality\nComments URL: https://news.ycombinator.com/item?id=48249747\nPoints: 482\n# Comments: 219",
+      "url": "https://susam.net/do-not-roll-your-own.html",
+      "title": "Don't Roll Your Own",
+      "summary": "Article URL: https://susam.net/do-not-roll-your-own.html\nComments URL: https://news.ycombinator.com/item?id=48252192\nPoints: 44\n# Comments: 31",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
-      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "summary": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\nComments URL: https://news.ycombinator.com/item?id=48248954\nPoints: 72\n# Comments: 5",
+      "url": "https://www.c82.net/euclid/",
+      "title": "Byrne's Euclid",
+      "summary": "Article URL: https://www.c82.net/euclid/\nComments URL: https://news.ycombinator.com/item?id=48252146\nPoints: 6\n# Comments: 2",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://chipsandcheese.com/p/evaluating-spec-cpu2026",
-      "title": "Evaluating Spec CPU2026",
-      "summary": "Article URL: https://chipsandcheese.com/p/evaluating-spec-cpu2026\nComments URL: https://news.ycombinator.com/item?id=48248861\nPoints: 20\n# Comments: 3",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
+      "title": "Toxic chemical leak at a manufacturing facility in Orange County",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go\nComments URL: https://news.ycombinator.com/item?id=48252060\nPoints: 66\n# Comments: 38",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-      "title": "Italy moves to Airbus A330 tankers",
-      "summary": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\nComments URL: https://news.ycombinator.com/item?id=48248775\nPoints: 210\n# Comments: 65",
+      "url": "https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/",
+      "title": "A self-powered computer in actual credit-card size (~1mm thick)",
+      "summary": "Article URL: https://old.reddit.com/r/electronics/comments/1td7yxl/i_built_a_fully_selfpowered_computer_in_actual/\nComments URL: https://news.ycombinator.com/item?id=48251528\nPoints: 39\n# Comments: 4",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://susam.net/lisp-in-vim.html",
-      "title": "Lisp in Vim (2019)",
-      "summary": "Article URL: https://susam.net/lisp-in-vim.html\nComments URL: https://news.ycombinator.com/item?id=48248238\nPoints: 43\n# Comments: 6",
+      "url": "https://veronicaexplains.net/my-first-writerdeck/",
+      "title": "It's time to talk about my writerdeck",
+      "summary": "Article URL: https://veronicaexplains.net/my-first-writerdeck/\nComments URL: https://news.ycombinator.com/item?id=48250144\nPoints: 235\n# Comments: 123",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://nand2mario.github.io/posts/2026/z386/",
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
-      "summary": "Article URL: https://nand2mario.github.io/posts/2026/z386/\nComments URL: https://news.ycombinator.com/item?id=48248014\nPoints: 102\n# Comments: 20",
+      "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "summary": "Article URL: https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality\nComments URL: https://news.ycombinator.com/item?id=48249747\nPoints: 589\n# Comments: 254",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
-      "title": "Oura says it gets government demands for user data",
-      "summary": "Article URL: https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/\nComments URL: https://news.ycombinator.com/item?id=48247876\nPoints: 235\n# Comments: 135",
+      "url": "https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html",
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "summary": "Article URL: https://www.righto.com/2026/05/reverse-engineering-spacelab-computer.html\nComments URL: https://news.ycombinator.com/item?id=48248954\nPoints: 78\n# Comments: 9",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://benmyers.dev/blog/on-the-dl/",
-      "title": "On The  (2021)",
-      "summary": "Article URL: https://benmyers.dev/blog/on-the-dl/\nComments URL: https://news.ycombinator.com/item?id=48247325\nPoints: 316\n# Comments: 100",
+      "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+      "title": "Italy moves to Airbus A330 tankers",
+      "summary": "Article URL: https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift\nComments URL: https://news.ycombinator.com/item?id=48248775\nPoints: 223\n# Comments: 76",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -106,17 +106,6 @@
     },
     {
       "id": "010",
-      "url": "https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/",
-      "title": "The Art of Money Getting",
-      "summary": "Article URL: https://kk.org/cooltools/book-freak-210-the-art-of-money-getting/\nComments URL: https://news.ycombinator.com/item?id=48247208\nPoints: 152\n# Comments: 105",
-      "date_published": "2026-05-23",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "011",
       "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
       "title": "SolarSquare in talks to raise up to $60M as India’s rooftop solar market draws major VC interest",
       "summary": "SolarSquare could be valued at up to $500 million in the financing expected to close next month.",
@@ -133,7 +122,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "011",
       "url": "https://techcrunch.com/2026/05/23/you-dont-have-to-click-anything-to-get-hacked-anymore-heres-how-to-fight-back/",
       "title": "These special phone and app features can help protect you from spyware",
       "summary": "Apple, Meta, and Google offer special security modes that provide your devices more secure against targeted spyware attacks. Here are how those modes work, what they do, and how to switch them on.",
@@ -156,7 +145,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
@@ -173,7 +162,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "013",
       "url": "https://techcrunch.com/2026/05/23/nuclear-startup-deep-fission-says-its-going-public-again-and-i-have-questions/",
       "title": "Nuclear startup Deep Fission says it’s going public, again, and I have questions",
       "summary": "Deep Fission is seeking an IPO that could raise $157 million, though investors may have trouble buying the nuclear startup's story.",
@@ -188,7 +177,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "title": "Elon Musk has given up on solar power (on Earth)",
       "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
@@ -207,7 +196,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
       "title": "Peec, one of Berlin’s rising startups, more than doubled annualized revenue in months to $10M, sources say",
       "summary": "Peec, which helps brands track their presence in AI searches, offers proof of a key trend among European startups.",
@@ -222,7 +211,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "016",
       "url": "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
       "title": "SpaceX's Starship V3—still a work in progress—mostly successful on first flight",
       "summary": "SpaceX has more to prove before flying Starship all the way to low-Earth orbit.",
@@ -245,7 +234,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "018",
+      "id": "017",
       "url": "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
       "title": "Two space shuttle-era spacewalkers enter Astronaut Hall of Fame",
       "summary": "\"Two astronauts whose careers embody excellence, leadership, and service.\"",
@@ -273,7 +262,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "019",
+      "id": "018",
       "url": "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
       "title": "China’s shark finning could lead to US seafood sanctions",
       "summary": "A formal petition to the US government calls for sanctions on Chinese seafood imports.",
@@ -289,6 +278,21 @@
         "syndication"
       ],
       "_source": "Ars Technica"
+    },
+    {
+      "id": "019",
+      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "title": "Record Club is trying to be Letterboxd for music nerds",
+      "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits and connecting with othe",
+      "date_published": "2026-05-23",
+      "tags": [
+        "Culture",
+        "Entertainment",
+        "Internet Culture",
+        "Music",
+        "News"
+      ],
+      "_source": "The Verge"
     },
     {
       "id": "020",
