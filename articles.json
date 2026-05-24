@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "The Worlds Left to Conquer",
-    "summary": "Article URL: https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/\nComments URL: https://news.ycombinator.com/item?id=48256192\nPoints: 10\n# Comments: 3",
-    "url": "https://ludic.mataroa.blog/blog/the-worlds-left-to-conquer/",
+    "title": "Childhood Computing",
+    "summary": "Article URL: https://susam.net/childhood-computing.html\nComments URL: https://news.ycombinator.com/item?id=48256597\nPoints: 35\n# Comments: 14",
+    "url": "https://susam.net/childhood-computing.html",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-    "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 50\n# Comments: 20",
-    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+    "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+    "summary": "Article URL: https://apple.github.io/ml-pico/\nComments URL: https://news.ycombinator.com/item?id=48256565\nPoints: 3\n# Comments: 0",
+    "url": "https://apple.github.io/ml-pico/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "All Lean Books and Where to Find Them",
-    "summary": "Article URL: https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ\nComments URL: https://news.ycombinator.com/item?id=48255501\nPoints: 14\n# Comments: 0",
-    "url": "https://lakesare.brick.do/all-lean-books-and-where-to-find-them-x2nYwjM3AwBQ",
+    "title": "Mastering Dyalog APL",
+    "summary": "Article URL: https://mastering.dyalog.com/README.html\nComments URL: https://news.ycombinator.com/item?id=48256475\nPoints: 46\n# Comments: 3",
+    "url": "https://mastering.dyalog.com/README.html",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Amazon Web Services – Four Years and Out",
-    "summary": "Article URL: https://www.adventuresinoss.com/aws-four-years/\nComments URL: https://news.ycombinator.com/item?id=48254475\nPoints: 228\n# Comments: 82",
-    "url": "https://www.adventuresinoss.com/aws-four-years/",
+    "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+    "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 104\n# Comments: 63",
+    "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-    "summary": "Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\nComments URL: https://news.ycombinator.com/item?id=48254309\nPoints: 196\n# Comments: 83",
-    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+    "title": "Amazon Web Services – Four Years and Out",
+    "summary": "Article URL: https://www.adventuresinoss.com/aws-four-years/\nComments URL: https://news.ycombinator.com/item?id=48254475\nPoints: 259\n# Comments: 96",
+    "url": "https://www.adventuresinoss.com/aws-four-years/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "The C64 Dead Test Font",
-    "summary": "Article URL: https://www.masswerk.at/nowgobang/2026/c64-dead-test-font\nComments URL: https://news.ycombinator.com/item?id=48254236\nPoints: 60\n# Comments: 8",
-    "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
+    "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+    "summary": "Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\nComments URL: https://news.ycombinator.com/item?id=48254309\nPoints: 235\n# Comments: 112",
+    "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-    "summary": "Article URL: https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/\nComments URL: https://news.ycombinator.com/item?id=48254020\nPoints: 77\n# Comments: 14",
-    "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
+    "title": "The C64 Dead Test Font",
+    "summary": "Article URL: https://www.masswerk.at/nowgobang/2026/c64-dead-test-font\nComments URL: https://news.ycombinator.com/item?id=48254236\nPoints: 78\n# Comments: 14",
+    "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-    "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 294\n# Comments: 93",
-    "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+    "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
+    "summary": "Article URL: https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/\nComments URL: https://news.ycombinator.com/item?id=48254020\nPoints: 84\n# Comments: 20",
+    "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Scammers are abusing an internal Microsoft account to send spam links",
-    "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 173\n# Comments: 77",
-    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
+    "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+    "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 329\n# Comments: 101",
+    "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Wake up! 16b",
-    "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 278\n# Comments: 19",
-    "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+    "title": "Scammers are abusing an internal Microsoft account to send spam links",
+    "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 192\n# Comments: 96",
+    "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
     "date": "2026-05-24",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,35 @@
   },
   {
     "id": "011",
+    "title": "The Dreamie alarm clock got me to stop using my phone in bed",
+    "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
+    "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
+    "date": "2026-05-24",
+    "source": "TechCrunch",
+    "tags": [
+      "Hardware",
+      "dreamie"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Whatever the mirror test tells us, beluga whales pass it",
+    "summary": "The white whales join the short, contested list of animals that see themselves.",
+    "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+    "date": "2026-05-24",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "animal cognition",
+      "Biology",
+      "consciousness",
+      "mirror test",
+      "neurobiology",
+      "self-awareness"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Hackers are learning to exploit chatbot ‘personalities’",
     "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau",
     "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
@@ -125,7 +154,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
     "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually bet",
     "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
@@ -138,7 +167,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "015",
     "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
     "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
     "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
@@ -158,7 +187,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "016",
     "title": "The Best Browser Extensions to Get More Out of YouTube",
     "summary": "You can significantly improve the YouTube experience with these browser add-ons.",
     "url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
@@ -176,7 +205,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "017",
     "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
     "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
     "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
@@ -197,7 +226,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "14 New Tools for Taking on the Great Outdoors Properly",
     "summary": "It’s time to prep your kit ahead of the summer season. These tools will do the job.",
     "url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
@@ -217,7 +246,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
     "summary": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
     "url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
@@ -232,7 +261,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
     "summary": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
     "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
@@ -250,7 +279,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
     "summary": "There are black holes that are too big to be born from the death of a star but aren’t quite supermassive either. There’s finally evidence for where those came from.",
     "url": "https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/",
@@ -268,148 +297,128 @@
     ]
   },
   {
-    "id": "020",
-    "title": "How to Debug React Server Components in Production",
-    "summary": "I shipped a Next.js feature to production last year, and within ten minutes I got a Slack message with a screenshot of this:\n\n\n\nAn error occurred in the Server Components render.\nThe specific message is omitted in production builds to avoid\nleaking sensitive details. A digest property is included on",
-    "url": "https://dev.to/krunalkanojiya/how-to-debug-react-server-components-in-production-2i0e",
-    "date": "2026-05-24",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "programming",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "MIRAI MIND",
-    "summary": "What I Built\n\n\nMIRAI MIND is a futuristic AI-driven simulator that demonstrates how different Gemma 4 model tiers evolve from reactive assistance into predictive systemic reasoning.\nInstead of treating Large Language Models as “chatbots,” this project visualizes them as evolving cognitive engines ca",
-    "url": "https://dev.to/bala_chandarkumar_10ce55/mirai-mind-27jd",
-    "date": "2026-05-24",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
-    ]
-  },
-  {
     "id": "022",
-    "title": "Semantic Tags in HTML",
-    "summary": "What are Semantic Tags in HTML?\n\n\n\nSemantic tags are HTML tags that clearly describe the meaning or purpose of the content inside them.\n\nsemantic means “with meaning.” So, a semantic tag tells both the developer and the browser what the content is about.\n\nLet’s break it down step by step.\n\n1. Why Ar",
-    "url": "https://dev.to/raja_b_0c9d242e2c26cf063b/semantic-tags-in-html-m4n",
+    "title": "Real-time video classification with PaliGemma: architecture patterns for low-latency VLM inference",
+    "summary": "In a previous article, we benchmarked three open-source Vision-Language Models on zero-shot object detection and arrived at an uncomfortable conclusion: even the fastest contender, Phi-3.5-vision-instruct, takes 4.45 seconds per frame on an NVIDIA L4. LLaVA-v1.6 sits at 8.13 seconds. For any applica",
+    "url": "https://dev.to/pasquale_molinaro/real-time-video-classification-with-paligemma-architecture-patterns-for-low-latency-vlm-inference-2aj9",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
-      "semantic",
-      "html",
-      "css"
+      "computervision",
+      "ai",
+      "python",
+      "softwareengineering"
     ]
   },
   {
     "id": "023",
-    "title": "Shadow CTO — A GitHub Repo Memory Container Powered by Hermes Agent",
-    "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n  \n  \n  What I Built\n\n\nShadow CTO is a persistent AI memory system that watches any GitHub repository and answers natural language questions about why engineering decisions were made — not just what changed.\n\nAsk it \"Why ",
-    "url": "https://dev.to/pulkitgovrani/shadow-cto-a-github-repo-memory-container-powered-by-hermes-agent-8n6",
+    "title": "Building Dynamic Forms in React + Formik Using JSON Configuration (Part 1)",
+    "summary": "Recently, I started working on building a dynamic form system using React + Formik where the entire form UI was driven by JSON configuration instead of hardcoded components.\n\nInstead of manually writing fields like this:\n\n\n\nI wanted the frontend to dynamically render forms based on configuration rec",
+    "url": "https://dev.to/shivani_ravikumar/building-dynamic-forms-in-react-formik-using-json-configuration-part-1-3jod",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
-      "hermesagentchallenge",
-      "devchallenge",
-      "agents"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Pretty-print isn't enough. I built a JSON & XML viewer with a real table view.",
-    "summary": "Every JSON viewer I've tried does the same thing: it pretty-prints. Add indentation, color the keys, fold the brackets. Useful for a 10-line config — useless for the actual data shape developers deal with every day, which is an array of objects.\n\nA pretty-printed 50-row API response is still 500 lin",
-    "url": "https://dev.to/aleksandre_mtchedlishvili/pretty-print-isnt-enough-i-built-a-json-xml-viewer-with-a-real-table-view-2b99",
-    "date": "2026-05-24",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "performance",
-      "showdev"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Under the Hood: Demystifying Database Internals (InnoDB vs. ARCHIVE)",
-    "summary": "Most developers treat database engines as black boxes: you write a query, and data magically returns. But when data scales to millions of rows, understanding how that data sits on physical hardware changes how you build systems.\n\nIf you throw every single piece of data into your default database set",
-    "url": "https://dev.to/tejas1233/under-the-hood-demystifying-database-internals-innodb-vs-archive-327l",
-    "date": "2026-05-24",
-    "source": "Dev.to",
-    "tags": [
-      "systemdesign",
-      "database",
-      "intenal",
-      "systems"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Tracking Data Extract vs Data Views: Get Data Out of SFMC",
-    "summary": "Client wants their analyst team to have every tracking event in their data warehouse. Clicking CSV export from Tracking for each send doesn't scale. Two SFMC-native tools handle bulk tracking exports:\n\n\n Tracking Data Extract - automated exports to SFTP on a schedule\n SQL Query Activity against Data",
-    "url": "https://dev.to/sapotacorp/tracking-data-extract-vs-data-views-get-data-out-of-sfmc-54ha",
-    "date": "2026-05-24",
-    "source": "Dev.to",
-    "tags": [
+      "react",
+      "dynamicforms",
+      "formik",
       "webdev"
     ]
   },
   {
-    "id": "027",
-    "title": "Chain of Command in D365 F&O: three production pitfalls",
-    "summary": "Chain of Command became the default pattern for F&O customizations because the overlay approach was unsustainable - every One Version update broke something, and partners spent their upgrade budget repairing customizations that should have been forward-compatible by design. CoC lets an extension wra",
-    "url": "https://dev.to/sapotacorp/chain-of-command-in-d365-fo-three-production-pitfalls-4dm1",
+    "id": "024",
+    "title": "Understanding HTML & CSS with Simple project",
+    "summary": "Always there is a starting point for anything, here is my starting point where I created my portfolio with deep understanding rather than just copy paste 🫣\n\n\n\nEvery developer bound to understand why it works, how it works and where it works? Let me elaborate the understanding of my portfolio project",
+    "url": "https://dev.to/annapoo/understanding-html-css-with-simple-project-4ajb",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
-      "dynamics365"
+      "webdev",
+      "programming",
+      "tutorial",
+      "beginners"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "🔥 What’s Happening in Tech World Right Now? — AI, React 19, GPT-4o & More",
+    "summary": "🔥 What’s Happening in Tech World Right Now? — AI, React 19, GPT-4o & More\n\n\nThe tech world is moving insanely fast right now 🚀\n\nEvery week we’re seeing:\n\n\nNew AI tools\nBetter developer workflows\nFaster frameworks\nSmarter coding assistants\nHuge frontend ecosystem updates\n\n\nHere are some of the bigges",
+    "url": "https://dev.to/prem_gaikwad_316d716c3/whats-happening-in-tech-world-right-now-ai-react-19-gpt-4o-more-4n1p",
+    "date": "2026-05-24",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "ai",
+      "react",
+      "javascript"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Building a Real-Time Kafka + Cassandra Pipeline",
+    "summary": "Introduction\n\n\nApache Kafka and Apache Cassandra pair effectively because they complement each other's strengths: Kafka handles high throughput, real-time event streaming and ingestion, while Cassandra provides scalable, fault tolerant and low-latency persistent storage for processed data.\n\nExample:",
+    "url": "https://dev.to/geraldm/building-a-real-time-kafka-cassandra-pipeline-moe",
+    "date": "2026-05-24",
+    "source": "Dev.to",
+    "tags": [
+      "dataengineering",
+      "cassandra",
+      "kafka"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "A Beginners guide to Real-time Data Streaming with Apache Kafka",
+    "summary": "Introduction\n\n\nEver wondered how banks are able to detect and stop fraud in real-time? This is how they do it. \nBanks process thousands of transactions every second, end each transaction is recorded in backend systems as it happens. Instead of relying on traditional batch processing, With Kafka they",
+    "url": "https://dev.to/geraldm/a-beginners-guide-to-real-time-data-streaming-with-apache-kafka-4iaf",
+    "date": "2026-05-24",
+    "source": "Dev.to",
+    "tags": [
+      "beginners",
+      "kafka",
+      "datascience",
+      "dataengineering"
     ]
   },
   {
     "id": "028",
-    "title": "The Sleeper Announcement from Google I/O 2026 That Will Change How We Think About Apps",
-    "summary": "This is a submission for the Google I/O Writing Challenge\n\n\n\n\nEveryone walked away from Google I/O 2026 talking about Compose First, Gemini integrations, and Android 17's adaptive layout push. Fair — those are big. But the announcement I haven't been able to stop thinking about is one that barely go",
-    "url": "https://dev.to/vrushali_dev_15/the-sleeper-announcement-from-google-io-2026-that-will-change-how-we-think-about-apps-1gl6",
+    "title": "Getting Started with Gemini API Managed Agents — The Quickest Path from Prompt to Deployed Agent",
+    "summary": "This is a submission for the Google I/O 2026 Challenge: Explore Google I/O 2026\n\nGoogle shipped a lot of developer tooling at I/O 2026. The thing I want to actually build with is Managed Agents in the Gemini API.\n\nHere's the pitch: one API call provisions a fully-functional agent with a remote execu",
+    "url": "https://dev.to/pulkitgovrani/getting-started-with-gemini-api-managed-agents-the-quickest-path-from-prompt-to-deployed-agent-120h",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
       "devchallenge",
       "googleiochallenge",
-      "android",
-      "kotlin"
+      "ai",
+      "programming"
     ]
   },
   {
     "id": "029",
-    "title": "Building: Women's Safety Isn't About Women",
-    "summary": "I'm starting work on a project I've been thinking about for a long time.\n\nThe tagline is:\n\n\"Women's safety isn't about women.\"\n\nAt first glance, that sounds strange.\n\nBut the more I looked at the problem, the more I felt that most solutions focus on what happens after risk appears:\n\n\nEmergency butto",
-    "url": "https://dev.to/casperday11/building-womens-safety-isnt-about-women-32p1",
+    "title": "Vibe Thinking - The Developer Who Codes at the Speed of Thought",
+    "summary": "The team's AI coding tools are live. First week - output is genuinely impressive. PR count is up. Everyone's excited.\n\nAt the sprint review, the board looks the same.\n\nHalf the PRs are still waiting on review. Several came back with QA flags. A few were blocked by a requirements question nobody had ",
+    "url": "https://dev.to/flytebittechnologies/vibe-thinking-the-developer-who-codes-at-the-speed-of-thought-3hk",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "programming",
-      "opensource",
-      "agents"
+      "vibethinking",
+      "developerproductivity",
+      "vibecoding",
+      "aifordevs"
     ]
   },
   {
     "id": "030",
-    "title": "Shipping CareerForges Across Windows, Linux & macOS with Tauri + GitHub Actions 🚀 #Career Forges",
-    "summary": "Progress update on CareerForges 🚀\nJust finished setting up cross-platform desktop release pipelines using Tauri + GitHub Actions.\nCurrent progress:\n✅ Windows release workflow\n✅ Linux release workflow\n✅ macOS build pipeline\n✅ Signed updater artifacts\n✅ Auto-update support\n✅ Multi-platform CI/CD autom",
-    "url": "https://dev.to/joshinaidu/shipping-careerforges-across-windows-linux-macos-with-tauri-github-actions-career-forges-1i1m",
+    "title": "🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.\n\nWould love feedback from the dev community 🙌",
+    "summary": "🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Prem Gaikwad\n            \n            \n              \n                Prem Gaikwad\n                \n     ",
+    "url": "https://dev.to/prem_gaikwad_316d716c3/built-this-project-to-challenge-myself-with-real-time-collaboration-infinite-canvas-rendering-3c7i",
     "date": "2026-05-24",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "opensource",
-      "discuss",
-      "programming"
+      "nextjs",
+      "react",
+      "showdev",
+      "typescript"
     ]
   }
 ]
