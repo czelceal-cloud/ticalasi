@@ -9,7 +9,7 @@
       "id": "001",
       "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 12\n# Comments: 2",
+      "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 82\n# Comments: 21",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -20,7 +20,7 @@
       "id": "002",
       "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 8\n# Comments: 0",
+      "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 56\n# Comments: 9",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -31,7 +31,7 @@
       "id": "003",
       "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
       "title": "Wake up! 16b",
-      "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 26\n# Comments: 4",
+      "summary": "Article URL: https://hellmood.111mb.de/wake_up_16b_writeup.html\nComments URL: https://news.ycombinator.com/item?id=48253060\nPoints: 84\n# Comments: 6",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -40,187 +40,182 @@
     },
     {
       "id": "004",
-      "url": "https://dev.to/priya_sajja_c336921bbda87/what-developers-dont-say-in-interviews-but-show-on-github-2n4c",
-      "title": "What Developers Don’t Say in Interviews—but Show on GitHub",
-      "summary": "When I started working on my usability study project with KServe, I interacted with KServe users to understand the challenges they were experiencing while using the platform. During these conversations, users frequently mentioned GitHub issues and the problems they encountered during development and",
+      "url": "https://developer.chrome.com/blog/declarative-partial-updates",
+      "title": "API proposed by Chrome: Declarative partial updates",
+      "summary": "Article URL: https://developer.chrome.com/blog/declarative-partial-updates\nComments URL: https://news.ycombinator.com/item?id=48252957\nPoints: 10\n# Comments: 0",
       "date_published": "2026-05-24",
-      "tags": [
-        "cloudnative",
-        "devrel",
-        "opensource",
-        "ux"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "005",
-      "url": "https://dev.to/yanlong_wang/deepseek-v4-pro-just-got-4x-cheaper-but-heres-what-nobodys-talking-about-1do",
-      "title": "DeepSeek V4-Pro Just Got 4x Cheaper. But Here's What Nobody's Talking About",
-      "summary": "DeepSeek V4-Pro Just Got 4x Cheaper. But Here's What Nobody's Talking About\n\n\nDeepSeek dropped a bombshell on May 22: the 75% discount on V4-Pro is now permanent.\n\n\n\n\n\nWas\nNow\n\n\n\n\nInput (cache miss)\n$1.74 / 1M tokens\n$0.435 / 1M tokens\n\n\nOutput\n$3.48 / 1M tokens\n$0.87 / 1M tokens\n\n\n\n\nThat's 20–35x c",
-      "date_published": "2026-05-24",
-      "tags": [
-        "deepseek",
-        "api",
-        "ai",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/booker357/how-i-built-a-full-stack-roulette-game-with-claude-ai-and-deployed-it-to-aws-while-learning-2kb7",
-      "title": "How I Built a Full-Stack Roulette Game with Claude AI and Deployed It to AWS — While Learning Everything Along the Way",
-      "summary": "I wanted to build a roulette website. I also set out to learn.\n\nI have worked in IT for some time, started with Windows admin, moved to Linux, and then onto some basic DevOps work. I may have gotten to the 4th chapter of every Python book ever written, but never fully committed to programming. I hav",
-      "date_published": "2026-05-24",
-      "tags": [
-        "docker",
-        "nextjs",
-        "aws",
-        "django"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/xencrafter/anatomy-of-the-slopster-3n3m",
-      "title": "Anatomy of the Slopster",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nWhat exactly is Gemma 4? Simply put, it’s a family of open-weight, open-source AI models built for reasoning, coding, and complex agentic workflows.\n\nBecause it’s released under the Apache 2.0 license, the barriers to entry are pra",
-      "date_published": "2026-05-24",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "java"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/mneang/stop-asking-gemma-4-to-just-summarize-5e6",
-      "title": "Stop Asking Gemma 4 to Just Summarize",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\nA small test of using open models to expose uncertainty, not hide it.\n\nMost AI demos start with clean prompts.\n\nReal work usually starts with messy notes.\n\nA stakeholder says the number looks wrong. Someone else says a field change",
-      "date_published": "2026-05-24",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma",
-        "ai"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/dinuka_karunarathna/java-records-deserve-a-mapper-built-for-them-302e",
-      "title": "Java Records Deserve a Mapper Built for Them",
-      "summary": "Java Records have been stable since Java 16, and with Java 21 now the LTS baseline, they're showing up everywhere - DTOs, value objects, domain models. Immutable by design, concise, and semantically clear.\n\nBut here's the gap nobody talks about: every object mapper in the Java ecosystem was built be",
-      "date_published": "2026-05-24",
-      "tags": [
-        "java",
-        "records",
-        "opensource",
-        "programming"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/kkr0423/reactjs-use-hook-for-caching-problem-2n47",
-      "title": "React.js ~use() hook for Caching Problem~",
-      "summary": "This is where most tutorials stop. But if you try to use use() with a promise created inside a Client Component, you will hit a subtle and frustrating bug.\n\n\n\n// Bug: creates a new promise on every render\nfunction UserProfile({ userId }: { userId: string }) {\n  const user = use(fetchUser(userId)); /",
-      "date_published": "2026-05-24",
-      "tags": [
-        "webdev",
-        "react",
-        "learning",
-        "frontend"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/joseph_anady_214bacedf939/web-security-headers-hsts-csp-1bn5",
-      "title": "Web security headers + HSTS + CSP",
-      "summary": "Originally published at thatdevpro.com. Part of ThatDevPro's open SEO + AI framework library. ThatDevPro is an SDVOSB-certified veteran-owned web + AI engineering studio. Open-source AI citation toolkit: github.com/Janady13/aio-surfaces.\n\n\n\n\n\nHTTPS, Headers, Authentication, WAF, Hardening, Incident ",
-      "date_published": "2026-05-24",
-      "tags": [
-        "security",
-        "webdev",
-        "headers",
-        "https"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/joseph_anady_214bacedf939/web-performance-beyond-core-web-vitals-3jd9",
-      "title": "Web performance beyond Core Web Vitals",
-      "summary": "Originally published at thatdevpro.com. Part of ThatDevPro's open SEO + AI framework library. ThatDevPro is an SDVOSB-certified veteran-owned web + AI engineering studio. Open-source AI citation toolkit: github.com/Janady13/aio-surfaces.\n\n\n\n\n\nCore Web Vitals Deep Dive, Resource Optimization, Server ",
-      "date_published": "2026-05-24",
-      "tags": [
-        "webdev",
-        "performance",
-        "javascript",
-        "caching"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/wonderlab/agent-series-3-plan-and-solve-think-first-then-act-1e14",
-      "title": "Agent Series (3): Plan-and-Solve — Think First, Then Act",
-      "summary": "Where Does ReAct Hit a Wall?\n\n\nThe previous article established ReAct's greedy strategy — each step looks at only the current state and decides the next action. This works well most of the time, but there's one class of task where it stumbles.\n\nImagine you ask an Agent to do this:\n\n\nSearch for the r",
-      "date_published": "2026-05-24",
-      "tags": [
-        "ai",
-        "agents",
-        "langchain",
-        "llm"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "014",
-      "url": "https://dev.to/bmaga/software-sovereignty-how-gemma-4s-architecture-is-quietly-rewriting-the-rules-of-local-ai-4k4",
-      "title": "Software Sovereignty: How Gemma 4's Architecture Is Quietly Rewriting the Rules of Local AI",
-      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n\n\n\n  \n  \n  The Illusion of \"Global\" Tech\n\n\nEvery time I open a modern AI tutorial, I notice the same quiet assumption baked into the first line of the README: that you have a fiber-optic connection, a credit card on file, and a ma",
-      "date_published": "2026-05-24",
-      "tags": [
-        "devchallenge",
-        "gemmachallenge",
-        "gemma"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "015",
-      "url": "https://dev.to/sahil_pohare/an-ash-inspired-ddd-framework-for-python-derive-everything-from-the-domain-model-890",
-      "title": "An Ash-Inspired DDD Framework for Python: Derive Everything from the Domain Model",
-      "summary": "I've been building PingerAgents — a multitenant AI agent orchestration platform. Along the way I ended up writing something that felt worth writing up on its own: a domain-driven design framework for Python that derives persistence, durable execution handlers, and tenant isolation from a single reso",
-      "date_published": "2026-05-24",
-      "tags": [
-        "elixir",
-        "eventdriven",
-        "agents",
-        "python"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
-      "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
-      "summary": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning\nComments URL: https://news.ycombinator.com/item?id=48252720\nPoints: 69\n# Comments: 14",
-      "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
       ],
       "_source": "Hacker News"
     },
     {
+      "id": "005",
+      "url": "https://dev.to/mdemin729/shipping-gemma-4-speech-recognition-in-a-windows-net-desktop-app-a-5-variant-model-selection-tour-2l8i",
+      "title": "Shipping Gemma 4 speech recognition in a Windows .NET desktop app: a 5-variant model-selection tour",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nParlotype is a voice-to-text desktop app for Windows. It is built with .NET 10 and Avalonia UI. You hold a global hotkey, speak, then release it. Your text appears in whatever app you were typing into. All sp",
+      "date_published": "2026-05-24",
+      "tags": [
+        "devchallenge",
+        "gemmachallenge",
+        "gemma",
+        "dotnet"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/ssithub/weiqi-go-game-based-productivity-tool-35d8",
+      "title": "WeiQi - (Go) game based productivity tool",
+      "summary": "💡 Inspiration\n\n\n\n\nModern to-do lists are often endless, anxiety-inducing scroll-fests. They treat productivity as a sheer volume of output, leading to burnout. We wanted to fundamentally change how people perceive their daily schedule by treating time not as a list to conquer, but as a board to mast",
+      "date_published": "2026-05-24",
+      "tags": [
+        "builtwithmedo"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/trainedloop/diario-de-dev-1-o-que-15-minutos-desbloqueou-1a38",
+      "title": "Diário de dev #1: o que 15 minutos desbloqueou",
+      "summary": "Segunda semana do diário. Se a anterior foi sobre um mês inteiro de construir e jogar fora, essa foi mais mundana. Infra que ninguém vê, um projeto pequeno que virou ferramenta pra outra pessoa, e uma noite explorando um problema que ainda não tem resposta.\n\n\n  \n  \n  A última milha que ninguém pensa",
+      "date_published": "2026-05-24",
+      "tags": [
+        "devjournal",
+        "webdev",
+        "ai",
+        "portuguese"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/zny10289/the-complete-guide-to-api-design-in-2026-rest-graphql-and-trpc-in-production-4ib2",
+      "title": "The Complete Guide to API Design in 2026: REST, GraphQL, and tRPC in Production",
+      "summary": "The Complete Guide to API Design in 2026: REST, GraphQL, and tRPC in Production\n\n\nThe API design landscape in 2026 settled into three clear patterns. REST for public APIs and microservices. GraphQL for complex data requirements. tRPC for TypeScript-to-TypeScript full-stack applications.\n\nEach has a ",
+      "date_published": "2026-05-24",
+      "tags": [
+        "api",
+        "architecture",
+        "backend",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/ptp2308/flask-python-structured-logging-what-most-miss-in-production-45g6",
+      "title": "🐍 Flask Python Structured Logging — What Most Miss in Production",
+      "summary": "Roughly 80% of Flask applications still rely on basic print() statements or unstructured logging.info() calls for observability in production. Despite widespread adoption of modern monitoring tools like Datadog, Loki, and Elasticsearch, most Python web apps ship logs as plain text — making debugging",
+      "date_published": "2026-05-24",
+      "tags": [
+        "python",
+        "tutorial",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/zny10289/css-in-2026-container-queries-cascade-layers-and-the-end-of-utility-class-bloat-6k5",
+      "title": "CSS in 2026: Container Queries, Cascade Layers, and the End of Utility-Class Bloat",
+      "summary": "CSS in 2026: Container Queries, Cascade Layers, and the End of Utility-Class Bloat\n\n\nCSS in 2026 has fundamentally changed how we write styles. The combination of Container Queries, Cascade Layers, and modern selectors has eliminated the need for many JavaScript-dependent styling patterns. Let's tal",
+      "date_published": "2026-05-24",
+      "tags": [
+        "css",
+        "frontend",
+        "ui",
+        "webdev"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/zny10289/database-migration-strategies-that-actually-work-in-production-elh",
+      "title": "Database Migration Strategies That Actually Work in Production",
+      "summary": "Database Migration Strategies That Actually Work in Production\n\n\nDatabase migrations are the thing that looks simple until you're凌晨3点 trying to recover from a migration that locked your production table for 45 minutes. After running migrations on systems with billions of rows, here's what I've learn",
+      "date_published": "2026-05-24",
+      "tags": [
+        "backend",
+        "database",
+        "devops",
+        "tutorial"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/gretl/detecting-unusual-processes-on-your-servers-without-writing-a-single-rule-2he",
+      "title": "Detecting unusual processes on your servers without writing a single rule",
+      "summary": "Most security tooling works by asking you to define what \"bad\" looks like upfront. Falco gives you YAML rules. OSSEC has signatures. Wazuh has a 5,000-line ruleset that ships with the product and still misses half of what matters in your specific environment.\n\nThe problem isn't that rules are bad — ",
+      "date_published": "2026-05-24",
+      "tags": [
+        "linux",
+        "machinelearning",
+        "monitoring",
+        "security"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/programming_withjackche/2026-q1-is-the-year-developers-still-build-the-agent-harness-2026-q3-2027-is-the-year-the-llm-359f",
+      "title": "2026 Q1 is the year developers still build the agent harness. 2026 Q3 / 2027 is the year the LLM builds its own harness.",
+      "summary": "2026 Q1 is the year developers still build the agent harness.\n\n2026 Q3 / 2027 is the year the LLM builds its own harness.\n\nToday, every AI coding agent — Claude Code, Cursor, Codex, Gemini CLI, Aider, you name it — depends on the same hidden layer:\n\nthe files that brief the agent before it starts wo",
+      "date_published": "2026-05-24",
+      "tags": [
+        "agents",
+        "ai",
+        "llm",
+        "tooling"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/indumathi__r/introduction-to-generative-ai-6in",
+      "title": "Introduction to Generative AI",
+      "summary": "What is Generative AI ?\n   For the given user input(user query), output like text,image, video etc will be generated. This is called generative AI. \n   How it generates content?\n     A model will be used to generate output. i.e model will receive input and based on that, it will generate a output.\n ",
+      "date_published": "2026-05-24",
+      "tags": [
+        "ai",
+        "beginners",
+        "machinelearning",
+        "tutorial"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/ofri-peretz/no-cycle-finds-0-cycles-in-nextjs-and-other-lies-caches-tell-you-3ld8",
+      "title": "no-cycle finds 0 cycles in next.js (and other lies caches tell you)",
+      "summary": "We benchmark import-next/no-cycle against eslint-plugin-import/no-cycle and oxlint's native Rust port on next.js (131K stars, 14,556 source files). The two ESLint plugins agreed: 0 cycles found. oxlint disagreed: 17 cycles found.\n\nWe trusted the consensus. Then we tested our own rule on a 33-file su",
+      "date_published": "2026-05-24",
+      "tags": [
+        "eslint",
+        "staticanalysis",
+        "performance",
+        "algorithms"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/surfiniaburger/google-io-2026-wasnt-about-ai-models-it-was-about-infrastructure-53me",
+      "title": "Google I/O 2026 Wasn’t About AI Models — It Was About Infrastructure",
+      "summary": "This is a submission for the Google I/O Writing Challenge\n\nI actually appointed myself as AGI Police some days back. On account of the number of times I've found myself sipping AI slop milkshake.\n\nAs a reformed individual (with regulated slop intake), I keep listening to Yann LeCun's insights throug",
+      "date_published": "2026-05-24",
+      "tags": [
+        "devchallenge",
+        "googleiochallenge"
+      ],
+      "_source": "Dev.to"
+    },
+    {
       "id": "017",
-      "url": "https://khz.ac/software/i3-integration.html",
-      "title": "My I3-Emacs Integration",
-      "summary": "Article URL: https://khz.ac/software/i3-integration.html\nComments URL: https://news.ycombinator.com/item?id=48252535\nPoints: 27\n# Comments: 7",
+      "url": "https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning",
+      "title": "ICE Awards $25M Iris-Scanning Contract to Bi2 Technologies",
+      "summary": "Article URL: https://www.projectsaltbox.com/p/ice-awards-25-million-iris-scanning\nComments URL: https://news.ycombinator.com/item?id=48252720\nPoints: 103\n# Comments: 26",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -229,9 +224,9 @@
     },
     {
       "id": "018",
-      "url": "https://susam.net/do-not-roll-your-own.html",
-      "title": "Don't Roll Your Own",
-      "summary": "Article URL: https://susam.net/do-not-roll-your-own.html\nComments URL: https://news.ycombinator.com/item?id=48252192\nPoints: 81\n# Comments: 63",
+      "url": "https://khz.ac/software/i3-integration.html",
+      "title": "My I3-Emacs Integration",
+      "summary": "Article URL: https://khz.ac/software/i3-integration.html\nComments URL: https://news.ycombinator.com/item?id=48252535\nPoints: 39\n# Comments: 7",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -242,7 +237,7 @@
       "id": "019",
       "url": "https://www.c82.net/euclid/",
       "title": "Byrne's Euclid",
-      "summary": "Article URL: https://www.c82.net/euclid/\nComments URL: https://news.ycombinator.com/item?id=48252146\nPoints: 15\n# Comments: 4",
+      "summary": "Article URL: https://www.c82.net/euclid/\nComments URL: https://news.ycombinator.com/item?id=48252146\nPoints: 26\n# Comments: 7",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -253,7 +248,7 @@
       "id": "020",
       "url": "https://www.bbc.com/news/articles/c3w2l249j8go",
       "title": "Toxic chemical leak at a manufacturing facility in Orange County",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go\nComments URL: https://news.ycombinator.com/item?id=48252060\nPoints: 106\n# Comments: 74",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c3w2l249j8go\nComments URL: https://news.ycombinator.com/item?id=48252060\nPoints: 132\n# Comments: 90",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -262,9 +257,9 @@
     },
     {
       "id": "021",
-      "url": "https://github.com/DamRsn/NeuralNote",
-      "title": "NeuralNote",
-      "summary": "Article URL: https://github.com/DamRsn/NeuralNote\nComments URL: https://news.ycombinator.com/item?id=48250198\nPoints: 5\n# Comments: 0",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "summary": "Article URL: https://www.bbc.com/news/articles/czd2qmdvmq6o\nComments URL: https://news.ycombinator.com/item?id=48250980\nPoints: 23\n# Comments: 9",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
@@ -275,7 +270,7 @@
       "id": "022",
       "url": "https://veronicaexplains.net/my-first-writerdeck/",
       "title": "Time to talk about my writerdeck",
-      "summary": "Article URL: https://veronicaexplains.net/my-first-writerdeck/\nComments URL: https://news.ycombinator.com/item?id=48250144\nPoints: 290\n# Comments: 150",
+      "summary": "Article URL: https://veronicaexplains.net/my-first-writerdeck/\nComments URL: https://news.ycombinator.com/item?id=48250144\nPoints: 318\n# Comments: 181",
       "date_published": "2026-05-23",
       "tags": [
         "Hacker News"
