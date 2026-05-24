@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://susam.net/childhood-computing.html",
-      "title": "Childhood Computing",
-      "summary": "Article URL: https://susam.net/childhood-computing.html\nComments URL: https://news.ycombinator.com/item?id=48256597\nPoints: 35\n# Comments: 14",
+      "url": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/",
+      "title": "The seed oil panic is hurting my cardiac patients",
+      "summary": "Article URL: https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/\nComments URL: https://news.ycombinator.com/item?id=48257532\nPoints: 96\n# Comments: 82",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://apple.github.io/ml-pico/",
-      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
-      "summary": "Article URL: https://apple.github.io/ml-pico/\nComments URL: https://news.ycombinator.com/item?id=48256565\nPoints: 3\n# Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model\nComments URL: https://news.ycombinator.com/item?id=48257410\nPoints: 29\n# Comments: 16",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://mastering.dyalog.com/README.html",
-      "title": "Mastering Dyalog APL",
-      "summary": "Article URL: https://mastering.dyalog.com/README.html\nComments URL: https://news.ycombinator.com/item?id=48256475\nPoints: 46\n# Comments: 3",
+      "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "summary": "Article URL: https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/\nComments URL: https://news.ycombinator.com/item?id=48257058\nPoints: 65\n# Comments: 19",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 104\n# Comments: 63",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "summary": "Article URL: https://esengine.github.io/DeepSeek-Reasonix/\nComments URL: https://news.ycombinator.com/item?id=48256953\nPoints: 67\n# Comments: 48",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.adventuresinoss.com/aws-four-years/",
-      "title": "Amazon Web Services – Four Years and Out",
-      "summary": "Article URL: https://www.adventuresinoss.com/aws-four-years/\nComments URL: https://news.ycombinator.com/item?id=48254475\nPoints: 259\n# Comments: 96",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "summary": "Article URL: https://arxiv.org/abs/2605.06445\nComments URL: https://news.ycombinator.com/item?id=48256912\nPoints: 25\n# Comments: 10",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "summary": "Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\nComments URL: https://news.ycombinator.com/item?id=48254309\nPoints: 235\n# Comments: 112",
+      "url": "https://susam.net/childhood-computing.html",
+      "title": "Childhood Computing",
+      "summary": "Article URL: https://susam.net/childhood-computing.html\nComments URL: https://news.ycombinator.com/item?id=48256597\nPoints: 75\n# Comments: 37",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://www.masswerk.at/nowgobang/2026/c64-dead-test-font",
-      "title": "The C64 Dead Test Font",
-      "summary": "Article URL: https://www.masswerk.at/nowgobang/2026/c64-dead-test-font\nComments URL: https://news.ycombinator.com/item?id=48254236\nPoints: 78\n# Comments: 14",
+      "url": "https://apple.github.io/ml-pico/",
+      "title": "Perceptual Image Codec: What Matters in Practical Learned Image Compression",
+      "summary": "Article URL: https://apple.github.io/ml-pico/\nComments URL: https://news.ycombinator.com/item?id=48256565\nPoints: 23\n# Comments: 2",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/",
-      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "summary": "Article URL: https://www.quantamagazine.org/how-alexander-grothendieck-revolutionized-20th-century-mathematics-20260520/\nComments URL: https://news.ycombinator.com/item?id=48254020\nPoints: 84\n# Comments: 20",
+      "url": "https://mastering.dyalog.com/README.html",
+      "title": "Mastering Dyalog APL",
+      "summary": "Article URL: https://mastering.dyalog.com/README.html\nComments URL: https://news.ycombinator.com/item?id=48256475\nPoints: 76\n# Comments: 15",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "summary": "https://opensource.microsoft.com/blog/2026/04/28/continuing-...\n\nComments URL: https://news.ycombinator.com/item?id=48253386\nPoints: 329\n# Comments: 101",
+      "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
+      "title": "Greg Brockman interview [video]",
+      "summary": "Article URL: https://fs.blog/knowledge-project-podcast/greg-brockman/\nComments URL: https://news.ycombinator.com/item?id=48255593\nPoints: 125\n# Comments: 102",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "summary": "Article URL: https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/\nComments URL: https://news.ycombinator.com/item?id=48253186\nPoints: 192\n# Comments: 96",
+      "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "summary": "Article URL: https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US\nComments URL: https://news.ycombinator.com/item?id=48254309\nPoints: 252\n# Comments: 131",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -117,6 +117,21 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+      "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "AI",
+        "Gadgets",
+        "Amazon",
+        "AI hardware",
+        "Bee wearable"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
       "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
       "title": "The Dreamie alarm clock got me to stop using my phone in bed",
       "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
@@ -128,7 +143,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "013",
       "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
       "title": "Whatever the mirror test tells us, beluga whales pass it",
       "summary": "The white whales join the short, contested list of animals that see themselves.",
@@ -145,7 +160,51 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "013",
+      "id": "014",
+      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "title": "The best Memorial Day sales you can shop this weekend",
+      "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything […",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "015",
+      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+      "title": "On Trails is a wandering tale that blends hiking, science, and history",
+      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself try",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Book Review",
+        "Books",
+        "Column",
+        "Entertainment",
+        "Science"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "016",
+      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
+      "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB […]",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Apple",
+        "Deals",
+        "Gadgets",
+        "Laptops",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "017",
       "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
       "title": "Hackers are learning to exploit chatbot ‘personalities’",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau",
@@ -160,7 +219,7 @@
       "_source": "The Verge"
     },
     {
-      "id": "014",
+      "id": "018",
       "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
       "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
       "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually bet",
@@ -173,7 +232,43 @@
       "_source": "The Verge"
     },
     {
-      "id": "015",
+      "id": "019",
+      "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+      "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "Shopping",
+        "Deals",
+        "Memorial Day"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "020",
+      "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
+      "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
+      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "Gear / Products / Sleep",
+        "Gear / Products / Lifestyle",
+        "Shopping",
+        "Deals",
+        "Sleep",
+        "mattresses",
+        "home",
+        "Bedroom",
+        "Memorial Day"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "021",
       "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
       "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
       "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
@@ -193,7 +288,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "022",
       "url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
       "title": "The Best Browser Extensions to Get More Out of YouTube",
       "summary": "You can significantly improve the YouTube experience with these browser add-ons.",
@@ -211,7 +306,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "023",
       "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
       "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
       "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
@@ -232,7 +327,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "024",
       "url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
       "title": "14 New Tools for Taking on the Great Outdoors Properly",
       "summary": "It’s time to prep your kit ahead of the summer season. These tools will do the job.",
@@ -252,7 +347,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "025",
       "url": "https://www.wired.com/story/why-garlic-repels-mosquitoes-and-keeps-them-from-breeding/",
       "title": "Why Garlic Repels Mosquitoes and Keeps Them From Breeding",
       "summary": "Garlic, as your grandmother may have told you, repels mosquitoes; it also completely blocks them from mating and laying eggs. Diallyl disulfide, it turns out, deserves the credit.",
@@ -267,7 +362,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "026",
       "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
       "title": "A Fundamental Principle of Aeronautical Engineering Has Been Overturned",
       "summary": "It's long been accepted that the smoother the surface, the lower the aerodynamic drag. That turns out not always to be the case.",
@@ -285,7 +380,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "027",
       "url": "https://www.wired.com/story/the-universe-is-full-of-impossible-black-holes-now-scientists-know-why/",
       "title": "The Universe Is Full of ‘Impossible’ Black Holes. Now Scientists Know Why",
       "summary": "There are black holes that are too big to be born from the death of a star but aren’t quite supermassive either. There’s finally evidence for where those came from.",
@@ -303,127 +398,43 @@
       "_source": "Wired"
     },
     {
-      "id": "022",
-      "url": "https://dev.to/pasquale_molinaro/real-time-video-classification-with-paligemma-architecture-patterns-for-low-latency-vlm-inference-2aj9",
-      "title": "Real-time video classification with PaliGemma: architecture patterns for low-latency VLM inference",
-      "summary": "In a previous article, we benchmarked three open-source Vision-Language Models on zero-shot object detection and arrived at an uncomfortable conclusion: even the fastest contender, Phi-3.5-vision-instruct, takes 4.45 seconds per frame on an NVIDIA L4. LLaVA-v1.6 sits at 8.13 seconds. For any applica",
+      "id": "028",
+      "url": "https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de",
+      "title": "How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial",
+      "summary": "What We're Building\n\n\nIn the next 5 minutes, you'll build a simple web app that lets users search for clinical trials by condition and phase, display results in cards, and paginate through results. Clinical Trials API is a REST API that wraps ClinicalTrials.gov into a developer-friendly interface. I",
       "date_published": "2026-05-24",
       "tags": [
-        "computervision",
-        "ai",
-        "python",
-        "softwareengineering"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "023",
-      "url": "https://dev.to/shivani_ravikumar/building-dynamic-forms-in-react-formik-using-json-configuration-part-1-3jod",
-      "title": "Building Dynamic Forms in React + Formik Using JSON Configuration (Part 1)",
-      "summary": "Recently, I started working on building a dynamic form system using React + Formik where the entire form UI was driven by JSON configuration instead of hardcoded components.\n\nInstead of manually writing fields like this:\n\n\n\nI wanted the frontend to dynamically render forms based on configuration rec",
-      "date_published": "2026-05-24",
-      "tags": [
-        "react",
-        "dynamicforms",
-        "formik",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/annapoo/understanding-html-css-with-simple-project-4ajb",
-      "title": "Understanding HTML & CSS with Simple project",
-      "summary": "Always there is a starting point for anything, here is my starting point where I created my portfolio with deep understanding rather than just copy paste 🫣\n\n\n\nEvery developer bound to understand why it works, how it works and where it works? Let me elaborate the understanding of my portfolio project",
-      "date_published": "2026-05-24",
-      "tags": [
-        "webdev",
         "programming",
         "tutorial",
-        "beginners"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/prem_gaikwad_316d716c3/whats-happening-in-tech-world-right-now-ai-react-19-gpt-4o-more-4n1p",
-      "title": "🔥 What’s Happening in Tech World Right Now? — AI, React 19, GPT-4o & More",
-      "summary": "🔥 What’s Happening in Tech World Right Now? — AI, React 19, GPT-4o & More\n\n\nThe tech world is moving insanely fast right now 🚀\n\nEvery week we’re seeing:\n\n\nNew AI tools\nBetter developer workflows\nFaster frameworks\nSmarter coding assistants\nHuge frontend ecosystem updates\n\n\nHere are some of the bigges",
-      "date_published": "2026-05-24",
-      "tags": [
-        "webdev",
-        "ai",
-        "react",
-        "javascript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/geraldm/building-a-real-time-kafka-cassandra-pipeline-moe",
-      "title": "Building a Real-Time Kafka + Cassandra Pipeline",
-      "summary": "Introduction\n\n\nApache Kafka and Apache Cassandra pair effectively because they complement each other's strengths: Kafka handles high throughput, real-time event streaming and ingestion, while Cassandra provides scalable, fault tolerant and low-latency persistent storage for processed data.\n\nExample:",
-      "date_published": "2026-05-24",
-      "tags": [
-        "dataengineering",
-        "cassandra",
-        "kafka"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/geraldm/a-beginners-guide-to-real-time-data-streaming-with-apache-kafka-4iaf",
-      "title": "A Beginners guide to Real-time Data Streaming with Apache Kafka",
-      "summary": "Introduction\n\n\nEver wondered how banks are able to detect and stop fraud in real-time? This is how they do it. \nBanks process thousands of transactions every second, end each transaction is recorded in backend systems as it happens. Instead of relying on traditional batch processing, With Kafka they",
-      "date_published": "2026-05-24",
-      "tags": [
-        "beginners",
-        "kafka",
-        "datascience",
-        "dataengineering"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/pulkitgovrani/getting-started-with-gemini-api-managed-agents-the-quickest-path-from-prompt-to-deployed-agent-120h",
-      "title": "Getting Started with Gemini API Managed Agents — The Quickest Path from Prompt to Deployed Agent",
-      "summary": "This is a submission for the Google I/O 2026 Challenge: Explore Google I/O 2026\n\nGoogle shipped a lot of developer tooling at I/O 2026. The thing I want to actually build with is Managed Agents in the Gemini API.\n\nHere's the pitch: one API call provisions a fully-functional agent with a remote execu",
-      "date_published": "2026-05-24",
-      "tags": [
-        "devchallenge",
-        "googleiochallenge",
-        "ai",
-        "programming"
+        "freeapi",
+        "healthcare"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://dev.to/flytebittechnologies/vibe-thinking-the-developer-who-codes-at-the-speed-of-thought-3hk",
-      "title": "Vibe Thinking - The Developer Who Codes at the Speed of Thought",
-      "summary": "The team's AI coding tools are live. First week - output is genuinely impressive. PR count is up. Everyone's excited.\n\nAt the sprint review, the board looks the same.\n\nHalf the PRs are still waiting on review. Several came back with QA flags. A few were blocked by a requirements question nobody had ",
+      "url": "https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2",
+      "title": "Gemma For Dummies: I Knew Nothing. Now I'm Running AI on My Laptop.",
+      "summary": "I saw the Gemma 4 challenge on dev.to. I wanted to participate. I had absolutely no idea where to start.\n\nI opened the challenge page and the first thing I saw was \"run a Gemma 4 model locally.\" I stared at that sentence for a while.\n\nWhat does running locally even mean?\n\nI genuinely thought AI only",
       "date_published": "2026-05-24",
       "tags": [
-        "vibethinking",
-        "developerproductivity",
-        "vibecoding",
-        "aifordevs"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://dev.to/prem_gaikwad_316d716c3/built-this-project-to-challenge-myself-with-real-time-collaboration-infinite-canvas-rendering-3c7i",
-      "title": "🚀 Built a full stack Miro clone with real-time collaboration, infinite canvas, sticky notes, and modern SaaS UI using Next.js, React, TypeScript, Convex, Liveblocks, Clerk, and Tailwind CSS.\n\nWould love feedback from the dev community 🙌",
-      "summary": "🚀 I Built a Full Stack Miro Clone with Real-Time Collaboration using Next.js\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Prem Gaikwad\n            \n            \n              \n                Prem Gaikwad\n                \n     ",
+      "url": "https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj",
+      "title": "Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀",
+      "summary": "Most students build projects only for grades, portfolios, or tutorials.\n\nBut what if your project could become:\n\na startup,\na real product,\na funded idea,\nor even a global solution?\n\nThat’s where the Microsoft Imagine Cup stands out.\n\nWhat is Imagine Cup?\n\nImagine Cup is Microsoft’s global student s",
       "date_published": "2026-05-24",
       "tags": [
-        "nextjs",
-        "react",
-        "showdev",
-        "typescript"
+        "ai",
+        "programming",
+        "beginners",
+        "microsoft"
       ],
       "_source": "Dev.to"
     }
