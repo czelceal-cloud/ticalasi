@@ -7,47 +7,75 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-      "title": "Magnifica Humanitas (Encyclical Letter)",
-      "summary": "Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48265206\nPoints: 133\n# Comments: 28",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
       "date_published": "2026-05-25",
       "tags": [
-        "Hacker News"
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "Venture",
+        "AI",
+        "Apps",
+        "Robotics",
+        "Fundraising",
+        "TechCrunch Disrupt 2026"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "002",
-      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
-      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "summary": "Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/\nComments URL: https://news.ycombinator.com/item?id=48265056\nPoints: 13\n# Comments: 1",
+      "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
       "date_published": "2026-05-25",
       "tags": [
-        "Hacker News"
+        "Biz & IT",
+        "Policy",
+        "foundry",
+        "funding",
+        "government",
+        "ibm",
+        "quantum computing",
+        "starups"
       ],
-      "_source": "Hacker News"
+      "_source": "Ars Technica"
     },
     {
       "id": "003",
-      "url": "https://www.tinyvolt.com/geomatic",
-      "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
-      "summary": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imag",
+      "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
+      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
+      "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
       "date_published": "2026-05-25",
       "tags": [
-        "Hacker News"
+        "Gaming",
+        "C:\\ArsGames",
+        "CD Projekt RED",
+        "gog",
+        "open world",
+        "RPGs",
+        "the witcher 3"
       ],
-      "_source": "Hacker News"
+      "_source": "Ars Technica"
     },
     {
       "id": "004",
-      "url": "https://seriot.ch/computation/jira.html",
-      "title": "Jira Is Turing-Complete",
-      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 195\n# Comments: 85",
+      "url": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
+      "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
+      "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
       "date_published": "2026-05-25",
       "tags": [
-        "Hacker News"
+        "Gear",
+        "Gear / Deals",
+        "Shopping",
+        "Deals",
+        "Memorial Day"
       ],
-      "_source": "Hacker News"
+      "_source": "Wired"
     },
     {
       "id": "005",
@@ -204,165 +232,166 @@
     },
     {
       "id": "014",
-      "url": "https://dev.to/kustyuka/we-trained-a-personal-voice-dora-on-qwen3-8b-for-150-beat-stock-model-100-in-blind-ab-3b70",
-      "title": "We trained a personal voice DoRA on Qwen3-8B for $1.50 — beat stock model 100% in blind A/B",
-      "summary": "TL;DR. Trained a DoRA adapter on Qwen3-8B using 6128 personal Telegram messages. Cost: $1.50 on a single Vast.ai RTX 3090. In blind head-to-head A/B, the DoRA-tuned model beat stock Qwen3-8B 100% of the time. Zero catastrophic forgetting on 50 general-knowledge tasks. One prompt where the model actu",
+      "url": "https://dev.to/keerthana_696356/from-half-dead-prototype-to-local-only-ai-medical-assistant-rewiring-medclinic-with-github-copilot-42cd",
+      "title": "From Half‑dead Prototype to Local‑Only AI Medical Assistant: Rewiring MedClinic with GitHub Copilot",
+      "summary": "This is a submission for the GitHub Finish‑Up‑A‑Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nI built MedClinic, a fully local AI‑powered medical assistant that runs on a MedGamma‑2B‑class model without any third‑party APIs or cloud services.\n\nInstead of slapping a shiny frontend on an off‑the‑shelf API, ",
       "date_published": "2026-05-25",
       "tags": [
+        "devchallenge",
+        "githubchallenge",
         "ai",
-        "llm",
-        "machinelearning",
-        "showdev"
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/surajsharmaind/rag-explained-how-retrieval-augmented-generation-actually-works-dd7",
-      "title": "RAG Explained: How Retrieval-Augmented Generation Actually Works",
-      "summary": "The Two Phases of RAG\n\n\nRAG (Retrieval-Augmented Generation) splits into two separate pipelines:\n\n\n\nIngestion pipeline — runs once (or on a schedule) to process your documents\n\nQuery pipeline — runs live for every user request\n\n\n\n\n\n\n  \n  \n  Why Not Just Send All Your Text to the LLM?\n\n\nThree hard pr",
+      "url": "https://dev.to/moonlitpath1/runninig-a-forkbomb-in-jenkins-41nf",
+      "title": "Runninig a forkbomb in Jenkins",
+      "summary": "Did you think this was the end of my forkbomb chronicles, lol? Of course not! \n\nOf course I had to come with a part 3!\n\nBasically, part infinity of me being bored in college, and doing random sh!t to pass time.\n\n⚠️ Warning: THIS IS JUST A JOKE. DO NOT DO THIS IN PROFESSIONAL CONTEXTS. It can quite l",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "machinelearning",
-        "llm",
-        "rag"
+        "bored",
+        "joke",
+        "forkbomb"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/sinchu-xd/i-built-a-fast-async-jiosaavn-api-wrapper-in-python-4hk9",
-      "title": "I Built a Fast Async JioSaavn API Wrapper in Python 🎧",
-      "summary": "Hey devs! 👋\n\nI recently published SaavnAPI — a fully async Python wrapper for JioSaavn.\n\nIf you've ever tried to build a Telegram music bot, a Discord music bot, or any Python project that needs music data from JioSaavn, this package is for you.\n\n\n\n\n\n  \n  \n  ⚡ Why I Built This\n\n\nMost existing JioSaa",
+      "url": "https://dev.to/gmcjr/whats-actually-happening-when-you-use-git-464e",
+      "title": "What’s Actually Happening When You Use Git",
+      "summary": "I’d been using Git comfortably for months before getting uncomfortable with how little I actually understood.\n\ngit add. git commit. git push were memory at this point. But ask me what Git was actually doing under the hood? I couldn’t tell you. I had some (mostly wrong) assumptions but that was about",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "python",
-        "api",
-        "opensource"
+        "git",
+        "softwaredevelopment",
+        "versioncontrol",
+        "gitinternals"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/aryan_vaishnani_067dd66e0/chown-chgrp-hjn",
-      "title": "chown & chgrp",
-      "summary": "These commands are used to manage file ownership.\n\nVery common in:\n\n\nLinux administration\nDevOps\nWeb servers\nDocker/Kubernetes\n\n\n1. chown\n\nchown means:\n\nchange owner\n\nUsed to change:\n\n\nfile owner\nfile owner + group\n\n\nCheck current owner\n\nls -l\n\nExample:\n\n\nrw-r--r-- aryan developers file.txt\n\n\nHere:\n",
+      "url": "https://dev.to/joakim_williamhauge_fa48/preventing-recursive-tool-loops-in-langchain-agents-4i87",
+      "title": "Preventing Recursive Tool Loops in LangChain Agents",
+      "summary": "One of the fastest ways for LangChain agents to become unstable in production is not model quality.\n\nIt’s recursive tool loops.\n\n\n\nA workflow starts normally:\n\n\nsearch\nretrieve\nsummarize\n\n\nThen suddenly:\n\n\nthe same tool gets called repeatedly\nretries compound\ncontext grows\ntoken usage spikes\nexecuti",
       "date_published": "2026-05-25",
       "tags": [
-        "linux",
-        "ubuntu",
-        "tutorial",
-        "learning"
+        "typescript",
+        "langchain",
+        "ai",
+        "node"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://dev.to/emmsddev/deploying-your-first-app-on-kubernetes-a-beginners-guide-minikube-kind-3654",
-      "title": "Deploying Your First App on Kubernetes: A Beginner's Guide (Minikube & Kind)",
-      "summary": "If you've just learned the basics of Kubernetes Pods, Deployments, ReplicaSets, and Services the best next step is to actually use them. Reading about self-healing and rolling updates is one thing; watching Kubernetes recreate a deleted Pod in real time is another.\n\nIn this guide, you'll deploy a si",
+      "url": "https://dev.to/uya0526design/building-a-rock-paper-scissors-cli-with-typescript-union-types-conditionals-and-jest-2lc5",
+      "title": "Building a Rock-Paper-Scissors CLI with TypeScript — Union Types, Conditionals, and Jest",
+      "summary": "Introduction\n\n\nThis is my second article as a Java engineer learning TypeScript from scratch.\n\nIn my first article, I built a BMI Calculator CLI and learned about union types, function separation, and Vitest. This time, I built a Rock-Paper-Scissors game (CLI) and focused on:\n\n\nExpressing game \"hand",
       "date_published": "2026-05-25",
       "tags": [
-        "kubernetes",
-        "beginners",
-        "devops",
-        "docker"
+        "typescript",
+        "node",
+        "jest",
+        "beginners"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://dev.to/fcharles/logs-in-code-58hi",
-      "title": "Logs in code",
-      "summary": "Image from thumbs.dreamstime.com\n\nWhen writing code, many developers especially junior level, don't understand the importance of having logs in their code. I was also a victim of this. This article will delve a bit into the importance of logs in your development cycle and how you can implement them.",
+      "url": "https://dev.to/dhrupo/your-ai-coding-agent-wastes-80-of-its-context-fixed-that-with-graph-theory-1mfa",
+      "title": "Your AI Coding Agent Wastes 80% of Its Context. Fixed That with Graph Theory.",
+      "summary": "The problem nobody admits\n\n\nWhen you give Claude Code, Cursor, or Codex a task like \"fix the login validation bug\", here's what they usually do:\n\n\nRun grep -l login src/ → 17 files\nRead all 17 files top-to-bottom (because context is \"free\")\nSpend 80% of the model's context window on irrelevant impor",
       "date_published": "2026-05-25",
       "tags": [
-        "backend",
-        "go",
-        "development"
+        "ai",
+        "claude",
+        "llm",
+        "typescript"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://dev.to/satejbidvai/its-called-a-pr-review-for-a-reason-4bi8",
-      "title": "It's called a PR \"review\" for a reason",
-      "summary": "Write code however you like. Use AI, use 10 parallel agents, write it by hand. I don't care. But this idea that because we can write code faster, we should lower the bar for merging it? That doesn't make any sense.\n\nI guarantee you, spending 10-15 minutes actually reviewing your co-worker's PR is wo",
+      "url": "https://dev.to/sanket-parmar/why-flutter-has-become-the-go-to-framework-for-fintech-app-development-4c0c",
+      "title": "Why Flutter Has Become the Go-To Framework for Fintech App Development",
+      "summary": "Africa is the fastest-growing fintech market globally, with revenues projected to expand 13x by 2030. The continent already accounts for the majority of global mobile money transaction volume. That kind of growth demands more than ambition; it demands the right tools. Africa's digital payments marke",
       "date_published": "2026-05-25",
       "tags": [
-        "programming",
-        "architecture"
+        "flutter",
+        "software",
+        "fintech",
+        "saas"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "021",
-      "url": "https://dev.to/aicryptosystems/depin-gpu-market-the-failed-job-receipt-developers-should-demand-40n3",
-      "title": "DePIN GPU Market: The Failed Job Receipt Developers Should Demand",
-      "summary": "AI x Crypto Systems disclosure: this article was prepared with AI assistance as an editorial helper. The ideas, facts, code, sources, and conclusions were reviewed by a human.\n\nAI x Crypto Systems disclosure: this article is a technical explanation, not investment advice. AI x Crypto Systems does no",
+      "url": "https://dev.to/hoanluong123/we-built-a-scripting-language-just-for-ai-agents-heres-why-1gm9",
+      "title": "We built a scripting language just for AI agents. Here's why.",
+      "summary": "One of our AI agents deleted a directory it was never supposed to touch. The Python it wrote was valid. The model was confident. It did the wrong thing.\n\nThe agent was only supposed to query a database. But we gave it a full Python runtime, so it had access to os, shutil, everything. That's when we ",
       "date_published": "2026-05-25",
       "tags": [
         "ai",
-        "blockchain",
-        "infrastructure",
-        "web3"
+        "cpp",
+        "llm",
+        "programming"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://dev.to/ajaydevineni/why-your-ai-agent-monitoring-is-wrong-and-how-to-fix-it-1b25",
-      "title": "Why Your AI Agent Monitoring is Wrong (And How to Fix It)",
-      "summary": "As I discussed in my SLO Design article, traditional reliability metrics fail for agentic AI systems. Now let's look at how to actually implement semantic monitoring in production.\nYour AI agent is running in production.\nHTTP 200. Uptime 99.9%. All dashboards are green.\nBut it's making the wrong dec",
+      "url": "https://dev.to/k08200/stop-building-ai-inboxes-build-decision-layers-instead-3id7",
+      "title": "Stop building AI inboxes. Build decision layers instead.",
+      "summary": "I spent six months building an AI-powered email tool. Then I deleted half of it.\n\nNot because the model was bad. Not because the embeddings were off. Because I finally noticed what every \"AI inbox\" on the market — including the one I was building — was actually doing.\n\nThey were surfacing more.\n\nMor",
       "date_published": "2026-05-25",
       "tags": [
+        "productivity",
         "ai",
-        "sre",
-        "devops",
-        "fintech"
+        "typescript",
+        "webdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://dev.to/degreatkhali/lock-down-your-cloud-shares-a-beginners-guide-to-azure-files-security-1ld3",
-      "title": "Lock Down Your Cloud Shares: A Beginner’s Guide to Azure Files Security.",
-      "summary": "Cloud storage makes file sharing easy, but it also creates new security risks if access is not controlled carefully. \n\nTake this scenario for instance: Your finance team stores payroll files in the cloud, but a misconfigured setting accidentally exposed them to the public internet last week. This gu",
+      "url": "https://dev.to/ben/meme-monday-194f",
+      "title": "Meme Monday",
+      "summary": "Meme Monday!\n\nToday's cover image comes from the last thread.\n\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.",
       "date_published": "2026-05-25",
       "tags": [
-        "blobstorage",
-        "security",
-        "azurefiles",
-        "beginnerguide"
+        "jokes",
+        "discuss",
+        "watercooler"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/tuannx/building-a-multi-channel-content-syndication-pipeline-with-emdash-plugins-3934",
-      "title": "Building a Multi-Channel Content Syndication Pipeline with EmDash Plugins",
-      "summary": "I recently built a content syndication plugin for EmDash that automatically distributes blog posts to Dev.to, LinkedIn, Medium, Hacker News, and email newsletters from a single publish action. Here's how the architecture works and what I learned about multi-platform API orchestration.\n\n\n  \n  \n  The ",
+      "url": "https://dev.to/ajaykr089/why-i-built-editoraui-react-27hj",
+      "title": "Why I Built @editora/ui-react?",
+      "summary": "After building multiple SaaS products, admin dashboards, AI tools, and enterprise platforms, I kept running into the same issue:\n\nMost React UI libraries are either:\n\n\nToo bloated\nHard to customize\nDesign-opinionated\nDifficult to scale for enterprise apps\n\n\nSo I started building my own system.\n\nIntr",
       "date_published": "2026-05-25",
       "tags": [
-        "architecture",
         "webdev",
-        "devops"
+        "javascript",
+        "react",
+        "typescript"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/gabor_tatar_2ed46051795f9/turn-your-phone-into-voice-input-for-any-react-text-field-1p52",
-      "title": "Turn Your Phone Into Voice Input for Any React Text Field",
-      "summary": "Every time I needed voice input in a React app, I ended up wiring it from scratch (via agent). Web Speech API setup, browser inconsistencies, a relay server for the phone-to-desktop connection, later QR pairing, Chrome killing recognition mid-sentence, partial vs. final transcript logic. A day of an",
+      "url": "https://dev.to/tracygjg/are-ai-tools-the-next-level-of-abstraction-in-software-development-2cig",
+      "title": "Are AI tools the next level of abstraction in software development?",
+      "summary": "We created assembly code so we did not have to remember all the numbers that make up machine code instruction sets.\n\nWe created programming languages so we could forget the specifics of proprietary CPUs and operating systems.\n\nAre we now adopting LLMs and MCPs so we don’t have to learn programming l",
       "date_published": "2026-05-25",
       "tags": [
-        "react",
-        "nextjs",
-        "opensource",
-        "speechtotext"
+        "ai",
+        "programming",
+        "discuss"
       ],
       "_source": "Dev.to"
     },
@@ -379,47 +408,65 @@
     },
     {
       "id": "027",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 180\n# Comments: 85",
+      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+      "title": "Everyone is navigating AI security in real time — even Google",
+      "summary": "We're in the transition period -- all of us.",
       "date_published": "2026-05-24",
       "tags": [
-        "Hacker News"
+        "AI",
+        "TC"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "028",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 135\n# Comments: 139",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
       "date_published": "2026-05-24",
       "tags": [
-        "Hacker News"
+        "Hardware",
+        "Google",
+        "Google I/O",
+        "AI",
+        "SMART Glasses",
+        "XReal"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "029",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "title": "Migrating from Go to Rust",
-      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 315\n# Comments: 310",
+      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
+      "title": "6 kitchen gadgets that make adulting feel easier",
+      "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
       "date_published": "2026-05-24",
       "tags": [
-        "Hacker News"
+        "Hardware",
+        "Gadgets",
+        "Cooking Gadgets",
+        "Kitchen gadgets",
+        "robot chef",
+        "evergreens"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     },
     {
       "id": "030",
-      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-      "title": "Building Pi with Pi",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 115\n# Comments: 85",
+      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
+      "title": "TechCrunch Mobility: Robotaxi reality check",
+      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
       "date_published": "2026-05-24",
       "tags": [
-        "Hacker News"
+        "Transportation",
+        "Elon Musk",
+        "SpaceX",
+        "Tesla",
+        "xAI",
+        "Waymo",
+        "robotaxi",
+        "techcrunch mobility"
       ],
-      "_source": "Hacker News"
+      "_source": "TechCrunch"
     }
   ]
 }
