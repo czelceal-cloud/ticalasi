@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 86\n# Comments: 29",
+      "url": "https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a",
+      "title": "San Francisco immigration court shuts down after purge of judges",
+      "summary": "Article URL: https://apnews.com/article/san-francisco-immigration-court-closed-asylum-8a0946a7cd4bcc9bd925d075cabef44a\nComments URL: https://news.ycombinator.com/item?id=48261543\nPoints: 14\n# Comments: 0",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 3\n# Comments: 2",
+      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
+      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 112\n# Comments: 66",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
-      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
-      "summary": "Article URL: https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/\nComments URL: https://news.ycombinator.com/item?id=48259990\nPoints: 106\n# Comments: 45",
+      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+      "title": "A fundamental principle of aeronautical engineering has been overturned",
+      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 27\n# Comments: 13",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 30\n# Comments: 12",
+      "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "summary": "Article URL: https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/\nComments URL: https://news.ycombinator.com/item?id=48259990\nPoints: 217\n# Comments: 149",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "title": "Migrating from Go to Rust",
-      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 79\n# Comments: 59",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 73\n# Comments: 49",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 21\n# Comments: 0",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title": "Migrating from Go to Rust",
+      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 116\n# Comments: 111",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -73,6 +73,17 @@
     },
     {
       "id": "007",
+      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
+      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
+      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 28\n# Comments: 0",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
       "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
       "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
       "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
@@ -83,21 +94,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
+      "id": "009",
       "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
       "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 228\n# Comments: 248",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "title": "Ruby for Good",
-      "summary": "Article URL: https://ti.to/codeforgood/rubyforgood\nComments URL: https://news.ycombinator.com/item?id=48258254\nPoints: 98\n# Comments: 42",
+      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 265\n# Comments: 282",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "title": "Usborne 1980s Computer Books",
-      "summary": "Article URL: https://usborne.com/us/books/computer-and-coding-books\nComments URL: https://news.ycombinator.com/item?id=48258194\nPoints: 139\n# Comments: 43",
+      "url": "https://ti.to/codeforgood/rubyforgood",
+      "title": "Ruby for Good",
+      "summary": "Article URL: https://ti.to/codeforgood/rubyforgood\nComments URL: https://news.ycombinator.com/item?id=48258254\nPoints: 108\n# Comments: 48",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
