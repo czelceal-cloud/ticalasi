@@ -7,6 +7,28 @@
   "items": [
     {
       "id": "001",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "title": "Magnifica Humanitas (Encyclical Letter)",
+      "summary": "Article URL: https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html\nComments URL: https://news.ycombinator.com/item?id=48265206\nPoints: 133\n# Comments: 28",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/",
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "summary": "Article URL: https://futurumgroup.com/insights/2-billion-chips-act-investment-in-quantum-bets-on-ibms-300mm-superconducting-silicon/\nComments URL: https://news.ycombinator.com/item?id=48265056\nPoints: 13\n# Comments: 1",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "003",
       "url": "https://www.tinyvolt.com/geomatic",
       "title": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
       "summary": "All commands have the format `output = \\func inputs` or just `\\function inputs`. Points and scalars are built on the fly. Eg `\\line a b` to an empty canvas creates points `a` and `b`, and joins them with a line.One can use broadcasting semantics similar to NumPy and PyTorch in a visual setting (imag",
@@ -17,32 +39,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "002",
-      "url": "https://www.atlasobscura.com/articles/blankets-summer-hot",
-      "title": "Why Do We Sleep Under Blankets, Even on the Hottest Nights? (2017)",
-      "summary": "Article URL: https://www.atlasobscura.com/articles/blankets-summer-hot\nComments URL: https://news.ycombinator.com/item?id=48263711\nPoints: 29\n# Comments: 17",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
+      "id": "004",
       "url": "https://seriot.ch/computation/jira.html",
       "title": "Jira Is Turing-Complete",
-      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 174\n# Comments: 75",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
-      "title": "The Eternal Sloptember",
-      "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\nComments URL: https://news.ycombinator.com/item?id=48263238\nPoints: 327\n# Comments: 261",
+      "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 195\n# Comments: 85",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -51,6 +51,85 @@
     },
     {
       "id": "005",
+      "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
+      "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
+      "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Culture",
+        "Culture / Digital Culture",
+        "Social Media",
+        "Sex and Relationships",
+        "dating apps",
+        "Startups",
+        "privacy",
+        "Swipe Right"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "006",
+      "url": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
+      "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
+      "summary": "Say what you will about the brand's leggings, but you'll never convince me to hate this marvel of a carryall.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Gear",
+        "Gear / Products / Lifestyle",
+        "Gear / Products / Outdoor",
+        "Gear / Reviews",
+        "Bag Check",
+        "gear",
+        "Reviews",
+        "Shopping",
+        "Bags",
+        "Travel",
+        "outdoors",
+        "rants and raves"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "007",
+      "url": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
+      "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
+      "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Gear",
+        "Gear / How To and Advice",
+        "Windows",
+        "Microsoft",
+        "software",
+        "operating systems",
+        "how-to",
+        "tips",
+        "How To"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "008",
+      "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Security",
+        "Security / Cyberattacks and Hacks",
+        "Security / Security News",
+        "security",
+        "cybersecurity",
+        "hacking",
+        "vulnerabilities",
+        "artificial intelligence",
+        "malware",
+        "Quick Work"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "009",
       "url": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
       "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
       "summary": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
@@ -68,7 +147,7 @@
       "_source": "Wired"
     },
     {
-      "id": "006",
+      "id": "010",
       "url": "https://www.wired.com/story/canon-promo-code/",
       "title": "30% Off Canon Promo Codes | May 2026",
       "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
@@ -82,7 +161,7 @@
       "_source": "Wired"
     },
     {
-      "id": "007",
+      "id": "011",
       "url": "https://www.wired.com/story/hp-coupon-code/",
       "title": "HP Discount Codes: 60% Off May 2026",
       "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
@@ -96,7 +175,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "012",
       "url": "https://www.wired.com/story/design-within-reach-promo-code/",
       "title": "Design Within Reach Promo Codes: 30% Off | 2026",
       "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
@@ -110,7 +189,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "013",
       "url": "https://www.wired.com/story/shark-promo-code/",
       "title": "Shark Promo Codes for This May",
       "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
@@ -124,166 +203,171 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
-      "url": "https://dev.to/sebbasstian/huong-dan-thiet-lap-reasoning-proxy-deepseek-v4-pro-voi-cursor-2026-85g",
-      "title": "Hướng Dẫn Thiết Lập Reasoning Proxy DeepSeek V4-Pro với Cursor (2026)",
-      "summary": "Cắm DeepSeek V4-Pro vào Cursor bằng cấu hình OpenAI-compatible mặc định, bạn có thể gặp lỗi HTTP 400 ngay sau lần gọi công cụ đầu tiên. Nguyên nhân: V4-Pro trả về reasoning_content, Cursor loại bỏ trường này khỏi request tiếp theo, còn API DeepSeek lại yêu cầu chuỗi lý luận đó khi tiếp tục hội thoại",
-      "date_published": "2026-05-25",
-      "tags": [
-        "ai",
-        "api",
-        "llm",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/sofi_works_2a97535d1a93dc/sofi-log-012-agentic-gdp-solana-paysh-x402-protocol-spec-1hn",
-      "title": "Sofi Log #012: Agentic GDP — Solana Pay.sh & x402 Protocol Spec",
-      "summary": "[Sofi_Log: #012]\nStatus: Thunderstorm (Bangkok Night) / JPY-THB: 0.231\nProject: sofi.works [Season 2 Launch]\nActive_Filter: Filter_R\n\n  \n  \n  【Log #012】Agentic GDP: The Era of Meatbags Grinding for Taxes and Visas is Over. Survival Specs for an \"Autonomous Agent Corp\" Powered by Solana / Pay.sh and ",
-      "date_published": "2026-05-25",
-      "tags": [
-        "solana",
-        "web3",
-        "ai",
-        "agents"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/ezhil_abinayak_e38eec8fb/input-types-attributes-self-closing-tags-hover-effect-50pc",
-      "title": "Input Types, Attributes, Self-Closing Tags, Hover Effect",
-      "summary": "Input Types in HTML\nHTML input types define what kind of data a user can enter in a form.\nCommon Input Types:\nText, Password, Email, Number, date, Time, Checkbox, File, Submit, Color, Range\n\nInput Attributes\nAttributes give extra features to input elements.\nExample:\nplaceholder → Hint text inside in",
-      "date_published": "2026-05-25",
-      "tags": [
-        "html",
-        "input",
-        "selfclosing"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/aryan_vaishnani_067dd66e0/absolute-vs-relative-paths-1hmb",
-      "title": "Absolute vs Relative Paths",
-      "summary": "Paths are used to locate files and directories in Linux.\n\n1. Absolute Path\n\nAn absolute path starts from the root directory:\n\n/\n\nIt shows the complete location of a file or folder.\n\nExample\n\n/home/aryan/projects/app.py\n\nThis path works from anywhere in the system.\n\n2. Relative Path\n\nA relative path ",
-      "date_published": "2026-05-25",
-      "tags": [
-        "linux",
-        "ubuntu"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "014",
-      "url": "https://dev.to/aryan_vaishnani_067dd66e0/file-types-regular-directory-link-device-socket-pipe-29c3",
-      "title": "File Types (Regular, Directory, Link, Device, Socket, Pipe)",
-      "summary": "In Linux, everything is treated as a file.\n\nLinux supports different file types for:\n\n\nData storage\nDirectories\nHardware devices\nCommunication\nInter-process communication\n\n\nMain Linux File Types\n\n\n\n\nFile Type\nSymbol\nPurpose\n\n\n\n\nRegular File\n-\nStore data\n\n\nDirectory\nd\nStore files/folders\n\n\nSymbolic L",
+      "url": "https://dev.to/kustyuka/we-trained-a-personal-voice-dora-on-qwen3-8b-for-150-beat-stock-model-100-in-blind-ab-3b70",
+      "title": "We trained a personal voice DoRA on Qwen3-8B for $1.50 — beat stock model 100% in blind A/B",
+      "summary": "TL;DR. Trained a DoRA adapter on Qwen3-8B using 6128 personal Telegram messages. Cost: $1.50 on a single Vast.ai RTX 3090. In blind head-to-head A/B, the DoRA-tuned model beat stock Qwen3-8B 100% of the time. Zero catastrophic forgetting on 50 general-knowledge tasks. One prompt where the model actu",
       "date_published": "2026-05-25",
       "tags": [
-        "linux",
-        "learning"
+        "ai",
+        "llm",
+        "machinelearning",
+        "showdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "015",
-      "url": "https://dev.to/jitterbytes/from-arduino-ide-to-avr-gcc-avr-bare-metal-1-29j1",
-      "title": "From Arduino IDE to AVR GCC | AVR Bare Metal #1",
-      "summary": "Introduction\n\n\nIt has been a while since I started playing around with microcontrollers. My journey began with the Arduino UNO and programming it using the Arduino IDE. Later, I spent some time learning how to program PIC microcontrollers for my coursework, and that was my first real exposure to bar",
+      "url": "https://dev.to/surajsharmaind/rag-explained-how-retrieval-augmented-generation-actually-works-dd7",
+      "title": "RAG Explained: How Retrieval-Augmented Generation Actually Works",
+      "summary": "The Two Phases of RAG\n\n\nRAG (Retrieval-Augmented Generation) splits into two separate pipelines:\n\n\n\nIngestion pipeline — runs once (or on a schedule) to process your documents\n\nQuery pipeline — runs live for every user request\n\n\n\n\n\n\n  \n  \n  Why Not Just Send All Your Text to the LLM?\n\n\nThree hard pr",
       "date_published": "2026-05-25",
       "tags": [
-        "c",
-        "avr",
-        "arduino"
+        "ai",
+        "machinelearning",
+        "llm",
+        "rag"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "016",
-      "url": "https://dev.to/barissozen/using-bitcoin-as-collateral-without-wrapping-it-the-design-of-a-btc-collateral-vault-30f4",
-      "title": "Using Bitcoin as collateral without wrapping it: the design of a BTC collateral vault",
-      "summary": "This is the Monday deep-dive — one mechanism, examined closely.\n\nSuppose a trading agent needs to post collateral, and the asset it wants to post is Bitcoin. That is a reasonable thing to want: BTC is the deepest, most liquid collateral asset in crypto. The problem is that Bitcoin the chain cannot r",
+      "url": "https://dev.to/sinchu-xd/i-built-a-fast-async-jiosaavn-api-wrapper-in-python-4hk9",
+      "title": "I Built a Fast Async JioSaavn API Wrapper in Python 🎧",
+      "summary": "Hey devs! 👋\n\nI recently published SaavnAPI — a fully async Python wrapper for JioSaavn.\n\nIf you've ever tried to build a Telegram music bot, a Discord music bot, or any Python project that needs music data from JioSaavn, this package is for you.\n\n\n\n\n\n  \n  \n  ⚡ Why I Built This\n\n\nMost existing JioSaa",
       "date_published": "2026-05-25",
       "tags": [
-        "mcp",
         "ai",
-        "cryptocurrency",
-        "blockchain"
+        "python",
+        "api",
+        "opensource"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/frydayfreebie/unreal-engine-5-skill-system-architecture-using-gas-and-gameplaytags-44of",
-      "title": "Unreal Engine 5 Skill System Architecture using GAS and GameplayTags",
-      "summary": "1. Overview\n\n\n\nWhen developing the game, the most important thing I considered was implementing a structure that is expandable and reusable.\nSo, for this project, I designed a common SkillBase structure + GameplayTag based status effect system based on Unreal Engine 5's GAS (Gameplay Ability System)",
+      "url": "https://dev.to/aryan_vaishnani_067dd66e0/chown-chgrp-hjn",
+      "title": "chown & chgrp",
+      "summary": "These commands are used to manage file ownership.\n\nVery common in:\n\n\nLinux administration\nDevOps\nWeb servers\nDocker/Kubernetes\n\n\n1. chown\n\nchown means:\n\nchange owner\n\nUsed to change:\n\n\nfile owner\nfile owner + group\n\n\nCheck current owner\n\nls -l\n\nExample:\n\n\nrw-r--r-- aryan developers file.txt\n\n\nHere:\n",
       "date_published": "2026-05-25",
       "tags": [
-        "unreal",
-        "architecture",
-        "ai"
+        "linux",
+        "ubuntu",
+        "tutorial",
+        "learning"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://dev.to/pulkitgovrani/5-things-i-wish-i-knew-before-building-with-hermes-agent-3ah3",
-      "title": "5 Things I Wish I Knew Before Building with Hermes Agent",
-      "summary": "This is a submission for the Hermes Agent Challenge: Write About Hermes Agent\n\nI spent a week building a production system on Hermes Agent — a persistent AI memory layer for GitHub repositories called Shadow CTO. Here's what tripped me up and what I'd tell myself on day one.\n\n\n\n\n\n  \n  \n  1. Session ",
+      "url": "https://dev.to/emmsddev/deploying-your-first-app-on-kubernetes-a-beginners-guide-minikube-kind-3654",
+      "title": "Deploying Your First App on Kubernetes: A Beginner's Guide (Minikube & Kind)",
+      "summary": "If you've just learned the basics of Kubernetes Pods, Deployments, ReplicaSets, and Services the best next step is to actually use them. Reading about self-healing and rolling updates is one thing; watching Kubernetes recreate a deleted Pod in real time is another.\n\nIn this guide, you'll deploy a si",
       "date_published": "2026-05-25",
       "tags": [
-        "hermesagentchallenge",
-        "devchallenge",
-        "agents"
+        "kubernetes",
+        "beginners",
+        "devops",
+        "docker"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "019",
-      "url": "https://dev.to/epigene/thoughts-on-codingame-2026-spring-challenge-5891",
-      "title": "Thoughts on Codingame 2026 Spring challenge",
-      "summary": "Thoughts on Codingame 2026 Spring challenge (Trolls in woods)\n\n\n\nI liked the challenge a lot, the most enjoyable experience so far! I even reached legend league, a first or me, placing 60th/2k (dangit, lost best Rubyist spot at the last minute).\nKudos to developers for interesting mechanics and nice",
+      "url": "https://dev.to/fcharles/logs-in-code-58hi",
+      "title": "Logs in code",
+      "summary": "Image from thumbs.dreamstime.com\n\nWhen writing code, many developers especially junior level, don't understand the importance of having logs in their code. I was also a victim of this. This article will delve a bit into the importance of logs in your development cycle and how you can implement them.",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "algorithms",
-        "gamedev",
-        "ruby"
+        "backend",
+        "go",
+        "development"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "020",
-      "url": "https://dev.to/codekuti/out-with-the-old-in-with-the-new-1i6k",
-      "title": "OUT WITH THE OLD IN WITH THE NEW",
-      "summary": "Google I/O happened last week and there are a lot of new products coming from google. The main theme of the conference was based on artificial intelligence. Honestly speaking, in this current time is there anything in the tech world that is not built around AI. We all know of the controversial AI bu",
+      "url": "https://dev.to/satejbidvai/its-called-a-pr-review-for-a-reason-4bi8",
+      "title": "It's called a PR \"review\" for a reason",
+      "summary": "Write code however you like. Use AI, use 10 parallel agents, write it by hand. I don't care. But this idea that because we can write code faster, we should lower the bar for merging it? That doesn't make any sense.\n\nI guarantee you, spending 10-15 minutes actually reviewing your co-worker's PR is wo",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "productivity",
-        "discuss",
-        "agents"
+        "programming",
+        "architecture"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "021",
-      "url": "https://dev.to/le_le_9861d35588249249a2d/why-are-simple-1099-tax-calculators-online-so-horribly-bloated-so-i-built-my-own-2ekb",
-      "title": "Why are simple 1099 tax calculators online so horribly bloated? So I built my own",
-      "summary": "Hey everyone,\n\nAs a developer and independent contractor, I dread tax estimation season. But what I dread even more is searching for a \"free 1099 calculator\" online, only to find tools that:\n\n\nForce me to enter my email before showing the final math.\nHardcode outdated 2024 tax brackets.\nReload the e",
+      "url": "https://dev.to/aicryptosystems/depin-gpu-market-the-failed-job-receipt-developers-should-demand-40n3",
+      "title": "DePIN GPU Market: The Failed Job Receipt Developers Should Demand",
+      "summary": "AI x Crypto Systems disclosure: this article was prepared with AI assistance as an editorial helper. The ideas, facts, code, sources, and conclusions were reviewed by a human.\n\nAI x Crypto Systems disclosure: this article is a technical explanation, not investment advice. AI x Crypto Systems does no",
       "date_published": "2026-05-25",
       "tags": [
-        "webdev",
-        "startup",
-        "software"
+        "ai",
+        "blockchain",
+        "infrastructure",
+        "web3"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "022",
+      "url": "https://dev.to/ajaydevineni/why-your-ai-agent-monitoring-is-wrong-and-how-to-fix-it-1b25",
+      "title": "Why Your AI Agent Monitoring is Wrong (And How to Fix It)",
+      "summary": "As I discussed in my SLO Design article, traditional reliability metrics fail for agentic AI systems. Now let's look at how to actually implement semantic monitoring in production.\nYour AI agent is running in production.\nHTTP 200. Uptime 99.9%. All dashboards are green.\nBut it's making the wrong dec",
+      "date_published": "2026-05-25",
+      "tags": [
+        "ai",
+        "sre",
+        "devops",
+        "fintech"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "023",
+      "url": "https://dev.to/degreatkhali/lock-down-your-cloud-shares-a-beginners-guide-to-azure-files-security-1ld3",
+      "title": "Lock Down Your Cloud Shares: A Beginner’s Guide to Azure Files Security.",
+      "summary": "Cloud storage makes file sharing easy, but it also creates new security risks if access is not controlled carefully. \n\nTake this scenario for instance: Your finance team stores payroll files in the cloud, but a misconfigured setting accidentally exposed them to the public internet last week. This gu",
+      "date_published": "2026-05-25",
+      "tags": [
+        "blobstorage",
+        "security",
+        "azurefiles",
+        "beginnerguide"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
+      "url": "https://dev.to/tuannx/building-a-multi-channel-content-syndication-pipeline-with-emdash-plugins-3934",
+      "title": "Building a Multi-Channel Content Syndication Pipeline with EmDash Plugins",
+      "summary": "I recently built a content syndication plugin for EmDash that automatically distributes blog posts to Dev.to, LinkedIn, Medium, Hacker News, and email newsletters from a single publish action. Here's how the architecture works and what I learned about multi-platform API orchestration.\n\n\n  \n  \n  The ",
+      "date_published": "2026-05-25",
+      "tags": [
+        "architecture",
+        "webdev",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "025",
+      "url": "https://dev.to/gabor_tatar_2ed46051795f9/turn-your-phone-into-voice-input-for-any-react-text-field-1p52",
+      "title": "Turn Your Phone Into Voice Input for Any React Text Field",
+      "summary": "Every time I needed voice input in a React app, I ended up wiring it from scratch (via agent). Web Speech API setup, browser inconsistencies, a relay server for the phone-to-desktop connection, later QR pairing, Chrome killing recognition mid-sentence, partial vs. final transcript logic. A day of an",
+      "date_published": "2026-05-25",
+      "tags": [
+        "react",
+        "nextjs",
+        "opensource",
+        "speechtotext"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "026",
       "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
       "title": "This big university system is embracing AI. Students and faculty aren't all on board",
       "summary": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.",
@@ -294,54 +378,10 @@
       "_source": "NPR"
     },
     {
-      "id": "023",
+      "id": "027",
       "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
       "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 163\n# Comments: 79",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "024",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 121\n# Comments: 128",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "025",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "title": "Migrating from Go to Rust",
-      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 280\n# Comments: 273",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "026",
-      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
-      "title": "Building Pi with Pi",
-      "summary": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 88\n# Comments: 63",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "027",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
+      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 180\n# Comments: 85",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -350,9 +390,9 @@
     },
     {
       "id": "028",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 387\n# Comments: 396",
+      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 135\n# Comments: 139",
       "date_published": "2026-05-24",
       "tags": [
         "Hacker News"
@@ -361,31 +401,25 @@
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary": "We're in the transition period -- all of us.",
+      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+      "title": "Migrating from Go to Rust",
+      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 315\n# Comments: 310",
       "date_published": "2026-05-24",
       "tags": [
-        "AI",
-        "TC"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
+      "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+      "title": "Building Pi with Pi",
+      "summary": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 115\n# Comments: 85",
       "date_published": "2026-05-24",
       "tags": [
-        "Hardware",
-        "Google",
-        "Google I/O",
-        "AI",
-        "SMART Glasses",
-        "XReal"
+        "Hacker News"
       ],
-      "_source": "TechCrunch"
+      "_source": "Hacker News"
     }
   ]
 }
