@@ -1,6 +1,116 @@
 [
   {
     "id": "001",
+    "title": "RentFlow (YC S24) Is Hiring",
+    "summary": "Article URL: https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead\nComments URL: https://news.ycombinator.com/item?id=48269041\nPoints: 0\n# Comments: 0",
+    "url": "https://www.ycombinator.com/companies/rentflow/jobs/V2yneIE-senior-ai-ml-lead",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Uber’s COO says it’s getting harder to justify money spent on tokenmaxxing",
+    "summary": "Article URL: https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5\nComments URL: https://news.ycombinator.com/item?id=48268871\nPoints: 98\n# Comments: 110",
+    "url": "https://www.businessinsider.com/uber-coo-andrew-macdonald-ai-token-spending-harder-justify-2026-5",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+    "summary": "Hey HN! We’re Gary and Ian, and we’re building Chert (https://www.trychert.com/), an API for businesses to send, receive, and automate iMessage conversations at scale. Check out our demo: https://www.youtube.com/watch?v=SRdwvVxMMoI.We originally started by building products on top of iMessage becaus",
+    "url": "https://www.trychert.com",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Hive (YC S14) is hiring sr back-end developers (CA/US remote OK)",
+    "summary": "Article URL: https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481\nComments URL: https://news.ycombinator.com/item?id=48267324\nPoints: 0\n# Comments: 0",
+    "url": "https://jobs.ashbyhq.com/hive.co/538c47f9-d008-49b7-b0d4-583d9294a481",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "The Cost of Safetyism",
+    "summary": "Article URL: https://stevemagness.substack.com/p/the-cost-of-safetyism\nComments URL: https://news.ycombinator.com/item?id=48267290\nPoints: 50\n# Comments: 37",
+    "url": "https://stevemagness.substack.com/p/the-cost-of-safetyism",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "C extensions, portability, and alternative compilers",
+    "summary": "Article URL: https://lemon.rip/w/6-c-extensions-compilers/\nComments URL: https://news.ycombinator.com/item?id=48267126\nPoints: 81\n# Comments: 19",
+    "url": "https://lemon.rip/w/6-c-extensions-compilers/",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+    "summary": "Article URL: https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/\nComments URL: https://news.ycombinator.com/item?id=48266906\nPoints: 161\n# Comments: 34",
+    "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "2026 HIPAA Security Rule Update",
+    "summary": "Article URL: https://medcurity.com/hipaa-security-rule-2026-update/\nComments URL: https://news.ycombinator.com/item?id=48266895\nPoints: 67\n# Comments: 54",
+    "url": "https://medcurity.com/hipaa-security-rule-2026-update/",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Microsoft pulls plug on plans for 244-acre data center in Caledonia (2025)",
+    "summary": "Article URL: https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback\nComments URL: https://news.ycombinator.com/item?id=48266422\nPoints: 106\n# Comments: 81",
+    "url": "https://www.tmj4.com/news/racine-county/microsoft-pulls-plug-on-plans-for-244-acre-data-center-in-caledonia-after-community-pushback",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Leave Me Behind",
+    "summary": "Article URL: http://androidessence.com/leave-me-behind/\nComments URL: https://news.ycombinator.com/item?id=48265876\nPoints: 282\n# Comments: 205",
+    "url": "http://androidessence.com/leave-me-behind/",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "011",
     "title": "What ClickUp’s mass layoff tells us about the future of work",
     "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
     "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
@@ -14,7 +124,7 @@
     ]
   },
   {
-    "id": "002",
+    "id": "012",
     "title": "The pope’s AI encyclical isn’t really about AI",
     "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
     "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
@@ -29,7 +139,7 @@
     ]
   },
   {
-    "id": "003",
+    "id": "013",
     "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
     "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
     "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
@@ -44,7 +154,7 @@
     ]
   },
   {
-    "id": "004",
+    "id": "014",
     "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
     "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
     "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
@@ -65,7 +175,7 @@
     ]
   },
   {
-    "id": "005",
+    "id": "015",
     "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
     "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
     "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
@@ -87,7 +197,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "016",
     "title": "US's big bet on quantum computing may not be entirely legal",
     "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
     "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
@@ -105,7 +215,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "017",
     "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
     "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
     "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
@@ -122,7 +232,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "018",
     "title": "The best Memorial Day sales you can shop this weekend",
     "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals […]",
     "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
@@ -135,7 +245,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "019",
     "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
     "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered wa",
     "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
@@ -151,7 +261,77 @@
     ]
   },
   {
-    "id": "010",
+    "id": "020",
+    "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
+    "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your […]",
+    "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+    "date": "2026-05-25",
+    "source": "The Verge",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "A Swimmer Broke a World Record at the Enhanced Games",
+    "summary": "Dozens of juiced athletes competed at the Enhanced Games in Las Vegas. Most won’t admit what drugs they used.",
+    "url": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
+    "date": "2026-05-25",
+    "source": "Wired",
+    "tags": [
+      "Culture",
+      "Culture / Digital Culture",
+      "olympics",
+      "Sports",
+      "health",
+      "medicine",
+      "politics",
+      "Robert F. Kennedy Jr.",
+      "Peter Thiel",
+      "Supercharged"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
+    "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+    "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
+    "date": "2026-05-25",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Shopping",
+      "Deals",
+      "Memorial Day"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
+    "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models end tonight.",
+    "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-2/",
+    "date": "2026-05-25",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products / Sleep",
+      "Gear / Products / Lifestyle",
+      "Shopping",
+      "Deals",
+      "Sleep",
+      "mattresses",
+      "home",
+      "Bedroom",
+      "Memorial Day"
+    ]
+  },
+  {
+    "id": "024",
     "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
     "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
     "url": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
@@ -166,7 +346,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "025",
     "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
     "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
     "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
@@ -184,7 +364,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "026",
     "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
     "summary": "Say what you will about the brand's leggings, but you'll never convince me to hate this marvel of a carryall.",
     "url": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
@@ -206,7 +386,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "027",
     "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
     "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers.",
     "url": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
@@ -225,7 +405,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "028",
     "title": "The AI Era Is Creating a Bug Hunting Arms Race",
     "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
     "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
@@ -245,7 +425,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "029",
     "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
     "summary": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
     "url": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
@@ -263,7 +443,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "030",
     "title": "30% Off Canon Promo Codes | May 2026",
     "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
     "url": "https://www.wired.com/story/canon-promo-code/",
@@ -274,203 +454,6 @@
       "coupons",
       "Shopping",
       "Coupons"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "HP Discount Codes: 60% Off May 2026",
-    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-    "url": "https://www.wired.com/story/hp-coupon-code/",
-    "date": "2026-05-25",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Design Within Reach Promo Codes: 30% Off | 2026",
-    "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-    "url": "https://www.wired.com/story/design-within-reach-promo-code/",
-    "date": "2026-05-25",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Shark Promo Codes for This May",
-    "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
-    "url": "https://www.wired.com/story/shark-promo-code/",
-    "date": "2026-05-25",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-    "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects.\nThe post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
-    "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
-    "date": "2026-05-25",
-    "source": "GitHub Blog",
-    "tags": [
-      "Developer skills",
-      "GitHub",
-      "Git",
-      "Github",
-      "GitHub for beginners",
-      "VS Code"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Road to Senior #2: How Computers Think in Numbers",
-    "summary": "⏱️ Reading time: 7-9 minutes\n🎯 Difficulty: Beginner - Intermediate\n📂 Themes: Computer Science, Binary, Memory, Performance\n\n\n\n  \n  \n  What's inside?\n\n\n\n\n🔍 The Problem — A CSS color that made me realize I understood nothing\n\n⚡ Bits & Bytes — The two building blocks of everything\n\n🔣 Hex & RGB — Why #F",
-    "url": "https://dev.to/danielledvina/road-to-senior-how-computers-think-in-numbers-1mec",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "computerscience",
-      "programming",
-      "architecture",
-      "career"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "How to Deploy a LangGraph Agent on AWS Bedrock AgentCore",
-    "summary": "You’ve built a LangGraph agent that works fine on your laptop. The next challenge is getting it running in a scalable, serverless production infrastructure without having to redesign the whole thing.\n\nThat’s where AWS Bedrock AgentCore comes in. In this guide, I’ll show you how to put a wrapper for ",
-    "url": "https://dev.to/vfazal/how-to-deploy-a-langgraph-agent-on-aws-bedrock-agentcore-2a9p",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "agents",
-      "aws",
-      "serverless",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "An outreach kit for solo founders whose drafts can't hallucinate",
-    "summary": "An outreach kit for solo founders whose drafts can't hallucinate\n\n\nShort version: five Claude skills, a canonical state file template, and a Python inbox agent that watches Gmail, GitHub, and dev.to for replies. End-to-end pipeline from discovery through logged sends. Self-hosted. $5/mo subscription",
-    "url": "https://dev.to/godspeed2077/an-outreach-kit-for-solo-founders-whose-drafts-cant-hallucinate-d01",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "productivity",
-      "ai",
-      "claude",
-      "sales"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Open Satchel is live",
-    "summary": "Open Satchel is live.\n\nOpen Satchel is local-first document software built around a simple idea: your files should stay yours.\n\nNo forced cloud upload. No account gate. No watermark trap. No subscription wall just to work with your own documents.\n\nThis is early software. It will have bugs, rough edg",
-    "url": "https://dev.to/open_satchel/open-satchel-is-live-5b88",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "privacy",
-      "productivity",
-      "showdev",
-      "sideprojects"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Amy Kwalwasser and the Growing Importance of Quantum Risk Modeling",
-    "summary": "Financial markets are becoming increasingly complex as global systems grow more interconnected and data-driven. Banks, hedge funds, pension funds, insurers, and asset managers now operate in an environment where interest rates, currencies, commodities, equities, and credit markets can all influence ",
-    "url": "https://dev.to/amykwalwasserbrooklyn/amy-kwalwasser-and-the-growing-importance-of-quantum-risk-modeling-5660",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "amykwalwasser",
-      "quantumcomputing",
-      "quantumfinance"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "I Built ShellReq - A Native API Client for VS Code & Terminal",
-    "summary": "ShellReq - Native API Client for VS Code & Terminal\n\n\nA lightweight, native API testing ecosystem designed directly around developer workflow and productivity. No context switching, no bloated UI, just fast API testing exactly where you code.\n\n\n\n\n\n  \n  \n  Quick Links\n\n\n\n\nVS Code Marketplace: maheshs",
-    "url": "https://dev.to/mahesh2112/i-built-shellreq-a-native-api-client-for-vs-code-terminal-3hde",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "vscode",
-      "typescript",
-      "npm"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
-    "summary": "Two stories landed in the same news cycle.\n\nMicrosoft cancelled most internal Claude Code licenses. Windows, Surface, Teams, Outlook, all migrating to GitHub Copilot CLI by June 30. Reporting is consistent on the why: usage exploded, the bills got indefensible, and the company that owns Azure and is",
-    "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "devtools",
-      "opensource",
-      "productivity"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "MADCAP: Building a Multi-Agent Debate CLI That Argues With Itself So You Don't Have To",
-    "summary": "MADCAP (Multi-Agent Debate with a Critic-And-Profile loop). A toy project exploring structured multi-agent debate between LLMs; with an information bottleneck, a memoryless critic and a cross-round profiling loop.\n\n\nFair warning: this is a work-in-progress. Changes get pushed to the repo whenever so",
-    "url": "https://dev.to/adriano-repetti/madcap-building-a-multi-agent-debate-cli-that-argues-with-itself-so-you-dont-have-to-4ob2",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "mad",
-      "agents",
-      "multiagent"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Why most AI fails at IDOR (and how AMAS fixes it with causal reasoning)",
-    "summary": "The problem no one talks about\n\n\nLarge language models are great at pattern matching.\nShow them enough “vulnerable” examples, and they learn the words – not the reason.\n\nThat’s why they struggle with logical vulnerabilities like IDOR, privilege escalation, and workflow bypasses.\n\nThese attacks depen",
-    "url": "https://dev.to/miou/why-most-ai-fails-at-idor-and-how-amas-fixes-it-with-causal-reasoning-517k",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "security",
-      "llm",
-      "cybersecurity"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "How to Audit a Laravel Codebase You've Inherited",
-    "summary": "Most businesses don't inherit a Laravel codebase on purpose. A developer leaves. An agency relationship ends. A company is acquired. A freelancer goes quiet. However it happens, the result is the same: you now own a working application, built by someone you may never speak to again, with no clear pi",
-    "url": "https://dev.to/anatolysilko/how-to-audit-a-laravel-codebase-youve-inherited-2d57",
-    "date": "2026-05-25",
-    "source": "Dev.to",
-    "tags": [
-      "laravel",
-      "php",
-      "webdev",
-      "codequality"
     ]
   }
 ]
