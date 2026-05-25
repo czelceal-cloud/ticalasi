@@ -7,6 +7,71 @@
   "items": [
     {
       "id": "001",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Startups",
+        "AI",
+        "layoff",
+        "ClickUp"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "002",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "AI",
+        "ai encyclical",
+        "Magnifica Humanitas",
+        "pope leo xiv",
+        "the vatican"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "003",
+      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
+      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
+      "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Startups",
+        "Venture",
+        "esports",
+        "esports tournaments",
+        "ark invest"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "004",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "date_published": "2026-05-25",
+      "tags": [
+        "TC",
+        "Startups",
+        "Crypto",
+        "Climate",
+        "Fintech",
+        "Biotech & Health",
+        "AI",
+        "Robotics",
+        "Fundraising",
+        "Startup Battlefield",
+        "TechCrunch Disrupt 2026"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "005",
       "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
       "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
       "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
@@ -28,7 +93,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "002",
+      "id": "006",
       "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
       "title": "US's big bet on quantum computing may not be entirely legal",
       "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
@@ -46,7 +111,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "003",
+      "id": "007",
       "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
       "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
       "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
@@ -63,7 +128,36 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "004",
+      "id": "008",
+      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
+      "title": "The best Memorial Day sales you can shop this weekend",
+      "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals […]",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "009",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered wa",
+      "date_published": "2026-05-25",
+      "tags": [
+        "AI",
+        "Anthropic",
+        "Law",
+        "News",
+        "Policy",
+        "Politics"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "010",
       "url": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
       "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
       "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
@@ -78,7 +172,7 @@
       "_source": "Wired"
     },
     {
-      "id": "005",
+      "id": "011",
       "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
       "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
       "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
@@ -96,7 +190,7 @@
       "_source": "Wired"
     },
     {
-      "id": "006",
+      "id": "012",
       "url": "https://www.wired.com/story/i-stopped-tolerating-crossbody-pain-thanks-to-this-lululemon-duffel/",
       "title": "In Defense of My Attachment to This Lululemon Duffel Bag (2026)",
       "summary": "Say what you will about the brand's leggings, but you'll never convince me to hate this marvel of a carryall.",
@@ -118,7 +212,7 @@
       "_source": "Wired"
     },
     {
-      "id": "007",
+      "id": "013",
       "url": "https://www.wired.com/story/use-tiny11-to-rescue-a-computer-running-windows-10/",
       "title": "Use Tiny11 to Rescue a Computer Running Windows 10",
       "summary": "If you can’t—or don’t want to—upgrade to full Windows 11, consider this lightweight version of Microsoft’s operating system that works on a wide range of computers.",
@@ -137,7 +231,7 @@
       "_source": "Wired"
     },
     {
-      "id": "008",
+      "id": "014",
       "url": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
       "title": "The AI Era Is Creating a Bug Hunting Arms Race",
       "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
@@ -157,7 +251,7 @@
       "_source": "Wired"
     },
     {
-      "id": "009",
+      "id": "015",
       "url": "https://www.wired.com/story/a-probe-took-incredible-pictures-of-mars-on-its-way-to-a-far-off-asteroid/",
       "title": "A Probe Took Incredible Pictures of Mars on Its Way to a Far-Off Asteroid",
       "summary": "NASA took advantage of the recent close approach of the Psyche probe to Mars to calibrate its observation instruments.",
@@ -175,7 +269,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "016",
       "url": "https://www.wired.com/story/canon-promo-code/",
       "title": "30% Off Canon Promo Codes | May 2026",
       "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
@@ -189,7 +283,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "017",
       "url": "https://www.wired.com/story/hp-coupon-code/",
       "title": "HP Discount Codes: 60% Off May 2026",
       "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
@@ -203,7 +297,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "018",
       "url": "https://www.wired.com/story/design-within-reach-promo-code/",
       "title": "Design Within Reach Promo Codes: 30% Off | 2026",
       "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
@@ -217,7 +311,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "019",
       "url": "https://www.wired.com/story/shark-promo-code/",
       "title": "Shark Promo Codes for This May",
       "summary": "Shark makes some seriously powerful vacuums, from handheld vacs to steam mops. Don’t miss $100 off, 10% off, and more limited-time coupons from WIRED.",
@@ -231,242 +325,159 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
-      "url": "https://dev.to/keerthana_696356/from-half-dead-prototype-to-local-only-ai-medical-assistant-rewiring-medclinic-with-github-copilot-42cd",
-      "title": "From Half‑dead Prototype to Local‑Only AI Medical Assistant: Rewiring MedClinic with GitHub Copilot",
-      "summary": "This is a submission for the GitHub Finish‑Up‑A‑Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nI built MedClinic, a fully local AI‑powered medical assistant that runs on a MedGamma‑2B‑class model without any third‑party APIs or cloud services.\n\nInstead of slapping a shiny frontend on an off‑the‑shelf API, ",
-      "date_published": "2026-05-25",
-      "tags": [
-        "devchallenge",
-        "githubchallenge",
-        "ai",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "015",
-      "url": "https://dev.to/moonlitpath1/runninig-a-forkbomb-in-jenkins-41nf",
-      "title": "Runninig a forkbomb in Jenkins",
-      "summary": "Did you think this was the end of my forkbomb chronicles, lol? Of course not! \n\nOf course I had to come with a part 3!\n\nBasically, part infinity of me being bored in college, and doing random sh!t to pass time.\n\n⚠️ Warning: THIS IS JUST A JOKE. DO NOT DO THIS IN PROFESSIONAL CONTEXTS. It can quite l",
-      "date_published": "2026-05-25",
-      "tags": [
-        "bored",
-        "joke",
-        "forkbomb"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "016",
-      "url": "https://dev.to/gmcjr/whats-actually-happening-when-you-use-git-464e",
-      "title": "What’s Actually Happening When You Use Git",
-      "summary": "I’d been using Git comfortably for months before getting uncomfortable with how little I actually understood.\n\ngit add. git commit. git push were memory at this point. But ask me what Git was actually doing under the hood? I couldn’t tell you. I had some (mostly wrong) assumptions but that was about",
-      "date_published": "2026-05-25",
-      "tags": [
-        "git",
-        "softwaredevelopment",
-        "versioncontrol",
-        "gitinternals"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "017",
-      "url": "https://dev.to/joakim_williamhauge_fa48/preventing-recursive-tool-loops-in-langchain-agents-4i87",
-      "title": "Preventing Recursive Tool Loops in LangChain Agents",
-      "summary": "One of the fastest ways for LangChain agents to become unstable in production is not model quality.\n\nIt’s recursive tool loops.\n\n\n\nA workflow starts normally:\n\n\nsearch\nretrieve\nsummarize\n\n\nThen suddenly:\n\n\nthe same tool gets called repeatedly\nretries compound\ncontext grows\ntoken usage spikes\nexecuti",
-      "date_published": "2026-05-25",
-      "tags": [
-        "typescript",
-        "langchain",
-        "ai",
-        "node"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "018",
-      "url": "https://dev.to/uya0526design/building-a-rock-paper-scissors-cli-with-typescript-union-types-conditionals-and-jest-2lc5",
-      "title": "Building a Rock-Paper-Scissors CLI with TypeScript — Union Types, Conditionals, and Jest",
-      "summary": "Introduction\n\n\nThis is my second article as a Java engineer learning TypeScript from scratch.\n\nIn my first article, I built a BMI Calculator CLI and learned about union types, function separation, and Vitest. This time, I built a Rock-Paper-Scissors game (CLI) and focused on:\n\n\nExpressing game \"hand",
-      "date_published": "2026-05-25",
-      "tags": [
-        "typescript",
-        "node",
-        "jest",
-        "beginners"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "019",
-      "url": "https://dev.to/dhrupo/your-ai-coding-agent-wastes-80-of-its-context-fixed-that-with-graph-theory-1mfa",
-      "title": "Your AI Coding Agent Wastes 80% of Its Context. Fixed That with Graph Theory.",
-      "summary": "The problem nobody admits\n\n\nWhen you give Claude Code, Cursor, or Codex a task like \"fix the login validation bug\", here's what they usually do:\n\n\nRun grep -l login src/ → 17 files\nRead all 17 files top-to-bottom (because context is \"free\")\nSpend 80% of the model's context window on irrelevant impor",
-      "date_published": "2026-05-25",
-      "tags": [
-        "ai",
-        "claude",
-        "llm",
-        "typescript"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "020",
-      "url": "https://dev.to/sanket-parmar/why-flutter-has-become-the-go-to-framework-for-fintech-app-development-4c0c",
-      "title": "Why Flutter Has Become the Go-To Framework for Fintech App Development",
-      "summary": "Africa is the fastest-growing fintech market globally, with revenues projected to expand 13x by 2030. The continent already accounts for the majority of global mobile money transaction volume. That kind of growth demands more than ambition; it demands the right tools. Africa's digital payments marke",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects.\nThe post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
       "date_published": "2026-05-25",
       "tags": [
-        "flutter",
-        "software",
-        "fintech",
-        "saas"
+        "Developer skills",
+        "GitHub",
+        "Git",
+        "Github",
+        "GitHub for beginners",
+        "VS Code"
       ],
-      "_source": "Dev.to"
+      "_source": "GitHub Blog"
     },
     {
       "id": "021",
-      "url": "https://dev.to/hoanluong123/we-built-a-scripting-language-just-for-ai-agents-heres-why-1gm9",
-      "title": "We built a scripting language just for AI agents. Here's why.",
-      "summary": "One of our AI agents deleted a directory it was never supposed to touch. The Python it wrote was valid. The model was confident. It did the wrong thing.\n\nThe agent was only supposed to query a database. But we gave it a full Python runtime, so it had access to os, shutil, everything. That's when we ",
+      "url": "https://dev.to/danielledvina/road-to-senior-how-computers-think-in-numbers-1mec",
+      "title": "Road to Senior #2: How Computers Think in Numbers",
+      "summary": "⏱️ Reading time: 7-9 minutes\n🎯 Difficulty: Beginner - Intermediate\n📂 Themes: Computer Science, Binary, Memory, Performance\n\n\n\n  \n  \n  What's inside?\n\n\n\n\n🔍 The Problem — A CSS color that made me realize I understood nothing\n\n⚡ Bits & Bytes — The two building blocks of everything\n\n🔣 Hex & RGB — Why #F",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "cpp",
-        "llm",
-        "programming"
+        "computerscience",
+        "programming",
+        "architecture",
+        "career"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "022",
-      "url": "https://dev.to/k08200/stop-building-ai-inboxes-build-decision-layers-instead-3id7",
-      "title": "Stop building AI inboxes. Build decision layers instead.",
-      "summary": "I spent six months building an AI-powered email tool. Then I deleted half of it.\n\nNot because the model was bad. Not because the embeddings were off. Because I finally noticed what every \"AI inbox\" on the market — including the one I was building — was actually doing.\n\nThey were surfacing more.\n\nMor",
+      "url": "https://dev.to/vfazal/how-to-deploy-a-langgraph-agent-on-aws-bedrock-agentcore-2a9p",
+      "title": "How to Deploy a LangGraph Agent on AWS Bedrock AgentCore",
+      "summary": "You’ve built a LangGraph agent that works fine on your laptop. The next challenge is getting it running in a scalable, serverless production infrastructure without having to redesign the whole thing.\n\nThat’s where AWS Bedrock AgentCore comes in. In this guide, I’ll show you how to put a wrapper for ",
       "date_published": "2026-05-25",
       "tags": [
-        "productivity",
-        "ai",
-        "typescript",
-        "webdev"
+        "agents",
+        "aws",
+        "serverless",
+        "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "023",
-      "url": "https://dev.to/ben/meme-monday-194f",
-      "title": "Meme Monday",
-      "summary": "Meme Monday!\n\nToday's cover image comes from the last thread.\n\nDEV is an inclusive space! Humor in poor taste will be downvoted by mods.",
+      "url": "https://dev.to/godspeed2077/an-outreach-kit-for-solo-founders-whose-drafts-cant-hallucinate-d01",
+      "title": "An outreach kit for solo founders whose drafts can't hallucinate",
+      "summary": "An outreach kit for solo founders whose drafts can't hallucinate\n\n\nShort version: five Claude skills, a canonical state file template, and a Python inbox agent that watches Gmail, GitHub, and dev.to for replies. End-to-end pipeline from discovery through logged sends. Self-hosted. $5/mo subscription",
       "date_published": "2026-05-25",
       "tags": [
-        "jokes",
-        "discuss",
-        "watercooler"
+        "productivity",
+        "ai",
+        "claude",
+        "sales"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "024",
-      "url": "https://dev.to/ajaykr089/why-i-built-editoraui-react-27hj",
-      "title": "Why I Built @editora/ui-react?",
-      "summary": "After building multiple SaaS products, admin dashboards, AI tools, and enterprise platforms, I kept running into the same issue:\n\nMost React UI libraries are either:\n\n\nToo bloated\nHard to customize\nDesign-opinionated\nDifficult to scale for enterprise apps\n\n\nSo I started building my own system.\n\nIntr",
+      "url": "https://dev.to/open_satchel/open-satchel-is-live-5b88",
+      "title": "Open Satchel is live",
+      "summary": "Open Satchel is live.\n\nOpen Satchel is local-first document software built around a simple idea: your files should stay yours.\n\nNo forced cloud upload. No account gate. No watermark trap. No subscription wall just to work with your own documents.\n\nThis is early software. It will have bugs, rough edg",
       "date_published": "2026-05-25",
       "tags": [
-        "webdev",
-        "javascript",
-        "react",
-        "typescript"
+        "privacy",
+        "productivity",
+        "showdev",
+        "sideprojects"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "025",
-      "url": "https://dev.to/tracygjg/are-ai-tools-the-next-level-of-abstraction-in-software-development-2cig",
-      "title": "Are AI tools the next level of abstraction in software development?",
-      "summary": "We created assembly code so we did not have to remember all the numbers that make up machine code instruction sets.\n\nWe created programming languages so we could forget the specifics of proprietary CPUs and operating systems.\n\nAre we now adopting LLMs and MCPs so we don’t have to learn programming l",
+      "url": "https://dev.to/amykwalwasserbrooklyn/amy-kwalwasser-and-the-growing-importance-of-quantum-risk-modeling-5660",
+      "title": "Amy Kwalwasser and the Growing Importance of Quantum Risk Modeling",
+      "summary": "Financial markets are becoming increasingly complex as global systems grow more interconnected and data-driven. Banks, hedge funds, pension funds, insurers, and asset managers now operate in an environment where interest rates, currencies, commodities, equities, and credit markets can all influence ",
       "date_published": "2026-05-25",
       "tags": [
-        "ai",
-        "programming",
-        "discuss"
+        "amykwalwasser",
+        "quantumcomputing",
+        "quantumfinance"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "026",
-      "url": "https://www.npr.org/2026/05/25/nx-s1-5772820/artificial-intelligence-education-technology-california-state-university",
-      "title": "This big university system is embracing AI. Students and faculty aren't all on board",
-      "summary": "The California State University system offers an early look at what happens when an administration commits to a technology that its own community isn't convinced will improve education.",
+      "url": "https://dev.to/mahesh2112/i-built-shellreq-a-native-api-client-for-vs-code-terminal-3hde",
+      "title": "I Built ShellReq - A Native API Client for VS Code & Terminal",
+      "summary": "ShellReq - Native API Client for VS Code & Terminal\n\n\nA lightweight, native API testing ecosystem designed directly around developer workflow and productivity. No context switching, no bloated UI, just fast API testing exactly where you code.\n\n\n\n\n\n  \n  \n  Quick Links\n\n\n\n\nVS Code Marketplace: maheshs",
       "date_published": "2026-05-25",
       "tags": [
-        "NPR"
+        "opensource",
+        "vscode",
+        "typescript",
+        "npm"
       ],
-      "_source": "NPR"
+      "_source": "Dev.to"
     },
     {
       "id": "027",
-      "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
-      "title": "Everyone is navigating AI security in real time — even Google",
-      "summary": "We're in the transition period -- all of us.",
-      "date_published": "2026-05-24",
+      "url": "https://dev.to/jon_at_backboardio/if-microsoft-and-uber-cant-afford-ai-coding-what-chance-do-the-rest-of-us-have-4odn",
+      "title": "If Microsoft and Uber can't afford AI coding, what chance do the rest of us have?",
+      "summary": "Two stories landed in the same news cycle.\n\nMicrosoft cancelled most internal Claude Code licenses. Windows, Surface, Teams, Outlook, all migrating to GitHub Copilot CLI by June 30. Reporting is consistent on the why: usage exploded, the bills got indefensible, and the company that owns Azure and is",
+      "date_published": "2026-05-25",
       "tags": [
-        "AI",
-        "TC"
+        "ai",
+        "devtools",
+        "opensource",
+        "productivity"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "028",
-      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
-      "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
-      "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
-      "date_published": "2026-05-24",
+      "url": "https://dev.to/adriano-repetti/madcap-building-a-multi-agent-debate-cli-that-argues-with-itself-so-you-dont-have-to-4ob2",
+      "title": "MADCAP: Building a Multi-Agent Debate CLI That Argues With Itself So You Don't Have To",
+      "summary": "MADCAP (Multi-Agent Debate with a Critic-And-Profile loop). A toy project exploring structured multi-agent debate between LLMs; with an information bottleneck, a memoryless critic and a cross-round profiling loop.\n\n\nFair warning: this is a work-in-progress. Changes get pushed to the repo whenever so",
+      "date_published": "2026-05-25",
       "tags": [
-        "Hardware",
-        "Google",
-        "Google I/O",
-        "AI",
-        "SMART Glasses",
-        "XReal"
+        "ai",
+        "mad",
+        "agents",
+        "multiagent"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "029",
-      "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
-      "title": "6 kitchen gadgets that make adulting feel easier",
-      "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
-      "date_published": "2026-05-24",
+      "url": "https://dev.to/miou/why-most-ai-fails-at-idor-and-how-amas-fixes-it-with-causal-reasoning-517k",
+      "title": "Why most AI fails at IDOR (and how AMAS fixes it with causal reasoning)",
+      "summary": "The problem no one talks about\n\n\nLarge language models are great at pattern matching.\nShow them enough “vulnerable” examples, and they learn the words – not the reason.\n\nThat’s why they struggle with logical vulnerabilities like IDOR, privilege escalation, and workflow bypasses.\n\nThese attacks depen",
+      "date_published": "2026-05-25",
       "tags": [
-        "Hardware",
-        "Gadgets",
-        "Cooking Gadgets",
-        "Kitchen gadgets",
-        "robot chef",
-        "evergreens"
+        "ai",
+        "security",
+        "llm",
+        "cybersecurity"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     },
     {
       "id": "030",
-      "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
-      "title": "TechCrunch Mobility: Robotaxi reality check",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "date_published": "2026-05-24",
+      "url": "https://dev.to/anatolysilko/how-to-audit-a-laravel-codebase-youve-inherited-2d57",
+      "title": "How to Audit a Laravel Codebase You've Inherited",
+      "summary": "Most businesses don't inherit a Laravel codebase on purpose. A developer leaves. An agency relationship ends. A company is acquired. A freelancer goes quiet. However it happens, the result is the same: you now own a working application, built by someone you may never speak to again, with no clear pi",
+      "date_published": "2026-05-25",
       "tags": [
-        "Transportation",
-        "Elon Musk",
-        "SpaceX",
-        "Tesla",
-        "xAI",
-        "Waymo",
-        "robotaxi",
-        "techcrunch mobility"
+        "laravel",
+        "php",
+        "webdev",
+        "codequality"
       ],
-      "_source": "TechCrunch"
+      "_source": "Dev.to"
     }
   ]
 }
