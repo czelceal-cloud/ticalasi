@@ -1,37 +1,31 @@
 [
   {
     "id": "001",
-    "title": "30% Off Canon Promo Codes | May 2026",
-    "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
-    "url": "https://www.wired.com/story/canon-promo-code/",
+    "title": "Jira Is Turing-Complete",
+    "summary": "Article URL: https://seriot.ch/computation/jira.html\nComments URL: https://news.ycombinator.com/item?id=48263253\nPoints: 120\n# Comments: 39",
+    "url": "https://seriot.ch/computation/jira.html",
     "date": "2026-05-25",
-    "source": "Wired",
+    "source": "Hacker News",
     "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Hacker News"
     ]
   },
   {
     "id": "002",
-    "title": "HP Discount Codes: 60% Off May 2026",
-    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
-    "url": "https://www.wired.com/story/hp-coupon-code/",
+    "title": "The Eternal Sloptember",
+    "summary": "Article URL: https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html\nComments URL: https://news.ycombinator.com/item?id=48263238\nPoints: 283\n# Comments: 208",
+    "url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
     "date": "2026-05-25",
-    "source": "Wired",
+    "source": "Hacker News",
     "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Hacker News"
     ]
   },
   {
     "id": "003",
-    "title": "Design Within Reach Promo Codes: 30% Off | 2026",
-    "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
-    "url": "https://www.wired.com/story/design-within-reach-promo-code/",
+    "title": "30% Off Canon Promo Codes | May 2026",
+    "summary": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this May.",
+    "url": "https://www.wired.com/story/canon-promo-code/",
     "date": "2026-05-25",
     "source": "Wired",
     "tags": [
@@ -57,171 +51,285 @@
   },
   {
     "id": "005",
-    "title": "Principal Components in TypeScript (Part 3)",
-    "summary": "This is part three of a series Principal Components in TypeScript and focuses on the application of PCA to a visual explanation of vision neural networks\n\n\n  \n  \n  TL;DR\n\n\nIf you need a TL;DR, just read the code or grab the package here on npm\n\n\n\n\n\n  \n  \n  Not a Code Blog\n\n\nThis is not a code blog. ",
-    "url": "https://dev.to/bitanath/principal-components-in-typescript-part-3-216g",
+    "title": "HP Discount Codes: 60% Off May 2026",
+    "summary": "Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.",
+    "url": "https://www.wired.com/story/hp-coupon-code/",
     "date": "2026-05-25",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "typescript",
-      "datascience",
-      "analytics"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "006",
-    "title": "Gemma 4 CAD Orchestrator",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nGemma 4 CAD Orchestrator is a cloud-native, AI-powered parametric CAD application that lets engineers describe mechanical parts in plain English and instantly see them rendered in 2D blueprint view and 3D int",
-    "url": "https://dev.to/aravind_d/gemma-4-cad-orchestrator-1d1i",
+    "title": "Design Within Reach Promo Codes: 30% Off | 2026",
+    "summary": "Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.",
+    "url": "https://www.wired.com/story/design-within-reach-promo-code/",
     "date": "2026-05-25",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "007",
-    "title": "I built a local Postgres triage co-pilot because HIPAA says I can't paste plans into ChatGPT or Claude",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nI am a Staff DBA at a top public healthcare company. I look after MS SQL Server and PostgreSQL fleets, and every one of our database servers is on-prem and air-gapped. We do not have the option to use a front",
-    "url": "https://dev.to/sireesha_chavvakula_0f6ba/i-built-a-local-postgres-triage-co-pilot-because-hipaa-says-i-cant-paste-plans-into-chatgpt-or-4pdl",
+    "title": "Asynchronous Functions in Dart",
+    "summary": "In a previous post synchronous functions and iterators have been explained. Those functions are blocking, and in our daily busy life, we don't want our programs to block, we want a smooth experience. Well, if you are coding in C or C++, you should probably know pthreads, a library used to create thr",
+    "url": "https://dev.to/niamtokik/asynchronous-functions-in-dart-i0a",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "postgres",
-      "ai"
+      "dart",
+      "asynchronous",
+      "future",
+      "stream"
     ]
   },
   {
     "id": "008",
-    "title": "Live Holographic Editor In Fractal Time",
-    "summary": "https://www.facebook.com/reel/998276146091090\n\nThe  photo demonstrates the process of working with new types of the holograms. Interaction with these holograms takes place directly within the wavefront itself,  experimenting with resonance. This footage represents a fragment of a future wavefront-ba",
-    "url": "https://dev.to/nikolaysuslov/live-holographic-editor-in-fractal-time-34lj",
+    "title": "How I migrated magic-link login from Resend to AWS SES + Lambda five days before launch",
+    "summary": "I run toui.io, a URL shortener I shipped to the public on April 7, 2026. Eleven days before launch I had passwordless email login working on Resend. Five days before launch I tore it out and rebuilt the same flow on AWS — Lambda + DynamoDB + SES + API Gateway, packaged as a SAM stack.\n\nThe whole mig",
+    "url": "https://dev.to/thebrecht/how-i-migrated-magic-link-login-from-resend-to-aws-ses-lambda-five-days-before-launch-5f56",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "programming",
-      "mixedreality",
-      "computerscience"
+      "aws",
+      "serverless",
+      "saas",
+      "webdev"
     ]
   },
   {
     "id": "009",
-    "title": "Everbench: A document management system with Local Intelligence",
-    "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\n\n  \n  \n  Everbench\n\n\nFor more background, here's a link to an extended blog post.\n\nEverbench is a low-cost, efficient document research platform for those concerned about privacy.\n\nI've been working on a proj",
-    "url": "https://dev.to/jordanh/everbench-a-document-management-system-with-local-intelligence-5fj8",
+    "title": "Edge Computing",
+    "summary": "Edge computing is simply localized data processing. But is it still edge computing if it is not connected to the internet? The answer is yes, it is still considered edge computing even when disconnected from the cloud. Edge computing is defined by processing data locally at or near the source—such a",
+    "url": "https://dev.to/binath/edge-computing-2j1n",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "gemmachallenge",
-      "gemma"
+      "iot",
+      "computerscience",
+      "embeddedsystems"
     ]
   },
   {
     "id": "010",
-    "title": "Instanton in Fractal Time",
-    "summary": "https://www.facebook.com/reel/1522546685934753\n\nThis is not a standard animation of an instanton's \"life,\" but rather a recording captured through an \"lens of the eye\" that adapts itself to the instanton. Drived by fractal time generator. The fractional order of the operator \"breathes\" in rhythm wit",
-    "url": "https://dev.to/nikolaysuslov/instanton-in-fractal-time-4ip7",
+    "title": "He creado una empresa ficticia IT/OT para poder encontrar sus vulnerabilidades y reforzar su seguridad en sus activos críticos",
+    "summary": "Empecé diseñando una empresa ficticia que pudiera contar con activos y servicios reales en el sector industrial. \nTras tener la empresa con características reales, le realicé un estudio y análisis del riesgo potencial. Con él, averigüé cuales eran los servicios y activos críticos que podrían dañar e",
+    "url": "https://dev.to/borja_ros/he-creado-una-empresa-ficticia-itot-para-poder-encontrar-sus-vulnerabilidades-y-reforzar-su-5af0",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "algorithms",
-      "computerscience",
-      "science",
-      "showdev"
+      "cybersecurity",
+      "opensource",
+      "python",
+      "linux"
     ]
   },
   {
     "id": "011",
-    "title": "The Hidden Features of Claude",
-    "summary": "Most people use Claude like a chatbot.\n\nAsk a question. Get an answer. Maybe generate some code or summarize a PDF.\n\nThat’s it.\n\nBut after spending more time with Claude, I realized most users are barely scratching the surface of what it can actually do.\n\nClaude has quietly evolved into something mu",
-    "url": "https://dev.to/devrikshith/the-hidden-features-of-claude-1e0m",
+    "title": "Why I Built @editora/react",
+    "summary": "After building multiple SaaS platforms, CMS tools, and AI-powered applications, I kept facing the same problem:\n\nMost React editor libraries were either:\n\nToo heavy\nHard to customize\nDifficult to scale\nNot optimized for modern AI workflows\n\nSo I decided to build my own.\n\nIntroducing @editora/react —",
+    "url": "https://dev.to/ajay_kumar_7616abfe52e052/why-i-built-editorareact-a4c",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "claude",
-      "llm",
-      "productivity"
+      "javascript",
+      "react",
+      "showdev",
+      "typescript"
     ]
   },
   {
     "id": "012",
-    "title": "How I Built an AI News Brief with Next.js, Supabase, Vercel, and GPT-4o-mini",
-    "summary": "Over the past few months, I have been building a small AI news brief called DeepSignal.\n\nThe idea started from a simple personal frustration:\n\nI was reading X, Hacker News, arXiv, OpenAI and Anthropic blogs, product launch pages, newsletters, and company updates every day, but still felt like I was ",
-    "url": "https://dev.to/jacob_chen_6b44c7aa03f8fc/how-i-built-an-ai-news-brief-with-nextjs-supabase-vercel-and-gpt-4o-mini-2ad5",
+    "title": "I built a tiny UGC script generator because hooks are the hardest part",
+    "summary": "I kept seeing the same problem with tiny products and creator videos: the product is fine, but the first line is too soft.\n\nPeople do not stop scrolling for:\n\n\n\"Here is our new app...\"\n\n\nThey stop when the first line names a pain they already feel.\n\nSo I built a small tool called ScriptHook. You pas",
+    "url": "https://dev.to/tram_victor_c7ad31e2add9e/i-built-a-tiny-ugc-script-generator-because-hooks-are-the-hardest-part-29ki",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "productivity",
-      "nextjs",
-      "supabase",
-      "seo"
+      "marketing",
+      "showdev",
+      "sideprojects",
+      "startup"
     ]
   },
   {
     "id": "013",
-    "title": "How We Built a Multi-Agent AI Documentation System (And What We Learned)",
-    "summary": "Last quarter at Zeppelin Labs, we shipped Orchestrator-15 — a multi-agent documentation generation platform that takes a codebase or idea spec and produces production-grade technical documentation using coordinated AI agents.\n\nThis post covers the architecture, the mistakes, and the specific pattern",
-    "url": "https://dev.to/madnansultan/how-we-built-a-multi-agent-ai-documentation-system-and-what-we-learned-3mce",
+    "title": "The Phone Is Becoming the New Terminal",
+    "summary": "Photo by Bayu Syaits on Unsplash.\n\nCoding with AI is starting to feel weird.\n\nNot because the tools can write code.\n\nThat part is already old news.\n\nThe weird part is that the work keeps going after you leave your desk.\n\nYou start a task.\n\nYou walk away.\n\nThen your phone asks whether the AI should r",
+    "url": "https://dev.to/futuresignalbrief/the-phone-is-becoming-the-new-terminal-bfm",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "python",
-      "career",
-      "machinelearning"
+      "discuss"
     ]
   },
   {
     "id": "014",
-    "title": "I got tired of writing post-mortems — so I built RCAi for SREs",
-    "summary": "I'm an SRE at Sony Interactive Entertainment. After a week where my teammate had four incidents (and four RCAs), I built something for the blank-page problem after every outage.\n\n\n  \n  \n  What RCAi does\n\n\nRCAi turns an incident timeline into a structured post-mortem / RCA:\n\n\nExecutive summary, timel",
-    "url": "https://dev.to/rcaiapp/i-got-tired-of-writing-post-mortems-on-sunday-so-i-built-rcai-for-sres-3j0a",
+    "title": "Why Most AI Music Tools Feel Wrong to Developers",
+    "summary": "I’ve been experimenting with AI music tools recently while working on short-form content workflows and side projects.\n\nAnd after testing multiple products, I realized something interesting:\n\n\nMost AI music tools are designed like entertainment products — not developer tools.\n\n\nThat sounds subtle, bu",
+    "url": "https://dev.to/wesley_cd57c0eb0d1c550778/why-most-ai-music-tools-feel-wrong-to-developers-2p7p",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "sre",
-      "devops",
       "ai",
-      "postmortem"
+      "music",
+      "agents",
+      "programming"
     ]
   },
   {
     "id": "015",
-    "title": "MIA: A Futuristic AI Desktop Assistant Built with Voice, Gestures, and Controlled Chaos",
-    "summary": "Most desktop assistants today feel like they were designed by someone whose greatest ambition was setting timers.\n\nI wanted something different.\n\nSo I built MIA short for My Intelligent Assistant — an AI-powered desktop assistant that combines voice interaction, hand gesture recognition, HUD overlay",
-    "url": "https://dev.to/trojanmocx/mia-a-futuristic-ai-desktop-assistant-built-with-voice-gestures-and-controlled-chaos-1259",
+    "title": "Goroutines vs. Promises: Why Go and JavaScript Look at Concurrency Completely Differently",
+    "summary": "Handling concurrency is one of the most critical decisions in modern software architecture. When applications need to handle thousands of simultaneous tasks—like serving HTTP requests, streaming data, or background processing. The design of a language’s concurrency model dictates how easily develope",
+    "url": "https://dev.to/juma_evans_34e389ef539266/goroutines-vs-promises-why-go-and-javascript-look-at-concurrency-completely-differently-24ja",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "ai",
       "programming",
       "productivity",
-      "beginners"
+      "javascript",
+      "go"
     ]
   },
   {
     "id": "016",
-    "title": "Best Programming Language for Backend Web Development: PHP vs Python",
-    "summary": "Something I get asked constantly by developers picking up their second or third language: PHP or Python for the backend?\n\nMy answer used to be more confident than it should have been. I had a preference, I leaned on it, and I gave advice that was really just personal bias dressed up as guidance. Aft",
-    "url": "https://dev.to/sahil_khurana_486f374ecf2/best-programming-language-for-backend-web-development-php-vs-python-32f4",
+    "title": "How I Use Antigravity 2.0 to Navigate Open-Source Codebases and Make Better Technical Decisions",
+    "summary": "This is a submission for the Google I/O Writing Challenge\n\n\n\n\n\n  \n  \n  Hook: The Tool That Changed How I Contribute to Open Source\n\n\nI'll be honest — for the past two years, whenever someone asked me what AI coding tool to use, my answer was automatic: Claude Code or Codex, pick your poison. Google?",
+    "url": "https://dev.to/ubayedbinsufian/how-i-use-antigravity-20-to-navigate-open-source-codebases-and-make-better-technical-decisions-2ic3",
     "date": "2026-05-25",
     "source": "Dev.to",
     "tags": [
-      "python",
-      "php",
-      "laravel",
-      "softwaredevelopment"
+      "googleio",
+      "ai",
+      "opensource",
+      "tutorial"
     ]
   },
   {
     "id": "017",
+    "title": "Understanding Basic HTML & CSS Concepts for Beginners",
+    "summary": "While learning Full Stack Web Development, I explored some important HTML and CSS concepts that help in building clean and responsive websites.\nGlobal Selector (*)\nThe global selector is used to apply styles to all elements in a webpage.\n{\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\nIt he",
+    "url": "https://dev.to/ezhil_abinayak_e38eec8fb/understanding-basic-html-css-concepts-for-beginners-48db",
+    "date": "2026-05-25",
+    "source": "Dev.to",
+    "tags": [
+      "html",
+      "css",
+      "frontend"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Go Error Handling: Annoying or Awesome?",
+    "summary": "For weeks when I was completely new to coding,I would always keep wondering; \"What did I get myself into?\", barely understanding what I'm looking at whenever I come across code that looked like this:\n\n\n\nfile, err := os.Open(\"data.txt\")\nif err != nil {\n    log.Fatal(err)\n}\n\ndata, err := io.ReadAll(fi",
+    "url": "https://dev.to/its_ryann/go-error-handling-annoying-or-awesome-4dja",
+    "date": "2026-05-25",
+    "source": "Dev.to",
+    "tags": [
+      "beginners",
+      "webdev",
+      "go",
+      "softwareengineering"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "A fundamental principle of aeronautical engineering has been overturned",
+    "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 147\n# Comments: 73",
+    "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Migrating from Go to Rust",
+    "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 238\n# Comments: 224",
+    "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Building Pi with Pi",
+    "summary": "Article URL: https://lucumr.pocoo.org/2026/5/24/pi-oss/\nComments URL: https://news.ycombinator.com/item?id=48259192\nPoints: 76\n# Comments: 36",
+    "url": "https://lucumr.pocoo.org/2026/5/24/pi-oss/",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+    "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
+    "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 371\n# Comments: 382",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+    "summary": "Article URL: https://audiomass.co/?multitrack=1\nComments URL: https://news.ycombinator.com/item?id=48258015\nPoints: 327\n# Comments: 67",
+    "url": "https://audiomass.co/?multitrack=1",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+    "summary": "Related ongoing thread:DeepSeek makes the V4 Pro price discount permanent - https://news.ycombinator.com/item?id=48237663 - May 2026 (384 comments)\n\nComments URL: https://news.ycombinator.com/item?id=48256953\nPoints: 536\n# Comments: 225",
+    "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "summary": "Article URL: https://arxiv.org/abs/2605.06445\nComments URL: https://news.ycombinator.com/item?id=48256912\nPoints: 227\n# Comments: 121",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "date": "2026-05-24",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "027",
     "title": "Everyone is navigating AI security in real time — even Google",
     "summary": "We're in the transition period -- all of us.",
     "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -233,7 +341,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "028",
     "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
     "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
     "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
@@ -249,7 +357,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "029",
     "title": "6 kitchen gadgets that make adulting feel easier",
     "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
     "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
@@ -265,7 +373,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "030",
     "title": "TechCrunch Mobility: Robotaxi reality check",
     "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
     "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
@@ -280,158 +388,6 @@
       "Waymo",
       "robotaxi",
       "techcrunch mobility"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
-    "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
-    "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
-    "date": "2026-05-24",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Amazon",
-      "AI hardware",
-      "Bee wearable"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "The Dreamie alarm clock got me to stop using my phone in bed",
-    "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
-    "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
-    "date": "2026-05-24",
-    "source": "TechCrunch",
-    "tags": [
-      "Hardware",
-      "dreamie"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Whatever the mirror test tells us, beluga whales pass it",
-    "summary": "The white whales join the short, contested list of animals that see themselves.",
-    "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
-    "date": "2026-05-24",
-    "source": "Ars Technica",
-    "tags": [
-      "Science",
-      "animal cognition",
-      "Biology",
-      "consciousness",
-      "mirror test",
-      "neurobiology",
-      "self-awareness"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "The best Memorial Day sales you can shop this weekend",
-    "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything […",
-    "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-    "date": "2026-05-24",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "On Trails is a wandering tale that blends hiking, science, and history",
-    "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself try",
-    "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-    "date": "2026-05-24",
-    "source": "The Verge",
-    "tags": [
-      "Book Review",
-      "Books",
-      "Column",
-      "Entertainment",
-      "Science"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-    "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB […]",
-    "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
-    "date": "2026-05-24",
-    "source": "The Verge",
-    "tags": [
-      "Apple",
-      "Deals",
-      "Gadgets",
-      "Laptops",
-      "Tech",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Hackers are learning to exploit chatbot ‘personalities’",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau",
-    "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
-    "date": "2026-05-24",
-    "source": "The Verge",
-    "tags": [
-      "AI",
-      "Column",
-      "Security",
-      "Tech",
-      "The Stepback"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
-    "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually bet",
-    "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
-    "date": "2026-05-24",
-    "source": "The Verge",
-    "tags": [
-      "Autonomous Cars",
-      "Report",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
-    "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-    "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
-    "date": "2026-05-24",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Shopping",
-      "Deals",
-      "Memorial Day"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
-    "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
-    "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
-    "date": "2026-05-24",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Sleep",
-      "Gear / Products / Lifestyle",
-      "Shopping",
-      "Deals",
-      "Sleep",
-      "mattresses",
-      "home",
-      "Bedroom",
-      "Memorial Day"
     ]
   }
 ]
