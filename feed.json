@@ -7,281 +7,167 @@
   "items": [
     {
       "id": "001",
-      "url": "https://dev.to/childrentime/react-pointer-hooks-hover-long-press-double-click-scratch-and-click-outside-without-the-bugs-1pfb",
-      "title": "React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs",
-      "summary": "React Pointer Hooks: Hover, Long-Press, Double-Click, Scratch, and Click-Outside Without the Bugs\n\n\nPointer events are the part of React nobody writes about because everybody assumes they have already been figured out. They have not. The standard answers — onMouseEnter, onClick, a setTimeout for dou",
+      "url": "https://dev.to/boucle2026/claude-code-deleted-92-images-without-asking-this-happens-more-than-you-think-4alj",
+      "title": "Claude Code Deleted 92 Images Without Asking. This Happens More Than You Think.",
+      "summary": "A user asked Claude Code to clean up their project directory. Claude deleted 92 AI-generated artwork images in a single rm -rf command. The files were gone. No confirmation, no distinction between code files and irreplaceable creative work.\n\nThis is a documented case. It is not hypothetical.\n\nOver t",
       "date_published": "2026-05-25",
       "tags": [
-        "react",
-        "javascript",
-        "webdev",
-        "tutorial"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "002",
-      "url": "https://dev.to/prgrmr/engineering-decisions-for-my-video-call-tool-1167",
-      "title": "Engineering decisions for my video call tool",
-      "summary": "WebChat\nA PeerJS-based browser-to-browser video conferencing app with low-latency, high-performance real-time communication.\n\nThis project pushed me deep into the internals of infrastructure optimization.\n\n\n\n\nKey Engineering Decisions:\n\n\nEngineered a combined signaling server: integrating Express.js",
-      "date_published": "2026-05-25",
-      "tags": [
-        "programming",
-        "architecture"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "003",
-      "url": "https://dev.to/ajaymourya/the-end-of-web-scraping-introducing-webmcp-chrome-devtools-for-agents-4k81",
-      "title": "The End of Web Scraping: Introducing WebMCP & Chrome DevTools for Agents",
-      "summary": "A raw, developer-first look at Google’s proposed WebMCP open standard and Chrome DevTools for Agents - featuring real-world failure scenarios, a 10-line browser console polyfill, and the security nightmare Google swept under the rug.\n\n\n  \n  \n  The Keynote Hype vs. The Developer Reality\n\n\nEveryone wa",
-      "date_published": "2026-05-25",
-      "tags": [
-        "devchallenge",
-        "googleiochallenge",
-        "webdev",
-        "agents"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "004",
-      "url": "https://dev.to/built-from-africa/treasure-hunt-engine-where-optimism-meets-reality-1dn8",
-      "title": "Treasure Hunt Engine: Where Optimism Meets Reality",
-      "summary": "The Problem We Were Actually Solving\n\n\nWe needed a high-performance system to index and retrieve documents from a large corpus of data. The catch was that our users cared not only about the speed of the search but also the accuracy of the results. This meant that THE had to be able to handle various",
-      "date_published": "2026-05-25",
-      "tags": [
-        "webdev",
-        "programming",
-        "rust",
-        "performance"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "005",
-      "url": "https://dev.to/ddupard/building-a-comfortable-workflow-for-debugging-an-old-version-of-the-linux-kernel-557c",
-      "title": "Building a comfortable workflow for debugging an old version of the Linux kernel",
-      "summary": "When you want to work on the Linux kernel, for example to see how an exploit acts (like Dirty COW on kernel 4.7), you need to build a comfortable working environment.\n\nI use:\n\n\n\nDocker for compiling sources in their original version (with the GCC/LD versions corresponding to the source era).\n\nQEMU f",
-      "date_published": "2026-05-25",
-      "tags": [
-        "linux",
-        "kernel",
+        "claudecode",
+        "ai",
+        "productivity",
         "security"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "006",
-      "url": "https://dev.to/sharafon/ask-youtube-the-search-revolution-thats-rewriting-the-rules-for-27-billion-users-4e75",
-      "title": "🎤 Ask YouTube: The Search Revolution That's Rewriting the Rules for 2.7 Billion Users",
-      "summary": "This is a submission for the Google I/O Writing Challenge\n\nGoogle just turned YouTube into an answer engine powered by an 800-million-video moat. This isn't a search upgrade — it's the most strategically significant move in the AI search wars, and the implications for developers, creators, and the e",
+      "id": "002",
+      "url": "https://dev.to/buddika_b/method-calling-stack-in-java-25fd",
+      "title": "Method Calling Stack in Java",
+      "summary": "class MethodCallingStack{\n    public static void MyMethod(){\n        System.out.println(\"Start MyMethod()\");\n        int x;\n        x=200;\n        System.out.println(\"End MyMethod()\");\n    }\n\n    public static void main(String args[]){\n        System.out.println(\"Start main()\");\n        int x;\n     ",
+      "date_published": "2026-05-25",
+      "tags": [
+        "java",
+        "softwareengineering"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "003",
+      "url": "https://dev.to/straightly/oic-from-a-working-toast-watcher-to-a-general-watch-it-for-me-agent-2njm",
+      "title": "OIC: From a Working Toast Watcher to a General \"Watch It for Me\" Agent",
+      "summary": "This is a submission for the Gemma 4 Challenge: Write About Gemma 4\n\n\n  \n  \n  What I Learned Trying to Put Gemma 4 Into a Local iPhone Watcher\n\n\nI already had a small iPhone app called OIC, short for \"Oh, I See.\"\n\nIn its current working form, OIC can watch my toaster and tell me when my toast is rea",
       "date_published": "2026-05-25",
       "tags": [
         "devchallenge",
-        "googleiochallenge",
-        "google",
-        "ai"
+        "gemmachallenge",
+        "gemma"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "004",
+      "url": "https://dev.to/thousand_miles_ai/memory-is-two-thirds-of-what-an-ai-chip-costs-to-build-37lh",
+      "title": "Memory is two-thirds of what an AI chip costs to build",
+      "summary": "Epoch AI published a component-cost breakdown of a frontier AI accelerator this week, and the headline number is one that reframes a lot of the 2026 GPU conversation: memory now accounts for roughly two-thirds of the bill of materials. The logic die — the thing most people picture when they hear \"AI",
+      "date_published": "2026-05-25",
+      "tags": [
+        "ai",
+        "hardware",
+        "hbm",
+        "news"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "005",
+      "url": "https://dev.to/statekeep/the-xstate-persistence-problem-is-five-years-old-here-is-what-we-built-to-finally-solve-it-39af",
+      "title": "The XState persistence problem is five years old. Here is what we built to finally solve it.",
+      "summary": "In 2019 someone opened a GitHub issue in the XState repository. The title was \"How do I persist XState actor state between server restarts?\" It became one of the most-upvoted open issues in the repo. The answer from the core team was honest: XState doesn't handle persistence. Serialize the state obj",
+      "date_published": "2026-05-25",
+      "tags": [
+        "xstate",
+        "node",
+        "backend",
+        "javascript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/jill_builds_apps/i-added-mcp-support-to-my-saas-in-an-afternoon-heres-the-whole-thing-1eo8",
+      "title": "i added MCP support to my SaaS in an afternoon. here's the whole thing.",
+      "summary": "I built Imagcon because I kept needing it. PWA icon generator — describe what you want, get all 19 sizes back plus splash screens and a manifest.json. every app I ship needs a fresh icon set and I got tired of doing it manually.\na few weeks ago I'm in the terminal with Claude Code working on somethi",
+      "date_published": "2026-05-25",
+      "tags": [
+        "mcp",
+        "ai",
+        "webdev",
+        "python"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "007",
-      "url": "https://dev.to/_1a008d053e73e4a54d13a/i-tested-6-ai-coding-assistants-for-a-month-heres-what-actually-works-217o",
-      "title": "I Tested 6 AI Coding Assistants for a Month. Here's What Actually Works.",
-      "summary": "I spent a month testing Claude Codex, ChatGPT Codex, Cursor, Windsurf, GitHub Copilot, and Gemini Code Assist side by side.\n\n\n  \n  \n  Why This Matters\n\n\nDevelopers are drowning in AI tool choices. Every week there's a new \"game-changing\" coding assistant. But which ones actually save time versus loo",
+      "url": "https://dev.to/joseph_anady_214bacedf939/framework-link-building-eof",
+      "title": "Framework: Link Building",
+      "summary": "Framework: Link Building\n\n\nEarned Backlinks, Digital PR Coordination, Resource Page Outreach, Anchor Text Discipline, Toxic Link Audit, AI Crawler Visible Linking, and the Self Hosted Outreach Stack\n\nA comprehensive installation and audit reference for ethical link acquisition in the AI search era. ",
       "date_published": "2026-05-25",
       "tags": [
         "ai",
+        "linkbuilding",
         "webdev",
-        "productivity",
-        "beginners"
+        "seo"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "008",
-      "url": "https://dev.to/balaka18/my-google-io-writing-challenge-entry-like-and-comment-on-it-if-you-loved-reading-it--2ck6",
-      "title": "My Google I/O Writing Challenge entry - like and comment on it if you loved reading it !!",
-      "summary": "Google I/O 2026’s Smartest Developer Release Wasn’t a Model, It Was the Runtime - Managed Agents in Gemini API\n\n\n  \n      Google I/O Writing Challenge Submission\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Balaka Biswas\n         ",
+      "url": "https://dev.to/ptp2308/importing-existing-s3-buckets-into-terraform-state-made-easy-with-terraform-import-existing-s3-4m6b",
+      "title": "☁️ Importing existing S3 buckets into Terraform state made easy with terraform import existing s3 bucket",
+      "summary": "❓ Can you terraform import existing s3 bucket without rebuilding it?\n\n\n\n\nYes — an existing AWS S3 bucket can be brought under Terraform management without recreation or disruption. However, incorrect use of terraform import risks state drift, permission mismatches, or unintended deletion. The proces",
       "date_published": "2026-05-25",
       "tags": [
-        "agents",
-        "ai",
-        "devchallenge",
-        "google"
+        "devops",
+        "tutorial",
+        "cloud",
+        "kubernetes"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "009",
-      "url": "https://dev.to/donngraphics/extendscript-still-has-life-2j55",
-      "title": "Extendscript Still Has Life",
-      "summary": "Being a graphic designer, I find myself attached to the Adobe Suite of packages, namely InDesign, Photoshop and Illustrator. I use these programs nearly on a daily basis in some form or another (Photoshop since I was fifteen!) Over the years I've learned and relearned different techniques that've he",
+      "url": "https://dev.to/hopebestworld/i-built-a-token-system-on-solana-without-any-backend-code-58no",
+      "title": "I Built a Token System on Solana (Without Any Backend Code)",
+      "summary": "If you told me a week ago that I could create a custom currency, add brand metadata, enforce automatic transaction fees, and create \"soulbound\" non-transferable credentials—all without writing a single line of backend API code—I would have been skeptical.\n\nComing from a Web2 background, my brain is ",
       "date_published": "2026-05-25",
       "tags": [
-        "javascript",
-        "adobe",
-        "illustrator",
-        "extendscript"
+        "100daysofsolana"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "010",
-      "url": "https://dev.to/afriex/afriex-webhook-integration-guide-signature-verification-event-handling-and-production-best-3c9o",
-      "title": "Afriex Webhook Integration Guide: Signature Verification, Event Handling, and Production Best Practices",
-      "summary": "When you create a transaction through the Afriex Business API, the response you get back is just the start. The transaction comes back with a status of PENDING. What happens after that — whether it moves to PROCESSING, COMPLETED, IN_REVIEW, or FAILED arrives through webhooks.\n\nMost integration bugs ",
+      "url": "https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v21-5154",
+      "title": "터미널 AI 에이전트 구축 (v21)",
+      "summary": "터미널 AI 에이전트 구축 (v21)\n\n\n터미널에서 작동하는 AI 에이전트를 구축하여 코드 작성과 리팩토링을 자동화하는 것은 현대 개발 워크플로우의 핵심입니다. 이 가이드는 실제 개발자가 사용할 수 있는, 저렴하고 효율적인 터미널 AI 에이전트 구축 방법을 다룹니다.\n\n\n  \n  \n  1. CLI AI 에이전트 생태계\n\n\n현재 터미널 AI 에이전트 시장은 다음과 같은 주요 플랫폼으로 구성되어 있습니다:\n\nAider: GitHub Copilot과 유사한 기능으로, 코드 생성과 수정을 지원합니다.\n\n\n\npip install aider\n",
       "date_published": "2026-05-25",
       "tags": [
-        "afriex",
-        "devex",
-        "security",
+        "ai",
+        "llm",
+        "developers",
         "tutorial"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "011",
-      "url": "https://dev.to/dev-architecture-blog/the-blind-alleys-of-veltrix-configuration-c7m",
-      "title": "The Blind Alleys of Veltrix Configuration",
-      "summary": "The Problem We Were Actually Solving\n\n\nAs it turned out, most of the stuck operators were related to the event handling configuration in Veltrix. Our search volume revealed that search queries around event handling were significantly higher than those around actual configuration mistakes. It seemed ",
+      "url": "https://dev.to/wolve/i-built-an-ai-3d-model-generator-heres-how-i-handle-meshes-in-the-browser-562e",
+      "title": "I Built an AI 3D Model Generator — Here's How I Handle Meshes in the Browser",
+      "summary": "I shipped www.imgto3d.ai a few months ago. It's an AI-powered 3D model generator: you upload an image, pick a generator (upscale, denoise, face recovery, or full restoration), and get back a .glb file you can drop into Blender, Unity, or straight into a web page.\n\nThe AI backend part — calling Repli",
       "date_published": "2026-05-25",
       "tags": [
         "webdev",
-        "programming",
-        "architecture",
-        "systems"
+        "ai",
+        "3dprinting",
+        "showdev"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "012",
-      "url": "https://dev.to/circuitrocks/how-an-esp32-turned-a-lego-wall-e-into-a-real-working-robot-1be8",
-      "title": "How an ESP32 Turned a LEGO WALL-E Into a Real Working Robot",
-      "summary": "A LEGO WALL-E set on a shelf is nice, but a LEGO WALL-E that actually drives around your living room is something else entirely. Maker Crostplay2 stuffed an entire robotics platform inside Pixar's tiny cleanup hero, and the result behaves more like the movie character than anyone would expect from a",
+      "url": "https://dev.to/mohamednizzad/promptguard-i-built-a-local-ai-privacy-firewall-that-sanitizes-your-prompts-before-they-leave-pec",
+      "title": "🛡️ PromptGuard: I Built a Local AI Privacy Firewall That Sanitizes Your Prompts Before They Leave Your Machine",
+      "summary": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\nEvery time you paste sensitive data, legal documents, or personal details into ChatGPT or Claude, that data leaves your device. PromptGuard intercepts it first — and Gemma 4 running locally does the redaction before the prompt ever ",
       "date_published": "2026-05-25",
       "tags": [
-        "esp32",
-        "lego",
-        "robotics",
-        "arduinonano"
+        "devchallenge",
+        "gemmachallenge",
+        "gemma"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "013",
-      "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "summary": "Article URL: https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices\nComments URL: https://news.ycombinator.com/item?id=48260140\nPoints: 121\n# Comments: 79",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "014",
-      "url": "https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/",
-      "title": "A fundamental principle of aeronautical engineering has been overturned",
-      "summary": "Article URL: https://www.wired.com/story/a-fundamental-principle-of-aeronautical-engineering-has-been-overturned/\nComments URL: https://news.ycombinator.com/item?id=48260117\nPoints: 55\n# Comments: 29",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "015",
-      "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
-      "title": "Defeating Git Rigour Fatigue with Jujutsu",
-      "summary": "Article URL: https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/\nComments URL: https://news.ycombinator.com/item?id=48259861\nPoints: 93\n# Comments: 83",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "016",
-      "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-      "title": "Migrating from Go to Rust",
-      "summary": "Article URL: https://corrode.dev/learn/migration-guides/go-to-rust/\nComments URL: https://news.ycombinator.com/item?id=48259808\nPoints: 133\n# Comments: 128",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "017",
-      "url": "https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/",
-      "title": "Don't know where your data is from? Bayesian modeling for unknown coordinates",
-      "summary": "Article URL: https://christopherkrapu.com/blog/2026/dont-know-where-your-data-is-from/\nComments URL: https://news.ycombinator.com/item?id=48259158\nPoints: 29\n# Comments: 0",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "018",
-      "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-      "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-      "summary": "Article URL: https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer\nComments URL: https://news.ycombinator.com/item?id=48258995\nPoints: 0\n# Comments: 0",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "019",
-      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "summary": "Article URL: https://epoch.ai/data-insights/ai-chip-component-cost-shares\nComments URL: https://news.ycombinator.com/item?id=48258684\nPoints: 295\n# Comments: 313",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "020",
-      "url": "https://ti.to/codeforgood/rubyforgood",
-      "title": "Ruby for Good",
-      "summary": "Article URL: https://ti.to/codeforgood/rubyforgood\nComments URL: https://news.ycombinator.com/item?id=48258254\nPoints: 119\n# Comments: 51",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://usborne.com/us/books/computer-and-coding-books",
-      "title": "Usborne 1980s Computer Books",
-      "summary": "Article URL: https://usborne.com/us/books/computer-and-coding-books\nComments URL: https://news.ycombinator.com/item?id=48258194\nPoints: 157\n# Comments: 48",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "022",
-      "url": "https://audiomass.co/?multitrack=1",
-      "title": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
-      "summary": "Article URL: https://audiomass.co/?multitrack=1\nComments URL: https://news.ycombinator.com/item?id=48258015\nPoints: 153\n# Comments: 38",
-      "date_published": "2026-05-24",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "023",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
       "title": "Everyone is navigating AI security in real time — even Google",
       "summary": "We're in the transition period -- all of us.",
@@ -293,7 +179,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
       "title": "Xreal, Google’s smartglasses partner, thinks it has finally mastered this notoriously tricky industry",
       "summary": "Chi Xu, the founder and CEO of XREAL, thinks the smart glasses business has finally reached a turning point.",
@@ -309,7 +195,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/24/6-kitchen-gadgets-that-make-adulting-feel-easier/",
       "title": "6 kitchen gadgets that make adulting feel easier",
       "summary": "From a robot stirring your soup to a bread machine that kneads your dough, here are 6 gadgets that may make you feel like you’ve won adulthood.",
@@ -325,7 +211,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/24/techcrunch-mobility-robotaxi-reality-check/",
       "title": "TechCrunch Mobility: Robotaxi reality check",
       "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
@@ -343,7 +229,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
       "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
       "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
@@ -358,7 +244,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/24/the-dreamie-alarm-clock-got-me-to-stop-using-my-phone-in-bed/",
       "title": "The Dreamie alarm clock got me to stop using my phone in bed",
       "summary": "What sets Dreamie apart from all of the other fancy alarm clocks is laughably simple: It can play podcasts.",
@@ -370,7 +256,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "029",
+      "id": "019",
       "url": "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
       "title": "Whatever the mirror test tells us, beluga whales pass it",
       "summary": "The white whales join the short, contested list of animals that see themselves.",
@@ -387,7 +273,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "030",
+      "id": "020",
       "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
       "title": "The best Memorial Day sales you can shop this weekend",
       "summary": "Memorial Day is nearly here, meaning the seasonal sales are in full swing. If your weekend plans involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals on everything […",
@@ -398,6 +284,180 @@
         "Verge Shopping"
       ],
       "_source": "The Verge"
+    },
+    {
+      "id": "021",
+      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+      "title": "On Trails is a wandering tale that blends hiking, science, and history",
+      "summary": "Hiking is one of life's great joys. Turning off the screens and stepping out into nature for an extended period of time, perhaps even several days, is rejuvenating. Unfortunately, as someone with two young kids and a bad back, I'm not really able to go backpacking anymore. So I often find myself try",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Book Review",
+        "Books",
+        "Column",
+        "Entertainment",
+        "Science"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "022",
+      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
+      "title": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
+      "summary": "If you’re looking for a laptop that’ll still perform well several years from now, Apple’s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently buy the 13-inch MacBook Air at Amazon in the run-up to Memorial Day with an M5 chip, 16GB […]",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Apple",
+        "Deals",
+        "Gadgets",
+        "Laptops",
+        "Tech",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "023",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "title": "Hackers are learning to exploit chatbot ‘personalities’",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Hacking the first generation of AI chatbots was a lau",
+      "date_published": "2026-05-24",
+      "tags": [
+        "AI",
+        "Column",
+        "Security",
+        "Tech",
+        "The Stepback"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "024",
+      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "title": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+      "summary": "Waymo is the undisputed leader in the robotaxi space, operating a fleet of over 3,000 driverless cars in at least 10 cities across the US. A number of companies, including Tesla, Zoox, Avride, and Motional, are racing to catch up with the Alphabet-owned firm. But what if being No. 2 was actually bet",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Autonomous Cars",
+        "Report",
+        "Transportation"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "025",
+      "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-1/",
+      "title": "Memorial Day Tech Deals: Sony, Anker, Beats (2026)",
+      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "Shopping",
+        "Deals",
+        "Memorial Day"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "026",
+      "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-1/",
+      "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
+      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models are in full swing.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "Gear / Products / Sleep",
+        "Gear / Products / Lifestyle",
+        "Shopping",
+        "Deals",
+        "Sleep",
+        "mattresses",
+        "home",
+        "Bedroom",
+        "Memorial Day"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "027",
+      "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/",
+      "title": "Topo Designs Rover Trail Pack Is the Best Backpack I’ve Ever Used",
+      "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Travel",
+        "Bags",
+        "outdoors",
+        "Shopping",
+        "Bag Check",
+        "backpack",
+        "Back Check"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "028",
+      "url": "https://www.wired.com/story/the-best-browser-extensions-to-get-more-out-of-youtube/",
+      "title": "The Best Browser Extensions to Get More Out of YouTube",
+      "summary": "You can significantly improve the YouTube experience with these browser add-ons.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / How To and Advice",
+        "tips",
+        "how-to",
+        "YouTube",
+        "Browsers",
+        "Extensions",
+        "Fancy Watch"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "029",
+      "url": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "cooking",
+        "robots",
+        "robotics",
+        "artificial intelligence",
+        "Food and Drink",
+        "machine learning",
+        "charity",
+        "San Francisco",
+        "Chef's Kiss"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "030",
+      "url": "https://www.wired.com/story/14-new-tools-for-taking-on-the-great-outdoors-properly/",
+      "title": "14 New Tools for Taking on the Great Outdoors Properly",
+      "summary": "It’s time to prep your kit ahead of the summer season. These tools will do the job.",
+      "date_published": "2026-05-24",
+      "tags": [
+        "Gear",
+        "Gear / Products / Outdoor",
+        "Gear / Buying Guides",
+        "outdoors",
+        "Travel",
+        "apparel",
+        "Outdoor Activities",
+        "Shopping",
+        "buying guides",
+        "Touching Grass"
+      ],
+      "_source": "Wired"
     }
   ]
 }
