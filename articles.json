@@ -1,6 +1,17 @@
 [
   {
     "id": "001",
+    "title": "Stop Advertising in Your Commits",
+    "summary": "Article URL: https://akselmo.dev/posts/stop-advertising-in-your-commits/\nComments URL: https://news.ycombinator.com/item?id=48283914\nPoints: 79\n# Comments: 43",
+    "url": "https://akselmo.dev/posts/stop-advertising-in-your-commits/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
     "title": "Sage Care (YC S24) Is Hiring Software Engineers",
     "summary": "Article URL: https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48282478\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
@@ -11,21 +22,10 @@
     ]
   },
   {
-    "id": "002",
-    "title": "Ferrari shares fall after launch of first EV as Jony Ive design proves divisive",
-    "summary": "Article URL: https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car\nComments URL: https://news.ycombinator.com/item?id=48282034\nPoints: 22\n# Comments: 27",
-    "url": "https://www.theguardian.com/business/2026/may/26/ferrari-luce-ev-jony-ive-design-sports-car",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "003",
-    "title": "Is \"colorectal cancer\" rising in \"young people\"?",
-    "summary": "Article URL: https://dynomight.net/crc-rates/\nComments URL: https://news.ycombinator.com/item?id=48281539\nPoints: 31\n# Comments: 4",
-    "url": "https://dynomight.net/crc-rates/",
+    "title": "The real cost of owning a home",
+    "summary": "Article URL: https://ericturner.dev/posts/cost-of-home-ownership/\nComments URL: https://news.ycombinator.com/item?id=48281611\nPoints: 112\n# Comments: 298",
+    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "What Color is Your Function? (2015)",
-    "summary": "Article URL: https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/\nComments URL: https://news.ycombinator.com/item?id=48281515\nPoints: 32\n# Comments: 18",
-    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
+    "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+    "summary": "Article URL: https://dynomight.net/crc-rates/\nComments URL: https://news.ycombinator.com/item?id=48281539\nPoints: 100\n# Comments: 105",
+    "url": "https://dynomight.net/crc-rates/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-    "summary": "Article URL: https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/\nComments URL: https://news.ycombinator.com/item?id=48281509\nPoints: 155\n# Comments: 63",
-    "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
+    "title": "What color is your function? (2015)",
+    "summary": "Article URL: https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/\nComments URL: https://news.ycombinator.com/item?id=48281515\nPoints: 59\n# Comments: 48",
+    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "The Ballad of TIGIT",
-    "summary": "Article URL: https://www.owlposting.com/p/the-ballad-of-tigit\nComments URL: https://news.ycombinator.com/item?id=48281367\nPoints: 33\n# Comments: 1",
-    "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+    "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+    "summary": "Article URL: https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/\nComments URL: https://news.ycombinator.com/item?id=48281509\nPoints: 217\n# Comments: 115",
+    "url": "https://www.reuters.com/business/world-at-work/uber-lyft-drivers-massachusetts-form-first-us-ride-share-union-2026-05-26/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Language Models Need Sleep",
-    "summary": "Article URL: https://arxiv.org/abs/2605.26099\nComments URL: https://news.ycombinator.com/item?id=48281226\nPoints: 101\n# Comments: 76",
-    "url": "https://arxiv.org/abs/2605.26099",
+    "title": "The Ballad of TIGIT",
+    "summary": "Article URL: https://www.owlposting.com/p/the-ballad-of-tigit\nComments URL: https://news.ycombinator.com/item?id=48281367\nPoints: 71\n# Comments: 12",
+    "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -78,6 +78,17 @@
   },
   {
     "id": "008",
+    "title": "Language Models Need Sleep",
+    "summary": "Article URL: https://arxiv.org/abs/2605.26099\nComments URL: https://news.ycombinator.com/item?id=48281226\nPoints: 139\n# Comments: 111",
+    "url": "https://arxiv.org/abs/2605.26099",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
     "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
     "summary": "Hey we’re Faiz and Saheed and we built Minicor so AI companies who need to integrate to desktop systems with no API can quickly build scalable desktop RPAs. Demo: https://www.youtube.com/watch?v=MD0GHZIJ1cwWe were working on non-RPA integrations when a customer promised to sign a deal in 2 days if w",
     "url": "https://www.minicor.com/",
@@ -88,21 +99,10 @@
     ]
   },
   {
-    "id": "009",
-    "title": "Don't Subscribe So Casually",
-    "summary": "Article URL: https://thebestworstcase.substack.com/p/dont-subscribe-so-casually\nComments URL: https://news.ycombinator.com/item?id=48280636\nPoints: 74\n# Comments: 62",
-    "url": "https://thebestworstcase.substack.com/p/dont-subscribe-so-casually",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "010",
-    "title": "Stockholm poised to become leading European geospatial intel player",
-    "summary": "Article URL: https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve\nComments URL: https://news.ycombinator.com/item?id=48280561\nPoints: 30\n# Comments: 10",
-    "url": "https://www.intelligenceonline.com/europe-russia/2026/05/26/stockholm-poised-to-become-leading-european-geospatial-intel-player,110772386-eve",
+    "title": "C64 Basic: Game Map Overhead \"Camera View\"",
+    "summary": "Article URL: https://retrogamecoders.com/overhead-camera-view/\nComments URL: https://news.ycombinator.com/item?id=48279842\nPoints: 52\n# Comments: 7",
+    "url": "https://retrogamecoders.com/overhead-camera-view/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,39 @@
   },
   {
     "id": "011",
+    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
+    "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+    "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
+    "date": "2026-05-26",
+    "source": "TechCrunch",
+    "tags": [
+      "Space",
+      "Transportation",
+      "American Airlines",
+      "In Brief",
+      "IPO",
+      "SpaceX",
+      "Starlink"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+    "date": "2026-05-26",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Startups",
+      "AI gateway",
+      "CapitalG",
+      "In Brief",
+      "openrouter"
+    ]
+  },
+  {
+    "id": "013",
     "title": "This startup is betting India’s gig economy can train the world’s robots",
     "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
     "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
@@ -125,7 +158,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "014",
     "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
     "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
     "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
@@ -142,7 +175,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "015",
     "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
     "summary": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
     "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
@@ -156,7 +189,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "016",
     "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
     "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
     "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
@@ -167,6 +200,7 @@
       "Ababil of Minab",
       "cybersecurity",
       "data breach",
+      "In Brief",
       "iran",
       "LACMTA",
       "Los Angeles",
@@ -174,7 +208,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "017",
     "title": "Ferrari’s first EV is not for you",
     "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
     "url": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
@@ -189,9 +223,9 @@
     ]
   },
   {
-    "id": "016",
+    "id": "018",
     "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
     "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
     "date": "2026-05-26",
     "source": "TechCrunch",
@@ -204,9 +238,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "019",
     "title": "Spotify now lets you stream narrated magazine articles, too",
-    "summary": "Spotify is adding narrated magazine articles to its app as it expands beyond music into audiobooks, podcasts, AI audio, and more.",
+    "summary": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and Pitchfork.",
     "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
     "date": "2026-05-26",
     "source": "TechCrunch",
@@ -220,7 +254,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "020",
     "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
     "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
     "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
@@ -243,9 +277,9 @@
     ]
   },
   {
-    "id": "019",
+    "id": "021",
     "title": "7-Eleven data breach affects over 185,000 people’s personal data",
-    "summary": "The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing.",
+    "summary": "The data breach included names, dates of birth, postal addresses, and Social Security numbers, according to a state government listing.",
     "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
     "date": "2026-05-26",
     "source": "TechCrunch",
@@ -254,27 +288,79 @@
       "cyberattack",
       "cybersecurity",
       "data breach",
+      "In Brief",
       "shinyhunters"
     ]
   },
   {
-    "id": "020",
+    "id": "022",
     "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-    "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
+    "summary": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
     "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
     "date": "2026-05-26",
     "source": "TechCrunch",
     "tags": [
-      "TC",
+      "Commerce",
+      "Startups",
       "Venture",
       "e-commerce",
-      "Startups",
+      "In Brief",
       "Stord",
       "Strike Capital"
     ]
   },
   {
-    "id": "021",
+    "id": "023",
+    "title": "Want an oxygen-rich atmosphere? Stuff oxygen’s friends in the mantle.",
+    "summary": "Getting carbon and sulfur into Earth’s interior may be part of oxygen’s story.",
+    "url": "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
+    "date": "2026-05-26",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "atmospheric oxygen",
+      "geology",
+      "oxygenation"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "FBI agent explains how easy it is to ID people posting AI porn without consent",
+    "summary": "A creepy saved post on Instagram linked man to AI porn account, FBI says.",
+    "url": "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
+    "date": "2026-05-26",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Policy",
+      "ai porn",
+      "Artificial Intelligence",
+      "etc",
+      "fbi",
+      "nudify",
+      "revenge porn",
+      "take it down act"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "3D-printable humanoid legs let robotics experiments run wild",
+    "summary": "Hugging Face debuts $2,500 bipedal robot project for builders and researchers.",
+    "url": "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
+    "date": "2026-05-26",
+    "source": "Ars Technica",
+    "tags": [
+      "AI",
+      "Bipedalism",
+      "Hugging Face",
+      "humanoid robots",
+      "robot training",
+      "Robotics",
+      "robots"
+    ]
+  },
+  {
+    "id": "026",
     "title": "Windows' classic 3D Space Cadet pinball is getting a physical re-creation",
     "summary": "But there are some real-world constraints that virtual pinball could easily ignore.",
     "url": "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
@@ -290,7 +376,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "027",
     "title": "Review: The Boroughs is a smart, pitch-perfect creature feature",
     "summary": "Top-notch ensemble cast, smart writing, and an engrossing supernatural mystery make for a winning combo.",
     "url": "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
@@ -307,7 +393,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "028",
     "title": "A global brand but local cars is Audi's future, says CEO",
     "summary": "We talk with Gernot Döllner, CEO of Audi AG, about where he's taking the company.",
     "url": "https://arstechnica.com/cars/2026/05/audis-boss-talks-local-production-wagons-and-maybe-a-new-r8-supercar/",
@@ -321,7 +407,7 @@
     ]
   },
   {
-    "id": "024",
+    "id": "029",
     "title": "Analyst on China's spent rocket stages: \"Things only continue to get worse\"",
     "summary": "Spent upper stages are the most dangerous kind of space debris.",
     "url": "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
@@ -336,7 +422,7 @@
     ]
   },
   {
-    "id": "025",
+    "id": "030",
     "title": "Amazing interior, controversial exterior: Ferrari's first electric car",
     "summary": "The interior is spectacular; the exterior looks better in person than on screen.",
     "url": "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
@@ -346,80 +432,6 @@
       "Cars",
       "Features",
       "Ferrari Luce"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Driving Porsche's most powerful car—and no, it's not a 911",
-    "summary": "1,139 horsepower, 400 kW charging, brutally fast, and brutally expensive.",
-    "url": "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
-    "date": "2026-05-26",
-    "source": "Ars Technica",
-    "tags": [
-      "Cars",
-      "car review",
-      "First drive",
-      "Porsche Cayenne",
-      "Porsche Cayenne Coupe electric"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-    "summary": "After years of it seeming like the Spider-Man film rights might be better off in Marvel's hands alone, Into the Spider-Verse came along and proved that Sony was still capable of telling phenomenal stories featuring everyone's favorite webhead. Into the Spider-Verse's sumptuous visuals and focus on a",
-    "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
-    "date": "2026-05-26",
-    "source": "The Verge",
-    "tags": [
-      "Amazon",
-      "Entertainment",
-      "Marvel",
-      "Tech",
-      "TV Show Reviews",
-      "TV Shows"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "The best Memorial Day sales you can still shop",
-    "summary": "The long weekend is over, but many of the best Memorial Day deals are still available. Many of our favorite portable speakers are discounted, as are other outdoorsy products we like, including a set of solar lights. You can also find deals on everything from 4K OLED TVs and noise-canceling earbuds t",
-    "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-    "date": "2026-05-26",
-    "source": "The Verge",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "American Airlines is getting Starlink Wi-Fi",
-    "summary": "American Airlines is planning to install SpaceX's Starlink Wi-Fi in hundreds of its airplanes, the airline announced today. American says the deployment will start in the first quarter of 2027, and will span more than 500 aircraft, including its new A321XLR and A321neo planes from Airbus. Starlink w",
-    "url": "https://www.theverge.com/transportation/937439/american-airlines-starlink-wifi-speed",
-    "date": "2026-05-26",
-    "source": "The Verge",
-    "tags": [
-      "Aviation",
-      "News",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Memory V re-creates the Memorymoog without the massive headaches or price tag",
-    "summary": "The Memorymoog is legendary for being an absolutely massive-sounding synth and being incredibly unreliable. But now you can enjoy its classic Moog sound without the headaches or the sky-high vintage price, thanks to Arturia's Memory V emulator. The Memorymoog was only made between 1982 and 1985, and",
-    "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
-    "date": "2026-05-26",
-    "source": "The Verge",
-    "tags": [
-      "Entertainment",
-      "Music",
-      "News",
-      "Tech"
     ]
   }
 ]
