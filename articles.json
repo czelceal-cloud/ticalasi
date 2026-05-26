@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Notes on Pope Leo XIV's Encyclical on AI",
-    "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48275098\nPoints: 30\n# Comments: 2",
-    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+    "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+    "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125\n\nComments URL: https://news.ycombinator.com/item?id=48275508\nPoints: 70\n# Comments: 33",
+    "url": "https://news.ycombinator.com/item?id=48275508",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "The User Is Visibly Frustrated",
-    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 17\n# Comments: 3",
-    "url": "https://pscanf.com/s/354/",
+    "title": "Logseq Doctor: heal your flat old Markdown files before importing to Logseq",
+    "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 4\n# Comments: 0",
+    "url": "https://github.com/andreoliwa/logseq-doctor",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 45\n# Comments: 15",
-    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "title": "The User Is Visibly Frustrated",
+    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 105\n# Comments: 65",
+    "url": "https://pscanf.com/s/354/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 19\n# Comments: 3",
-    "url": "https://earthiongame.com/",
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 98\n# Comments: 46",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Why the smart home bubble popped",
-    "summary": "Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/\nComments URL: https://news.ycombinator.com/item?id=48274667\nPoints: 22\n# Comments: 39",
-    "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 50\n# Comments: 14",
+    "url": "https://earthiongame.com/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -57,7 +57,7 @@
   {
     "id": "006",
     "title": "Does anybody like React?",
-    "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 119\n# Comments: 139",
+    "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 162\n# Comments: 199",
     "url": "https://jsx.lol",
     "date": "2026-05-26",
     "source": "Hacker News",
@@ -67,182 +67,170 @@
   },
   {
     "id": "007",
-    "title": "Designing for and against the manufactured normalcy field (2012)",
-    "summary": "Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html\nComments URL: https://news.ycombinator.com/item?id=48273597\nPoints: 16\n# Comments: 6",
-    "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+    "title": "Building a Lightweight Crypto Trading Monitor: From Idea to Open Source",
+    "summary": "Ever felt like you’re missing the perfect entry point because you can't stare at the charts 24/7? That was me. Instead of burning out by watching 1-minute candles all day, I decided to build a simple, efficient tool to do the heavy lifting for me.\n\nToday, I’m sharing how I built a real-time BTC/USDT",
+    "url": "https://dev.to/rdin777/building-a-lightweight-crypto-trading-monitor-from-idea-to-open-source-1cn0",
     "date": "2026-05-26",
-    "source": "Hacker News",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "cryptocurrency",
+      "opensource",
+      "showdev",
+      "typescript"
     ]
   },
   {
     "id": "008",
-    "title": "What the Heck is an API?",
-    "summary": "Table of Contents\n\n\n\n\nIntro \nThe Restaurant\nThe Menu\nPlacing the Order\nThe Plate Coming Back\nDon't Need to Know How the Kitchen Works\nThe Internet Version of the Story\nA Real Example\nWhy This Matters\nDifferent Flavors of APIs\nWhere to Go From Here\n\n\n\n\n\n  \n  \n  Intro\n\n\nIf you eavesdrop on a conversat",
-    "url": "https://dev.to/ifeanyiro/what-the-heck-is-an-api-4a20",
+    "title": "Stop posting boring black-and-white screenshots of your code. I built a free tool to fix this.",
+    "summary": "Hey everyone,\n\nAs a frontend developer, I love sharing quick code snippets and learning moments on LinkedIn and Twitter. But every time I wanted to post something, I faced a minor friction point: taking screenshots directly from VS Code looked dull, gray, and completely boring.\n\nThe alternative? Ope",
+    "url": "https://dev.to/ritesh_kumar_ad57de7b168b/stop-posting-boring-black-and-white-screenshots-of-your-code-i-built-a-free-tool-to-fix-this-2gd3",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "api",
-      "beginners",
-      "tutorial",
-      "webdev"
+      "webdev",
+      "javascript",
+      "frontend",
+      "opensource"
     ]
   },
   {
     "id": "009",
-    "title": "FairLens AI: An Intelligent Dashboard for Automated Bias Auditing",
-    "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nFairLens AI is a premium, high-end SaaS platform designed for AI-powered bias auditing. I built this tool to help data scientists and researchers easily identify, quantify, and mitigate hidden biases within their",
-    "url": "https://dev.to/bibhupradhan/fairlens-ai-an-intelligent-dashboard-for-automated-bias-auditing-1a5c",
+    "title": "The Mind of Ada Lovelace: How a Victorian Woman Invented the Future of Coding",
+    "summary": "Moving past simple arithmetic to discover how a young genius saw that machines could do far more than just calculate numbers.\n\n\nBy Cassian Sterling\n\nWe often hear that Ada Lovelace was the \"world's first computer programmer.\" But in a world of brass gears, steam engines, and feather quills, what doe",
+    "url": "https://dev.to/bioshistory/the-mind-of-ada-lovelace-how-a-victorian-woman-invented-the-future-of-coding-4o7i",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "devchallenge",
-      "githubchallenge",
-      "dataengineering",
-      "ai"
+      "coding",
+      "productivity",
+      "beginners",
+      "biography"
     ]
   },
   {
     "id": "010",
-    "title": "RAG vs Fine-Tuning- Choosing Right Strategy for Modern AI Applications",
-    "summary": "AI applications go beyond conversational chatbots and general use cases. Companies want their AI models to have industry insight, use internal data, and produce a good response. To achieve this goal, companies have two primary options- retrieval-augmented generation (RAG) and fine-tuning.\n\nThe debat",
-    "url": "https://dev.to/siliconithub/rag-vs-fine-tuning-choosing-right-strategy-for-modern-ai-applications-dea",
+    "title": "Why Real Browser Automation Is Replacing Simple HTTP Scraping",
+    "summary": "*The production problem\n*\nSimple HTTP scraping still works for a lot of pages. If a site returns fully formed HTML in the first response, an HTTP client plus a parser is often enough. You send the request, parse the response, extract fields, and move on. For static pages, lightweight crawlers are fa",
+    "url": "https://dev.to/promptcloud_services/why-real-browser-automation-is-replacing-simple-http-scraping-58m5",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "aidevelopmentservices",
-      "raginaiapplications",
-      "ai",
-      "aiappdevelopmentstrategies"
+      "webscraping"
     ]
   },
   {
     "id": "011",
-    "title": "AI Metrics Decoded: From Parameters to TOPS",
-    "summary": "AI Metrics Decoded: The Numbers That Actually Matter in Production\n\n\n\n\n\n\n  \n  \n  Why You Need to Know This (Before Your First Production Incident)\n\n\nPicture this: your team picks a 70B parameter model for a new feature. It runs great on your MacBook. You push to production. The GPU bill arrives. You",
-    "url": "https://dev.to/sreeraj_sreenivasan_2b932/ai-metrics-decoded-from-parameters-to-tops-58k6",
+    "title": "Ambastha Diagrams: A Beta Tool for Easy Diagramming in VS Code",
+    "summary": "We've all been there: you’re in a classroom, a lab, or on a sandboxed device where you can't install your preferred tools. You need to draw a quick diagram, but you're forced to use bulky, slow, 'enterprise-grade' tools that take ten minutes just to load and another ten to figure out how to use.\n\nLe",
+    "url": "https://dev.to/sudhanshuambastha/ambastha-diagrams-a-beta-tool-for-easy-diagramming-in-vs-code-56cc",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "webdev",
-      "programming",
-      "productivity"
+      "productivity",
+      "visualization",
+      "javascript",
+      "vscode"
     ]
   },
   {
     "id": "012",
-    "title": "I made git merge finish itself — in VS Code, in my terminal, and in CI",
-    "summary": "Based on your Merge Magic draft , here’s a cleaner CEO-style Markdown version:\n\n\n\n# Merge Magic: Resolving the Merge Conflicts That Shouldn’t Need a Human\n\nI built **Merge Magic** because I got tired of resolving the same merge-conflict pattern over and over again.\n\nSame conflict shape.  \nSame “keep",
-    "url": "https://dev.to/laksh_mishra_d5d5ad23b0be/i-made-git-merge-finish-itself-in-vs-code-in-my-terminal-and-in-ci-3pf6",
+    "title": "Cache-Aware Spawning: What Changed in llm-cli-gateway, a Week On",
+    "summary": "If your multi-LLM workload sends the same long system prompt or file dump to Claude / Codex / Gemini ten times an hour, you are paying for the same input tokens ten times. Each provider has a cache for exactly this case, and each one expresses the cache differently. This post is about how llm-cli-ga",
+    "url": "https://dev.to/wernerk_au/cache-aware-spawning-what-changed-in-llm-cli-gateway-a-week-on-1dle",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "git",
       "ai",
-      "webdev",
-      "programming"
+      "llm",
+      "cli",
+      "opensource"
     ]
   },
   {
     "id": "013",
-    "title": "You just can’t miss this…",
-    "summary": "Docker with AI: A Practical Guide to Running LLMs, Agents and MCP\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Harsh Manvar\n            \n            \n              \n                Harsh Manvar\n                \n              \n ",
-    "url": "https://dev.to/ajeetraina/-3m3l",
+    "title": "The Best AI Development Tools in 2026: GitHub Copilot vs Cursor vs Claude for Coding",
+    "summary": "The Best AI Development Tools in 2026: GitHub Copilot vs Cursor vs Claude for Coding\n\n\nBy May 2026, AI-assisted development has become the standard — not the exception. Whether you're a solo developer, part of a startup engineering team, or building a side project, the question isn't whether to use ",
+    "url": "https://dev.to/storm_son_b44db572b250b68/the-best-ai-development-tools-in-2026-github-copilot-vs-cursor-vs-claude-for-coding-4bcn",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "Dev.to"
+      "ai",
+      "coding",
+      "tools",
+      "development"
     ]
   },
   {
     "id": "014",
-    "title": "Redis Essentials: Architecture, Caching, and Setup",
-    "summary": "Redis is often a misunderstood tool in the backend developer's arsenal. While many view it simply as a \"topic\" to be covered in an hour, its role in modern system design is pivotal for building high-performance, scalable applications. This article explores what Redis is, why it is used, and how to s",
-    "url": "https://dev.to/imsushant12/redis-essentials-architecture-caching-and-setup-46eg",
+    "title": "Design to Code #8: The Cosmetics of Modularity",
+    "summary": "It was sometime in early April. Version 0.1.0 had been sitting on npm for maybe twenty-four hours. I was clicking through the documentation site I'd just deployed, riding that brief, fragile wave of pride you get right before you discover a critical bug.\n\nThe Card component page featured a standard ",
+    "url": "https://dev.to/7onic/design-to-code-8-the-cosmetics-of-modularity-2bc7",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "redis",
-      "systemdesign",
-      "architecture",
-      "programming"
+      "designsystem",
+      "packageexports",
+      "dx",
+      "react"
     ]
   },
   {
     "id": "015",
-    "title": "Docker with AI: A Practical Guide to Running LLMs, Agents and MCP",
-    "summary": "If you've been searching for how to actually use Docker with AI not just spin up a demo but run models, agents and MCP servers in production here's what We have learned over the years and put into our new book.\n\n\n\nIf you typed \"Docker with AI\" into Google and landed here, you're in good company. Tha",
-    "url": "https://dev.to/harsh_manvar/docker-with-ai-a-practical-guide-to-running-llms-agents-and-mcp-51n2",
+    "title": "I just published Part 1 of \"The Machine Learning Engineering Series\", where I break down the full lifecycle: how raw data becomes a trained model, gets containerised, and ships as a live API that other engineers can actually build on.",
+    "summary": "The Machine Learning Engineering Series\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Michellebuchiokonicha\n            \n            \n              \n                Michellebuchiokonicha\n                \n              \n         ",
+    "url": "https://dev.to/michellebuchiokonicha/i-just-published-part-1-of-the-machine-learning-engineering-series-where-i-break-down-the-full-3g6",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "ai",
+      "api",
       "docker",
       "machinelearning",
-      "llm"
+      "tutorial"
     ]
   },
   {
     "id": "016",
-    "title": "Design to Code #5: Using AI to Build a Design System",
-    "summary": "I gave Claude the Switch component spec and pointed it at variables.css. What came back — CVA variants, Radix Primitives, forwardRef, controlled and uncontrolled both wired — was genuinely good. Better than my first draft would have been. I shipped it that afternoon without changing much.\n\nThat was ",
-    "url": "https://dev.to/7onic/design-to-code-5-using-ai-to-build-a-design-system-47ih",
+    "title": "Debugging Human Hardware: A Developer’s Guide to Optimizing the Dopamine Loop",
+    "summary": "Fix your focus. A practical guide to debugging your brain's dopamine loops for developers.If you’ve ever found yourself staring at a broken block of code, knowing exactly what you need to type, but completely unable to force your fingers to the home row, you aren’t experiencing a lack of discipline.",
+    "url": "https://dev.to/healthrevival/debugging-human-hardware-a-developers-guide-to-optimizing-the-dopamine-loop-41ob",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "designsystem",
-      "opensource",
-      "llms"
+      "developer",
+      "mentalhealth",
+      "productivity"
     ]
   },
   {
     "id": "017",
-    "title": "Analyzing 1,000 Engineering Problems Through GitHub Data",
-    "summary": "In my previous article, I wrote about the GitHub mining process in user research and explained how it can benefit engineers, organizations, and open-source communities. Here is the link:\n\n\n  \n  What Developers Don’t Say in Interviews—but Show on GitHub\n\n\n  \n    \n      \n        \n\n          \n         ",
-    "url": "https://dev.to/priya_sajja_c336921bbda87/analyzing-1000-engineering-problems-through-github-data-j0o",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "cloudnative",
-      "devrel",
-      "machinelearning",
-      "uxdesign"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "Open Graph protocol: canonical reference",
-    "summary": "framework-html-open-graph.md\n\n\nComprehensive reference for the Open Graph protocol, the meta tag system that controls how URLs are represented when shared on Facebook, LinkedIn, Pinterest, Slack, Discord, Telegram, iMessage, WhatsApp, and most other platforms that generate link previews. Covers the ",
-    "url": "https://dev.to/joseph_anady_214bacedf939/open-graph-protocol-canonical-reference-nek",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "html",
-      "seo",
-      "webdev",
-      "frontend"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "How a 400-Engineer SaaS Company Cut PR-to-Production from 4.2 Days to 6.4 Hours with Claude Code Multi-Agent DevOps",
-    "summary": "This isn't a proof of concept. It's been running in production for seven months across a 400-person engineering organisation. Here's exactly how it works.\n\nThe 4.2-day number isn't unusual. For a SaaS company with multiple service teams, compliance requirements and a staging environment that sometim",
-    "url": "https://dev.to/dextralabs/how-a-400-engineer-saas-company-cut-pr-to-production-from-42-days-to-64-hours-with-claude-code-10fb",
+    "title": "The AI Development Life Cycle (AIDLC): Why Your ML Projects Need More Than SDLC",
+    "summary": "If you've ever shipped a machine learning model to production, you know the feeling. Everything works beautifully in your notebook, the metrics look great in staging, and then... three weeks after deployment, accuracy quietly tanks. Nobody notices until a stakeholder asks why the recommendations got",
+    "url": "https://dev.to/devtoaaron/the-ai-development-life-cycle-aidlc-why-your-ml-projects-need-more-than-sdlc-3ajc",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
       "ai",
-      "webdev",
+      "devops",
+      "machinelearning",
+      "productivity"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "A Practical Guide To Entity Resolution in Python (No Database, No Machine Learning)",
+    "summary": "TL;DR: Learn a very simple way to normalize, dedupe, and fuzzy-match records that refer to the same real-world entity in Python, without a database or any ML pipelines.\n\n\n\nI was working on a Crunchbase dataset last Friday. I joined it against our CRM, and got 56 hits out of 96. The other 40 were sit",
+    "url": "https://dev.to/prithwish_nath/a-practical-guide-to-entity-resolution-in-python-no-database-no-machine-learning-3pnl",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
       "programming",
+      "tutorial",
+      "datascience",
       "python"
     ]
   },
   {
-    "id": "020",
+    "id": "019",
     "title": "Social media as bad for young people as smoking, top doctors say",
     "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
     "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
@@ -253,9 +241,9 @@
     ]
   },
   {
-    "id": "021",
+    "id": "020",
     "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-    "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 115\n# Comments: 51",
+    "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 136\n# Comments: 68",
     "url": "https://support.apple.com/en-us/127115",
     "date": "2026-05-25",
     "source": "Hacker News",
@@ -264,9 +252,9 @@
     ]
   },
   {
-    "id": "022",
+    "id": "021",
     "title": "Performance of Rust Language [pdf]",
-    "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 46\n# Comments: 21",
+    "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 58\n# Comments: 33",
     "url": "https://github.com/yugr/rust-slides/",
     "date": "2026-05-25",
     "source": "Hacker News",
@@ -275,10 +263,21 @@
     ]
   },
   {
-    "id": "023",
+    "id": "022",
     "title": "Nobody cracks open a programming book anymore",
-    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 149\n# Comments: 172",
+    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 176\n# Comments: 200",
     "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+    "date": "2026-05-25",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "Using AI to write better code more slowly",
+    "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 552\n# Comments: 208",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
     "date": "2026-05-25",
     "source": "Hacker News",
     "tags": [
