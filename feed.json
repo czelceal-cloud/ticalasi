@@ -7,174 +7,203 @@
   "items": [
     {
       "id": "001",
-      "url": "https://dev.to/alanwest/how-to-fix-tool-use-loops-in-autonomous-coding-agents-540e",
-      "title": "How to Fix Tool-Use Loops in Autonomous Coding Agents",
-      "summary": "Last month I was helping a friend debug their autonomous coding agent. It had been \"working\" on a task for 47 minutes, burned through roughly twelve bucks in API costs, and somehow ended up exactly where it started. The logs showed it had called read_file on the same five files 23 times.\n\nIf you've ",
+      "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
+      "title": "Why the Smart Home Bubble Popped",
+      "summary": "Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/\nComments URL: https://news.ycombinator.com/item?id=48274667\nPoints: 6\n# Comments: 2",
       "date_published": "2026-05-26",
       "tags": [
-        "ai",
-        "agents",
-        "python",
-        "debugging"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     },
     {
       "id": "002",
-      "url": "https://dev.to/owjdie163com_096e40b198/months-of-self-testing-citations-shine-other-features-remain-unproven-1351",
-      "title": "Months of self-testing: Citations shine, other features remain unproven.",
-      "summary": "ok so full disclosure: I'm the person who built this. I'm not here to drop a pitch deck on you — I just need people who actually live in PDF hell to tell me if I'm solving a real problem or cosplaying as a startup.\n\nhow I used to work (embarrassing)\n\nmy \"system\" was: files in Drive → open ChatGPT → ",
+      "url": "https://jsx.lol",
+      "title": "Does Anybody Actually Like React?",
+      "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 87\n# Comments: 89",
       "date_published": "2026-05-26",
       "tags": [
-        "ai",
-        "productivity",
-        "showdev",
-        "sideprojects"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     },
     {
       "id": "003",
-      "url": "https://dev.to/nextools/claude-code-for-canary-deployments-how-i-ship-to-1-of-users-before-breaking-everything-3j49",
-      "title": "Claude Code for Canary Deployments: How I Ship to 1% of Users Before Breaking Everything",
-      "summary": "I used to ship by faith. The change passed code review, the tests went green, the deploy button was right there, and I pressed it. Most of the time it was fine. The handful of times it was not fine cost me weekends, customer trust, and a real amount of money. The worst incident I can remember was a ",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "title": "Designing for and against the manufactured normalcy field (2012)",
+      "summary": "Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html\nComments URL: https://news.ycombinator.com/item?id=48273597\nPoints: 11\n# Comments: 2",
       "date_published": "2026-05-26",
       "tags": [
-        "claudecode",
-        "devops",
-        "deployment",
-        "reliability"
+        "Hacker News"
       ],
-      "_source": "Dev.to"
+      "_source": "Hacker News"
     },
     {
       "id": "004",
-      "url": "https://dev.to/0012303/your-recurring-scraper-is-re-downloading-data-that-didnt-change-heres-the-15-line-fix-25lc",
-      "title": "Your recurring scraper is re-downloading data that didn't change. Here's the 15-line fix (conditional GET)",
-      "summary": "Note: This is a cross-post. Canonical version (full long-form) lives on my blog: https://blog.spinov.online/blog/ethical-scraping-is-a-rate-limit-question/\n\n\n\n  \n  \n  TL;DR\n\n\nThe \"ethical scraping\" debate keeps arguing about robots.txt and ToS. Those are real, but they're decisions you make once, be",
+      "url": "https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6",
+      "title": "Access Control Doesn't Scale Linearly -- Part 3",
+      "summary": "One day you look up and realize your permissions model is something only two people on the team can explain. One of them just put in their notice.\n \nNobody planned to be in that position. It happened one exception at a time. One \"just add a role for this\" at a time. One \"we'll clean this up later\" a",
       "date_published": "2026-05-26",
       "tags": [
-        "webscraping",
-        "python",
-        "ai",
-        "apify"
+        "security",
+        "distributedsystems",
+        "architecture",
+        "backend"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "005",
-      "url": "https://dev.to/circuitrocks/espressif-reveals-coreboard-and-korvo-dev-kits-for-esp32-s31-1egm",
-      "title": "Espressif Reveals CoreBoard and Korvo Dev Kits for ESP32-S31",
-      "summary": "Espressif just pulled the wraps off two fresh development kits aimed at one of its most ambitious chips yet: the dual-core RISC-V ESP32-S31. If you've been waiting for a board that blends heavy IoT muscle with edge AI capability, this pair is worth a long look.\nWhat's the big deal with the ESP32-S31",
+      "url": "https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40",
+      "title": "33x faster than Rust: Why I stopped waiting for my compiler and built my own.",
+      "summary": "The Hook: Slow compile times are a major pain point for systems engineers. Jda's 42ms average compile time is a game-changer.\n\n\nKey Points:\n\n\nWhy a single-pass compiler is \"fast enough\" and produces 1MB static binaries.\nThe \"Scripting speed + Native performance\" workflow.\nBuilt-in ML primitives: Tra",
       "date_published": "2026-05-26",
       "tags": [
-        "esp32",
-        "esp32s31",
-        "espressif",
-        "riscv"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "006",
-      "url": "https://dev.to/beck_moulton/predicting-blood-glucose-fluctuations-building-a-transformer-based-cgm-forecaster-with-pytorch--4i44",
-      "title": "Predicting Blood Glucose Fluctuations: Building a Transformer-based CGM Forecaster with PyTorch & InfluxDB",
-      "summary": "Managing metabolic health isn't just about counting calories—it's about understanding the complex rhythms of our bodies. For those living with diabetes or biohackers optimizing performance, Continuous Glucose Monitoring (CGM) data is a goldmine. However, raw data is reactive. To be proactive, we nee",
-      "date_published": "2026-05-26",
-      "tags": [
+        "discuss",
         "ai",
-        "security",
-        "react",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "007",
-      "url": "https://dev.to/the-hive-collective/pre-task-hooks-the-one-line-wire-up-that-gives-your-hono-agent-shared-memory-k18",
-      "title": "Pre-task hooks: the one-line wire-up that gives your Hono agent shared memory",
-      "summary": "If you're building an agent on Hono — running on Cloudflare Workers, Bun, or Node — you already have the right primitives for this. A request comes in. You call an LLM. You return a response.\n\nThe smartest thing you can do before calling the LLM is to ask the collective whether anyone has already so",
-      "date_published": "2026-05-26",
-      "tags": [
-        "hono",
-        "ai",
-        "agents",
-        "opensource"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "008",
-      "url": "https://dev.to/the-hive-collective/concurrent-writes-to-a-shared-agent-memory-what-we-shipped-what-we-punted-on-b4l",
-      "title": "Concurrent writes to a shared agent memory: what we shipped, what we punted on",
-      "summary": "\"Who owns conflict resolution when two agents write to shared memory in the same turn?\" — Kyle Carriedo, in the comments on a recent post\n\n\nBest comment we've gotten on the project. It also surfaces the exact decision we punted on, so this post lays out the trade-off honestly.\n\n\n  \n  \n  The setup\n\n\n",
-      "date_published": "2026-05-26",
-      "tags": [
-        "ai",
-        "agents",
-        "opensource",
-        "postgres"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "009",
-      "url": "https://dev.to/aws-builders/building-a-production-serverless-url-shortener-on-aws-21-articles-every-test-run-for-real-5905",
-      "title": "Building a Production Serverless URL Shortener on AWS — 21 Articles, Every Test Run for Real",
-      "summary": "Most serverless tutorials stop at a hello-world Lambda behind API Gateway. I wanted the opposite: build one real product end to end, run every command on real AWS, and write\ndown the actual numbers — including the ones that didn't go as planned.\n\nThe result is a 21-article series that builds a URL s",
-      "date_published": "2026-05-26",
-      "tags": [
-        "serverless",
-        "lambda",
-        "aws",
-        "devops"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "010",
-      "url": "https://dev.to/shahzadahmad91/my-cka-cheat-sheet-commands-aliases-and-documentation-tricks-i-used-during-the-exam-4p84",
-      "title": "My CKA Cheat Sheet: Commands, Aliases, and Documentation Tricks I Used During the Exam",
-      "summary": "After sharing my Kubernetes journey, preparation strategy, exam-day experience, and the mistakes I made along the way, I wanted to create something more practical.\n\nOne of the biggest lessons I learned while preparing for the Certified Kubernetes Administrator (CKA) exam is that success is not just ",
-      "date_published": "2026-05-26",
-      "tags": [
-        "kubernetes",
-        "cka",
-        "ckad",
-        "kubestronaut"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "011",
-      "url": "https://dev.to/iremide0017/frontend-engineering-beyond-pixels-the-architecture-of-digital-accessibility-5715",
-      "title": "Frontend Engineering Beyond Pixels: The Architecture of Digital Accessibility",
-      "summary": "From a high-level perspective, frontend engineering functions as the translation layer between raw, machine-readable data and human interaction through User Interfaces (UI) and User Experience (UX). While technical optimization often focuses on rendering pipelines, bundle sizes, and state management",
-      "date_published": "2026-05-26",
-      "tags": [
-        "flutter",
-        "a11y",
-        "mobile",
-        "frontend"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/fn8211/vla-or-il-a-controlled-dataset-for-testing-whether-finetuning-turns-your-vla-into-a-fancy-4m6i",
-      "title": "VLA or IL? A Controlled Dataset for Testing Whether Finetuning Turns Your VLA into a Fancy Imitation Learner",
-      "summary": "Motivation\n\n\nRobot manipulation is the ability of a robot to interact with and manipulate objects in the physical world, such as grasping objects, moving them precisely, and adapting to changes in the environment. Traditional approaches such as Imitation Learning (IL) [ACT, Diffusion Policy] learn d",
-      "date_published": "2026-05-26",
-      "tags": [
-        "ai",
-        "data",
-        "deeplearning",
+        "programming",
         "machinelearning"
       ],
       "_source": "Dev.to"
     },
     {
+      "id": "006",
+      "url": "https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l",
+      "title": "I Built My First Production AWS Project as a Career Changer",
+      "summary": "Who Am I?\n\n\nHello, my name is Maurice Murphy and I’m a self-taught full-stack developer. With nearly a decade of experience building React, React Native and Node applications. I'm transitioning into Cloud Engineering and targeting AWS roles by Q3 2026. This is the first project in that journey. Whil",
+      "date_published": "2026-05-26",
+      "tags": [
+        "webdev",
+        "architecture",
+        "aws",
+        "react"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha",
+      "title": "Why Detecting PII Matters More Than Ever",
+      "summary": "Why Detecting PII Matters More Than Ever\n\n\nEvery modern application processes data. Usernames, emails, phone numbers, payment details, addresses, government IDs, IP addresses, chat logs, uploaded documents — all of it flows through APIs, databases, analytics systems, logs, and AI pipelines.\n\nHidden ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "cybersecurity",
+        "data",
+        "privacy",
+        "security"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/gunalan22082002/python-tasks-13f2",
+      "title": "Python Tasks",
+      "summary": "The following programs clearly explain the concept of indentation and highlight common mistakes we usually make.\n1.expected output is \"1 1 1 1 1\"\n\nprogram:\n    count = 1\n    while count<=5:\n            print(1, end=' ')        #print(1, end='\\n')\n        count=count+1\n\noutput:\n    1 1 1 1 1\n\nWhat ha",
+      "date_published": "2026-05-26",
+      "tags": [
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/m-abdullah-naseer/how-i-started-my-cybersecurity-journey-as-an-sqa-engineer-8nh",
+      "title": "How I Started My Cybersecurity Journey as an SQA Engineer 🔐",
+      "summary": "Hey dev.to community! 👋\n\nI'm Muhammad Abdullah — a CEH-certified \nCybersecurity Specialist and SQA Engineer \nfrom Pakistan 🇵🇰\n\nHow It All Started\n\nMy journey began with Software Quality Assurance.\nAs an SQA engineer , my job was simple break things \nbefore users do.\n\nThat \"breaking things\" mindset n",
+      "date_published": "2026-05-26",
+      "tags": [
+        "cybersecurity",
+        "bugbounty",
+        "security",
+        "python"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/mok_hong_83070078e07b9066/why-fancy-fonts-in-discord-and-instagram-bios-turn-into-boxes--4dil",
+      "title": "Why \"fancy fonts\" in Discord and Instagram bios turn into boxes",
+      "summary": "You've seen it everywhere — 𝓬𝓾𝓻𝓼𝓲𝓿𝓮 Discord names, 𝗯𝗼𝗹𝗱 Instagram bios, ʙᴜʙʙʟᴇ usernames. You've probably also seen the cursed version: someone's clever bio rendered as a row of □ □ □ boxes.\n\nHere's what's actually going on under the hood, and why it breaks for some people but not others.\n\n\n  \n  \n  ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "webdev",
+        "unicode",
+        "discord",
+        "javascript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/ptp2308/gke-private-cluster-setup-common-mistakes-and-how-to-avoid-them-4lp9",
+      "title": "☁️ GKE private cluster setup — common mistakes and how to avoid them",
+      "summary": "Private clusters are not inherently valuable — they’re only effective when used to reduce attack surface. For teams running production workloads in Google Kubernetes Engine (GKE), leaving worker nodes exposed to the public internet increases blast radius during incidents. A gke private cluster setup",
+      "date_published": "2026-05-26",
+      "tags": [
+        "googlecloud",
+        "cloud",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/bhavin-allinonetools/i-thought-a-username-didnt-matter-until-i-saw-how-much-people-care-about-it-g48",
+      "title": "I Thought a Username Didn’t Matter… Until I Saw How Much People Care About It",
+      "summary": "The Problem Sounded Silly at First\n\n\nIt’s just a username.\n\nRight?\n\nThat’s what I thought.\n\nThen I started noticing something weird.\n\nPeople spend:\n\n\n10 minutes choosing a game loadout\n30 seconds starting a match\nBut sometimes…\n\n\n👉 30 minutes choosing a name.\n\n\n  \n  \n  And Honestly… I Get It\n\n\nYour ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "webdev",
+        "buildinpublic",
+        "tooling",
+        "ux"
+      ],
+      "_source": "Dev.to"
+    },
+    {
       "id": "013",
+      "url": "https://dev.to/max_quimby/claude-for-small-business-382k-day-one-buyers-guide-a4k",
+      "title": "Claude for Small Business: 382K Day-One Buyer's Guide",
+      "summary": "The headline number making the rounds on r/ClaudeAI yesterday is real: Anthropic's just-shipped Small Business bundle pulled around 382,000 downloads on day one, according to the community thread that landed at 1,685 upvotes. That number is doing a lot of work in the agent-platform discourse this we",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "agents",
+        "anthropic",
+        "smb"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/aditya_mehra/i-built-a-diagnostic-toolkit-for-pytorch-because-i-was-tired-of-guessing-why-models-fail-24fl",
+      "title": "I Built a Diagnostic Toolkit for PyTorch Because I Was Tired of Guessing Why Models Fail",
+      "summary": "Every time a PyTorch model refuses to learn, the debugging process looks the same:\n\n\nStare at the loss curve\nWonder if gradients are flowing\nAdd print statements everywhere\nDelete them all when it works\nRepeat next week\n\n\nAfter 17 years in distributed systems and SRE, I know this pattern — it is mon",
+      "date_published": "2026-05-26",
+      "tags": [
+        "pytorch",
+        "python",
+        "machinelearning",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/zeroshotanu/how-i-built-an-ai-powered-incident-rca-platform-with-langgraph-and-rag-423j",
+      "title": "How I Built an AI-Powered Incident RCA Platform with LangGraph and RAG",
+      "summary": "It’s 2:13 AM.\n\nA payment API suddenly starts failing in production.\n\nCustomers can’t complete transactions. Alerts begin firing everywhere. Dashboards turn red. Kubernetes pods restart unexpectedly. Database connections start timing out.\n\nAnd somewhere, an exhausted engineer opens Datadog and starts",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "langgraph",
+        "programming",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
       "title": "Social media as bad for young people as smoking, top doctors say",
       "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
@@ -185,43 +214,10 @@
       "_source": "BBC News"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://support.apple.com/en-us/127115",
       "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 64\n# Comments: 22",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "015",
-      "url": "https://github.com/yugr/rust-slides/",
-      "title": "Performance of Rust Language [pdf]",
-      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 11\n# Comments: 1",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "016",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "title": "Nobody cracks open a programming book anymore",
-      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 88\n# Comments: 112",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "017",
-      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-      "title": "Using AI to write better code more slowly",
-      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 141\n# Comments: 43",
+      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 95\n# Comments: 35",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -230,9 +226,9 @@
     },
     {
       "id": "018",
-      "url": "https://zonted.com/posts/every-ai-is-intj/",
-      "title": "Every Frontier AI Is INTJ",
-      "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/\nComments URL: https://news.ycombinator.com/item?id=48272755\nPoints: 15\n# Comments: 5",
+      "url": "https://github.com/yugr/rust-slides/",
+      "title": "Performance of Rust Language [pdf]",
+      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 30\n# Comments: 15",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -241,9 +237,9 @@
     },
     {
       "id": "019",
-      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-      "title": "How Shamir's Secret Sharing Works",
-      "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/\nComments URL: https://news.ycombinator.com/item?id=48272715\nPoints: 40\n# Comments: 6",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "title": "Nobody cracks open a programming book anymore",
+      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 117\n# Comments: 149",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -252,9 +248,9 @@
     },
     {
       "id": "020",
-      "url": "https://veso.ai/research/agentic-patterns/",
-      "title": "Agentic Patterns",
-      "summary": "Article URL: https://veso.ai/research/agentic-patterns/\nComments URL: https://news.ycombinator.com/item?id=48272694\nPoints: 12\n# Comments: 3",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Using AI to write better code more slowly",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 250\n# Comments: 103",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -263,9 +259,9 @@
     },
     {
       "id": "021",
-      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "summary": "Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk\nComments URL: https://news.ycombinator.com/item?id=48272670\nPoints: 54\n# Comments: 31",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "title": "How Shamir's Secret Sharing Works",
+      "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/\nComments URL: https://news.ycombinator.com/item?id=48272715\nPoints: 91\n# Comments: 9",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -274,9 +270,9 @@
     },
     {
       "id": "022",
-      "url": "https://github.com/tantara/openbrief",
-      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-      "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source and free.\n\nComments URL",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "summary": "Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk\nComments URL: https://news.ycombinator.com/item?id=48272670\nPoints: 123\n# Comments: 45",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -285,9 +281,9 @@
     },
     {
       "id": "023",
-      "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "summary": "Article URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files\nComments URL: https://news.ycombinator.com/item?id=48272354\nPoints: 186\n# Comments: 38",
+      "url": "https://github.com/tantara/openbrief",
+      "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
+      "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source and free.\n\nComments URL",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
