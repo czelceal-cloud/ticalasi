@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-    "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 97\n# Comments: 28",
-    "url": "https://dynip.dev/",
+    "title": "China vs. Taiwan: The Geography of an Unfinished War",
+    "summary": "Article URL: https://jstribune.com/china-vs-taiwan-the-geography-of-an-unfinished-war/\nComments URL: https://news.ycombinator.com/item?id=48277805\nPoints: 9\n# Comments: 2",
+    "url": "https://jstribune.com/china-vs-taiwan-the-geography-of-an-unfinished-war/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
-    "summary": "I asked this in 2024 and would love to see the change: https://news.ycombinator.com/item?id=41748125\n\nComments URL: https://news.ycombinator.com/item?id=48275508\nPoints: 104\n# Comments: 71",
-    "url": "https://news.ycombinator.com/item?id=48275508",
+    "title": "I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty",
+    "summary": "Article URL: https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html\nComments URL: https://news.ycombinator.com/item?id=48277537\nPoints: 79\n# Comments: 38",
+    "url": "https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
-    "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 8\n# Comments: 1",
-    "url": "https://github.com/andreoliwa/logseq-doctor",
+    "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+    "summary": "Article URL: https://ni5arga.com/blog/posts/hacking-cbse/\nComments URL: https://news.ycombinator.com/item?id=48277357\nPoints: 4\n# Comments: 0",
+    "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The User Is Visibly Frustrated",
-    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 148\n# Comments: 120",
-    "url": "https://pscanf.com/s/354/",
+    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+    "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 149\n# Comments: 56",
+    "url": "https://dynip.dev/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 150\n# Comments: 77",
-    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
+    "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 14\n# Comments: 1",
+    "url": "https://github.com/andreoliwa/logseq-doctor",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 68\n# Comments: 25",
-    "url": "https://earthiongame.com/",
+    "title": "The User Is Visibly Frustrated",
+    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 179\n# Comments: 163",
+    "url": "https://pscanf.com/s/354/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -67,6 +67,75 @@
   },
   {
     "id": "007",
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 216\n# Comments: 108",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 83\n# Comments: 35",
+    "url": "https://earthiongame.com/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
+    "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
+    "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
+    "date": "2026-05-26",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Venture",
+      "e-commerce",
+      "Startups",
+      "Stord",
+      "Strike Capital"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "AI warfare is already here",
+    "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculati",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+    "date": "2026-05-26",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Anthropic",
+      "Law",
+      "OpenAI",
+      "Policy",
+      "Report"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Spotify is narrating magazine articles now",
+    "summary": "Would you listen to magazine articles on Spotify? The streaming platform certainly hopes so, as it's launching a new format for narrated long-form articles, alongside its usual array of music, podcasts, and audiobooks. Starting today, more than 650 articles from publications including Rolling Stone,",
+    "url": "https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability",
+    "date": "2026-05-26",
+    "source": "The Verge",
+    "tags": [
+      "Entertainment",
+      "News",
+      "Spotify",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "012",
     "title": "Uber president says AI spending is getting ‘harder to justify’",
     "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a co",
     "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
@@ -82,7 +151,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "013",
     "title": "A battery-powered Starlink Mini is likely on the way",
     "summary": "Code in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responders, and anyone who wants fast, low-latency internet from al",
     "url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
@@ -96,7 +165,186 @@
     ]
   },
   {
-    "id": "009",
+    "id": "014",
+    "title": "The Cookware Industry Has a Major Fight Brewing Over PFAS Claims",
+    "summary": "There’s a new front in the war over the safety of chemicals used to make nonstick pans.",
+    "url": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "kitchen",
+      "cooking",
+      "chemicals",
+      "health",
+      "Cookware",
+      "Sticky Situation"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Quiz: Will AI Destroy Your Career?",
+    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "Work",
+      "automation",
+      "Occupied"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
+    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
+    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "artificial intelligence",
+      "agentic AI",
+      "Anthropic",
+      "open source",
+      "AI Panic",
+      "Bot Invasion"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "AI Is Taking Over the Most Cursed Job in the World",
+    "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+    "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "AI Panic",
+      "artificial intelligence",
+      "Finance",
+      "money",
+      "Eve Jobs"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
+    "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
+    "url": "https://www.wired.com/story/household-chores-training-robots/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "gig economy",
+      "robotics",
+      "robots",
+      "Training",
+      "Jobs",
+      "chores",
+      "household",
+      "I, Robot"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
+    "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
+    "url": "https://www.wired.com/story/fact-checking-ai/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "artificial intelligence",
+      "chatbots",
+      "information",
+      "Google",
+      "Books",
+      "ethics",
+      "AI Panic",
+      "Jobs",
+      "Point of Correction"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "To Land a Job in AI, Try Reading Kant",
+    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "artificial intelligence",
+      "OpenAI",
+      "Anthropic",
+      "AI Panic",
+      "Extended Reasoning"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+    "summary": "AI could make you redundant. Here’s what you need to know.",
+    "url": "https://www.wired.com/story/ai-or-die-trying/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "employees",
+      "Work",
+      "Jobs",
+      "Economy",
+      "Required Learning"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
+    "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
+    "url": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "chatbots",
+      "tips",
+      "service",
+      "software",
+      "productivity",
+      "agentic AI",
+      "Power Up"
+    ]
+  },
+  {
+    "id": "023",
     "title": "I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy",
     "summary": "This sleeve works overtime to carry so much more than a spare laptop. With all the extra space and pockets, it's the best laptop companion I've ever used.",
     "url": "https://www.wired.com/story/finally-a-laptop-sleeve-for-me/",
@@ -115,7 +363,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "024",
     "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
     "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
     "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
@@ -140,7 +388,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "025",
     "title": "Cearvol’s Wave Design Fights Off Hearing Loss and Aging Stigma",
     "summary": "Cearvol’s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
     "url": "https://www.wired.com/review/review-cearvol-wave-lite/",
@@ -158,7 +406,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "026",
     "title": "A reality check on the AI jobs hysteria",
     "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
     "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
@@ -172,7 +420,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "027",
     "title": "It’s time to address the looming crisis in entry-level work.",
     "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac",
     "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
@@ -186,221 +434,45 @@
     ]
   },
   {
-    "id": "014",
-    "title": "\"My AI Assistant Could Code, But It Couldn't Operate My Desktop\"",
-    "summary": "My assistant could already read files, run shell commands, and delegate coding work to Claude Code or Codex.\n\nBut the moment a workflow hit a real desktop app, the illusion broke.\n\nA browser needed a click. A page needed a scroll. A field needed real text input. A task could finish the hard part and",
-    "url": "https://dev.to/codekingai/my-ai-assistant-could-code-but-it-couldnt-operate-my-desktop-4d97",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "webdev",
-      "javascript",
-      "ai",
-      "opensource"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "Securing auth in a large-scale production system: three industry-standard architectures — and why none survived a closer look",
-    "summary": "A case study in why the verdict on an architecture decision can shift entirely once you dive into implementation details — using auth security on a large Next.js + AWS system as the vehicle. This article walks the three architectural paths we considered — plus a fourth option that, in this context, ",
-    "url": "https://dev.to/dragosbln/securing-auth-in-a-large-scale-production-system-three-industry-standard-architectures-and-why-279b",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "architecture",
-      "security",
-      "aws",
-      "nextjs"
-    ]
-  },
-  {
-    "id": "016",
-    "title": "Two Models Just Hit 90% on Agent Coding. One Cost Less Than a Penny.",
-    "summary": "By Vilius Vystartas | May 2026\n\nTen more models through the same 10 agent coding tasks. Two tied the all-time record. One cost $0.0002. The other hit the score at $0.0018 — cheaper than most models scoring 70%.\n\nBatch 10 was the cheapest one yet.\n\n\n\n\n\n  \n  \n  The Leaders\n\n\nTwo models scored 90% with",
-    "url": "https://dev.to/vystartasv/two-models-just-hit-90-on-agent-coding-one-cost-less-than-a-penny-12d2",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "agents",
-      "benchmark",
-      "llm"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Voicebox: The Open-Source AI Voice Studio That Just Hit 28K Stars",
-    "summary": "Voicebox: The Open-Source AI Voice Studio That Just Hit 28K Stars\n\n\nI've been watching the voice AI space for a while. ElevenLabs does voice cloning incredibly well. WisprFlow nails voice dictation. But both live in the cloud, both cost money every month, and both require uploading your voice data t",
-    "url": "https://dev.to/hiroki-ii-ai/voicebox-the-open-source-ai-voice-studio-that-just-hit-28k-stars-77g",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "voice",
-      "opensource",
-      "programming"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "How to Build a Remote Patient Monitoring App: Features, Architecture and Cost in 2026",
-    "summary": "The US remote patient monitoring market is projected at $17.2 billion in 2026, growing to $49.5 billion by 2033. That number is pulling every digital health startup, hospital system, and medtech founder into the same question: should we build one, and what does it actually cost?\n\nHere is the problem",
-    "url": "https://dev.to/devansh2002/how-to-build-a-remote-patient-monitoring-app-features-architecture-and-cost-in-2026-2jdm",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "healthtech"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Day 1 Python Learning 🐍",
-    "summary": "** Today I Started learning python programming language.\nI learned some basic concepts about python and terminal commands..**\n\n** Python is a Interpreted and dynamically typed programming language.\nPython automatically Understands the datatype.\nInterpreted means a code is Executed Line by Line.\n\nEX ",
-    "url": "https://dev.to/surya_960b9a895415589fa9e/day-1-python-learning-13nh",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "python",
-      "beginners",
-      "learning",
-      "fullstack"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Supercharge your AI coding workflow with Chrome DevTools for agents.",
-    "summary": "Google I/O 2026 has been not only an opportunity for new minor enhancements, but also for glimpses of what's possible when we create code and applications. There were many great announcements made, many of which are already getting excitement from developers; however, there was one announcement duri",
-    "url": "https://dev.to/himanshi_kumari_c878daee7/supercharge-your-ai-coding-workflow-with-chrome-devtools-for-agents-55o2",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "googleiochallenge"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "My AI corrections used to be tribal knowledge. I shipped the fix into my own OSS.",
-    "summary": "TL;DR — I ran a personal wiki inside Claude Code for a month and shipped it as Hypomnema (npm install -g hypomnema). It's MIT, plain markdown + git, no vector DB, no API keys. The core is 14 lifecycle hooks that wire the wiki into Claude Code so it maintains itself — auto-commit, auto-push, session-",
-    "url": "https://dev.to/limsangkyu/my-ai-corrections-used-to-be-tribal-knowledge-i-shipped-the-fix-into-my-own-oss-3a9h",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "opensource",
-      "showdev",
-      "productivity"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Google Opened UCP for Lodging. We Already Tested What It Needs to Handle.",
-    "summary": "Google has opened the door to agentic hotel booking. A new developer page — UCP for Lodging — describes an open standard to \"turn AI interactions into instant bookings for room reservations.\" But there is no spec to read yet: the page says plainly that detailed onboarding and specs are \"coming soon,",
-    "url": "https://dev.to/benjifisher/google-opened-ucp-for-lodging-we-already-tested-what-it-needs-to-handle-3m7b",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ecommerce",
-      "webdev",
-      "ai",
-      "data"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "I A/B tested compressed agent instructions and found the breaking point",
-    "summary": "Your AI coding agent reads its instruction files on every session start. CLAUDE.md, steering files, skills, rules. A typical power-user setup burns 15,000-20,000 tokens before you type a word.\n\nI ran a controlled experiment: compressed my agent's instruction stack three different ways, tested each w",
-    "url": "https://dev.to/vidanov/i-ab-tested-compressed-agent-instructions-and-found-the-breaking-point-3h7k",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "productivity",
-      "kiro",
-      "finops"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "k6: The Tool, The Philosophy, and Your First Test",
-    "summary": "I've been going deep on k6, Grafana's open-source load and performance testing tool. This is the first in a four-part series documenting that journey, from first principles to a full test suite running against a live Kubernetes environment.\n\nWhy k6?\n\nMost load testing tools treat tests as configurat",
-    "url": "https://dev.to/matthew_wimpelberg_79193b/k6-the-tool-the-philosophy-and-your-first-test-2ccp",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "javascript",
-      "performance",
-      "testing",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "AWS vs Azure vs GCP: A Real Cloud Pricing Comparison",
-    "summary": "Choosing between AWS, Azure, and Google Cloud isn't just about picking the cheapest hourly rate. All three providers offer scalable compute, storage, and networking, the real differences show up in how discounts are structured, how commitments work, and how much risk you absorb when usage shifts.\n\nT",
-    "url": "https://dev.to/aman_singh_414811a9e4168b/aws-vs-azure-vs-gcp-a-real-cloud-pricing-comparison-1bn9",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "aws",
-      "cloud",
-      "architecture"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "'Overwhelming consensus' that screen time harms children, top doctors say",
-    "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
-    "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-26",
-    "source": "BBC News",
-    "tags": [
-      "BBC News"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Performance of Rust Language [pdf]",
-    "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 76\n# Comments: 46",
-    "url": "https://github.com/yugr/rust-slides/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "028",
-    "title": "Nobody cracks open a programming book anymore",
-    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 197\n# Comments: 231",
-    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
+    "title": "Agent Launch: one CLI for local coding agents",
+    "summary": "I built Agent Launch because I kept switching between local coding-agent CLIs and forgetting which flags each one used for prompts, working directories, modes, model choices, resume, and non-interactive runs.\n\nAgent Launch gives me one command, agl, with a consistent interface for:\n\n\nchoosing the ba",
+    "url": "https://dev.to/dhruv_anand_aintech/agent-launch-one-cli-for-local-coding-agents-2fm2",
+    "date": "2026-05-26",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "ai",
+      "cli",
+      "opensource",
+      "tooling"
     ]
   },
   {
     "id": "029",
-    "title": "Using AI to write better code more slowly",
-    "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 642\n# Comments: 245",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
+    "title": "TinyLoad v6 — split opcode tables, encrypted dispatch, and control flow flattening",
+    "summary": "TinyLoad v6 is out. if you haven't seen it before — it's a PE packer for Windows. one .cpp file, no dependencies, MIT. repo here.\n\nv5 hardened the stub itself with encrypted strings, IAT wiping, and opmap obfuscation. v6 goes after the two biggest remaining fingerprints: the switch statement in the ",
+    "url": "https://dev.to/iamsopotatoecoder/tinyload-v6-split-opcode-tables-encrypted-dispatch-and-control-flow-flattening-mkm",
+    "date": "2026-05-26",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "cpp",
+      "windows",
+      "packer",
+      "security"
     ]
   },
   {
     "id": "030",
-    "title": "How Shamir's Secret Sharing Works",
-    "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/\nComments URL: https://news.ycombinator.com/item?id=48272715\nPoints: 198\n# Comments: 34",
-    "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
+    "title": "Back to Code | Ep 15: The New Manifesto — Master and Apprentice (Season Finale)",
+    "summary": "The 15-week technical battle of LogiFlow — a company waking up from the illusion created by artificial intelligence and returning to real engineering.\n\n\n\n  \n  \n  The Story\n\n\nAt the end of 15 weeks, the LogiFlow team gathered in the War Room one last time. The system had survived Black Friday without",
+    "url": "https://dev.to/turacthethinker/back-to-code-ep-15-the-new-manifesto-master-and-apprentice-season-finale-4moo",
+    "date": "2026-05-26",
+    "source": "Dev.to",
     "tags": [
-      "Hacker News"
+      "programming",
+      "ai",
+      "career",
+      "architecture"
     ]
   }
 ]
