@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "China vs. Taiwan: The Geography of an Unfinished War",
-    "summary": "Article URL: https://jstribune.com/china-vs-taiwan-the-geography-of-an-unfinished-war/\nComments URL: https://news.ycombinator.com/item?id=48277805\nPoints: 9\n# Comments: 2",
-    "url": "https://jstribune.com/china-vs-taiwan-the-geography-of-an-unfinished-war/",
+    "title": "Outsourcing plus LocalAI will soon become more economical vs. Frontier labs",
+    "summary": "Article URL: https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/\nComments URL: https://news.ycombinator.com/item?id=48278610\nPoints: 5\n# Comments: 1",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty",
-    "summary": "Article URL: https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html\nComments URL: https://news.ycombinator.com/item?id=48277537\nPoints: 79\n# Comments: 38",
-    "url": "https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html",
+    "title": "Eagle 3.1: Collaboration Between the EAGLE Team, vLLM Team, and TorchSpec Team",
+    "summary": "Article URL: https://vllm.ai/blog/2026-05-26-eagle-3-1\nComments URL: https://news.ycombinator.com/item?id=48278407\nPoints: 22\n# Comments: 8",
+    "url": "https://vllm.ai/blog/2026-05-26-eagle-3-1",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
-    "summary": "Article URL: https://ni5arga.com/blog/posts/hacking-cbse/\nComments URL: https://news.ycombinator.com/item?id=48277357\nPoints: 4\n# Comments: 0",
-    "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
+    "title": "Netherlands blocks US takeover of vital digital supplier",
+    "summary": "Article URL: https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/\nComments URL: https://news.ycombinator.com/item?id=48278406\nPoints: 140\n# Comments: 39",
+    "url": "https://www.politico.eu/article/netherlands-blocks-us-takeover-vital-digital-supplier/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-    "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 149\n# Comments: 56",
-    "url": "https://dynip.dev/",
+    "title": "GitHub Actions down again today",
+    "summary": "Article URL: https://www.githubstatus.com/?today\nComments URL: https://news.ycombinator.com/item?id=48278374\nPoints: 330\n# Comments: 176",
+    "url": "https://www.githubstatus.com/?today",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
-    "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 14\n# Comments: 1",
-    "url": "https://github.com/andreoliwa/logseq-doctor",
+    "title": "Incident with Actions and Pages",
+    "summary": "Article URL: https://www.githubstatus.com/incidents/gnftqj9htp0g\nComments URL: https://news.ycombinator.com/item?id=48278090\nPoints: 32\n# Comments: 9",
+    "url": "https://www.githubstatus.com/incidents/gnftqj9htp0g",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "The User Is Visibly Frustrated",
-    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 179\n# Comments: 163",
-    "url": "https://pscanf.com/s/354/",
+    "title": "Exposing Critical Vulnerabilities in CBSE's On-Screen Marking Portal",
+    "summary": "Article URL: https://ni5arga.com/blog/posts/hacking-cbse/\nComments URL: https://news.ycombinator.com/item?id=48277357\nPoints: 21\n# Comments: 2",
+    "url": "https://ni5arga.com/blog/posts/hacking-cbse/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
-    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 216\n# Comments: 108",
-    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "title": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+    "summary": "Article URL: https://dynip.dev/\nComments URL: https://news.ycombinator.com/item?id=48276363\nPoints: 199\n# Comments: 86",
+    "url": "https://dynip.dev/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 83\n# Comments: 35",
-    "url": "https://earthiongame.com/",
+    "title": "Logseq Doctor: Heal your flat old Markdown files before importing them to Logseq",
+    "summary": "Article URL: https://github.com/andreoliwa/logseq-doctor\nComments URL: https://news.ycombinator.com/item?id=48275462\nPoints: 21\n# Comments: 2",
+    "url": "https://github.com/andreoliwa/logseq-doctor",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -89,6 +89,66 @@
   },
   {
     "id": "009",
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 269\n# Comments: 141",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 101\n# Comments: 45",
+    "url": "https://earthiongame.com/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
+    "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
+    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+    "date": "2026-05-26",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Startups",
+      "Hardware",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Apps",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "7-Eleven data breach affects over 185,000 people’s personal data",
+    "summary": "The data breach included names, dates-of-birth, postal addresses, and Social Security numbers, according to a state government listing.",
+    "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
+    "date": "2026-05-26",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "cyberattack",
+      "cybersecurity",
+      "data breach",
+      "shinyhunters"
+    ]
+  },
+  {
+    "id": "013",
     "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
     "summary": "Stord was founded in 2015 by then-college students CEO Sean Henry  and CTO Jacob Boudreau while they were still at Georgia Tech.",
     "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
@@ -104,7 +164,53 @@
     ]
   },
   {
-    "id": "010",
+    "id": "014",
+    "title": "Driving Porsche's most powerful car—and no, it's not a 911",
+    "summary": "1,139 horsepower, 400 kW charging, brutally fast, and brutally expensive.",
+    "url": "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
+    "date": "2026-05-26",
+    "source": "Ars Technica",
+    "tags": [
+      "Cars",
+      "car review",
+      "First drive",
+      "Porsche Cayenne",
+      "Porsche Cayenne Coupe electric"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Sundar Pichai on AI, the future of search, and what’s happening to the web",
+    "summary": "Today, I’m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O, and it’s become one of my favorite Decoder traditions. There’s always a lot of news at I/O, and th",
+    "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+    "date": "2026-05-26",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Decoder",
+      "Google",
+      "Google I/O 2026",
+      "Podcasts",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+    "summary": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclaim that they don't listen to music on traditional streaming platforms anymore - it's just AI all day.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+    "date": "2026-05-26",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Report"
+    ]
+  },
+  {
+    "id": "017",
     "title": "AI warfare is already here",
     "summary": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended in November 2017, she thought the five-day sessions - which dealt largely in hypotheticals, speculati",
     "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
@@ -121,7 +227,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "018",
     "title": "Spotify is narrating magazine articles now",
     "summary": "Would you listen to magazine articles on Spotify? The streaming platform certainly hopes so, as it's launching a new format for narrated long-form articles, alongside its usual array of music, podcasts, and audiobooks. Starting today, more than 650 articles from publications including Rolling Stone,",
     "url": "https://www.theverge.com/entertainment/937126/spotify-long-form-magazine-article-narration-availability",
@@ -135,7 +241,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "019",
     "title": "Uber president says AI spending is getting ‘harder to justify’",
     "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Response, Uber president and chief operating officer Andrew Macdonald said the company isn't seeing a co",
     "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
@@ -151,7 +257,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "020",
     "title": "A battery-powered Starlink Mini is likely on the way",
     "summary": "Code in recent Starlink firmware suggests that SpaceX might soon release a version of its smallest internet dish with an integrated battery. A battery-powered Starlink Mini would offer untethered portability for vanlifers, emergency responders, and anyone who wants fast, low-latency internet from al",
     "url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
@@ -165,7 +271,32 @@
     ]
   },
   {
-    "id": "014",
+    "id": "021",
+    "title": "Google Fitbit Air Review: Barely There, Always Running",
+    "summary": "Google’s latest Fitbit strips away the screen without sacrificing features, delivering the most approachable and affordable wearable yet.",
+    "url": "https://www.wired.com/review/google-fitbit-air/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Health and Fitness",
+      "Gear / Reviews",
+      "Shopping",
+      "review",
+      "Reviews",
+      "Google",
+      "fitness",
+      "gear",
+      "Fitness Trackers",
+      "fitbit",
+      "health",
+      "Wearables",
+      "Product Review"
+    ]
+  },
+  {
+    "id": "022",
     "title": "The Cookware Industry Has a Major Fight Brewing Over PFAS Claims",
     "summary": "There’s a new front in the war over the safety of chemicals used to make nonstick pans.",
     "url": "https://www.wired.com/story/cookware-industry-legal-fight-pfas-claims/",
@@ -183,24 +314,7 @@
     ]
   },
   {
-    "id": "015",
-    "title": "Quiz: Will AI Destroy Your Career?",
-    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "AI Panic",
-      "artificial intelligence",
-      "Work",
-      "automation",
-      "Occupied"
-    ]
-  },
-  {
-    "id": "016",
+    "id": "023",
     "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
     "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
     "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
@@ -220,7 +334,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "024",
     "title": "AI Is Taking Over the Most Cursed Job in the World",
     "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
     "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
@@ -239,7 +353,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now?",
     "summary": "Cooking. Doing laundry. Tidying up. All your household tasks can be turned into data to train future humanoids—if you’re prepared for the consequences.",
     "url": "https://www.wired.com/story/household-chores-training-robots/",
@@ -262,7 +376,63 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
+    "title": "Quiz: Will AI Destroy Your Career?",
+    "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+    "url": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "Work",
+      "automation",
+      "Occupied"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "To Land a Job in AI, Try Reading Kant",
+    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
+    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "artificial intelligence",
+      "OpenAI",
+      "Anthropic",
+      "AI Panic",
+      "Extended Reasoning"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
+    "summary": "AI could make you redundant. Here’s what you need to know.",
+    "url": "https://www.wired.com/story/ai-or-die-trying/",
+    "date": "2026-05-26",
+    "source": "Wired",
+    "tags": [
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Panic",
+      "artificial intelligence",
+      "employees",
+      "Work",
+      "Jobs",
+      "Economy",
+      "Required Learning"
+    ]
+  },
+  {
+    "id": "029",
     "title": "I’m a Professional Fact-Checker. AI Is Wrong More Often Than You Think",
     "summary": "Can AI do fact-checking? A WIRED fact-checker fact-checks.",
     "url": "https://www.wired.com/story/fact-checking-ai/",
@@ -284,46 +454,7 @@
     ]
   },
   {
-    "id": "020",
-    "title": "To Land a Job in AI, Try Reading Kant",
-    "summary": "The world’s leading AI labs are hiring philosophers to think through ethical edge cases and grand questions of mind and morality. Are they another instrument of hype?",
-    "url": "https://www.wired.com/story/to-land-a-job-in-ai-try-reading-kant/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "longreads",
-      "artificial intelligence",
-      "OpenAI",
-      "Anthropic",
-      "AI Panic",
-      "Extended Reasoning"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Take This Mandatory AI Workplace Training Right Now—or Else",
-    "summary": "AI could make you redundant. Here’s what you need to know.",
-    "url": "https://www.wired.com/story/ai-or-die-trying/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "AI Panic",
-      "artificial intelligence",
-      "employees",
-      "Work",
-      "Jobs",
-      "Economy",
-      "Required Learning"
-    ]
-  },
-  {
-    "id": "022",
+    "id": "030",
     "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
     "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
     "url": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
@@ -341,138 +472,6 @@
       "productivity",
       "agentic AI",
       "Power Up"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "I Never Liked a Laptop Sleeve Until I Tried the Bellroy Laptop Caddy",
-    "summary": "This sleeve works overtime to carry so much more than a spare laptop. With all the extra space and pockets, it's the best laptop companion I've ever used.",
-    "url": "https://www.wired.com/story/finally-a-laptop-sleeve-for-me/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Trends",
-      "Gear / Products / Computers",
-      "laptops",
-      "laptop",
-      "Bags",
-      "Bag Check",
-      "Shopping"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-    "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-    "url": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "Business / Artificial Intelligence",
-      "Politics / Extremism",
-      "FBI",
-      "Department of Homeland Security",
-      "privacy",
-      "surveillance",
-      "Crime",
-      "security",
-      "politics",
-      "artificial intelligence",
-      "Moving Targets"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Cearvol’s Wave Design Fights Off Hearing Loss and Aging Stigma",
-    "summary": "Cearvol’s Wave Lite hearing aids take on the stigma of aging with tech-inspired design, but they lack the nuance to be truly useful.",
-    "url": "https://www.wired.com/review/review-cearvol-wave-lite/",
-    "date": "2026-05-26",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Health and Fitness",
-      "hearing aids",
-      "audio",
-      "wireless earbuds",
-      "Shopping",
-      "Product Review"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "A reality check on the AI jobs hysteria",
-    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—",
-    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "date": "2026-05-26",
-    "source": "MIT Tech Review",
-    "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "Business Impact"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "It’s time to address the looming crisis in entry-level work.",
-    "summary": "Artificial intelligence has not so far produced a clean story of mass unemployment. Aggregate employment in developed countries remains broadly stable, and recent assessments have found limited evidence that AI has shifted the headline numbers. But a troubling change may be hiding beneath the surfac",
-    "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
-    "date": "2026-05-26",
-    "source": "MIT Tech Review",
-    "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "Business Impact"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Agent Launch: one CLI for local coding agents",
-    "summary": "I built Agent Launch because I kept switching between local coding-agent CLIs and forgetting which flags each one used for prompts, working directories, modes, model choices, resume, and non-interactive runs.\n\nAgent Launch gives me one command, agl, with a consistent interface for:\n\n\nchoosing the ba",
-    "url": "https://dev.to/dhruv_anand_aintech/agent-launch-one-cli-for-local-coding-agents-2fm2",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "cli",
-      "opensource",
-      "tooling"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "TinyLoad v6 — split opcode tables, encrypted dispatch, and control flow flattening",
-    "summary": "TinyLoad v6 is out. if you haven't seen it before — it's a PE packer for Windows. one .cpp file, no dependencies, MIT. repo here.\n\nv5 hardened the stub itself with encrypted strings, IAT wiping, and opmap obfuscation. v6 goes after the two biggest remaining fingerprints: the switch statement in the ",
-    "url": "https://dev.to/iamsopotatoecoder/tinyload-v6-split-opcode-tables-encrypted-dispatch-and-control-flow-flattening-mkm",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "cpp",
-      "windows",
-      "packer",
-      "security"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Back to Code | Ep 15: The New Manifesto — Master and Apprentice (Season Finale)",
-    "summary": "The 15-week technical battle of LogiFlow — a company waking up from the illusion created by artificial intelligence and returning to real engineering.\n\n\n\n  \n  \n  The Story\n\n\nAt the end of 15 weeks, the LogiFlow team gathered in the War Room one last time. The system had survived Black Friday without",
-    "url": "https://dev.to/turacthethinker/back-to-code-ep-15-the-new-manifesto-master-and-apprentice-season-finale-4moo",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "programming",
-      "ai",
-      "career",
-      "architecture"
     ]
   }
 ]
