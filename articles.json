@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Why the Smart Home Bubble Popped",
-    "summary": "Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/\nComments URL: https://news.ycombinator.com/item?id=48274667\nPoints: 6\n# Comments: 2",
-    "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
+    "title": "Notes on Pope Leo XIV's Encyclical on AI",
+    "summary": "Article URL: https://simonwillison.net/2026/May/25/encyclical-on-ai/\nComments URL: https://news.ycombinator.com/item?id=48275098\nPoints: 30\n# Comments: 2",
+    "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Does Anybody Actually Like React?",
-    "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 87\n# Comments: 89",
-    "url": "https://jsx.lol",
+    "title": "The User Is Visibly Frustrated",
+    "summary": "Article URL: https://pscanf.com/s/354/\nComments URL: https://news.ycombinator.com/item?id=48275059\nPoints: 17\n# Comments: 3",
+    "url": "https://pscanf.com/s/354/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Designing for and against the manufactured normalcy field (2012)",
-    "summary": "Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html\nComments URL: https://news.ycombinator.com/item?id=48273597\nPoints: 11\n# Comments: 2",
-    "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+    "title": "Motorola phones have started hijacking the Amazon app to insert affiliate codes",
+    "summary": "Article URL: https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/\nComments URL: https://news.ycombinator.com/item?id=48274794\nPoints: 45\n# Comments: 15",
+    "url": "https://9to5google.com/2026/05/25/motorola-amazon-app-hijacking-behavior/",
     "date": "2026-05-26",
     "source": "Hacker News",
     "tags": [
@@ -34,170 +34,215 @@
   },
   {
     "id": "004",
-    "title": "Access Control Doesn't Scale Linearly -- Part 3",
-    "summary": "One day you look up and realize your permissions model is something only two people on the team can explain. One of them just put in their notice.\n \nNobody planned to be in that position. It happened one exception at a time. One \"just add a role for this\" at a time. One \"we'll clean this up later\" a",
-    "url": "https://dev.to/anusha_mukka/access-control-doesnt-scale-linearly-part-3-33h6",
+    "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
+    "summary": "Article URL: https://earthiongame.com/\nComments URL: https://news.ycombinator.com/item?id=48274711\nPoints: 19\n# Comments: 3",
+    "url": "https://earthiongame.com/",
     "date": "2026-05-26",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "security",
-      "distributedsystems",
-      "architecture",
-      "backend"
+      "Hacker News"
     ]
   },
   {
     "id": "005",
-    "title": "33x faster than Rust: Why I stopped waiting for my compiler and built my own.",
-    "summary": "The Hook: Slow compile times are a major pain point for systems engineers. Jda's 42ms average compile time is a game-changer.\n\n\nKey Points:\n\n\nWhy a single-pass compiler is \"fast enough\" and produces 1MB static binaries.\nThe \"Scripting speed + Native performance\" workflow.\nBuilt-in ML primitives: Tra",
-    "url": "https://dev.to/jai_lalawat_84c750c65b525/33x-faster-than-rust-why-i-stopped-waiting-for-my-compiler-and-built-my-own-3l40",
+    "title": "Why the smart home bubble popped",
+    "summary": "Article URL: https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/\nComments URL: https://news.ycombinator.com/item?id=48274667\nPoints: 22\n# Comments: 39",
+    "url": "https://hackaday.com/2026/05/21/why-the-smart-home-bubble-popped/",
     "date": "2026-05-26",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "discuss",
-      "ai",
-      "programming",
-      "machinelearning"
+      "Hacker News"
     ]
   },
   {
     "id": "006",
-    "title": "I Built My First Production AWS Project as a Career Changer",
-    "summary": "Who Am I?\n\n\nHello, my name is Maurice Murphy and I’m a self-taught full-stack developer. With nearly a decade of experience building React, React Native and Node applications. I'm transitioning into Cloud Engineering and targeting AWS roles by Q3 2026. This is the first project in that journey. Whil",
-    "url": "https://dev.to/murphym757/i-built-my-first-production-aws-project-as-a-career-changer-e4l",
+    "title": "Does anybody like React?",
+    "summary": "Article URL: https://jsx.lol\nComments URL: https://news.ycombinator.com/item?id=48274077\nPoints: 119\n# Comments: 139",
+    "url": "https://jsx.lol",
     "date": "2026-05-26",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "webdev",
-      "architecture",
-      "aws",
-      "react"
+      "Hacker News"
     ]
   },
   {
     "id": "007",
-    "title": "Why Detecting PII Matters More Than Ever",
-    "summary": "Why Detecting PII Matters More Than Ever\n\n\nEvery modern application processes data. Usernames, emails, phone numbers, payment details, addresses, government IDs, IP addresses, chat logs, uploaded documents — all of it flows through APIs, databases, analytics systems, logs, and AI pipelines.\n\nHidden ",
-    "url": "https://dev.to/cautionlabs/why-detecting-pii-matters-more-than-ever-2kha",
+    "title": "Designing for and against the manufactured normalcy field (2012)",
+    "summary": "Article URL: https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html\nComments URL: https://news.ycombinator.com/item?id=48273597\nPoints: 16\n# Comments: 6",
+    "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
     "date": "2026-05-26",
-    "source": "Dev.to",
+    "source": "Hacker News",
     "tags": [
-      "cybersecurity",
-      "data",
-      "privacy",
-      "security"
+      "Hacker News"
     ]
   },
   {
     "id": "008",
-    "title": "Python Tasks",
-    "summary": "The following programs clearly explain the concept of indentation and highlight common mistakes we usually make.\n1.expected output is \"1 1 1 1 1\"\n\nprogram:\n    count = 1\n    while count<=5:\n            print(1, end=' ')        #print(1, end='\\n')\n        count=count+1\n\noutput:\n    1 1 1 1 1\n\nWhat ha",
-    "url": "https://dev.to/gunalan22082002/python-tasks-13f2",
+    "title": "What the Heck is an API?",
+    "summary": "Table of Contents\n\n\n\n\nIntro \nThe Restaurant\nThe Menu\nPlacing the Order\nThe Plate Coming Back\nDon't Need to Know How the Kitchen Works\nThe Internet Version of the Story\nA Real Example\nWhy This Matters\nDifferent Flavors of APIs\nWhere to Go From Here\n\n\n\n\n\n  \n  \n  Intro\n\n\nIf you eavesdrop on a conversat",
+    "url": "https://dev.to/ifeanyiro/what-the-heck-is-an-api-4a20",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "python"
+      "api",
+      "beginners",
+      "tutorial",
+      "webdev"
     ]
   },
   {
     "id": "009",
-    "title": "How I Started My Cybersecurity Journey as an SQA Engineer 🔐",
-    "summary": "Hey dev.to community! 👋\n\nI'm Muhammad Abdullah — a CEH-certified \nCybersecurity Specialist and SQA Engineer \nfrom Pakistan 🇵🇰\n\nHow It All Started\n\nMy journey began with Software Quality Assurance.\nAs an SQA engineer , my job was simple break things \nbefore users do.\n\nThat \"breaking things\" mindset n",
-    "url": "https://dev.to/m-abdullah-naseer/how-i-started-my-cybersecurity-journey-as-an-sqa-engineer-8nh",
+    "title": "FairLens AI: An Intelligent Dashboard for Automated Bias Auditing",
+    "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nFairLens AI is a premium, high-end SaaS platform designed for AI-powered bias auditing. I built this tool to help data scientists and researchers easily identify, quantify, and mitigate hidden biases within their",
+    "url": "https://dev.to/bibhupradhan/fairlens-ai-an-intelligent-dashboard-for-automated-bias-auditing-1a5c",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "cybersecurity",
-      "bugbounty",
-      "security",
-      "python"
+      "devchallenge",
+      "githubchallenge",
+      "dataengineering",
+      "ai"
     ]
   },
   {
     "id": "010",
-    "title": "Why \"fancy fonts\" in Discord and Instagram bios turn into boxes",
-    "summary": "You've seen it everywhere — 𝓬𝓾𝓻𝓼𝓲𝓿𝓮 Discord names, 𝗯𝗼𝗹𝗱 Instagram bios, ʙᴜʙʙʟᴇ usernames. You've probably also seen the cursed version: someone's clever bio rendered as a row of □ □ □ boxes.\n\nHere's what's actually going on under the hood, and why it breaks for some people but not others.\n\n\n  \n  \n  ",
-    "url": "https://dev.to/mok_hong_83070078e07b9066/why-fancy-fonts-in-discord-and-instagram-bios-turn-into-boxes--4dil",
+    "title": "RAG vs Fine-Tuning- Choosing Right Strategy for Modern AI Applications",
+    "summary": "AI applications go beyond conversational chatbots and general use cases. Companies want their AI models to have industry insight, use internal data, and produce a good response. To achieve this goal, companies have two primary options- retrieval-augmented generation (RAG) and fine-tuning.\n\nThe debat",
+    "url": "https://dev.to/siliconithub/rag-vs-fine-tuning-choosing-right-strategy-for-modern-ai-applications-dea",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "webdev",
-      "unicode",
-      "discord",
-      "javascript"
+      "aidevelopmentservices",
+      "raginaiapplications",
+      "ai",
+      "aiappdevelopmentstrategies"
     ]
   },
   {
     "id": "011",
-    "title": "☁️ GKE private cluster setup — common mistakes and how to avoid them",
-    "summary": "Private clusters are not inherently valuable — they’re only effective when used to reduce attack surface. For teams running production workloads in Google Kubernetes Engine (GKE), leaving worker nodes exposed to the public internet increases blast radius during incidents. A gke private cluster setup",
-    "url": "https://dev.to/ptp2308/gke-private-cluster-setup-common-mistakes-and-how-to-avoid-them-4lp9",
+    "title": "AI Metrics Decoded: From Parameters to TOPS",
+    "summary": "AI Metrics Decoded: The Numbers That Actually Matter in Production\n\n\n\n\n\n\n  \n  \n  Why You Need to Know This (Before Your First Production Incident)\n\n\nPicture this: your team picks a 70B parameter model for a new feature. It runs great on your MacBook. You push to production. The GPU bill arrives. You",
+    "url": "https://dev.to/sreeraj_sreenivasan_2b932/ai-metrics-decoded-from-parameters-to-tops-58k6",
     "date": "2026-05-26",
     "source": "Dev.to",
     "tags": [
-      "googlecloud",
-      "cloud",
-      "devops"
-    ]
-  },
-  {
-    "id": "012",
-    "title": "I Thought a Username Didn’t Matter… Until I Saw How Much People Care About It",
-    "summary": "The Problem Sounded Silly at First\n\n\nIt’s just a username.\n\nRight?\n\nThat’s what I thought.\n\nThen I started noticing something weird.\n\nPeople spend:\n\n\n10 minutes choosing a game loadout\n30 seconds starting a match\nBut sometimes…\n\n\n👉 30 minutes choosing a name.\n\n\n  \n  \n  And Honestly… I Get It\n\n\nYour ",
-    "url": "https://dev.to/bhavin-allinonetools/i-thought-a-username-didnt-matter-until-i-saw-how-much-people-care-about-it-g48",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
+      "ai",
       "webdev",
-      "buildinpublic",
-      "tooling",
-      "ux"
-    ]
-  },
-  {
-    "id": "013",
-    "title": "Claude for Small Business: 382K Day-One Buyer's Guide",
-    "summary": "The headline number making the rounds on r/ClaudeAI yesterday is real: Anthropic's just-shipped Small Business bundle pulled around 382,000 downloads on day one, according to the community thread that landed at 1,685 upvotes. That number is doing a lot of work in the agent-platform discourse this we",
-    "url": "https://dev.to/max_quimby/claude-for-small-business-382k-day-one-buyers-guide-a4k",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "agents",
-      "anthropic",
-      "smb"
-    ]
-  },
-  {
-    "id": "014",
-    "title": "I Built a Diagnostic Toolkit for PyTorch Because I Was Tired of Guessing Why Models Fail",
-    "summary": "Every time a PyTorch model refuses to learn, the debugging process looks the same:\n\n\nStare at the loss curve\nWonder if gradients are flowing\nAdd print statements everywhere\nDelete them all when it works\nRepeat next week\n\n\nAfter 17 years in distributed systems and SRE, I know this pattern — it is mon",
-    "url": "https://dev.to/aditya_mehra/i-built-a-diagnostic-toolkit-for-pytorch-because-i-was-tired-of-guessing-why-models-fail-24fl",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "pytorch",
-      "python",
-      "machinelearning",
-      "opensource"
-    ]
-  },
-  {
-    "id": "015",
-    "title": "How I Built an AI-Powered Incident RCA Platform with LangGraph and RAG",
-    "summary": "It’s 2:13 AM.\n\nA payment API suddenly starts failing in production.\n\nCustomers can’t complete transactions. Alerts begin firing everywhere. Dashboards turn red. Kubernetes pods restart unexpectedly. Database connections start timing out.\n\nAnd somewhere, an exhausted engineer opens Datadog and starts",
-    "url": "https://dev.to/zeroshotanu/how-i-built-an-ai-powered-incident-rca-platform-with-langgraph-and-rag-423j",
-    "date": "2026-05-26",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "langgraph",
       "programming",
       "productivity"
     ]
   },
   {
+    "id": "012",
+    "title": "I made git merge finish itself — in VS Code, in my terminal, and in CI",
+    "summary": "Based on your Merge Magic draft , here’s a cleaner CEO-style Markdown version:\n\n\n\n# Merge Magic: Resolving the Merge Conflicts That Shouldn’t Need a Human\n\nI built **Merge Magic** because I got tired of resolving the same merge-conflict pattern over and over again.\n\nSame conflict shape.  \nSame “keep",
+    "url": "https://dev.to/laksh_mishra_d5d5ad23b0be/i-made-git-merge-finish-itself-in-vs-code-in-my-terminal-and-in-ci-3pf6",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "git",
+      "ai",
+      "webdev",
+      "programming"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "You just can’t miss this…",
+    "summary": "Docker with AI: A Practical Guide to Running LLMs, Agents and MCP\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Harsh Manvar\n            \n            \n              \n                Harsh Manvar\n                \n              \n ",
+    "url": "https://dev.to/ajeetraina/-3m3l",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "Dev.to"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Redis Essentials: Architecture, Caching, and Setup",
+    "summary": "Redis is often a misunderstood tool in the backend developer's arsenal. While many view it simply as a \"topic\" to be covered in an hour, its role in modern system design is pivotal for building high-performance, scalable applications. This article explores what Redis is, why it is used, and how to s",
+    "url": "https://dev.to/imsushant12/redis-essentials-architecture-caching-and-setup-46eg",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "redis",
+      "systemdesign",
+      "architecture",
+      "programming"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Docker with AI: A Practical Guide to Running LLMs, Agents and MCP",
+    "summary": "If you've been searching for how to actually use Docker with AI not just spin up a demo but run models, agents and MCP servers in production here's what We have learned over the years and put into our new book.\n\n\n\nIf you typed \"Docker with AI\" into Google and landed here, you're in good company. Tha",
+    "url": "https://dev.to/harsh_manvar/docker-with-ai-a-practical-guide-to-running-llms-agents-and-mcp-51n2",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "docker",
+      "machinelearning",
+      "llm"
+    ]
+  },
+  {
     "id": "016",
+    "title": "Design to Code #5: Using AI to Build a Design System",
+    "summary": "I gave Claude the Switch component spec and pointed it at variables.css. What came back — CVA variants, Radix Primitives, forwardRef, controlled and uncontrolled both wired — was genuinely good. Better than my first draft would have been. I shipped it that afternoon without changing much.\n\nThat was ",
+    "url": "https://dev.to/7onic/design-to-code-5-using-ai-to-build-a-design-system-47ih",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "designsystem",
+      "opensource",
+      "llms"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Analyzing 1,000 Engineering Problems Through GitHub Data",
+    "summary": "In my previous article, I wrote about the GitHub mining process in user research and explained how it can benefit engineers, organizations, and open-source communities. Here is the link:\n\n\n  \n  What Developers Don’t Say in Interviews—but Show on GitHub\n\n\n  \n    \n      \n        \n\n          \n         ",
+    "url": "https://dev.to/priya_sajja_c336921bbda87/analyzing-1000-engineering-problems-through-github-data-j0o",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "cloudnative",
+      "devrel",
+      "machinelearning",
+      "uxdesign"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Open Graph protocol: canonical reference",
+    "summary": "framework-html-open-graph.md\n\n\nComprehensive reference for the Open Graph protocol, the meta tag system that controls how URLs are represented when shared on Facebook, LinkedIn, Pinterest, Slack, Discord, Telegram, iMessage, WhatsApp, and most other platforms that generate link previews. Covers the ",
+    "url": "https://dev.to/joseph_anady_214bacedf939/open-graph-protocol-canonical-reference-nek",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "html",
+      "seo",
+      "webdev",
+      "frontend"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "How a 400-Engineer SaaS Company Cut PR-to-Production from 4.2 Days to 6.4 Hours with Claude Code Multi-Agent DevOps",
+    "summary": "This isn't a proof of concept. It's been running in production for seven months across a 400-person engineering organisation. Here's exactly how it works.\n\nThe 4.2-day number isn't unusual. For a SaaS company with multiple service teams, compliance requirements and a staging environment that sometim",
+    "url": "https://dev.to/dextralabs/how-a-400-engineer-saas-company-cut-pr-to-production-from-42-days-to-64-hours-with-claude-code-10fb",
+    "date": "2026-05-26",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "webdev",
+      "programming",
+      "python"
+    ]
+  },
+  {
+    "id": "020",
     "title": "Social media as bad for young people as smoking, top doctors say",
     "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
     "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
@@ -208,9 +253,9 @@
     ]
   },
   {
-    "id": "017",
+    "id": "021",
     "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
-    "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 95\n# Comments: 35",
+    "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 115\n# Comments: 51",
     "url": "https://support.apple.com/en-us/127115",
     "date": "2026-05-25",
     "source": "Hacker News",
@@ -219,9 +264,9 @@
     ]
   },
   {
-    "id": "018",
+    "id": "022",
     "title": "Performance of Rust Language [pdf]",
-    "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 30\n# Comments: 15",
+    "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 46\n# Comments: 21",
     "url": "https://github.com/yugr/rust-slides/",
     "date": "2026-05-25",
     "source": "Hacker News",
@@ -230,54 +275,10 @@
     ]
   },
   {
-    "id": "019",
-    "title": "Nobody cracks open a programming book anymore",
-    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 117\n# Comments: 149",
-    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Using AI to write better code more slowly",
-    "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 250\n# Comments: 103",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "How Shamir's Secret Sharing Works",
-    "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/\nComments URL: https://news.ycombinator.com/item?id=48272715\nPoints: 91\n# Comments: 9",
-    "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-    "date": "2026-05-25",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-    "summary": "Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk\nComments URL: https://news.ycombinator.com/item?id=48272670\nPoints: 123\n# Comments: 45",
-    "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
-    "date": "2026-05-25",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
     "id": "023",
-    "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
-    "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source and free.\n\nComments URL",
-    "url": "https://github.com/tantara/openbrief",
+    "title": "Nobody cracks open a programming book anymore",
+    "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 149\n# Comments: 172",
+    "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
     "date": "2026-05-25",
     "source": "Hacker News",
     "tags": [
