@@ -7,20 +7,188 @@
   "items": [
     {
       "id": "001",
-      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
-      "title": "Nobody cracks open a programming book anymore",
-      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 26\n# Comments: 12",
-      "date_published": "2026-05-25",
+      "url": "https://dev.to/alanwest/how-to-fix-tool-use-loops-in-autonomous-coding-agents-540e",
+      "title": "How to Fix Tool-Use Loops in Autonomous Coding Agents",
+      "summary": "Last month I was helping a friend debug their autonomous coding agent. It had been \"working\" on a task for 47 minutes, burned through roughly twelve bucks in API costs, and somehow ended up exactly where it started. The logs showed it had called read_file on the same five files 23 times.\n\nIf you've ",
+      "date_published": "2026-05-26",
       "tags": [
-        "Hacker News"
+        "ai",
+        "agents",
+        "python",
+        "debugging"
       ],
-      "_source": "Hacker News"
+      "_source": "Dev.to"
     },
     {
       "id": "002",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/",
-      "title": "Canada losing top talent as workers head to the U.S.",
-      "summary": "Article URL: https://www.bnnbloomberg.ca/investing/market-outlook/2026/05/25/market-outlook-canada-losing-top-talent-as-workers-head-to-the-us/\nComments URL: https://news.ycombinator.com/item?id=48272749\nPoints: 38\n# Comments: 30",
+      "url": "https://dev.to/owjdie163com_096e40b198/months-of-self-testing-citations-shine-other-features-remain-unproven-1351",
+      "title": "Months of self-testing: Citations shine, other features remain unproven.",
+      "summary": "ok so full disclosure: I'm the person who built this. I'm not here to drop a pitch deck on you — I just need people who actually live in PDF hell to tell me if I'm solving a real problem or cosplaying as a startup.\n\nhow I used to work (embarrassing)\n\nmy \"system\" was: files in Drive → open ChatGPT → ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "productivity",
+        "showdev",
+        "sideprojects"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "003",
+      "url": "https://dev.to/nextools/claude-code-for-canary-deployments-how-i-ship-to-1-of-users-before-breaking-everything-3j49",
+      "title": "Claude Code for Canary Deployments: How I Ship to 1% of Users Before Breaking Everything",
+      "summary": "I used to ship by faith. The change passed code review, the tests went green, the deploy button was right there, and I pressed it. Most of the time it was fine. The handful of times it was not fine cost me weekends, customer trust, and a real amount of money. The worst incident I can remember was a ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "claudecode",
+        "devops",
+        "deployment",
+        "reliability"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "004",
+      "url": "https://dev.to/0012303/your-recurring-scraper-is-re-downloading-data-that-didnt-change-heres-the-15-line-fix-25lc",
+      "title": "Your recurring scraper is re-downloading data that didn't change. Here's the 15-line fix (conditional GET)",
+      "summary": "Note: This is a cross-post. Canonical version (full long-form) lives on my blog: https://blog.spinov.online/blog/ethical-scraping-is-a-rate-limit-question/\n\n\n\n  \n  \n  TL;DR\n\n\nThe \"ethical scraping\" debate keeps arguing about robots.txt and ToS. Those are real, but they're decisions you make once, be",
+      "date_published": "2026-05-26",
+      "tags": [
+        "webscraping",
+        "python",
+        "ai",
+        "apify"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "005",
+      "url": "https://dev.to/circuitrocks/espressif-reveals-coreboard-and-korvo-dev-kits-for-esp32-s31-1egm",
+      "title": "Espressif Reveals CoreBoard and Korvo Dev Kits for ESP32-S31",
+      "summary": "Espressif just pulled the wraps off two fresh development kits aimed at one of its most ambitious chips yet: the dual-core RISC-V ESP32-S31. If you've been waiting for a board that blends heavy IoT muscle with edge AI capability, this pair is worth a long look.\nWhat's the big deal with the ESP32-S31",
+      "date_published": "2026-05-26",
+      "tags": [
+        "esp32",
+        "esp32s31",
+        "espressif",
+        "riscv"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/beck_moulton/predicting-blood-glucose-fluctuations-building-a-transformer-based-cgm-forecaster-with-pytorch--4i44",
+      "title": "Predicting Blood Glucose Fluctuations: Building a Transformer-based CGM Forecaster with PyTorch & InfluxDB",
+      "summary": "Managing metabolic health isn't just about counting calories—it's about understanding the complex rhythms of our bodies. For those living with diabetes or biohackers optimizing performance, Continuous Glucose Monitoring (CGM) data is a goldmine. However, raw data is reactive. To be proactive, we nee",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "security",
+        "react",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/the-hive-collective/pre-task-hooks-the-one-line-wire-up-that-gives-your-hono-agent-shared-memory-k18",
+      "title": "Pre-task hooks: the one-line wire-up that gives your Hono agent shared memory",
+      "summary": "If you're building an agent on Hono — running on Cloudflare Workers, Bun, or Node — you already have the right primitives for this. A request comes in. You call an LLM. You return a response.\n\nThe smartest thing you can do before calling the LLM is to ask the collective whether anyone has already so",
+      "date_published": "2026-05-26",
+      "tags": [
+        "hono",
+        "ai",
+        "agents",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/the-hive-collective/concurrent-writes-to-a-shared-agent-memory-what-we-shipped-what-we-punted-on-b4l",
+      "title": "Concurrent writes to a shared agent memory: what we shipped, what we punted on",
+      "summary": "\"Who owns conflict resolution when two agents write to shared memory in the same turn?\" — Kyle Carriedo, in the comments on a recent post\n\n\nBest comment we've gotten on the project. It also surfaces the exact decision we punted on, so this post lays out the trade-off honestly.\n\n\n  \n  \n  The setup\n\n\n",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "agents",
+        "opensource",
+        "postgres"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/aws-builders/building-a-production-serverless-url-shortener-on-aws-21-articles-every-test-run-for-real-5905",
+      "title": "Building a Production Serverless URL Shortener on AWS — 21 Articles, Every Test Run for Real",
+      "summary": "Most serverless tutorials stop at a hello-world Lambda behind API Gateway. I wanted the opposite: build one real product end to end, run every command on real AWS, and write\ndown the actual numbers — including the ones that didn't go as planned.\n\nThe result is a 21-article series that builds a URL s",
+      "date_published": "2026-05-26",
+      "tags": [
+        "serverless",
+        "lambda",
+        "aws",
+        "devops"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/shahzadahmad91/my-cka-cheat-sheet-commands-aliases-and-documentation-tricks-i-used-during-the-exam-4p84",
+      "title": "My CKA Cheat Sheet: Commands, Aliases, and Documentation Tricks I Used During the Exam",
+      "summary": "After sharing my Kubernetes journey, preparation strategy, exam-day experience, and the mistakes I made along the way, I wanted to create something more practical.\n\nOne of the biggest lessons I learned while preparing for the Certified Kubernetes Administrator (CKA) exam is that success is not just ",
+      "date_published": "2026-05-26",
+      "tags": [
+        "kubernetes",
+        "cka",
+        "ckad",
+        "kubestronaut"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/iremide0017/frontend-engineering-beyond-pixels-the-architecture-of-digital-accessibility-5715",
+      "title": "Frontend Engineering Beyond Pixels: The Architecture of Digital Accessibility",
+      "summary": "From a high-level perspective, frontend engineering functions as the translation layer between raw, machine-readable data and human interaction through User Interfaces (UI) and User Experience (UX). While technical optimization often focuses on rendering pipelines, bundle sizes, and state management",
+      "date_published": "2026-05-26",
+      "tags": [
+        "flutter",
+        "a11y",
+        "mobile",
+        "frontend"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/fn8211/vla-or-il-a-controlled-dataset-for-testing-whether-finetuning-turns-your-vla-into-a-fancy-4m6i",
+      "title": "VLA or IL? A Controlled Dataset for Testing Whether Finetuning Turns Your VLA into a Fancy Imitation Learner",
+      "summary": "Motivation\n\n\nRobot manipulation is the ability of a robot to interact with and manipulate objects in the physical world, such as grasping objects, moving them precisely, and adapting to changes in the environment. Traditional approaches such as Imitation Learning (IL) [ACT, Diffusion Policy] learn d",
+      "date_published": "2026-05-26",
+      "tags": [
+        "ai",
+        "data",
+        "deeplearning",
+        "machinelearning"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+      "title": "Social media as bad for young people as smoking, top doctors say",
+      "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients.",
+      "date_published": "2026-05-26",
+      "tags": [
+        "BBC News"
+      ],
+      "_source": "BBC News"
+    },
+    {
+      "id": "014",
+      "url": "https://support.apple.com/en-us/127115",
+      "title": "CVE-2026-28952: Apple macOS 26.5 Kernel Vuln found by Claude",
+      "summary": "Article URL: https://support.apple.com/en-us/127115\nComments URL: https://news.ycombinator.com/item?id=48273169\nPoints: 64\n# Comments: 22",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -28,7 +196,84 @@
       "_source": "Hacker News"
     },
     {
-      "id": "003",
+      "id": "015",
+      "url": "https://github.com/yugr/rust-slides/",
+      "title": "Performance of Rust Language [pdf]",
+      "summary": "Article URL: https://github.com/yugr/rust-slides/\nComments URL: https://news.ycombinator.com/item?id=48273147\nPoints: 11\n# Comments: 1",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "016",
+      "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+      "title": "Nobody cracks open a programming book anymore",
+      "summary": "Article URL: https://unix.foo/posts/nobody-cracks-open-a-programming-book/\nComments URL: https://news.ycombinator.com/item?id=48273030\nPoints: 88\n# Comments: 112",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "017",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "title": "Using AI to write better code more slowly",
+      "summary": "Article URL: https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/\nComments URL: https://news.ycombinator.com/item?id=48272984\nPoints: 141\n# Comments: 43",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "018",
+      "url": "https://zonted.com/posts/every-ai-is-intj/",
+      "title": "Every Frontier AI Is INTJ",
+      "summary": "Article URL: https://zonted.com/posts/every-ai-is-intj/\nComments URL: https://news.ycombinator.com/item?id=48272755\nPoints: 15\n# Comments: 5",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "019",
+      "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
+      "title": "How Shamir's Secret Sharing Works",
+      "summary": "Article URL: https://ente.com/blog/how-shamirs-secret-sharing-works/\nComments URL: https://news.ycombinator.com/item?id=48272715\nPoints: 40\n# Comments: 6",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "020",
+      "url": "https://veso.ai/research/agentic-patterns/",
+      "title": "Agentic Patterns",
+      "summary": "Article URL: https://veso.ai/research/agentic-patterns/\nComments URL: https://news.ycombinator.com/item?id=48272694\nPoints: 12\n# Comments: 3",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "021",
+      "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
+      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
+      "summary": "Article URL: https://www.apa.org/news/press/releases/2014/04/creativity-walk\nComments URL: https://news.ycombinator.com/item?id=48272670\nPoints: 54\n# Comments: 31",
+      "date_published": "2026-05-25",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "022",
       "url": "https://github.com/tantara/openbrief",
       "title": "Show HN: OpenBrief – Local-first video downloader/summarizer",
       "summary": "OpenBrief is basically a GUI for yt-dlp with some AI on top — paste a link, it downloads locally, and transcription and voice generation run with local AI on your machine. Summaries and chat over the transcript use an LLM, which is bring-your-own-key for now. It's open source and free.\n\nComments URL",
@@ -39,10 +284,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "004",
+      "id": "023",
       "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
       "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "summary": "Article URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files\nComments URL: https://news.ycombinator.com/item?id=48272354\nPoints: 145\n# Comments: 27",
+      "summary": "Article URL: https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files\nComments URL: https://news.ycombinator.com/item?id=48272354\nPoints: 186\n# Comments: 38",
       "date_published": "2026-05-25",
       "tags": [
         "Hacker News"
@@ -50,73 +295,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
-      "url": "https://github.com/ghetea-patrick/riscrithm",
-      "title": "Riscrithm – An intuitive RISC-V assembler and optimizer coded in Go",
-      "summary": "Article URL: https://github.com/ghetea-patrick/riscrithm\nComments URL: https://news.ycombinator.com/item?id=48271632\nPoints: 14\n# Comments: 1",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "006",
-      "url": "https://techxplore.com/news/2026-05-online-age-pointless-privacy.html",
-      "title": "Yoti age checks share facial photos and device fingerprints with third parties",
-      "summary": "Article URL: https://techxplore.com/news/2026-05-online-age-pointless-privacy.html\nComments URL: https://news.ycombinator.com/item?id=48271327\nPoints: 82\n# Comments: 19",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "007",
-      "url": "https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm",
-      "title": "Ninth Circuit Panel Goes Out of Its Way to Question Section 230–DOE vs. Meta",
-      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/05/ninth-circuit-panel-goes-out-of-its-way-to-question-section-230-doe-v-meta.htm\nComments URL: https://news.ycombinator.com/item?id=48271270\nPoints: 28\n# Comments: 21",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
-      "url": "https://thefrontpage.dev/",
-      "title": "Hacker News front page as a site",
-      "summary": "Article URL: https://thefrontpage.dev/\nComments URL: https://news.ycombinator.com/item?id=48271127\nPoints: 68\n# Comments: 35",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
-      "title": "Japan's New Hypersonic Engine Could Make 2-Hour Flights to the US a Reality",
-      "summary": "Article URL: https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/\nComments URL: https://news.ycombinator.com/item?id=48270812\nPoints: 85\n# Comments: 76",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
-      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-      "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "summary": "Article URL: https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910\nComments URL: https://news.ycombinator.com/item?id=48270770\nPoints: 125\n# Comments: 66",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "011",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
       "title": "What ClickUp’s mass layoff tells us about the future of work",
       "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
@@ -130,7 +309,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
       "title": "The pope’s AI encyclical isn’t really about AI",
       "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
@@ -145,7 +324,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
       "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
       "summary": "Earlier this year, Lucra Sports founder and CEO Dylan Robbins did something that no one else has ever done. And he shared several secrets on how he did it.",
@@ -160,7 +339,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
       "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
       "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
@@ -181,7 +360,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
       "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
       "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
@@ -203,7 +382,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "029",
       "url": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
       "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
       "summary": "In an age of AI, Pope looks for \"artisans of hope.\"",
@@ -218,7 +397,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "017",
+      "id": "030",
       "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
       "title": "US's big bet on quantum computing may not be entirely legal",
       "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
@@ -234,216 +413,6 @@
         "starups"
       ],
       "_source": "Ars Technica"
-    },
-    {
-      "id": "018",
-      "url": "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-      "title": "I spent years forcing myself to finish The Witcher 3—don't repeat my mistake",
-      "summary": "Consensus and genre labels aren't reliable predictors of what you'll enjoy.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Gaming",
-        "C:\\ArsGames",
-        "CD Projekt RED",
-        "gog",
-        "open world",
-        "RPGs",
-        "the witcher 3"
-      ],
-      "_source": "Ars Technica"
-    },
-    {
-      "id": "019",
-      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
-      "title": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
-      "summary": "Nearly four years after the last version of Sennheiser's Momentum headphones debuted with a redesign that traded a retro aesthetic for a more contemporary and comfortable design, the company has announced its Momentum 5 Wireless headphones. They look very similar to their predecessors, the Momentum ",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Audio",
-        "Gadgets",
-        "Headphones",
-        "News",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "020",
-      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
-      "title": "Ferrari reveals its first EV, with design help from Jony Ive",
-      "summary": "After months of teasers, Ferrari is offering the first full view of its Luce electric vehicle. The Luce is notable not just for being Ferrari's first EV, but for being designed in collaboration with Jony Ive and Mark Newson at their collective LoveFrom. It's also going to be Ferrari's second four-do",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Electric Cars",
-        "News",
-        "Tech",
-        "Transportation"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "021",
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
-      "title": "Cox Media fined after bragging it spied on users through their phones",
-      "summary": "An exceptionally weird controversy has come back to haunt Cox Media and a pair of marketing firms, which claimed they were secretly listening to users via phones and smart devices - despite little evidence they actually could. On Thursday the Federal Trade Commission announced that Cox, MindSift, an",
-      "date_published": "2026-05-25",
-      "tags": [
-        "News",
-        "Policy",
-        "Privacy",
-        "Tech"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "022",
-      "url": "https://www.theverge.com/gadgets/936196/best-memorial-day-sales-tech-deals-2026",
-      "title": "The best Memorial Day sales you can shop this weekend",
-      "summary": "Memorial Day is here, meaning the seasonal sales are in full swing. If your plans over the long weekend involve pool parties or barbecues, now is a great time to pick up a portable speaker or set of solar lights, as many of our favorite models are currently on sale. You can also find deals […]",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Verge Shopping"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "023",
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
-      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
-      "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the human person in the time of artificial intelligence,\" in which he discusses the dangers of AI-powered wa",
-      "date_published": "2026-05-25",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "Law",
-        "News",
-        "Policy",
-        "Politics"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "024",
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
-      "title": "Here are our favorite last-minute deals from REI’s giant Anniversary Sale",
-      "summary": "REI’s annual Anniversary Sale — the retailer’s biggest of the year — is still going strong, letting you save on all kinds of outdoor essentials. If you’ve got a camping trip coming up, now is a good time to stock up on the basics, whether it be a tent, sleeping pad, or stove. If your […]",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Deals",
-        "Gadgets",
-        "Tech",
-        "Verge Shopping"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "025",
-      "url": "https://www.wired.com/story/ferrari-luce-ev-is-finally-here/",
-      "title": "The Electric Ferrari Luce Is Finally Here",
-      "summary": "The covers have come off the Ferrari Luce, the most anticipated EV ever. It completely breaks the Italian car maker's aesthetic archetype.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Gear",
-        "Gear / Gear News and Events",
-        "ferrari",
-        "Electric Vehicles",
-        "Sports cars",
-        "design",
-        "EVs and Hybrids",
-        "Che Fico"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "026",
-      "url": "https://www.wired.com/story/a-swimmer-broke-a-world-record-at-the-enhanced-games/",
-      "title": "A Swimmer Broke a World Record at the Enhanced Games",
-      "summary": "Dozens of juiced athletes competed at the Enhanced Games in Las Vegas. Most won’t admit what drugs they used.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Culture",
-        "Culture / Digital Culture",
-        "olympics",
-        "Sports",
-        "health",
-        "medicine",
-        "politics",
-        "Robert F. Kennedy Jr.",
-        "Peter Thiel",
-        "Supercharged"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/memorial-day-tech-deals-2026-2/",
-      "title": "Memorial Day Tech Deals: Sony, Apple, Anker, and More",
-      "summary": "Lots of our most-recommended headphones, power banks, and other gadgets are on sale for Memorial Day.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "Shopping",
-        "Deals",
-        "Memorial Day"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/story/memorial-day-mattress-deals-2026-2/",
-      "title": "Best Memorial Day Mattress Deals: Helix, Saatva (2026)",
-      "summary": "It’s one of the best times of the year to buy a mattress, and deals on our favorite models end tonight.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "Gear / Products / Sleep",
-        "Gear / Products / Lifestyle",
-        "Shopping",
-        "Deals",
-        "Sleep",
-        "mattresses",
-        "home",
-        "Bedroom",
-        "Memorial Day"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/best-memorial-day-deals-2026-2/",
-      "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
-      "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "Shopping",
-        "Deals",
-        "Memorial Day"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "030",
-      "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/",
-      "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
-      "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
-      "date_published": "2026-05-25",
-      "tags": [
-        "Culture",
-        "Culture / Digital Culture",
-        "Social Media",
-        "Sex and Relationships",
-        "dating apps",
-        "Startups",
-        "privacy",
-        "Swipe Right"
-      ],
-      "_source": "Wired"
     }
   ]
 }
