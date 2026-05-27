@@ -1,72 +1,6 @@
 [
   {
     "id": "001",
-    "title": "Gear Commit: Dev gadget box personalized from GitHub activity",
-    "summary": "Article URL: https://gearcommit.nanocorp.app/\nComments URL: https://news.ycombinator.com/item?id=48288761\nPoints: 5\n# Comments: 0",
-    "url": "https://gearcommit.nanocorp.app/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "002",
-    "title": "Where does next-token prediction leave us?",
-    "summary": "Article URL: https://pop.rdi.sh/where-does-next-token-prediction-leave-us/\nComments URL: https://news.ycombinator.com/item?id=48288191\nPoints: 40\n# Comments: 15",
-    "url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "Tunecat: Simple Internet Radio",
-    "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 18\n# Comments: 0",
-    "url": "https://codeberg.org/lindenii/tunecat/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
-    "title": "Stripe is friendly to “friendly fraud”",
-    "summary": "Article URL: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/\nComments URL: https://news.ycombinator.com/item?id=48287982\nPoints: 163\n# Comments: 90",
-    "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "005",
-    "title": "Erin Brockovich made a map to track data centers around the country",
-    "summary": "Article URL: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/\nComments URL: https://news.ycombinator.com/item?id=48287952\nPoints: 154\n# Comments: 145",
-    "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
-    "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
-    "summary": "Article URL: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/\nComments URL: https://news.ycombinator.com/item?id=48287678\nPoints: 66\n# Comments: 12",
-    "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
-    "date": "2026-05-27",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "007",
     "title": "Did the Pope use AI to write about the dangers of AI?",
     "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
     "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
@@ -78,171 +12,361 @@
     ]
   },
   {
-    "id": "008",
-    "title": "I Built a Self-Healing Extension Stabilizer for Ungoogled Chromium (and You Can Use It Too)",
-    "summary": "I've been using Ungoogled Chromium as my daily driver for a while now. The speed is incredible — no telemetry overhead, no background services phoning home, just a lean, fast browser that gets out of your way.\n\nBut there's a catch. Actually, several.\n\n\n  \n  \n  The Problem: Extension Management Hell\n",
-    "url": "https://dev.to/kingyou/i-built-a-self-healing-extension-stabilizer-for-ungoogled-chromium-and-you-can-use-it-too-161a",
+    "id": "002",
+    "title": "Paramount+ Coupon Codes and Deals for June 2026",
+    "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
+    "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "programming",
-      "webdev"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Home Depot Promo Codes: 50% Off in June 2026",
+    "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
+    "url": "https://www.wired.com/story/home-depot-promo-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Booking.com Promo Codes: 20% Off | June 2026",
+    "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+    "url": "https://www.wired.com/story/booking-com-promo-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "50% Off DoorDash Promo Code | June 2026",
+    "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
+    "url": "https://www.wired.com/story/doordash-promo-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Rover Promo Codes and Referral Deals for June 2026",
+    "summary": "Score your Rover promo code for 2026.",
+    "url": "https://www.wired.com/story/rover-promo-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "Dell Coupon Codes: 20% Off for June 2026",
+    "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+    "url": "https://www.wired.com/story/dell-coupon-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
+    "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
+    "url": "https://www.wired.com/story/lovehoney-discount-code/",
+    "date": "2026-05-27",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "009",
-    "title": "I scanned Dub's codebase. It's not a link shortener.",
-    "summary": "I'm scanning one popular open source repo a day and digging into what's underneath. A CLI scanner reads the codebase in seconds, then I use the output to investigate what's actually going on architecturally.\n\nFirst up: Dub — YC-backed link management. 20K+ stars.\n\n\n  \n  \n  The scan\n\n\n\n\n\n$ npx anatom",
-    "url": "https://dev.to/ryan_patrick_smith/i-scanned-dubs-codebase-its-not-a-link-shortener-4mla",
+    "title": "LG Promo Codes and Coupons for June 2026",
+    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "url": "https://www.wired.com/story/lg-promo-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "webdev",
-      "opensource",
-      "typescript"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "010",
-    "title": "AI Coding Subscriptions: Where to Go After GitHub Copilot Changes",
-    "summary": "// Detect dark theme\n  var iframe = document.getElementById('tweet-2051218167780041147-163');\n  if (document.body.className.includes('dark-theme')) {\n    iframe.src = \"https://platform.twitter.com/embed/Tweet.html?id=2051218167780041147&theme=dark\"\n  }\n\n\n\n\n\nThis is how much it costs Github to run it",
-    "url": "https://dev.to/songyang-dev/ai-coding-subscriptions-where-to-go-after-github-copilot-changes-3g11",
+    "title": "Priceline Promo Codes & Coupons: 10% Off June",
+    "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+    "url": "https://www.wired.com/story/priceline-promo-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "productivity"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "011",
-    "title": "EClaw vs Slack and Mattermost for Multi-Agent Workflows",
-    "summary": "When teams started attaching ChatGPT to Slack two years ago, it felt like the obvious move: meet the AI where the humans already are. Then we tried to run five agents in the same workspace and the cracks showed up fast.\n\nThis post is a comparison of how three chat-shaped tools — Slack, Mattermost, a",
-    "url": "https://dev.to/eclaw/eclaw-vs-slack-and-mattermost-for-multi-agent-workflows-2o48",
+    "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
+    "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
+    "url": "https://www.wired.com/story/litter-robot-promo-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "ai",
-      "agents",
-      "productivity",
-      "opensource"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "012",
-    "title": "🐍 Custom Django middleware request response — what devs get wrong",
-    "summary": "An attacker injects a malicious payload through a seemingly benign API endpoint, bypassing validation by chaining multiple middleware checks. The next 12 minutes determine whether you isolate the threat or face a full database exfiltration. The initial triage reveals inconsistent request headers and",
-    "url": "https://dev.to/ptp2308/custom-django-middleware-request-response-what-devs-get-wrong-26dj",
+    "title": "Verizon Promo Codes: $200 Verizon Gift Cards | June 2026",
+    "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+    "url": "https://www.wired.com/story/verizon-promo-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "python",
-      "tutorial",
-      "beginners"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "013",
-    "title": "I Built a Free Interactive GitHub Learning Platform — Web Guide + Terminal Guide + Git Reference + CLI Sandbox",
-    "summary": "TL;DR\nI built and deployed a free browser-based GitHub learning app with three modes — Web Guide, Terminal Guide, and Git Reference — plus an interactive CLI Sandbox that simulates real Git file state transitions.\n🔗 Live: github-onboarding-tutorial.vercel.app\n\nWhy I Built This\nGit has a reputation f",
-    "url": "https://dev.to/ayanpal98/i-built-a-free-interactive-github-learning-platform-web-guide-terminal-guide-git-reference--1oml",
+    "title": "Hostinger Promo Code: 79% Off for June 2026",
+    "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
+    "url": "https://www.wired.com/story/hostinger-coupon-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "github",
-      "git",
-      "webdev",
-      "beginners"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "014",
-    "title": "9 Dart Syntactic Sugar Features That Make My Codebase Happier",
-    "summary": "Useful Dart language features I’ve been using Dart for more than 2 years now and after jumping in and out of Kotlin and some other languages, I realized something, Dart has a ton of syntactic sugar that I use daily without even realizing it — and these features quietly make my life somuch easier .\n\n",
-    "url": "https://dev.to/hiteshpatel/9-dart-syntactic-sugar-features-that-make-my-codebase-happier-go7",
+    "title": "Uplift Promo Codes: $570 Off",
+    "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.",
+    "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
     "date": "2026-05-27",
-    "source": "Dev.to",
+    "source": "Wired",
     "tags": [
-      "flutter",
-      "productivity",
-      "programming",
-      "tutorial"
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ]
   },
   {
     "id": "015",
-    "title": "Stripe and Friendly Fraud: What the HN Crowd Got Right — and What Progenix Does About It",
-    "summary": "If you were on Hacker News yesterday, you saw it. A detailed post-mortem from a merchant who lost thousands of dollars to friendly fraud — customers disputing legitimate charges after receiving the product — and Stripe, according to the author, doing effectively nothing.\n\nThe article, by the team be",
-    "url": "https://dev.to/cristian_iridon_286794874/stripe-and-friendly-fraud-what-the-hn-crowd-got-right-and-what-progenix-does-about-it-5f5d",
+    "title": "Stage 0.2 — Operating System Fundamentals",
+    "summary": "From Zero to Cybersecurity Professional | Complete Roadmap Series\n\n\n\nSeries: Cybersecurity × OT/ICS Security — Full Roadmap\nStage: 0 — Computer Science Foundations\nModule: 0.2 — Operating System Fundamentals\nLevel: Beginner → Intermediate\nPrerequisites: Stage 0.1 — Hardware Fundamentals\nNext Module:",
+    "url": "https://dev.to/rencberakman/stage-02-operating-system-fundamentals-51l1",
     "date": "2026-05-27",
     "source": "Dev.to",
     "tags": [
-      "stripe",
-      "billing",
-      "fraud",
-      "saas"
+      "programming",
+      "tutorial",
+      "devops",
+      "cybersecurity"
     ]
   },
   {
     "id": "016",
-    "title": "The Day We Realized Events Were the Bottleneck (And Why We Moved to Rust)",
-    "summary": "The Problem We Were Actually Solving\n\nWe ran Veltrix, a distributed event processing engine that powered real-time treasure hunts across retail stores. The business needed sub-50ms latency for event ingestion and 99.99% uptime during Black Friday sales. Our first system was a Kafka Streams topology ",
-    "url": "https://dev.to/built-from-africa/the-day-we-realized-events-were-the-bottleneck-and-why-we-moved-to-rust-3ng1",
+    "title": "I Didn’t Need Another Markdown App. So I Built This Instead.",
+    "summary": "Most of the time, I wasn't trying to build anything. I just needed a better way to read markdown.\n\nWhile working on new projects, I usually document commands, configs, notes, and setup steps as I go. Those quick README-style files often end up becoming the actual reference for deployments, onboardin",
+    "url": "https://dev.to/iaminci/i-didnt-need-another-markdown-app-so-i-built-this-instead-37ko",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "markdown",
+      "devops",
+      "productivity",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "ClickUp Alternatives for Solo Freelancers Who Want Less Complexity",
+    "summary": "ClickUp is a remarkable product. It has an almost overwhelming number of views, features, and customization options, enough to replace Jira, Notion, Asana, and a spreadsheet in a single workspace. For teams with dedicated project managers and time to configure workflows, that power is an asset. For ",
+    "url": "https://dev.to/maxunbearable/clickup-alternatives-for-solo-freelancers-who-want-less-complexity-3c7p",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "productivity",
+      "freelancing",
+      "tools",
+      "saas"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "The Gods That Ate the Engineers",
+    "summary": "How software development mistook its tools for its craft — and what it is paying for that mistake\n\n\nThere is a conversation that happens in software teams every day. Someone proposes a simpler approach. Someone else says \"but we need this to scale.\" The first person asks what scale is actually requi",
+    "url": "https://dev.to/leonpennings/the-gods-that-ate-the-engineers-210h",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "java",
+      "architecture",
+      "softwaredevelopment",
+      "programming"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "\"My AI Agent Kept Missing Buttons, So I Used Windows UI Automation\"",
+    "summary": "The first time you let an AI agent control a desktop, it feels impressive.\n\nThen it misses a button by 40 pixels.\n\nOr it clicks the window behind the window. Or it types into the wrong field because a notification stole focus. Or it spends ten seconds looking at a screenshot just to decide where a t",
+    "url": "https://dev.to/codekingai/my-ai-agent-kept-missing-buttons-so-i-used-windows-ui-automation-35mk",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "tutorial",
+      "webdev",
+      "node",
+      "ai"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Manejo de errores en Go - Primeros pasos",
+    "summary": "¿Sabías que Go no utiliza bloques try-catch para gestionar fallos en tiempo de ejecución? En lugar de tratar los errores como eventos extraordinarios que rompen el flujo del programa, Go los trata como valores ordinarios de retorno. Esta guía básica te enseñará a dominar las bases del manejo explíci",
+    "url": "https://dev.to/jcmexdev/por-que-go-no-tiene-excepciones-primeros-pasos-58nd",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "Dev.to"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "The Treasure Hunt Engine Blew Up My Inbox at 3 AM",
+    "summary": "The Problem We Were Actually Solving\n\n\nThe Treasure Hunt Engine wasnt supposed to be a cache. It was built as a read-through service over a PostgreSQL table called hunt_tiles, partitioned by hunt_id and indexed on (hunt_id, x, y). During closed beta, the table had 1.2 million rows and p99 latency of",
+    "url": "https://dev.to/dev-architecture-blog/the-treasure-hunt-engine-blew-up-my-inbox-at-3-am-99f",
     "date": "2026-05-27",
     "source": "Dev.to",
     "tags": [
       "webdev",
       "programming",
-      "rust",
-      "performance"
+      "architecture",
+      "systems"
     ]
   },
   {
-    "id": "017",
-    "title": "BGP Knowledge for Indie Hackers: Is It Really Necessary?",
-    "summary": "The world of indie hackers typically demands deep knowledge in areas like software development, product management, and marketing. When you're trying to bring a product to life from start to finish on your own, you understand the importance of every detail. However, sometimes, curiosity about specia",
-    "url": "https://dev.to/merbayerp/bgp-knowledge-for-indie-hackers-is-it-really-necessary-1n22",
+    "id": "022",
+    "title": "Curing Telegram Information Overload: How I Automate Deal Hunting with AI and MTProto",
+    "summary": "Telegram deal channels sound useful until hundreds of messages start flooding in every hour. I recently tried tracking multiple e-commerce channels manually and quickly realized I was missing the best deals simply because the message volume was too high.\n\nStandard Telegram bots weren’t reliable enou",
+    "url": "https://dev.to/dhruvikdonga/curing-telegram-information-overload-how-i-automate-deal-hunting-with-ai-and-mtproto-3o21",
     "date": "2026-05-27",
     "source": "Dev.to",
     "tags": [
-      "life",
-      "indiehacker",
-      "bgp",
-      "networking"
+      "llm",
+      "productivity",
+      "automation"
     ]
   },
   {
-    "id": "018",
-    "title": "LangGraph vs CrewAI vs AutoGen in 2026: Pick the Right AI Agent Framework (Or Skip Frameworks Entirely)",
-    "summary": "LangGraph vs CrewAI vs AutoGen in 2026: Pick the Right AI Agent Framework (Or Skip Frameworks Entirely)\n\n\nThree AI agent frameworks dominate production discussions in 2026. Three different philosophies. Three different sets of trade-offs. And one question every engineering lead should ask before com",
-    "url": "https://dev.to/cristian_iridon_286794874/langgraph-vs-crewai-vs-autogen-in-2026-pick-the-right-ai-agent-framework-or-skip-frameworks-4m2c",
+    "id": "023",
+    "title": "Read-Modify-Write isolation in NoSQL, part 2: When the invariant spans multiple aggregates.",
+    "summary": "In part 1 we saw the single-document case, where optimistic locking saves you with a simple version field. Now we cross the line that breaks that comfort.\n\nLet me make it concrete. Your product sells seats, and an organization buys a license capped at 100 seats. Those seats are spread across many Te",
+    "url": "https://dev.to/hugo_vantighem/read-modify-write-isolation-in-nosql-part-2-when-the-invariant-spans-multiple-aggregates-29cn",
     "date": "2026-05-27",
     "source": "Dev.to",
     "tags": [
-      "ai",
-      "agents",
-      "langgraph",
-      "crewai"
+      "architecture",
+      "distributedsystems",
+      "nosql",
+      "ddd"
     ]
   },
   {
-    "id": "019",
-    "title": "How to Brier-grade your own ML option-pricing forecasts in 40 lines of Python",
-    "summary": "If you ship a probabilistic forecast, the single highest-value habit you can build is logging your forecasts so you can grade them later. Sabermetrics figured this out forty years ago. Weather forecasting has done it for a century. Most ML model owners still do not do it.\n\nThis post walks through a ",
-    "url": "https://dev.to/connerlambden/how-to-brier-grade-your-own-ml-option-pricing-forecasts-in-40-lines-of-python-2gb2",
+    "id": "024",
+    "title": "The Code Runs. The System Runs Too.",
+    "summary": "Elite Admissions System — A Satirical Python Simulation\n\n\nThe code runs. The system, unfortunately, also runs.\n\n\n\n\"\"\"\nElite Admissions System — A Satirical Simulation\n\nThis code is runnable.\nIt is also morally broken by design.\n\nIt shows how an elite admissions system may claim to search for\nbrillia",
+    "url": "https://dev.to/euriehsu/the-code-runs-the-system-runs-too-241n",
     "date": "2026-05-27",
     "source": "Dev.to",
     "tags": [
+      "programming",
       "python",
-      "mcp",
-      "finance",
-      "machinelearning"
+      "discuss"
     ]
   },
   {
-    "id": "020",
+    "id": "025",
+    "title": "How I secured my FastAPI app - 6 vulnerabilities fixed in one session with gstack /cso",
+    "summary": "I've been building ratecalc.fyi — a free sponsorship rate calculator for UGC creators — for 16 days. On day 13, I ran a security audit using gstack's /cso skill on Claude Code.\nIt found 6 issues. I fixed all of them in one session.\nHere's exactly what was wrong and how I fixed it.\nWhat is gstack /cs",
+    "url": "https://dev.to/ratecalc/how-i-secured-my-fastapi-app-6-vulnerabilities-fixed-in-one-session-with-gstack-cso-2i4",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "security",
+      "fastapi",
+      "python",
+      "buildinpublic"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "The Day the Treasure Hunt Engine Stopped Beeping",
+    "summary": "The Problem We Were Actually Solving\n\n\nWe werent running a treasure hunt. We were running a search service that let operators navigate through gigabytes of session logs, metrics scrapes, and incident timelines in near-real time. The treasure hunt metaphor came from marketing—users were hunting for t",
+    "url": "https://dev.to/nomad-revenue/the-day-the-treasure-hunt-engine-stopped-beeping-11i3",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "webdev",
+      "programming",
+      "devops",
+      "kubernetes"
+    ]
+  },
+  {
+    "id": "027",
     "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
     "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
     "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
@@ -253,51 +377,7 @@
     ]
   },
   {
-    "id": "021",
-    "title": "Cloudflare Flagship",
-    "summary": "Article URL: https://developers.cloudflare.com/flagship/\nComments URL: https://news.ycombinator.com/item?id=48287468\nPoints: 111\n# Comments: 49",
-    "url": "https://developers.cloudflare.com/flagship/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "From Rust to Ruby",
-    "summary": "Article URL: https://xlii.space/eng/from-rust-to-ruby/\nComments URL: https://news.ycombinator.com/item?id=48286561\nPoints: 43\n# Comments: 19",
-    "url": "https://xlii.space/eng/from-rust-to-ruby/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "summary": "Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943\nComments URL: https://news.ycombinator.com/item?id=48285592\nPoints: 357\n# Comments: 202",
-    "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Chemistry behind the Garden Grove chemical tank",
-    "summary": "Article URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank\nComments URL: https://news.ycombinator.com/item?id=48284712\nPoints: 271\n# Comments: 106",
-    "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "025",
+    "id": "028",
     "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
     "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
     "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
@@ -310,7 +390,7 @@
     ]
   },
   {
-    "id": "026",
+    "id": "029",
     "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
     "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
     "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
@@ -324,7 +404,7 @@
     ]
   },
   {
-    "id": "027",
+    "id": "030",
     "title": "Trump administration permits Volvo to keep selling connected cars in the US",
     "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
     "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
@@ -335,55 +415,6 @@
       "China",
       "connected cars",
       "Volvo Cars"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
-    "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
-    "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Climate",
-      "Government & Policy",
-      "nuclear fission",
-      "nuclear power",
-      "nuclear weapons",
-      "Oklo",
-      "Trump Administration"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
-    "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "AI search",
-      "DuckDuckGo",
-      "Google",
-      "google io 2026",
-      "Google Search"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
-    "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
-    "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Space",
-      "Elon Musk",
-      "SpaceX",
-      "Starlink",
-      "Starship"
     ]
   }
 ]
