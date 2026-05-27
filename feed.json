@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says",
-      "title": "Corporations can vote in some Delaware elections, judge says",
-      "summary": "Article URL: https://news.bloomberglaw.com/esg/corporations-have-the-right-to-vote-in-delaware-town-judge-says\nComments URL: https://news.ycombinator.com/item?id=48295460\nPoints: 55\n# Comments: 40",
+      "url": "https://www.empirical.health/blog/biomarkers-that-change-with-age/",
+      "title": "Objective metrics that change the most as we age",
+      "summary": "Article URL: https://www.empirical.health/blog/biomarkers-that-change-with-age/\nComments URL: https://news.ycombinator.com/item?id=48297551\nPoints: 5\n# Comments: 0",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://brilliantmaps.com/cia-maps-1980s/",
-      "title": "Declassified CIA Cartography Maps from the 1980s",
-      "summary": "Article URL: https://brilliantmaps.com/cia-maps-1980s/\nComments URL: https://news.ycombinator.com/item?id=48294831\nPoints: 30\n# Comments: 12",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs",
+      "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
+      "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs\nComments URL: https://news.ycombinator.com/item?id=48297116\nPoints: 0\n# Comments: 0",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://martinfowler.com/articles/vibesec-reckoning.html",
-      "title": "The VibeSec Reckoning",
-      "summary": "Article URL: https://martinfowler.com/articles/vibesec-reckoning.html\nComments URL: https://news.ycombinator.com/item?id=48294670\nPoints: 30\n# Comments: 7",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "summary": "Article URL: https://simonwillison.net/2026/May/27/product-market-fit/\nComments URL: https://news.ycombinator.com/item?id=48296794\nPoints: 58\n# Comments: 42",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://webflow.com/blog/evolving-webflow-for-the-agentic-web",
-      "title": "Evolving Webflow for the Agentic Web",
-      "summary": "Article URL: https://webflow.com/blog/evolving-webflow-for-the-agentic-web\nComments URL: https://news.ycombinator.com/item?id=48294549\nPoints: 4\n# Comments: 0",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/\nComments URL: https://news.ycombinator.com/item?id=48296649\nPoints: 146\n# Comments: 52",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
-      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
-      "summary": "Article URL: https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID\nComments URL: https://news.ycombinator.com/item?id=48294401\nPoints: 94\n# Comments: 136",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "title": "PostHog will train AI models with your data (opted-in by default)",
+      "summary": "Article URL: https://posthog.com/blog/training-ai-models\nComments URL: https://news.ycombinator.com/item?id=48296359\nPoints: 121\n# Comments: 93",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "summary": "Article URL: https://www.githubstatus.com/incidents/xy1tt3hs572m\nComments URL: https://news.ycombinator.com/item?id=48293080\nPoints: 162\n# Comments: 130",
+      "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+      "title": "Last.fm is now independent",
+      "summary": "Article URL: https://support.last.fm/t/last-fm-is-now-independent/118591\nComments URL: https://news.ycombinator.com/item?id=48295892\nPoints: 278\n# Comments: 86",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-      "title": "XLIDE: VBA without excel",
-      "summary": "Article URL: https://github.com/WilliamSmithEdward/xlide_vscode\nComments URL: https://news.ycombinator.com/item?id=48293014\nPoints: 42\n# Comments: 7",
+      "url": "https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/",
+      "title": "An Update on Composer and Packagist Supply Chain Security",
+      "summary": "Article URL: https://blog.packagist.com/an-update-on-composer-packagist-supply-chain-security/\nComments URL: https://news.ycombinator.com/item?id=48295838\nPoints: 15\n# Comments: 1",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-      "title": "Private Equity Bought America's Essential Services",
-      "summary": "Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/\nComments URL: https://news.ycombinator.com/item?id=48292941\nPoints: 245\n# Comments: 303",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "Article URL: https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/\nComments URL: https://news.ycombinator.com/item?id=48295679\nPoints: 197\n# Comments: 89",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://arxiv.org/abs/2605.27250",
-      "title": "Atomically precise mechanosynthesis of carbon structures on hydrogenated Silicon",
-      "summary": "Article URL: https://arxiv.org/abs/2605.27250\nComments URL: https://news.ycombinator.com/item?id=48292560\nPoints: 7\n# Comments: 0",
+      "url": "https://tinycld.org/",
+      "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+      "summary": "Article URL: https://tinycld.org/\nComments URL: https://news.ycombinator.com/item?id=48295071\nPoints: 17\n# Comments: 9",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -106,9 +106,9 @@
     },
     {
       "id": "010",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/\nComments URL: https://news.ycombinator.com/item?id=48292224\nPoints: 1225\n# Comments: 634",
+      "url": "https://brilliantmaps.com/cia-maps-1980s/",
+      "title": "Declassified CIA Cartography Maps from the 1980s",
+      "summary": "Article URL: https://brilliantmaps.com/cia-maps-1980s/\nComments URL: https://news.ycombinator.com/item?id=48294831\nPoints: 52\n# Comments: 19",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -117,6 +117,78 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Media & Entertainment",
+        "AI",
+        "Apps",
+        "Social",
+        "Facebook",
+        "social media",
+        "Instagram",
+        "subscriptions",
+        "WhatsApp",
+        "Meta",
+        "Creators",
+        "meta ai"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
+      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
+      "summary": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Climate",
+        "Climate Capital",
+        "fusion power",
+        "Gaingels",
+        "linse capital",
+        "nuclear fusion",
+        "Thea Energy",
+        "Timescale"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Security",
+        "cybercrime",
+        "cybersecurity",
+        "hackers",
+        "open source",
+        "supply chain attack",
+        "supply chain security"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Startups",
+        "ai coding",
+        "cognition",
+        "Devin"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
       "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
       "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
@@ -132,36 +204,35 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
       "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
       "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stag",
       "date_published": "2026-05-27",
       "tags": [
-        "TC",
-        "Startups",
-        "Hardware",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment",
         "AI",
         "Apps",
-        "Gadgets",
-        "Robotics",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
         "Fundraising",
+        "Gadgets",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Startups",
+        "Venture",
         "Startup Battlefield",
         "TechCrunch Disrupt 2026"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "title": "ElevenLabs’s new music generation model can switch genres mid-track",
-      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track",
+      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
+      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
       "date_published": "2026-05-27",
       "tags": [
         "AI",
@@ -174,7 +245,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
       "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
       "summary": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
@@ -191,7 +262,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
       "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
       "summary": "SOND, a startup led by Bose’s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds.",
@@ -209,34 +280,33 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
       "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
       "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in y",
       "date_published": "2026-05-27",
       "tags": [
-        "TC",
-        "Startups",
-        "Transportation",
-        "Security",
-        "Hardware",
-        "Crypto",
-        "Climate",
-        "Fintech",
-        "Biotech & Health",
-        "Venture",
-        "Media & Entertainment",
         "AI",
         "Apps",
-        "Government & Policy",
-        "Robotics",
+        "Biotech & Health",
+        "Climate",
+        "Crypto",
+        "Fintech",
         "Fundraising",
+        "Government & Policy",
+        "Hardware",
+        "Media & Entertainment",
+        "Robotics",
+        "Security",
+        "Startups",
+        "Transportation",
+        "Venture",
         "TechCrunch Disrupt 2026"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
       "title": "China is increasingly keeping its best AI talent to itself",
       "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
@@ -250,7 +320,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
@@ -267,7 +337,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
       "title": "YouTube will now automatically label AI videos",
       "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
@@ -284,24 +354,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "ai psychosis",
-        "Box",
-        "Layoffs",
-        "tech layoffs"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
       "title": "Robinhood now lets your AI agents trade stocks",
       "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
@@ -317,7 +370,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "022",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
       "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
       "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with ",
@@ -333,7 +386,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "023",
+      "id": "026",
       "url": "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
       "title": "Nvidia kills Windows XP-era Control Panel \"after 20 years of dedicated service\"",
       "summary": "Nvidia says the Control Panel's features have been migrated to the Nvidia app.",
@@ -348,7 +401,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "024",
+      "id": "027",
       "url": "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
       "title": "Volvo gets US government approval to bypass Chinese connected-car ban",
       "summary": "The ban for model year 2027 onward began under Biden and has been enacted by Trump.",
@@ -362,7 +415,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "025",
+      "id": "028",
       "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
       "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
       "summary": "Pretty little phones with pretty big price tags.",
@@ -378,7 +431,7 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "026",
+      "id": "029",
       "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
       "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
       "summary": "The feds are raising the alarm about a new category of threat.",
@@ -394,65 +447,15 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "027",
-      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
-      "title": "Sony’s first RGB TV is a statement piece",
-      "summary": "The first wave of RGB LED TVs are fighting for their spot in the TV hierarchy. They need to outperform OLED TVs in brightness and color (because they'll never match OLED's contrast), and they need to outperform regular LED TVs in everything (because their price is so much higher). It's now time for ",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gadgets",
-        "Reviews",
-        "Sony",
-        "Tech",
-        "TVs"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "028",
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "title": "AI tried to bury this politician — now people have actually heard of him",
-      "summary": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who gets to regulate it, or who will be punished for trying to regulate it. But the real winner of their",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Anthropic",
-        "OpenAI",
-        "Policy",
-        "Politics"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "029",
-      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
-      "title": "Here’s how Google is responding to Fitbit users who don’t like the new Health app",
-      "summary": "After a flood of complaints about the Google Health app that just replaced Fitbit, Google has responded with a list of changes that will roll out starting this week. Google is addressing some of the biggest complaints users had, like the Today dashboard that can only show users' chosen health metric",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Fitness",
-        "Gadgets",
-        "Google",
-        "Health",
-        "News",
-        "Science",
-        "Tech",
-        "Wearable"
-      ],
-      "_source": "The Verge"
-    },
-    {
       "id": "030",
-      "url": "https://www.theverge.com/gadgets/938029/sony-dualsense-wireless-edge-controller-ps5-pc-deal-sale",
-      "title": "Sony’s DualSense controllers are almost 30 percent off",
-      "summary": "Sony has a tradition of marking down its PlayStation 5 hardware a couple of times a year, and one of those opportunities to save is here through June 10th. Its latest Days of Play sale is happening at multiple retailers, including Amazon, Best Buy, GameStop, Walmart, and at Sony’s site as well. It l",
+      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
+      "title": "Valve raises Steam Deck prices by more than $200",
+      "summary": "Valve has significantly increased the price of the Steam Deck - but now, it's also in stock. The 512GB Steam Deck OLED now costs $789, up from $549, while the 1TB model costs $949, up from $649. As I write this, both models are available to buy on Steam with an estimated delivery date of […]",
       "date_published": "2026-05-27",
       "tags": [
-        "Deals",
-        "Gadgets",
         "Gaming",
-        "PlayStation",
-        "Verge Shopping"
+        "News",
+        "PC Gaming"
       ],
       "_source": "The Verge"
     }
