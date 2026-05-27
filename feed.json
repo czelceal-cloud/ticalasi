@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
-      "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
-      "summary": "Article URL: https://www.phoronix.com/review/nvidia-vera-benchmarks\nComments URL: https://news.ycombinator.com/item?id=48291230\nPoints: 17\n# Comments: 6",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "title": "I'm Tired of Talking to AI",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/\nComments URL: https://news.ycombinator.com/item?id=48292224\nPoints: 194\n# Comments: 142",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-      "title": "Unicode 18.0.0 Beta",
-      "summary": "Article URL: https://www.unicode.org/versions/Unicode18.0.0/\nComments URL: https://news.ycombinator.com/item?id=48290881\nPoints: 16\n# Comments: 12",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "title": "Mini Micro Fantasy Computer",
+      "summary": "Article URL: https://miniscript.org/MiniMicro/index.html#about\nComments URL: https://news.ycombinator.com/item?id=48291947\nPoints: 60\n# Comments: 21",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "summary": "Article URL: https://arps18.github.io/posts/claude-code-mastery/\nComments URL: https://news.ycombinator.com/item?id=48289950\nPoints: 51\n# Comments: 21",
+      "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
+      "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
+      "summary": "Article URL: https://www.phoronix.com/review/nvidia-vera-benchmarks\nComments URL: https://news.ycombinator.com/item?id=48291230\nPoints: 37\n# Comments: 15",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -40,6 +40,39 @@
     },
     {
       "id": "004",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "title": "All of human cooking compressed into 2 megabytes",
+      "summary": "Article URL: https://arxiv.org/abs/2605.22391\nComments URL: https://news.ycombinator.com/item?id=48291225\nPoints: 5\n# Comments: 0",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "005",
+      "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+      "title": "Unicode 18.0.0 Beta",
+      "summary": "Article URL: https://www.unicode.org/versions/Unicode18.0.0/\nComments URL: https://news.ycombinator.com/item?id=48290881\nPoints: 32\n# Comments: 38",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "006",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "summary": "Article URL: https://arps18.github.io/posts/claude-code-mastery/\nComments URL: https://news.ycombinator.com/item?id=48289950\nPoints: 94\n# Comments: 74",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
       "url": "https://github.com/craigmccaskill/posthorn",
       "title": "Show HN: Posthorn, self-hosted mail without the mail server",
       "summary": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many ",
@@ -50,10 +83,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
+      "id": "008",
       "url": "https://tsduck.io/",
       "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "summary": "Article URL: https://tsduck.io/\nComments URL: https://news.ycombinator.com/item?id=48288709\nPoints: 31\n# Comments: 1",
+      "summary": "Article URL: https://tsduck.io/\nComments URL: https://news.ycombinator.com/item?id=48288709\nPoints: 39\n# Comments: 3",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -61,10 +94,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "006",
+      "id": "009",
       "url": "https://codeberg.org/lindenii/tunecat/",
       "title": "Tunecat: Simple Internet Radio",
-      "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 51\n# Comments: 3",
+      "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 54\n# Comments: 4",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -72,7 +105,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "007",
+      "id": "010",
       "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
       "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
       "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with ",
@@ -88,7 +121,38 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "008",
+      "id": "011",
+      "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
+      "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+      "summary": "The feds are raising the alarm about a new category of threat.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "AI harms",
+        "anti-tech",
+        "extremism",
+        "online extremism",
+        "syndication"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "012",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing u",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Business",
+        "Creators",
+        "Labor",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "013",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
       "title": "Did the Pope use AI to write about the dangers of AI?",
       "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
@@ -100,7 +164,85 @@
       "_source": "The Verge"
     },
     {
-      "id": "009",
+      "id": "014",
+      "url": "https://www.wired.com/story/osprey-farpoint-40-rave/",
+      "title": "The Osprey Farpoint 40 Has Been My Go-To Travel Bag for 8 Years",
+      "summary": "I’m a chronic overpacker, but this backpack is my perfect match, with its huge capacity, numerous pockets, and impressive durability.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Outdoor",
+        "Shopping",
+        "Bags",
+        "rants and raves",
+        "Bag Check",
+        "Travel",
+        "outdoors",
+        "backpack",
+        "camping",
+        "camping gear",
+        "U + Me 4 Evr"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "015",
+      "url": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
+      "title": "Waymo Takes Its Self-Driving Cars to Virginia",
+      "summary": "The company is mapping Alexandria and, soon, Arlington—right across from the power center of Washington, DC.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Gear",
+        "Gear / Gear News and Events",
+        "Self-Driving Cars",
+        "Google",
+        "Autonomous Vehicles",
+        "Regulation",
+        "Infrastructure",
+        "Waymo",
+        "Policy",
+        "New Bearings"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "016",
+      "url": "https://www.wired.com/review/review-corsair-galleon-100-sd/",
+      "title": "Corsair Galleon 100 SD Review: Stream Deck Now Included",
+      "summary": "Corsair unites Stream Deck functionality with Drop keyboard design expertise on its latest Galleon SD 100.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Gear",
+        "Gear / Reviews",
+        "Gear / Products / Computers",
+        "Gear / Products / Gaming",
+        "Gaming",
+        "keyboards",
+        "Accessories and Computer Parts",
+        "Shopping",
+        "Product Review"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "017",
+      "url": "https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/",
+      "title": "Department of Labor Tells Employees to Report Anyone Prioritizing DEI",
+      "summary": "The email instructs workers to report behavior that predates Donald Trump’s second inauguration. One employee tells WIRED it felt like a “reminder to narc on your coworkers.”",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Politics",
+        "politics",
+        "government",
+        "diversity",
+        "republicans",
+        "Death of DEI"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "018",
       "url": "https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/",
       "title": "A New Species of Tiny Octopus Was Discovered in the Galápagos Islands",
       "summary": "An octopus about the size of a golf ball was first spotted in 2015 near Darwin Island. A new study gives it both a formal description and a name.",
@@ -117,7 +259,7 @@
       "_source": "Wired"
     },
     {
-      "id": "010",
+      "id": "019",
       "url": "https://www.wired.com/story/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole/",
       "title": "NASA Details Its Plan to Build a Lunar Base at the Moon’s South Pole",
       "summary": "The project’s first mission could arrive as soon as this year, with a little help from Blue Origin.",
@@ -135,7 +277,7 @@
       "_source": "Wired"
     },
     {
-      "id": "011",
+      "id": "020",
       "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
       "title": "Paramount+ Coupon Codes and Deals for June 2026",
       "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
@@ -150,7 +292,7 @@
       "_source": "Wired"
     },
     {
-      "id": "012",
+      "id": "021",
       "url": "https://www.wired.com/story/home-depot-promo-code/",
       "title": "Home Depot Promo Codes: 50% Off in June 2026",
       "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
@@ -164,7 +306,7 @@
       "_source": "Wired"
     },
     {
-      "id": "013",
+      "id": "022",
       "url": "https://www.wired.com/story/booking-com-promo-code/",
       "title": "Booking.com Promo Codes: 20% Off | June 2026",
       "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
@@ -179,7 +321,7 @@
       "_source": "Wired"
     },
     {
-      "id": "014",
+      "id": "023",
       "url": "https://www.wired.com/story/doordash-promo-code/",
       "title": "50% Off DoorDash Promo Code | June 2026",
       "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
@@ -193,7 +335,7 @@
       "_source": "Wired"
     },
     {
-      "id": "015",
+      "id": "024",
       "url": "https://www.wired.com/story/rover-promo-code/",
       "title": "Rover Promo Codes and Referral Deals for June 2026",
       "summary": "Score your Rover promo code for 2026.",
@@ -208,7 +350,7 @@
       "_source": "Wired"
     },
     {
-      "id": "016",
+      "id": "025",
       "url": "https://www.wired.com/story/dell-coupon-code/",
       "title": "Dell Coupon Codes: 20% Off for June 2026",
       "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
@@ -223,7 +365,7 @@
       "_source": "Wired"
     },
     {
-      "id": "017",
+      "id": "026",
       "url": "https://www.wired.com/story/lovehoney-discount-code/",
       "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
       "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
@@ -238,7 +380,7 @@
       "_source": "Wired"
     },
     {
-      "id": "018",
+      "id": "027",
       "url": "https://www.wired.com/story/lg-promo-code/",
       "title": "LG Promo Codes and Coupons for June 2026",
       "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
@@ -252,7 +394,7 @@
       "_source": "Wired"
     },
     {
-      "id": "019",
+      "id": "028",
       "url": "https://www.wired.com/story/priceline-promo-code/",
       "title": "Priceline Promo Codes & Coupons: 10% Off June",
       "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
@@ -267,7 +409,7 @@
       "_source": "Wired"
     },
     {
-      "id": "020",
+      "id": "029",
       "url": "https://www.wired.com/story/litter-robot-promo-code/",
       "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
       "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
@@ -282,7 +424,7 @@
       "_source": "Wired"
     },
     {
-      "id": "021",
+      "id": "030",
       "url": "https://www.wired.com/story/verizon-promo-code/",
       "title": "Verizon Promo Codes: $200 Verizon Gift Cards | June 2026",
       "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
@@ -294,133 +436,6 @@
         "Coupons"
       ],
       "_source": "Wired"
-    },
-    {
-      "id": "022",
-      "url": "https://www.wired.com/story/hostinger-coupon-code/",
-      "title": "Hostinger Promo Code: 79% Off for June 2026",
-      "summary": "Discover exclusive Hostinger promo codes, discounts, and deals on web hosting, cloud plans, and domain registration. Save big on your next Hostinger purchase today.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "023",
-      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "title": "Uplift Promo Codes: $570 Off",
-      "summary": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "024",
-      "url": "https://dev.to/qualiumai/can-quantum-computing-change-ai-a-deep-dive-into-quantum-machine-learning-1on",
-      "title": "Can Quantum Computing Change AI? A Deep Dive Into Quantum Machine Learning",
-      "summary": "Artificial Intelligence is already transforming the world.\n\nFrom image generation and language models to recommendation systems and scientific discovery, modern AI has reached a level that once felt impossible.\n\nBut behind this progress lies a hard truth:\n\nAI is extremely computationally expensive.\n",
-      "date_published": "2026-05-27",
-      "tags": [
-        "ai",
-        "quantummachinelearning",
-        "machinelearning",
-        "deeptech"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "025",
-      "url": "https://dev.to/fadow/my-pc-setup-as-a-linux-user-1dhn",
-      "title": "My PC setup as a Linux user",
-      "summary": "Arch Linux + RiverWM + Neovim — my daily driver:\n\nOS: Arch (btw)\nWM: River (Wayland, no X11)\nEditor: Neovim 0.12 (native LSP, no lspconfig.nvim)\nTerminal: Alacritty + fish shell\nAgent: Hermes (offloads 80% of my boilerplate work)\n\nWhy this stack:\n• River starts in 0.3s. No desktop environment bloat\n",
-      "date_published": "2026-05-27",
-      "tags": [
-        "linux",
-        "archlinux",
-        "developers",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "026",
-      "url": "https://dev.to/andyb1979/why-your-chart-library-is-the-bottleneck-you-never-suspected-by-andrew-burnett-thompson-ceo--40cf",
-      "title": "Why Your Chart Library Is the Bottleneck You Never Suspected by Andrew Burnett-Thompson, CEO & Founder of SciChart",
-      "summary": "You've spent weeks building a real-time dashboard. The backend is fast. The data pipeline is solid. Your websocket is humming along.\nThen you drop in a chart library and everything falls apart.\n60fps becomes 6fps. The browser tab is eating 2GB of RAM. Users are telling you the UI feels sluggish. So ",
-      "date_published": "2026-05-27",
-      "tags": [
-        "frontend",
-        "javascript",
-        "performance",
-        "webdev"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "027",
-      "url": "https://dev.to/dhanani_ansh/i-touched-aws-and-stuff-didnt-break-mostly-1cnm",
-      "title": "i touched AWS and stuff didn't break (mostly)",
-      "summary": "so. i finally sat down and actually did AWS. not just watched tutorials, not just read docs actually clicked buttons, broke things, fixed them, and now i have opinions.\n\nthis is a writeup of everything i learned practically in this last 1 week, in the order i learned it, with zero fluff. if you're s",
-      "date_published": "2026-05-27",
-      "tags": [
-        "aws",
-        "cloud",
-        "webdev",
-        "beginners"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "028",
-      "url": "https://dev.to/gde/using-googles-new-ai-command-line-assistant-antigravity-cli-agy-and-yolos-no-confirmation-mode-10d",
-      "title": "Using Google's New AI Command-Line Assistant: Antigravity CLI (agy) and YOLO's No-Confirmation Mode",
-      "summary": "Background\n\n\nWith generative AI entering daily development, the AI assistant in the terminal has also ushered in an epic update! If you are a loyal supporter of the original Gemini CLI, you may already know that this tool will be officially retired on June 18, 2026.\n\nTaking over the torch of this er",
-      "date_published": "2026-05-27",
-      "tags": [
-        "ai",
-        "cli",
-        "google",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "029",
-      "url": "https://dev.to/gde/gcp-upgrading-a-line-bot-with-vertex-ai-adk-tools-for-smart-business-cards-and-backup-search-3dpe",
-      "title": "GCP: Upgrading a LINE Bot with Vertex AI ADK Tools for Smart Business Cards and Backup Search",
-      "summary": "Preface\n\n\nIn the previous article, we successfully upgraded the LINE business card assistant robot (linebot-namecard-python) from the AI Studio API Key verification mode to the enterprise-grade Google Cloud Vertex AI mechanism, completely freeing us from the 429 quota anxiety.\n\nHowever, the original",
-      "date_published": "2026-05-27",
-      "tags": [
-        "ai",
-        "gemini",
-        "google",
-        "python"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "030",
-      "url": "https://dev.to/0xvoidwalker/my-journey-into-web3-auditing-36fe",
-      "title": "My Journey into Web3 Auditing",
-      "summary": "I came across Web3 smart contract auditing via my school coursemates(Shanzy, Charlses, Romeoscript and Somtee), and I have been so curious about it. Researching and learning everything I can get my hands across\n\nCurrently, here are some materials I am studying:\n\n\nCyfrin Updraft\nSecureum\nDefiLab\nEVM ",
-      "date_published": "2026-05-27",
-      "tags": [
-        "web3",
-        "smartcontract",
-        "auditor"
-      ],
-      "_source": "Dev.to"
     }
   ]
 }
