@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-      "title": "I'm Tired of Talking to AI",
-      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/\nComments URL: https://news.ycombinator.com/item?id=48292224\nPoints: 194\n# Comments: 142",
+      "url": "https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID",
+      "title": "Italy region: +200% tax on datacenters built in green/agricultural areas",
+      "summary": "Article URL: https://en.ilsole24ore.com/art/lombardy-introduces-increased-charges-of-up-to-200-per-cent-for-data-centre-construction-in-green-and-agricultural-areas-AI6Jp4ID\nComments URL: https://news.ycombinator.com/item?id=48294401\nPoints: 5\n# Comments: 0",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://miniscript.org/MiniMicro/index.html#about",
-      "title": "Mini Micro Fantasy Computer",
-      "summary": "Article URL: https://miniscript.org/MiniMicro/index.html#about\nComments URL: https://news.ycombinator.com/item?id=48291947\nPoints: 60\n# Comments: 21",
+      "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html",
+      "title": "Why AI Agents Cannot Change Software Systems",
+      "summary": "Article URL: https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html\nComments URL: https://news.ycombinator.com/item?id=48294315\nPoints: 4\n# Comments: 0",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://www.phoronix.com/review/nvidia-vera-benchmarks",
-      "title": "Nvidia Vera CPU Benchmarks: Olympus Cores Delivering Great Performance",
-      "summary": "Article URL: https://www.phoronix.com/review/nvidia-vera-benchmarks\nComments URL: https://news.ycombinator.com/item?id=48291230\nPoints: 37\n# Comments: 15",
+      "url": "https://www.githubstatus.com/incidents/xy1tt3hs572m",
+      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
+      "summary": "Article URL: https://www.githubstatus.com/incidents/xy1tt3hs572m\nComments URL: https://news.ycombinator.com/item?id=48293080\nPoints: 126\n# Comments: 97",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://arxiv.org/abs/2605.22391",
-      "title": "All of human cooking compressed into 2 megabytes",
-      "summary": "Article URL: https://arxiv.org/abs/2605.22391\nComments URL: https://news.ycombinator.com/item?id=48291225\nPoints: 5\n# Comments: 0",
+      "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+      "title": "XLIDE: VBA without excel",
+      "summary": "Article URL: https://github.com/WilliamSmithEdward/xlide_vscode\nComments URL: https://news.ycombinator.com/item?id=48293014\nPoints: 17\n# Comments: 0",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://www.unicode.org/versions/Unicode18.0.0/",
-      "title": "Unicode 18.0.0 Beta",
-      "summary": "Article URL: https://www.unicode.org/versions/Unicode18.0.0/\nComments URL: https://news.ycombinator.com/item?id=48290881\nPoints: 32\n# Comments: 38",
+      "url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
+      "title": "Private Equity Bought America's Essential Services",
+      "summary": "Article URL: https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/\nComments URL: https://news.ycombinator.com/item?id=48292941\nPoints: 153\n# Comments: 146",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -62,9 +62,9 @@
     },
     {
       "id": "006",
-      "url": "https://arps18.github.io/posts/claude-code-mastery/",
-      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-      "summary": "Article URL: https://arps18.github.io/posts/claude-code-mastery/\nComments URL: https://news.ycombinator.com/item?id=48289950\nPoints: 94\n# Comments: 74",
+      "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+      "title": "I'm Tired of Talking to AI",
+      "summary": "Article URL: https://orchidfiles.com/im-tired-of-ai-generated-answers/\nComments URL: https://news.ycombinator.com/item?id=48292224\nPoints: 750\n# Comments: 417",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -73,9 +73,9 @@
     },
     {
       "id": "007",
-      "url": "https://github.com/craigmccaskill/posthorn",
-      "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-      "summary": "Introducing Posthorn, a self hosted email gateway. One docker container (or Go binary) between every self hosted app on your VPS and your transactional email provider. Set up Posthorn once, point your apps to it, done.I was trying to deploy Ghost on a DigitalOcean droplet and found that DO and many ",
+      "url": "https://miniscript.org/MiniMicro/index.html#about",
+      "title": "Mini Micro Fantasy Computer",
+      "summary": "Article URL: https://miniscript.org/MiniMicro/index.html#about\nComments URL: https://news.ycombinator.com/item?id=48291947\nPoints: 112\n# Comments: 49",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -84,9 +84,9 @@
     },
     {
       "id": "008",
-      "url": "https://tsduck.io/",
-      "title": "TSDuck: Open-source toolkit for MPEG-TS analysis and manipulation",
-      "summary": "Article URL: https://tsduck.io/\nComments URL: https://news.ycombinator.com/item?id=48288709\nPoints: 39\n# Comments: 3",
+      "url": "https://github.com/golang/go/issues/77273",
+      "title": "Go: Support for Generic Methods",
+      "summary": "Article URL: https://github.com/golang/go/issues/77273\nComments URL: https://news.ycombinator.com/item?id=48291575\nPoints: 53\n# Comments: 34",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -95,9 +95,9 @@
     },
     {
       "id": "009",
-      "url": "https://codeberg.org/lindenii/tunecat/",
-      "title": "Tunecat: Simple Internet Radio",
-      "summary": "Article URL: https://codeberg.org/lindenii/tunecat/\nComments URL: https://news.ycombinator.com/item?id=48288174\nPoints: 54\n# Comments: 4",
+      "url": "https://arxiv.org/abs/2605.22391",
+      "title": "All of human cooking compressed into 2 megabytes",
+      "summary": "Article URL: https://arxiv.org/abs/2605.22391\nComments URL: https://news.ycombinator.com/item?id=48291225\nPoints: 119\n# Comments: 49",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -106,14 +106,106 @@
     },
     {
       "id": "010",
+      "url": "https://arps18.github.io/posts/claude-code-mastery/",
+      "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+      "summary": "Article URL: https://arps18.github.io/posts/claude-code-mastery/\nComments URL: https://news.ycombinator.com/item?id=48289950\nPoints: 152\n# Comments: 119",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "011",
+      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
+      "title": "China is increasingly keeping its best AI talent to itself",
+      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Government & Policy",
+        "China",
+        "travel ban"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+      "summary": "The database provider is eyeing a public debut within the next few years.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Enterprise",
+        "Venture",
+        "AI infranstructure",
+        "ClickHouse",
+        "database services",
+        "IPO"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
+      "title": "YouTube will now automatically label AI videos",
+      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "TC",
+        "Media & Entertainment",
+        "AI",
+        "YouTube",
+        "media",
+        "Creators",
+        "AI content"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Startups",
+        "Venture",
+        "AI",
+        "Box",
+        "Layoffs",
+        "tech layoffs",
+        "ai psychosis"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "015",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Fintech",
+        "AI",
+        "payments",
+        "Robinhood",
+        "AI agents",
+        "AI stock trading"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
       "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
       "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with ",
       "date_published": "2026-05-27",
       "tags": [
-        "Startups",
         "Apps",
         "Social",
+        "Startups",
         "Airbnb",
         "Funding",
         "Series C funding"
@@ -121,7 +213,23 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "011",
+      "id": "017",
+      "url": "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
+      "title": "Motorola's 2026 Razrs are almost worth buying just for their stunning looks… almost",
+      "summary": "Pretty little phones with pretty big price tags.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Reviews",
+        "Tech",
+        "Foldables",
+        "motorola",
+        "motorola razr",
+        "smartphones"
+      ],
+      "_source": "Ars Technica"
+    },
+    {
+      "id": "018",
       "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
       "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
       "summary": "The feds are raising the alarm about a new category of threat.",
@@ -137,7 +245,135 @@
       "_source": "Ars Technica"
     },
     {
-      "id": "012",
+      "id": "019",
+      "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
+      "title": "This smart bird feeder captures more of my backyard drama",
+      "summary": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my daughter's school, roseate spoonbills wading in the marsh on my morning walks, eagles circling over m",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Cameras",
+        "Gadgets",
+        "Reviews",
+        "Smart Home Reviews",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "020",
+      "url": "https://www.theverge.com/transportation/938016/this-ferrari-should-have-been-a-volkswagen",
+      "title": "This Ferrari should have been a Volkswagen",
+      "summary": "It may be the NBA playoffs but right now Ferrari is getting dunked on more than anyone. Whether they own a Ferrari or just have a poster of a Testarossa on their wall, fans in the Ferrari-verse are frothy about the Luce, the company's first all-electric vehicle. According to one highly rated Verge c",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Cars",
+        "Electric Cars",
+        "Transportation"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "021",
+      "url": "https://www.theverge.com/entertainment/937984/007-first-light-review-james-bond-ps5-xbox",
+      "title": "007 First Light is like a James Bond movie in the best way possible",
+      "summary": "The James Bond franchise is nothing if not a spectacle: Aside from the explosions and gun fights, even its calmer moments are dripping in the pomp and glamour of elite ostentation and luxury locales. Bond, however, has always been an odd mascot for the espionage profession, which ordinarily operates",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Entertainment",
+        "Games Review",
+        "Gaming"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "022",
+      "url": "https://www.theverge.com/gadgets/936771/today-im-toying-with-giveaway-free-gadgets",
+      "title": "Win cool gadgets we can’t keep because The Verge has ethics",
+      "summary": "When people learn I work for The Verge, they inevitably ask: “Do you get to keep the gadgets?” Now that I film Today I’m Toying With, a video series where I share the joy of tech, I get that question more than ever. The answer is no, we don’t keep them! Our ethics policy is […]",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Deals",
+        "Gadgets",
+        "Giveaway",
+        "Verge Shopping"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "023",
+      "url": "https://www.theverge.com/games/937480/mina-the-hollower-remix-modifiers-randomizer-interview",
+      "title": "The best part of Mina the Hollower is how it randomizes the Zelda formula",
+      "summary": "After rolling credits on Mina the Hollower, I did something unusual for me and immediately started a new file. I'm not typically one to replay games right after I beat them. But Mina, a new action-adventure title from Shovel Knight creators Yacht Club Games, offers something that got me to jump righ",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Entertainment",
+        "Gaming"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "024",
+      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "title": "YouTube is putting AI labels where you’ll actually see them",
+      "summary": "In the wake of Google expanding its AI verification efforts at I/O, YouTube is now finally going to start taking AI labeling seriously. YouTube has announced that it's relocating AI disclosures on Shorts and long-form videos to make them easier to spot and will start automatically identifying and la",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Google",
+        "News",
+        "Streaming",
+        "Tech",
+        "YouTube"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "025",
+      "url": "https://www.theverge.com/entertainment/937970/the-witcher-3-songs-of-the-past-expansion",
+      "title": "The Witcher 3 is getting another expansion, more than a decade after launch",
+      "summary": "The fourth Witcher game may be a ways off, but fans won't be without Geralt of Rivia for long. CD Projekt Red just announced Songs of the Past, the third expansion for The Witcher 3, which will be launching in 2027. Aside from the title, there aren't many details about the expansion just yet. It's [",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Entertainment",
+        "Gaming",
+        "News"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "026",
+      "url": "https://www.theverge.com/gadgets/937944/x-by-xreal-subbrand-a01-ar-glasses-price-availability",
+      "title": "Xreal’s budget AR glasses feature anti-shake tech and swappable frames",
+      "summary": "Augmented reality wearables provider Xreal has launched a new \"X By Xreal\" (XBX) subbrand, with its first customizable, lightweight smart glasses coming to the US in July. The new a01 AR glasses will be available starting at $299, featuring a \"highly stable anti-shake mode\" and interchangeable front",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Gadgets",
+        "News",
+        "Tech",
+        "Virtual Reality",
+        "Wearable"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "027",
+      "url": "https://www.theverge.com/gadgets/937935/redmagic-11s-pro-launch-specs-price",
+      "title": "Redmagic’s liquid-cooled gaming phone arrives with overclocked Snapdragon chip",
+      "summary": "Nubia has announced the international launch of the Redmagic 11S Pro, its new flagship Android gaming phone. It's not a significant change from the 11 Pro, which launched internationally last November, but has been upgraded to the overclocked Snapdragon 8 Elite Gen 5 Leading Version. Otherwise thing",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Gadgets",
+        "Gaming",
+        "Mobile",
+        "News",
+        "Phones",
+        "Tech"
+      ],
+      "_source": "The Verge"
+    },
+    {
+      "id": "028",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
       "title": "The AI fight brewing inside The New York Times",
       "summary": "How newsrooms should use AI - or if they should at all - has been a recurrent debate within the media industry over the last several years. Increasingly, these rules are being hammered out at the bargaining table between unions and publishers. Right now, employees at The New York Times are gearing u",
@@ -152,288 +388,37 @@
       "_source": "The Verge"
     },
     {
-      "id": "013",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
-      "title": "Did the Pope use AI to write about the dangers of AI?",
-      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "News"
-      ],
-      "_source": "The Verge"
-    },
-    {
-      "id": "014",
-      "url": "https://www.wired.com/story/osprey-farpoint-40-rave/",
-      "title": "The Osprey Farpoint 40 Has Been My Go-To Travel Bag for 8 Years",
-      "summary": "I’m a chronic overpacker, but this backpack is my perfect match, with its huge capacity, numerous pockets, and impressive durability.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Reviews",
-        "Gear / Products / Outdoor",
-        "Shopping",
-        "Bags",
-        "rants and raves",
-        "Bag Check",
-        "Travel",
-        "outdoors",
-        "backpack",
-        "camping",
-        "camping gear",
-        "U + Me 4 Evr"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "015",
-      "url": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
-      "title": "Waymo Takes Its Self-Driving Cars to Virginia",
-      "summary": "The company is mapping Alexandria and, soon, Arlington—right across from the power center of Washington, DC.",
+      "id": "029",
+      "url": "https://www.wired.com/story/xreal-expands-xbx-its-extra-light-smart-specs/",
+      "title": "Xreal’s New $299 ‘xbx’ Smart Glasses Channel Xbox Vibes",
+      "summary": "These display smart glasses can connect to a phone, laptop, or gaming handheld and project the screen to your eyeballs.",
       "date_published": "2026-05-27",
       "tags": [
         "Gear",
         "Gear / Gear News and Events",
-        "Self-Driving Cars",
-        "Google",
-        "Autonomous Vehicles",
-        "Regulation",
-        "Infrastructure",
-        "Waymo",
-        "Policy",
-        "New Bearings"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "016",
-      "url": "https://www.wired.com/review/review-corsair-galleon-100-sd/",
-      "title": "Corsair Galleon 100 SD Review: Stream Deck Now Included",
-      "summary": "Corsair unites Stream Deck functionality with Drop keyboard design expertise on its latest Galleon SD 100.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Reviews",
-        "Gear / Products / Computers",
-        "Gear / Products / Gaming",
-        "Gaming",
-        "keyboards",
-        "Accessories and Computer Parts",
-        "Shopping",
-        "Product Review"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "017",
-      "url": "https://www.wired.com/story/department-of-labor-tells-employees-to-report-anyone-prioritizing-dei/",
-      "title": "Department of Labor Tells Employees to Report Anyone Prioritizing DEI",
-      "summary": "The email instructs workers to report behavior that predates Donald Trump’s second inauguration. One employee tells WIRED it felt like a “reminder to narc on your coworkers.”",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Politics",
-        "politics",
-        "government",
-        "diversity",
-        "republicans",
-        "Death of DEI"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "018",
-      "url": "https://www.wired.com/story/a-new-species-of-tiny-octopus-was-discovered-in-the-galapagos-islands/",
-      "title": "A New Species of Tiny Octopus Was Discovered in the Galápagos Islands",
-      "summary": "An octopus about the size of a golf ball was first spotted in 2015 near Darwin Island. A new study gives it both a formal description and a name.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Science",
-        "animals",
-        "Biology",
-        "marine science",
-        "oceans",
-        "cephalopods",
-        "Awwwwwwww"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "019",
-      "url": "https://www.wired.com/story/nasa-details-its-plan-to-build-a-lunar-base-at-the-moons-south-pole/",
-      "title": "NASA Details Its Plan to Build a Lunar Base at the Moon’s South Pole",
-      "summary": "The project’s first mission could arrive as soon as this year, with a little help from Blue Origin.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Science",
-        "Science / Space",
-        "space",
-        "NASA",
-        "Spacecraft",
-        "moon",
-        "Blue Origin",
-        "Polar Express"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "020",
-      "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
-      "title": "Paramount+ Coupon Codes and Deals for June 2026",
-      "summary": "Save on streaming with the latest Paramount+ promo codes and deals, including 50% off subscriptions, free trials, and more.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "021",
-      "url": "https://www.wired.com/story/home-depot-promo-code/",
-      "title": "Home Depot Promo Codes: 50% Off in June 2026",
-      "summary": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this June.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "022",
-      "url": "https://www.wired.com/story/booking-com-promo-code/",
-      "title": "Booking.com Promo Codes: 20% Off | June 2026",
-      "summary": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "023",
-      "url": "https://www.wired.com/story/doordash-promo-code/",
-      "title": "50% Off DoorDash Promo Code | June 2026",
-      "summary": "Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "024",
-      "url": "https://www.wired.com/story/rover-promo-code/",
-      "title": "Rover Promo Codes and Referral Deals for June 2026",
-      "summary": "Score your Rover promo code for 2026.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "025",
-      "url": "https://www.wired.com/story/dell-coupon-code/",
-      "title": "Dell Coupon Codes: 20% Off for June 2026",
-      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "026",
-      "url": "https://www.wired.com/story/lovehoney-discount-code/",
-      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-      "summary": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "027",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "title": "LG Promo Codes and Coupons for June 2026",
-      "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "028",
-      "url": "https://www.wired.com/story/priceline-promo-code/",
-      "title": "Priceline Promo Codes & Coupons: 10% Off June",
-      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
-      ],
-      "_source": "Wired"
-    },
-    {
-      "id": "029",
-      "url": "https://www.wired.com/story/litter-robot-promo-code/",
-      "title": "Litter-Robot Promo Codes and Deals: Up to $150 Off",
-      "summary": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Gear",
-        "Gear / Deals",
-        "coupons",
-        "Shopping",
-        "Coupons"
+        "Accessories and Peripherals",
+        "gadgets",
+        "smart glasses",
+        "Wearables",
+        "Xtra Xtra"
       ],
       "_source": "Wired"
     },
     {
       "id": "030",
-      "url": "https://www.wired.com/story/verizon-promo-code/",
-      "title": "Verizon Promo Codes: $200 Verizon Gift Cards | June 2026",
-      "summary": "Ready for an upgrade? Apply our latest promotional codes today and choose a select service plan to score a discount with Verizon.",
+      "url": "https://www.wired.com/story/the-state-department-really-doesnt-want-to-talk-about-the-office-of-remigration/",
+      "title": "The State Department Really Doesn’t Want to Talk About the Office of Remigration",
+      "summary": "The office was created a year ago and seemingly named for a far-right European plan to expel minorities and immigrants from Western nations. It now works, a source says, with little to no oversight.",
       "date_published": "2026-05-27",
       "tags": [
-        "Gear",
-        "coupons",
-        "Shopping",
-        "Coupons"
+        "Politics",
+        "Donald Trump",
+        "politics",
+        "immigration",
+        "government",
+        "extremism",
+        "State Department",
+        "Immigration"
       ],
       "_source": "Wired"
     }
