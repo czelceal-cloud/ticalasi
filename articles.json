@@ -1,8 +1,272 @@
 [
   {
     "id": "001",
+    "title": "Stripe is friendly to \"friendly fraud\"",
+    "summary": "Article URL: https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/\nComments URL: https://news.ycombinator.com/item?id=48287982\nPoints: 60\n# Comments: 17",
+    "url": "https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/",
+    "date": "2026-05-27",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Erin Brockovich made a map to track data centers around the country",
+    "summary": "Article URL: https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/\nComments URL: https://news.ycombinator.com/item?id=48287952\nPoints: 56\n# Comments: 34",
+    "url": "https://www.niemanlab.org/2026/05/erin-brockovich-made-a-map-to-track-data-centers-around-the-country/",
+    "date": "2026-05-27",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "Sonny Rollins, Jazz's Saxophone Colossus and Greatest Improvisor, Dead at 95",
+    "summary": "Article URL: https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/\nComments URL: https://news.ycombinator.com/item?id=48287678\nPoints: 36\n# Comments: 6",
+    "url": "https://www.rollingstone.com/music/music-news/sonny-rollins-jazz-legend-saxophone-colossus-dead-obit-1234715446/",
+    "date": "2026-05-27",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "AI Tools Are Only as Good as Your Judgment – and That's the Point",
+    "summary": "Article URL: https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html\nComments URL: https://news.ycombinator.com/item?id=48287649\nPoints: 10\n# Comments: 5",
+    "url": "https://theaileverageweekly.com/posts/your-ai-tools-are-only-as-good-as-your-judgment-and-that-s-the-point.html",
+    "date": "2026-05-27",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Did the Pope use AI to write about the dangers of AI?",
+    "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Magnifica Humanitas to be between 40 percent and 100 percent written by AI, according to the popular A",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+    "date": "2026-05-27",
+    "source": "The Verge",
+    "tags": [
+      "AI",
+      "News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "How I Used Kubernetes Documentation Effectively During the CKA Exam",
+    "summary": "One of the unique aspects of the Certified Kubernetes Administrator (CKA) exam is that Kubernetes documentation is allowed during the exam.\n\nWhen I first learned this, I thought it would make the exam significantly easier.\n\nHowever, after preparing for the exam and eventually passing it, I realized ",
+    "url": "https://dev.to/shahzadahmad91/how-i-used-kubernetes-documentation-effectively-during-the-cka-exam-47kn",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "kubernetes",
+      "cka",
+      "kubestronaut",
+      "ckad"
+    ]
+  },
+  {
+    "id": "007",
+    "title": "When Your ChatLlamaCpp Stream Causes an Infinite Loop",
+    "summary": "When Your ChatLlamaCpp Stream Causes an Infinite Loop\n\n\nYou've been there. Your AI agent gets stuck in an infinite loop, and you're left staring at a spinning cursor. You comb through logs, try to reproduce the issue locally, and waste hours debugging. Sound familiar? Let's dig into why this happens",
+    "url": "https://dev.to/tracepilot_2841f1db6718a1/when-your-chatllamacpp-stream-causes-an-infinite-loop-1a83",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "debugging",
+      "llm",
+      "observability"
+    ]
+  },
+  {
+    "id": "008",
+    "title": "MartinLoop: a control plane for AI coding agents",
+    "summary": "MartinLoop\n\n\nMartinLoop is an open-source control plane for AI coding agents.\n\nIt adds hard budget stops, JSONL run records, and verify-gated completion so autonomous coding stays accountable.\n\nWe built it because agent loops are powerful, but most teams still do not have enough control over cost, r",
+    "url": "https://dev.to/cryptokeesan/martinloop-a-control-plane-for-ai-coding-agents-3dg5",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "devtools",
+      "ai",
+      "opensource"
+    ]
+  },
+  {
+    "id": "009",
+    "title": "Stop Cloning Entire Repos for Your Doc Builds",
+    "summary": "Your docs live next to your code. That's the docs-as-code promise — version control, pull request reviews, CI/CD pipelines. It works beautifully.\n\nUntil your repo hits 100,000 files.\n\n\n  \n  \n  The problem nobody talks about\n\n\nOur team runs a documentation portal that pulls content from dozens of lar",
+    "url": "https://dev.to/saipramod/stop-cloning-entire-repos-for-your-doc-builds-28i0",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "documentation",
+      "opensource",
+      "typescript",
+      "devops"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Rux: A Modern Systems Programming Language Worth Watching",
+    "summary": "The programming language ecosystem evolves quickly, but occasionally a new project appears with a genuinely interesting direction. One language that recently caught my attention is Rux.\n\nhttps://rux-lang.dev\n\nRux is a compiled, strongly typed systems programming language focused on:\n\n\nnative perform",
+    "url": "https://dev.to/natuworkguy/rux-a-modern-systems-programming-language-worth-watching-178o",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "news",
+      "performance",
+      "programming",
+      "systems"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Building calculatefreelance: A lightweight Next.js utility for the 1099 economy",
+    "summary": "Hey everyone,\n\nLike many independent developers here, I spent the last few weeks navigating the confusing world of quarterly 1099 taxes, trying to figure out if setting up an LLC would actually save me money on my bottom line.\n\nI went looking for a basic calculator to map out my federal, state, and ",
+    "url": "https://dev.to/flo_1ea5a2c70fd4e87100928/building-calculatefreelance-a-lightweight-nextjs-utility-for-the-1099-economy-1bpf",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "nextjs",
+      "webdev",
+      "opensource",
+      "freelance"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "MUDs — The Grandfather MMOs",
+    "summary": "What are MUDs and why are people still playing them?\n\n\nA MUD (Multi-User Dungeon) is a multiplayer text-based game. Players send text commands like attack goblin or north, and the game responds in pure text.\n\nMUDs come in many genres, but in this article I’ll focus on the hack-n-slash variety — game",
+    "url": "https://dev.to/rds1983/muds-the-grandfather-mmos-12l1",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "mud",
+      "mmo"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Chapter-marker survival across the EPUB to multi-voice audio pipeline",
+    "summary": "A chapter is the smallest unit a listener actually navigates. They open the audiobook in the middle of Chapter 7, leave it open on the dishes, come back later. The publisher cares about that unit too: when you upload to a major audiobook platform, each chapter typically ships as a separate audio fil",
+    "url": "https://dev.to/audioproducer-ai/chapter-marker-survival-across-the-epub-to-multi-voice-audio-pipeline-42gb",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "audio",
+      "tts",
+      "epub"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Magnifica Humanitas: How the Pope walked into the room full of AI engineers and said what few else dared to say.",
+    "summary": "Just two days ago, in the morning of May 25th, something absolutely unusual happened in the Vatican's Synod Hall. HH. Pope Leo XIV walked into a room filled with cardinals, diplomats and also some top guys from the AI industry, and personally presented his first encyclical. That fact alone was histo",
+    "url": "https://dev.to/singarajatech/magnifica-humanitas-how-the-pope-walked-into-the-room-full-of-ai-engineers-and-said-what-few-else-1hnf",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "popeleo",
+      "ai",
+      "magnificahumanitas",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Race-Condition: How a Single SQL Line Eliminated 100 Lines of Retry and Lock Code",
+    "summary": "hat \"rare\" bug that looks intermittent but is actually deterministic. It is just waiting for your pods to scale.\n\nI recently dealt with a textbook concurrency issue in a Java application running on multiple parallel instances, and the solution turned out to be much simpler than the workarounds we ha",
+    "url": "https://dev.to/allanbontempo/how-a-single-sql-line-eliminated-100-lines-of-retry-and-lock-code-46a6",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "java",
+      "oracle",
+      "concurrency",
+      "backend"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Multi-Line Formatting by Default",
+    "summary": "I have reviewed so much code that I usually prefer multi-line formatting by default.\n\nNot because it looks prettier.\n\nBecause code review happens line by line. And also tools like static analysis or SQL errors are reported line by line.\n\nPS: in most IDEs you can directly jump into the code by typing",
+    "url": "https://dev.to/suckup_de/multi-line-formatting-by-default-chi",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "programming",
+      "codereview",
+      "softwaredevelopment"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "AI Agents Also Need ID - When Your AI Assistant Starts Using Your Credit Card",
+    "summary": "This article is a deep-dive from JudyAI Lab — an AI engineering playbook series with 100+ published guides, 5,000+ weekly readers across 60+ countries, focused on the practical side of running AI agents, trading systems, and content pipelines in production.\n\n\n  \n  \n  Your AI Assistant Is About to Be",
+    "url": "https://dev.to/judy_miranttie/ai-agents-also-need-id-when-your-ai-assistant-starts-using-your-credit-card-4n3",
+    "date": "2026-05-27",
+    "source": "Dev.to",
+    "tags": [
+      "agents",
+      "digitalidentity",
+      "worldagentkit",
+      "coinbaseagenticwallet"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+    "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+    "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+    "date": "2026-05-27",
+    "source": "BBC News",
+    "tags": [
+      "BBC News"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Cloudflare Flagship",
+    "summary": "Article URL: https://developers.cloudflare.com/flagship/\nComments URL: https://news.ycombinator.com/item?id=48287468\nPoints: 57\n# Comments: 26",
+    "url": "https://developers.cloudflare.com/flagship/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Xiaomi MiMo-v2.5 price drops 99% – AI pricing war",
+    "summary": "Article URL: https://platform.xiaomimimo.com/docs/en-US/welcome\nComments URL: https://news.ycombinator.com/item?id=48287220\nPoints: 9\n# Comments: 3",
+    "url": "https://platform.xiaomimimo.com/docs/en-US/welcome",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "From Rust to Ruby",
+    "summary": "Article URL: https://xlii.space/eng/from-rust-to-ruby/\nComments URL: https://news.ycombinator.com/item?id=48286561\nPoints: 10\n# Comments: 1",
+    "url": "https://xlii.space/eng/from-rust-to-ruby/",
+    "date": "2026-05-26",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "022",
     "title": "Big tech's anti-labor playbook has come for Wikipedia",
-    "summary": "Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943\nComments URL: https://news.ycombinator.com/item?id=48285592\nPoints: 208\n# Comments: 84",
+    "summary": "Article URL: https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943\nComments URL: https://news.ycombinator.com/item?id=48285592\nPoints: 301\n# Comments: 151",
     "url": "https://medium.com/@jakeorlowitz/wikipedia-is-doing-the-capitalist-thing-56a393232943",
     "date": "2026-05-26",
     "source": "Hacker News",
@@ -11,31 +275,9 @@
     ]
   },
   {
-    "id": "002",
-    "title": "The worst job interview I ever had",
-    "summary": "Article URL: https://www.oliverio.dev/blog/the-worst-job-interview-i-had\nComments URL: https://news.ycombinator.com/item?id=48285344\nPoints: 98\n# Comments: 72",
-    "url": "https://www.oliverio.dev/blog/the-worst-job-interview-i-had",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "003",
-    "title": "DeepSWE: A contamination-free benchmark for long-horizon coding agents",
-    "summary": "Article URL: https://deepswe.datacurve.ai/blog\nComments URL: https://news.ycombinator.com/item?id=48284939\nPoints: 20\n# Comments: 4",
-    "url": "https://deepswe.datacurve.ai/blog",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "004",
+    "id": "023",
     "title": "Chemistry behind the Garden Grove chemical tank",
-    "summary": "Article URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank\nComments URL: https://news.ycombinator.com/item?id=48284712\nPoints: 187\n# Comments: 71",
+    "summary": "Article URL: https://www.science.org/content/blog-post/methyl-methacrylate-tank\nComments URL: https://news.ycombinator.com/item?id=48284712\nPoints: 225\n# Comments: 85",
     "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
     "date": "2026-05-26",
     "source": "Hacker News",
@@ -44,18 +286,7 @@
     ]
   },
   {
-    "id": "005",
-    "title": "Stack Overflow’s forum is dead but the company’s still kicking",
-    "summary": "Article URL: https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/\nComments URL: https://news.ycombinator.com/item?id=48282709\nPoints: 137\n# Comments: 194",
-    "url": "https://sherwood.news/tech/stack-overflow-forum-dead-thanks-ai-but-companys-still-kicking-ai/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "006",
+    "id": "024",
     "title": "Sage Care (YC S24) Is Hiring Software Engineers",
     "summary": "Article URL: https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer\nComments URL: https://news.ycombinator.com/item?id=48282478\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/sagecare/jobs/xtloH8r-senior-software-engineer",
@@ -66,51 +297,7 @@
     ]
   },
   {
-    "id": "007",
-    "title": "The real cost of owning a home",
-    "summary": "Article URL: https://ericturner.dev/posts/cost-of-home-ownership/\nComments URL: https://news.ycombinator.com/item?id=48281611\nPoints: 240\n# Comments: 554",
-    "url": "https://ericturner.dev/posts/cost-of-home-ownership/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "008",
-    "title": "Is \"colorectal cancer\" rising in \"young people\"?",
-    "summary": "Article URL: https://dynomight.net/crc-rates/\nComments URL: https://news.ycombinator.com/item?id=48281539\nPoints: 159\n# Comments: 173",
-    "url": "https://dynomight.net/crc-rates/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "009",
-    "title": "What color is your function? (2015)",
-    "summary": "Article URL: https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/\nComments URL: https://news.ycombinator.com/item?id=48281515\nPoints: 85\n# Comments: 103",
-    "url": "https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "010",
-    "title": "The Ballad of TIGIT",
-    "summary": "Article URL: https://www.owlposting.com/p/the-ballad-of-tigit\nComments URL: https://news.ycombinator.com/item?id=48281367\nPoints: 92\n# Comments: 17",
-    "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
-    "date": "2026-05-26",
-    "source": "Hacker News",
-    "tags": [
-      "Hacker News"
-    ]
-  },
-  {
-    "id": "011",
+    "id": "025",
     "title": "UK Visa Portal spilled thousands of applicants’ passports and selfies online — and hasn’t fixed the leak",
     "summary": "The third-party website exposed applicants' sensitive documents as part of the U.K. visa application process. Instead of fixing the issue, the company sent attorneys.",
     "url": "https://techcrunch.com/2026/05/26/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
@@ -123,7 +310,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "026",
     "title": "What we’re looking for in Startup Battlefield 2026, and how to apply in time for the May 27 deadline",
     "summary": "Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!",
     "url": "https://techcrunch.com/2026/05/26/what-were-looking-for-in-startup-battlefield-2026-and-how-to-apply-in-time-for-the-may-27-deadline/",
@@ -137,10 +324,10 @@
     ]
   },
   {
-    "id": "013",
-    "title": "Trump Admin permits Volvo to keep selling connected cars in the U.S.",
+    "id": "027",
+    "title": "Trump administration permits Volvo to keep selling connected cars in the US",
     "summary": "Volvo, which is majority owned by China's Geely Holdings, said it can now move forward with its expansion plans for its U.S. factory.",
-    "url": "https://techcrunch.com/2026/05/26/trump-admin-permits-volvo-to-keep-selling-connected-cars-in-the-u-s/",
+    "url": "https://techcrunch.com/2026/05/26/trump-administration-permits-volvo-to-keep-selling-connected-cars-in-the-us/",
     "date": "2026-05-26",
     "source": "TechCrunch",
     "tags": [
@@ -151,7 +338,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "028",
     "title": "Trump administration wants nuclear startups to use plutonium for their reactors",
     "summary": "The U.S. government is sitting on dozens of tons of weapons-grade plutonium. It's hoping startups can find a use for it.",
     "url": "https://techcrunch.com/2026/05/26/trump-administration-wants-nuclear-startups-to-use-plutonium-for-their-reactors/",
@@ -168,7 +355,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "029",
     "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
     "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
     "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
@@ -185,7 +372,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "030",
     "title": "Starship’s path to reusability looks murky after SpaceX’s S-1",
     "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years — and one that may disappoint both the company's boosters and its critics.",
     "url": "https://techcrunch.com/2026/05/26/starships-path-to-reusability-looks-murky-after-spacexs-s-1/",
@@ -197,237 +384,6 @@
       "SpaceX",
       "Starlink",
       "Starship"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "SpaceX’s Starlink nabs American Airlines contract, another win for its IPO",
-    "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
-    "url": "https://techcrunch.com/2026/05/26/spacexs-starlink-nabs-american-airlines-contract-another-win-for-its-ipo/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Space",
-      "Transportation",
-      "American Airlines",
-      "In Brief",
-      "IPO",
-      "SpaceX",
-      "Starlink"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
-    "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Startups",
-      "AI gateway",
-      "CapitalG",
-      "In Brief",
-      "openrouter"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Human Archive",
-      "physical ai",
-      "robots",
-      "wing vc"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "Dutch government blocks US company from acquisition, citing ‘risk to public interest’",
-    "summary": "The move to block the acquisition of the cloud company that hosts the Dutch digital ID service comes as Europe continues to reduce its reliance on U.S. technology.",
-    "url": "https://techcrunch.com/2026/05/26/dutch-government-blocks-us-company-from-acquisition-citing-risk-to-public-interest/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Government & Policy",
-      "Security",
-      "cybersecurity",
-      "digital sovereignty",
-      "In Brief",
-      "Trump Administration",
-      "us government"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Ghost hackers: the cybersecurity mystery that nobody has solved",
-    "summary": "A shadowy group that stole and dumped the NSA’s most powerful hacking tools still has implications for how companies think about digital risk today.",
-    "url": "https://techcrunch.com/2026/05/26/ghost-hackers-the-cybersecurity-mystery-that-nobody-has-solved/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "hackers",
-      "Hacking mysteries",
-      "The Shadow Brokers"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Iranian hackers blamed for breach of Los Angeles transit system that took weeks to recover",
-    "summary": "An Israeli cybersecurity firm said Iran’s government is behind Ababil of Minab, a fake hacktivist persona that has claimed a series of data breaches after the start of the war in Iran.",
-    "url": "https://techcrunch.com/2026/05/26/iranian-hackers-blamed-for-breach-of-los-angeles-transit-system-that-took-weeks-to-recover/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "Ababil of Minab",
-      "cybersecurity",
-      "data breach",
-      "In Brief",
-      "iran",
-      "LACMTA",
-      "Los Angeles",
-      "Los Angeles County Metropolitan Transportation Authority"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Ferrari’s first EV is not for you",
-    "summary": "The Ferrari Luce seems to be more aimed at regulatory compliance and China, putting a lot of pressure on the Jony Ive-designed EV.",
-    "url": "https://techcrunch.com/2026/05/26/ferraris-first-ev-is-not-for-you/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "electric vehicles",
-      "EVs",
-      "Ferrari",
-      "ferrari luce"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
-    "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "TikTok",
-      "universal music group"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Spotify now lets you stream narrated magazine articles, too",
-    "summary": "The streaming service said that, starting today, there will be over 650 long-form magazine articles (available in English only) from publications like Rolling Stone, The Atlantic, Vogue, Variety, Billboard, Vibe, GQ, Wired, Vanity Fair, and Pitchfork.",
-    "url": "https://techcrunch.com/2026/05/26/spotify-now-lets-you-stream-narrated-magazine-articles-too/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Apps",
-      "Media & Entertainment",
-      "audio",
-      "Spotify",
-      "streaming",
-      "streaming service"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "TechCrunch Disrupt 2026 Early Bird ticket rates end May 29",
-    "summary": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco.",
-    "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Hardware",
-      "Robotics",
-      "Startups",
-      "TC",
-      "Venture",
-      "TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "7-Eleven data breach affects over 185,000 people’s personal data",
-    "summary": "The data breach included names, dates of birth, postal addresses, and Social Security numbers, according to a state government listing.",
-    "url": "https://techcrunch.com/2026/05/26/7-eleven-data-breach-affects-over-185000-peoples-personal-data/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "cyberattack",
-      "cybersecurity",
-      "data breach",
-      "In Brief",
-      "shinyhunters"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Amazon fulfillment competitor Stord raises $250M at $3B valuation",
-    "summary": "Stord offers a network of physical warehouses and inventory management software for e-commerce. It bills itself as a sort of anti-Amazon, giving brands \"the speed to compete\" while still owning their customer relationships.",
-    "url": "https://techcrunch.com/2026/05/26/amazon-fulfillment-competitor-stord-raises-250m-at-3b-valuation/",
-    "date": "2026-05-26",
-    "source": "TechCrunch",
-    "tags": [
-      "Commerce",
-      "Startups",
-      "Venture",
-      "e-commerce",
-      "In Brief",
-      "Stord",
-      "Strike Capital"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-    "summary": "Parsing a papal proclamation.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-    "date": "2026-05-26",
-    "source": "Ars Technica",
-    "tags": [
-      "Policy",
-      "AI",
-      "Catholicism",
-      "ethics",
-      "peter thiel",
-      "Pope Leo"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Musk says US military suicide drones used Starlink in violation of SpaceX rules",
-    "summary": "Musk says drones used Starlink instead of Starshield, blames military contractor.",
-    "url": "https://arstechnica.com/tech-policy/2026/05/musk-says-us-military-suicide-drones-used-starlink-in-violation-of-spacex-rules/",
-    "date": "2026-05-26",
-    "source": "Ars Technica",
-    "tags": [
-      "Policy",
-      "drones",
-      "spacex",
-      "starlink",
-      "starshield"
     ]
   }
 ]
