@@ -7,9 +7,9 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-      "title": "What Apple and Google are doing to your push notifications",
-      "summary": "Article URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\nComments URL: https://news.ycombinator.com/item?id=48299220\nPoints: 20\n# Comments: 6",
+      "url": "https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity",
+      "title": "iPhones Running iOS 26 Are Freezing FaceTime Calls When They Detect Nudity",
+      "summary": "Article URL: https://www.pcmag.com/news/iphones-running-ios-26-freeze-facetime-calls-when-theres-nudity\nComments URL: https://news.ycombinator.com/item?id=48300509\nPoints: 33\n# Comments: 12",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -18,9 +18,9 @@
     },
     {
       "id": "002",
-      "url": "https://www.theverge.com/games/938340/valve-steam-deck-price-increase",
-      "title": "Valve raises Steam Deck prices by more than $200",
-      "summary": "Article URL: https://www.theverge.com/games/938340/valve-steam-deck-price-increase\nComments URL: https://news.ycombinator.com/item?id=48297976\nPoints: 123\n# Comments: 74",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "title": "YouTube to automatically label AI-generated videos",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label...\n\nComments URL: https://news.ycombinator.com/item?id=48299753\nPoints: 256\n# Comments: 139",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -29,9 +29,9 @@
     },
     {
       "id": "003",
-      "url": "https://arxiv.org/abs/2605.21779",
-      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
-      "summary": "Article URL: https://arxiv.org/abs/2605.21779\nComments URL: https://news.ycombinator.com/item?id=48297723\nPoints: 16\n# Comments: 1",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "title": "Rust (and Slint) on a Jailbroken Kindle",
+      "summary": "Article URL: https://sverre.me/blog/rust-on-kindle/\nComments URL: https://news.ycombinator.com/item?id=48299623\nPoints: 43\n# Comments: 6",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -40,9 +40,9 @@
     },
     {
       "id": "004",
-      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
-      "title": "SimCity 3k in 4k (2025)",
-      "summary": "Article URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\nComments URL: https://news.ycombinator.com/item?id=48297645\nPoints: 138\n# Comments: 37",
+      "url": "https://2earth.github.io/website/20260525.html",
+      "title": "On Labubu and the Hyperreal",
+      "summary": "Article URL: https://2earth.github.io/website/20260525.html\nComments URL: https://news.ycombinator.com/item?id=48299335\nPoints: 39\n# Comments: 33",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -51,9 +51,9 @@
     },
     {
       "id": "005",
-      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
-      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
-      "summary": "Article URL: https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/\nComments URL: https://news.ycombinator.com/item?id=48297467\nPoints: 40\n# Comments: 11",
+      "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+      "title": "What Apple and Google are doing to push notifications",
+      "summary": "Article URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\nComments URL: https://news.ycombinator.com/item?id=48299220\nPoints: 91\n# Comments: 81",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -62,6 +62,39 @@
     },
     {
       "id": "006",
+      "url": "https://arxiv.org/abs/2605.21779",
+      "title": "Multi-Agent LLM System for Automated Vulnerability Discovery and Reproduction",
+      "summary": "Article URL: https://arxiv.org/abs/2605.21779\nComments URL: https://news.ycombinator.com/item?id=48297723\nPoints: 35\n# Comments: 4",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "007",
+      "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+      "title": "SimCity 3k in 4k (2025)",
+      "summary": "Article URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\nComments URL: https://news.ycombinator.com/item?id=48297645\nPoints: 209\n# Comments: 64",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "008",
+      "url": "https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/",
+      "title": "Gemini, Gophers, and Fingers. Oh My Alternative Internets Beyond HTTPS",
+      "summary": "Article URL: https://brennan.day/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https/\nComments URL: https://news.ycombinator.com/item?id=48297467\nPoints: 63\n# Comments: 27",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "009",
       "url": "https://www.ycombinator.com/companies/reflex/jobs",
       "title": "Reflex (YC W23) Is Hiring SWEs, Growth, and GTM Roles",
       "summary": "Article URL: https://www.ycombinator.com/companies/reflex/jobs\nComments URL: https://news.ycombinator.com/item?id=48297116\nPoints: 0\n# Comments: 0",
@@ -72,43 +105,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "007",
+      "id": "010",
       "url": "https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft",
       "title": "Canada to order military plane fleet from Sweden in shift from US suppliers",
-      "summary": "Article URL: https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft\nComments URL: https://news.ycombinator.com/item?id=48296994\nPoints: 133\n# Comments: 51",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "008",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "summary": "Article URL: https://simonwillison.net/2026/May/27/product-market-fit/\nComments URL: https://news.ycombinator.com/item?id=48296794\nPoints: 307\n# Comments: 374",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "009",
-      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "summary": "Article URL: https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/\nComments URL: https://news.ycombinator.com/item?id=48296649\nPoints: 389\n# Comments: 202",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "010",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08",
-      "title": "Stress disrupts hippocampal integration of overlapping events, memory inference",
-      "summary": "Article URL: https://www.science.org/doi/10.1126/sciadv.aea5496?user_id=66c4bf745d78644b3aa57b08\nComments URL: https://news.ycombinator.com/item?id=48296622\nPoints: 20\n# Comments: 0",
+      "summary": "Article URL: https://www.theguardian.com/world/2026/may/27/canada-sweden-saab-globaleye-aircraft\nComments URL: https://news.ycombinator.com/item?id=48296994\nPoints: 273\n# Comments: 188",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -117,6 +117,53 @@
     },
     {
       "id": "011",
+      "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
+      "title": "Rivian will deliver the first R2 SUVs on June 9",
+      "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Transportation",
+        "electric vehicles",
+        "EVs",
+        "Rivian"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "012",
+      "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "summary": "The Series B round was led by Battery Ventures.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Biotech & Health",
+        "Startups",
+        "Venture",
+        "cancer",
+        "clinical trials",
+        "Triomics"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "013",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Enterprise",
+        "TC",
+        "AI",
+        "Amazon",
+        "AWS",
+        "Snowflake",
+        "AI chips"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "014",
       "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
       "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
@@ -129,7 +176,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "015",
       "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
       "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
       "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
@@ -143,7 +190,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "016",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
@@ -165,7 +212,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "017",
       "url": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
       "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
       "summary": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
@@ -183,9 +230,9 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "018",
       "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
-      "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
       "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
       "date_published": "2026-05-27",
       "tags": [
@@ -200,7 +247,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "016",
+      "id": "019",
       "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
       "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
       "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
@@ -215,7 +262,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "017",
+      "id": "020",
       "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
       "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
       "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
@@ -231,7 +278,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "018",
+      "id": "021",
       "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
       "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
       "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stag",
@@ -256,7 +303,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "019",
+      "id": "022",
       "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
       "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
       "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
@@ -272,7 +319,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "020",
+      "id": "023",
       "url": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
       "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
       "summary": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
@@ -289,7 +336,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "021",
+      "id": "024",
       "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
       "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
       "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
@@ -306,7 +353,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "022",
+      "id": "025",
       "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
       "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
       "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in y",
@@ -332,7 +379,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "023",
+      "id": "026",
       "url": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
       "title": "Google just broke SEO. Here’s what replaces it.",
       "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant w",
@@ -349,7 +396,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "024",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
       "title": "China is increasingly keeping its best AI talent to itself",
       "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
@@ -363,7 +410,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "025",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
       "summary": "The database provider is eyeing a public debut within the next few years.",
@@ -380,24 +427,23 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "026",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
       "title": "YouTube will now automatically label AI videos",
       "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
       "date_published": "2026-05-27",
       "tags": [
-        "TC",
-        "Media & Entertainment",
         "AI",
-        "YouTube",
-        "media",
+        "Media & Entertainment",
+        "AI content",
         "Creators",
-        "AI content"
+        "media",
+        "YouTube"
       ],
       "_source": "TechCrunch"
     },
     {
-      "id": "027",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
       "title": "Tech CEOs are apparently suffering from AI psychosis",
       "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
@@ -412,54 +458,6 @@
         "tech layoffs"
       ],
       "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "summary": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Fintech",
-        "AI",
-        "payments",
-        "Robinhood",
-        "AI agents",
-        "AI stock trading"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/27/airbnb-backed-weroad-raises-58m-to-take-its-group-travel-platform-to-the-us/",
-      "title": "Airbnb-backed WeRoad raises $58M to take its group travel platform to the US",
-      "summary": "WeRoad, the Milan-based group travel startup, has raised a $58 million Series C round led by Airbnb as it prepares for its first major expansion outside Europe. The funding brings the company’s total capital raised to roughly $100 million and will finance WeRoad’s push into the U.S., beginning with ",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Apps",
-        "Social",
-        "Startups",
-        "Airbnb",
-        "Funding",
-        "Series C funding"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-      "title": "Roku OS’s home screen now features a large, permanent ad",
-      "summary": "“I don't want recommendations! I know what I want to watch.\"",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Tech",
-        "ads",
-        "roku",
-        "software",
-        "streaming",
-        "TVs"
-      ],
-      "_source": "Ars Technica"
     }
   ]
 }
