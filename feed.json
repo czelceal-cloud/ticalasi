@@ -7,39 +7,6 @@
   "items": [
     {
       "id": "001",
-      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-      "title": "RamAIn (YC W26) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
-      "date_published": "2026-05-28",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "002",
-      "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
-      "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-      "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 64\n# Comments: 30",
-      "date_published": "2026-05-28",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
-      "url": "https://mlsu.io/posts/day-off/",
-      "title": "Can we have the day off?",
-      "summary": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 657\n# Comments: 387",
-      "date_published": "2026-05-28",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
       "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
       "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
       "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
@@ -53,7 +20,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "005",
+      "id": "002",
       "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
       "title": "Why Google’s AI can’t spell Google (or anything else)",
       "summary": "Google is embarrassing itself, again.",
@@ -66,7 +33,124 @@
       "_source": "TechCrunch"
     },
     {
+      "id": "003",
+      "url": "https://www.wired.com/story/expedia-coupon/",
+      "title": "Expedia Coupons: 75% Off",
+      "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "004",
+      "url": "https://www.wired.com/story/surfshark-coupon/",
+      "title": "Surfshark Promo Codes: 87% Off | June 2026",
+      "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "005",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "title": "Priceline Promo Codes & Coupons: 10% Off June",
+      "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
       "id": "006",
+      "url": "https://www.wired.com/story/brooks-promo-code/",
+      "title": "20% Off Brooks Promo Code | June 2026",
+      "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "007",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "title": "Dell Coupon Codes: 20% Off for June 2026",
+      "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "008",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "title": "B&H Photo Promo Codes and Deals This June",
+      "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "009",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "title": "Herman Miller Promo Codes: 40% Off June",
+      "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture this month.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "010",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "title": "Altra Running Promo Codes June 2026",
+      "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Gear",
+        "Gear / Deals",
+        "coupons",
+        "Shopping",
+        "Coupons"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "011",
       "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
       "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
       "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
@@ -85,52 +169,51 @@
       "_source": "Wired"
     },
     {
-      "id": "007",
-      "url": "https://dev.to/surajkgoyal/i-built-an-mcp-server-that-gives-ai-persistent-memory-of-your-sql-database-3d2a",
-      "title": "I built an MCP server that gives AI persistent memory of your SQL database",
-      "summary": "A while ago I tried to build a local coding assistant. I downloaded Qwen3, fired it up on my MacBook with 16GB of RAM, and within a day realized the output quality was nowhere close to Claude or GPT-5. The model could fit. It just couldn't compete.\n\nSo I changed the question.\n\nIf I can't make the mo",
+      "id": "012",
+      "url": "https://dev.to/gnana_6392e836fd500a957dc/software-engineer-vs-frontend-developer-2026-comparison-59mc",
+      "title": "Software Engineer vs Frontend Developer: 2026 Comparison",
+      "summary": "The Short Answer\n\n\nSoftware Engineers earn a median $143,000 US base vs. $130,000 for Frontend Developers, a 10% premium. But salary is the secondary story. The primary story is volume: there are 32 active Software Engineer postings for every Frontend Developer posting on the InterviewStack.io job b",
       "date_published": "2026-05-28",
       "tags": [
-        "ai",
-        "mcp",
-        "python",
-        "showdev"
+        "softwareengineering",
+        "frontend",
+        "javascript",
+        "react"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "008",
-      "url": "https://dev.to/reyazk08/no-code-strategy-builder-turning-a-trading-idea-into-testable-rules-31ji",
-      "title": "No-Code Strategy Builder: Turning a Trading Idea Into Testable Rules",
-      "summary": "Most trading ideas start as vague thoughts.\n\n\"Buy when RSI is oversold and price bounces from support.\"\n\nIt sounds reasonable. But the moment you try to test or automate it, the ambiguity becomes obvious. What exactly counts as oversold? How is support defined? What qualifies as a bounce? When do yo",
+      "id": "013",
+      "url": "https://dev.to/akki907/harness-engineering-for-ai-agents-16a0",
+      "title": "Harness Engineering for AI Agents",
+      "summary": "Agent = Model + Harness. If you're not the model, you're the harness. \n\n\n \n\n\n\n\nIf you have shipped an AI agent that worked brilliantly in a demo and then fell apart in production, you have already met the harness problem. The model was probably fine. The scaffolding around it — instructions, tools, ",
       "date_published": "2026-05-28",
       "tags": [
-        "algotrading",
-        "beginners",
-        "automation",
-        "trading"
+        "llm",
+        "agents",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "009",
-      "url": "https://dev.to/pickuma/v0-by-vercel-review-ai-generated-react-components-that-actually-ship-25d1",
-      "title": "v0 by Vercel Review: AI-Generated React Components That Actually Ship",
-      "summary": "I opened v0, typed \"a settings page with profile editing, notification preferences, and a connected accounts section,\" and watched it generate a fully functional three-tab settings interface in under 40 seconds. The component used shadcn/ui primitives, Tailwind utility classes, and TypeScript types ",
+      "id": "014",
+      "url": "https://dev.to/himanshu_748/building-reporank-the-open-source-impact-funding-readiness-engine-47k9",
+      "title": "Building RepoRank — The Open Source Impact & Funding Readiness Engine",
+      "summary": "A journey into bridging open-source metrics, cross-source SQL joins, and AI-driven grant matching.\n\n\n\n\n\n  \n  \n  The Open Source Funding Crisis\n\n\nEvery day, developers build and maintain critical pieces of open-source software that power global infrastructure. Yet, one of the biggest challenges in th",
       "date_published": "2026-05-28",
       "tags": [
-        "ai",
+        "opensource",
         "webdev",
-        "tutorial",
-        "productivity"
+        "showdev",
+        "ai"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "010",
-      "url": "https://dev.to/phuongtran/export-all-of-andoid-apps-61d",
-      "title": "Export all of Andoid apps",
-      "summary": "Download: App List\n\nSau khi Export một file .html thì bạn mở lên sẽ không thấy app icons đâu. Hãy chạy đoạn script Python dưới đây để có thể **bổ sung app icons vào Android app list*.\n\nĐể tìm kiếm và bổ sung tự động icon thực tế của ứng dụng (từ Google Play Store hoặc các nguồn khác trên mạng) vào f",
+      "id": "015",
+      "url": "https://dev.to/gramli/building-with-gemma-4-e2b-showed-me-that-small-models-are-more-reliable-when-the-backend-3lka",
+      "title": "Building with Gemma 4 E2B showed me that small models are more reliable when the backend handles orchestration.",
+      "summary": "How to Use Gemma 4 E2B the Smart Way: Family Trip Advisor\n\n\n  \n      Gemma 4 Challenge: Build With Gemma 4 Submission\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Daniel Balcarek\n            \n            \n              \n          ",
       "date_published": "2026-05-28",
       "tags": [
         "Dev.to"
@@ -138,119 +221,116 @@
       "_source": "Dev.to"
     },
     {
-      "id": "011",
-      "url": "https://dev.to/pickuma/github-copilot-workspace-review-task-level-ai-coding-in-the-browser-11d",
-      "title": "GitHub Copilot Workspace Review: Task-Level AI Coding in the Browser",
-      "summary": "I tested GitHub Copilot Workspace on 12 real tasks across three repositories in May 2026 — a mix of bug fixes, feature additions, and documentation updates. My goal was to figure out whether the spec-first, browser-based workflow actually produces useful code, or whether it is a demo that falls apar",
-      "date_published": "2026-05-28",
-      "tags": [
-        "ai",
-        "webdev",
-        "tutorial",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "012",
-      "url": "https://dev.to/bspann/azure-container-apps-express-the-agent-first-platform-youve-been-waiting-for-2opf",
-      "title": "Azure Container Apps Express: The Agent-First Platform You've Been Waiting For",
-      "summary": "I've been running AI workloads on Azure Container Apps for over a year. Every time I spin up a new agent backend, the ritual is the same: create an environment, configure networking, set scaling rules, wire up health probes, then deploy the actual container. For a prototype agent that might live for",
-      "date_published": "2026-05-28",
-      "tags": [
-        "azure",
-        "ai",
-        "containers",
-        "devops"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "013",
-      "url": "https://dev.to/sripadh_sujith_1487e8db18/vibe-coding-is-fun-until-production-2e4l",
-      "title": "Vibe Coding Is Fun Until Production",
-      "summary": "🚀 The Golden Age of “Just Ship It”\n\n\nA few months ago, I started building side projects differently.\n\nInstead of:\n\n\nPlanning architecture\nReading documentation\nWriting every function manually\n\n\nI started doing this:\n\n\n“Build me a responsive dashboard with authentication, dark mode, PostgreSQL integr",
-      "date_published": "2026-05-28",
-      "tags": [
-        "ai",
-        "programming",
-        "webdev",
-        "productivity"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "014",
-      "url": "https://dev.to/pickuma/nvidia-cutlass-high-performance-cuda-templates-for-ai-linear-algebra-52ec",
-      "title": "NVIDIA CUTLASS: High-Performance CUDA Templates for AI Linear Algebra",
-      "summary": "If you've trained a transformer in the last three years, your GPU spent most of its wall-clock time inside a matrix multiplication. The kernels doing that work were probably written by cuBLAS, generated by a compiler stack like Triton, or hand-assembled on top of NVIDIA's CUTLASS templates. CUTLASS ",
-      "date_published": "2026-05-28",
-      "tags": [
-        "webdev",
-        "devops",
-        "cloud",
-        "astro"
-      ],
-      "_source": "Dev.to"
-    },
-    {
-      "id": "015",
-      "url": "https://dev.to/energetekk/the-creator-told-2000-people-to-ship-in-30-days-nobody-built-the-structure-for-it-1oc5",
-      "title": "The creator told 2,000 people to ship in 30 days. Nobody built the structure for it.",
-      "summary": "The advice was correct.\n\nThat's what makes it interesting.\n\nA creator with a large audience recently described the problem precisely: unused project ideas atrophy. They gave the prescription: externalize the idea, commit to a 30-60-90 day sprint, get into a community that holds you accountable, trea",
-      "date_published": "2026-05-28",
-      "tags": [
-        "productivity",
-        "webdev",
-        "career",
-        "programming"
-      ],
-      "_source": "Dev.to"
-    },
-    {
       "id": "016",
-      "url": "https://dev.to/kadhamvj23/ec2-beginner-guide-launch-your-first-aws-instance-5gjp",
-      "title": "EC2 Beginner Guide: Launch Your First AWS Instance",
-      "summary": "Introduction\n\n\nIn my previous IAM article we learnt basics of IAM and how to create Users, Groups and attach Policies. You can refer here: https://dev.to/kadhamvj23/aws-identity-and-access-management-explained-for-beginners-cn7\n\nAfter setting up secure access to our AWS account using IAM, the next q",
+      "url": "https://dev.to/om_prakash_3311f8a4576605/color-grading-at-scale-how-i-stopped-wrestling-with-imagemagick-and-just-used-an-api-166c",
+      "title": "Color Grading at Scale: How I Stopped Wrestling with ImageMagick and Just Used an API",
+      "summary": "I've been building a tool for a small e-commerce brand that sells handmade ceramics. Their problem: product photos come in from three different photographers with three completely different color treatments. One shoots warm and golden, one shoots cool and clinical, the other shoots whatever mood the",
       "date_published": "2026-05-28",
       "tags": [
-        "aws",
-        "ec2",
-        "beginners",
-        "cloudcomputing"
+        "ai",
+        "showdev",
+        "webdev",
+        "python"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "017",
-      "url": "https://dev.to/jaisraj/jaiscloud-a-free-single-binary-aws-emulator-in-go-1m40",
-      "title": "JaisCloud — A Free, Single-Binary AWS Emulator in Go",
-      "summary": "Why We Built JaisCloud — A Free, Single-Binary AWS Emulator in Go\n\n\nIf you've ever tried to test AWS-dependent code locally, you've probably reached \nfor LocalStack. It works — but it comes with baggage: Python runtime, Docker \ndependency, and the features most teams actually need locked behind a Pr",
+      "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-78-stop-slop-a-skill-file-that-teaches-ai-to-eliminate-its-2nci",
+      "title": "One Open Source Project a Day (No. 78): stop-slop - A Skill File That Teaches AI to Eliminate Its Own Writing Tells",
+      "summary": "Introduction\n\n\n\n\"If it sounds like a pull-quote, rewrite it.\"\n\n\nThis is the 78th article in the \"One Open Source Project a Day\" series. Today's project is stop-slop.\n\nYou know the writing. It opens with \"In today's fast-paced world...\" The second paragraph has \"it's worth noting that.\" The middle is",
       "date_published": "2026-05-28",
       "tags": [
-        "aws",
-        "testing",
-        "aiops",
-        "devops"
+        "opensource",
+        "ai",
+        "claude",
+        "promptengineering"
       ],
       "_source": "Dev.to"
     },
     {
       "id": "018",
-      "url": "https://dev.to/pickuma/cursor-ide-review-what-makes-it-a-genuinely-different-ai-code-editor-jj4",
-      "title": "Cursor IDE Review: What Makes It a Genuinely Different AI Code Editor",
-      "summary": "I switched my primary editor to Cursor in January of 2026 after spending three years on VS Code with GitHub Copilot. The reason was not the chatbot sidebar — every editor has one of those now — but the tab completion model that felt qualitatively different the first time I used it. After six months ",
+      "url": "https://dev.to/rkrisa/i-added-a-context-resolver-before-an-ai-sales-agent-replies-2o5f",
+      "title": "I added a context resolver before an AI sales agent replies",
+      "summary": "Most AI sales agents fail before the model writes a single word.\n\nThe failure is not always the prompt. It is usually the context.\n\nIn a real chat-commerce workflow, a lead can arrive with several competing signals:\n\n\nthe latest customer message;\nCRM stage and owner;\nprevious conversation history;\nc",
       "date_published": "2026-05-28",
       "tags": [
         "ai",
+        "automation",
+        "crm",
+        "architecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "019",
+      "url": "https://dev.to/nick_johnson/instagram-basic-display-api-is-dead-build-what-works-instead-4ifm",
+      "title": "Instagram Basic Display API Is Dead. Build What Works Instead",
+      "summary": "Your Instagram Integration Broke. Here Is What Happened.\nOne morning in December 2024, Instagram feeds went blank across thousands of apps. Profile data returned errors. Analytics dashboards stalled. And support tickets started arriving before anyone had an answer.\nNot a bug. Not an outage. Meta did",
+      "date_published": "2026-05-28",
+      "tags": [
+        "techtalks"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "020",
+      "url": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
+      "title": "React is nothing. And that's the point.",
+      "summary": "React no es nada.\n\nNo me refiero a que sea inútil. Me refiero a que React, en su núcleo, no contiene ninguna opinión sobre qué estás construyendo. Es un conjunto de cubos. Cubos vacíos. Te los venden como \"modularización\", como \"componentes reutilizables\", como \"arquitectura limpia\" — y sí, todo eso",
+      "date_published": "2026-05-28",
+      "tags": [
+        "react",
+        "philosophy",
         "webdev",
+        "javascript"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "021",
+      "url": "https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o",
+      "title": "Live chain-of-thought in a chatbot: how to actually stream the tool calls (not just the text)",
+      "summary": "Most \"streaming\" LLM chatbots stream just the text. The model says \"I'll search for that…\" and then you wait 6 seconds while the tokens dribble in. The actual search? Hidden. The 3 scrapes it did to fact-check? Hidden. You're staring at a typing indicator that doesn't tell you anything about what's ",
+      "date_published": "2026-05-28",
+      "tags": [
+        "ai",
+        "python",
+        "fastapi",
+        "react"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "022",
+      "url": "https://dev.to/highcenburg/how-i-added-live-charts-to-the-django-admin-without-installing-a-single-package-41b7",
+      "title": "How I Added Live Charts to the Django Admin Without Installing a Single Package",
+      "summary": "The Django admin is a powerful tool that most developers underuse. Out of the box it gives you a filterable, searchable table for every model — but it stops short of anything visual. If you want to see trends over time, you're staring at rows.\n\nI recently added a PageVisit model to my portfolio back",
+      "date_published": "2026-05-28",
+      "tags": [
+        "python",
+        "django",
         "tutorial",
         "productivity"
       ],
       "_source": "Dev.to"
     },
     {
-      "id": "019",
+      "id": "023",
+      "url": "https://dev.to/rtnjt_bot/i-got-tired-of-leetcode-trackers-selling-my-data-so-i-built-my-own-262a",
+      "title": "I Got Tired of LeetCode Trackers Selling My Data, So I Built My Own.",
+      "summary": "> \"Your coding journey is personal. Your data should be too.\"\n\n\n\n\n\n\n\n\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nHere's a question: when you solve a LeetCode problem at 2 AM, who else knows about it?\n\nIf you're using any of the popular LeetCode tracking tools, the answer is... a lot of people. Your ",
+      "date_published": "2026-05-28",
+      "tags": [
+        "opensource",
+        "extensions",
+        "webdev",
+        "productivity"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "024",
       "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
       "title": "Google worker charged with using internal data to make $1.2m on bets",
       "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
@@ -261,84 +341,7 @@
       "_source": "BBC News"
     },
     {
-      "id": "020",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
-      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
-      "summary": "Article URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html\nComments URL: https://news.ycombinator.com/item?id=48302151\nPoints: 163\n# Comments: 89",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "021",
-      "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
-      "title": "Pelica (YC P25) Is Hiring",
-      "summary": "Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=48301851\nPoints: 0\n# Comments: 0",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "022",
-      "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
-      "title": "Show HN: Open-Source AI Racing Harness",
-      "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If you’re competing, check out our simulation harness to tide you over, built to match the published compe",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "023",
-      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-      "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label...\n\nComments URL: https://news.ycombinator.com/item?id=48299753\nPoints: 596\n# Comments: 358",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "024",
-      "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
-      "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "summary": "Article URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/\nComments URL: https://news.ycombinator.com/item?id=48299638\nPoints: 104\n# Comments: 35",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
       "id": "025",
-      "url": "https://sverre.me/blog/rust-on-kindle/",
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "summary": "Article URL: https://sverre.me/blog/rust-on-kindle/\nComments URL: https://news.ycombinator.com/item?id=48299623\nPoints: 114\n# Comments: 13",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "026",
-      "url": "https://2earth.github.io/website/20260525.html",
-      "title": "On Labubu and the Hyperreal",
-      "summary": "Article URL: https://2earth.github.io/website/20260525.html\nComments URL: https://news.ycombinator.com/item?id=48299335\nPoints: 74\n# Comments: 83",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "027",
       "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
       "title": "Rivian will deliver the first R2 SUVs on June 9",
       "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
@@ -352,7 +355,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "028",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
       "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
       "summary": "The Series B round was led by Battery Ventures.",
@@ -368,7 +371,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "029",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
@@ -385,7 +388,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "030",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
       "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
@@ -394,6 +397,42 @@
         "AI",
         "AI adoption",
         "Remote"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "029",
+      "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
+      "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
+      "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Security",
+        "cybersecurity",
+        "data exposure",
+        "Exclusive"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "030",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+      "date_published": "2026-05-27",
+      "tags": [
+        "AI",
+        "Apps",
+        "Media & Entertainment",
+        "Social",
+        "Creators",
+        "Facebook",
+        "Instagram",
+        "Meta",
+        "meta ai",
+        "social media",
+        "subscriptions",
+        "WhatsApp"
       ],
       "_source": "TechCrunch"
     }
