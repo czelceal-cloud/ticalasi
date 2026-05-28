@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Commission fines Temu €200M for breaching the Digital Services Act",
-    "summary": "Article URL: https://ec.europa.eu/commission/presscorner/home/en\nComments URL: https://news.ycombinator.com/item?id=48307237\nPoints: 13\n# Comments: 2",
-    "url": "https://ec.europa.eu/commission/presscorner/home/en",
+    "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
+    "summary": "Article URL: https://lenz.io/research/llm-disagreement\nComments URL: https://news.ycombinator.com/item?id=48307887\nPoints: 186\n# Comments: 120",
+    "url": "https://lenz.io/research/llm-disagreement",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-    "summary": "Article URL: https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/\nComments URL: https://news.ycombinator.com/item?id=48307231\nPoints: 53\n# Comments: 14",
-    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "title": "Commission fines Temu €200M for breaching the Digital Services Act",
+    "summary": "Article URL: https://ec.europa.eu/commission/presscorner/home/en\nComments URL: https://news.ycombinator.com/item?id=48307237\nPoints: 59\n# Comments: 40",
+    "url": "https://ec.europa.eu/commission/presscorner/home/en",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "AI sticker shock hits corporate America",
-    "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs\nComments URL: https://news.ycombinator.com/item?id=48307098\nPoints: 35\n# Comments: 3",
-    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+    "summary": "Article URL: https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/\nComments URL: https://news.ycombinator.com/item?id=48307231\nPoints: 177\n# Comments: 85",
+    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -35,7 +35,7 @@
   {
     "id": "004",
     "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\nComments URL: https://news.ycombinator.com/item?id=48305446\nPoints: 90\n# Comments: 28",
+    "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\nComments URL: https://news.ycombinator.com/item?id=48305446\nPoints: 121\n# Comments: 34",
     "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
     "date": "2026-05-28",
     "source": "Hacker News",
@@ -46,7 +46,7 @@
   {
     "id": "005",
     "title": "Hallucinate – Massively Multiplayer Online Rave",
-    "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 237\n# Comments: 98",
+    "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 281\n# Comments: 118",
     "url": "https://hallucinate.site",
     "date": "2026-05-28",
     "source": "Hacker News",
@@ -57,7 +57,7 @@
   {
     "id": "006",
     "title": "Biff is a command line datetime Swiss army knife",
-    "summary": "Article URL: https://github.com/BurntSushi/biff\nComments URL: https://news.ycombinator.com/item?id=48303881\nPoints: 43\n# Comments: 25",
+    "summary": "Article URL: https://github.com/BurntSushi/biff\nComments URL: https://news.ycombinator.com/item?id=48303881\nPoints: 68\n# Comments: 32",
     "url": "https://github.com/BurntSushi/biff",
     "date": "2026-05-28",
     "source": "Hacker News",
@@ -79,7 +79,7 @@
   {
     "id": "008",
     "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 208\n# Comments: 118",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 254\n# Comments: 152",
     "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
     "date": "2026-05-28",
     "source": "Hacker News",
@@ -89,6 +89,57 @@
   },
   {
     "id": "009",
+    "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
+    "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
+    "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "Startups",
+      "Transportation",
+      "Crypto",
+      "Climate",
+      "Fintech",
+      "Biotech & Health",
+      "Venture",
+      "AI",
+      "Robotics",
+      "Fundraising",
+      "TechCrunch Disrupt 2026"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Visa invests in Replit to power agentic payments for developers",
+    "summary": "Visa said that over 1,000 employees has been using Replit for prototyping and development",
+    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "TC",
+      "AI",
+      "visa",
+      "Replit",
+      "agentic payments"
+    ]
+  },
+  {
+    "id": "011",
+    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
+    "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
+    "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "General COmpute",
+      "SambaNova"
+    ]
+  },
+  {
+    "id": "012",
     "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
     "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
     "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
@@ -104,7 +155,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "013",
     "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
     "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
     "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
@@ -120,7 +171,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "014",
     "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
     "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
     "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
@@ -134,7 +185,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "015",
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "summary": "Google is embarrassing itself, again.",
     "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
@@ -147,7 +198,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "016",
     "title": "Forecasters predict below-average hurricane season, advise against complacency",
     "summary": "Forecasters say expected El Niño should temper hurricanes in Atlantic, urge preparedness.",
     "url": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
@@ -161,7 +212,68 @@
     ]
   },
   {
-    "id": "014",
+    "id": "017",
+    "title": "These are my favorite Switch 2 accessories",
+    "summary": "The Nintendo Switch 2 can be enjoyed right out of the box, but it’s even better with the right accessories. Some of these add-ons are more crucial than others, especially if you’re deciding what to buy early on. For example, a case and a screen protector can keep your console safe from scuffs, scrat",
+    "url": "https://www.theverge.com/buying-guides/938252/best-switch-2-accessories",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Buying Guides",
+      "Entertainment",
+      "Gadgets",
+      "Gaming",
+      "Nintendo",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "018",
+    "title": "Qualcomm promises $300 Windows laptops with new Snapdragon C",
+    "summary": "They started at $1,000. Then $700. Then $600 budget machines. Now, Qualcomm says the price of its Arm-based Windows laptops will hit $300 this year. Even though RAMageddon has yet to subside and PC prices keep climbing, the company says it's built a new budget laptop platform called Snapdragon C - \"",
+    "url": "https://www.theverge.com/tech/938665/qualcomm-promises-300-windows-laptops-with-new-snapdragon-c",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Laptops",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "019",
+    "title": "Intel’s first handheld gaming chip is the Arc G3, and this Acer is using it",
+    "summary": "Intel is barely in the handheld gaming PC space - but that might be about to change. After the embarrassment that was the first MSI Claw and the excellent MSI Claw 8 AI Plus that followed it, Intel announced it would create custom handheld gaming chips. Today, it's formally announcing them as the Ar",
+    "url": "https://www.theverge.com/tech/938692/intel-arc-g3-extreme-handheld-gaming",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Gaming",
+      "News",
+      "PC Gaming",
+      "Tech"
+    ]
+  },
+  {
+    "id": "020",
+    "title": "Xiaomi 17T Pro arrives with the company’s biggest battery yet",
+    "summary": "Xiaomi has announced the 17T and 17T Pro, two cheaper spins on its 17 series flagships. As is usual for the T-series, the focus is more on performance than photography, with the biggest batteries Xiaomi has included on any of its phones outside China yet. The 17T includes a 6,500mAh silicon-carbon b",
+    "url": "https://www.theverge.com/tech/938795/xiaomi-17t-pro-launch-specs-battery-price",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Mobile",
+      "News",
+      "Phones",
+      "Tech",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "021",
     "title": "They’ve finally made the Oura Ring smaller and lighter",
     "summary": "Wherever I go, whatever I do, people point at my finger and ask, \"Is that an Oura Ring?\" Lots of people find they like the design, and they tell me why they're thinking about switching to a smart ring from a smartwatch. But the people who scrunch up their noses? They usually say something along […]",
     "url": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
@@ -176,7 +288,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "022",
     "title": "Kia’s flagship EV has a battery problem",
     "summary": "I first realized there was an issue with Kia's flagship EV9 when I tried to unlock my car last year. The hulking three-row SUV was sitting on my driveway completely dead. The key didn't work, the app connection to the car was gone, and I was already late to an appointment. Luckily, I had prepared […",
     "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
@@ -189,7 +301,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "023",
     "title": "Temu fined more than $230 million by EU over illegal product sales",
     "summary": "Temu has been fined €200 million (about $232 million) by the European Commission after it found that consumers are \"very likely to encounter illegal items\" on the popular Chinese e-commerce platform. According to the commission, Temu breached Digital Service Act (DSA) rules by failing to identify an",
     "url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
@@ -206,7 +318,7 @@
     ]
   },
   {
-    "id": "017",
+    "id": "024",
     "title": "Gemini for Google Home can now use your cameras to trigger automations",
     "summary": "Google Home is rolling out a new Gemini-powered automation feature that can trigger smart home routines based on what your security cameras can see. This is one of several updates announced yesterday for Gemini for Home, including enhanced voice command support and general stability improvements, fo",
     "url": "https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations",
@@ -221,7 +333,7 @@
     ]
   },
   {
-    "id": "018",
+    "id": "025",
     "title": "YouTube will let you ask AI to make a custom video feed",
     "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTu",
     "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
@@ -235,7 +347,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "026",
     "title": "The golden age of handheld gaming is already over",
     "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a Steam Deck, agape that such a rich world could comfortably fit between my two h",
     "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
@@ -249,7 +361,29 @@
     ]
   },
   {
-    "id": "020",
+    "id": "027",
+    "title": "Oura’s New Ring 5 Is Smaller and Lighter—and Adds an AI Health Coach",
+    "summary": "It’s slimmer, lighter, and more durable. But the real upgrade is Oura’s push into AI-powered health insights and proactive monitoring.",
+    "url": "https://www.wired.com/story/oura-ring-5/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Health and Fitness",
+      "Gear / Products / Lifestyle",
+      "gear",
+      "Shopping",
+      "Wearables",
+      "health",
+      "fitness",
+      "Smart Rings",
+      "Fitness Trackers",
+      "Ring Leader"
+    ]
+  },
+  {
+    "id": "028",
     "title": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
     "summary": "Created from fabric scraps that would otherwise end up in a landfill, this thoughtfully constructed bag looks great and can carry everything you need for a weeklong trip.",
     "url": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
@@ -272,7 +406,7 @@
     ]
   },
   {
-    "id": "021",
+    "id": "029",
     "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
     "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
     "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
@@ -291,7 +425,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "030",
     "title": "Canon EOS R6 Mark III Review: A Serious Upgrade",
     "summary": "With sharper resolution and lightning-fast performance, Canon’s latest full-frame mirrorless punches well above its class.",
     "url": "https://www.wired.com/review/canon-eos-r6-mark-iii-camera/",
@@ -306,152 +440,6 @@
       "Reviews",
       "Shopping",
       "Product Review"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "These Ebola Researchers Are Stuck in US Due to Trump’s Funding Cuts",
-    "summary": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
-    "url": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Health",
-      "Ebola",
-      "Donald Trump",
-      "infectious disease",
-      "Africa",
-      "diseases",
-      "public health",
-      "Ebola Outbreak"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-    "summary": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
-    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech",
-      "Amazon",
-      "AWS",
-      "data centers",
-      "Cloud Computing",
-      "research",
-      "math"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
-    "summary": "Customer data from more than 350 hotels around the world may have been accessed as part of realistic reservation-hijacking scams.",
-    "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "security",
-      "Crime",
-      "hacks",
-      "privacy",
-      "cybersecurity",
-      "scams",
-      "Travel",
-      "phishing",
-      "Unwelcome Guest"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "How Hot Is It Really at the French Open? Check the Wet Bulb Globe Temperature",
-    "summary": "Meet the wet bulb globe temperature, the ominous measure that shows when it's too hot to go outside.",
-    "url": "https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "climate",
-      "weather",
-      "extreme weather",
-      "climate change",
-      "france",
-      "Sports",
-      "Soft Serve"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Ballots Have Been Seized Across the US. No One Knows What Will Happen Next",
-    "summary": "So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.",
-    "url": "https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Politics",
-      "elections",
-      "politics",
-      "voting",
-      "conspiracy theories",
-      "Donald Trump",
-      "government",
-      "2026 Elections"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
-    "summary": "The beleaguered luxury phone maker is pushing the AlphaFold, which has decent specs and comes with Vertu’s new Hermes Agent on board, to wealthy would-be buyers.",
-    "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones",
-      "phones",
-      "smartphones",
-      "Android",
-      "Shopping",
-      "luxury",
-      "design",
-      "Time to Fold"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Expedia Coupons: 75% Off",
-    "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-    "url": "https://www.wired.com/story/expedia-coupon/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Surfshark Promo Codes: 87% Off | June 2026",
-    "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
-    "url": "https://www.wired.com/story/surfshark-coupon/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
     ]
   }
 ]
