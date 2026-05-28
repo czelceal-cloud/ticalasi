@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "Dynamic Workflows in Claude Code",
-    "summary": "Article URL: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code\nComments URL: https://news.ycombinator.com/item?id=48311705\nPoints: 60\n# Comments: 41",
-    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+    "title": "Nitpicking the shell history scene in 'Tron: Legacy'",
+    "summary": "Article URL: https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/\nComments URL: https://news.ycombinator.com/item?id=48314002\nPoints: 14\n# Comments: 1",
+    "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Claude Opus 4.8",
-    "summary": "Article URL: https://www.anthropic.com/news/claude-opus-4-8\nComments URL: https://news.ycombinator.com/item?id=48311647\nPoints: 402\n# Comments: 263",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "title": "Separate the Cord from the Device",
+    "summary": "Article URL: https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html\nComments URL: https://news.ycombinator.com/item?id=48313990\nPoints: 6\n# Comments: 0",
+    "url": "https://bookofjoe2.blogspot.com/2026/05/blog-post_27.html",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Trivial Pursuits",
-    "summary": "Article URL: https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits\nComments URL: https://news.ycombinator.com/item?id=48311539\nPoints: 7\n# Comments: 1",
-    "url": "https://www.lrb.co.uk/the-paper/v48/n10/david-runciman/trivial-pursuits",
+    "title": "Just Use Postgres for Durable Workflows",
+    "summary": "Article URL: https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution\nComments URL: https://news.ycombinator.com/item?id=48313530\nPoints: 90\n# Comments: 29",
+    "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -34,9 +34,9 @@
   },
   {
     "id": "004",
-    "title": "The Permanent Upper Crow",
-    "summary": "Article URL: https://permanent-upper-crow.jasonwu.ink/\nComments URL: https://news.ycombinator.com/item?id=48310280\nPoints: 49\n# Comments: 16",
-    "url": "https://permanent-upper-crow.jasonwu.ink/",
+    "title": "About LLMs at Zig Days",
+    "summary": "Article URL: https://kristoff.it/blog/llms-at-zig-days/\nComments URL: https://news.ycombinator.com/item?id=48313219\nPoints: 53\n# Comments: 27",
+    "url": "https://kristoff.it/blog/llms-at-zig-days/",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -45,9 +45,9 @@
   },
   {
     "id": "005",
-    "title": "Show HN: Ktx – Open-source executable context layer for data agents",
-    "summary": "Hi HN, we’re open-sourcing ktx. It’s an executable context layer that makes agents reliable on your data stack.We built it after going through the experience of building production-grade data agents for dozens of companies. If you’ve also tried building them, or simply tried using Claude Code or Cod",
-    "url": "https://github.com/Kaelio/ktx",
+    "title": "The Lone Lisp Heap",
+    "summary": "Article URL: https://www.matheusmoreira.com/articles/lone-lisp-heap\nComments URL: https://news.ycombinator.com/item?id=48313142\nPoints: 6\n# Comments: 2",
+    "url": "https://www.matheusmoreira.com/articles/lone-lisp-heap",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -56,9 +56,9 @@
   },
   {
     "id": "006",
-    "title": "Creusot helps you prove your Rust code is correct",
-    "summary": "Article URL: https://github.com/creusot-rs/creusot/tree/master\nComments URL: https://news.ycombinator.com/item?id=48309645\nPoints: 52\n# Comments: 5",
-    "url": "https://github.com/creusot-rs/creusot/tree/master",
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "summary": "Article URL: https://www.anthropic.com/news/series-h\nComments URL: https://news.ycombinator.com/item?id=48313048\nPoints: 113\n# Comments: 80",
+    "url": "https://www.anthropic.com/news/series-h",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -67,9 +67,9 @@
   },
   {
     "id": "007",
-    "title": "New York passes pied-a-terre tax",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html\nComments URL: https://news.ycombinator.com/item?id=48309584\nPoints: 186\n# Comments: 232",
-    "url": "https://www.cnbc.com/2026/05/28/new-york-mamdani-pied-a-terre-tax-passes.html",
+    "title": "Bitburner, programming-based incremental game",
+    "summary": "Article URL: https://bitburner-official.github.io/\nComments URL: https://news.ycombinator.com/item?id=48312616\nPoints: 18\n# Comments: 4",
+    "url": "https://bitburner-official.github.io/",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -78,9 +78,9 @@
   },
   {
     "id": "008",
-    "title": "EU fines Temu €200M for allowing sale of illegal products",
-    "summary": "Article URL: https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o\nComments URL: https://news.ycombinator.com/item?id=48309302\nPoints: 169\n# Comments: 101",
-    "url": "https://www.bbc.co.uk/news/articles/c1k2ydn1rz8o",
+    "title": "I hated writing–until I learned there's a science to it(2024)",
+    "summary": "Article URL: https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it\nComments URL: https://news.ycombinator.com/item?id=48312528\nPoints: 29\n# Comments: 9",
+    "url": "https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -89,9 +89,9 @@
   },
   {
     "id": "009",
-    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-    "summary": "Article URL: https://llmgame.scalex.dev\nComments URL: https://news.ycombinator.com/item?id=48308376\nPoints: 92\n# Comments: 47",
-    "url": "https://llmgame.scalex.dev",
+    "title": "Legislation Killed Would Have Effectively Blocked Police LPR, Including Flock",
+    "summary": "Article URL: https://ipvm.com/reports/bipartisan-alpr-amendment-killed\nComments URL: https://news.ycombinator.com/item?id=48312082\nPoints: 44\n# Comments: 22",
+    "url": "https://ipvm.com/reports/bipartisan-alpr-amendment-killed",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -100,9 +100,9 @@
   },
   {
     "id": "010",
-    "title": "Disagreement among frontier LLMs on real-world fact-checks",
-    "summary": "Article URL: https://lenz.io/research/llm-disagreement\nComments URL: https://news.ycombinator.com/item?id=48307887\nPoints: 450\n# Comments: 308",
-    "url": "https://lenz.io/research/llm-disagreement",
+    "title": "Dynamic Workflows in Claude Code",
+    "summary": "Article URL: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code\nComments URL: https://news.ycombinator.com/item?id=48311705\nPoints: 97\n# Comments: 87",
+    "url": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -111,6 +111,102 @@
   },
   {
     "id": "011",
+    "title": "Bluesky embraces long-form content to counter X Articles",
+    "summary": "In its latest update, Bluesky is getting into long-form content.",
+    "url": "https://techcrunch.com/2026/05/28/bluesky-embraces-long-form-content-to-counter-x-articles/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "Apps",
+      "Social",
+      "Startups",
+      "blogs",
+      "Bluesky",
+      "open social",
+      "social media",
+      "WordPress"
+    ]
+  },
+  {
+    "id": "012",
+    "title": "Hackers are trying to steal Signal users’ backups in new wave of phishing attacks",
+    "summary": "A new hacking campaign is trying to trick Signal users to give up their secret recovery key, which can be used to access online backups containing past messages.",
+    "url": "https://techcrunch.com/2026/05/28/hackers-are-trying-to-steal-signal-users-backups-in-new-wave-of-phishing-attacks/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "cybersecurity",
+      "Exclusive",
+      "hackers",
+      "hacking",
+      "privacy",
+      "signal",
+      "surveillance"
+    ]
+  },
+  {
+    "id": "013",
+    "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+    "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+    "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Anthropic",
+      "Claude",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+    "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth.",
+    "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "AI",
+      "AI futures",
+      "ai tokens",
+      "CME Group",
+      "commodities",
+      "Intercontinental Exchange"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+    "summary": "CEO Ariel Katz argues that while AI can replicate workflow SaaS, it can't copy H1’s unique doctor data.",
+    "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "Biotech & Health",
+      "Fundraising",
+      "Startups",
+      "CVS Health Ventures",
+      "h1",
+      "health data"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "A security lapse at prison pay phone service Pay Tel publicly exposed over 300K callers’ driver’s licenses",
+    "summary": "Pay Tel secured the publicly exposed data after security researchers discovered the leak containing callers' sensitive ID documents and inmate communications.",
+    "url": "https://techcrunch.com/2026/05/28/a-security-lapse-at-prison-payphone-service-pay-tel-publicly-exposed-over-300000-callers-drivers-licenses/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "Security",
+      "Exclusive",
+      "Security Breach"
+    ]
+  },
+  {
+    "id": "017",
     "title": "Why Paris may be the most important AI city outside Silicon Valley",
     "summary": "Europe’s startup ecosystem has matured significantly; its founders are increasingly willing to scale companies domestically instead of immediately looking to relocate to the U.S.",
     "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
@@ -125,7 +221,7 @@
     ]
   },
   {
-    "id": "012",
+    "id": "018",
     "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
     "summary": "StrictlyVC Los Angeles is on June 18. Join for meaningful networking and fireside chats with leaders from Mach Industries, Shinkei Systems, and more. Register today.",
     "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
@@ -143,7 +239,7 @@
     ]
   },
   {
-    "id": "013",
+    "id": "019",
     "title": "Startup Battlefield 200 application deadline extended to June 8 after overwhelming demand",
     "summary": "After overwhelming demand from founders around the world, TechCrunch has extended the Startup Battlefield 200 application deadline to June 8. Nominate a standout startup or apply yours today.",
     "url": "https://techcrunch.com/2026/05/28/startup-battlefield-200-application-deadline-extended-to-june-8-after-overwhelming-demand/",
@@ -158,21 +254,23 @@
     ]
   },
   {
-    "id": "014",
-    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth three weeks ago",
-    "summary": "Insurance tech Corgi announced today an $106 million Series B1 raise, valuing the company at $2.6 billion, just three weeks after announcing a $160 million Series B.",
+    "id": "020",
+    "title": "Corgi announces $106M raise at $2.6B valuation — double what it was worth 3 weeks ago",
+    "summary": "While startups raising back-to-back rounds at steep step-ups have become almost routine, a company whose valuation doubles in three weeks is unusual enough to raise questions, particularly given the investor set in both rounds is the same.",
     "url": "https://techcrunch.com/2026/05/28/corgi-announces-106m-raise-at-2-6b-valuation-three-weeks-after-160m-series-b/",
     "date": "2026-05-28",
     "source": "TechCrunch",
     "tags": [
       "Startups",
       "Venture",
+      "corgi",
       "insurance tech",
-      "insurtech"
+      "insurtech",
+      "Kindred Ventures"
     ]
   },
   {
-    "id": "015",
+    "id": "021",
     "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
     "summary": "The new Opus model comes with a tool called Dynamic Workflows, for coordinating swarms of subagents.",
     "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
@@ -188,7 +286,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "022",
     "title": "Waymo’s newest robotaxi is Chinese-made, built to make money, and now accepting riders",
     "summary": "The launch of the Ojai minivan robotaxi comes after years of development and testing, but arrives amid a challenging time for Waymo.",
     "url": "https://techcrunch.com/2026/05/28/waymos-newest-robotaxi-is-chinese-made-built-to-make-money-and-now-accepting-riders/",
@@ -198,12 +296,13 @@
       "Transportation",
       "autonomous vehicles",
       "robotaxi",
-      "Waymo"
+      "Waymo",
+      "zeekr"
     ]
   },
   {
-    "id": "017",
-    "title": "U.S. says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
+    "id": "023",
+    "title": "US says troops were targeted with location data, as senator warns ad industry is a ‘national security threat’",
     "summary": "One leading privacy lawmaker said it was time to \"start treating the adtech industry as a national security threat.\"",
     "url": "https://techcrunch.com/2026/05/28/u-s-says-troops-were-targeted-with-location-data-as-senator-warns-ad-industry-is-a-national-security-threat/",
     "date": "2026-05-28",
@@ -213,13 +312,14 @@
       "Privacy",
       "Security",
       "cybersecurity",
+      "In Brief",
       "location data",
       "military",
       "us government"
     ]
   },
   {
-    "id": "018",
+    "id": "024",
     "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
     "summary": "Elon Musk is publicly reframing xAI’s massive Anthropic compute deal as short-term and cancellable, despite SpaceX’s own S-1 filing describing payments through May 2029.",
     "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
@@ -235,7 +335,7 @@
     ]
   },
   {
-    "id": "019",
+    "id": "025",
     "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
     "summary": "Sesame’s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a person.",
     "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
@@ -251,7 +351,7 @@
     ]
   },
   {
-    "id": "020",
+    "id": "026",
     "title": "Slate Auto will start taking orders for its low-cost EV on June 24",
     "summary": "The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.",
     "url": "https://techcrunch.com/2026/05/28/slate-auto-will-start-taking-orders-for-its-low-cost-ev-on-june-24/",
@@ -265,9 +365,9 @@
     ]
   },
   {
-    "id": "021",
+    "id": "027",
     "title": "Sneak peek at new Siri app reveals Apple’s plans to take on ChatGPT and more",
-    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app.",
+    "summary": "New renders offer a closer look at Apple’s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app.",
     "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
     "date": "2026-05-28",
     "source": "TechCrunch",
@@ -281,7 +381,7 @@
     ]
   },
   {
-    "id": "022",
+    "id": "028",
     "title": "Rivian under investigation over rear suspension failures on R1 models",
     "summary": "At least two owners have lost control of their vehicles after a critical suspension component broke. In both cases, the vehicles had been previously serviced.",
     "url": "https://techcrunch.com/2026/05/28/rivian-under-investigation-over-rear-suspension-failures-on-r1-models/",
@@ -295,7 +395,7 @@
     ]
   },
   {
-    "id": "023",
+    "id": "029",
     "title": "RSI is the new AGI — and it’s just as hard to pin down",
     "summary": "A new crop of AI labs are focused on recursive self-improvement — but the goal is proving elusive.",
     "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
@@ -305,14 +405,14 @@
       "AI",
       "Adaption",
       "AGI",
-      "Alex Karpathy",
+      "Andrej Karpathy",
       "artificial intelligence",
       "neolab",
       "RSI"
     ]
   },
   {
-    "id": "024",
+    "id": "030",
     "title": "At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI deals",
     "summary": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly.",
     "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
@@ -324,103 +424,6 @@
       "AI",
       "Databricks",
       "TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-    "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-    "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Apps",
-      "podcasts",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-    "summary": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco.",
-    "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Climate",
-      "Crypto",
-      "Fintech",
-      "Fundraising",
-      "Robotics",
-      "Startups",
-      "Transportation",
-      "Venture",
-      "TechCrunch Disrupt 2026"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "Visa invests in Replit to power agentic payments for developers",
-    "summary": "Visa said that over 1,000 employees have been using Replit for prototyping and development.",
-    "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "TC",
-      "agentic payments",
-      "Replit",
-      "visa"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-    "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-    "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Exclusive",
-      "General COmpute",
-      "SambaNova"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
-    "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
-    "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "Gadgets",
-      "Hardware",
-      "oura",
-      "oura ring 5",
-      "smart ring",
-      "wearables"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "date": "2026-05-28",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Hardware",
-      "foldable smartphone",
-      "Hermes Agent",
-      "Vertu",
-      "Vertu Alphafold"
     ]
   }
 ]
