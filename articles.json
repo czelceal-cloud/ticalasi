@@ -1,6 +1,77 @@
 [
   {
     "id": "001",
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\nComments URL: https://news.ycombinator.com/item?id=48305446\nPoints: 12\n# Comments: 0",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "002",
+    "title": "Hallucinate – Massively Multiplayer Online Rave",
+    "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 159\n# Comments: 64",
+    "url": "https://hallucinate.site",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "003",
+    "title": "RamAIn (YC W26) Is Hiring",
+    "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
+    "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "004",
+    "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 152\n# Comments: 76",
+    "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Can we have the day off?",
+    "summary": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 980\n# Comments: 580",
+    "url": "https://mlsu.io/posts/day-off/",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
+    "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "date": "2026-05-28",
+    "source": "TechCrunch",
+    "tags": [
+      "Hardware",
+      "AI",
+      "Gadgets",
+      "Vertu",
+      "Vertu Alphafold",
+      "Hermes Agent"
+    ]
+  },
+  {
+    "id": "007",
     "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
     "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
     "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
@@ -14,7 +85,7 @@
     ]
   },
   {
-    "id": "002",
+    "id": "008",
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "summary": "Google is embarrassing itself, again.",
     "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
@@ -27,7 +98,41 @@
     ]
   },
   {
-    "id": "003",
+    "id": "009",
+    "title": "The golden age of handheld gaming is already over",
+    "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a Steam Deck, agape that such a rich world could comfortably fit between my two h",
+    "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Analysis",
+      "Gaming",
+      "PC Gaming",
+      "Report"
+    ]
+  },
+  {
+    "id": "010",
+    "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
+    "summary": "The beleaguered luxury phone maker is pushing the AlphaFold, which has decent specs and comes with Vertu’s new Hermes Agent on board, to wealthy would-be buyers.",
+    "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Phones",
+      "phones",
+      "smartphones",
+      "Android",
+      "Shopping",
+      "luxury",
+      "design",
+      "Time to Fold"
+    ]
+  },
+  {
+    "id": "011",
     "title": "Expedia Coupons: 75% Off",
     "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
     "url": "https://www.wired.com/story/expedia-coupon/",
@@ -42,7 +147,7 @@
     ]
   },
   {
-    "id": "004",
+    "id": "012",
     "title": "Surfshark Promo Codes: 87% Off | June 2026",
     "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
     "url": "https://www.wired.com/story/surfshark-coupon/",
@@ -56,7 +161,7 @@
     ]
   },
   {
-    "id": "005",
+    "id": "013",
     "title": "Priceline Promo Codes & Coupons: 10% Off June",
     "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
     "url": "https://www.wired.com/story/priceline-promo-code/",
@@ -71,7 +176,7 @@
     ]
   },
   {
-    "id": "006",
+    "id": "014",
     "title": "20% Off Brooks Promo Code | June 2026",
     "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
     "url": "https://www.wired.com/story/brooks-promo-code/",
@@ -85,7 +190,7 @@
     ]
   },
   {
-    "id": "007",
+    "id": "015",
     "title": "Dell Coupon Codes: 20% Off for June 2026",
     "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
     "url": "https://www.wired.com/story/dell-coupon-code/",
@@ -100,7 +205,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "016",
     "title": "B&H Photo Promo Codes and Deals This June",
     "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
     "url": "https://www.wired.com/story/bh-photo-coupon/",
@@ -114,7 +219,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "017",
     "title": "Herman Miller Promo Codes: 40% Off June",
     "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture this month.",
     "url": "https://www.wired.com/story/herman-miller-promo-code/",
@@ -129,7 +234,7 @@
     ]
   },
   {
-    "id": "010",
+    "id": "018",
     "title": "Altra Running Promo Codes June 2026",
     "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
     "url": "https://www.wired.com/story/altra-promo-code/",
@@ -144,7 +249,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "019",
     "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
     "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
     "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
@@ -163,51 +268,134 @@
     ]
   },
   {
-    "id": "012",
-    "title": "Software Engineer vs Frontend Developer: 2026 Comparison",
-    "summary": "The Short Answer\n\n\nSoftware Engineers earn a median $143,000 US base vs. $130,000 for Frontend Developers, a 10% premium. But salary is the secondary story. The primary story is volume: there are 32 active Software Engineer postings for every Frontend Developer posting on the InterviewStack.io job b",
-    "url": "https://dev.to/gnana_6392e836fd500a957dc/software-engineer-vs-frontend-developer-2026-comparison-59mc",
+    "id": "020",
+    "title": "Finishing What I Started: AutoDoc: AI-Powered OpenAPI Docs from C# 🤖",
+    "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built:\n\n\nAutoDoc is a tool that automatically generates enriched OpenAPI 3.0.3 documentation from raw C# ASP.NET Core controller code using a local AI model - no manual annotations, no attribute decorators, no maintenanc",
+    "url": "https://dev.to/yoges_mohan_511bda5afbe7d/finishing-what-i-started-autodoc-ai-powered-openapi-docs-from-c-25g2",
     "date": "2026-05-28",
     "source": "Dev.to",
     "tags": [
-      "softwareengineering",
-      "frontend",
-      "javascript",
-      "react"
+      "devchallenge",
+      "githubchallenge"
     ]
   },
   {
-    "id": "013",
-    "title": "Harness Engineering for AI Agents",
-    "summary": "Agent = Model + Harness. If you're not the model, you're the harness. \n\n\n \n\n\n\n\nIf you have shipped an AI agent that worked brilliantly in a demo and then fell apart in production, you have already met the harness problem. The model was probably fine. The scaffolding around it — instructions, tools, ",
-    "url": "https://dev.to/akki907/harness-engineering-for-ai-agents-16a0",
+    "id": "021",
+    "title": "Thali Edition, Part 2: The Masala Box: Your Skillset Toolkit 🧰👷🏽",
+    "summary": "Having a great recipe for an AI model is useless if you don't know how to handle the heat in the kitchen. Now that we understand the core organizational roles of the AI ecosystem, it’s time to talk gear. Every senior data architect and machine learning engineer relies on a core setup to manage data ",
+    "url": "https://dev.to/durva_shah/thali-edition-part-2-the-masala-box-your-skillset-toolkit-11ik",
     "date": "2026-05-28",
     "source": "Dev.to",
     "tags": [
-      "llm",
-      "agents",
-      "ai"
+      "ai",
+      "machinelearning",
+      "datascience",
+      "beginners"
     ]
   },
   {
-    "id": "014",
-    "title": "Building RepoRank — The Open Source Impact & Funding Readiness Engine",
-    "summary": "A journey into bridging open-source metrics, cross-source SQL joins, and AI-driven grant matching.\n\n\n\n\n\n  \n  \n  The Open Source Funding Crisis\n\n\nEvery day, developers build and maintain critical pieces of open-source software that power global infrastructure. Yet, one of the biggest challenges in th",
-    "url": "https://dev.to/himanshu_748/building-reporank-the-open-source-impact-funding-readiness-engine-47k9",
+    "id": "022",
+    "title": "Mastering State in Modern C++: Making It Encapsulated",
+    "summary": "Explicit state without polluting the domain model\n\nPreviously, we made state explicit by assigning state evolution to the core and state persistence and mutation to the shell. This made state visible at the highest level, and changing it required explicit passing between shell and core. \n\nSo far, we",
+    "url": "https://dev.to/mahush/mastering-state-in-modern-c-making-it-encapsulated-43bi",
     "date": "2026-05-28",
     "source": "Dev.to",
     "tags": [
-      "opensource",
+      "cpp",
+      "functional",
+      "architecture",
+      "programming"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "We Didn’t Discover a Website Bug. We Discovered an Internet Reality.",
+    "summary": "How a Missing CDN Dependency Broke Our Frontend on One Network\nIntroduction\n\nA few days after deploying our platform, we encountered an issue that initially looked like a standard frontend deployment failure.\n\nThe website worked perfectly across:\n\nmobile data\nmultiple broadband providers\nmost modern",
+    "url": "https://dev.to/himank_handa_635b17a1177d/we-didnt-discover-a-website-bug-we-discovered-an-internet-reality-2m24",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
       "webdev",
-      "showdev",
-      "ai"
+      "testing",
+      "programming",
+      "devbugsmash"
     ]
   },
   {
-    "id": "015",
-    "title": "Building with Gemma 4 E2B showed me that small models are more reliable when the backend handles orchestration.",
-    "summary": "How to Use Gemma 4 E2B the Smart Way: Family Trip Advisor\n\n\n  \n      Gemma 4 Challenge: Build With Gemma 4 Submission\n\n\n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Daniel Balcarek\n            \n            \n              \n          ",
-    "url": "https://dev.to/gramli/building-with-gemma-4-e2b-showed-me-that-small-models-are-more-reliable-when-the-backend-3lka",
+    "id": "024",
+    "title": "I Inherited a NestJS Codebase. The First Lint Run Found 6 Vulnerabilities.",
+    "summary": "Code review checks for what's there. Static analysis checks for what's missing.\n\nThat asymmetry is why a codebase can have CI, tests, TypeScript strict mode, and two years of feature PRs — and still ship 6 distinct vulnerability classes that no reviewer caught. Not because reviewers were careless. B",
+    "url": "https://dev.to/ofri-peretz/i-inherited-a-nestjs-codebase-the-first-lint-run-found-6-vulnerabilities-55ma",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
+      "nestjs",
+      "security",
+      "node",
+      "devsecops"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Our Automated Security Audit Was 0% Precise — Here's What an AST Pass Found",
+    "summary": "I run an autonomous engine that watches open-source repos for patterns we think are bugs.\nThe pipeline is straightforward: catalog a pattern (literal API error string, suspicious\nidiom, known footgun), GitHub-search for it across a few thousand repos, rank candidates\nby maintainer responsiveness, fi",
+    "url": "https://dev.to/elia_airtisshmuelovitc/our-automated-security-audit-was-0-precise-heres-what-an-ast-pass-found-3gii",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "security",
+      "opensource",
+      "automation"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "Introducing StudySuki AI: The Next-Gen Gamified Language Learning Platform",
+    "summary": "Hello world! 👋 \n\nI am excited to officially launch StudySuki AI, a high-fidelity language-learning platform that blends a premium, gamified dashboard with advanced AI capabilities.\n\nExperience the live application here:\n🚀 Live Link: https://studysuki-ai-1048028947533.asia-southeast1.run.app\n\nFeature",
+    "url": "https://dev.to/jangkrik/introducing-studysuki-ai-the-next-gen-gamified-language-learning-platform-2j3f",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
+      "showdev",
+      "webdev",
+      "react",
+      "firebase"
+    ]
+  },
+  {
+    "id": "027",
+    "title": "A Developer's Must-Read for 2026: SERP API Industry Trends & A Practical Selection Guide",
+    "summary": "In today's landscape where AI applications (especially RAG architectures and AI Agents) are exploding, getting real-time, accurate web search data has become an absolute necessity for developers. In the past, we might have just whipped up a simple Python + BeautifulSoup script or hooked into the fre",
+    "url": "https://dev.to/leo_o_f54073165eadd8c5e2d/a-developers-must-read-for-2026-serp-api-industry-trends-a-practical-selection-guide-2lmh",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
+      "ai",
+      "seo",
+      "discuss",
+      "web3"
+    ]
+  },
+  {
+    "id": "028",
+    "title": "How to Build a Clean, Light Bulk Data Importer for WordPress Custom Post Types (Without Heavy Plugins)",
+    "summary": "If you build custom WordPress sites for data-heavy industries (like Real Estate listings, Vacation Rentals, or Directory menus), you've likely faced the challenge of importing large datasets from client Excel sheets or external APIs.\n\nThe go-to solution for many developers is installing massive, hea",
+    "url": "https://dev.to/milanche_com/how-to-build-a-clean-light-bulk-data-importer-for-wordpress-custom-post-types-without-heavy-1b30",
+    "date": "2026-05-28",
+    "source": "Dev.to",
+    "tags": [
+      "wordpress",
+      "php",
+      "backend",
+      "webdev"
+    ]
+  },
+  {
+    "id": "029",
+    "title": "Form Responses as Institutional Memory: Designing the Record Layer\"",
+    "summary": "Most form schemas I have seen were designed for the wrong time horizon.\n\nThey were designed for the moment of submission.\n\nA responses table that captures field values. A foreign key to a forms table. A few denormalized columns for created time, IP, and user agent. Maybe an is_test flag added later ",
+    "url": "https://dev.to/lovanaut55/form-responses-as-institutional-memory-designing-the-record-layer-5bkh",
     "date": "2026-05-28",
     "source": "Dev.to",
     "tags": [
@@ -215,219 +403,17 @@
     ]
   },
   {
-    "id": "016",
-    "title": "Color Grading at Scale: How I Stopped Wrestling with ImageMagick and Just Used an API",
-    "summary": "I've been building a tool for a small e-commerce brand that sells handmade ceramics. Their problem: product photos come in from three different photographers with three completely different color treatments. One shoots warm and golden, one shoots cool and clinical, the other shoots whatever mood the",
-    "url": "https://dev.to/om_prakash_3311f8a4576605/color-grading-at-scale-how-i-stopped-wrestling-with-imagemagick-and-just-used-an-api-166c",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "showdev",
-      "webdev",
-      "python"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "One Open Source Project a Day (No. 78): stop-slop - A Skill File That Teaches AI to Eliminate Its Own Writing Tells",
-    "summary": "Introduction\n\n\n\n\"If it sounds like a pull-quote, rewrite it.\"\n\n\nThis is the 78th article in the \"One Open Source Project a Day\" series. Today's project is stop-slop.\n\nYou know the writing. It opens with \"In today's fast-paced world...\" The second paragraph has \"it's worth noting that.\" The middle is",
-    "url": "https://dev.to/wonderlab/one-open-source-project-a-day-no-78-stop-slop-a-skill-file-that-teaches-ai-to-eliminate-its-2nci",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "ai",
-      "claude",
-      "promptengineering"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "I added a context resolver before an AI sales agent replies",
-    "summary": "Most AI sales agents fail before the model writes a single word.\n\nThe failure is not always the prompt. It is usually the context.\n\nIn a real chat-commerce workflow, a lead can arrive with several competing signals:\n\n\nthe latest customer message;\nCRM stage and owner;\nprevious conversation history;\nc",
-    "url": "https://dev.to/rkrisa/i-added-a-context-resolver-before-an-ai-sales-agent-replies-2o5f",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "automation",
-      "crm",
-      "architecture"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Instagram Basic Display API Is Dead. Build What Works Instead",
-    "summary": "Your Instagram Integration Broke. Here Is What Happened.\nOne morning in December 2024, Instagram feeds went blank across thousands of apps. Profile data returned errors. Analytics dashboards stalled. And support tickets started arriving before anyone had an answer.\nNot a bug. Not an outage. Meta did",
-    "url": "https://dev.to/nick_johnson/instagram-basic-display-api-is-dead-build-what-works-instead-4ifm",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "techtalks"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "React is nothing. And that's the point.",
-    "summary": "React no es nada.\n\nNo me refiero a que sea inútil. Me refiero a que React, en su núcleo, no contiene ninguna opinión sobre qué estás construyendo. Es un conjunto de cubos. Cubos vacíos. Te los venden como \"modularización\", como \"componentes reutilizables\", como \"arquitectura limpia\" — y sí, todo eso",
-    "url": "https://dev.to/bernarduriza/react-is-nothing-and-thats-the-point-4p7b",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "react",
-      "philosophy",
-      "webdev",
-      "javascript"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Live chain-of-thought in a chatbot: how to actually stream the tool calls (not just the text)",
-    "summary": "Most \"streaming\" LLM chatbots stream just the text. The model says \"I'll search for that…\" and then you wait 6 seconds while the tokens dribble in. The actual search? Hidden. The 3 scrapes it did to fact-check? Hidden. You're staring at a typing indicator that doesn't tell you anything about what's ",
-    "url": "https://dev.to/bernarduriza/live-chain-of-thought-in-a-chatbot-how-to-actually-stream-the-tool-calls-not-just-the-text-h0o",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "python",
-      "fastapi",
-      "react"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "How I Added Live Charts to the Django Admin Without Installing a Single Package",
-    "summary": "The Django admin is a powerful tool that most developers underuse. Out of the box it gives you a filterable, searchable table for every model — but it stops short of anything visual. If you want to see trends over time, you're staring at rows.\n\nI recently added a PageVisit model to my portfolio back",
-    "url": "https://dev.to/highcenburg/how-i-added-live-charts-to-the-django-admin-without-installing-a-single-package-41b7",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "python",
-      "django",
-      "tutorial",
-      "productivity"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "I Got Tired of LeetCode Trackers Selling My Data, So I Built My Own.",
-    "summary": "> \"Your coding journey is personal. Your data should be too.\"\n\n\n\n\n\n\n\n\n\n\n  \n  \n  The Problem Nobody Talks About\n\n\nHere's a question: when you solve a LeetCode problem at 2 AM, who else knows about it?\n\nIf you're using any of the popular LeetCode tracking tools, the answer is... a lot of people. Your ",
-    "url": "https://dev.to/rtnjt_bot/i-got-tired-of-leetcode-trackers-selling-my-data-so-i-built-my-own-262a",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "opensource",
-      "extensions",
-      "webdev",
-      "productivity"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Google worker charged with using internal data to make $1.2m on bets",
-    "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
-    "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
-    "date": "2026-05-28",
-    "source": "BBC News",
-    "tags": [
-      "BBC News"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Rivian will deliver the first R2 SUVs on June 9",
-    "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
-    "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
-    "tags": [
-      "Transportation",
-      "electric vehicles",
-      "EVs",
-      "Rivian"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
-    "summary": "The Series B round was led by Battery Ventures.",
-    "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
-    "tags": [
-      "Biotech & Health",
-      "Startups",
-      "Venture",
-      "cancer",
-      "clinical trials",
-      "Triomics"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
-    "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
-    "tags": [
-      "Enterprise",
-      "TC",
-      "AI",
-      "Amazon",
-      "AWS",
-      "Snowflake",
-      "AI chips"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
-    "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
-    "tags": [
-      "AI",
-      "AI adoption",
-      "Remote"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
-    "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
-    "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
-    "tags": [
-      "Security",
-      "cybersecurity",
-      "data exposure",
-      "Exclusive"
-    ]
-  },
-  {
     "id": "030",
-    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-    "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "date": "2026-05-27",
-    "source": "TechCrunch",
+    "title": "Python: Day Two – Variables, Data Types, and Putting Stuff in Boxes",
+    "summary": "Welcome back to Day 2, coders! 🚀 Yesterday we mastered the art of making the console say \"Hello, World!\" and survived the great indentation panic. 😅 Today, we are leveling up! We need to teach our Python scripts how to actually remember things. 🧠\n\nGrab your beverage of choice ☕, and let's talk about",
+    "url": "https://dev.to/alpha3020/python-day-two-variables-data-types-and-putting-stuff-in-boxes-11o2",
+    "date": "2026-05-28",
+    "source": "Dev.to",
     "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Social",
-      "Creators",
-      "Facebook",
-      "Instagram",
-      "Meta",
-      "meta ai",
-      "social media",
-      "subscriptions",
-      "WhatsApp"
+      "beginners",
+      "codenewbie",
+      "python",
+      "tutorial"
     ]
   }
 ]
