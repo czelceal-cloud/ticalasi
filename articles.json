@@ -1,9 +1,9 @@
 [
   {
     "id": "001",
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\nComments URL: https://news.ycombinator.com/item?id=48305446\nPoints: 68\n# Comments: 24",
-    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "title": "Commission fines Temu €200M for breaching the Digital Services Act",
+    "summary": "Article URL: https://ec.europa.eu/commission/presscorner/home/en\nComments URL: https://news.ycombinator.com/item?id=48307237\nPoints: 13\n# Comments: 2",
+    "url": "https://ec.europa.eu/commission/presscorner/home/en",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -12,9 +12,9 @@
   },
   {
     "id": "002",
-    "title": "Hallucinate – Massively Multiplayer Online Rave",
-    "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 198\n# Comments: 78",
-    "url": "https://hallucinate.site",
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+    "summary": "Article URL: https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/\nComments URL: https://news.ycombinator.com/item?id=48307231\nPoints: 53\n# Comments: 14",
+    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -23,9 +23,9 @@
   },
   {
     "id": "003",
-    "title": "Biff is a command line datetime Swiss army knife",
-    "summary": "Article URL: https://github.com/BurntSushi/biff\nComments URL: https://news.ycombinator.com/item?id=48303881\nPoints: 24\n# Comments: 8",
-    "url": "https://github.com/BurntSushi/biff",
+    "title": "AI sticker shock hits corporate America",
+    "summary": "Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs\nComments URL: https://news.ycombinator.com/item?id=48307098\nPoints: 35\n# Comments: 3",
+    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
     "date": "2026-05-28",
     "source": "Hacker News",
     "tags": [
@@ -34,6 +34,39 @@
   },
   {
     "id": "004",
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "summary": "Article URL: https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/\nComments URL: https://news.ycombinator.com/item?id=48305446\nPoints: 90\n# Comments: 28",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "005",
+    "title": "Hallucinate – Massively Multiplayer Online Rave",
+    "summary": "Article URL: https://hallucinate.site\nComments URL: https://news.ycombinator.com/item?id=48304260\nPoints: 237\n# Comments: 98",
+    "url": "https://hallucinate.site",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "006",
+    "title": "Biff is a command line datetime Swiss army knife",
+    "summary": "Article URL: https://github.com/BurntSushi/biff\nComments URL: https://news.ycombinator.com/item?id=48303881\nPoints: 43\n# Comments: 25",
+    "url": "https://github.com/BurntSushi/biff",
+    "date": "2026-05-28",
+    "source": "Hacker News",
+    "tags": [
+      "Hacker News"
+    ]
+  },
+  {
+    "id": "007",
     "title": "RamAIn (YC W26) Is Hiring",
     "summary": "Article URL: https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer\nComments URL: https://news.ycombinator.com/item?id=48303599\nPoints: 0\n# Comments: 0",
     "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
@@ -44,9 +77,9 @@
     ]
   },
   {
-    "id": "005",
+    "id": "008",
     "title": "Google employee charged with $1M Polymarket insider trading bet on search term",
-    "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 172\n# Comments: 106",
+    "summary": "Article URL: https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html\nComments URL: https://news.ycombinator.com/item?id=48302822\nPoints: 208\n# Comments: 118",
     "url": "https://www.cnbc.com/2026/05/27/google-employee-polymarket-insider-trading.html",
     "date": "2026-05-28",
     "source": "Hacker News",
@@ -55,18 +88,23 @@
     ]
   },
   {
-    "id": "006",
-    "title": "Can we have the day off?",
-    "summary": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 1048\n# Comments: 617",
-    "url": "https://mlsu.io/posts/day-off/",
+    "id": "009",
+    "title": "Oura unveils its Ring 5 with a thinner, lighter design starting at $399",
+    "summary": "The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.",
+    "url": "https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/",
     "date": "2026-05-28",
-    "source": "Hacker News",
+    "source": "TechCrunch",
     "tags": [
-      "Hacker News"
+      "Hardware",
+      "Gadgets",
+      "wearables",
+      "oura",
+      "smart ring",
+      "oura ring 5"
     ]
   },
   {
-    "id": "007",
+    "id": "010",
     "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
     "summary": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
     "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
@@ -82,7 +120,7 @@
     ]
   },
   {
-    "id": "008",
+    "id": "011",
     "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
     "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
     "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
@@ -96,7 +134,7 @@
     ]
   },
   {
-    "id": "009",
+    "id": "012",
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "summary": "Google is embarrassing itself, again.",
     "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
@@ -109,7 +147,81 @@
     ]
   },
   {
-    "id": "010",
+    "id": "013",
+    "title": "Forecasters predict below-average hurricane season, advise against complacency",
+    "summary": "Forecasters say expected El Niño should temper hurricanes in Atlantic, urge preparedness.",
+    "url": "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
+    "date": "2026-05-28",
+    "source": "Ars Technica",
+    "tags": [
+      "Science",
+      "atlantic hurricane season",
+      "El Niño",
+      "syndication"
+    ]
+  },
+  {
+    "id": "014",
+    "title": "They’ve finally made the Oura Ring smaller and lighter",
+    "summary": "Wherever I go, whatever I do, people point at my finger and ask, \"Is that an Oura Ring?\" Lots of people find they like the design, and they tell me why they're thinking about switching to a smart ring from a smartwatch. But the people who scrunch up their noses? They usually say something along […]",
+    "url": "https://www.theverge.com/tech/938518/oura-ring-5-smart-ring-price-specs-wearables-hands-on",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Gadgets",
+      "Hands-on",
+      "Reviews",
+      "Tech",
+      "Wearable"
+    ]
+  },
+  {
+    "id": "015",
+    "title": "Kia’s flagship EV has a battery problem",
+    "summary": "I first realized there was an issue with Kia's flagship EV9 when I tried to unlock my car last year. The hulking three-row SUV was sitting on my driveway completely dead. The key didn't work, the app connection to the car was gone, and I was already late to an appointment. Luckily, I had prepared […",
+    "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Cars",
+      "Report",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "016",
+    "title": "Temu fined more than $230 million by EU over illegal product sales",
+    "summary": "Temu has been fined €200 million (about $232 million) by the European Commission after it found that consumers are \"very likely to encounter illegal items\" on the popular Chinese e-commerce platform. According to the commission, Temu breached Digital Service Act (DSA) rules by failing to identify an",
+    "url": "https://www.theverge.com/policy/938792/temu-eu-dsa-fine-illegal-products",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Law",
+      "News",
+      "Online Shopping",
+      "Policy",
+      "Politics",
+      "Regulation",
+      "Tech"
+    ]
+  },
+  {
+    "id": "017",
+    "title": "Gemini for Google Home can now use your cameras to trigger automations",
+    "summary": "Google Home is rolling out a new Gemini-powered automation feature that can trigger smart home routines based on what your security cameras can see. This is one of several updates announced yesterday for Gemini for Home, including enhanced voice command support and general stability improvements, fo",
+    "url": "https://www.theverge.com/tech/938771/google-home-gemini-ai-camera-automations",
+    "date": "2026-05-28",
+    "source": "The Verge",
+    "tags": [
+      "Google",
+      "News",
+      "Security",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "018",
     "title": "YouTube will let you ask AI to make a custom video feed",
     "summary": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around your specific interests, moods, or favorite topics, which you can then pin to the top of your YouTu",
     "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
@@ -123,7 +235,7 @@
     ]
   },
   {
-    "id": "011",
+    "id": "019",
     "title": "The golden age of handheld gaming is already over",
     "summary": "For a few glorious years, a $399 portable gadget could run almost anything you'd want to play. In 2022, the Steam Deck finally made PC gaming portable and affordable. I played through the vast majority of Elden Ring on a Steam Deck, agape that such a rich world could comfortably fit between my two h",
     "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
@@ -137,8 +249,128 @@
     ]
   },
   {
-    "id": "012",
-    "title": "How Are French Open Players Dealing With the Paris Heat Wave?",
+    "id": "020",
+    "title": "Cotopaxi Allpa 35L Travel Pack Del Día Dark: Sustainable and Chic",
+    "summary": "Created from fabric scraps that would otherwise end up in a landfill, this thoughtfully constructed bag looks great and can carry everything you need for a weeklong trip.",
+    "url": "https://www.wired.com/story/bag-check-rave-cotopaxi-allpa-35l-travel-pack-del-dia-dark/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Products / Outdoor",
+      "Gear / Products / Lifestyle",
+      "Gear / Reviews",
+      "gear",
+      "Reviews",
+      "Shopping",
+      "rants and raves",
+      "Bags",
+      "Travel",
+      "outdoors",
+      "Bag Check",
+      "backpack"
+    ]
+  },
+  {
+    "id": "021",
+    "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+    "summary": "New mothers working in software development are staring down an AI-pilled workplace they barely recognize.",
+    "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "parenting",
+      "kids",
+      "technology",
+      "Silicon Valley",
+      "UK",
+      "artificial intelligence",
+      "Work Stoppage"
+    ]
+  },
+  {
+    "id": "022",
+    "title": "Canon EOS R6 Mark III Review: A Serious Upgrade",
+    "summary": "With sharper resolution and lightning-fast performance, Canon’s latest full-frame mirrorless punches well above its class.",
+    "url": "https://www.wired.com/review/canon-eos-r6-mark-iii-camera/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Cameras",
+      "cameras",
+      "Photography",
+      "Reviews",
+      "Shopping",
+      "Product Review"
+    ]
+  },
+  {
+    "id": "023",
+    "title": "These Ebola Researchers Are Stuck in US Due to Trump’s Funding Cuts",
+    "summary": "The Centers for Research in Emerging Infectious Diseases were launched during the Covid-19 pandemic. The group lost its funding under Trump in part due to conspiracy theories.",
+    "url": "https://www.wired.com/story/us-researchers-ebola-trump-cut-their-funding/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Science",
+      "Science / Health",
+      "Ebola",
+      "Donald Trump",
+      "infectious disease",
+      "Africa",
+      "diseases",
+      "public health",
+      "Ebola Outbreak"
+    ]
+  },
+  {
+    "id": "024",
+    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "summary": "The tech giant says a breakthrough in data-center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech",
+      "Amazon",
+      "AWS",
+      "data centers",
+      "Cloud Computing",
+      "research",
+      "math"
+    ]
+  },
+  {
+    "id": "025",
+    "title": "Scammers Are Using Your Real Hotel Reservations to Trick You With Spear-Phishing Attacks",
+    "summary": "Customer data from more than 350 hotels around the world may have been accessed as part of realistic reservation-hijacking scams.",
+    "url": "https://www.wired.com/story/hundreds-of-hotels-caught-up-in-vacation-booking-scams/",
+    "date": "2026-05-28",
+    "source": "Wired",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "security",
+      "Crime",
+      "hacks",
+      "privacy",
+      "cybersecurity",
+      "scams",
+      "Travel",
+      "phishing",
+      "Unwelcome Guest"
+    ]
+  },
+  {
+    "id": "026",
+    "title": "How Hot Is It Really at the French Open? Check the Wet Bulb Globe Temperature",
     "summary": "Meet the wet bulb globe temperature, the ominous measure that shows when it's too hot to go outside.",
     "url": "https://www.wired.com/story/why-its-almost-too-hot-to-play-tennis-at-the-french-open-2026/",
     "date": "2026-05-28",
@@ -151,11 +383,12 @@
       "extreme weather",
       "climate change",
       "france",
-      "Sports"
+      "Sports",
+      "Soft Serve"
     ]
   },
   {
-    "id": "013",
+    "id": "027",
     "title": "Ballots Have Been Seized Across the US. No One Knows What Will Happen Next",
     "summary": "So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.",
     "url": "https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/",
@@ -173,7 +406,7 @@
     ]
   },
   {
-    "id": "014",
+    "id": "028",
     "title": "Vertu Is Back With a Folding Phone Powered by—Surprise—an AI Agent",
     "summary": "The beleaguered luxury phone maker is pushing the AlphaFold, which has decent specs and comes with Vertu’s new Hermes Agent on board, to wealthy would-be buyers.",
     "url": "https://www.wired.com/story/vertu-alphafold-folding-phone-powered-by-hermes-agent-ai/",
@@ -193,7 +426,7 @@
     ]
   },
   {
-    "id": "015",
+    "id": "029",
     "title": "Expedia Coupons: 75% Off",
     "summary": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
     "url": "https://www.wired.com/story/expedia-coupon/",
@@ -208,7 +441,7 @@
     ]
   },
   {
-    "id": "016",
+    "id": "030",
     "title": "Surfshark Promo Codes: 87% Off | June 2026",
     "summary": "Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.",
     "url": "https://www.wired.com/story/surfshark-coupon/",
@@ -219,209 +452,6 @@
       "coupons",
       "Shopping",
       "Coupons"
-    ]
-  },
-  {
-    "id": "017",
-    "title": "Priceline Promo Codes & Coupons: 10% Off June",
-    "summary": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
-    "url": "https://www.wired.com/story/priceline-promo-code/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "018",
-    "title": "20% Off Brooks Promo Code | June 2026",
-    "summary": "Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.",
-    "url": "https://www.wired.com/story/brooks-promo-code/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "019",
-    "title": "Dell Coupon Codes: 20% Off for June 2026",
-    "summary": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
-    "url": "https://www.wired.com/story/dell-coupon-code/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "020",
-    "title": "B&H Photo Promo Codes and Deals This June",
-    "summary": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
-    "url": "https://www.wired.com/story/bh-photo-coupon/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "021",
-    "title": "Herman Miller Promo Codes: 40% Off June",
-    "summary": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture this month.",
-    "url": "https://www.wired.com/story/herman-miller-promo-code/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "022",
-    "title": "Altra Running Promo Codes June 2026",
-    "summary": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
-    "url": "https://www.wired.com/story/altra-promo-code/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ]
-  },
-  {
-    "id": "023",
-    "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
-    "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
-    "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
-    "date": "2026-05-28",
-    "source": "Wired",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Regulation",
-      "Policy",
-      "politics",
-      "artificial intelligence",
-      "data centers",
-      "OpenAI",
-      "Safety Bill"
-    ]
-  },
-  {
-    "id": "024",
-    "title": "Demystifying WebP to PNG: Secure Serverless Edge Routing Configurations Without Leaking Credentials",
-    "summary": "Demystifying WebP to PNG: How to Secure Serverless Edge Routing Configurations Safely\n\n\nWe have all been there. You are building a high-performance, modern web application and you decide to store all user-generated assets in modern, ultra-compressed WebP formats. It is a smart move for your Google L",
-    "url": "https://dev.to/aitranxuan/demystifying-webp-to-png-secure-serverless-edge-routing-configurations-without-leaking-credentials-3hl8",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "serverless",
-      "security",
-      "performance",
-      "webdev"
-    ]
-  },
-  {
-    "id": "025",
-    "title": "Age Verification's Dirty Secret: The Tech Works. The System Doesn't.",
-    "summary": "Why your age-gating algorithm is probably doomed to fail in the wild\n\nFor developers building in the computer vision and biometrics space, there is a massive gap between a model that passes a NIST benchmark and a system that survives the \"child-with-a-VPN\" test. Recent data indicates that roughly 32",
-    "url": "https://dev.to/caracomp/age-verifications-dirty-secret-the-tech-works-the-system-doesnt-28c8",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "ai",
-      "machinelearning",
-      "computervision",
-      "biometrics"
-    ]
-  },
-  {
-    "id": "026",
-    "title": "Tipos de errores, Wrapping e Inspección en Go",
-    "summary": "Tabla de Contenidos\n\n\n\nObjetivo\nRestricciones de los Errores Basados en Texto\n\nErrores Personalizados en Go\n\n\nConceptos Clave\n\n\n\n\n\nImplementar e Inspeccionar Errores\n\nCasos de Uso Comunes\n\nPara no morir en el intento y consejos que no pediste\n\nConclusiones del Tema\n\n\n\n\n  \n  \n  Objetivo\n\n\nAprender a ",
-    "url": "https://dev.to/jcmexdev/tipos-de-errores-wrapping-e-inspeccion-en-go-345o",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "spanish",
-      "programming",
-      "go",
-      "tutorial"
-    ]
-  },
-  {
-    "id": "027",
-    "title": "The Next Decade of Data Engineering: From Modern Data Stack to Data Engineering Harness",
-    "summary": "Over the past decade, the core evolution of data engineering has been the deconstruction and reconstruction of traditional data warehouse architectures through the Modern Data Stack.\n\n\nWe separated data ingestion from databases, forming the Data Ingestion layer, using tools like FiveTran, Airbyte, a",
-    "url": "https://dev.to/seatunnel/the-next-decade-of-data-engineering-from-modern-data-stack-to-data-engineering-harness-4cjo",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "data",
-      "dataengineering",
-      "dataengineeringharness",
-      "bigdata"
-    ]
-  },
-  {
-    "id": "028",
-    "title": "Tell me which LLM and cloud base suitable for creating agentic coding AI. it's all coverup the BMDA like\n1. Business Understanding\n2. Model / Architecture Design\n3. Agile Development\n4. Deployment & Monitoring",
-    "summary": "Tell me which LLM and cloud base suitable for creating agent",
-    "url": "https://dev.to/ananth_r_d397caa9d8c68cb0/tell-me-which-is-suitable-for-creating-agentic-coding-ai-its-all-coverup-the-bmda-like-1-2o8",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "agents",
-      "ai",
-      "coding",
-      "softwareengineering"
-    ]
-  },
-  {
-    "id": "029",
-    "title": "Why Traditional QA Fails Browser-Based Casino Games",
-    "summary": "Modern QA automation is extremely effective when testing traditional web applications. APIs can be validated reliably, user flows can be scripted with precision, and infrastructure monitoring has become mature enough to detect most operational problems before users even notice them.\n\nBrowser-based c",
-    "url": "https://dev.to/anett_dolor_5747c28ebc143/why-traditional-qa-fails-browser-based-casino-games-2pdn",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "qa",
-      "webdev"
-    ]
-  },
-  {
-    "id": "030",
-    "title": "I Built Sổ Lãi, a Practical Profit Tracker for Vietnamese Online Shops",
-    "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nI built So Lai, a local-first profit tracker for small online shops in Vietnam.\n\nThe goal is simple: help a seller answer the question they often cannot answer from platform revenue alone:\n\n\nIs my shop actually p",
-    "url": "https://dev.to/klauski24/i-built-so-lai-a-practical-profit-tracker-for-vietnamese-online-shops-4n18",
-    "date": "2026-05-28",
-    "source": "Dev.to",
-    "tags": [
-      "devchallenge",
-      "githubchallenge",
-      "webdev",
-      "productivity"
     ]
   }
 ]
