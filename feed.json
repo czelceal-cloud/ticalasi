@@ -7,6 +7,234 @@
   "items": [
     {
       "id": "001",
+      "url": "https://mlsu.io/posts/day-off/",
+      "title": "Can we have the day off?",
+      "summary": "Article URL: https://mlsu.io/posts/day-off/\nComments URL: https://news.ycombinator.com/item?id=48302745\nPoints: 280\n# Comments: 182",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "002",
+      "url": "https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/",
+      "title": "Google engineer charged with insider trading after making $1.2M on Polymarket",
+      "summary": "According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Government & Policy",
+        "doj",
+        "Google",
+        "Polymarket"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "003",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "title": "Why Google’s AI can’t spell Google (or anything else)",
+      "summary": "Google is embarrassing itself, again.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "AI",
+        "Google",
+        "spelling"
+      ],
+      "_source": "TechCrunch"
+    },
+    {
+      "id": "004",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill",
+      "summary": "The bill requires companies like OpenAI, Anthropic, and Google to have third parties confirm they’re following safety standards. Illinois governor JB Pritzker says he’ll sign it.",
+      "date_published": "2026-05-28",
+      "tags": [
+        "Business",
+        "Business / Artificial Intelligence",
+        "Regulation",
+        "Policy",
+        "politics",
+        "artificial intelligence",
+        "data centers",
+        "OpenAI",
+        "Safety Bill"
+      ],
+      "_source": "Wired"
+    },
+    {
+      "id": "005",
+      "url": "https://dev.to/jtorchia/the-benchmark-that-made-me-change-my-mind-about-jakarta-ee-in-2026-2feb",
+      "title": "The benchmark that made me change my mind about Jakarta EE in 2026",
+      "summary": "The first table made me uncomfortable: on my machine, with the lab’s realistic workload, Embedded GlassFish seemed to beat Spring Boot. If I had published then, the post would have had more punch, but it would also have been methodologically weak. I paused and added what was missing: a supported JDK",
+      "date_published": "2026-05-28",
+      "tags": [
+        "english",
+        "performance",
+        "backend",
+        "railway"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "006",
+      "url": "https://dev.to/jtorchia/el-benchmark-que-me-hizo-cambiar-de-opinion-sobre-jakarta-ee-en-2026-11i5",
+      "title": "El benchmark que me hizo cambiar de opinión sobre Jakarta EE en 2026",
+      "summary": "La primera tabla me dejó incómodo: en mi máquina, con el workload realista del lab, Embedded GlassFish parecía ganarle a Spring Boot. Si publicaba ahí, el post tenía más punch, pero también era metodológicamente flojo. Paré la pelota y agregué lo que faltaba: JDK soportado para todos, warmup separad",
+      "date_published": "2026-05-28",
+      "tags": [
+        "spanish",
+        "espanol",
+        "performance",
+        "backend"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "007",
+      "url": "https://dev.to/ujja/building-an-offline-first-bushfire-response-platform-with-hermes-agent-4m0a",
+      "title": "Building an Offline-First Bushfire Response Platform With Hermes Agent",
+      "summary": "This is a submission for the Hermes Agent Challenge: Build With Hermes Agent\n\n\n\n\n\n  \n  \n  What I Built\n\n\nProject Haven is an AI-powered emergency response platform for bushfire preparedness — evacuation routing, tiered real-time alerts, government recovery grant discovery, and offline-first PWA supp",
+      "date_published": "2026-05-28",
+      "tags": [
+        "hermesagentchallenge",
+        "devchallenge",
+        "agents"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "008",
+      "url": "https://dev.to/kev_luciano/the-golang-trinity-functions-methods-interfaces-31pa",
+      "title": "The Golang Trinity: Functions, Methods, Interfaces",
+      "summary": "Function: Does something with inputs\nMethod  Does something attached to a type\nInterface   Says what methods a type must have\n\nA method is a function with a receiver.\nAn interface is a set of method signatures.\nIf a type has those methods → it satisfies the interface. Automatically.\n\nNo implements. ",
+      "date_published": "2026-05-28",
+      "tags": [
+        "go"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "009",
+      "url": "https://dev.to/curioustore_48788631d0e2e/gitwink-a-read-only-tray-git-glance-for-the-ai-agent-era-2km0",
+      "title": "gitwink — a read-only tray git glance for the AI-agent era",
+      "summary": "I used to live in VS Code with GitLens pinned — the branch graph, heat-mapped blame, the lens annotations. That was my git workflow.\n\nThen 2026 happened. With Cursor, Claude Code, and Codex doing the actual editing, the editor itself became optional. The only thing dragging me back was GitLens.\n\nTha",
+      "date_published": "2026-05-28",
+      "tags": [
+        "showdev",
+        "ai",
+        "rust",
+        "opensource"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "010",
+      "url": "https://dev.to/codebysuraj109/i-built-a-free-php-laravel-tutorial-site-49-lessons-from-scratch-43g8",
+      "title": "I built a free PHP & Laravel tutorial site — 49 lessons from scratch",
+      "summary": "I've been working as a Laravel developer in Japan \nfor a while now, and I remember how hard it was \nto find good free resources when I was learning.\n\nSo I decided to build one myself.\n\n\n  \n  \n  What I built\n\n\nA free PHP & Laravel tutorial site with:\n\n\n49 lessons from PHP basics to Laravel advanced\n1",
+      "date_published": "2026-05-28",
+      "tags": [
+        "php",
+        "laravel",
+        "webdev",
+        "beginners"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "011",
+      "url": "https://dev.to/philyeh/sniffing-modbus-traffic-with-5-lines-of-python-and-why-it-should-scare-your-ot-team-27ja",
+      "title": "Sniffing Modbus Traffic with 5 Lines of Python (And Why It Should Scare Your OT Team)",
+      "summary": "⚠️ For defensive/educational purposes only. Sniff only networks you own or are explicitly authorized to test. Unauthorized network monitoring is illegal in most jurisdictions.\n\n\n\n  \n  \n  The uncomfortable truth about your factory floor\n\n\nIf your plant uses Modbus TCP — and statistically, it probably",
+      "date_published": "2026-05-28",
+      "tags": [
+        "python",
+        "security",
+        "iot",
+        "networking"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "012",
+      "url": "https://dev.to/dev-architecture-blog/why-hytale-treasure-hunts-explode-in-production-and-how-we-fixed-it-5h8f",
+      "title": "Why Hytale Treasure Hunts Explode In Production (And How We Fixed It)",
+      "summary": "The Problem We Were Actually Solving\n\n\nTreasure hunts in Hytale arent just about generating loot. Theyre about generating simultaneous loot across thousands of players while keeping the world state consistent. We started with the assumption that events are stateless notifications: a hunt starts, we ",
+      "date_published": "2026-05-28",
+      "tags": [
+        "webdev",
+        "programming",
+        "architecture",
+        "systems"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "013",
+      "url": "https://dev.to/agaafar/xgroundcontrolstation-49n5",
+      "title": "XGroundControlStation",
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nXGroundControl Station is a professional Ground Control Station (GCS) application built specifically for macOS, designed to provide full control over UAV systems. The project started as an attempt to create a mor",
+      "date_published": "2026-05-28",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "014",
+      "url": "https://dev.to/dev_harry/the-worst-time-to-quit-software-engineering-might-be-right-now-229h",
+      "title": "The Worst Time to Quit Software Engineering Might Be Right Now",
+      "summary": "I understand why so many people are questioning software engineering right now.\n\nEvery week there’s another headline saying AI will replace developers.\n\nJunior engineers are worried there won’t be jobs.\nSenior engineers are wondering how long their experience will stay valuable.\nAnd honestly, if you",
+      "date_published": "2026-05-28",
+      "tags": [
+        "career",
+        "ai",
+        "softwareengineering",
+        "programming"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "015",
+      "url": "https://dev.to/er0r/closiq-discord-agent-an-ai-customer-support-monolith-51nn",
+      "title": "Closiq Discord Agent: An AI Customer Support Monolith 🚀",
+      "summary": "This is a submission for the GitHub Finish-Up-A-Thon Challenge\n\n\n  \n  \n  What I Built\n\n\nI built the Closiq Discord Agent, a full-stack modular monolith engineered to transform a Discord channel into an automated, AI-driven customer support inbox and lead management system. \n\nWhen a customer messages",
+      "date_published": "2026-05-28",
+      "tags": [
+        "devchallenge",
+        "githubchallenge"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "016",
+      "url": "https://dev.to/merbayerp/why-does-using-an-orm-decrease-database-performance-an-experience-191o",
+      "title": "Why Does Using an ORM Decrease Database Performance? An Experience...",
+      "summary": "Why Does Using an ORM Decrease Database Performance?\n\n\nWhile trying to optimize the shipping module in a production ERP, I noticed that database queries were incredibly slow. At first, I examined the SQL queries and checked the indexes. However, I couldn't get the performance boost I expected. The p",
+      "date_published": "2026-05-28",
+      "tags": [
+        "orm",
+        "database",
+        "performance",
+        "architecture"
+      ],
+      "_source": "Dev.to"
+    },
+    {
+      "id": "017",
+      "url": "https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html",
+      "title": "FBI Arrests CIA Official with $40M in Gold Bars in His Home",
+      "summary": "Article URL: https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html\nComments URL: https://news.ycombinator.com/item?id=48302151\nPoints: 79\n# Comments: 38",
+      "date_published": "2026-05-27",
+      "tags": [
+        "Hacker News"
+      ],
+      "_source": "Hacker News"
+    },
+    {
+      "id": "018",
       "url": "https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer",
       "title": "Pelica (YC P25) Is Hiring",
       "summary": "Article URL: https://www.ycombinator.com/companies/pelica/jobs/MDeC49o-machine-learning-engineer\nComments URL: https://news.ycombinator.com/item?id=48301851\nPoints: 0\n# Comments: 0",
@@ -17,29 +245,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "002",
-      "url": "https://radar.cloudflare.com/traffic/ir?dateRange=28d",
-      "title": "Internet traffic in Iran increasing",
-      "summary": "Article URL: https://radar.cloudflare.com/traffic/ir?dateRange=28d\nComments URL: https://news.ycombinator.com/item?id=48301603\nPoints: 36\n# Comments: 17",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "003",
-      "url": "https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/",
-      "title": "Warm up your MacBook (2019)",
-      "summary": "Article URL: https://z3ugma.github.io/2019/11/18/warm-up-your-macbook/\nComments URL: https://news.ycombinator.com/item?id=48300342\nPoints: 36\n# Comments: 35",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Hacker News"
-      ],
-      "_source": "Hacker News"
-    },
-    {
-      "id": "004",
+      "id": "019",
       "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
       "title": "Show HN: Open-Source AI Racing Harness",
       "summary": "Hi I'm Dan from Elodin, making an open source real-time capable flight software simulation.For AI Grand Prix contestants, the wait for the Round 1 virtual qualifier simulation has been grueling.If you’re competing, check out our simulation harness to tide you over, built to match the published compe",
@@ -50,10 +256,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "005",
+      "id": "020",
       "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
       "title": "YouTube to automatically label AI-generated videos",
-      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label...\n\nComments URL: https://news.ycombinator.com/item?id=48299753\nPoints: 440\n# Comments: 253",
+      "summary": "https://variety.com/2026/digital/news/youtube-ai-video-label...\n\nComments URL: https://news.ycombinator.com/item?id=48299753\nPoints: 543\n# Comments: 323",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -61,10 +267,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "006",
+      "id": "021",
       "url": "https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/",
       "title": "I'm Getting into Mesh Networks (Meshtastic, MeshCore, and Reticulum)",
-      "summary": "Article URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/\nComments URL: https://news.ycombinator.com/item?id=48299638\nPoints: 24\n# Comments: 5",
+      "summary": "Article URL: https://www.jonaharagon.com/posts/im-getting-into-mesh-networks-meshtastic-meshcore-and-reticulum/\nComments URL: https://news.ycombinator.com/item?id=48299638\nPoints: 69\n# Comments: 21",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -72,10 +278,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "007",
+      "id": "022",
       "url": "https://sverre.me/blog/rust-on-kindle/",
       "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "summary": "Article URL: https://sverre.me/blog/rust-on-kindle/\nComments URL: https://news.ycombinator.com/item?id=48299623\nPoints: 79\n# Comments: 9",
+      "summary": "Article URL: https://sverre.me/blog/rust-on-kindle/\nComments URL: https://news.ycombinator.com/item?id=48299623\nPoints: 105\n# Comments: 11",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -83,10 +289,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "008",
+      "id": "023",
       "url": "https://2earth.github.io/website/20260525.html",
       "title": "On Labubu and the Hyperreal",
-      "summary": "Article URL: https://2earth.github.io/website/20260525.html\nComments URL: https://news.ycombinator.com/item?id=48299335\nPoints: 59\n# Comments: 62",
+      "summary": "Article URL: https://2earth.github.io/website/20260525.html\nComments URL: https://news.ycombinator.com/item?id=48299335\nPoints: 70\n# Comments: 78",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -94,10 +300,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "009",
+      "id": "024",
       "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
       "title": "What Apple and Google are doing to push notifications",
-      "summary": "Article URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\nComments URL: https://news.ycombinator.com/item?id=48299220\nPoints: 144\n# Comments: 141",
+      "summary": "Article URL: https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications\nComments URL: https://news.ycombinator.com/item?id=48299220\nPoints: 179\n# Comments: 183",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -105,10 +311,10 @@
       "_source": "Hacker News"
     },
     {
-      "id": "010",
+      "id": "025",
       "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
       "title": "SimCity 3k in 4k (2025)",
-      "summary": "Article URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\nComments URL: https://news.ycombinator.com/item?id=48297645\nPoints: 254\n# Comments: 92",
+      "summary": "Article URL: https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html\nComments URL: https://news.ycombinator.com/item?id=48297645\nPoints: 286\n# Comments: 107",
       "date_published": "2026-05-27",
       "tags": [
         "Hacker News"
@@ -116,7 +322,7 @@
       "_source": "Hacker News"
     },
     {
-      "id": "011",
+      "id": "026",
       "url": "https://techcrunch.com/2026/05/27/rivian-will-deliver-the-first-r2-suvs-on-june-9/",
       "title": "Rivian will deliver the first R2 SUVs on June 9",
       "summary": "The company has finally set a date for the first customer deliveries of what CEO RJ Scaringe has said is \"maybe the most important thing we’ve launched to date.\"",
@@ -130,7 +336,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "012",
+      "id": "027",
       "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
       "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
       "summary": "The Series B round was led by Battery Ventures.",
@@ -146,7 +352,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "013",
+      "id": "028",
       "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
@@ -163,7 +369,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "014",
+      "id": "029",
       "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
       "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
       "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
@@ -176,7 +382,7 @@
       "_source": "TechCrunch"
     },
     {
-      "id": "015",
+      "id": "030",
       "url": "https://techcrunch.com/2026/05/27/uk-visa-portal-spilled-thousands-of-applicants-passports-and-selfies-online-and-hasnt-fixed-the-leak/",
       "title": "UK Visa Portal exposed thousands of applicants’ passports and selfies — then called the lawyers on us",
       "summary": "The third-party website exposed passports, selfies, and the location data of applicants who submitted their documents as part of the U.K. visa application process. Instead of fixing the issue, the website sent attorneys.",
@@ -186,276 +392,6 @@
         "cybersecurity",
         "data exposure",
         "Exclusive"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "016",
-      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-      "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "Creators",
-        "Facebook",
-        "Instagram",
-        "Meta",
-        "meta ai",
-        "social media",
-        "subscriptions",
-        "WhatsApp"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "017",
-      "url": "https://techcrunch.com/2026/05/27/with-a-new-100m-raise-princetons-thea-energy-is-now-a-top-funded-fusion-startup/",
-      "title": "With a new $100M raise, Princeton’s Thea Energy is now a top-funded fusion startup",
-      "summary": "Thea Energy's pixel-inspired magnets could give its power plant plans a boost. The fusion startup hopes to get a commercial reactor working by 2034.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Climate",
-        "Climate Capital",
-        "fusion power",
-        "Gaingels",
-        "linse capital",
-        "nuclear fusion",
-        "Thea Energy",
-        "Timescale"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "018",
-      "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/",
-      "title": "CrowdStrike and Google take down botnet used by hackers to target open source software developers",
-      "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Security",
-        "cybercrime",
-        "cybersecurity",
-        "hackers",
-        "open source",
-        "supply chain attack",
-        "supply chain security"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "019",
-      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
-      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
-      "summary": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Startups",
-        "ai coding",
-        "cognition",
-        "Devin"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "020",
-      "url": "https://techcrunch.com/2026/05/27/faa-orders-spacex-to-investigate-starship-v3-booster-failure/",
-      "title": "FAA orders SpaceX to investigate Starship V3 booster failure",
-      "summary": "Starship is grounded until SpaceX finds out why the first V3 booster failed during its first test flight.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Space",
-        "Transportation",
-        "FAA",
-        "rockets",
-        "SpaceX",
-        "starbase"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "021",
-      "url": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-      "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-      "summary": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding, gain global visibility, connect directly with investors, and launch on the TechCrunch Disrupt stag",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Crypto",
-        "Fintech",
-        "Fundraising",
-        "Gadgets",
-        "Hardware",
-        "Media & Entertainment",
-        "Robotics",
-        "Startups",
-        "Venture",
-        "Startup Battlefield",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "022",
-      "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-      "title": "ElevenLabs’ new music-generation model can switch genres mid-track",
-      "summary": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "ai music",
-        "ElevenLabs",
-        "Google",
-        "Music"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "023",
-      "url": "https://techcrunch.com/2026/05/27/spotify-now-lets-you-clip-moments-from-your-favorite-podcast/",
-      "title": "Spotify now lets you ‘clip’ moments from your favorite podcast",
-      "summary": "With the new scissors icon, you can clip favorite moments from podcasts and share them with your audience.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "Apps",
-        "Media & Entertainment",
-        "Social",
-        "clips",
-        "podcasts",
-        "Spotify",
-        "streaming"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "024",
-      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-      "summary": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Hardware",
-        "Startups",
-        "ai sleep coach",
-        "sleep earbuds",
-        "sleepbuds",
-        "sond"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "025",
-      "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
-      "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
-      "summary": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you plan to attend one of the most influential gatherings in tech this year, now is the time to lock in y",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Apps",
-        "Biotech & Health",
-        "Climate",
-        "Crypto",
-        "Fintech",
-        "Fundraising",
-        "Government & Policy",
-        "Hardware",
-        "Media & Entertainment",
-        "Robotics",
-        "Security",
-        "Startups",
-        "Transportation",
-        "Venture",
-        "TechCrunch Disrupt 2026"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "026",
-      "url": "https://techcrunch.com/video/google-just-broke-seo-heres-what-replaces-it/",
-      "title": "Google just broke SEO. Here’s what replaces it.",
-      "summary": "Google I/O made it official: AI-generated answers are now front and center in search, and most brands have almost no visibility into how AI is describing them to their customers. For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant w",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI search",
-        "Equity Video",
-        "gemini",
-        "Geo",
-        "Google Search",
-        "scrunch",
-        "search engine optimization"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "027",
-      "url": "https://techcrunch.com/2026/05/27/china-is-increasingly-keeping-its-best-ai-talent-to-itself/",
-      "title": "China is increasingly keeping its best AI talent to itself",
-      "summary": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Government & Policy",
-        "China",
-        "travel ban"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "028",
-      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
-      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
-      "summary": "The database provider is eyeing a public debut within the next few years.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Enterprise",
-        "Venture",
-        "AI infranstructure",
-        "ClickHouse",
-        "database services",
-        "IPO"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "029",
-      "url": "https://techcrunch.com/2026/05/27/youtube-will-now-automatically-label-ai-videos/",
-      "title": "YouTube will now automatically label AI videos",
-      "summary": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more prominent.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Media & Entertainment",
-        "AI content",
-        "Creators",
-        "media",
-        "YouTube"
-      ],
-      "_source": "TechCrunch"
-    },
-    {
-      "id": "030",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "summary": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains.",
-      "date_published": "2026-05-27",
-      "tags": [
-        "AI",
-        "Startups",
-        "Venture",
-        "ai psychosis",
-        "Box",
-        "Layoffs",
-        "tech layoffs"
       ],
       "_source": "TechCrunch"
     }
