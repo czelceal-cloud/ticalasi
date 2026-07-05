@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+<title>ticalasi.com</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{width:100%;height:100%;overflow:hidden;background:#000;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+body{display:flex;justify-content:center;align-items:center}
+.stage{position:relative;width:100%;max-width:430px;height:100dvh;overflow:hidden;background:#000;box-shadow:0 0 60px rgba(0,0,0,0.8)}
+.track{display:flex;width:400%;height:100%;transition:transform .6s cubic-bezier(.25,.46,.45,.94);will-change:transform}
+.scene{position:relative;width:25%;height:100%;overflow:hidden;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:70px 28px 90px}
+
+/* Scene 0 - EXPLORE - light */
+.scene-0{background:linear-gradient(170deg,#fff6ef 0%,#ffe9d6 40%,#ffd9c0 100%)}
+.scene-0::before{content:"";position:absolute;inset:0;background:radial-gradient(circle at 70% 60%,rgba(255,120,50,.12),transparent 60%);z-index:0}
+.scene-0 .char{position:absolute;bottom:0;right:-40px;height:78%;width:auto;max-width:90%;z-index:1;animation:floatChar 5s ease-in-out infinite;filter:drop-shadow(0 15px 35px rgba(0,0,0,.12))}
+.scene-0::after{content:"";position:absolute;bottom:0;left:0;right:0;height:40%;background:linear-gradient(180deg,transparent,rgba(255,246,239,.6));z-index:2;pointer-events:none}
+
+/* Scene 1 - WORKS - dark */
+.scene-1{background:linear-gradient(170deg,#0a0a1e 0%,#180a2e 50%,#0a0a1e 100%)}
+.scene-1 .char{position:absolute;bottom:0;left:-40px;height:78%;width:auto;max-width:90%;z-index:1;opacity:.7;animation:floatChar 6s ease-in-out infinite;filter:drop-shadow(0 15px 40px rgba(200,50,160,.25))}
+.scene-1::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,10,30,.2) 0%,rgba(10,10,30,.55) 100%);z-index:2;pointer-events:none}
+
+/* Scene 2 - AI LAB - particles */
+.scene-2{background:radial-gradient(ellipse at 50% 40%,#1a0a2e 0%,#08081a 60%,#040410 100%)}
+#particles{position:absolute;inset:0;width:100%;height:100%;z-index:1}
+.scene-2::after{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at center,transparent 30%,rgba(4,4,16,.5) 100%);z-index:2;pointer-events:none}
+
+/* Scene 3 - ABOUT - tech grid */
+.scene-3{background:#060614;background-image:linear-gradient(rgba(60,120,240,.12) 1px,transparent 1px),linear-gradient(90deg,rgba(60,120,240,.12) 1px,transparent 1px);background-size:32px 32px}
+.scene-3::before{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at center,transparent 0%,#060614 85%);z-index:1}
+.scene-3::after{content:"";position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,120,50,.04),rgba(200,50,160,.04),rgba(60,120,240,.04));z-index:2;pointer-events:none}
+
+@keyframes floatChar{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+
+/* Brand */
+.brand{position:absolute;top:26px;left:50%;transform:translateX(-50%);z-index:50;font-size:12px;font-weight:800;letter-spacing:4px;background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+
+/* Content */
+.content{position:relative;z-index:10;text-align:center;width:100%;max-width:340px}
+.tag{display:inline-flex;align-items:center;gap:6px;font-size:10px;letter-spacing:3px;font-weight:700;padding:6px 14px;border-radius:20px;margin-bottom:18px;text-transform:uppercase}
+.scene-0 .tag{background:rgba(255,120,50,.12);border:1px solid rgba(255,120,50,.25);color:#c832a0}
+.scene-1 .tag,.scene-2 .tag,.scene-3 .tag{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12);color:#ff7832}
+.title{font-size:44px;font-weight:900;line-height:1.02;margin-bottom:6px;letter-spacing:-1.5px;background:linear-gradient(135deg,#ff7832 0%,#c832a0 50%,#3c78f0 100%);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.subtitle{font-size:13px;font-weight:600;letter-spacing:1.5px;margin-bottom:14px;text-transform:uppercase}
+.scene-0 .subtitle{color:#7a4a2a;opacity:.8}
+.scene-1 .subtitle,.scene-2 .subtitle,.scene-3 .subtitle{color:#aaa}
+.pulse-line{width:64px;height:3px;margin:0 auto 18px;border-radius:2px;background:linear-gradient(90deg,#ff7832,#c832a0,#3c78f0);position:relative;overflow:hidden}
+.pulse-line::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.9),transparent);animation:pulseSlide 2s linear infinite}
+@keyframes pulseSlide{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
+.desc{font-size:13px;line-height:1.65;margin-bottom:20px}
+.scene-0 .desc{color:#5a3a1a;opacity:.85}
+.scene-1 .desc,.scene-2 .desc,.scene-3 .desc{color:#bbb}
+.hint{font-size:10px;letter-spacing:2.5px;text-transform:uppercase;display:flex;align-items:center;justify-content:center;gap:8px}
+.scene-0 .hint{color:#8a6a4a}
+.scene-1 .hint,.scene-2 .hint,.scene-3 .hint{color:#777}
+.hint i{animation:tapHint 1.5s ease-in-out infinite}
+@keyframes tapHint{0%,100%{opacity:.4;transform:scale(1)}50%{opacity:1;transform:scale(1.15)}}
+
+/* Panel */
+.panel{position:absolute;bottom:0;left:0;right:0;background:rgba(12,12,28,.55);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:24px 24px 0 0;border-top:1px solid rgba(255,255,255,.12);padding:14px 24px 36px;z-index:100;transform:translateY(110%);transition:transform .55s cubic-bezier(.25,.46,.45,.94)}
+.panel.active{transform:translateY(0)}
+.panel-handle{width:40px;height:4px;background:rgba(255,255,255,.25);border-radius:2px;margin:0 auto 22px}
+.panel-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
+.panel-title{font-size:24px;font-weight:900;letter-spacing:-.5px;background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.panel-badge{font-size:9px;letter-spacing:2px;font-weight:700;padding:4px 10px;border-radius:12px;background:rgba(255,120,50,.15);color:#ff7832;border:1px solid rgba(255,120,50,.25)}
+.panel-desc{font-size:13px;line-height:1.6;color:#ccc;margin-bottom:20px}
+.panel-features{display:flex;flex-direction:column;gap:10px;margin-bottom:22px}
+.feature{display:flex;align-items:center;gap:12px;font-size:12.5px;color:#ddd}
+.feature i{width:34px;height:34px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,rgba(255,120,50,.15),rgba(200,50,160,.15));border:1px solid rgba(255,255,255,.08);border-radius:10px;color:#ff7832;font-size:13px;flex-shrink:0}
+.cta{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;padding:15px;border-radius:14px;background:linear-gradient(135deg,#ff7832 0%,#c832a0 50%,#3c78f0 100%);background-size:200% 100%;color:#fff;font-size:13px;font-weight:700;text-decoration:none;letter-spacing:1.5px;text-transform:uppercase;box-shadow:0 8px 28px rgba(200,50,160,.35);transition:background-position .4s,transform .2s}
+.cta:active{transform:scale(.97)}
+.cta:hover{background-position:100% 0}
+.dismiss{display:block;margin:14px auto 0;background:none;border:none;color:#777;font-size:11px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;padding:6px}
+
+/* Dots */
+.dots{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);display:flex;gap:10px;z-index:200;transition:opacity .3s}
+.dots.hidden{opacity:0;pointer-events:none}
+.dot{width:8px;height:8px;border-radius:50%;background:rgba(0,0,0,.22);transition:all .4s cubic-bezier(.25,.46,.45,.94);cursor:pointer}
+.dot.active{width:30px;border-radius:4px;background:linear-gradient(90deg,#ff7832,#c832a0,#3c78f0)}
+.dots.dark .dot{background:rgba(255,255,255,.22)}
+.dots.dark .dot.active{background:linear-gradient(90deg,#ff7832,#c832a0,#3c78f0)}
+
+/* Swipe arrows */
+.arrows{position:absolute;top:50%;width:100%;display:flex;justify-content:space-between;padding:0 14px;z-index:60;transform:translateY(-50%);pointer-events:none;opacity:.3}
+.arrow{font-size:18px;color:#fff}
+.scene-0 .arrow{color:#5a3a1a}
+
+@media(max-height:700px){.title{font-size:36px}.scene{padding-top:60px}}
+</style>
+</head>
+<body>
+<div class="stage" id="stage">
+  <div class="brand">TICALASI</div>
+  <div class="track" id="track">
+    <!-- Scene 0: EXPLORE -->
+    <section class="scene scene-0">
+      <img class="char" src="girl-white-hd.jpg" alt="" onerror="this.style.display='none'">
+      <div class="content">
+        <span class="tag"><i class="fas fa-compass"></i> Explore</span>
+        <h1 class="title">ticalcode</h1>
+        <p class="subtitle">AI Agent Platform</p>
+        <div class="pulse-line"></div>
+        <p class="desc">Build, deploy, and orchestrate intelligent agents that reason, act, and collaborate across any domain — all in one composable runtime.</p>
+        <p class="hint"><i class="fas fa-hand-pointer"></i> Tap to learn more</p>
+      </div>
+    </section>
+    <!-- Scene 1: WORKS -->
+    <section class="scene scene-1">
+      <img class="char" src="girl-dark-hd.png" alt="" onerror="this.style.display='none'">
+      <div class="content">
+        <span class="tag"><i class="fas fa-gears"></i> Works</span>
+        <h1 class="title">EITE Agent</h1>
+        <p class="subtitle">Existential Identity Test Engine</p>
+        <div class="pulse-line"></div>
+        <p class="desc">A reasoning engine that probes identity, intent, and self-awareness through structured existential dialogue and adversarial self-reflection.</p>
+        <p class="hint"><i class="fas fa-hand-pointer"></i> Tap to learn more</p>
+      </div>
+    </section>
+    <!-- Scene 2: AI LAB -->
+    <section class="scene scene-2">
+      <canvas id="particles"></canvas>
+      <div class="content">
+        <span class="tag"><i class="fas fa-flask"></i> AI Lab</span>
+        <h1 class="title">Research</h1>
+        <p class="subtitle">Frontier Experiments</p>
+        <div class="pulse-line"></div>
+        <p class="desc">Exploring emergent behavior, multi-agent systems, and the boundaries of machine cognition through open research and public benchmarks.</p>
+        <p class="hint"><i class="fas fa-hand-pointer"></i> Tap to learn more</p>
+      </div>
+    </section>
+    <!-- Scene 3: ABOUT -->
+    <section class="scene scene-3">
+      <div class="content">
+        <span class="tag"><i class="fas fa-circle-info"></i> About</span>
+        <h1 class="title">ticalasi</h1>
+        <p class="subtitle">Building the Future</p>
+        <div class="pulse-line"></div>
+        <p class="desc">A collective of researchers and engineers crafting tools at the intersection of identity, intelligence, and interaction. Open-source first.</p>
+        <p class="hint"><i class="fas fa-hand-pointer"></i> Tap to learn more</p>
+      </div>
+    </section>
+  </div>
+
+  <!-- Info Panel -->
+  <div class="panel" id="panel">
+    <div class="panel-handle"></div>
+    <div class="panel-head">
+      <h2 class="panel-title" id="panelTitle">ticalcode</h2>
+      <span class="panel-badge" id="panelBadge">EXPLORE</span>
+    </div>
+    <p class="panel-desc" id="panelDesc"></p>
+    <div class="panel-features" id="panelFeatures"></div>
+    <a href="#" class="cta" id="panelCta" target="_blank" rel="noopener">
+      <i class="fas fa-arrow-up-right-from-square"></i>
+      <span id="ctaText">Visit ticalcode.com</span>
+    </a>
+    <button class="dismiss" id="dismiss">Dismiss</button>
+  </div>
+
+  <!-- Dots -->
+  <div class="dots" id="dots">
+    <div class="dot active" data-i="0"></div>
+    <div class="dot" data-i="1"></div>
+    <div class="dot" data-i="2"></div>
+    <div class="dot" data-i="3"></div>
+  </div>
+</div>
+
+<script>
+const stage=document.getElementById('stage');
+const track=document.getElementById('track');
+const dots=document.querySelectorAll('.dot');
+const dotsContainer=document.getElementById('dots');
+const panel=document.getElementById('panel');
+const panelTitle=document.getElementById('panelTitle');
+const panelBadge=document.getElementById('panelBadge');
+const panelDesc=document.getElementById('panelDesc');
+const panelFeatures=document.getElementById('panelFeatures');
+const panelCta=document.getElementById('panelCta');
+const ctaText=document.getElementById('ctaText');
+const dismissBtn=document.getElementById('dismiss');
+
+const scenes=[
+  {
+    title:'ticalcode',badge:'EXPLORE',
+    desc:'AI Agent Platform — build, deploy, and orchestrate intelligent agents that reason, act, and collaborate across any domain. All in one composable runtime with visual workflow builder and 100+ native integrations.',
+    features:[
+      {icon:'fa-cube',text:'Composable agent runtime'},
+      {icon:'fa-code-branch',text:'Visual workflow builder'},
+      {icon:'fa-plug',text:'100+ native integrations'},
+      {icon:'fa-bolt',text:'Real-time orchestration'}
+    ],
+    cta:'Visit ticalcode.com',link:'https://ticalcode.com'
+  },
+  {
+    title:'EITE Agent',badge:'WORKS',
+    desc:'Existential Identity Test Engine — a reasoning engine that probes identity, intent, and self-awareness through structured existential dialogue and adversarial self-reflection layers.',
+    features:[
+      {icon:'fa-brain',text:'Multi-layer identity probing'},
+      {icon:'fa-shield-halved',text:'Adversarial self-reflection'},
+      {icon:'fa-fingerprint',text:'Behavioral signature mapping'},
+      {icon:'fa-key',text:'Intent verification protocol'}
+    ],
+    cta:'Read the whitepaper',link:'https://ticalcode.com/eite'
+  },
+  {
+    title:'AI Lab',badge:'RESEARCH',
+    desc:'Frontier experiments in emergent behavior, multi-agent systems, and the boundaries of machine cognition. Open research notebooks and public benchmark suite.',
+    features:[
+      {icon:'fa-flask',text:'Open research notebooks'},
+      {icon:'fa-network-wired',text:'Multi-agent simulations'},
+      {icon:'fa-chart-line',text:'Public benchmark suite'},
+      {icon:'fa-microscope',text:'Emergent behavior studies'}
+    ],
+    cta:'Explore on GitHub',link:'https://github.com/ticalasi'
+  },
+  {
+    title:'ticalasi',badge:'ABOUT',
+    desc:'A collective of researchers and engineers crafting tools at the intersection of identity, intelligence, and interaction. Open-source first, shipping since 2023.',
+    features:[
+      {icon:'fa-users',text:'Distributed team worldwide'},
+      {icon:'fa-heart',text:'Open-source first'},
+      {icon:'fa-rocket',text:'Shipping since 2023'},
+      {icon:'fa-envelope',text:'hello@ticalasi.com'}
+    ],
+    cta:'Get in touch',link:'https://ticalcode.com/about'
+  }
+];
+
+let current=0,panelOpen=false,panelShownFor=-1;
+let startX=0,startY=0,dx=0,dy=0,swiping=false,touchMoved=false;
+
+function updateDots(){
+  dots.forEach((d,i)=>d.classList.toggle('active',i===current));
+  dotsContainer.classList.toggle('dark',current!==0);
+}
+function goTo(i){
+  current=((i%4)+4)%4;
+  track.style.transform=`translateX(-${current*25}%)`;
+  updateDots();
+  closePanel();
+}
+function openPanel(){
+  const s=scenes[current];
+  panelTitle.textContent=s.title;
+  panelBadge.textContent=s.badge;
+  panelDesc.textContent=s.desc;
+  panelFeatures.innerHTML=s.features.map(f=>`<div class="feature"><i class="fas ${f.icon}"></i><span>${f.text}</span></div>`).join('');
+  ctaText.textContent=s.cta;
+  panelCta.href=s.link;
+  panel.classList.add('active');
+  dotsContainer.classList.add('hidden');
+  panelOpen=true;
+  panelShownFor=current;
+}
+function closePanel(){
+  panel.classList.remove('active');
+  dotsContainer.classList.remove('hidden');
+  panelOpen=false;
+  panelShownFor=-1;
+}
+
+// Touch
+stage.addEventListener('touchstart',e=>{
+  startX=e.touches[0].clientX;startY=e.touches[0].clientY;
+  dx=0;dy=0;swiping=false;touchMoved=false;
+},{passive:true});
+stage.addEventListener('touchmove',e=>{
+  dx=e.touches[0].clientX-startX;
+  dy=e.touches[0].clientY-startY;
+  if(Math.abs(dx)>8||Math.abs(dy)>8){swiping=true;touchMoved=true}
+},{passive:true});
+stage.addEventListener('touchend',e=>{
+  if(swiping&&Math.abs(dx)>Math.abs(dy)&&Math.abs(dx)>50){
+    if(dx<0)goTo(current+1);else goTo(current-1);
+    return;
+  }
+  if(touchMoved)return;
+  if(panel.contains(e.target))return;
+  if(panelOpen){
+    if(panelShownFor===current)window.open(scenes[current].link,'_blank');
+  }else{
+    openPanel();
+  }
+});
+
+// Mouse
+let mDown=false,mStartX=0,mStartY=0,mMoved=false;
+stage.addEventListener('mousedown',e=>{
+  if(panel.contains(e.target))return;
+  mDown=true;mStartX=e.clientX;mStartY=e.clientY;mMoved=false;
+});
+stage.addEventListener('mousemove',e=>{
+  if(!mDown)return;
+  const mdx=e.clientX-mStartX,mdy=e.clientY-mStartY;
+  if(Math.abs(mdx)>8||Math.abs(mdy)>8)mMoved=true;
+});
+stage.addEventListener('mouseup',e=>{
+  if(!mDown)return;mDown=false;
+  if(panel.contains(e.target))return;
+  if(mMoved){
+    const mdx=e.clientX-mStartX;
+    if(Math.abs(mdx)>50){if(mdx<0)goTo(current+1);else goTo(current-1);}
+    return;
+  }
+  if(panelOpen){
+    if(panelShownFor===current)window.open(scenes[current].link,'_blank');
+  }else{
+    openPanel();
+  }
+});
+
+// Dots
+dots.forEach(d=>{
+  d.addEventListener('click',e=>{
+    e.stopPropagation();
+    goTo(parseInt(d.dataset.i));
+  });
+  d.addEventListener('touchstart',e=>{e.stopPropagation()},{passive:true});
+});
+
+// Dismiss & CTA
+dismissBtn.addEventListener('click',e=>{e.stopPropagation();closePanel()});
+dismissBtn.addEventListener('touchstart',e=>{e.stopPropagation()},{passive:true});
+panelCta.addEventListener('click',e=>{e.stopPropagation()});
+panelCta.addEventListener('touchstart',e=>{e.stopPropagation()},{passive:true});
+
+// Keyboard
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight')goTo(current+1);
+  if(e.key==='ArrowLeft')goTo(current-1);
+  if(e.key==='Escape')closePanel();
+  if(e.key==='Enter'&&!panelOpen)openPanel();
+});
+
+// Particles
+const canvas=document.getElementById('particles');
+const ctx=canvas.getContext('2d');
+let particles=[],cw=0,ch=0;
+function resizeCanvas(){
+  const r=canvas.getBoundingClientRect();
+  cw=canvas.width=r.width;
+  ch=canvas.height=r.height;
+}
+function initParticles(){
+  particles=[];
+  const count=Math.min(150,Math.floor(cw*ch/3500));
+  for(let i=0;i<count;i++){
+    const huePick=Math.random();
+    particles.push({
+      x:Math.random()*cw,y:Math.random()*ch,
+      r:Math.random()*1.4+.3,
+      vy:Math.random()*.35+.08,
+      vx:(Math.random()-.5)*.08,
+      tw:Math.random()*Math.PI*2,
+      ts:Math.random()*.04+.008,
+      hue:huePick<.4?25:(huePick<.7?320:220)
+    });
+  }
+}
+function drawParticles(){
+  ctx.clearRect(0,0,cw,ch);
+  for(const p of particles){
+    p.y-=p.vy;p.x+=p.vx;p.tw+=p.ts;
+    if(p.y<-5){p.y=ch+5;p.x=Math.random()*cw}
+    if(p.x<-5)p.x=cw+5;if(p.x>cw+5)p.x=-5;
+    const a=.35+Math.sin(p.tw)*.4;
+    ctx.beginPath();
+    ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+    ctx.fillStyle=`hsla(${p.hue},85%,68%,${a})`;
+    ctx.shadowBlur=6;
+    ctx.shadowColor=`hsla(${p.hue},85%,68%,${a*.8})`;
+    ctx.fill();
+  }
+  ctx.shadowBlur=0;
+  requestAnimationFrame(drawParticles);
+}
+window.addEventListener('resize',()=>{resizeCanvas();initParticles()});
+resizeCanvas();initParticles();drawParticles();updateDots();
+</script>
+</body>
+</html>

@@ -1,0 +1,578 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<title>ticalasi</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;}
+html,body{height:100%;overflow:hidden;background:#fff;}
+
+body{
+  max-width:430px;
+  margin:0 auto;
+  height:100dvh;
+  overflow:hidden;
+  position:relative;
+  font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  -webkit-user-select:none;
+  user-select:none;
+}
+
+/* ===== SWIPE CONTAINER ===== */
+.swipe{
+  display:flex;
+  width:400%;
+  height:100dvh;
+  transition:transform 0.45s cubic-bezier(.25,.46,.45,.94);
+  will-change:transform;
+}
+.swipe.s0{transform:translateX(0%);}
+.swipe.s1{transform:translateX(-25%);}
+.swipe.s2{transform:translateX(-50%);}
+.swipe.s3{transform:translateX(-75%);}
+
+/* ===== SCENE BASE ===== */
+.scene{
+  width:25%;height:100dvh;
+  flex-shrink:0;
+  display:flex;flex-direction:column;
+  position:relative;overflow:hidden;
+  cursor:pointer;
+}
+
+/* ===== BACKGROUND ===== */
+.scene-bg{
+  position:absolute;inset:0;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  z-index:0;
+}
+.scene-bg-img{position:absolute;inset:0;z-index:0;}
+.scene-bg-img img{
+  width:100%;height:100%;
+  object-fit:cover;object-position:center;
+}
+
+/* ===== OVERLAY ===== */
+.scene-overlay{
+  position:absolute;inset:0;z-index:1;
+}
+.scene-light .scene-overlay{
+  background:linear-gradient(180deg,rgba(0,0,0,0.08) 0%,rgba(0,0,0,0.02) 40%,rgba(0,0,0,0.02) 60%,rgba(0,0,0,0.08) 100%);
+}
+.scene-dark .scene-overlay{
+  background:linear-gradient(180deg,rgba(0,0,0,0.4) 0%,rgba(0,0,0,0.15) 40%,rgba(0,0,0,0.15) 60%,rgba(0,0,0,0.4) 100%);
+}
+
+/* ===== CHARACTER ===== */
+.char-wrap{
+  position:absolute;
+  bottom:0;left:50%;
+  transform:translateX(-50%);
+  z-index:2;
+  height:45vh;
+  pointer-events:none;
+  animation:charFloat 4s ease-in-out infinite;
+  will-change:transform;
+}
+.char-wrap img{height:100%;width:auto;object-fit:contain;display:block;}
+
+@keyframes charFloat{
+  0%,100%{transform:translateX(-50%) translateY(0);}
+  50%{transform:translateX(-50%) translateY(-12px);}
+}
+
+/* ===== SCENE 2 PARTICLE CANVAS ===== */
+#particleCanvas{
+  position:absolute;inset:0;
+  z-index:0;
+  pointer-events:none;
+}
+
+/* ===== SCENE 3 GRID ===== */
+.scene3-grid{
+  position:absolute;inset:0;z-index:0;
+  background-image:
+    radial-gradient(rgba(255,255,255,0.06) 1px,transparent 1px);
+  background-size:24px 24px;
+  pointer-events:none;
+}
+.scene3-grid::after{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse at center,transparent 0%,#0a0a12 80%);
+}
+
+/* ===== CONTENT AREA (top portion) ===== */
+.content{
+  position:relative;z-index:3;
+  padding:clamp(24px,5vw,32px) clamp(20px,5vw,28px);
+  flex:1;
+  display:flex;flex-direction:column;
+  justify-content:flex-start;
+  padding-top:clamp(48px,10vh,80px);
+}
+
+.tagline{
+  font-size:clamp(11px,2.5vw,14px);
+  letter-spacing:0.15em;
+  text-transform:uppercase;
+  margin-bottom:8px;
+  font-weight:500;
+}
+.scene-light .tagline{color:rgba(0,0,0,0.4);}
+.scene-dark .tagline{color:rgba(255,255,255,0.4);}
+
+.title{
+  font-size:clamp(28px,7vw,44px);
+  font-weight:800;
+  line-height:1.1;
+  margin-bottom:4px;
+  background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+  background-size:200% 200%;
+  animation:gradientShift 6s ease-in-out infinite alternate;
+}
+@keyframes gradientShift{
+  0%{background-position:0% 50%;}
+  100%{background-position:100% 50%;}
+}
+
+/* ===== ENERGY/PULSE LINE ===== */
+.energy-line{
+  width:clamp(40px,12vw,80px);
+  height:3px;
+  background:linear-gradient(90deg,#ff7832,#c832a0,#3c78f0);
+  border-radius:2px;
+  margin:10px 0 12px;
+  position:relative;
+  overflow:visible;
+}
+.energy-line::after{
+  content:'';position:absolute;
+  left:0;top:-2px;
+  width:8px;height:7px;
+  border-radius:50%;
+  background:#ff7832;
+  animation:energyPulse 2s ease-in-out infinite;
+  box-shadow:0 0 8px rgba(255,120,50,0.6);
+}
+@keyframes energyPulse{
+  0%,100%{left:0;opacity:1;}
+  50%{left:calc(100% - 8px);opacity:0.4;}
+}
+
+.subtitle{
+  font-size:clamp(12px,2.8vw,16px);
+  font-weight:600;
+  margin-bottom:10px;
+  letter-spacing:0.02em;
+}
+.scene-light .subtitle{color:rgba(0,0,0,0.6);}
+.scene-dark .subtitle{color:rgba(255,255,255,0.6);}
+
+.desc{
+  font-size:clamp(13px,3vw,16px);
+  line-height:1.65;
+  max-width:360px;
+}
+.scene-light .desc{color:rgba(0,0,0,0.55);}
+.scene-dark .desc{color:rgba(255,255,255,0.55);}
+
+.tap-hint{
+  font-size:clamp(10px,2.2vw,12px);
+  margin-top:auto;
+  padding-bottom:clamp(60px,12vh,100px);
+  letter-spacing:0.08em;
+  transition:opacity 0.5s ease;
+}
+.scene-light .tap-hint{color:rgba(0,0,0,0.25);}
+.scene-dark .tap-hint{color:rgba(255,255,255,0.25);}
+.tap-hint.hidden{opacity:0;}
+
+/* ===== FROSTED GLASS PANEL ===== */
+.panel{
+  position:absolute;
+  bottom:0;left:0;right:0;
+  z-index:10;
+  padding:24px 24px max(24px,env(safe-area-inset-bottom,16px));
+  transform:translateY(calc(100% + 20px));
+  opacity:0;
+  transition:all 0.4s cubic-bezier(.25,.46,.45,.94);
+  pointer-events:none;
+}
+.panel.show{
+  transform:translateY(0);
+  opacity:1;
+  pointer-events:auto;
+}
+.panel-inner{
+  backdrop-filter:blur(20px);
+  -webkit-backdrop-filter:blur(20px);
+  border-radius:20px;
+  padding:24px;
+  border:1px solid rgba(255,255,255,0.2);
+}
+.panel-light .panel-inner{
+  background:rgba(255,255,255,0.7);
+  border-color:rgba(255,255,255,0.3);
+}
+.panel-dark .panel-inner{
+  background:rgba(255,255,255,0.12);
+  border-color:rgba(255,255,255,0.15);
+}
+.panel-inner h3{
+  font-size:clamp(15px,3.5vw,19px);
+  font-weight:700;
+  margin-bottom:8px;
+  background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.panel-inner p{
+  font-size:clamp(12px,2.6vw,14px);
+  line-height:1.6;
+  margin-bottom:14px;
+}
+.panel-dark .panel-inner p{color:rgba(255,255,255,0.75);}
+.panel-light .panel-inner p{color:rgba(0,0,0,0.65);}
+.panel-inner .panel-link{
+  display:inline-flex;align-items:center;gap:6px;
+  font-size:clamp(11px,2.4vw,13px);
+  font-weight:600;
+  padding:8px 20px;
+  border-radius:12px;
+  background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);
+  color:#fff;
+  text-decoration:none;
+  transition:transform 0.2s ease,box-shadow 0.2s ease;
+}
+.panel-inner .panel-link:active{transform:scale(0.96);}
+
+/* ===== PAGINATION DOTS ===== */
+.dots{
+  position:fixed;
+  bottom:clamp(20px,3vh,32px);
+  left:50%;
+  transform:translateX(-50%);
+  display:flex;
+  gap:12px;
+  z-index:30;
+  max-width:430px;
+  width:auto;
+}
+.dot{
+  width:clamp(8px,1.8vw,11px);
+  height:clamp(8px,1.8vw,11px);
+  border-radius:50%;
+  background:rgba(0,0,0,0.15);
+  cursor:pointer;
+  transition:all 0.35s cubic-bezier(.25,.46,.45,.94);
+  border:1.5px solid rgba(0,0,0,0.06);
+}
+.dot.on{background:rgba(0,0,0,0.55);border-color:transparent;transform:scale(1.35);}
+.scene-dark .dot{background:rgba(255,255,255,0.2);border-color:rgba(255,255,255,0.08);}
+.scene-dark .dot.on{background:rgba(255,255,255,0.6);border-color:transparent;}
+
+/* ===== SCENE 1 OVERLAY (lighter) ===== */
+.scene-scene1 .scene-overlay{
+  background:linear-gradient(180deg,rgba(0,0,0,0.3) 0%,rgba(255,255,255,0.05) 30%,rgba(255,255,255,0.05) 70%,rgba(0,0,0,0.3) 100%);
+}
+
+/* ===== RESPONSIVE ===== */
+@media(min-width:431px){
+  body{box-shadow:0 0 40px rgba(0,0,0,0.08);}
+}
+@media(max-width:320px){
+  .content{padding:16px;}
+  .title{font-size:24px;}
+  .char-wrap{height:38vh;}
+}
+</style>
+</head>
+<body>
+
+<div class="swipe s0" id="swipe">
+
+  <!-- ===== SCENE 0 — EXPLORE / ticalcode ===== -->
+  <div class="scene scene-light" data-scene="0">
+    <div class="scene-bg" style="background-image:url('girl-white-hd.jpg')"></div>
+    <div class="scene-overlay"></div>
+
+    <div class="char-wrap">
+      <img src="girl-white-hd.jpg" alt="" draggable="false">
+    </div>
+
+    <div class="content">
+      <p class="tagline">Explore the edge of possibility</p>
+      <h1 class="title">ticalcode</h1>
+      <div class="energy-line"></div>
+      <p class="subtitle">AI Agent Platform</p>
+      <p class="desc">Build, deploy, and manage autonomous AI agents at scale. Seamless orchestration, real-time monitoring, intelligent automation.</p>
+      <p class="tap-hint" id="hint0">⟡ tap to reveal ⟡</p>
+    </div>
+
+    <div class="panel panel-light" id="panel0">
+      <div class="panel-inner">
+        <h3>ticalcode — AI Agent Platform</h3>
+        <p>Build, deploy, and manage autonomous AI agents at scale. Seamless orchestration, real-time monitoring, intelligent automation.</p>
+        <a class="panel-link" href="https://ticalcode.com" target="_blank" rel="noopener">Visit ticalcode <i class="fas fa-arrow-right"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SCENE 1 — WORKS / EITE Agent ===== -->
+  <div class="scene scene-dark scene-scene1" data-scene="1">
+    <div class="scene-bg" style="background-image:url('girl-dark-hd.png')"></div>
+    <div class="scene-overlay"></div>
+
+    <div class="char-wrap">
+      <img src="girl-dark-hd.png" alt="" draggable="false">
+    </div>
+
+    <div class="content">
+      <h1 class="title">EITE Agent</h1>
+      <div class="energy-line"></div>
+      <p class="subtitle">Existential Identity Test Engine</p>
+      <p class="desc">Open-source framework for benchmarking AI agent honesty, autonomy, and runtime integrity. Standardized tests for identity verification.</p>
+      <p class="tap-hint" id="hint1">⟡ tap to explore ⟡</p>
+    </div>
+
+    <div class="panel panel-dark" id="panel1">
+      <div class="panel-inner">
+        <h3>EITE Agent — Existential Identity Test Engine</h3>
+        <p>Open-source framework for benchmarking AI agent honesty, autonomy, and runtime integrity. Standardized tests for identity verification and behavioral analysis.</p>
+        <a class="panel-link" href="https://github.com/czelceal-cloud/eite-agent" target="_blank" rel="noopener">View on GitHub <i class="fab fa-github"></i></a>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SCENE 2 — AI LAB ===== -->
+  <div class="scene scene-dark" data-scene="2">
+    <canvas id="particleCanvas"></canvas>
+    <div class="scene-overlay"></div>
+
+    <div class="content">
+      <h1 class="title">AI Lab</h1>
+      <div class="energy-line"></div>
+      <p class="subtitle">Research &amp; Experimentation</p>
+      <p class="desc">Cutting-edge AI research lab exploring agent autonomy, multi-agent systems, and emergent behaviors. Innovation through experimentation.</p>
+      <p class="tap-hint" id="hint2">⟡ tap to learn more ⟡</p>
+    </div>
+
+    <div class="panel panel-dark" id="panel2">
+      <div class="panel-inner">
+        <h3>AI Lab — Research &amp; Experimentation</h3>
+        <p>Cutting-edge AI research lab exploring agent autonomy, multi-agent systems, and emergent behaviors. Pushing the boundaries of what autonomous systems can achieve through continuous experimentation.</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== SCENE 3 — ABOUT ===== -->
+  <div class="scene scene-dark" data-scene="3">
+    <div class="scene3-grid"></div>
+    <div class="scene-overlay"></div>
+
+    <div class="content">
+      <h1 class="title">About ticalasi</h1>
+      <div class="energy-line"></div>
+      <p class="desc">Independent AI research &amp; development. Open-source philosophy, pushing the boundaries of what autonomous agents can achieve.</p>
+      <p class="tap-hint" id="hint3">⟡ tap to learn more ⟡</p>
+    </div>
+
+    <div class="panel panel-dark" id="panel3">
+      <div class="panel-inner">
+        <h3>About ticalasi</h3>
+        <p>Independent AI research &amp; development with an open-source philosophy. We push the boundaries of what autonomous agents can achieve, exploring new frontiers in agent autonomy, multi-agent systems, and emergent intelligence.</p>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="dots" id="dots">
+  <div class="dot on" data-i="0"></div>
+  <div class="dot" data-i="1"></div>
+  <div class="dot" data-i="2"></div>
+  <div class="dot" data-i="3"></div>
+</div>
+
+<script>
+(function(){
+  'use strict';
+
+  const swipe = document.getElementById('swipe');
+  const dots = document.querySelectorAll('.dot');
+  const scenes = document.querySelectorAll('.scene');
+  const panels = [0,1,2,3].map(i => document.getElementById('panel'+i));
+  const hints = [0,1,2,3].map(i => document.getElementById('hint'+i));
+  const links = [
+    'https://ticalcode.com',
+    'https://github.com/czelceal-cloud/eite-agent',
+    null,
+    null
+  ];
+
+  let ci = 0;
+  let tapped = false;       // track if panel is shown
+  let sx = 0, sy = 0;
+
+  /* ---- Navigation ---- */
+  function go(i){
+    if(i===ci && tapped){ closePanel(); return; }
+    if(i===ci) return;
+    closePanel();
+    ci = i;
+    swipe.className = 'swipe s'+i;
+    dots.forEach((d,j)=>d.classList.toggle('on',j===i));
+    // Scene theme for dots
+    const isDark = scenes[i].classList.contains('scene-dark');
+    dots.forEach(d=>d.classList.toggle('scene-dark',isDark));
+  }
+
+  function closePanel(){
+    panels.forEach(p=>p.classList.remove('show'));
+    tapped = false;
+  }
+
+  function showPanel(i){
+    // Hide tap hint
+    if(hints[i]) hints[i].classList.add('hidden');
+    // Show panel
+    panels[i].classList.add('show');
+    tapped = true;
+  }
+
+  /* ---- Tap on scene ---- */
+  scenes.forEach((sc,i)=>{
+    sc.addEventListener('click',function(e){
+      e.stopPropagation();
+      // If this scene is not current, navigate to it
+      if(i!==ci){ go(i); return; }
+
+      if(!tapped){
+        // First tap: show panel
+        showPanel(i);
+      } else {
+        // Second tap: open link or dismiss
+        if(links[i]){
+          window.open(links[i],'_blank','noopener');
+        } else {
+          closePanel();
+        }
+      }
+    },{passive:true});
+  });
+
+  /* ---- Dot clicks ---- */
+  dots.forEach((d,j)=>{
+    d.addEventListener('click',function(e){
+      e.stopPropagation();
+      go(j);
+    });
+  });
+
+  /* ---- Touch swipe ---- */
+  let dragging = false;
+  let startX2 = 0;
+  let startY2 = 0;
+
+  document.addEventListener('touchstart',function(e){
+    dragging = true;
+    const t = e.changedTouches[0];
+    startX2 = t.clientX;
+    startY2 = t.clientY;
+  },{passive:true});
+
+  document.addEventListener('touchmove',function(e){
+    // We only need to track for touchend
+  },{passive:true});
+
+  document.addEventListener('touchend',function(e){
+    if(!dragging){ return; }
+    dragging = false;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - startX2;
+    const dy = t.clientY - startY2;
+    const absDx = Math.abs(dx);
+    const absDy = Math.abs(dy);
+
+    if(absDx>35 && absDx>absDy*1.5){
+      if(dx<0 && ci<3) go(ci+1);
+      else if(dx<0 && ci===3) go(0);      // wrap right → left
+      else if(dx>0 && ci>0) go(ci-1);
+      else if(dx>0 && ci===0) go(3);      // wrap left → right
+    }
+  },{passive:true});
+
+  /* ---- Starfield particle animation (Scene 2) ---- */
+  const canvas = document.getElementById('particleCanvas');
+  const ctx = canvas.getContext('2d');
+  let stars = [];
+  let animId = null;
+
+  function resizeCanvas(){
+    const rect = scenes[2].getBoundingClientRect();
+    canvas.width = rect.width;
+    canvas.height = rect.height;
+  }
+
+  function createStars(count){
+    stars = [];
+    for(let i=0;i<count;i++){
+      stars.push({
+        x:Math.random()*canvas.width,
+        y:Math.random()*canvas.height,
+        r:Math.random()*1.8+0.3,
+        a:Math.random()*0.7+0.3,
+        speed:Math.random()*0.3+0.05,
+        twinkle:Math.random()*Math.PI*2,
+        twinkleSpeed:Math.random()*0.02+0.005
+      });
+    }
+  }
+
+  function drawStars(time){
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    for(const s of stars){
+      s.twinkle += s.twinkleSpeed;
+      const alpha = s.a * (0.6 + 0.4*Math.sin(s.twinkle));
+      ctx.beginPath();
+      ctx.arc(s.x,s.y,s.r,0,Math.PI*2);
+      ctx.fillStyle='rgba(255,255,255,'+alpha+')';
+      ctx.fill();
+
+      // Drift upward slowly
+      s.y -= s.speed;
+      if(s.y<-s.r){ s.y=canvas.height+s.r; s.x=Math.random()*canvas.width; }
+    }
+    animId = requestAnimationFrame(drawStars);
+  }
+
+  function startParticles(){
+    resizeCanvas();
+    createStars(150);
+    if(animId) cancelAnimationFrame(animId);
+    animId = requestAnimationFrame(drawStars);
+  }
+
+  // Start particles after DOM is ready
+  startParticles();
+
+  window.addEventListener('resize',function(){
+    resizeCanvas();
+    createStars(150);
+  });
+
+  /* ---- Dynamic dot theme on scene change ---- */
+  // Initial theme
+  dots.forEach(d=>d.classList.add('scene-dark'));
+})();
+</script>
+</body>
+</html>
