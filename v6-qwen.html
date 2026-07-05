@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<title>ticalasi.com</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,-apple-system,sans-serif;}
+body{
+  background:#ffffff;
+  background-image:linear-gradient(#eee 1px,transparent 1px),linear-gradient(90deg,#eee 1px,transparent 1px);
+  background-size:40px 40px;
+  overflow:hidden;
+}
+
+/* ===== 9:16 CANVAS ===== */
+.page-wrap{
+  width:100vw;height:177.78vw;
+  max-height:100vh;max-width:56.25vh;
+  margin:0 auto;position:relative;
+}
+
+/* ===== HEADER ===== */
+.page-header{padding:32px 24px;display:flex;justify-content:space-between;align-items:center;position:relative;z-index:99;}
+.domain-text{font-size:22px;font-weight:600;color:#000;}
+.menu-icon{width:32px;height:24px;border-top:2px solid #000;border-bottom:2px solid #000;position:relative;}
+.menu-icon::after{content:'';position:absolute;top:11px;left:0;width:100%;height:2px;background:#000;}
+
+/* ===== TITLE ===== */
+.page-title{padding:0 24px 60px;}
+.main-title{font-size:52px;font-weight:700;line-height:1.1;color:#000;}
+.sub-title{margin-top:16px;font-size:22px;color:#333;}
+
+/* ===== CHARACTER CONTAINER ===== */
+.character-container{
+  position:absolute;left:0;bottom:0;width:100%;height:70%;
+}
+
+/* two layers */
+.char-human,.char-witch{
+  position:absolute;left:5%;bottom:0;width:85%;height:auto;
+  transition:opacity 0.8s ease-in-out;
+  pointer-events:auto;cursor:pointer;
+}
+.char-human{opacity:1;z-index:2;}
+.char-witch{opacity:0;z-index:1;}
+.character-container.active .char-human{opacity:0;}
+.character-container.active .char-witch{opacity:1;}
+
+/* ===== NAV MODULES ===== */
+.nav-module{
+  position:absolute;padding:20px 28px;
+  background:linear-gradient(135deg,rgba(200,230,255,0.4),rgba(255,220,240,0.4));
+  backdrop-filter:blur(12px);border-radius:16px;
+  border:1px solid rgba(255,255,255,0.8);
+  box-shadow:0 0 24px rgba(180,220,255,0.3);
+  opacity:0;transform:scale(0.8);
+  transition:all 0.5s cubic-bezier(0.2,0,0.2,1);
+  pointer-events:none;z-index:10;
+  font-size:14px;font-weight:600;color:#333;
+  cursor:pointer;
+}
+.nav-module:hover{transform:scale(1.05)!important;box-shadow:0 0 32px rgba(180,220,255,0.5);}
+.nav-module.show{opacity:1;transform:scale(1);pointer-events:all;}
+
+/* module colors per scene */
+.scene-0 .nav-module{background:linear-gradient(135deg,rgba(200,230,255,0.5),rgba(255,220,240,0.5));}
+.scene-1 .nav-module{background:linear-gradient(135deg,rgba(140,80,200,0.3),rgba(200,180,255,0.4));}
+.scene-2 .nav-module{background:linear-gradient(135deg,rgba(60,120,240,0.3),rgba(180,220,255,0.4));}
+.scene-3 .nav-module{background:linear-gradient(135deg,rgba(200,50,160,0.3),rgba(255,180,220,0.4));}
+
+/* module positions */
+.mod-1{top:12%;right:8%;}
+.mod-2{top:28%;right:8%;}
+.mod-3{top:44%;right:8%;}
+.mod-4{top:60%;right:8%;}
+
+/* ===== LIGHT LINES ===== */
+.light-line{
+  position:absolute;height:2px;
+  background:linear-gradient(90deg,#ffb8e0,#90d0ff);
+  box-shadow:0 0 8px #b0d8ff;
+  opacity:0;transition:opacity 0.4s;
+  transform-origin:left center;z-index:9;
+}
+.light-line.show{opacity:1;}
+
+/* ===== PAGINATION DOTS ===== */
+.pagination{
+  position:absolute;bottom:24px;left:50%;transform:translateX(-50%);
+  display:flex;gap:12px;z-index:50;
+}
+.dot{
+  width:10px;height:10px;border-radius:50%;
+  background:#ddd;cursor:pointer;
+  transition:all 0.3s;
+}
+.dot.active{background:#333;transform:scale(1.3);}
+
+/* ===== SCENE LABEL ===== */
+.scene-label{
+  position:absolute;top:45%;right:24px;
+  writing-mode:vertical-rl;
+  font-size:11px;font-weight:600;letter-spacing:0.2em;
+  text-transform:uppercase;color:#999;
+  opacity:0;transition:opacity 0.5s;z-index:50;
+}
+.scene-label.show{opacity:1;}
+
+/* ===== SCENE CONTENT PANEL ===== */
+.scene-content{
+  position:absolute;top:55%;right:24px;width:140px;
+  opacity:0;transform:translateX(10px);
+  transition:all 0.5s 0.3s;z-index:50;
+}
+.scene-content.show{opacity:1;transform:translateX(0);}
+.scene-content h3{font-size:16px;font-weight:700;margin-bottom:8px;color:#222;}
+.scene-content p{font-size:12px;color:#666;line-height:1.6;}
+.scene-content .cn{font-size:11px;color:#999;margin-top:6px;}
+</style>
+</head>
+<body>
+
+<div class="page-wrap" id="pageWrap">
+
+  <!-- HEADER -->
+  <div class="page-header">
+    <div class="domain-text">ticalasi.com</div>
+    <div class="menu-icon"></div>
+  </div>
+
+  <!-- TITLE -->
+  <div class="page-title">
+    <h1 class="main-title" id="mainTitle">CHARACTER AS NAVIGATION</h1>
+    <p class="sub-title" id="subTitle">人物即主页的内容入口</p>
+  </div>
+
+  <!-- CHARACTER CONTAINER -->
+  <div class="character-container" id="charBox">
+
+    <!-- LAYER 1: Human form -->
+    <img class="char-human" id="charHuman" src="human-girl.png" alt="人类少女">
+
+    <!-- LAYER 2: Witch form -->
+    <img class="char-witch" id="charWitch" src="witch-girl.png" alt="魔女形态">
+
+    <!-- NAV MODULES -->
+    <div class="nav-module mod-1" id="mod1">01 角色入口</div>
+    <div class="nav-module mod-2" id="mod2">02 叙事路径</div>
+    <div class="nav-module mod-3" id="mod3">03 视觉资产</div>
+    <div class="nav-module mod-4" id="mod4">04 联系信息</div>
+
+    <!-- LIGHT LINES -->
+    <div class="light-line" id="line1"></div>
+    <div class="light-line" id="line2"></div>
+    <div class="light-line" id="line3"></div>
+    <div class="light-line" id="line4"></div>
+  </div>
+
+  <!-- PAGINATION -->
+  <div class="pagination">
+    <div class="dot active" onclick="goScene(0)"></div>
+    <div class="dot" onclick="goScene(1)"></div>
+    <div class="dot" onclick="goScene(2)"></div>
+    <div class="dot" onclick="goScene(3)"></div>
+  </div>
+
+  <!-- SCENE LABEL -->
+  <div class="scene-label" id="sceneLabel">EXPLORE</div>
+
+  <!-- SCENE CONTENT -->
+  <div class="scene-content" id="sceneContent">
+    <h3 id="contentTitle">EXPLORE</h3>
+    <p id="contentDesc">Adaptive perception routing layer.</p>
+    <p class="cn" id="contentCn">自适应感知路由层</p>
+  </div>
+
+</div>
+
+<script>
+/* =========================================================
+   SCENE DATA
+========================================================= */
+const scenes = [
+  {
+    human: 'human-girl.png',
+    witch: 'witch-girl.png',
+    title: 'CHARACTER AS NAVIGATION',
+    subTitle: '人物即主页的内容入口',
+    label: 'EXPLORE',
+    contentTitle: 'EXPLORE',
+    contentDesc: 'Adaptive perception routing layer.',
+    contentCn: '自适应感知路由层',
+    mods: ['01 角色入口','02 叙事路径','03 视觉资产','04 联系信息']
+  },
+  {
+    human: 'scene2-human.png',
+    witch: 'scene2-witch.png',
+    title: 'IDENTITY DECOMPOSITION',
+    subTitle: '身份分解系统',
+    label: 'WORKS',
+    contentTitle: 'WORKS',
+    contentDesc: 'Structured cognition outputs.',
+    contentCn: '结构化认知输出',
+    mods: ['01 创作档案','02 项目总览','03 技术栈','04 合作方式']
+  },
+  {
+    human: 'human-girl.png',
+    witch: 'scene-explore.png',
+    title: 'GENERATIVE INTELLIGENCE',
+    subTitle: '生成式智能场',
+    label: 'AI LAB',
+    contentTitle: 'AI LAB',
+    contentDesc: 'Generative intelligence field.',
+    contentCn: 'AI 实验场 · 探索生成式智能的无限可能',
+    mods: ['01 模型仓库','02 训练日志','03 基准测试','04 开源贡献']
+  },
+  {
+    human: 'scene2-human.png',
+    witch: 'scene-about.png',
+    title: 'NEURAL FIELD',
+    subTitle: '神经场系统',
+    label: 'ABOUT',
+    contentTitle: 'ABOUT',
+    contentDesc: 'Identity definition architecture.',
+    contentCn: '身份定义架构系统',
+    mods: ['01 关于我们','02 技术理念','03 团队成员','04 联系方式']
+  }
+];
+
+let currentScene = 0;
+let isWitch = false;
+
+/* =========================================================
+   DOM REFS
+========================================================= */
+const charBox = document.getElementById('charBox');
+const charHuman = document.getElementById('charHuman');
+const charWitch = document.getElementById('charWitch');
+const mods = [
+  document.getElementById('mod1'),
+  document.getElementById('mod2'),
+  document.getElementById('mod3'),
+  document.getElementById('mod4')
+];
+const lines = [
+  document.getElementById('line1'),
+  document.getElementById('line2'),
+  document.getElementById('line3'),
+  document.getElementById('line4')
+];
+const dots = document.querySelectorAll('.dot');
+const sceneLabel = document.getElementById('sceneLabel');
+const sceneContent = document.getElementById('sceneContent');
+
+/* =========================================================
+   CLICK CHARACTER: toggle human/witch
+========================================================= */
+charBox.addEventListener('click', function(e) {
+  if(e.target.closest('.nav-module')) return;
+
+  isWitch = !isWitch;
+
+  if(isWitch) {
+    // switch to witch
+    this.classList.add('active');
+
+    // update module text
+    const s = scenes[currentScene];
+    mods.forEach((mod, i) => {
+      mod.textContent = s.mods[i];
+    });
+
+    // show modules + lines after 300ms
+    setTimeout(() => {
+      mods.forEach((mod, idx) => {
+        mod.classList.add('show');
+        lines[idx].classList.add('show');
+
+        // calculate light line position
+        const charRect = charBox.getBoundingClientRect();
+        const modRect = mod.getBoundingClientRect();
+        const charCenterX = charRect.left + charRect.width * 0.35;
+        const charCenterY = charRect.top + charRect.height * 0.4;
+        const modStartX = modRect.left;
+        const modStartY = modRect.top + modRect.height / 2;
+
+        const lineLen = Math.hypot(modStartX - charCenterX, modStartY - charCenterY);
+        const lineAngle = Math.atan2(modStartY - charCenterY, modStartX - charCenterX) * 180 / Math.PI;
+
+        lines[idx].style.width = lineLen + 'px';
+        lines[idx].style.left = charCenterX + 'px';
+        lines[idx].style.top = charCenterY + 'px';
+        lines[idx].style.transform = `rotate(${lineAngle}deg)`;
+      });
+
+      // show scene label + content
+      sceneLabel.classList.add('show');
+      sceneContent.classList.add('show');
+    }, 300);
+
+  } else {
+    // switch back to human
+    this.classList.remove('active');
+
+    // hide modules + lines
+    mods.forEach(mod => mod.classList.remove('show'));
+    lines.forEach(line => line.classList.remove('show'));
+    sceneLabel.classList.remove('show');
+    sceneContent.classList.remove('show');
+  }
+});
+
+/* =========================================================
+   GO TO SCENE
+========================================================= */
+function goScene(idx) {
+  if(idx === currentScene) return;
+
+  // reset to human first
+  if(isWitch) {
+    isWitch = false;
+    charBox.classList.remove('active');
+    mods.forEach(mod => mod.classList.remove('show'));
+    lines.forEach(line => line.classList.remove('show'));
+    sceneLabel.classList.remove('show');
+    sceneContent.classList.remove('show');
+  }
+
+  currentScene = idx;
+  const s = scenes[idx];
+
+  // update images
+  charHuman.src = s.human;
+  charWitch.src = s.witch;
+
+  // update title
+  document.getElementById('mainTitle').textContent = s.title;
+  document.getElementById('subTitle').textContent = s.subTitle;
+
+  // update scene content
+  document.getElementById('contentTitle').textContent = s.contentTitle;
+  document.getElementById('contentDesc').textContent = s.contentDesc;
+  document.getElementById('contentCn').textContent = s.contentCn;
+
+  // update label
+  sceneLabel.textContent = s.label;
+
+  // update dots
+  dots.forEach((d, i) => d.classList.toggle('active', i === idx));
+
+  // update scene class for module colors
+  document.getElementById('pageWrap').className = 'page-wrap scene-' + idx;
+}
+
+/* =========================================================
+   INIT
+========================================================= */
+document.getElementById('pageWrap').className = 'page-wrap scene-0';
+</script>
+
+</body>
+</html>

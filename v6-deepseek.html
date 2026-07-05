@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TICALASI V6 — Identity Decomposition</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Noto+Sans+SC:wght@300;400;700&display=swap');
+
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+:root{
+  --bg:#0a0a12;--glass:rgba(255,255,255,0.06);--glass-border:rgba(255,255,255,0.12);
+  --accent-pink:rgba(255,80,150,0.7);--accent-blue:rgba(80,160,255,0.7);
+  --accent-purple:rgba(160,80,255,0.7);--accent-orange:rgba(255,160,80,0.7);
+  --accent-teal:rgba(80,255,200,0.7);
+}
+html,body{width:100%;height:100%;overflow:hidden;background:var(--bg);font-family:'Orbitron','Noto Sans SC',sans-serif;color:#fff}
+
+/* ── WebGL Canvas ── */
+#bg-canvas{position:fixed;top:0;left:0;width:100%;height:100%;z-index:0;pointer-events:none}
+
+/* ── Main Layout ── */
+.app{position:relative;width:100%;height:100%;z-index:1;overflow:hidden}
+
+/* ── Left Slogan ── */
+.slogan{position:fixed;left:32px;top:50%;transform:translateY(-50%);z-index:10;writing-mode:vertical-rl;text-orientation:mixed;pointer-events:none;opacity:0;animation:fadeSlideIn 1s 2s forwards}
+.slogan .line{font-size:11px;letter-spacing:4px;color:rgba(255,255,255,0.3);font-weight:300;text-transform:uppercase;margin-bottom:12px}
+.slogan .divider{width:1px;height:40px;background:linear-gradient(180deg,transparent,rgba(255,255,255,0.2),transparent);margin:8px auto}
+
+/* ── Top Menu ── */
+.menu{position:fixed;top:28px;right:40px;z-index:20;display:flex;gap:28px;opacity:0;animation:fadeSlideIn 0.8s 1.5s forwards}
+.menu-item{display:flex;flex-direction:column;align-items:center;gap:4px;cursor:pointer;transition:all 0.4s cubic-bezier(0.22,1,0.36,1)}
+.menu-icon{font-size:16px;transition:transform 0.4s cubic-bezier(0.22,1,0.36,1)}
+.menu-label{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:rgba(255,255,255,0.35);transition:color 0.4s}
+.menu-item:hover .menu-icon{transform:scale(1.4) rotate(15deg)}
+.menu-item:hover .menu-label{color:rgba(255,255,255,0.8)}
+.menu-item.active .menu-label{color:rgba(255,255,255,0.9)}
+.mi-home .menu-icon{color:var(--accent-orange)}
+.mi-explore .menu-icon{color:var(--accent-purple)}
+.mi-works .menu-icon{color:var(--accent-blue)}
+.mi-ai .menu-icon{color:var(--accent-pink)}
+.mi-about .menu-icon{color:var(--accent-orange)}
+
+/* ── SHATTER CONTAINER ── */
+#shatterContainer{
+  position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);
+  width:340px;height:360px;z-index:15;
+  cursor:pointer;
+  transition:opacity 0.3s;
+}
+#shatterContainer.shattered{pointer-events:none;opacity:0;transition:opacity 0.6s 1.2s}
+
+/* Each shard is a copy of the character with a clip-path */
+.shard{
+  position:absolute;top:0;left:0;width:100%;height:100%;
+  background-image:url('char-main-transparent.png');
+  background-size:cover;background-position:center;
+  will-change:transform,opacity;
+  transition:transform 0.9s cubic-bezier(0.23,1,0.32,1), opacity 0.9s ease, filter 0.9s;
+  filter:drop-shadow(0 0 8px rgba(255,255,255,0.1));
+}
+/* Shard hover glow */
+#shatterContainer:not(.shattered) .shard:hover{
+  filter:drop-shadow(0 0 20px rgba(255,255,255,0.3)) brightness(1.2);
+  z-index:10;
+}
+
+/* Shatter animation */
+#shatterContainer.shattered .shard{
+  transform: translate(var(--tx), var(--ty)) rotate(var(--rot)) scale(0.15) !important;
+  opacity:0 !important;
+  filter: blur(6px) brightness(2) !important;
+}
+
+/* Shard 0-8 directions */
+.shard:nth-child(1){clip-path:polygon(0% 0%,33.33% 0%,33.33% 33.33%,0% 33.33%);--tx:-120px;--ty:-180px;--rot:-45deg;transition-delay:0ms}
+.shard:nth-child(2){clip-path:polygon(33.33% 0%,66.66% 0%,66.66% 33.33%,33.33% 33.33%);--tx:0px;--ty:-200px;--rot:15deg;transition-delay:40ms}
+.shard:nth-child(3){clip-path:polygon(66.66% 0%,100% 0%,100% 33.33%,66.66% 33.33%);--tx:140px;--ty:-160px;--rot:50deg;transition-delay:80ms}
+.shard:nth-child(4){clip-path:polygon(0% 33.33%,33.33% 33.33%,33.33% 66.66%,0% 66.66%);--tx:-160px;--ty:10px;--rot:-30deg;transition-delay:60ms}
+.shard:nth-child(5){clip-path:polygon(33.33% 33.33%,66.66% 33.33%,66.66% 66.66%,33.33% 66.66%);--tx:0px;--ty:0px;--rot:0deg;transition-delay:20ms}
+.shard:nth-child(6){clip-path:polygon(66.66% 33.33%,100% 33.33%,100% 66.66%,66.66% 66.66%);--tx:160px;--ty:-20px;--rot:40deg;transition-delay:70ms}
+.shard:nth-child(7){clip-path:polygon(0% 66.66%,33.33% 66.66%,33.33% 100%,0% 100%);--tx:-130px;--ty:170px;--rot:35deg;transition-delay:100ms}
+.shard:nth-child(8){clip-path:polygon(33.33% 66.66%,66.66% 66.66%,66.66% 100%,33.33% 100%);--tx:10px;--ty:190px;--rot:-25deg;transition-delay:50ms}
+.shard:nth-child(9){clip-path:polygon(66.66% 66.66%,100% 66.66%,100% 100%,66.66% 100%);--tx:150px;--ty:150px;--rot:-55deg;transition-delay:90ms}
+
+/* ── GLASS MODULES ── */
+.glass-modules{position:fixed;top:0;left:0;width:100%;height:100%;z-index:12;pointer-events:none}
+.glass-mod{
+  position:absolute;width:78px;height:78px;border-radius:18px;
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border:1px solid var(--glass-border);
+  display:flex;align-items:center;justify-content:center;flex-direction:column;gap:4px;
+  pointer-events:auto;cursor:pointer;
+  opacity:0;transform:translate(-50%,-50%) scale(0.3);
+  transition:all 0.8s cubic-bezier(0.22,1,0.36,1);
+  overflow:hidden;
+}
+.glass-mod::before{
+  content:'';position:absolute;inset:0;border-radius:inherit;
+  opacity:0.15;
+  background:radial-gradient(circle at 30% 30%,rgba(255,255,255,0.4),transparent 60%);
+}
+.glass-mod .mod-icon{font-size:22px;z-index:1;filter:drop-shadow(0 0 6px currentColor)}
+.glass-mod .mod-label{font-size:8px;letter-spacing:1.5px;text-transform:uppercase;color:rgba(255,255,255,0.7);z-index:1;font-family:'Orbitron',sans-serif}
+
+/* Module colors */
+.glass-mod.mod-pink{background:rgba(255,80,150,0.18);border-color:rgba(255,80,150,0.3);color:var(--accent-pink)}
+.glass-mod.mod-pink::before{background:radial-gradient(circle at 30% 30%,rgba(255,80,150,0.3),transparent 60%)}
+.glass-mod.mod-blue{background:rgba(80,160,255,0.18);border-color:rgba(80,160,255,0.3);color:var(--accent-blue)}
+.glass-mod.mod-blue::before{background:radial-gradient(circle at 30% 30%,rgba(80,160,255,0.3),transparent 60%)}
+.glass-mod.mod-purple{background:rgba(160,80,255,0.18);border-color:rgba(160,80,255,0.3);color:var(--accent-purple)}
+.glass-mod.mod-purple::before{background:radial-gradient(circle at 30% 30%,rgba(160,80,255,0.3),transparent 60%)}
+.glass-mod.mod-orange{background:rgba(255,160,80,0.18);border-color:rgba(255,160,80,0.3);color:var(--accent-orange)}
+.glass-mod.mod-orange::before{background:radial-gradient(circle at 30% 30%,rgba(255,160,80,0.3),transparent 60%)}
+
+.glass-mod:hover{transform:translate(-50%,-50%) scale(1.15) !important;z-index:20}
+.glass-mod:active{transform:translate(-50%,-50%) scale(1.05) !important}
+
+/* Module positions per scene */
+.glass-modules[data-scene="home"] .glass-mod{opacity:0;transform:translate(-50%,-50%) scale(0.3) !important}
+.glass-modules[data-scene="explore"] .m1{left:18%;top:30%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="explore"] .m2{left:40%;top:65%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="explore"] .m3{left:70%;top:40%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="explore"] .m4{left:55%;top:75%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="works"] .m1{left:70%;top:25%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="works"] .m2{left:30%;top:40%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="works"] .m3{left:60%;top:70%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="works"] .m4{left:45%;top:55%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="ai"] .m1{left:25%;top:25%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="ai"] .m2{left:70%;top:60%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="ai"] .m3{left:50%;top:45%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="ai"] .m4{left:30%;top:75%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="about"] .m1{left:20%;top:70%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="about"] .m2{left:60%;top:30%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="about"] .m3{left:50%;top:55%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+.glass-modules[data-scene="about"] .m4{left:75%;top:50%;opacity:1;transform:translate(-50%,-50%) scale(1)}
+
+/* Module transition delay */
+.glass-mod.m1{transition-delay:0ms}
+.glass-mod.m2{transition-delay:100ms}
+.glass-mod.m3{transition-delay:200ms}
+.glass-mod.m4{transition-delay:300ms}
+
+/* ── Glass Buttons ── */
+.glass-buttons{position:fixed;bottom:40px;left:50%;transform:translateX(-50%);z-index:18;display:flex;gap:14px;opacity:0;transition:opacity 0.6s 0.5s}
+.glass-buttons.visible{opacity:1}
+.glass-btn{
+  padding:10px 18px;border-radius:14px;border:1px solid rgba(255,255,255,0.15);
+  backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+  background:rgba(255,255,255,0.04);
+  font-size:11px;font-family:'Noto Sans SC','Orbitron',sans-serif;
+  color:rgba(255,255,255,0.7);cursor:pointer;
+  transition:all 0.4s cubic-bezier(0.22,1,0.36,1);
+  letter-spacing:1px;white-space:nowrap;
+}
+.glass-btn:hover{transform:translateY(-3px);border-color:rgba(255,255,255,0.3)}
+.glass-btn:nth-child(1):hover{background:rgba(255,100,180,0.15);border-color:rgba(255,100,180,0.4);color:var(--accent-pink)}
+.glass-btn:nth-child(2):hover{background:rgba(100,180,255,0.15);border-color:rgba(100,180,255,0.4);color:var(--accent-blue)}
+.glass-btn:nth-child(3):hover{background:rgba(255,200,80,0.15);border-color:rgba(255,200,80,0.4);color:rgba(255,200,80,0.8)}
+.glass-btn:nth-child(4):hover{background:rgba(255,180,80,0.15);border-color:rgba(255,180,80,0.4);color:var(--accent-orange)}
+.glass-btn:nth-child(5):hover{background:rgba(80,220,180,0.15);border-color:rgba(80,220,180,0.4);color:var(--accent-teal)}
+
+/* ── Info Panel ── */
+.info-panel{
+  position:fixed;bottom:110px;right:40px;z-index:18;
+  width:260px;padding:24px;border-radius:16px;
+  backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px);
+  background:rgba(255,255,255,0.04);border:1px solid rgba(255,255,255,0.1);
+  opacity:0;transform:translateY(20px);
+  transition:all 0.6s cubic-bezier(0.22,1,0.36,1);
+}
+.info-panel.visible{opacity:1;transform:translateY(0)}
+.info-panel .panel-label{
+  font-size:9px;letter-spacing:3px;text-transform:uppercase;
+  margin-bottom:8px;
+}
+.info-panel .panel-title{
+  font-size:18px;font-weight:700;font-family:'Orbitron',sans-serif;
+  background:linear-gradient(135deg,#ff80c0,#80c0ff,#c080ff);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;
+  background-clip:text;margin-bottom:6px;
+}
+.info-panel .panel-subtitle{
+  font-size:13px;font-family:'Noto Sans SC',sans-serif;
+  color:rgba(255,255,255,0.5);margin-bottom:14px;
+}
+.info-panel .panel-btn{
+  display:inline-block;padding:8px 20px;border-radius:10px;
+  background:linear-gradient(135deg,rgba(255,128,192,0.3),rgba(128,192,255,0.3));
+  border:1px solid rgba(255,255,255,0.15);
+  font-size:10px;letter-spacing:2px;text-transform:uppercase;
+  font-family:'Orbitron',sans-serif;color:#fff;cursor:pointer;
+  transition:all 0.3s;
+}
+.info-panel .panel-btn:hover{background:linear-gradient(135deg,rgba(255,128,192,0.5),rgba(128,192,255,0.5));transform:scale(1.05)}
+
+/* ── Click Hint ── */
+.click-hint{
+  position:fixed;bottom:50%;left:50%;transform:translate(-50%,80px);
+  z-index:16;font-size:10px;letter-spacing:3px;text-transform:uppercase;
+  color:rgba(255,255,255,0.25);
+  animation:pulse 2s infinite;pointer-events:none;
+}
+.click-hint.hidden{opacity:0;transition:opacity 0.4s}
+
+/* ── Animations ── */
+@keyframes fadeSlideIn{from{opacity:0;transform:translateY(-50%) translateX(-10px)}to{opacity:1;transform:translateY(-50%) translateX(0)}}
+@keyframes pulse{0%,100%{opacity:0.25}50%{opacity:0.5}}
+@keyframes floatMod{0%,100%{transform:translate(-50%,-50%) scale(1) translateY(0)}50%{transform:translate(-50%,-50%) scale(1) translateY(-6px)}}
+
+/* Module float after settled */
+.glass-modules[data-scene]:not([data-scene="home"]) .glass-mod{animation:floatMod 3s ease-in-out infinite}
+.glass-modules[data-scene]:not([data-scene="home"]) .glass-mod.m1{animation-delay:0s}
+.glass-modules[data-scene]:not([data-scene="home"]) .glass-mod.m2{animation-delay:0.7s}
+.glass-modules[data-scene]:not([data-scene="home"]) .glass-mod.m3{animation-delay:1.4s}
+.glass-modules[data-scene]:not([data-scene="home"]) .glass-mod.m4{animation-delay:2.1s}
+
+/* ── Back button ── */
+.back-btn{
+  position:fixed;top:28px;left:40px;z-index:25;
+  padding:8px 16px;border-radius:10px;
+  background:rgba(255,255,255,0.06);border:1px solid rgba(255,255,255,0.12);
+  backdrop-filter:blur(8px);
+  font-size:10px;letter-spacing:2px;text-transform:uppercase;
+  color:rgba(255,255,255,0.4);cursor:pointer;
+  opacity:0;pointer-events:none;transition:all 0.4s;
+}
+.back-btn.visible{opacity:1;pointer-events:auto}
+.back-btn:hover{color:rgba(255,255,255,0.8);border-color:rgba(255,255,255,0.3)}
+
+/* ── Mobile ── */
+@media(max-width:768px){
+  #shatterContainer{width:220px;height:240px}
+  .menu{gap:16px;right:16px;top:16px}
+  .menu-label{display:none}
+  .menu-icon{font-size:14px}
+  .glass-buttons{bottom:16px;gap:8px;flex-wrap:wrap;justify-content:center;width:90%}
+  .glass-btn{padding:8px 12px;font-size:9px}
+  .info-panel{right:16px;left:16px;width:auto;bottom:90px}
+  .slogan{left:12px}
+  .slogan .line{font-size:9px}
+}
+</style>
+</head>
+<body>
+
+<!-- WebGL Background Canvas -->
+<canvas id="bg-canvas"></canvas>
+
+<div class="app">
+
+  <!-- Left Slogan -->
+  <div class="slogan">
+    <div class="line">CODE IS ENERGY</div>
+    <div class="divider"></div>
+    <div class="line">CREATION IS FREEDOM</div>
+  </div>
+
+  <!-- Top Menu -->
+  <nav class="menu">
+    <div class="menu-item mi-home active" data-scene="home"><span class="menu-icon">◆</span><span class="menu-label">HOME</span></div>
+    <div class="menu-item mi-explore" data-scene="explore"><span class="menu-icon">◇</span><span class="menu-label">EXPLORE</span></div>
+    <div class="menu-item mi-works" data-scene="works"><span class="menu-icon">▣</span><span class="menu-label">WORKS</span></div>
+    <div class="menu-item mi-ai" data-scene="ai"><span class="menu-icon">⬡</span><span class="menu-label">AI</span></div>
+    <div class="menu-item mi-about" data-scene="about"><span class="menu-icon">△</span><span class="menu-label">ABOUT</span></div>
+  </nav>
+
+  <!-- Back Button -->
+  <button class="back-btn" id="backBtn">← REFORM</button>
+
+  <!-- SHATTER CONTAINER — 9 shards of the character -->
+  <div id="shatterContainer">
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+    <div class="shard"></div>
+  </div>
+
+  <!-- Glass Modules -->
+  <div class="glass-modules" data-scene="home">
+    <div class="glass-mod mod-purple m1"><span class="mod-icon">◆</span><span class="mod-label">Core</span></div>
+    <div class="glass-mod mod-blue m2"><span class="mod-icon">◇</span><span class="mod-label">Data</span></div>
+    <div class="glass-mod mod-pink m3"><span class="mod-icon">⬡</span><span class="mod-label">Flux</span></div>
+    <div class="glass-mod mod-orange m4"><span class="mod-icon">▣</span><span class="mod-label">Form</span></div>
+  </div>
+
+  <!-- Glass Buttons -->
+  <div class="glass-buttons" id="glassButtons">
+    <button class="glass-btn">角色设定</button>
+    <button class="glass-btn">故事线</button>
+    <button class="glass-btn">情绪板</button>
+    <button class="glass-btn">交互细节</button>
+    <button class="glass-btn">创意导航</button>
+  </div>
+
+  <!-- Info Panel -->
+  <div class="info-panel" id="infoPanel">
+    <div class="panel-label" id="panelLabel" style="color:var(--accent-pink)">IDENTITY</div>
+    <div class="panel-title" id="panelTitle">Shatter Protocol</div>
+    <div class="panel-subtitle" id="panelSubtitle">身份解构系统 · 万物皆可碎片化</div>
+    <button class="panel-btn">VIEW DETAILS</button>
+  </div>
+
+  <!-- Click Hint -->
+  <div class="click-hint" id="clickHint">CLICK CHARACTER TO DECOMPOSE</div>
+
+</div>
+
+<script type="importmap">
+{ "imports": { "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js" } }
+</script>
+
+<script type="module">
+import * as THREE from 'three';
+
+// ══════════════════════════════════════════
+//  WebGL Particle Background — 8000 particles
+// ══════════════════════════════════════════
+const canvas = document.getElementById('bg-canvas');
+const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: false });
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(60, window.innerWidth / window.innerHeight, 0.1, 1000);
+camera.position.z = 300;
+
+// Particle geometry
+const COUNT = 8000;
+const geo = new THREE.BufferGeometry();
+const positions = new Float32Array(COUNT * 3);
+const colors = new Float32Array(COUNT * 3);
+const sizes = new Float32Array(COUNT);
+
+const palette = [
+  new THREE.Color(0xff5096),
+  new THREE.Color(0x50a0ff),
+  new THREE.Color(0xa050ff),
+  new THREE.Color(0xffa050),
+  new THREE.Color(0x50ffc8),
+  new THREE.Color(0xffffff),
+];
+
+for (let i = 0; i < COUNT; i++) {
+  positions[i*3]   = (Math.random() - 0.5) * 800;
+  positions[i*3+1] = (Math.random() - 0.5) * 800;
+  positions[i*3+2] = (Math.random() - 0.5) * 400;
+  const c = palette[Math.floor(Math.random() * palette.length)];
+  colors[i*3]   = c.r;
+  colors[i*3+1] = c.g;
+  colors[i*3+2] = c.b;
+  sizes[i] = Math.random() * 2.5 + 0.5;
+}
+
+geo.setAttribute('position', new THREE.BufferAttribute(positions, 3));
+geo.setAttribute('color', new THREE.BufferAttribute(colors, 3));
+geo.setAttribute('size', new THREE.BufferAttribute(sizes, 1));
+
+const mat = new THREE.ShaderMaterial({
+  uniforms: { uTime: { value: 0 } },
+  vertexShader: `
+    attribute float size;
+    attribute vec3 color;
+    varying vec3 vColor;
+    uniform float uTime;
+    void main(){
+      vColor = color;
+      vec3 pos = position;
+      pos.x += sin(uTime * 0.3 + position.y * 0.01) * 2.0;
+      pos.y += cos(uTime * 0.2 + position.x * 0.01) * 2.0;
+      vec4 mvPos = modelViewMatrix * vec4(pos, 1.0);
+      gl_PointSize = size * (200.0 / -mvPos.z);
+      gl_Position = projectionMatrix * mvPos;
+    }
+  `,
+  fragmentShader: `
+    varying vec3 vColor;
+    void main(){
+      float d = length(gl_PointCoord - 0.5) * 2.0;
+      float alpha = 1.0 - smoothstep(0.0, 1.0, d);
+      alpha *= 0.35;
+      gl_FragColor = vec4(vColor, alpha);
+    }
+  `,
+  transparent: true,
+  depthWrite: false,
+  blending: THREE.AdditiveBlending,
+});
+
+const particles = new THREE.Points(geo, mat);
+scene.add(particles);
+
+let mouseX = 0, mouseY = 0;
+document.addEventListener('mousemove', e => {
+  mouseX = (e.clientX / window.innerWidth - 0.5) * 2;
+  mouseY = (e.clientY / window.innerHeight - 0.5) * 2;
+});
+
+// ══════════════════════════════════════════
+//  SHATTER EFFECT
+// ══════════════════════════════════════════
+const shatterContainer = document.getElementById('shatterContainer');
+const glassModules = document.querySelector('.glass-modules');
+const glassButtons = document.getElementById('glassButtons');
+const infoPanel = document.getElementById('infoPanel');
+const clickHint = document.getElementById('clickHint');
+const backBtn = document.getElementById('backBtn');
+
+const panelData = {
+  home:    { label:'IDENTITY',   title:'Shatter Protocol',    sub:'身份解构系统 · 万物皆可碎片化', color:'var(--accent-pink)' },
+  explore: { label:'EXPLORE',    title:'Code Dimensions',     sub:'探索代码的多维空间',           color:'var(--accent-purple)' },
+  works:   { label:'WORKS',      title:'Fragment Gallery',    sub:'碎片化作品展示 · 重构创造',    color:'var(--accent-blue)' },
+  ai:      { label:'AI CORE',    title:'Neural Shards',       sub:'神经网络碎片 · 智能解构',      color:'var(--accent-pink)' },
+  about:   { label:'ORIGIN',     title:'Identity Matrix',     sub:'身份矩阵 · 自我认知系统',      color:'var(--accent-orange)' },
+};
+
+let isShattered = false;
+let currentScene = 'home';
+
+function shatter() {
+  if (isShattered) return;
+  isShattered = true;
+  shatterContainer.classList.add('shattered');
+  clickHint.classList.add('hidden');
+  backBtn.classList.add('visible');
+
+  // After shards fly out, show modules and panels
+  setTimeout(() => {
+    glassModules.dataset.scene = 'explore';
+    glassButtons.classList.add('visible');
+    infoPanel.classList.add('visible');
+    updatePanel('explore');
+    currentScene = 'explore';
+    updateMenu('explore');
+  }, 800);
+}
+
+function reform() {
+  isShattered = false;
+  shatterContainer.classList.remove('shattered');
+  glassModules.dataset.scene = 'home';
+  glassButtons.classList.remove('visible');
+  infoPanel.classList.remove('visible');
+  backBtn.classList.remove('visible');
+  currentScene = 'home';
+  updateMenu('home');
+  setTimeout(() => { clickHint.classList.remove('hidden'); }, 400);
+}
+
+function updatePanel(scene) {
+  const d = panelData[scene] || panelData.home;
+  document.getElementById('panelLabel').textContent = d.label;
+  document.getElementById('panelLabel').style.color = d.color;
+  document.getElementById('panelTitle').textContent = d.title;
+  document.getElementById('panelSubtitle').textContent = d.sub;
+}
+
+function updateMenu(scene) {
+  document.querySelectorAll('.menu-item').forEach(m => m.classList.toggle('active', m.dataset.scene === scene));
+}
+
+// Click on shatter container
+shatterContainer.addEventListener('click', shatter);
+
+// Back button
+backBtn.addEventListener('click', reform);
+
+// Menu navigation
+document.querySelectorAll('.menu-item').forEach(item => {
+  item.addEventListener('click', () => {
+    const scene = item.dataset.scene;
+    if (scene === 'home') {
+      reform();
+    } else if (isShattered) {
+      glassModules.dataset.scene = scene;
+      updatePanel(scene);
+      currentScene = scene;
+      updateMenu(scene);
+    }
+  });
+});
+
+// Module click
+document.querySelectorAll('.glass-mod').forEach(mod => {
+  mod.addEventListener('click', () => {
+    mod.style.transform = 'translate(-50%,-50%) scale(1.3)';
+    setTimeout(() => mod.style.transform = '', 300);
+  });
+});
+
+// ══════════════════════════════════════════
+//  Animation Loop
+// ══════════════════════════════════════════
+const clock = new THREE.Clock();
+
+function animate() {
+  requestAnimationFrame(animate);
+  const t = clock.getElapsedTime();
+  mat.uniforms.uTime.value = t;
+
+  // Parallax
+  camera.position.x += (mouseX * 15 - camera.position.x) * 0.02;
+  camera.position.y += (-mouseY * 15 - camera.position.y) * 0.02;
+  camera.lookAt(scene.position);
+
+  // Gentle rotation
+  particles.rotation.y = t * 0.02;
+  particles.rotation.x = Math.sin(t * 0.1) * 0.1;
+
+  renderer.render(scene, camera);
+}
+
+animate();
+
+// Resize
+window.addEventListener('resize', () => {
+  camera.aspect = window.innerWidth / window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TICALASI V6 · Identity Decomposition</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body{margin:0;overflow:hidden;background:#ffffff;}
+
+/* ===== GRID BG ===== */
+body::before{
+  content:'';position:fixed;inset:0;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.012) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(0,0,0,0.012) 1px,transparent 1px);
+  background-size:60px 60px;
+  pointer-events:none;z-index:0;
+}
+
+/* ===== WEBGL CANVAS ===== */
+canvas{position:fixed;inset:0;z-index:1;}
+
+/* ===== UI MENU ===== */
+#ui{
+  position:fixed;left:40px;top:50%;transform:translateY(-50%);
+  z-index:10;display:flex;flex-direction:column;gap:18px;
+  font-family:'Inter',Arial,sans-serif;
+}
+.btn{
+  display:flex;align-items:center;gap:10px;
+  font-size:11px;font-weight:600;letter-spacing:0.12em;
+  text-transform:uppercase;opacity:0.35;
+  cursor:pointer;transition:0.3s;color:#222;
+}
+.btn:hover{opacity:0.7;}
+.btn.active{opacity:1;}
+.btn-icon{font-size:13px;}
+.btn:nth-child(1) .btn-icon{color:#ff7832;}
+.btn:nth-child(2) .btn-icon{color:#8c50c8;}
+.btn:nth-child(3) .btn-icon{color:#3c78f0;}
+.btn:nth-child(4) .btn-icon{color:#c832a0;}
+.btn:nth-child(5) .btn-icon{color:#dc5032;}
+.btn:nth-child(1).active{color:#ff7832;}
+.btn:nth-child(2).active{color:#8c50c8;}
+.btn:nth-child(3).active{color:#3c78f0;}
+.btn:nth-child(4).active{color:#c832a0;}
+.btn:nth-child(5).active{color:#dc5032;}
+
+/* ===== LEFT SLOGAN ===== */
+.left-slogan{position:fixed;left:40px;bottom:100px;z-index:10;}
+.slogan-bar{width:1px;height:28px;background:linear-gradient(to bottom,transparent,#ff7832);margin-left:6px;margin-bottom:10px;}
+.slogan-text{font-size:9px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:#222;line-height:1.9;}
+
+/* ===== SCROLL PROMPT ===== */
+.scroll-prompt{position:fixed;left:40px;bottom:30px;z-index:10;display:flex;flex-direction:column;align-items:center;gap:6px;}
+.scroll-prompt span{font-size:8px;font-weight:600;letter-spacing:0.22em;text-transform:uppercase;color:#aaa;}
+.scroll-arrow{width:10px;height:10px;border-right:1.5px solid #aaa;border-bottom:1.5px solid #aaa;transform:rotate(45deg);animation:bounce 2s ease infinite;}
+@keyframes bounce{0%,100%{transform:rotate(45deg) translateY(0);}50%{transform:rotate(45deg) translateY(4px);}}
+
+/* ===== CHARACTER ===== */
+#characterWrap{
+  position:fixed;left:50%;top:50%;
+  transform:translate(-50%,-50%);
+  width:380px;height:auto;
+  z-index:5;
+  transition:1.2s cubic-bezier(0.16,1,0.3,1);
+  cursor:pointer;
+}
+#characterWrap.transitioning{
+  transform:translate(-50%,-50%) scale(0.97);
+  filter:brightness(0.92) blur(0.3px);
+}
+#characterWrap img{
+  width:100%;height:auto;
+  border-radius:18px;
+  box-shadow:0 20px 60px rgba(0,0,0,0.1);
+}
+
+/* ===== GLASS MODULES ===== */
+.module{
+  position:fixed;width:78px;height:78px;border-radius:18px;
+  background:rgba(255,255,255,0.55);
+  border:1px solid rgba(180,200,255,0.35);
+  backdrop-filter:blur(12px);
+  box-shadow:0 12px 30px rgba(120,160,255,0.08),inset 0 0 18px rgba(180,220,255,0.25);
+  opacity:0;transform:scale(0.6);
+  transition:all 1.05s cubic-bezier(0.16,1,0.3,1);
+  z-index:6;
+}
+.module::after{
+  content:"";position:absolute;width:16px;height:16px;border-radius:50%;
+  left:50%;top:50%;transform:translate(-50%,-50%);
+  background:radial-gradient(circle,rgba(140,180,255,1),rgba(255,120,255,0.6),transparent);
+  filter:blur(1px);
+}
+.module::before{
+  content:"";position:absolute;width:110px;height:1px;
+  background:linear-gradient(90deg,rgba(140,180,255,0.5),transparent);
+  top:50%;left:50%;transform-origin:left;opacity:0.35;
+}
+
+/* Module colors per scene */
+.state-explore .module{background:rgba(140,80,200,0.15);border-color:rgba(140,80,200,0.3);}
+.state-explore .module::after{background:radial-gradient(circle,rgba(180,100,255,1),rgba(255,120,255,0.5),transparent);}
+.state-works .module{background:rgba(60,120,240,0.15);border-color:rgba(60,120,240,0.3);}
+.state-works .module::after{background:radial-gradient(circle,rgba(80,160,255,1),rgba(120,80,255,0.5),transparent);}
+.state-ai .module{background:rgba(200,50,160,0.15);border-color:rgba(200,50,160,0.3);}
+.state-ai .module::after{background:radial-gradient(circle,rgba(255,80,200,1),rgba(180,80,255,0.5),transparent);}
+.state-about .module{background:rgba(255,120,50,0.15);border-color:rgba(255,120,50,0.3);}
+.state-about .module::after{background:radial-gradient(circle,rgba(255,160,80,1),rgba(255,80,120,0.5),transparent);}
+
+/* Home: collapsed at center (behind character) */
+.state-home .module{
+  left:50%;top:50%;
+  transform:translate(-50%,-50%) scale(0.4);
+  opacity:0;pointer-events:none;
+}
+
+/* Scene positions */
+.state-explore .m1{left:18%;top:30%;opacity:1;pointer-events:auto;}
+.state-explore .m2{left:40%;top:65%;opacity:1;pointer-events:auto;}
+.state-explore .m3{left:70%;top:40%;opacity:1;pointer-events:auto;}
+.state-explore .m4{left:55%;top:75%;opacity:1;pointer-events:auto;}
+
+.state-works .m1{left:70%;top:25%;opacity:1;pointer-events:auto;}
+.state-works .m2{left:30%;top:40%;opacity:1;pointer-events:auto;}
+.state-works .m3{left:60%;top:70%;opacity:1;pointer-events:auto;}
+.state-works .m4{left:45%;top:55%;opacity:1;pointer-events:auto;}
+
+.state-ai .m1{left:25%;top:25%;opacity:1;pointer-events:auto;}
+.state-ai .m2{left:70%;top:60%;opacity:1;pointer-events:auto;}
+.state-ai .m3{left:50%;top:45%;opacity:1;pointer-events:auto;}
+.state-ai .m4{left:30%;top:75%;opacity:1;pointer-events:auto;}
+
+.state-about .m1{left:20%;top:70%;opacity:1;pointer-events:auto;}
+.state-about .m2{left:60%;top:30%;opacity:1;pointer-events:auto;}
+.state-about .m3{left:50%;top:55%;opacity:1;pointer-events:auto;}
+.state-about .m4{left:75%;top:50%;opacity:1;pointer-events:auto;}
+
+/* Staggered delays for emergence */
+.state-explore .m1{transition-delay:0.0s;}
+.state-explore .m2{transition-delay:0.08s;}
+.state-explore .m3{transition-delay:0.16s;}
+.state-explore .m4{transition-delay:0.24s;}
+.state-works .m1{transition-delay:0.0s;}
+.state-works .m2{transition-delay:0.08s;}
+.state-works .m3{transition-delay:0.16s;}
+.state-works .m4{transition-delay:0.24s;}
+.state-ai .m1{transition-delay:0.0s;}
+.state-ai .m2{transition-delay:0.08s;}
+.state-ai .m3{transition-delay:0.16s;}
+.state-ai .m4{transition-delay:0.24s;}
+.state-about .m1{transition-delay:0.0s;}
+.state-about .m2{transition-delay:0.08s;}
+.state-about .m3{transition-delay:0.16s;}
+.state-about .m4{transition-delay:0.24s;}
+
+/* Reset delays on home return */
+.state-home .m1,.state-home .m2,.state-home .m3,.state-home .m4{transition-delay:0.2s;}
+
+/* ===== GLASS BUTTONS ===== */
+.glass-btn{
+  position:fixed;padding:12px 20px;border-radius:14px;
+  font-size:11px;font-weight:600;color:#222;
+  backdrop-filter:blur(12px);cursor:pointer;z-index:8;
+  opacity:0;transform:translateY(15px) scale(0.9);
+  transition:all 0.6s cubic-bezier(0.16,1,0.3,1);
+  border:1px solid rgba(255,255,255,0.6);
+  box-shadow:0 6px 24px rgba(0,0,0,0.06);user-select:none;
+}
+.glass-btn.visible{opacity:1;transform:translateY(0) scale(1);}
+.glass-btn:hover{transform:translateY(-3px) scale(1.05)!important;box-shadow:0 10px 32px rgba(0,0,0,0.1);}
+.glass-btn .sparkle{position:absolute;width:5px;height:5px;border-radius:50%;background:rgba(255,255,255,0.9);animation:sparkle 2.5s ease infinite;}
+@keyframes sparkle{0%,100%{opacity:0;transform:scale(0);}50%{opacity:1;transform:scale(1);}}
+.gb1{left:20%;top:30%;background:linear-gradient(135deg,rgba(255,180,200,0.5),rgba(200,180,255,0.5));}
+.gb2{left:16%;top:58%;background:linear-gradient(135deg,rgba(180,220,255,0.5),rgba(160,255,200,0.5));}
+.gb3{left:22%;top:78%;background:linear-gradient(135deg,rgba(255,230,160,0.5),rgba(255,200,180,0.5));}
+.gb4{right:14%;top:32%;background:linear-gradient(135deg,rgba(255,200,120,0.5),rgba(255,160,100,0.5));}
+.gb5{right:10%;top:72%;background:linear-gradient(135deg,rgba(120,200,200,0.5),rgba(180,160,255,0.5));}
+
+/* ===== PANEL ===== */
+#panel{
+  position:fixed;right:6%;top:42%;width:280px;opacity:0;
+  transform:translateX(20px);transition:1s ease;z-index:10;
+}
+#panel.active{opacity:1;transform:translateX(0);}
+.panel-label{font-size:11px;font-weight:700;letter-spacing:0.15em;text-transform:uppercase;margin-bottom:12px;}
+.panel-label.purple{color:#8c50c8;}
+.panel-label.orange{color:#ff7832;}
+.panel-label.blue{color:#3c78f0;}
+.panel-label.pink{color:#c832a0;}
+#title{font-size:clamp(22px,2.5vw,32px);font-weight:800;letter-spacing:-0.01em;line-height:1.15;text-transform:uppercase;margin-bottom:14px;background:linear-gradient(135deg,#6a8cff,#c060ff);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;}
+.panel-divider{width:80px;height:3px;border-radius:2px;margin-bottom:16px;}
+.panel-divider.op{background:linear-gradient(90deg,#ff7832,#8c50c8);}
+.panel-divider.pb{background:linear-gradient(90deg,#8c50c8,#3c78f0);}
+.panel-divider.bp{background:linear-gradient(90deg,#3c78f0,#c832a0);}
+#desc{font-size:13px;color:#555;line-height:1.8;}
+#desc small{font-size:11px;color:#999;display:block;margin-top:2px;}
+.panel-cta{display:inline-flex;align-items:center;gap:8px;margin-top:20px;padding:10px 24px;border:1.5px solid #222;border-radius:50px;font-size:10px;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;cursor:pointer;background:transparent;color:#222;transition:0.3s;}
+.panel-cta:hover{background:#222;color:#fff;}
+.panel-cta svg{width:12px;height:12px;transition:0.3s;}
+.panel-cta:hover svg{transform:translateX(2px);}
+.panel-social{display:flex;gap:12px;margin-top:20px;}
+.panel-social a{width:28px;height:28px;border-radius:50%;border:1px solid #ddd;display:flex;align-items:center;justify-content:center;text-decoration:none;color:#888;font-size:11px;transition:0.3s;}
+.panel-social a:hover{border-color:#222;color:#222;}
+
+/* ===== FOOTER ===== */
+.footer{position:fixed;bottom:0;left:0;right:0;text-align:center;padding:16px;z-index:10;}
+.footer span{font-size:10px;color:#bbb;letter-spacing:0.1em;}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:1024px){
+  #ui,.left-slogan,.scroll-prompt{display:none;}
+  #characterWrap{width:300px;}
+  #panel{right:4%;width:240px;}
+}
+@media(max-width:768px){
+  #characterWrap{width:260px;}
+  .glass-btn{display:none;}
+  #panel{right:auto;left:50%;transform:translateX(-50%) translateY(20px);top:auto;bottom:80px;text-align:center;width:90%;}
+  #panel.active{transform:translateX(-50%) translateY(0);}
+}
+</style>
+</head>
+<body>
+
+<!-- UI MENU -->
+<div id="ui">
+  <div class="btn active" onclick="setScene(0)"><span class="btn-icon">◆</span><span>HOME</span></div>
+  <div class="btn" onclick="setScene(1)"><span class="btn-icon">◇</span><span>EXPLORE</span></div>
+  <div class="btn" onclick="setScene(2)"><span class="btn-icon">▣</span><span>WORKS</span></div>
+  <div class="btn" onclick="setScene(3)"><span class="btn-icon">⬡</span><span>AI LAB</span></div>
+  <div class="btn" onclick="setScene(4)"><span class="btn-icon">△</span><span>ABOUT</span></div>
+</div>
+
+<!-- LEFT SLOGAN -->
+<div class="left-slogan">
+  <div class="slogan-bar"></div>
+  <div class="slogan-text">CODE IS ENERGY<br>CREATION IS FREEDOM</div>
+</div>
+
+<!-- SCROLL PROMPT -->
+<div class="scroll-prompt">
+  <span>SCROLL TO DISCOVER</span>
+  <div class="scroll-arrow"></div>
+</div>
+
+<!-- CHARACTER (Core Identity Layer) -->
+<div id="characterWrap" onclick="nextScene()">
+  <img id="charImg" src="char-main.jpg" alt="TICALASI">
+</div>
+
+<!-- GLASS MODULES (Extracted Information Fragments) -->
+<div class="module m1"></div>
+<div class="module m2"></div>
+<div class="module m3"></div>
+<div class="module m4"></div>
+
+<!-- GLASS BUTTONS -->
+<div class="glass-btn gb1" onclick="setScene(1)">角色设定<span class="sparkle" style="top:6px;right:8px;"></span></div>
+<div class="glass-btn gb2" onclick="setScene(2)">故事线<span class="sparkle" style="top:8px;right:10px;animation-delay:0.8s;"></span></div>
+<div class="glass-btn gb3" onclick="setScene(3)">情绪板<span class="sparkle" style="top:5px;right:7px;animation-delay:1.5s;"></span></div>
+<div class="glass-btn gb4" onclick="setScene(4)">交互细节<span class="sparkle" style="top:7px;right:9px;animation-delay:0.4s;"></span></div>
+<div class="glass-btn gb5" onclick="setScene(1)">创意导航<span class="sparkle" style="top:6px;right:8px;animation-delay:1.2s;"></span></div>
+
+<!-- PANEL -->
+<div id="panel">
+  <div class="panel-label purple" id="panelLabel">TICALASI</div>
+  <div id="title">NEURAL FIELD</div>
+  <div class="panel-divider op" id="panelDivider"></div>
+  <div id="desc">Identity decomposition system.<small>点击角色，唤醒不同内容路径</small></div>
+  <div class="panel-cta">VIEW DETAILS <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></div>
+  <div class="panel-social"><a href="#">𝕏</a><a href="#">⊕</a><a href="#">◎</a></div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer"><span>© TICALASI · CODE IS ENERGY · CREATION IS FREEDOM</span></div>
+
+<script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+<script>
+
+/* =========================================================
+   WEBGL CORE
+========================================================= */
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(55, window.innerWidth/window.innerHeight, 0.1, 100);
+camera.position.z = 3.2;
+
+const renderer = new THREE.WebGLRenderer({antialias:true,alpha:true});
+renderer.setSize(window.innerWidth, window.innerHeight);
+renderer.setClearColor(0x000000, 0);
+document.body.insertBefore(renderer.domElement, document.body.firstChild);
+
+/* =========================================================
+   NEURAL FIELD (GPU PARTICLES)
+========================================================= */
+const COUNT = 8000;
+const geometry = new THREE.BufferGeometry();
+const positions = new Float32Array(COUNT * 3);
+const seeds = new Float32Array(COUNT);
+
+for(let i=0;i<COUNT;i++){
+  positions[i*3] = (Math.random()-0.5)*4;
+  positions[i*3+1] = (Math.random()-0.5)*4;
+  positions[i*3+2] = (Math.random()-0.5)*4;
+  seeds[i] = Math.random();
+}
+
+geometry.setAttribute("position", new THREE.BufferAttribute(positions,3));
+geometry.setAttribute("aSeed", new THREE.BufferAttribute(seeds,1));
+
+/* =========================================================
+   SHADER MATERIAL
+========================================================= */
+const material = new THREE.ShaderMaterial({
+  uniforms:{
+    uTime:{value:0},
+    uScene:{value:0},
+    uMouse:{value:new THREE.Vector2(0,0)}
+  },
+  vertexShader:`
+    uniform float uTime;
+    uniform float uScene;
+    uniform vec2 uMouse;
+    attribute float aSeed;
+    varying float vAlpha;
+    varying float vDist;
+    void main(){
+      vec3 pos = position;
+      float wave = sin(pos.x*2.0 + uTime + aSeed*10.0)*0.12;
+      float wave2 = cos(pos.y*2.0 + uTime)*0.12;
+      float sceneFactor = uScene * 0.35;
+      pos.x += wave * sceneFactor;
+      pos.y += wave2 * sceneFactor;
+      float d = distance(pos.xy, uMouse);
+      pos.z += 0.6 / (d + 0.3);
+      pos *= mix(1.0, 0.65, 1.0 - uScene);
+      vec4 mvPosition = modelViewMatrix * vec4(pos,1.0);
+      gl_Position = projectionMatrix * mvPosition;
+      gl_PointSize = 2.0;
+      vAlpha = 0.6;
+      vDist = d;
+    }
+  `,
+  fragmentShader:`
+    varying float vAlpha;
+    varying float vDist;
+    uniform float uScene;
+    void main(){
+      float d = length(gl_PointCoord - vec2(0.5));
+      if(d > 0.5) discard;
+      vec3 col = mix(vec3(0.4,0.6,1.0), vec3(0.8,0.4,1.0), uScene*0.3);
+      gl_FragColor = vec4(col, vAlpha * (1.0 - vDist*0.2));
+    }
+  `,
+  transparent:true
+});
+
+const points = new THREE.Points(geometry, material);
+scene.add(points);
+
+/* =========================================================
+   STATE SYSTEM
+========================================================= */
+let sceneState = 0;
+const characterWrap = document.getElementById("characterWrap");
+const charImg = document.getElementById("charImg");
+const panel = document.getElementById("panel");
+
+const charImages = ["char-main.jpg","char-dissolve.jpg","char-buttons.jpg","char-mobile.jpg","char-main.jpg"];
+
+function setScene(v){
+  if(sceneState === v) return;
+  sceneState = v;
+  material.uniforms.uScene.value = v;
+
+  // update menu
+  document.querySelectorAll("#ui .btn").forEach((b,i)=>{
+    b.classList.toggle("active", i===v);
+  });
+
+  // COGNITIVE BREAK: Character decomposes
+  characterWrap.classList.add("transitioning");
+  setTimeout(()=>{charImg.src = charImages[v];},400);
+  setTimeout(()=>{characterWrap.classList.remove("transitioning");},1200);
+
+  // Modules emerge from character position
+  const classes = ["state-home","state-explore","state-works","state-ai","state-about"];
+  document.body.className = classes[v];
+
+  // Panel content
+  const labels = ["TICALASI","EXPLORE","WORKS","AI LAB","ABOUT"];
+  const colors = ["purple","purple","blue","pink","orange"];
+  const dividers = ["op","pb","bp","op","pb"];
+  const titles = ["NEURAL FIELD","ADAPTIVE PERCEPTION","STRUCTURED COGNITION","GENERATIVE INTELLIGENCE","IDENTITY ARCHITECTURE"];
+  const descs = [
+    "Identity decomposition system.",
+    "Adaptive perception routing layer.",
+    "Structured cognition outputs.",
+    "Generative intelligence field.",
+    "Identity definition architecture."
+  ];
+  const cnSmall = [
+    "点击角色，唤醒不同内容路径",
+    "在探索中发现新的认知边界",
+    "将思想编织为可交互的现实",
+    "在数据与光影之间，创造新的现实",
+    "从核心出发，构建数字身份"
+  ];
+
+  setTimeout(()=>{
+    document.getElementById("panelLabel").textContent = labels[v];
+    document.getElementById("panelLabel").className = "panel-label " + colors[v];
+    document.getElementById("title").textContent = titles[v];
+    document.getElementById("panelDivider").className = "panel-divider " + dividers[v];
+    document.getElementById("desc").innerHTML = descs[v] + "<small>" + cnSmall[v] + "</small>";
+    panel.classList.add("active");
+  }, 700);
+
+  // Glass buttons
+  document.querySelectorAll(".glass-btn").forEach(b=>b.classList.remove("visible"));
+  if(v > 0){
+    setTimeout(()=>{
+      document.querySelectorAll(".glass-btn").forEach((b,i)=>{
+        setTimeout(()=>b.classList.add("visible"), 200+i*100);
+      });
+    }, 500);
+  }
+}
+
+function nextScene(){
+  setScene((sceneState + 1) % 5);
+}
+
+/* =========================================================
+   POINTER INTERACTION
+========================================================= */
+window.addEventListener("mousemove",(e)=>{
+  material.uniforms.uMouse.value.x = (e.clientX/window.innerWidth - 0.5)*2;
+  material.uniforms.uMouse.value.y = -(e.clientY/window.innerHeight - 0.5)*2;
+});
+
+window.addEventListener("click",(e)=>{
+  if(e.target.closest("#ui") || e.target.closest("#panel") || e.target.closest(".glass-btn") || e.target.closest("#characterWrap")) return;
+  material.uniforms.uScene.value += 0.15;
+  setTimeout(()=>{material.uniforms.uScene.value = sceneState;},300);
+});
+
+/* =========================================================
+   RESIZE
+========================================================= */
+window.addEventListener("resize",()=>{
+  camera.aspect = window.innerWidth/window.innerHeight;
+  camera.updateProjectionMatrix();
+  renderer.setSize(window.innerWidth, window.innerHeight);
+});
+
+/* =========================================================
+   RENDER LOOP
+========================================================= */
+function animate(){
+  requestAnimationFrame(animate);
+  material.uniforms.uTime.value += 0.01;
+  points.rotation.y += 0.0006;
+  points.rotation.x += 0.0002;
+  renderer.render(scene, camera);
+}
+animate();
+
+/* =========================================================
+   INIT
+========================================================= */
+setTimeout(()=>{
+  panel.classList.add("active");
+  document.querySelectorAll(".glass-btn").forEach((b,i)=>{
+    setTimeout(()=>b.classList.add("visible"), 300+i*120);
+  });
+}, 500);
+
+</script>
+</body>
+</html>
