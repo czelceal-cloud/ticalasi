@@ -2,226 +2,303 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>ticalasi</title>
-<svg style="display:none">
-  <filter id="sharpen">
-    <feConvolveMatrix order="3" kernelMatrix="0 -0.8 0 -0.8 4.6 -0.8 0 -0.8 0" />
-  </filter>
-</svg>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,viewport-fit=cover">
+<title>ticalasi.com</title>
 <style>
-*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui,-apple-system,sans-serif;}
-body{background:#fff;overflow:hidden;height:100dvh;}
-
-/* ====== SWIPE ====== */
-.swipe{
-  display:flex;
-  width:200vw;
-  height:100dvh;
-  transition:transform 0.35s cubic-bezier(.25,.46,.45,.94);
-}
-.swipe.s1{transform:translateX(-100vw);}
-
-/* ====== SCENE ====== */
-.scene{
-  width:100vw;height:100dvh;
-  flex-shrink:0;
-  display:flex;flex-direction:column;align-items:center;justify-content:center;
-  position:relative;overflow:hidden;
-  cursor:pointer;
-}
-
-/* ====== FULL BACKGROUND IMAGE ====== */
-.scene-bg{
-  position:absolute;inset:0;
-  background-size:cover;
-  background-position:center 30%;
-  background-repeat:no-repeat;
-  z-index:0;
-  filter:url(#sharpen) contrast(1.06);
-  image-rendering:-webkit-optimize-contrast;
-  image-rendering:crisp-edges;
-  -ms-interpolation-mode:bicubic;
-}
-
-/* ====== TEXT READABILITY OVERLAY (very subtle) ====== */
-.scene-overlay{
-  position:absolute;inset:0;
-  background:linear-gradient(180deg,
-    rgba(0,0,0,0.12) 0%, rgba(0,0,0,0.04) 30%,
-    rgba(0,0,0,0.04) 70%, rgba(0,0,0,0.12) 100%);
-  z-index:1;
-}
-
-/* ====== DARK SCENE 1 OVERLAY ====== */
-.scene.bg-dark .scene-bg{
-  background-color:#0a0a0f;
-}
-.scene.bg-dark .scene-overlay{
-  background:linear-gradient(180deg,
-    rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.15) 30%,
-    rgba(0,0,0,0.15) 70%, rgba(0,0,0,0.35) 100%);
-}
-
-/* ====== INTRO TEXT (top area) ====== */
-.intro{
-  position:relative;z-index:2;
-  text-align:center;
-  padding:0 24px;
-  margin-bottom:clamp(4vh,8vh,12vh);
-}
-.intro h1{
-  font-size:clamp(32px,6vw,56px);
-  font-weight:700;
-  background:linear-gradient(135deg,#ff7832,#c832a0,#3c78f0);
-  -webkit-background-clip:text;
-  -webkit-text-fill-color:transparent;
-  background-clip:text;
-  margin-bottom:4px;
-  text-shadow:0 2px 20px rgba(0,0,0,0.08);
-}
-.intro .sub{
-  font-size:clamp(11px,1.3vw,15px);
-  letter-spacing:0.12em;
-  margin-bottom:10px;
-}
-.intro .desc{
-  font-size:clamp(14px,1.6vw,17px);
-  line-height:1.7;
-  max-width:380px;
-  margin:0 auto;
-}
-.intro .cta{
-  font-size:clamp(11px,1.1vw,13px);
-  margin-top:16px;
-  letter-spacing:0.08em;
-}
-/* light scene text */
-.scene-bg-light .intro .sub{color:rgba(0,0,0,0.5);}
-.scene-bg-light .intro .desc{color:rgba(0,0,0,0.55);}
-.scene-bg-light .intro .cta{color:rgba(0,0,0,0.3);}
-/* dark scene text */
-.scene-bg-dark .intro .sub{color:rgba(255,255,255,0.5);}
-.scene-bg-dark .intro .desc{color:rgba(255,255,255,0.6);}
-.scene-bg-dark .intro .cta{color:rgba(255,255,255,0.3);}
-
-/* ====== INFO PANEL (bottom area) ====== */
-.ip{
-  position:relative;z-index:2;
-  margin-top:clamp(4vh,6vh,10vh);
-  text-align:center;
-  opacity:0;
-  transform:translateY(10px);
-  transition:opacity 0.35s 0.15s,transform 0.35s 0.15s;
-  pointer-events:none;
-  padding:0 24px;
-  max-width:400px;
-}
-.ip.on{opacity:1;transform:translateY(0);}
-.ip p{font-size:clamp(13px,1.4vw,15px);line-height:1.7;}
-.ip .lnk{font-size:11px;margin-top:10px;letter-spacing:0.08em;}
-.scene-bg-light .ip p{color:rgba(0,0,0,0.55);}
-.scene-bg-light .ip .lnk{color:rgba(0,0,0,0.3);}
-.scene-bg-dark .ip p{color:rgba(255,255,255,0.55);}
-.scene-bg-dark .ip .lnk{color:rgba(255,255,255,0.3);}
-
-/* ====== DOTS ====== */
-.dots{
-  position:fixed;bottom:clamp(16px,3vh,28px);
-  left:50%;transform:translateX(-50%);
-  display:flex;gap:14px;
-  z-index:30;
-}
-.dot{
-  width:clamp(8px,1vw,12px);
-  height:clamp(8px,1vw,12px);
-  border-radius:50%;
-  background:rgba(0,0,0,0.15);
-  cursor:pointer;
-  transition:0.3s;
-  border:1.5px solid rgba(0,0,0,0.08);
-}
-.dot.on{background:rgba(0,0,0,0.55);border-color:transparent;transform:scale(1.4);}
-.scene-bg-dark .dot{background:rgba(255,255,255,0.2);border-color:rgba(255,255,255,0.1);}
-.scene-bg-dark .dot.on{background:rgba(255,255,255,0.6);border-color:transparent;}
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+:root{--bg1:#08081a;--bg2:#180a2e;--bg3:#0a0a1e;--a1:#ff7832;--a2:#c832a0;--a3:#3c78f0;--g:rgba(12,12,28,0.55);--gb:1px solid rgba(255,255,255,.08);--t:#fff;--td:#bbb;--tm:#888;--cs:64px}
+html,body{width:100%;height:100%;overflow:hidden;background:#000;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+body{display:flex;justify-content:center;align-items:center}
+.stage{position:relative;width:100%;max-width:430px;height:100dvh;overflow:hidden;background:linear-gradient(170deg,#0a0a1e 0%,#180a2e 50%,#08081a 100%);box-shadow:0 0 60px rgba(0,0,0,.8)}
+#pt{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}
+.brand{position:absolute;top:16px;left:50%;transform:translateX(-50%);z-index:50;font-size:11px;font-weight:800;letter-spacing:4px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.cr{position:relative;z-index:20;display:flex;justify-content:center;align-items:flex-end;gap:12px;padding:50px 16px 0;touch-action:none}
+.chip{display:flex;flex-direction:column;align-items:center;gap:5px;cursor:pointer;touch-action:none;user-select:none;position:relative;transition:transform .25s}
+.chip:active{transform:scale(.92)}
+.chip .av{width:var(--cs);height:var(--cs);border-radius:50%;background-size:cover;background-position:50% 30%;background-repeat:no-repeat;position:relative;border:2px solid rgba(255,255,255,.15);transition:border-color .3s,box-shadow .3s;overflow:hidden;flex-shrink:0}
+.chip .av::after{content:"";position:absolute;inset:0;border-radius:50%;pointer-events:none}
+.chip .lb{font-size:9px;font-weight:600;letter-spacing:.5px;color:var(--td);text-align:center;max-width:68px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.chip.a .av{border-color:var(--a1);box-shadow:0 0 16px rgba(255,120,50,.3)}
+.chip.a .lb{color:#fff}
+.chip.pt .av{animation:tg .6s ease-in-out 3;border-color:#fff}
+@keyframes tg{0%,100%{box-shadow:0 0 0 rgba(255,255,255,0)}50%{box-shadow:0 0 24px rgba(255,255,255,.6)}}
+/* bg images and tints per index */
+.c0 .av{background-image:url(girl-white-hd.jpg);background-position:50% 28%}
+.c0 .av::after{background:linear-gradient(135deg,rgba(255,120,50,.25),rgba(255,120,50,.05))}
+.c1 .av{background-image:url(girl-dark-hd.png);background-position:50% 28%}
+.c1 .av::after{background:linear-gradient(135deg,rgba(200,50,160,.25),rgba(200,50,160,.05))}
+.c2 .av{background-image:url(girl-white-hd.jpg);background-position:30% 42%}
+.c2 .av::after{background:linear-gradient(135deg,rgba(60,120,240,.25),rgba(60,120,240,.05))}
+.c3 .av{background-image:url(girl-dark-hd.png);background-position:70% 35%}
+.c3 .av::after{background:linear-gradient(135deg,rgba(100,200,100,.25),rgba(100,200,100,.05))}
+/* group */
+.grp .av{background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3))!important;border-color:rgba(255,255,255,.3);animation:hb 1.2s ease-in-out infinite}
+.grp .av::after{display:none}
+.grp .av .gi{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:18px;color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.5)}
+.grp .lb{color:var(--a1);font-weight:700}
+@keyframes hb{0%,100%{transform:scale(1)}14%{transform:scale(1.08)}28%{transform:scale(1)}42%{transform:scale(1.04)}70%{transform:scale(1)}}
+#cl{position:fixed;z-index:999;pointer-events:none;display:none;touch-action:none;width:72px;height:72px;border-radius:50%;background-size:cover;background-repeat:no-repeat;border:3px solid rgba(255,255,255,.4);box-shadow:0 8px 32px rgba(0,0,0,.5),0 0 20px rgba(255,255,255,.1);overflow:hidden}
+#cl::after{content:"";position:absolute;inset:0;border-radius:50%;pointer-events:none;background:var(--t,transparent)}
+/* content area */
+.ca{position:absolute;top:calc(var(--cs)+52px+16px);left:16px;right:16px;bottom:110px;z-index:10;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px}
+.ca .tg{display:inline-flex;align-items:center;gap:5px;font-size:9px;letter-spacing:2.5px;font-weight:700;padding:5px 12px;border-radius:16px;margin-bottom:14px;text-transform:uppercase;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);color:var(--a1)}
+.ca .ct{font-size:38px;font-weight:900;line-height:1.05;margin-bottom:4px;letter-spacing:-1.2px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
+.ca .cs{font-size:11px;font-weight:600;letter-spacing:1.2px;margin-bottom:6px;text-transform:uppercase;color:#aaa}
+.ca .pl{width:56px;height:2.5px;margin:0 auto 12px;border-radius:2px;background:linear-gradient(90deg,var(--a1),var(--a2),var(--a3));position:relative;overflow:hidden}
+.ca .pl::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.8),transparent);animation:ps 2s linear infinite}
+@keyframes ps{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
+.ca .cd{font-size:12.5px;line-height:1.65;color:var(--td);margin-bottom:16px;max-width:320px}
+.ca .ch{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--tm);display:flex;align-items:center;justify-content:center;gap:6px;cursor:pointer}
+/* panel */
+.pn{position:absolute;bottom:0;left:0;right:0;background:var(--g);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:24px 24px 0 0;border-top:1px solid rgba(255,255,255,.1);padding:12px 24px 34px;z-index:100;transform:translateY(110%);transition:transform .55s cubic-bezier(.25,.46,.45,.94)}
+.pn.a{transform:translateY(0)}
+.ph{width:40px;height:4px;background:rgba(255,255,255,.2);border-radius:2px;margin:0 auto 18px}
+.phd{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.pt{font-size:22px;font-weight:900;letter-spacing:-.5px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+.pb{font-size:8px;letter-spacing:1.5px;font-weight:700;padding:4px 10px;border-radius:10px;background:rgba(255,120,50,.12);color:var(--a1);border:1px solid rgba(255,120,50,.2)}
+.pd{font-size:12.5px;line-height:1.6;color:#ccc;margin-bottom:18px}
+.pf{display:flex;flex-direction:column;gap:8px;margin-bottom:20px}
+.pf>div{display:flex;align-items:center;gap:10px;font-size:12px;color:#ddd}
+.pf>div s{width:30px;height:30px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,rgba(255,120,50,.12),rgba(200,50,160,.12));border:1px solid rgba(255,255,255,.06);border-radius:8px;font-size:12px;flex-shrink:0}
+.cta{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px;border-radius:12px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));background-size:200% 100%;color:#fff;font-size:12px;font-weight:700;text-decoration:none;letter-spacing:1.2px;text-transform:uppercase;box-shadow:0 6px 24px rgba(200,50,160,.3);transition:background-position .4s,transform .2s;cursor:pointer;border:none}
+.cta:active{transform:scale(.97)}
+.dismiss{display:block;margin:12px auto 0;background:none;border:none;color:#777;font-size:10px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;padding:6px;width:100%}
+.dots{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);display:flex;gap:8px;z-index:200;transition:opacity .3s}
+.dots.h{opacity:0;pointer-events:none}
+.dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.18);transition:all .4s cubic-bezier(.25,.46,.45,.94);cursor:pointer}
+.dot.a{width:26px;border-radius:3px;background:linear-gradient(90deg,var(--a1),var(--a2),var(--a3))}
+#toast{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%) scale(.8);z-index:300;background:rgba(12,12,28,.8);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:18px 28px;text-align:center;opacity:0;pointer-events:none;transition:opacity .3s,transform .3s}
+#toast.s{opacity:1;transform:translate(-50%,-50%) scale(1)}
+#toast .ti{font-size:32px;display:block;margin-bottom:6px}
+#toast .tm{font-size:13px;font-weight:600;color:#fff}
+@media(max-height:700px){.ca .ct{font-size:30px}.ca{top:calc(var(--cs)+48px+8px);padding:12px}:root{--cs:56px}.cr{gap:10px;padding:46px 12px 0}}
+@media(max-height:600px){.ca .ct{font-size:26px}.ca{top:calc(56px+44px+6px)}.pn{padding:10px 20px 24px}.pt{font-size:18px}}
 </style>
 </head>
 <body>
-
-<div class="swipe" id="swipe">
-
-  <!-- SCENE 0 — WHITE GIRL → ticalcode -->
-  <div class="scene scene-bg-light" onclick="clickChar(0)">
-    <div class="scene-bg" style="background-image:url(girl-white-hd.jpg)"></div>
-    <div class="scene-overlay"></div>
-    <div class="intro">
-      <h1>ticalcode</h1>
-      <p class="sub">AI Agent Platform</p>
-      <p class="desc">Build, deploy, and manage autonomous AI agents at scale. Seamless orchestration, real-time monitoring, and intelligent automation.</p>
-      <p class="cta">⟡ touch to enter ⟡</p>
-    </div>
-    <div class="ip" id="ip0">
-      <p>Your AI identity & agent platform — deploy, monitor, scale.</p>
-      <p class="lnk">touch again → open ticalcode.com</p>
-    </div>
-  </div>
-
-  <!-- SCENE 1 — BLACK GIRL → EITE Agent -->
-  <div class="scene scene-bg-dark" onclick="clickChar(1)">
-    <div class="scene-bg" style="background-image:url(girl-dark-hd.png)"></div>
-    <div class="scene-overlay"></div>
-    <div class="intro">
-      <h1>EITE Agent</h1>
-      <p class="sub">Existential Identity Test Engine</p>
-      <p class="desc">Open-source framework for benchmarking AI agent honesty, autonomy, and runtime integrity. Standardized tests for identity verification.</p>
-      <p class="cta">⟡ touch to explore ⟡</p>
-    </div>
-    <div class="ip" id="ip1">
-      <p>Open-source testing framework — benchmark agent identity & honesty.</p>
-      <p class="lnk">touch again → open GitHub repository</p>
-    </div>
-  </div>
-
+<div class="stage" id="stage">
+<canvas id="pt"></canvas>
+<div class="brand">TICALASI</div>
+<div class="cr" id="cr"></div>
+<div class="ca" id="ca">
+  <span class="tg" id="cTag">&#9733; Explore</span>
+  <h1 class="ct" id="cT">ticalcode</h1>
+  <p class="cs" id="cSub">AI Agent Platform</p>
+  <div class="pl"></div>
+  <p class="cd" id="cDesc">Build, deploy, orchestrate intelligent agents that reason, act, and collaborate.</p>
+  <p class="ch" id="chint">&#9755; Tap chip for details</p>
 </div>
-
+<div class="pn" id="pn">
+  <div class="ph"></div>
+  <div class="phd"><h2 class="pt" id="pT">ticalcode</h2><span class="pb" id="pB">EXPLORE</span></div>
+  <p class="pd" id="pD"></p>
+  <div class="pf" id="pF"></div>
+  <a class="cta" id="pC" target="_blank" rel="noopener"><span id="ctaT">Visit ticalcode.com</span> &#8599;</a>
+  <button class="dismiss" id="dis">Dismiss</button>
+</div>
+<div id="cl"></div>
+<div id="toast"><span class="ti">&#10084;&#65039;</span><div class="tm" id="toastM">Group Created!</div></div>
 <div class="dots" id="dots">
-  <div class="dot on" onclick="event.stopPropagation();go(0)"></div>
-  <div class="dot" onclick="event.stopPropagation();go(1)"></div>
+  <div class="dot a" data-i="0"></div>
+  <div class="dot" data-i="1"></div>
+  <div class="dot" data-i="2"></div>
+  <div class="dot" data-i="3"></div>
+</div>
 </div>
 
 <script>
-const swipe=document.getElementById('swipe');
-const ip0=document.getElementById('ip0'),ip1=document.getElementById('ip1');
-let ci=0,opened=false;
+const S=[
+{t:'ticalcode',b:'EXPLORE',s:'AI Agent Platform',
+ d:'AI Agent Platform \u2014 build, deploy, and orchestrate intelligent agents that reason, act, and collaborate across any domain. All in one composable runtime with visual workflow builder and 100+ native integrations.',
+ f:['Composable agent runtime','Visual workflow builder','100+ native integrations','Real-time orchestration'],
+ c:'Visit ticalcode.com',l:'https://ticalcode.com'},
+{t:'EITE Agent',b:'WORKS',s:'Existential Identity Test Engine',
+ d:'Existential Identity Test Engine \u2014 a reasoning engine that probes identity, intent, and self-awareness through structured existential dialogue and adversarial self-reflection layers.',
+ f:['Multi-layer identity probing','Adversarial self-reflection','Behavioral signature mapping','Intent verification protocol'],
+ c:'Read the whitepaper',l:'https://ticalcode.com/eite'},
+{t:'AI Lab',b:'RESEARCH',s:'Frontier Experiments',
+ d:'Frontier experiments in emergent behavior, multi-agent systems, and the boundaries of machine cognition. Open research notebooks and public benchmark suite.',
+ f:['Open research notebooks','Multi-agent simulations','Public benchmark suite','Emergent behavior studies'],
+ c:'Explore on GitHub',l:'https://github.com/ticalasi'},
+{t:'ticalasi',b:'ABOUT',s:'Building the Future',
+ d:'A collective of researchers and engineers crafting tools at the intersection of identity, intelligence, and interaction. Open-source first, shipping since 2023.',
+ f:['Distributed team worldwide','Open-source first','Shipping since 2023','hello@ticalasi.com'],
+ c:'Get in touch',l:'https://ticalcode.com/about'}
+];
+const tags=['&#9733; Explore','&#9881; Works','&#9878; AI Lab','&#8505; About'];
 
-const links=['https://ticalcode.com','https://github.com/czelceal-cloud/eite-agent'];
+const CR=document.getElementById('cr');
+const PN=document.getElementById('pn'),pT=document.getElementById('pT'),pB=document.getElementById('pB');
+const pD=document.getElementById('pD'),pF=document.getElementById('pF');
+const pC=document.getElementById('pC'),ctaT=document.getElementById('ctaT');
+const dis=document.getElementById('dis');
+const D=document.querySelectorAll('.dot'),DC=document.getElementById('dots');
+const CL=document.getElementById('cl');
+const T=document.getElementById('toast'),TM=document.getElementById('toastM');
+const cTag=document.getElementById('cTag'),cT=document.getElementById('cT');
+const cSub=document.getElementById('cSub'),cDesc=document.getElementById('cDesc');
 
-function clickChar(i){
-  if(i!==ci){go(i);return;}
-  if(opened){window.open(links[ci],'_blank');}
-  else{opened=true;(ci===0?ip0:ip1).classList.add('on');}
+let cur=0,open=!1,grps=[];
+
+function gc(n){return n.slice(0,3)}
+
+function rb(){
+  CR.innerHTML='';
+  const used=new Set();grps.forEach(g=>{used.add(g.a);used.add(g.b)});
+  for(const g of grps){
+    const e=document.createElement('div');
+    e.className='chip grp';e.dataset.pos=g.a;e.dataset.grp='1';
+    e.innerHTML='<div class="av"><span class="gi">&#10052;</span></div><div class="lb">'+gc(g.na)+'+'+gc(g.nb)+'</div>';
+    e.addEventListener('pointerdown',function(ev){_hd(ev,this,!0,g)});
+    CR.appendChild(e);
+  }
+  for(let i=0;i<S.length;i++){
+    if(used.has(i))continue;
+    const e=document.createElement('div');
+    e.className='chip c'+i+(i===cur?' a':'');e.dataset.pos=i;
+    e.innerHTML='<div class="av"></div><div class="lb">'+S[i].t+'</div>';
+    e.addEventListener('pointerdown',function(ev){_hd(ev,this,!1,i)});
+    CR.appendChild(e);
+  }
+  uc(cur);ud();
 }
 
-function go(i){
-  if(i===ci){
-    if(opened){opened=false;(ci===0?ip0:ip1).classList.remove('on');}
-    return;
-  }
-  (ci===0?ip0:ip1).classList.remove('on');
-  opened=false;ci=i;
-  swipe.className='swipe'+(i===1?' s1':'');
-  document.querySelectorAll('.dot').forEach((d,j)=>d.classList.toggle('on',j===i));
+function uc(i){
+  const s=S[i];cTag.innerHTML=tags[i];cT.textContent=s.t;cSub.textContent=s.s;
+  cDesc.textContent=s.d.slice(0,80)+'...';
 }
 
-/* touch swipe */
-let sx=0,sy=0;
-document.addEventListener('touchstart',e=>{const t=e.changedTouches[0];sx=t.clientX;sy=t.clientY;},{passive:true});
-document.addEventListener('touchend',e=>{
-  const t=e.changedTouches[0],dx=t.clientX-sx,dy=t.clientY-sy;
-  if(Math.abs(dx)>40&&Math.abs(dx)>Math.abs(dy)*1.5){
-    if(dx<0&&ci===0)go(1);else if(dx>0&&ci===1)go(0);
+function oP(i){
+  const s=S[i];pT.textContent=s.t;pB.textContent=s.b;
+  pD.textContent=s.d;
+  pF.innerHTML=s.f.map(f=>'<div><s>&#9881;</s><span>'+f+'</span></div>').join('');
+  ctaT.textContent=s.c;pC.href=s.l;
+  PN.classList.add('a');DC.classList.add('h');open=!0;
+}
+
+function ogp(g){
+  const sa=S[g.a],sb=S[g.b];
+  pT.textContent=sa.t+' + '+sb.t;pB.textContent='GROUP';
+  pD.textContent=sa.d+' '+sb.d;
+  const m=sa.f.concat(sb.f).slice(0,6);
+  pF.innerHTML=m.map(f=>'<div><s>&#10052;</s><span>'+f+'</span></div>').join('');
+  ctaT.textContent='Explore '+sa.t;pC.href=sa.l;
+  PN.classList.add('a');DC.classList.add('h');open=!0;
+}
+
+function cP(){PN.classList.remove('a');DC.classList.remove('h');open=!1}
+function st(m){TM.textContent=m;T.classList.add('s');clearTimeout(T._t);T._t=setTimeout(()=>T.classList.remove('s'),2200)}
+function ud(){D.forEach((d,i)=>d.classList.toggle('a',i===cur))}
+
+let _pid=null,_trig=!1,_src=-1,_moved=!1,_timer=null;
+
+function _hd(ev,el,isGroup,idx){
+  if(ev.button!==0&&ev.pointerType==='mouse')return;
+  if(_pid)return;
+  if(isGroup){oG(el);return} // group chip tap
+
+  const i=idx;
+  if(grps.some(g=>g.a===i||g.b===i))return;
+  _pid=ev.pointerId;_src=i;_trig=!1;_moved=!1;
+  const sx=ev.clientX,sy=ev.clientY;
+
+  function _mh(e){
+    if(!_trig||e.pointerId!==_pid)return;e.preventDefault();
+    _moved=!0;CL.style.left=(e.clientX-36)+'px';CL.style.top=(e.clientY-36)+'px';
+    let hit=!1;
+    CR.querySelectorAll('.chip').forEach(c=>{
+      if(c===el||c.classList.contains('grp'))return;
+      const r=c.getBoundingClientRect();
+      if(Math.hypot(e.clientX-(r.left+r.width/2),e.clientY-(r.top+r.height/2))<50){c.classList.add('pt');hit=!0}
+      else c.classList.remove('pt');
+    });
+    if(!hit)CR.querySelectorAll('.pt').forEach(x=>x.classList.remove('pt'));
   }
-},{passive:true});
+
+  function _uh(e){
+    if(e.pointerId!==_pid)return;
+    document.removeEventListener('pointermove',_mh);
+    document.removeEventListener('pointerup',_uh);
+    clearTimeout(_timer);
+    CR.querySelectorAll('.pt').forEach(x=>x.classList.remove('pt'));
+    CL.style.display='none';_pid=null;
+    if(_trig&&_moved){
+      CR.querySelectorAll('.chip').forEach(c=>{
+        if(c===el||c.classList.contains('grp'))return;
+        const r=c.getBoundingClientRect();
+        if(Math.hypot(e.clientX-(r.left+r.width/2),e.clientY-(r.top+r.height/2))<55){
+          const j=+c.dataset.pos;
+          if(i!==j&&!grps.some(g=>g.a===i||g.b===i||g.a===j||g.b===j)){
+            grps.push({a:i,b:j,na:S[i].t,nb:S[j].t});
+            rb();st(S[i].t+' + '+S[j].t);
+            if(navigator.vibrate)navigator.vibrate(30);
+          }
+        }
+      });
+    } else if(!_trig){
+      // tap: open panel
+      cur=i;uc(i);ud();oP(i);
+    }
+  }
+
+  _timer=setTimeout(()=>{
+    _trig=!0;if(navigator.vibrate)navigator.vibrate(50);
+    const im=i===0||i===2?'url(girl-white-hd.jpg)':'url(girl-dark-hd.png)';
+    const bp=i===0?'50% 28%':i===1?'50% 28%':i===2?'30% 42%':'70% 35%';
+    const ti=i===0?'linear-gradient(135deg,rgba(255,120,50,.25),rgba(255,120,50,.05))':
+             i===1?'linear-gradient(135deg,rgba(200,50,160,.25),rgba(200,50,160,.05))':
+             i===2?'linear-gradient(135deg,rgba(60,120,240,.25),rgba(60,120,240,.05))':
+             'linear-gradient(135deg,rgba(100,200,100,.25),rgba(100,200,100,.05))';
+    CL.style.backgroundImage=im;CL.style.backgroundPosition=bp;CL.style.setProperty('--t',ti);
+    CL.style.display='block';CL.style.left=(sx-36)+'px';CL.style.top=(sy-36)+'px';
+  },250);
+
+  document.addEventListener('pointermove',_mh);
+  document.addEventListener('pointerup',_uh);
+}
+
+function oG(el){
+  const g=grps.find(x=>x.a===+el.dataset.pos);
+  if(g){cur=g.a;uc(g.a);ud();ogp(g)}
+}
+
+rb();
+
+D.forEach(d=>{
+  d.addEventListener('click',e=>{
+    e.stopPropagation();const i=+d.dataset.i;
+    if(grps.some(g=>g.a===i||g.b===i))return;
+    cur=i;uc(i);ud();if(open)cP();
+  });
+});
+
+dis.addEventListener('click',cP);
+pC.addEventListener('click',e=>e.stopPropagation());
+document.getElementById('ca').addEventListener('click',()=>{if(!open)oP(cur)});
+document.addEventListener('keydown',e=>{
+  if(e.key==='Escape')cP();
+  if((e.key==='ArrowRight'||e.key==='ArrowLeft')&&!open){
+    let i=cur,step=e.key==='ArrowRight'?1:-1;
+    do i=(i+step+4)%4;while(grps.some(g=>g.a===i||g.b===i));
+    cur=i;uc(i);ud();
+  }
+});
+
+// particles
+const cv=document.getElementById('pt'),ctx=cv.getContext('2d');
+let pp=[],cw,ch;
+function rz(){const r=cv.getBoundingClientRect();cw=cv.width=r.width;ch=cv.height=r.height}
+function ip(){
+  pp=[];const n=Math.min(120,Math.floor(cw*ch/4000));
+  for(let i=0;i<n;i++){const h=Math.random();pp.push({x:Math.random()*cw,y:Math.random()*ch,r:Math.random()*1.4+.3,vy:Math.random()*.35+.08,vx:(Math.random()-.5)*.08,tw:Math.random()*Math.PI*2,ts:Math.random()*.04+.008,hue:h<.4?25:(h<.7?320:220)})}
+}
+function dp(){
+  ctx.clearRect(0,0,cw,ch);
+  for(const p of pp){p.y-=p.vy;p.x+=p.vx;p.tw+=p.ts;if(p.y<-5){p.y=ch+5;p.x=Math.random()*cw}if(p.x<-5)p.x=cw+5;if(p.x>cw+5)p.x=-5;const a=.35+Math.sin(p.tw)*.4;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle=`hsla(${p.hue},85%,68%,${a})`;ctx.shadowBlur=6;ctx.shadowColor=`hsla(${p.hue},85%,68%,${a*.8})`;ctx.fill()}
+  ctx.shadowBlur=0;requestAnimationFrame(dp)
+}
+window.addEventListener('resize',()=>{rz();ip()});
+rz();ip();dp();
 </script>
 </body>
 </html>
