@@ -198,7 +198,7 @@ const links=['https://ticalcode.com','https://github.com/czelceal-cloud/eite-age
 
 function clickChar(i){
   if(i!==ci){go(i);return;}
-  if(opened){window.open(links[ci],'_blank');}
+  if(opened){window.open(links[ci],'_blank','noopener');}
   else{opened=true;(ci===0?ip0:ip1).classList.add('on');}
 }
 
