@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TICALASI — Creative Navigation</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800&display=swap');
+
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  background:#fafafa;
+  font-family:'Inter',-apple-system,sans-serif;
+  color:#111;
+  overflow-x:hidden;
+  min-height:100vh;
+}
+
+/* ===== GRID BACKGROUND ===== */
+body::before{
+  content:'';
+  position:fixed;inset:0;
+  background-image:
+    linear-gradient(rgba(0,0,0,0.018) 1px,transparent 1px),
+    linear-gradient(90deg,rgba(0,0,0,0.018) 1px,transparent 1px);
+  background-size:60px 60px;
+  pointer-events:none;
+  z-index:0;
+}
+
+/* ===== APP ===== */
+#app{position:relative;z-index:1;}
+
+/* ===== HEADER ===== */
+.header{
+  position:fixed;top:0;left:0;right:0;z-index:100;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:24px 40px;
+}
+.header-logo{
+  font-size:13px;font-weight:700;letter-spacing:0.15em;
+  text-transform:uppercase;color:#111;
+}
+.hamburger{
+  display:flex;flex-direction:column;gap:5px;cursor:pointer;
+  padding:8px;
+}
+.hamburger span{
+  display:block;width:20px;height:1.5px;background:#111;
+  transition:0.3s;
+}
+
+/* ===== LEFT NAV ===== */
+.left-nav{
+  position:fixed;left:40px;top:50%;transform:translateY(-50%);
+  z-index:50;display:flex;flex-direction:column;gap:0;
+}
+.nav-item{
+  display:flex;align-items:center;gap:10px;
+  padding:12px 0;cursor:pointer;
+  transition:0.3s;
+}
+.nav-icon{
+  width:28px;height:28px;border-radius:8px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:11px;transition:0.3s;
+}
+.nav-label{
+  font-size:11px;font-weight:600;letter-spacing:0.12em;
+  text-transform:uppercase;opacity:0.35;transition:0.3s;
+}
+.nav-item.active .nav-label{opacity:1;}
+.nav-item:hover .nav-label{opacity:0.7;}
+
+/* nav colors */
+.nav-item[data-scene="home"] .nav-icon{background:rgba(255,120,50,0.12);color:#ff7832;}
+.nav-item[data-scene="explore"] .nav-icon{background:rgba(140,80,200,0.1);color:#8c50c8;}
+.nav-item[data-scene="works"] .nav-icon{background:rgba(60,120,240,0.1);color:#3c78f0;}
+.nav-item[data-scene="ai"] .nav-icon{background:rgba(200,50,160,0.1);color:#c832a0;}
+.nav-item[data-scene="about"] .nav-icon{background:rgba(220,80,50,0.1);color:#dc5032;}
+
+.nav-item.active[data-scene="home"] .nav-label{color:#ff7832;}
+.nav-item.active[data-scene="explore"] .nav-label{color:#8c50c8;}
+.nav-item.active[data-scene="works"] .nav-label{color:#3c78f0;}
+.nav-item.active[data-scene="ai"] .nav-label{color:#c832a0;}
+.nav-item.active[data-scene="about"] .nav-label{color:#dc5032;}
+
+.nav-item.active[data-scene="home"] .nav-icon{background:rgba(255,120,50,0.18);}
+.nav-item.active[data-scene="explore"] .nav-icon{background:rgba(140,80,200,0.18);}
+.nav-item.active[data-scene="works"] .nav-icon{background:rgba(60,120,240,0.18);}
+.nav-item.active[data-scene="ai"] .nav-icon{background:rgba(200,50,160,0.18);}
+.nav-item.active[data-scene="about"] .nav-icon{background:rgba(220,80,50,0.18);}
+
+/* ===== LEFT SLOGAN ===== */
+.left-slogan{
+  position:fixed;left:40px;bottom:120px;z-index:50;
+}
+.slogan-line{
+  width:1px;height:32px;background:linear-gradient(to bottom,transparent,#ff7832);
+  margin-left:13px;margin-bottom:12px;
+}
+.slogan-text{
+  font-size:10px;font-weight:700;letter-spacing:0.15em;
+  text-transform:uppercase;color:#111;line-height:1.8;
+}
+
+/* ===== SCROLL PROMPT ===== */
+.scroll-prompt{
+  position:fixed;left:40px;bottom:40px;z-index:50;
+  display:flex;flex-direction:column;align-items:center;gap:8px;
+}
+.scroll-prompt span{
+  font-size:9px;font-weight:600;letter-spacing:0.2em;
+  text-transform:uppercase;color:#999;
+}
+.scroll-arrow{
+  width:12px;height:12px;border-right:1.5px solid #999;border-bottom:1.5px solid #999;
+  transform:rotate(45deg);animation:scrollBounce 2s ease infinite;
+}
+@keyframes scrollBounce{0%,100%{transform:rotate(45deg) translateY(0);}50%{transform:rotate(45deg) translateY(4px);}}
+
+/* ===== MAIN STAGE ===== */
+.stage{
+  position:relative;width:100vw;height:100vh;
+  display:flex;align-items:center;justify-content:center;
+  overflow:hidden;
+}
+
+/* ===== CHARACTER ===== */
+.character-wrap{
+  position:relative;z-index:10;
+  width:420px;height:560px;
+  cursor:pointer;
+  transition:0.6s cubic-bezier(0.16,1,0.3,1);
+}
+.character-wrap:hover{transform:scale(1.02);}
+
+.character-img{
+  width:100%;height:100%;
+  background:linear-gradient(135deg,#1a1a2e,#16213e,#0f3460);
+  border-radius:24px;
+  position:relative;overflow:hidden;
+  box-shadow:0 30px 80px rgba(0,0,0,0.15);
+}
+
+/* placeholder silhouette */
+.character-img::before{
+  content:'';position:absolute;
+  left:50%;top:15%;
+  width:180px;height:300px;
+  transform:translateX(-50%);
+  background:linear-gradient(to bottom,
+    rgba(255,255,255,0.06) 0%,
+    rgba(255,255,255,0.02) 100%
+  );
+  border-radius:90px 90px 60px 60px;
+}
+.character-img::after{
+  content:'';position:absolute;
+  left:50%;top:8%;
+  width:100px;height:100px;
+  transform:translateX(-50%);
+  background:radial-gradient(circle,
+    rgba(180,120,255,0.15),
+    rgba(100,200,255,0.08),
+    transparent 70%
+  );
+  border-radius:50%;
+  animation:charGlow 4s ease infinite;
+}
+@keyframes charGlow{0%,100%{opacity:0.5;transform:translateX(-50%) scale(1);}50%{opacity:1;transform:translateX(-50%) scale(1.1);}}
+
+/* character label */
+.char-label{
+  position:absolute;bottom:-30px;left:50%;
+  transform:translateX(-50%);
+  font-size:10px;font-weight:600;letter-spacing:0.2em;
+  text-transform:uppercase;color:#999;
+  white-space:nowrap;
+}
+
+/* ===== FLOATING GLASS BUTTONS ===== */
+.glass-btn{
+  position:absolute;
+  padding:14px 22px;
+  border-radius:16px;
+  font-size:12px;font-weight:600;
+  color:#111;
+  backdrop-filter:blur(12px);
+  cursor:pointer;
+  transition:all 0.5s cubic-bezier(0.16,1,0.3,1);
+  opacity:0;
+  transform:translateY(20px) scale(0.9);
+  border:1px solid rgba(255,255,255,0.5);
+  box-shadow:0 8px 32px rgba(0,0,0,0.06), inset 0 1px 0 rgba(255,255,255,0.6);
+  z-index:15;
+  user-select:none;
+}
+.glass-btn:hover{
+  transform:translateY(-2px) scale(1.05) !important;
+  box-shadow:0 12px 40px rgba(0,0,0,0.1), inset 0 1px 0 rgba(255,255,255,0.8);
+}
+.glass-btn.visible{
+  opacity:1;
+  transform:translateY(0) scale(1);
+}
+
+/* glass button colors */
+.glass-btn.c1{background:linear-gradient(135deg,rgba(255,180,200,0.45),rgba(180,200,255,0.45));}
+.glass-btn.c2{background:linear-gradient(135deg,rgba(180,220,255,0.45),rgba(160,255,220,0.45));}
+.glass-btn.c3{background:linear-gradient(135deg,rgba(255,220,160,0.45),rgba(255,180,200,0.45));}
+.glass-btn.c4{background:linear-gradient(135deg,rgba(160,200,255,0.45),rgba(180,160,255,0.45));}
+.glass-btn.c5{background:linear-gradient(135deg,rgba(255,180,120,0.45),rgba(255,220,120,0.45));}
+
+/* sparkle effect on buttons */
+.glass-btn::before{
+  content:'';position:absolute;
+  width:6px;height:6px;border-radius:50%;
+  background:rgba(255,255,255,0.8);
+  top:8px;right:10px;
+  animation:sparkle 3s ease infinite;
+}
+@keyframes sparkle{0%,100%{opacity:0;transform:scale(0);}50%{opacity:1;transform:scale(1);}}
+
+/* ===== HERO TEXT (RIGHT SIDE) ===== */
+.hero-text{
+  position:absolute;
+  right:8%;
+  top:50%;transform:translateY(-50%);
+  z-index:20;
+  max-width:360px;
+  opacity:0;
+  transition:0.8s ease 0.3s;
+}
+.hero-text.visible{opacity:1;}
+
+.hero-label{
+  font-size:11px;font-weight:700;letter-spacing:0.15em;
+  text-transform:uppercase;
+  margin-bottom:16px;
+}
+.hero-label.purple{color:#8c50c8;}
+.hero-label.orange{color:#ff7832;}
+.hero-label.blue{color:#3c78f0;}
+.hero-label.pink{color:#c832a0;}
+
+.hero-title{
+  font-size:clamp(28px,3.5vw,44px);
+  font-weight:800;letter-spacing:-0.02em;
+  line-height:1.15;
+  text-transform:uppercase;
+  margin-bottom:16px;
+}
+
+.hero-divider{
+  width:120px;height:3px;border-radius:2px;
+  margin-bottom:20px;
+}
+.hero-divider.orange-purple{background:linear-gradient(90deg,#ff7832,#8c50c8);}
+.hero-divider.purple-blue{background:linear-gradient(90deg,#8c50c8,#3c78f0);}
+.hero-divider.blue-pink{background:linear-gradient(90deg,#3c78f0,#c832a0);}
+
+.hero-subtitle-cn{
+  font-size:14px;line-height:1.8;
+  color:#555;margin-bottom:6px;
+}
+.hero-subtitle-cn small{display:block;font-size:12px;color:#999;}
+
+.hero-cta{
+  display:inline-flex;align-items:center;gap:10px;
+  margin-top:24px;
+  padding:12px 28px;
+  border:1.5px solid #111;
+  border-radius:50px;
+  font-size:11px;font-weight:700;letter-spacing:0.12em;
+  text-transform:uppercase;
+  cursor:pointer;
+  transition:0.3s;
+  background:transparent;
+  color:#111;
+}
+.hero-cta:hover{background:#111;color:#fff;}
+.hero-cta svg{width:14px;height:14px;transition:0.3s;}
+.hero-cta:hover svg{transform:translateX(3px);}
+
+/* ===== HERO SOCIAL ===== */
+.hero-social{
+  display:flex;gap:16px;margin-top:28px;
+}
+.hero-social a{
+  width:32px;height:32px;border-radius:50%;
+  border:1px solid #ddd;
+  display:flex;align-items:center;justify-content:center;
+  text-decoration:none;color:#666;font-size:13px;
+  transition:0.3s;
+}
+.hero-social a:hover{border-color:#111;color:#111;}
+
+/* ===== PARTICLE CANVAS ===== */
+#particles{position:fixed;inset:0;pointer-events:none;z-index:2;}
+
+/* ===== DISSOLVE CUBES ===== */
+.cube{
+  position:fixed;
+  width:8px;height:8px;
+  border-radius:2px;
+  opacity:0;
+  pointer-events:none;
+  z-index:3;
+  transition:none;
+}
+.cube.fly{
+  opacity:0.8;
+  animation:cubeFly 2s ease-out forwards;
+}
+@keyframes cubeFly{
+  0%{opacity:0.7;transform:translate(0,0) rotate(0deg) scale(1);}
+  100%{opacity:0;transform:translate(var(--dx),var(--dy)) rotate(180deg) scale(0.3);}
+}
+
+/* ===== BOTTOM SECTION ===== */
+.bottom-section{
+  position:relative;z-index:10;
+  padding:0 40px 80px;
+  min-height:100vh;
+}
+
+.section-header{
+  text-align:center;padding:80px 0 60px;
+}
+.section-header h2{
+  font-size:32px;font-weight:700;letter-spacing:-0.01em;
+  text-transform:uppercase;margin-bottom:8px;
+}
+.section-header p{
+  font-size:13px;color:#888;letter-spacing:0.05em;
+}
+
+/* ===== SCENE CARDS (bottom carousel) ===== */
+.scene-cards{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:20px;
+  max-width:1100px;margin:0 auto;
+}
+.scene-card{
+  border-radius:20px;
+  overflow:hidden;
+  cursor:pointer;
+  transition:0.5s cubic-bezier(0.16,1,0.3,1);
+  position:relative;
+  aspect-ratio:3/4;
+}
+.scene-card:hover{transform:translateY(-8px);}
+
+.scene-card-bg{
+  position:absolute;inset:0;
+  transition:0.6s;
+}
+
+.scene-card[data-scene="explore"] .scene-card-bg{
+  background:linear-gradient(135deg,#2a1a3e,#1a1a2e,#162040);
+}
+.scene-card[data-scene="works"] .scene-card-bg{
+  background:linear-gradient(135deg,#1a1a3e,#1a2040,#1e1a3e);
+}
+.scene-card[data-scene="ai"] .scene-card-bg{
+  background:linear-gradient(135deg,#1a1a2e,#2a1a3e,#1a2040);
+}
+.scene-card[data-scene="about"] .scene-card-bg{
+  background:linear-gradient(135deg,#2e1a1a,#3e2a1a,#1a1a2e);
+}
+
+/* glow effect inside card */
+.scene-card-glow{
+  position:absolute;inset:0;
+  opacity:0.6;
+}
+.scene-card[data-scene="explore"] .scene-card-glow{
+  background:radial-gradient(circle at 50% 60%,rgba(140,80,200,0.3),transparent 70%);
+}
+.scene-card[data-scene="works"] .scene-card-glow{
+  background:radial-gradient(circle at 50% 60%,rgba(60,120,240,0.3),transparent 70%);
+}
+.scene-card[data-scene="ai"] .scene-card-glow{
+  background:radial-gradient(circle at 50% 60%,rgba(200,50,160,0.3),transparent 70%);
+}
+.scene-card[data-scene="about"] .scene-card-glow{
+  background:radial-gradient(circle at 50% 60%,rgba(255,120,50,0.25),transparent 70%);
+}
+
+.scene-card-info{
+  position:absolute;bottom:0;left:0;right:0;
+  padding:20px;
+  background:linear-gradient(to top,rgba(0,0,0,0.7) 0%,transparent 100%);
+  z-index:2;
+}
+.scene-card-icon{
+  width:24px;height:24px;border-radius:6px;
+  display:flex;align-items:center;justify-content:center;
+  font-size:10px;margin-bottom:10px;
+}
+.scene-card-title{
+  font-size:13px;font-weight:700;letter-spacing:0.1em;
+  text-transform:uppercase;color:#fff;
+  margin-bottom:4px;
+}
+.scene-card-sub{
+  font-size:10px;letter-spacing:0.08em;
+  text-transform:uppercase;color:rgba(255,255,255,0.5);
+}
+
+/* card icon colors */
+.scene-card[data-scene="explore"] .scene-card-icon{background:rgba(140,80,200,0.3);color:#c090f0;}
+.scene-card[data-scene="works"] .scene-card-icon{background:rgba(60,120,240,0.3);color:#80b0ff;}
+.scene-card[data-scene="ai"] .scene-card-icon{background:rgba(200,50,160,0.3);color:#f080d0;}
+.scene-card[data-scene="about"] .scene-card-icon{background:rgba(255,120,50,0.3);color:#ffaa80;}
+
+/* carousel indicator */
+.carousel-indicator{
+  display:flex;flex-direction:column;align-items:center;
+  margin-top:40px;gap:10px;
+}
+.carousel-line{
+  width:200px;height:2px;border-radius:1px;
+  background:linear-gradient(90deg,#8c50c8,#3c78f0);
+}
+.carousel-dots{display:flex;gap:8px;}
+.carousel-dots span{
+  width:6px;height:6px;border-radius:50%;
+  background:#ddd;transition:0.3s;
+}
+.carousel-dots span.active{background:#8c50c8;}
+
+/* ===== FOOTER ===== */
+.footer{
+  position:relative;z-index:10;
+  padding:40px;text-align:center;
+  border-top:1px solid #eee;
+}
+.footer-text{
+  font-size:11px;color:#aaa;letter-spacing:0.1em;
+}
+.footer-text a{color:#666;text-decoration:none;}
+.footer-text a:hover{color:#111;}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:1024px){
+  .left-nav,.left-slogan,.scroll-prompt{display:none;}
+  .hero-text{right:5%;max-width:280px;}
+  .character-wrap{width:320px;height:440px;}
+}
+@media(max-width:768px){
+  .header{padding:16px 20px;}
+  .hero-text{
+    position:relative;right:auto;top:auto;
+    transform:none;
+    max-width:100%;text-align:center;
+    padding:0 20px;
+  }
+  .stage{flex-direction:column;height:auto;padding-top:100px;min-height:100vh;}
+  .character-wrap{width:280px;height:380px;margin-bottom:40px;}
+  .glass-btn{display:none;}
+  .hero-divider{margin:0 auto 20px;}
+  .hero-social{justify-content:center;}
+  .scene-cards{grid-template-columns:repeat(2,1fr);}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<div class="header">
+  <div class="header-logo">ticalasi</div>
+  <div class="hamburger" onclick="document.querySelector('.left-nav').classList.toggle('show-mobile')">
+    <span></span><span></span><span></span>
+  </div>
+</div>
+
+<!-- LEFT NAV -->
+<div class="left-nav" id="leftNav">
+  <div class="nav-item active" data-scene="home" onclick="setScene('home')">
+    <div class="nav-icon">◆</div>
+    <div class="nav-label">HOME</div>
+  </div>
+  <div class="nav-item" data-scene="explore" onclick="setScene('explore')">
+    <div class="nav-icon">◇</div>
+    <div class="nav-label">EXPLORE</div>
+  </div>
+  <div class="nav-item" data-scene="works" onclick="setScene('works')">
+    <div class="nav-icon">▣</div>
+    <div class="nav-label">WORKS</div>
+  </div>
+  <div class="nav-item" data-scene="ai" onclick="setScene('ai')">
+    <div class="nav-icon">⬡</div>
+    <div class="nav-label">AI LAB</div>
+  </div>
+  <div class="nav-item" data-scene="about" onclick="setScene('about')">
+    <div class="nav-icon">△</div>
+    <div class="nav-label">ABOUT</div>
+  </div>
+</div>
+
+<!-- LEFT SLOGAN -->
+<div class="left-slogan">
+  <div class="slogan-line"></div>
+  <div class="slogan-text">
+    CODE IS ENERGY<br>
+    CREATION IS FREEDOM
+  </div>
+</div>
+
+<!-- SCROLL PROMPT -->
+<div class="scroll-prompt">
+  <span>SCROLL TO DISCOVER</span>
+  <div class="scroll-arrow"></div>
+</div>
+
+<!-- PARTICLE CANVAS -->
+<canvas id="particles"></canvas>
+
+<!-- ===== STAGE ===== -->
+<div class="stage" id="stage">
+
+  <!-- CHARACTER -->
+  <div class="character-wrap" id="characterWrap" onclick="onCharacterClick()">
+    <div class="character-img" id="characterImg">
+      <!-- generated face via CSS -->
+      <div style="position:absolute;left:50%;top:25%;transform:translateX(-50%);width:120px;height:120px;">
+        <div style="position:absolute;left:50%;top:50%;width:80px;height:40px;transform:translate(-50%,-50%);border-bottom:1px solid rgba(255,255,255,0.06);border-radius:0 0 40px 40px;"></div>
+      </div>
+      <!-- horns -->
+      <svg style="position:absolute;top:8%;left:50%;transform:translateX(-50%);width:140px;height:80px;opacity:0.15;" viewBox="0 0 140 80">
+        <path d="M40,80 Q35,30 50,5" stroke="white" stroke-width="1.5" fill="none"/>
+        <path d="M100,80 Q105,30 90,5" stroke="white" stroke-width="1.5" fill="none"/>
+      </svg>
+      <!-- particle dissolve hint -->
+      <div style="position:absolute;right:10%;top:40%;width:60px;height:80px;background:radial-gradient(circle,rgba(140,80,200,0.15),transparent 70%);animation:charGlow 5s ease infinite;"></div>
+    </div>
+    <div class="char-label">CLICK TO NAVIGATE</div>
+  </div>
+
+  <!-- GLASS BUTTONS -->
+  <div class="glass-btn c1" id="btn1" style="left:22%;top:28%;" onclick="setScene('explore')">角色设定</div>
+  <div class="glass-btn c2" id="btn2" style="left:18%;top:55%;" onclick="setScene('works')">故事线</div>
+  <div class="glass-btn c3" id="btn3" style="left:24%;top:75%;" onclick="setScene('ai')">情绪板</div>
+  <div class="glass-btn c4" id="btn4" style="right:15%;top:30%;" onclick="setScene('about')">交互细节</div>
+  <div class="glass-btn c5" id="btn5" style="right:12%;top:70%;" onclick="setScene('explore')">创意导航</div>
+
+  <!-- HERO TEXT -->
+  <div class="hero-text" id="heroText">
+    <div class="hero-label purple" id="heroLabel">AI LAB</div>
+    <h1 class="hero-title" id="heroTitle">GENERATIVE<br>INTELLIGENCE<br>FIELD</h1>
+    <div class="hero-divider orange-purple" id="heroDivider"></div>
+    <p class="hero-subtitle-cn" id="heroSub">
+      AI 实验场 · 探索生成式智能的无限可能
+      <small>在数据与光影之间，创造新的现实</small>
+    </p>
+    <div class="hero-cta" onclick="document.querySelector('.bottom-section').scrollIntoView({behavior:'smooth'})">
+      VIEW DETAILS
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14m-6-6 6 6-6 6"/></svg>
+    </div>
+    <div class="hero-social">
+      <a href="#">𝕏</a>
+      <a href="#">⊕</a>
+      <a href="#">◎</a>
+    </div>
+  </div>
+</div>
+
+<!-- ===== BOTTOM SECTION ===== -->
+<div class="bottom-section">
+  <div class="section-header">
+    <h2>Creative Navigation</h2>
+    <p>点击人物，唤醒不同内容路径</p>
+  </div>
+
+  <div class="scene-cards">
+    <div class="scene-card" data-scene="explore" onclick="setScene('explore')">
+      <div class="scene-card-bg"></div>
+      <div class="scene-card-glow"></div>
+      <div class="scene-card-info">
+        <div class="scene-card-icon">◇</div>
+        <div class="scene-card-title">EXPLORE</div>
+        <div class="scene-card-sub">ADAPTIVE INTELLIGENCE SPACE</div>
+      </div>
+    </div>
+    <div class="scene-card" data-scene="works" onclick="setScene('works')">
+      <div class="scene-card-bg"></div>
+      <div class="scene-card-glow"></div>
+      <div class="scene-card-info">
+        <div class="scene-card-icon">▣</div>
+        <div class="scene-card-title">WORKS</div>
+        <div class="scene-card-sub">STRUCTURED CREATION LAYERS</div>
+      </div>
+    </div>
+    <div class="scene-card" data-scene="ai" onclick="setScene('ai')">
+      <div class="scene-card-bg"></div>
+      <div class="scene-card-glow"></div>
+      <div class="scene-card-info">
+        <div class="scene-card-icon">⬡</div>
+        <div class="scene-card-title">AI LAB</div>
+        <div class="scene-card-sub">GENERATIVE INTELLIGENCE FIELD</div>
+      </div>
+    </div>
+    <div class="scene-card" data-scene="about" onclick="setScene('about')">
+      <div class="scene-card-bg"></div>
+      <div class="scene-card-glow"></div>
+      <div class="scene-card-info">
+        <div class="scene-card-icon">△</div>
+        <div class="scene-card-title">ABOUT</div>
+        <div class="scene-card-sub">IDENTITY DEFINITION LAYER</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="carousel-indicator">
+    <div class="carousel-line"></div>
+    <div class="carousel-dots">
+      <span class="active"></span><span></span><span></span><span></span>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<div class="footer">
+  <div class="footer-text">
+    © TICALASI · <a href="#">CODE IS ENERGY</a> · <a href="#">CREATION IS FREEDOM</a>
+  </div>
+</div>
+
+<script>
+// ===== SCENE DATA =====
+const scenes = {
+  home: {
+    label: 'TICALASI',
+    labelColor: 'orange',
+    title: 'CREATIVE<br>NAVIGATION',
+    divider: 'orange-purple',
+    subCn: '人物即主页的内容入口',
+    subSmall: '点击角色，唤醒不同内容路径'
+  },
+  explore: {
+    label: 'EXPLORE',
+    labelColor: 'purple',
+    title: 'ADAPTIVE<br>INTELLIGENCE<br>SPACE',
+    divider: 'purple-blue',
+    subCn: '自适应感知路由层',
+    subSmall: '在探索中发现新的认知边界'
+  },
+  works: {
+    label: 'WORKS',
+    labelColor: 'blue',
+    title: 'STRUCTURED<br>CREATION<br>LAYERS',
+    divider: 'blue-pink',
+    subCn: '结构化认知输出',
+    subSmall: '将思想编织为可交互的现实'
+  },
+  ai: {
+    label: 'AI LAB',
+    labelColor: 'pink',
+    title: 'GENERATIVE<br>INTELLIGENCE<br>FIELD',
+    divider: 'orange-purple',
+    subCn: 'AI 实验场 · 探索生成式智能的无限可能',
+    subSmall: '在数据与光影之间，创造新的现实'
+  },
+  about: {
+    label: 'ABOUT',
+    labelColor: 'orange',
+    title: 'IDENTITY<br>DEFINITION<br>ARCHITECTURE',
+    divider: 'purple-blue',
+    subCn: '身份定义架构系统',
+    subSmall: '从核心出发，构建数字身份'
+  }
+};
+
+let currentScene = 'home';
+
+function setScene(scene) {
+  if (currentScene === scene) {
+    // scroll to bottom section
+    document.querySelector('.bottom-section').scrollIntoView({behavior:'smooth'});
+    return;
+  }
+  currentScene = scene;
+
+  // update nav
+  document.querySelectorAll('.nav-item').forEach(el => {
+    el.classList.toggle('active', el.dataset.scene === scene);
+  });
+
+  // update hero text
+  const d = scenes[scene];
+  const heroText = document.getElementById('heroText');
+  const heroLabel = document.getElementById('heroLabel');
+  const heroTitle = document.getElementById('heroTitle');
+  const heroDivider = document.getElementById('heroDivider');
+  const heroSub = document.getElementById('heroSub');
+
+  heroText.classList.remove('visible');
+
+  setTimeout(() => {
+    heroLabel.textContent = d.label;
+    heroLabel.className = 'hero-label ' + d.labelColor;
+    heroTitle.innerHTML = d.title;
+    heroDivider.className = 'hero-divider ' + d.divider;
+    heroSub.innerHTML = d.subCn + '<small>' + d.subSmall + '</small>';
+    heroText.classList.add('visible');
+  }, 400);
+
+  // dissolve cubes
+  spawnCubes();
+}
+
+// character click cycles scenes
+const sceneOrder = ['home','explore','works','ai','about'];
+function onCharacterClick() {
+  const idx = sceneOrder.indexOf(currentScene);
+  const next = sceneOrder[(idx + 1) % sceneOrder.length];
+  setScene(next);
+}
+
+// ===== DISSOLVE CUBES =====
+function spawnCubes() {
+  const wrap = document.getElementById('characterWrap');
+  const rect = wrap.getBoundingClientRect();
+  const colors = ['#ff7832','#8c50c8','#3c78f0','#c832a0','#ffaa80','#80b0ff'];
+
+  for (let i = 0; i < 24; i++) {
+    const cube = document.createElement('div');
+    cube.className = 'cube';
+    const size = 4 + Math.random() * 10;
+    const startX = rect.left + rect.width * (0.6 + Math.random() * 0.35);
+    const startY = rect.top + rect.height * (0.1 + Math.random() * 0.5);
+    const dx = (Math.random() - 0.3) * 200;
+    const dy = (Math.random() - 0.5) * 250;
+
+    cube.style.cssText = `
+      left:${startX}px;top:${startY}px;
+      width:${size}px;height:${size}px;
+      background:${colors[Math.floor(Math.random() * colors.length)]};
+      border-radius:${Math.random() > 0.5 ? 2 : 1}px;
+      --dx:${dx}px;--dy:${dy}px;
+    `;
+    document.body.appendChild(cube);
+
+    requestAnimationFrame(() => {
+      setTimeout(() => cube.classList.add('fly'), Math.random() * 300);
+    });
+
+    setTimeout(() => cube.remove(), 2500);
+  }
+}
+
+// ===== PARTICLES =====
+const canvas = document.getElementById('particles');
+const ctx = canvas.getContext('2d');
+let pts = [];
+
+function resize() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+}
+resize();
+window.addEventListener('resize', resize);
+
+class P {
+  constructor() { this.reset(); }
+  reset() {
+    this.x = Math.random() * canvas.width;
+    this.y = Math.random() * canvas.height;
+    this.size = Math.random() * 1.5 + 0.3;
+    this.vx = (Math.random() - 0.5) * 0.15;
+    this.vy = (Math.random() - 0.5) * 0.15;
+    this.o = Math.random() * 0.2 + 0.03;
+  }
+  update() {
+    this.x += this.vx; this.y += this.vy;
+    if (this.x < 0 || this.x > canvas.width || this.y < 0 || this.y > canvas.height) this.reset();
+  }
+  draw() {
+    ctx.beginPath();
+    ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+    ctx.fillStyle = `rgba(160,160,180,${this.o})`;
+    ctx.fill();
+  }
+}
+
+const count = Math.min(Math.floor(canvas.width * canvas.height / 20000), 60);
+for (let i = 0; i < count; i++) pts.push(new P());
+
+function anim() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  pts.forEach(p => { p.update(); p.draw(); });
+  requestAnimationFrame(anim);
+}
+anim();
+
+// ===== INIT =====
+setTimeout(() => {
+  document.getElementById('heroText').classList.add('visible');
+  document.querySelectorAll('.glass-btn').forEach((btn, i) => {
+    setTimeout(() => btn.classList.add('visible'), 200 + i * 150);
+  });
+}, 600);
+</script>
+</body>
+</html>
