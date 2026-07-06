@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.key
+*_key
+*secret*
+*credential*
+
+# API key files
+prompt.json
+api_response*
+
+# Local dev files
+do_call*.py
+debug*.py
+gen_*.py
+call_*.sh
+*.pyc
+__pycache__/
