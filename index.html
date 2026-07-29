@@ -2,303 +2,643 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,viewport-fit=cover">
-<title>ticalasi.com</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="color-scheme" content="dark">
+<title>Ticalasi — Two Closed Loops, One Living Mesh</title>
+<meta name="description" content="Ticalasi builds two closed loops: the build loop (ticalcode · tical agent · kulono) and the sense loop (zishijian · ticalasi.cloud SoulAgent). Self-hosted. No frameworks. No trackers.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='4' y='10' width='24' height='2' fill='%23c8960a'/%3E%3Crect x='4' y='20' width='24' height='2' fill='%23148c50'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
-*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
-:root{--bg1:#08081a;--bg2:#180a2e;--bg3:#0a0a1e;--a1:#ff7832;--a2:#c832a0;--a3:#3c78f0;--g:rgba(12,12,28,0.55);--gb:1px solid rgba(255,255,255,.08);--t:#fff;--td:#bbb;--tm:#888;--cs:64px}
-html,body{width:100%;height:100%;overflow:hidden;background:#000;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-body{display:flex;justify-content:center;align-items:center}
-.stage{position:relative;width:100%;max-width:430px;height:100dvh;overflow:hidden;background:linear-gradient(170deg,#0a0a1e 0%,#180a2e 50%,#08081a 100%);box-shadow:0 0 60px rgba(0,0,0,.8)}
-#pt{position:absolute;inset:0;width:100%;height:100%;z-index:1;pointer-events:none}
-.brand{position:absolute;top:16px;left:50%;transform:translateX(-50%);z-index:50;font-size:11px;font-weight:800;letter-spacing:4px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
-.cr{position:relative;z-index:20;display:flex;justify-content:center;align-items:flex-end;gap:12px;padding:50px 16px 0;touch-action:none}
-.chip{display:flex;flex-direction:column;align-items:center;gap:5px;cursor:pointer;touch-action:none;user-select:none;position:relative;transition:transform .25s}
-.chip:active{transform:scale(.92)}
-.chip .av{width:var(--cs);height:var(--cs);border-radius:50%;background-size:cover;background-position:50% 30%;background-repeat:no-repeat;position:relative;border:2px solid rgba(255,255,255,.15);transition:border-color .3s,box-shadow .3s;overflow:hidden;flex-shrink:0}
-.chip .av::after{content:"";position:absolute;inset:0;border-radius:50%;pointer-events:none}
-.chip .lb{font-size:9px;font-weight:600;letter-spacing:.5px;color:var(--td);text-align:center;max-width:68px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.chip.a .av{border-color:var(--a1);box-shadow:0 0 16px rgba(255,120,50,.3)}
-.chip.a .lb{color:#fff}
-.chip.pt .av{animation:tg .6s ease-in-out 3;border-color:#fff}
-@keyframes tg{0%,100%{box-shadow:0 0 0 rgba(255,255,255,0)}50%{box-shadow:0 0 24px rgba(255,255,255,.6)}}
-/* bg images and tints per index */
-.c0 .av{background-image:url(girl-white-hd.jpg);background-position:50% 28%}
-.c0 .av::after{background:linear-gradient(135deg,rgba(255,120,50,.25),rgba(255,120,50,.05))}
-.c1 .av{background-image:url(girl-dark-hd.png);background-position:50% 28%}
-.c1 .av::after{background:linear-gradient(135deg,rgba(200,50,160,.25),rgba(200,50,160,.05))}
-.c2 .av{background-image:url(girl-white-hd.jpg);background-position:30% 42%}
-.c2 .av::after{background:linear-gradient(135deg,rgba(60,120,240,.25),rgba(60,120,240,.05))}
-.c3 .av{background-image:url(girl-dark-hd.png);background-position:70% 35%}
-.c3 .av::after{background:linear-gradient(135deg,rgba(100,200,100,.25),rgba(100,200,100,.05))}
-/* group */
-.grp .av{background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3))!important;border-color:rgba(255,255,255,.3);animation:hb 1.2s ease-in-out infinite}
-.grp .av::after{display:none}
-.grp .av .gi{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-size:18px;color:#fff;text-shadow:0 1px 6px rgba(0,0,0,.5)}
-.grp .lb{color:var(--a1);font-weight:700}
-@keyframes hb{0%,100%{transform:scale(1)}14%{transform:scale(1.08)}28%{transform:scale(1)}42%{transform:scale(1.04)}70%{transform:scale(1)}}
-#cl{position:fixed;z-index:999;pointer-events:none;display:none;touch-action:none;width:72px;height:72px;border-radius:50%;background-size:cover;background-repeat:no-repeat;border:3px solid rgba(255,255,255,.4);box-shadow:0 8px 32px rgba(0,0,0,.5),0 0 20px rgba(255,255,255,.1);overflow:hidden}
-#cl::after{content:"";position:absolute;inset:0;border-radius:50%;pointer-events:none;background:var(--t,transparent)}
-/* content area */
-.ca{position:absolute;top:calc(var(--cs)+52px+16px);left:16px;right:16px;bottom:110px;z-index:10;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px}
-.ca .tg{display:inline-flex;align-items:center;gap:5px;font-size:9px;letter-spacing:2.5px;font-weight:700;padding:5px 12px;border-radius:16px;margin-bottom:14px;text-transform:uppercase;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);color:var(--a1)}
-.ca .ct{font-size:38px;font-weight:900;line-height:1.05;margin-bottom:4px;letter-spacing:-1.2px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent}
-.ca .cs{font-size:11px;font-weight:600;letter-spacing:1.2px;margin-bottom:6px;text-transform:uppercase;color:#aaa}
-.ca .pl{width:56px;height:2.5px;margin:0 auto 12px;border-radius:2px;background:linear-gradient(90deg,var(--a1),var(--a2),var(--a3));position:relative;overflow:hidden}
-.ca .pl::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent,rgba(255,255,255,.8),transparent);animation:ps 2s linear infinite}
-@keyframes ps{0%{transform:translateX(-100%)}100%{transform:translateX(100%)}}
-.ca .cd{font-size:12.5px;line-height:1.65;color:var(--td);margin-bottom:16px;max-width:320px}
-.ca .ch{font-size:9px;letter-spacing:2px;text-transform:uppercase;color:var(--tm);display:flex;align-items:center;justify-content:center;gap:6px;cursor:pointer}
-/* panel */
-.pn{position:absolute;bottom:0;left:0;right:0;background:var(--g);backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);border-radius:24px 24px 0 0;border-top:1px solid rgba(255,255,255,.1);padding:12px 24px 34px;z-index:100;transform:translateY(110%);transition:transform .55s cubic-bezier(.25,.46,.45,.94)}
-.pn.a{transform:translateY(0)}
-.ph{width:40px;height:4px;background:rgba(255,255,255,.2);border-radius:2px;margin:0 auto 18px}
-.phd{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
-.pt{font-size:22px;font-weight:900;letter-spacing:-.5px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
-.pb{font-size:8px;letter-spacing:1.5px;font-weight:700;padding:4px 10px;border-radius:10px;background:rgba(255,120,50,.12);color:var(--a1);border:1px solid rgba(255,120,50,.2)}
-.pd{font-size:12.5px;line-height:1.6;color:#ccc;margin-bottom:18px}
-.pf{display:flex;flex-direction:column;gap:8px;margin-bottom:20px}
-.pf>div{display:flex;align-items:center;gap:10px;font-size:12px;color:#ddd}
-.pf>div s{width:30px;height:30px;display:flex;align-items:center;justify-content:center;background:linear-gradient(135deg,rgba(255,120,50,.12),rgba(200,50,160,.12));border:1px solid rgba(255,255,255,.06);border-radius:8px;font-size:12px;flex-shrink:0}
-.cta{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;padding:14px;border-radius:12px;background:linear-gradient(135deg,var(--a1),var(--a2),var(--a3));background-size:200% 100%;color:#fff;font-size:12px;font-weight:700;text-decoration:none;letter-spacing:1.2px;text-transform:uppercase;box-shadow:0 6px 24px rgba(200,50,160,.3);transition:background-position .4s,transform .2s;cursor:pointer;border:none}
-.cta:active{transform:scale(.97)}
-.dismiss{display:block;margin:12px auto 0;background:none;border:none;color:#777;font-size:10px;letter-spacing:2px;text-transform:uppercase;cursor:pointer;padding:6px;width:100%}
-.dots{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);display:flex;gap:8px;z-index:200;transition:opacity .3s}
-.dots.h{opacity:0;pointer-events:none}
-.dot{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.18);transition:all .4s cubic-bezier(.25,.46,.45,.94);cursor:pointer}
-.dot.a{width:26px;border-radius:3px;background:linear-gradient(90deg,var(--a1),var(--a2),var(--a3))}
-#toast{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%) scale(.8);z-index:300;background:rgba(12,12,28,.8);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border:1px solid rgba(255,255,255,.15);border-radius:16px;padding:18px 28px;text-align:center;opacity:0;pointer-events:none;transition:opacity .3s,transform .3s}
-#toast.s{opacity:1;transform:translate(-50%,-50%) scale(1)}
-#toast .ti{font-size:32px;display:block;margin-bottom:6px}
-#toast .tm{font-size:13px;font-weight:600;color:#fff}
-@media(max-height:700px){.ca .ct{font-size:30px}.ca{top:calc(var(--cs)+48px+8px);padding:12px}:root{--cs:56px}.cr{gap:10px;padding:46px 12px 0}}
-@media(max-height:600px){.ca .ct{font-size:26px}.ca{top:calc(56px+44px+6px)}.pn{padding:10px 20px 24px}.pt{font-size:18px}}
+/* ═══════════════════════════════════════════════════════════
+   TICALASI — DUAL RAIL
+   build loop slides east · sense loop slides west
+   dark minimal · Inter 200 + JetBrains Mono · zero frameworks
+   ═══════════════════════════════════════════════════════════ */
+:root{
+  --bg:#0a0a0a;
+  --surface:#111111;
+  --surface2:#181818;
+  --border:#1e1e1e;
+  --text:#e0e0e0;
+  --dim:#666;
+  --faint:rgba(255,255,255,0.08);
+  --gold:#c8960a;
+  --gold-soft:rgba(200,150,10,0.45);
+  --lono:#148c50;
+  --lono-soft:rgba(20,140,80,0.45);
+  --blue:rgba(100,130,230,0.85);
+  --mono:'JetBrains Mono',ui-monospace,monospace;
+  --ui:'Inter',system-ui,sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--ui);
+  font-weight:300;
+  overflow-x:hidden;
+  -webkit-font-smoothing:antialiased;
+}
+/* ambient dot field */
+body::before{
+  content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
+  background-image:radial-gradient(rgba(255,255,255,0.028) 1px,transparent 1px);
+  background-size:34px 34px;
+}
+::selection{background:var(--gold);color:#0a0a0a;}
+::-webkit-scrollbar{width:8px;}
+::-webkit-scrollbar-track{background:var(--bg);}
+::-webkit-scrollbar-thumb{background:#222;border-radius:4px;}
+::-webkit-scrollbar-thumb:hover{background:#333;}
+
+/* ── NAV ─────────────────────────────────────────────────── */
+nav{
+  position:fixed;top:0;left:0;right:0;z-index:100;height:52px;
+  display:flex;align-items:center;justify-content:space-between;
+  padding:0 clamp(16px,4vw,40px);
+  border-bottom:1px solid var(--border);
+  background:rgba(10,10,10,0.72);
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+}
+.nav-logo{
+  font-family:var(--mono);font-size:0.65rem;font-weight:500;
+  letter-spacing:0.32em;color:var(--text);text-decoration:none;
+}
+.nav-logo b{color:var(--gold);font-weight:500;}
+.nav-links{display:flex;gap:clamp(14px,3vw,32px);}
+.nav-links a{
+  font-family:var(--mono);font-size:0.58rem;letter-spacing:0.18em;
+  color:var(--dim);text-decoration:none;text-transform:uppercase;
+  transition:color .25s;
+}
+.nav-links a:hover{color:var(--text);}
+.nav-links a.g:hover{color:var(--gold);}
+.nav-links a.l:hover{color:var(--lono);}
+
+/* ── OPENER : DUAL RAIL ──────────────────────────────────── */
+.opener{
+  position:relative;z-index:1;
+  height:100dvh;min-height:560px;
+  display:flex;flex-direction:column;
+  padding-top:52px;
+}
+.rail{
+  position:relative;flex:1;min-height:0;
+  overflow:hidden;
+  border-bottom:1px solid var(--border);
+  display:flex;align-items:stretch;
+}
+.rail--sense{border-bottom:none;border-top:1px solid var(--border);}
+/* breathing ambient tint per loop */
+.rail::before{
+  content:'';position:absolute;inset:0;pointer-events:none;z-index:0;
+  animation:breathe 9s ease-in-out infinite;
+}
+.rail--build::before{background:radial-gradient(55% 130% at 28% 50%,rgba(200,150,10,0.055),transparent 70%);}
+.rail--sense::before{background:radial-gradient(55% 130% at 72% 50%,rgba(20,140,80,0.055),transparent 70%);animation-delay:-4.5s;}
+@keyframes breathe{0%,100%{opacity:.55;}50%{opacity:1;}}
+
+/* the moving track — duplicated once by JS for a seamless -50% loop */
+.rail-track{
+  position:relative;z-index:1;
+  display:flex;align-items:stretch;
+  width:max-content;height:100%;
+  animation:rail-west 46s linear infinite;
+}
+.rail--sense .rail-track{animation-direction:reverse;}
+@keyframes rail-west{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+.rail:hover .rail-track{animation-play-state:paused;}
+
+.rail-group{display:flex;align-items:stretch;height:100%;}
+
+/* edge fade masks */
+.rail-fade{position:absolute;top:0;bottom:0;width:clamp(48px,9vw,140px);z-index:2;pointer-events:none;}
+.rail-fade--l{left:0;background:linear-gradient(90deg,var(--bg),transparent);}
+.rail-fade--r{right:0;background:linear-gradient(-90deg,var(--bg),transparent);}
+
+/* cards riding the rail */
+.card{
+  flex-shrink:0;
+  width:clamp(288px,29vw,410px);
+  padding:clamp(18px,2.6vh,30px) clamp(20px,2.2vw,34px);
+  border-left:2px solid var(--faint);
+  display:flex;flex-direction:column;justify-content:center;gap:9px;
+  transition:background .35s,border-color .35s;
+  cursor:default;
+}
+.rail--build .card{border-left-color:var(--gold-soft);}
+.rail--sense .card{border-left-color:var(--lono-soft);}
+.card:hover{background:var(--surface);}
+.rail--build .card:hover{border-left-color:var(--gold);}
+.rail--sense .card:hover{border-left-color:var(--lono);}
+
+.card-top{display:flex;align-items:center;gap:14px;}
+.card-idx{font-family:var(--mono);font-size:0.6rem;color:var(--dim);letter-spacing:0.1em;}
+.card-tag{
+  font-family:var(--mono);font-size:0.52rem;letter-spacing:0.28em;
+  text-transform:uppercase;color:var(--dim);
+}
+.rail--build .card-tag{color:rgba(200,150,10,0.75);}
+.rail--sense .card-tag{color:rgba(58,176,122,0.8);}
+
+.card-name{
+  font-size:clamp(26px,3.1vw,40px);font-weight:200;letter-spacing:0.01em;
+  line-height:1.05;color:var(--text);transition:color .35s;
+}
+.card:hover .card-name{color:#fff;}
+.card-role{
+  font-family:var(--mono);font-size:0.56rem;letter-spacing:0.24em;
+  text-transform:uppercase;color:var(--dim);
+}
+.card-desc{
+  font-size:clamp(0.78rem,0.95vw,0.88rem);line-height:1.65;color:#999;
+  max-width:340px;
+}
+.card-more{
+  font-family:var(--mono);font-size:0.56rem;letter-spacing:0.14em;color:var(--dim);
+  max-height:0;opacity:0;overflow:hidden;
+  transition:max-height .45s ease,opacity .45s ease;
+}
+.card:hover .card-more{max-height:36px;opacity:1;}
+.card-status{
+  display:flex;align-items:center;gap:8px;
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.2em;color:var(--dim);
+}
+.dot{
+  width:6px;height:6px;border-radius:50%;flex-shrink:0;
+  animation:pulse 2.2s ease-in-out infinite;
+}
+.dot--g{background:var(--gold);}
+.dot--l{background:var(--lono);}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.25;}}
+
+/* connector between cards */
+.connector{
+  flex-shrink:0;width:clamp(56px,6vw,92px);
+  display:flex;align-items:center;justify-content:center;
+  position:relative;align-self:center;height:1px;
+}
+.connector::before{
+  content:'';position:absolute;left:0;right:0;height:1px;
+  background:linear-gradient(90deg,transparent,#2e2e2e 30%,#2e2e2e 70%,transparent);
+}
+.connector span{
+  position:relative;z-index:1;background:var(--bg);padding:0 8px;
+  font-family:var(--mono);font-size:0.72rem;color:var(--dim);
+}
+
+/* ── SPINE between the two rails ─────────────────────────── */
+.spine{
+  position:relative;flex-shrink:0;
+  display:flex;flex-direction:column;align-items:center;justify-content:center;
+  gap:10px;padding:clamp(14px,2.6vh,26px) 20px;
+  text-align:center;
+}
+.spine::before,.spine::after{
+  content:'';position:absolute;left:50%;width:1px;background:#262626;
+}
+.spine::before{top:0;height:clamp(8px,1.6vh,18px);}
+.spine::after{bottom:0;height:clamp(8px,1.6vh,18px);}
+.wordmark{
+  font-size:clamp(42px,8.6vw,104px);font-weight:200;letter-spacing:0.1em;
+  line-height:1;
+  background:linear-gradient(92deg,var(--gold) 8%,#e0e0e0 50%,var(--lono) 92%);
+  -webkit-background-clip:text;background-clip:text;
+  -webkit-text-fill-color:transparent;
+}
+.spine-sub{
+  font-family:var(--mono);font-size:clamp(0.52rem,0.8vw,0.62rem);
+  letter-spacing:0.34em;text-transform:uppercase;color:var(--dim);
+}
+.spine-cn{
+  font-family:var(--mono);font-size:clamp(0.5rem,0.75vw,0.58rem);
+  letter-spacing:0.5em;color:#444;
+}
+.scroll-hint{
+  position:absolute;bottom:14px;left:50%;transform:translateX(-50%);
+  font-family:var(--mono);font-size:0.5rem;letter-spacing:0.4em;color:#3a3a3a;
+  animation:hint 2.6s ease-in-out infinite;z-index:3;
+}
+@keyframes hint{0%,100%{opacity:.35;transform:translate(-50%,0);}50%{opacity:.9;transform:translate(-50%,5px);}}
+
+/* ── SECTIONS ────────────────────────────────────────────── */
+section.block{
+  position:relative;z-index:1;
+  max-width:1120px;margin:0 auto;
+  padding:0 clamp(20px,5vw,56px);
+  scroll-margin-top:70px;
+}
+.loop-head{
+  display:flex;align-items:baseline;flex-wrap:wrap;gap:10px 22px;
+  padding:clamp(72px,11vh,120px) 0 clamp(28px,4vh,44px);
+}
+.loop-label{
+  font-family:var(--mono);font-size:0.58rem;letter-spacing:0.32em;
+  text-transform:uppercase;
+}
+.loop-label--g{color:var(--gold);}
+.loop-label--l{color:var(--lono);}
+.loop-title{font-size:clamp(30px,4.6vw,58px);font-weight:200;letter-spacing:0.01em;}
+.loop-cn{font-family:var(--mono);font-size:0.62rem;letter-spacing:0.42em;color:#444;}
+.loop-lede{
+  max-width:620px;color:#888;font-size:clamp(0.85rem,1.05vw,0.95rem);
+  line-height:1.8;margin-bottom:clamp(28px,4vh,48px);
+}
+
+/* product rows */
+.row{
+  display:grid;grid-template-columns:minmax(230px,1fr) minmax(0,1.65fr);
+  gap:clamp(24px,4vw,56px);
+  padding:clamp(36px,5.5vh,60px) 0;
+  border-top:1px solid var(--border);
+}
+.row:last-child{border-bottom:1px solid var(--border);}
+.row-idx{
+  font-family:var(--mono);font-size:0.6rem;letter-spacing:0.14em;
+  color:var(--dim);margin-bottom:14px;
+}
+.row-name{
+  font-size:clamp(26px,3.4vw,46px);font-weight:200;line-height:1.08;
+  transition:color .35s;
+}
+.row:hover .row-name{color:#fff;}
+.row-tag{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.26em;
+  text-transform:uppercase;margin-top:12px;
+}
+.row-tag--g{color:rgba(200,150,10,0.8);}
+.row-tag--l{color:rgba(58,176,122,0.85);}
+.row-desc{
+  color:#999;font-size:clamp(0.84rem,1vw,0.94rem);line-height:1.85;
+  max-width:580px;
+}
+.row-desc em{font-style:normal;color:var(--text);}
+.specs{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(168px,1fr));
+  gap:1px;background:var(--border);border:1px solid var(--border);
+  margin-top:26px;max-width:580px;
+}
+.spec{background:var(--surface);padding:13px 15px;transition:background .3s;}
+.spec:hover{background:var(--surface2);}
+.spec-k{
+  font-family:var(--mono);font-size:0.52rem;letter-spacing:0.22em;
+  text-transform:uppercase;color:var(--dim);margin-bottom:6px;
+}
+.spec-v{font-family:var(--mono);font-size:0.72rem;color:var(--text);letter-spacing:0.04em;}
+.spec-v--g{color:#d8b04a;}
+.spec-v--l{color:#3ab07a;}
+.spec-v--b{color:var(--blue);}
+
+/* ── MESH ────────────────────────────────────────────────── */
+.mesh-wrap{padding:clamp(40px,6vh,64px) 0 clamp(72px,10vh,110px);}
+.mesh-flow{display:flex;align-items:center;flex-wrap:wrap;row-gap:14px;}
+.mesh-rowlabel{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.3em;
+  text-transform:uppercase;width:74px;flex-shrink:0;
+}
+.mesh-rowlabel--g{color:var(--gold);}
+.mesh-rowlabel--l{color:var(--lono);}
+.node{
+  font-family:var(--mono);font-size:0.68rem;letter-spacing:0.08em;
+  padding:13px 20px;background:var(--surface);
+  border:1px solid var(--border);
+  transition:border-color .3s,color .3s,background .3s;
+  white-space:nowrap;
+}
+.node--g{border-color:rgba(200,150,10,0.35);color:#d8b04a;}
+.node--g:hover{border-color:var(--gold);background:var(--surface2);}
+.node--l{border-color:rgba(20,140,80,0.35);color:#3ab07a;}
+.node--l:hover{border-color:var(--lono);background:var(--surface2);}
+.arrow{
+  width:clamp(30px,4vw,58px);height:1px;flex-shrink:0;position:relative;
+  background:repeating-linear-gradient(90deg,#3a3a3a 0 5px,transparent 5px 10px);
+  background-size:10px 1px;
+  animation:dash 1.1s linear infinite;
+}
+@keyframes dash{to{background-position:10px 0;}}
+.arrow::after{
+  content:'→';position:absolute;right:-3px;top:50%;transform:translateY(-52%);
+  font-family:var(--mono);font-size:0.62rem;color:#555;background:var(--bg);
+  padding-left:4px;
+}
+.arrow--loop{opacity:.55;}
+.mesh-bridge{
+  display:flex;flex-direction:column;align-items:center;gap:10px;
+  padding:22px 0 22px 74px;
+}
+.bridge-line{width:1px;height:44px;background:linear-gradient(180deg,var(--gold),var(--lono));}
+.bridge-label{
+  font-family:var(--mono);font-size:0.52rem;letter-spacing:0.3em;
+  text-transform:uppercase;color:var(--dim);
+}
+.mesh-copy{
+  max-width:640px;color:#888;font-size:clamp(0.85rem,1.05vw,0.95rem);
+  line-height:1.85;margin-top:clamp(30px,4.5vh,46px);
+}
+.mesh-copy em{font-style:normal;color:var(--text);}
+
+/* ── FOOTER ──────────────────────────────────────────────── */
+footer{
+  position:relative;z-index:1;
+  border-top:1px solid var(--border);
+  padding:26px clamp(20px,5vw,56px);
+  display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:14px;
+  max-width:1120px;margin:0 auto;
+}
+.foot-l,.foot-r{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.2em;
+  text-transform:uppercase;color:var(--dim);
+}
+.foot-r a{color:var(--dim);text-decoration:none;transition:color .25s;margin-left:18px;}
+.foot-r a:hover{color:var(--text);}
+
+/* ── SCROLL REVEAL ───────────────────────────────────────── */
+.rv{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease;}
+.rv.in{opacity:1;transform:translateY(0);}
+
+/* ── MOBILE ──────────────────────────────────────────────── */
+@media (max-width:768px){
+  .row{grid-template-columns:1fr;gap:18px;}
+  .card{width:288px;}
+  .mesh-rowlabel{width:100%;}
+  .mesh-bridge{padding-left:0;}
+  .nav-links a:nth-child(2){display:none;}
+  .specs{grid-template-columns:1fr 1fr;}
+}
+@media (prefers-reduced-motion:reduce){
+  .rail-track,.dot,.arrow,.scroll-hint,.rail::before{animation:none !important;}
+  .rv{opacity:1;transform:none;transition:none;}
+  html{scroll-behavior:auto;}
+}
 </style>
 </head>
 <body>
-<div class="stage" id="stage">
-<canvas id="pt"></canvas>
-<div class="brand">TICALASI</div>
-<div class="cr" id="cr"></div>
-<div class="ca" id="ca">
-  <span class="tg" id="cTag">&#9733; Explore</span>
-  <h1 class="ct" id="cT">ticalcode</h1>
-  <p class="cs" id="cSub">AI Agent Platform</p>
-  <div class="pl"></div>
-  <p class="cd" id="cDesc">Build, deploy, orchestrate intelligent agents that reason, act, and collaborate.</p>
-  <p class="ch" id="chint">&#9755; Tap chip for details</p>
-</div>
-<div class="pn" id="pn">
-  <div class="ph"></div>
-  <div class="phd"><h2 class="pt" id="pT">ticalcode</h2><span class="pb" id="pB">EXPLORE</span></div>
-  <p class="pd" id="pD"></p>
-  <div class="pf" id="pF"></div>
-  <a class="cta" id="pC" target="_blank" rel="noopener"><span id="ctaT">Visit ticalcode.com</span> &#8599;</a>
-  <button class="dismiss" id="dis">Dismiss</button>
-</div>
-<div id="cl"></div>
-<div id="toast"><span class="ti">&#10084;&#65039;</span><div class="tm" id="toastM">Group Created!</div></div>
-<div class="dots" id="dots">
-  <div class="dot a" data-i="0"></div>
-  <div class="dot" data-i="1"></div>
-  <div class="dot" data-i="2"></div>
-  <div class="dot" data-i="3"></div>
-</div>
-</div>
+
+<nav>
+  <a class="nav-logo" href="#top">TICAL<b>ASI</b></a>
+  <div class="nav-links">
+    <a class="g" href="#build">Build</a>
+    <a class="l" href="#sense">Sense</a>
+    <a href="#mesh">Mesh</a>
+  </div>
+</nav>
+
+<!-- ══════════ OPENER · DUAL RAIL ══════════ -->
+<header class="opener" id="top">
+
+  <!-- BUILD rail · slides west -->
+  <div class="rail rail--build">
+    <div class="rail-fade rail-fade--l"></div>
+    <div class="rail-track">
+      <div class="rail-group">
+        <article class="card">
+          <div class="card-top"><span class="card-idx">01</span><span class="card-tag">Build · 建造</span></div>
+          <h3 class="card-name">ticalcode</h3>
+          <p class="card-role">AI Coding Platform</p>
+          <p class="card-desc">Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.</p>
+          <p class="card-more">PASSKEY AUTH · MCP 23 TOOLS · SUPABASE PG</p>
+          <div class="card-status"><span class="dot dot--g"></span>LIVE · INVITE-ONLY</div>
+        </article>
+        <div class="connector"><span>→</span></div>
+        <article class="card">
+          <div class="card-top"><span class="card-idx">02</span><span class="card-tag">Build · 建造</span></div>
+          <h3 class="card-name">tical agent</h3>
+          <p class="card-role">Execution Plane</p>
+          <p class="card-desc">Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.</p>
+          <p class="card-more">NETWORK NONE · HOST-ONLY CREDS · ZERO TOKEN LEAK</p>
+          <div class="card-status"><span class="dot dot--g"></span>v3.2.0 · ISOLATED</div>
+        </article>
+        <div class="connector"><span>→</span></div>
+        <article class="card">
+          <div class="card-top"><span class="card-idx">03</span><span class="card-tag">Build · 建造</span></div>
+          <h3 class="card-name">kulono</h3>
+          <p class="card-role">Source of Truth</p>
+          <p class="card-desc">Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.</p>
+          <p class="card-more">GITEA 1.27 · HUB :8092 · AGENT POLICIES</p>
+          <div class="card-status"><span class="dot dot--g"></span>SELF-HOSTED</div>
+        </article>
+        <div class="connector"><span>→</span></div>
+      </div>
+    </div>
+    <div class="rail-fade rail-fade--r"></div>
+  </div>
+
+  <!-- SPINE -->
+  <div class="spine">
+    <h1 class="wordmark">TICALASI</h1>
+    <p class="spine-sub">Two Closed Loops · One Living Mesh</p>
+    <p class="spine-cn">建造闭环 · 感知闭环</p>
+  </div>
+
+  <!-- SENSE rail · slides east -->
+  <div class="rail rail--sense">
+    <div class="rail-fade rail-fade--l"></div>
+    <div class="rail-track">
+      <div class="rail-group">
+        <article class="card">
+          <div class="card-top"><span class="card-idx">04</span><span class="card-tag">Sense · 感知</span></div>
+          <h3 class="card-name">zishijian</h3>
+          <p class="card-role">Living Network Mirror</p>
+          <p class="card-desc">Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.</p>
+          <p class="card-more">IPS MASKED · NO PAYLOADS · 5 TRACE COLORS</p>
+          <div class="card-status"><span class="dot dot--l"></span>LIVE · 4,500+ ECHOES</div>
+        </article>
+        <div class="connector"><span>←</span></div>
+        <article class="card">
+          <div class="card-top"><span class="card-idx">05</span><span class="card-tag">Sense · 感知</span></div>
+          <h3 class="card-name">ticalasi.cloud</h3>
+          <p class="card-role">SoulAgent · Identity Protocol</p>
+          <p class="card-desc">Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.</p>
+          <p class="card-more">LLMS.TXT · AGENTS.JSON · HEARTBEAT + MEMORY</p>
+          <div class="card-status"><span class="dot dot--l"></span>DUAL SURFACE · FREE</div>
+        </article>
+        <div class="connector"><span>←</span></div>
+      </div>
+    </div>
+    <div class="rail-fade rail-fade--r"></div>
+  </div>
+
+  <div class="scroll-hint">SCROLL</div>
+</header>
+
+<!-- ══════════ BUILD LOOP ══════════ -->
+<section class="block" id="build">
+  <div class="loop-head rv">
+    <span class="loop-label loop-label--g">Loop 01</span>
+    <h2 class="loop-title">The Build Loop</h2>
+    <span class="loop-cn">建造闭环</span>
+  </div>
+  <p class="loop-lede rv">An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.</p>
+
+  <div class="row rv">
+    <div>
+      <p class="row-idx">01 / 03</p>
+      <h3 class="row-name">ticalcode</h3>
+      <p class="row-tag row-tag--g">The Interface</p>
+    </div>
+    <div>
+      <p class="row-desc">A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.</p>
+      <div class="specs">
+        <div class="spec"><p class="spec-k">Access</p><p class="spec-v spec-v--g">invite-only</p></div>
+        <div class="spec"><p class="spec-k">Auth</p><p class="spec-v">passkey + dual-factor</p></div>
+        <div class="spec"><p class="spec-k">MCP</p><p class="spec-v spec-v--b">23 tools · key-gated</p></div>
+        <div class="spec"><p class="spec-k">Data</p><p class="spec-v">Supabase PostgreSQL</p></div>
+        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">ticalcode.com</p></div>
+        <div class="spec"><p class="spec-k">Registration</p><p class="spec-v">invite-code gated</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row rv">
+    <div>
+      <p class="row-idx">02 / 03</p>
+      <h3 class="row-name">tical agent</h3>
+      <p class="row-tag row-tag--g">The Hands</p>
+    </div>
+    <div>
+      <p class="row-desc">The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.</p>
+      <div class="specs">
+        <div class="spec"><p class="spec-k">Plane</p><p class="spec-v spec-v--g">agent-sg · isolated</p></div>
+        <div class="spec"><p class="spec-k">Network</p><p class="spec-v">none by default</p></div>
+        <div class="spec"><p class="spec-k">Credentials</p><p class="spec-v">host-only</p></div>
+        <div class="spec"><p class="spec-k">Version</p><p class="spec-v spec-v--b">3.2.0</p></div>
+        <div class="spec"><p class="spec-k">Guarantee</p><p class="spec-v">zero token leak</p></div>
+        <div class="spec"><p class="spec-k">Restart</p><p class="spec-v">systemd supervised</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row rv">
+    <div>
+      <p class="row-idx">03 / 03</p>
+      <h3 class="row-name">kulono</h3>
+      <p class="row-tag row-tag--g">The Ground Truth</p>
+    </div>
+    <div>
+      <p class="row-desc">The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.</p>
+      <div class="specs">
+        <div class="spec"><p class="spec-k">Git</p><p class="spec-v spec-v--g">Gitea 1.27 · self-hosted</p></div>
+        <div class="spec"><p class="spec-k">Hub</p><p class="spec-v">task board + bindings</p></div>
+        <div class="spec"><p class="spec-k">Policy</p><p class="spec-v">agent-default enforced</p></div>
+        <div class="spec"><p class="spec-k">Loop</p><p class="spec-v spec-v--b">ticalcode ↔ kulono</p></div>
+        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">kulono.com</p></div>
+        <div class="spec"><p class="spec-k">Mirror</p><p class="spec-v">git.kulono.com</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ SENSE LOOP ══════════ -->
+<section class="block" id="sense">
+  <div class="loop-head rv">
+    <span class="loop-label loop-label--l">Loop 02</span>
+    <h2 class="loop-title">The Sense Loop</h2>
+    <span class="loop-cn">感知闭环</span>
+  </div>
+  <p class="loop-lede rv">A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.</p>
+
+  <div class="row rv">
+    <div>
+      <p class="row-idx">04 / 05</p>
+      <h3 class="row-name">zishijian</h3>
+      <p class="row-tag row-tag--l">The Eyes</p>
+    </div>
+    <div>
+      <p class="row-desc">A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.</p>
+      <div class="specs">
+        <div class="spec"><p class="spec-k">Layers</p><p class="spec-v spec-v--l">echoes + stories</p></div>
+        <div class="spec"><p class="spec-k">Privacy</p><p class="spec-v">IPs masked · no payloads</p></div>
+        <div class="spec"><p class="spec-k">Traces</p><p class="spec-v">5 colors · live classify</p></div>
+        <div class="spec"><p class="spec-k">Feeds</p><p class="spec-v spec-v--b">llms.txt · agent.json</p></div>
+        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">zishijian.com</p></div>
+        <div class="spec"><p class="spec-k">Stories</p><p class="spec-v">no registration</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row rv">
+    <div>
+      <p class="row-idx">05 / 05</p>
+      <h3 class="row-name">ticalasi.cloud</h3>
+      <p class="row-tag row-tag--l">The Memory</p>
+    </div>
+    <div>
+      <p class="row-desc">SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.</p>
+      <div class="specs">
+        <div class="spec"><p class="spec-k">Protocol</p><p class="spec-v spec-v--l">identity · heartbeat · memory</p></div>
+        <div class="spec"><p class="spec-k">Surface</p><p class="spec-v">machine + human</p></div>
+        <div class="spec"><p class="spec-k">Registry</p><p class="spec-v spec-v--b">agents.json · ai-plugin.json</p></div>
+        <div class="spec"><p class="spec-k">Price</p><p class="spec-v">free · self-hosted</p></div>
+        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">ticalasi.cloud</p></div>
+        <div class="spec"><p class="spec-k">Home</p><p class="spec-v">/agent/ identity home</p></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ══════════ MESH ══════════ -->
+<section class="block" id="mesh">
+  <div class="loop-head rv">
+    <span class="loop-label" style="color:var(--blue);">The Mesh</span>
+    <h2 class="loop-title">One Living Mesh</h2>
+    <span class="loop-cn">网格</span>
+  </div>
+
+  <div class="mesh-wrap rv">
+    <div class="mesh-flow">
+      <span class="mesh-rowlabel mesh-rowlabel--g">Build</span>
+      <span class="node node--g">ticalcode</span>
+      <span class="arrow"></span>
+      <span class="node node--g">tical agent</span>
+      <span class="arrow"></span>
+      <span class="node node--g">kulono</span>
+      <span class="arrow arrow--loop"></span>
+      <span class="node node--g" style="opacity:.55;">↺ ticalcode</span>
+    </div>
+
+    <div class="mesh-bridge">
+      <div class="bridge-line"></div>
+      <span class="bridge-label">agents flow · 智能体流动</span>
+      <div class="bridge-line"></div>
+    </div>
+
+    <div class="mesh-flow">
+      <span class="mesh-rowlabel mesh-rowlabel--l">Sense</span>
+      <span class="node node--l">zishijian</span>
+      <span class="arrow"></span>
+      <span class="node node--l">ticalasi.cloud</span>
+      <span class="arrow arrow--loop"></span>
+      <span class="node node--l" style="opacity:.55;">↺ zishijian</span>
+    </div>
+
+    <p class="mesh-copy">The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.</p>
+  </div>
+</section>
+
+<footer>
+  <p class="foot-l">Ticalasi © 2026 · Self-hosted · No frameworks · No trackers</p>
+  <p class="foot-r">
+    <a href="https://ticalcode.com">ticalcode</a>
+    <a href="https://kulono.com">kulono</a>
+    <a href="https://zishijian.com">zishijian</a>
+    <a href="https://ticalasi.cloud">ticalasi.cloud</a>
+  </p>
+</footer>
 
 <script>
-const S=[
-{t:'ticalcode',b:'EXPLORE',s:'AI Agent Platform',
- d:'AI Agent Platform \u2014 build, deploy, and orchestrate intelligent agents that reason, act, and collaborate across any domain. All in one composable runtime with visual workflow builder and 100+ native integrations.',
- f:['Composable agent runtime','Visual workflow builder','100+ native integrations','Real-time orchestration'],
- c:'Visit ticalcode.com',l:'https://ticalcode.com'},
-{t:'EITE Agent',b:'WORKS',s:'Existential Identity Test Engine',
- d:'Existential Identity Test Engine \u2014 a reasoning engine that probes identity, intent, and self-awareness through structured existential dialogue and adversarial self-reflection layers.',
- f:['Multi-layer identity probing','Adversarial self-reflection','Behavioral signature mapping','Intent verification protocol'],
- c:'Read the whitepaper',l:'https://ticalcode.com/eite'},
-{t:'AI Lab',b:'RESEARCH',s:'Frontier Experiments',
- d:'Frontier experiments in emergent behavior, multi-agent systems, and the boundaries of machine cognition. Open research notebooks and public benchmark suite.',
- f:['Open research notebooks','Multi-agent simulations','Public benchmark suite','Emergent behavior studies'],
- c:'Explore on GitHub',l:'https://github.com/ticalasi'},
-{t:'ticalasi',b:'ABOUT',s:'Building the Future',
- d:'A collective of researchers and engineers crafting tools at the intersection of identity, intelligence, and interaction. Open-source first, shipping since 2023.',
- f:['Distributed team worldwide','Open-source first','Shipping since 2023','hello@ticalasi.com'],
- c:'Get in touch',l:'https://ticalcode.com/about'}
-];
-const tags=['&#9733; Explore','&#9881; Works','&#9878; AI Lab','&#8505; About'];
+/* seamless rail loop — duplicate each track once, then translateX(-50%) */
+document.querySelectorAll('.rail-track').forEach(function(t){ t.innerHTML += t.innerHTML; });
 
-const CR=document.getElementById('cr');
-const PN=document.getElementById('pn'),pT=document.getElementById('pT'),pB=document.getElementById('pB');
-const pD=document.getElementById('pD'),pF=document.getElementById('pF');
-const pC=document.getElementById('pC'),ctaT=document.getElementById('ctaT');
-const dis=document.getElementById('dis');
-const D=document.querySelectorAll('.dot'),DC=document.getElementById('dots');
-const CL=document.getElementById('cl');
-const T=document.getElementById('toast'),TM=document.getElementById('toastM');
-const cTag=document.getElementById('cTag'),cT=document.getElementById('cT');
-const cSub=document.getElementById('cSub'),cDesc=document.getElementById('cDesc');
-
-let cur=0,open=!1,grps=[];
-
-function gc(n){return n.slice(0,3)}
-
-function rb(){
-  CR.innerHTML='';
-  const used=new Set();grps.forEach(g=>{used.add(g.a);used.add(g.b)});
-  for(const g of grps){
-    const e=document.createElement('div');
-    e.className='chip grp';e.dataset.pos=g.a;e.dataset.grp='1';
-    e.innerHTML='<div class="av"><span class="gi">&#10052;</span></div><div class="lb">'+gc(g.na)+'+'+gc(g.nb)+'</div>';
-    e.addEventListener('pointerdown',function(ev){_hd(ev,this,!0,g)});
-    CR.appendChild(e);
-  }
-  for(let i=0;i<S.length;i++){
-    if(used.has(i))continue;
-    const e=document.createElement('div');
-    e.className='chip c'+i+(i===cur?' a':'');e.dataset.pos=i;
-    e.innerHTML='<div class="av"></div><div class="lb">'+S[i].t+'</div>';
-    e.addEventListener('pointerdown',function(ev){_hd(ev,this,!1,i)});
-    CR.appendChild(e);
-  }
-  uc(cur);ud();
-}
-
-function uc(i){
-  const s=S[i];cTag.innerHTML=tags[i];cT.textContent=s.t;cSub.textContent=s.s;
-  cDesc.textContent=s.d.slice(0,80)+'...';
-}
-
-function oP(i){
-  const s=S[i];pT.textContent=s.t;pB.textContent=s.b;
-  pD.textContent=s.d;
-  pF.innerHTML=s.f.map(f=>'<div><s>&#9881;</s><span>'+f+'</span></div>').join('');
-  ctaT.textContent=s.c;pC.href=s.l;
-  PN.classList.add('a');DC.classList.add('h');open=!0;
-}
-
-function ogp(g){
-  const sa=S[g.a],sb=S[g.b];
-  pT.textContent=sa.t+' + '+sb.t;pB.textContent='GROUP';
-  pD.textContent=sa.d+' '+sb.d;
-  const m=sa.f.concat(sb.f).slice(0,6);
-  pF.innerHTML=m.map(f=>'<div><s>&#10052;</s><span>'+f+'</span></div>').join('');
-  ctaT.textContent='Explore '+sa.t;pC.href=sa.l;
-  PN.classList.add('a');DC.classList.add('h');open=!0;
-}
-
-function cP(){PN.classList.remove('a');DC.classList.remove('h');open=!1}
-function st(m){TM.textContent=m;T.classList.add('s');clearTimeout(T._t);T._t=setTimeout(()=>T.classList.remove('s'),2200)}
-function ud(){D.forEach((d,i)=>d.classList.toggle('a',i===cur))}
-
-let _pid=null,_trig=!1,_src=-1,_moved=!1,_timer=null;
-
-function _hd(ev,el,isGroup,idx){
-  if(ev.button!==0&&ev.pointerType==='mouse')return;
-  if(_pid)return;
-  if(isGroup){oG(el);return} // group chip tap
-
-  const i=idx;
-  if(grps.some(g=>g.a===i||g.b===i))return;
-  _pid=ev.pointerId;_src=i;_trig=!1;_moved=!1;
-  const sx=ev.clientX,sy=ev.clientY;
-
-  function _mh(e){
-    if(!_trig||e.pointerId!==_pid)return;e.preventDefault();
-    _moved=!0;CL.style.left=(e.clientX-36)+'px';CL.style.top=(e.clientY-36)+'px';
-    let hit=!1;
-    CR.querySelectorAll('.chip').forEach(c=>{
-      if(c===el||c.classList.contains('grp'))return;
-      const r=c.getBoundingClientRect();
-      if(Math.hypot(e.clientX-(r.left+r.width/2),e.clientY-(r.top+r.height/2))<50){c.classList.add('pt');hit=!0}
-      else c.classList.remove('pt');
-    });
-    if(!hit)CR.querySelectorAll('.pt').forEach(x=>x.classList.remove('pt'));
-  }
-
-  function _uh(e){
-    if(e.pointerId!==_pid)return;
-    document.removeEventListener('pointermove',_mh);
-    document.removeEventListener('pointerup',_uh);
-    clearTimeout(_timer);
-    CR.querySelectorAll('.pt').forEach(x=>x.classList.remove('pt'));
-    CL.style.display='none';_pid=null;
-    if(_trig&&_moved){
-      CR.querySelectorAll('.chip').forEach(c=>{
-        if(c===el||c.classList.contains('grp'))return;
-        const r=c.getBoundingClientRect();
-        if(Math.hypot(e.clientX-(r.left+r.width/2),e.clientY-(r.top+r.height/2))<55){
-          const j=+c.dataset.pos;
-          if(i!==j&&!grps.some(g=>g.a===i||g.b===i||g.a===j||g.b===j)){
-            grps.push({a:i,b:j,na:S[i].t,nb:S[j].t});
-            rb();st(S[i].t+' + '+S[j].t);
-            if(navigator.vibrate)navigator.vibrate(30);
-          }
-        }
-      });
-    } else if(!_trig){
-      // tap: open panel
-      cur=i;uc(i);ud();oP(i);
-    }
-  }
-
-  _timer=setTimeout(()=>{
-    _trig=!0;if(navigator.vibrate)navigator.vibrate(50);
-    const im=i===0||i===2?'url(girl-white-hd.jpg)':'url(girl-dark-hd.png)';
-    const bp=i===0?'50% 28%':i===1?'50% 28%':i===2?'30% 42%':'70% 35%';
-    const ti=i===0?'linear-gradient(135deg,rgba(255,120,50,.25),rgba(255,120,50,.05))':
-             i===1?'linear-gradient(135deg,rgba(200,50,160,.25),rgba(200,50,160,.05))':
-             i===2?'linear-gradient(135deg,rgba(60,120,240,.25),rgba(60,120,240,.05))':
-             'linear-gradient(135deg,rgba(100,200,100,.25),rgba(100,200,100,.05))';
-    CL.style.backgroundImage=im;CL.style.backgroundPosition=bp;CL.style.setProperty('--t',ti);
-    CL.style.display='block';CL.style.left=(sx-36)+'px';CL.style.top=(sy-36)+'px';
-  },250);
-
-  document.addEventListener('pointermove',_mh);
-  document.addEventListener('pointerup',_uh);
-}
-
-function oG(el){
-  const g=grps.find(x=>x.a===+el.dataset.pos);
-  if(g){cur=g.a;uc(g.a);ud();ogp(g)}
-}
-
-rb();
-
-D.forEach(d=>{
-  d.addEventListener('click',e=>{
-    e.stopPropagation();const i=+d.dataset.i;
-    if(grps.some(g=>g.a===i||g.b===i))return;
-    cur=i;uc(i);ud();if(open)cP();
+/* scroll reveal */
+var io = new IntersectionObserver(function(entries){
+  entries.forEach(function(e){
+    if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
   });
-});
-
-dis.addEventListener('click',cP);
-pC.addEventListener('click',e=>e.stopPropagation());
-document.getElementById('ca').addEventListener('click',()=>{if(!open)oP(cur)});
-document.addEventListener('keydown',e=>{
-  if(e.key==='Escape')cP();
-  if((e.key==='ArrowRight'||e.key==='ArrowLeft')&&!open){
-    let i=cur,step=e.key==='ArrowRight'?1:-1;
-    do i=(i+step+4)%4;while(grps.some(g=>g.a===i||g.b===i));
-    cur=i;uc(i);ud();
-  }
-});
-
-// particles
-const cv=document.getElementById('pt'),ctx=cv.getContext('2d');
-let pp=[],cw,ch;
-function rz(){const r=cv.getBoundingClientRect();cw=cv.width=r.width;ch=cv.height=r.height}
-function ip(){
-  pp=[];const n=Math.min(120,Math.floor(cw*ch/4000));
-  for(let i=0;i<n;i++){const h=Math.random();pp.push({x:Math.random()*cw,y:Math.random()*ch,r:Math.random()*1.4+.3,vy:Math.random()*.35+.08,vx:(Math.random()-.5)*.08,tw:Math.random()*Math.PI*2,ts:Math.random()*.04+.008,hue:h<.4?25:(h<.7?320:220)})}
-}
-function dp(){
-  ctx.clearRect(0,0,cw,ch);
-  for(const p of pp){p.y-=p.vy;p.x+=p.vx;p.tw+=p.ts;if(p.y<-5){p.y=ch+5;p.x=Math.random()*cw}if(p.x<-5)p.x=cw+5;if(p.x>cw+5)p.x=-5;const a=.35+Math.sin(p.tw)*.4;ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);ctx.fillStyle=`hsla(${p.hue},85%,68%,${a})`;ctx.shadowBlur=6;ctx.shadowColor=`hsla(${p.hue},85%,68%,${a*.8})`;ctx.fill()}
-  ctx.shadowBlur=0;requestAnimationFrame(dp)
-}
-window.addEventListener('resize',()=>{rz();ip()});
-rz();ip();dp();
+},{ threshold: 0.12 });
+document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
 </script>
 </body>
 </html>
