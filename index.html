@@ -12,9 +12,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
 /* ═══════════════════════════════════════════════════════════
-   TICALASI — DUAL RAIL
-   build loop slides east · sense loop slides west
-   dark minimal · Inter 200 + JetBrains Mono · zero frameworks
+   TICALASI — DUAL RAIL · v2
+   build loop slides west · sense loop slides east
+   EN / 中文 toggle · direct paths · investment notice
+   dark minimal · Inter + JetBrains Mono · zero frameworks
    ═══════════════════════════════════════════════════════════ */
 :root{
   --bg:#0a0a0a;
@@ -42,7 +43,6 @@ body{
   overflow-x:hidden;
   -webkit-font-smoothing:antialiased;
 }
-/* ambient dot field */
 body::before{
   content:'';position:fixed;inset:0;z-index:0;pointer-events:none;
   background-image:radial-gradient(rgba(255,255,255,0.028) 1px,transparent 1px);
@@ -53,6 +53,7 @@ body::before{
 ::-webkit-scrollbar-track{background:var(--bg);}
 ::-webkit-scrollbar-thumb{background:#222;border-radius:4px;}
 ::-webkit-scrollbar-thumb:hover{background:#333;}
+a{color:inherit;}
 
 /* ── NAV ─────────────────────────────────────────────────── */
 nav{
@@ -68,20 +69,36 @@ nav{
   letter-spacing:0.32em;color:var(--text);text-decoration:none;
 }
 .nav-logo b{color:var(--gold);font-weight:500;}
-.nav-links{display:flex;gap:clamp(14px,3vw,32px);}
+.nav-right{display:flex;align-items:center;gap:clamp(12px,2.5vw,28px);}
+.nav-links{display:flex;gap:clamp(12px,2.5vw,28px);}
 .nav-links a{
   font-family:var(--mono);font-size:0.58rem;letter-spacing:0.18em;
   color:var(--dim);text-decoration:none;text-transform:uppercase;
-  transition:color .25s;
+  position:relative;transition:color .25s;
+}
+.nav-links a::after{
+  content:'';position:absolute;left:0;bottom:-4px;height:1px;width:0;
+  background:currentColor;transition:width .3s ease;
 }
 .nav-links a:hover{color:var(--text);}
+.nav-links a:hover::after{width:100%;}
 .nav-links a.g:hover{color:var(--gold);}
 .nav-links a.l:hover{color:var(--lono);}
+.nav-links a.i:hover{color:var(--blue);}
+.lang{display:flex;align-items:center;gap:6px;border:1px solid var(--border);padding:4px 8px;}
+.lang-btn{
+  background:none;border:none;cursor:pointer;
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.12em;
+  color:var(--dim);padding:2px 4px;transition:color .25s;
+}
+.lang-btn:hover{color:var(--text);}
+.lang-btn.active{color:var(--gold);}
+.lang-sep{color:#333;font-family:var(--mono);font-size:0.55rem;}
 
 /* ── OPENER : DUAL RAIL ──────────────────────────────────── */
 .opener{
   position:relative;z-index:1;
-  height:100dvh;min-height:560px;
+  height:100dvh;min-height:600px;
   display:flex;flex-direction:column;
   padding-top:52px;
 }
@@ -92,7 +109,6 @@ nav{
   display:flex;align-items:stretch;
 }
 .rail--sense{border-bottom:none;border-top:1px solid var(--border);}
-/* breathing ambient tint per loop */
 .rail::before{
   content:'';position:absolute;inset:0;pointer-events:none;z-index:0;
   animation:breathe 9s ease-in-out infinite;
@@ -101,7 +117,6 @@ nav{
 .rail--sense::before{background:radial-gradient(55% 130% at 72% 50%,rgba(20,140,80,0.055),transparent 70%);animation-delay:-4.5s;}
 @keyframes breathe{0%,100%{opacity:.55;}50%{opacity:1;}}
 
-/* the moving track — duplicated once by JS for a seamless -50% loop */
 .rail-track{
   position:relative;z-index:1;
   display:flex;align-items:stretch;
@@ -111,27 +126,25 @@ nav{
 .rail--sense .rail-track{animation-direction:reverse;}
 @keyframes rail-west{from{transform:translateX(0);}to{transform:translateX(-50%);}}
 .rail:hover .rail-track{animation-play-state:paused;}
-
 .rail-group{display:flex;align-items:stretch;height:100%;}
 
-/* edge fade masks */
 .rail-fade{position:absolute;top:0;bottom:0;width:clamp(48px,9vw,140px);z-index:2;pointer-events:none;}
 .rail-fade--l{left:0;background:linear-gradient(90deg,var(--bg),transparent);}
 .rail-fade--r{right:0;background:linear-gradient(-90deg,var(--bg),transparent);}
 
-/* cards riding the rail */
+/* cards riding the rail — clickable */
 .card{
   flex-shrink:0;
   width:clamp(288px,29vw,410px);
   padding:clamp(18px,2.6vh,30px) clamp(20px,2.2vw,34px);
   border-left:2px solid var(--faint);
   display:flex;flex-direction:column;justify-content:center;gap:9px;
-  transition:background .35s,border-color .35s;
-  cursor:default;
+  transition:background .35s,border-color .35s,transform .35s;
+  text-decoration:none;cursor:pointer;
 }
 .rail--build .card{border-left-color:var(--gold-soft);}
 .rail--sense .card{border-left-color:var(--lono-soft);}
-.card:hover{background:var(--surface);}
+.card:hover{background:var(--surface);transform:translateY(-3px);}
 .rail--build .card:hover{border-left-color:var(--gold);}
 .rail--sense .card:hover{border-left-color:var(--lono);}
 
@@ -167,6 +180,11 @@ nav{
   display:flex;align-items:center;gap:8px;
   font-family:var(--mono);font-size:0.55rem;letter-spacing:0.2em;color:var(--dim);
 }
+.card-go{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.16em;
+  color:var(--dim);margin-left:auto;transition:color .3s,transform .3s;
+}
+.card:hover .card-go{color:var(--text);transform:translate(2px,-2px);}
 .dot{
   width:6px;height:6px;border-radius:50%;flex-shrink:0;
   animation:pulse 2.2s ease-in-out infinite;
@@ -175,7 +193,6 @@ nav{
 .dot--l{background:var(--lono);}
 @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.25;}}
 
-/* connector between cards */
 .connector{
   flex-shrink:0;width:clamp(56px,6vw,92px);
   display:flex;align-items:center;justify-content:center;
@@ -190,11 +207,11 @@ nav{
   font-family:var(--mono);font-size:0.72rem;color:var(--dim);
 }
 
-/* ── SPINE between the two rails ─────────────────────────── */
+/* ── SPINE ───────────────────────────────────────────────── */
 .spine{
   position:relative;flex-shrink:0;
   display:flex;flex-direction:column;align-items:center;justify-content:center;
-  gap:10px;padding:clamp(14px,2.6vh,26px) 20px;
+  gap:12px;padding:clamp(16px,2.8vh,28px) 20px;
   text-align:center;
 }
 .spine::before,.spine::after{
@@ -204,25 +221,44 @@ nav{
 .spine::after{bottom:0;height:clamp(8px,1.6vh,18px);}
 .wordmark{
   font-size:clamp(42px,8.6vw,104px);font-weight:200;letter-spacing:0.1em;
-  line-height:1;
-  background:linear-gradient(92deg,var(--gold) 8%,#e0e0e0 50%,var(--lono) 92%);
-  -webkit-background-clip:text;background-clip:text;
-  -webkit-text-fill-color:transparent;
+  line-height:1;color:var(--text);
 }
+.wordmark .wm-asi{color:var(--gold);}
 .spine-sub{
   font-family:var(--mono);font-size:clamp(0.52rem,0.8vw,0.62rem);
   letter-spacing:0.34em;text-transform:uppercase;color:var(--dim);
 }
-.spine-cn{
-  font-family:var(--mono);font-size:clamp(0.5rem,0.75vw,0.58rem);
-  letter-spacing:0.5em;color:#444;
+.spine-rule{width:56px;height:1px;background:linear-gradient(90deg,var(--gold),var(--lono));}
+
+/* ── STATUS TICKER ───────────────────────────────────────── */
+.ticker{
+  position:relative;flex-shrink:0;height:36px;
+  display:flex;align-items:stretch;
+  border-top:1px solid var(--border);
+  background:var(--surface);overflow:hidden;
 }
-.scroll-hint{
-  position:absolute;bottom:14px;left:50%;transform:translateX(-50%);
-  font-family:var(--mono);font-size:0.5rem;letter-spacing:0.4em;color:#3a3a3a;
-  animation:hint 2.6s ease-in-out infinite;z-index:3;
+.ticker-track{
+  display:flex;align-items:center;width:max-content;
+  animation:rail-west 60s linear infinite;
 }
-@keyframes hint{0%,100%{opacity:.35;transform:translate(-50%,0);}50%{opacity:.9;transform:translate(-50%,5px);}}
+.ticker:hover .ticker-track{animation-play-state:paused;}
+.ticker-group{display:flex;align-items:center;}
+.ticker-item{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.14em;
+  color:var(--dim);white-space:nowrap;padding:0 18px;
+  display:flex;align-items:center;gap:8px;
+}
+.ticker-item b{color:var(--text);font-weight:400;}
+.ticker-item .tk-g{color:#d8b04a;}
+.ticker-item .tk-l{color:#3ab07a;}
+.ticker-sep{color:#333;font-family:var(--mono);font-size:0.55rem;}
+.ticker-clock{
+  flex-shrink:0;display:flex;align-items:center;gap:8px;
+  padding:0 16px;border-left:1px solid var(--border);
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.12em;color:var(--dim);
+  background:var(--surface);position:relative;z-index:2;
+}
+.ticker-clock .dot{width:5px;height:5px;background:var(--lono);}
 
 /* ── SECTIONS ────────────────────────────────────────────── */
 section.block{
@@ -242,9 +278,8 @@ section.block{
 .loop-label--g{color:var(--gold);}
 .loop-label--l{color:var(--lono);}
 .loop-title{font-size:clamp(30px,4.6vw,58px);font-weight:200;letter-spacing:0.01em;}
-.loop-cn{font-family:var(--mono);font-size:0.62rem;letter-spacing:0.42em;color:#444;}
 .loop-lede{
-  max-width:620px;color:#888;font-size:clamp(0.85rem,1.05vw,0.95rem);
+  max-width:640px;color:#888;font-size:clamp(0.85rem,1.05vw,0.95rem);
   line-height:1.8;margin-bottom:clamp(28px,4vh,48px);
 }
 
@@ -271,6 +306,14 @@ section.block{
 }
 .row-tag--g{color:rgba(200,150,10,0.8);}
 .row-tag--l{color:rgba(58,176,122,0.85);}
+.row-link{
+  display:inline-flex;align-items:center;gap:6px;margin-top:16px;
+  font-family:var(--mono);font-size:0.6rem;letter-spacing:0.14em;
+  color:var(--dim);text-decoration:none;transition:color .3s;
+}
+.row-link:hover{color:var(--text);}
+.row-link .rl-arrow{transition:transform .3s;}
+.row-link:hover .rl-arrow{transform:translate(2px,-2px);}
 .row-desc{
   color:#999;font-size:clamp(0.84rem,1vw,0.94rem);line-height:1.85;
   max-width:580px;
@@ -293,7 +336,7 @@ section.block{
 .spec-v--b{color:var(--blue);}
 
 /* ── MESH ────────────────────────────────────────────────── */
-.mesh-wrap{padding:clamp(40px,6vh,64px) 0 clamp(72px,10vh,110px);}
+.mesh-wrap{padding:clamp(40px,6vh,64px) 0 clamp(48px,7vh,72px);}
 .mesh-flow{display:flex;align-items:center;flex-wrap:wrap;row-gap:14px;}
 .mesh-rowlabel{
   font-family:var(--mono);font-size:0.55rem;letter-spacing:0.3em;
@@ -306,7 +349,7 @@ section.block{
   padding:13px 20px;background:var(--surface);
   border:1px solid var(--border);
   transition:border-color .3s,color .3s,background .3s;
-  white-space:nowrap;
+  white-space:nowrap;text-decoration:none;
 }
 .node--g{border-color:rgba(200,150,10,0.35);color:#d8b04a;}
 .node--g:hover{border-color:var(--gold);background:var(--surface2);}
@@ -340,6 +383,98 @@ section.block{
 }
 .mesh-copy em{font-style:normal;color:var(--text);}
 
+/* ── DIRECT PATHS ────────────────────────────────────────── */
+.paths-grid{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));
+  gap:1px;background:var(--border);border:1px solid var(--border);
+  margin-bottom:clamp(48px,7vh,72px);
+}
+.path-tile{
+  position:relative;display:flex;flex-direction:column;gap:10px;
+  background:var(--surface);padding:22px 22px 20px;
+  text-decoration:none;min-height:130px;
+  transition:background .3s;
+}
+.path-tile:hover{background:var(--surface2);}
+.path-domain{
+  font-family:var(--mono);font-size:0.78rem;font-weight:400;
+  letter-spacing:0.04em;color:var(--text);
+}
+.path-desc{
+  font-size:0.74rem;line-height:1.6;color:#888;
+}
+.path-foot{
+  margin-top:auto;display:flex;align-items:center;justify-content:space-between;
+  font-family:var(--mono);font-size:0.52rem;letter-spacing:0.2em;text-transform:uppercase;
+}
+.path-eco--g{color:rgba(200,150,10,0.8);}
+.path-eco--l{color:rgba(58,176,122,0.85);}
+.path-eco--dim{color:#444;}
+.path-arrow{
+  font-family:var(--mono);font-size:0.8rem;color:var(--dim);
+  transition:color .3s,transform .3s;
+}
+.path-tile:hover .path-arrow{color:var(--text);transform:translate(3px,-3px);}
+.path-tile--dim{cursor:default;}
+.path-tile--dim:hover{background:var(--surface);}
+.path-tile--dim .path-domain{color:var(--dim);}
+
+/* ── INVESTMENT NOTICE ───────────────────────────────────── */
+.invest-panel{
+  border:1px solid var(--border);border-left:2px solid var(--gold);
+  background:var(--surface);
+  padding:clamp(28px,4.5vw,52px);
+  margin-bottom:clamp(72px,10vh,110px);
+}
+.invest-tag{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.32em;
+  text-transform:uppercase;color:var(--gold);margin-bottom:16px;
+}
+.invest-title{
+  font-size:clamp(26px,3.6vw,44px);font-weight:200;line-height:1.15;
+  margin-bottom:20px;max-width:640px;
+}
+.invest-intro{
+  color:#999;font-size:clamp(0.85rem,1vw,0.94rem);line-height:1.8;
+  max-width:640px;margin-bottom:28px;
+}
+.invest-list{
+  list-style:none;counter-reset:inv;max-width:720px;
+  display:flex;flex-direction:column;gap:0;
+}
+.invest-list li{
+  counter-increment:inv;
+  position:relative;padding:16px 0 16px 52px;
+  border-top:1px solid var(--border);
+  color:#999;font-size:clamp(0.8rem,0.95vw,0.88rem);line-height:1.75;
+}
+.invest-list li:last-child{border-bottom:1px solid var(--border);}
+.invest-list li::before{
+  content:counter(inv,decimal-leading-zero);
+  position:absolute;left:0;top:18px;
+  font-family:var(--mono);font-size:0.62rem;letter-spacing:0.1em;
+  color:var(--gold);
+}
+.invest-contact{
+  display:flex;align-items:baseline;flex-wrap:wrap;gap:10px 22px;
+  margin-top:32px;
+}
+.invest-contact-label{
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.28em;
+  text-transform:uppercase;color:var(--dim);
+}
+.invest-email{
+  font-family:var(--mono);font-size:clamp(0.9rem,1.4vw,1.15rem);
+  letter-spacing:0.04em;color:var(--text);text-decoration:none;
+  border-bottom:1px solid var(--gold-soft);padding-bottom:2px;
+  transition:color .3s,border-color .3s;
+}
+.invest-email:hover{color:var(--gold);border-color:var(--gold);}
+.invest-note{
+  margin-top:24px;font-family:var(--mono);font-size:0.56rem;
+  letter-spacing:0.08em;line-height:1.8;color:#555;max-width:720px;
+}
+
 /* ── FOOTER ──────────────────────────────────────────────── */
 footer{
   position:relative;z-index:1;
@@ -354,22 +489,25 @@ footer{
 }
 .foot-r a{color:var(--dim);text-decoration:none;transition:color .25s;margin-left:18px;}
 .foot-r a:hover{color:var(--text);}
+.foot-mail{color:var(--gold) !important;}
 
 /* ── SCROLL REVEAL ───────────────────────────────────────── */
 .rv{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease;}
 .rv.in{opacity:1;transform:translateY(0);}
 
 /* ── MOBILE ──────────────────────────────────────────────── */
-@media (max-width:768px){
+@media (max-width:820px){
   .row{grid-template-columns:1fr;gap:18px;}
   .card{width:288px;}
   .mesh-rowlabel{width:100%;}
   .mesh-bridge{padding-left:0;}
-  .nav-links a:nth-child(2){display:none;}
+  .nav-links a:nth-child(3){display:none;}
   .specs{grid-template-columns:1fr 1fr;}
+  .ticker-clock{display:none;}
+  .invest-list li{padding-left:40px;}
 }
 @media (prefers-reduced-motion:reduce){
-  .rail-track,.dot,.arrow,.scroll-hint,.rail::before{animation:none !important;}
+  .rail-track,.ticker-track,.dot,.arrow,.rail::before{animation:none !important;}
   .rv{opacity:1;transform:none;transition:none;}
   html{scroll-behavior:auto;}
 }
@@ -379,10 +517,18 @@ footer{
 
 <nav>
   <a class="nav-logo" href="#top">TICAL<b>ASI</b></a>
-  <div class="nav-links">
-    <a class="g" href="#build">Build</a>
-    <a class="l" href="#sense">Sense</a>
-    <a href="#mesh">Mesh</a>
+  <div class="nav-right">
+    <div class="nav-links">
+      <a class="g" href="#build" data-i18n="nav_build">Build</a>
+      <a class="l" href="#sense" data-i18n="nav_sense">Sense</a>
+      <a href="#paths" data-i18n="nav_paths">Paths</a>
+      <a class="i" href="#invest" data-i18n="nav_invest">Invest</a>
+    </div>
+    <div class="lang">
+      <button class="lang-btn active" data-lang="en" type="button">EN</button>
+      <span class="lang-sep">/</span>
+      <button class="lang-btn" data-lang="zh" type="button">中文</button>
+    </div>
   </div>
 </nav>
 
@@ -394,32 +540,32 @@ footer{
     <div class="rail-fade rail-fade--l"></div>
     <div class="rail-track">
       <div class="rail-group">
-        <article class="card">
-          <div class="card-top"><span class="card-idx">01</span><span class="card-tag">Build · 建造</span></div>
+        <a class="card" href="https://ticalcode.com" target="_blank" rel="noopener">
+          <div class="card-top"><span class="card-idx">01</span><span class="card-tag" data-i18n="tag_build">Build</span></div>
           <h3 class="card-name">ticalcode</h3>
-          <p class="card-role">AI Coding Platform</p>
-          <p class="card-desc">Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.</p>
+          <p class="card-role" data-i18n="role_ticalcode">AI Coding Platform</p>
+          <p class="card-desc" data-i18n="desc_ticalcode">Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.</p>
           <p class="card-more">PASSKEY AUTH · MCP 23 TOOLS · SUPABASE PG</p>
-          <div class="card-status"><span class="dot dot--g"></span>LIVE · INVITE-ONLY</div>
-        </article>
+          <div class="card-status"><span class="dot dot--g"></span>LIVE · INVITE-ONLY<span class="card-go">↗</span></div>
+        </a>
         <div class="connector"><span>→</span></div>
-        <article class="card">
-          <div class="card-top"><span class="card-idx">02</span><span class="card-tag">Build · 建造</span></div>
+        <a class="card" href="#build">
+          <div class="card-top"><span class="card-idx">02</span><span class="card-tag" data-i18n="tag_build">Build</span></div>
           <h3 class="card-name">tical agent</h3>
-          <p class="card-role">Execution Plane</p>
-          <p class="card-desc">Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.</p>
+          <p class="card-role" data-i18n="role_agent">Execution Plane</p>
+          <p class="card-desc" data-i18n="desc_agent">Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.</p>
           <p class="card-more">NETWORK NONE · HOST-ONLY CREDS · ZERO TOKEN LEAK</p>
-          <div class="card-status"><span class="dot dot--g"></span>v3.2.0 · ISOLATED</div>
-        </article>
+          <div class="card-status"><span class="dot dot--g"></span>v3.2.0 · ISOLATED<span class="card-go">↓</span></div>
+        </a>
         <div class="connector"><span>→</span></div>
-        <article class="card">
-          <div class="card-top"><span class="card-idx">03</span><span class="card-tag">Build · 建造</span></div>
+        <a class="card" href="https://kulono.com" target="_blank" rel="noopener">
+          <div class="card-top"><span class="card-idx">03</span><span class="card-tag" data-i18n="tag_build">Build</span></div>
           <h3 class="card-name">kulono</h3>
-          <p class="card-role">Source of Truth</p>
-          <p class="card-desc">Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.</p>
+          <p class="card-role" data-i18n="role_kulono">Source of Truth</p>
+          <p class="card-desc" data-i18n="desc_kulono">Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.</p>
           <p class="card-more">GITEA 1.27 · HUB :8092 · AGENT POLICIES</p>
-          <div class="card-status"><span class="dot dot--g"></span>SELF-HOSTED</div>
-        </article>
+          <div class="card-status"><span class="dot dot--g"></span>SELF-HOSTED<span class="card-go">↗</span></div>
+        </a>
         <div class="connector"><span>→</span></div>
       </div>
     </div>
@@ -428,9 +574,9 @@ footer{
 
   <!-- SPINE -->
   <div class="spine">
-    <h1 class="wordmark">TICALASI</h1>
-    <p class="spine-sub">Two Closed Loops · One Living Mesh</p>
-    <p class="spine-cn">建造闭环 · 感知闭环</p>
+    <h1 class="wordmark">TICAL<span class="wm-asi">ASI</span></h1>
+    <p class="spine-sub" data-i18n="tagline">Two Closed Loops · One Living Mesh</p>
+    <div class="spine-rule"></div>
   </div>
 
   <!-- SENSE rail · slides east -->
@@ -438,56 +584,69 @@ footer{
     <div class="rail-fade rail-fade--l"></div>
     <div class="rail-track">
       <div class="rail-group">
-        <article class="card">
-          <div class="card-top"><span class="card-idx">04</span><span class="card-tag">Sense · 感知</span></div>
+        <a class="card" href="https://zishijian.com" target="_blank" rel="noopener">
+          <div class="card-top"><span class="card-idx">04</span><span class="card-tag" data-i18n="tag_sense">Sense</span></div>
           <h3 class="card-name">zishijian</h3>
-          <p class="card-role">Living Network Mirror</p>
-          <p class="card-desc">Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.</p>
+          <p class="card-role" data-i18n="role_zishijian">Living Network Mirror</p>
+          <p class="card-desc" data-i18n="desc_zishijian">Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.</p>
           <p class="card-more">IPS MASKED · NO PAYLOADS · 5 TRACE COLORS</p>
-          <div class="card-status"><span class="dot dot--l"></span>LIVE · 4,500+ ECHOES</div>
-        </article>
+          <div class="card-status"><span class="dot dot--l"></span>LIVE · 4,500+ ECHOES<span class="card-go">↗</span></div>
+        </a>
         <div class="connector"><span>←</span></div>
-        <article class="card">
-          <div class="card-top"><span class="card-idx">05</span><span class="card-tag">Sense · 感知</span></div>
+        <a class="card" href="https://ticalasi.cloud" target="_blank" rel="noopener">
+          <div class="card-top"><span class="card-idx">05</span><span class="card-tag" data-i18n="tag_sense">Sense</span></div>
           <h3 class="card-name">ticalasi.cloud</h3>
-          <p class="card-role">SoulAgent · Identity Protocol</p>
-          <p class="card-desc">Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.</p>
+          <p class="card-role" data-i18n="role_cloud">SoulAgent · Identity Protocol</p>
+          <p class="card-desc" data-i18n="desc_cloud">Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.</p>
           <p class="card-more">LLMS.TXT · AGENTS.JSON · HEARTBEAT + MEMORY</p>
-          <div class="card-status"><span class="dot dot--l"></span>DUAL SURFACE · FREE</div>
-        </article>
+          <div class="card-status"><span class="dot dot--l"></span>DUAL SURFACE · FREE<span class="card-go">↗</span></div>
+        </a>
         <div class="connector"><span>←</span></div>
       </div>
     </div>
     <div class="rail-fade rail-fade--r"></div>
   </div>
 
-  <div class="scroll-hint">SCROLL</div>
+  <!-- STATUS TICKER -->
+  <div class="ticker">
+    <div class="ticker-track">
+      <div class="ticker-group">
+        <span class="ticker-item"><b class="tk-g">TICALCODE.COM</b> LIVE · INVITE-ONLY</span><span class="ticker-sep">///</span>
+        <span class="ticker-item"><b class="tk-g">AGENT-SG</b> v3.2.0 · ISOLATED · ZERO TOKEN LEAK</span><span class="ticker-sep">///</span>
+        <span class="ticker-item"><b class="tk-g">KULONO.COM</b> SELF-HOSTED GIT · GITEA 1.27</span><span class="ticker-sep">///</span>
+        <span class="ticker-item"><b class="tk-l">ZISHIJIAN.COM</b> LIVE · ECHOES 4,500+</span><span class="ticker-sep">///</span>
+        <span class="ticker-item"><b class="tk-l">TICALASI.CLOUD</b> SOULAGENT · FREE</span><span class="ticker-sep">///</span>
+        <span class="ticker-item"><b>MCP</b> 23 TOOLS · KEY-GATED</span><span class="ticker-sep">///</span>
+      </div>
+    </div>
+    <div class="ticker-clock"><span class="dot"></span><span id="utc-clock">UTC --:--:--</span></div>
+  </div>
 </header>
 
 <!-- ══════════ BUILD LOOP ══════════ -->
 <section class="block" id="build">
   <div class="loop-head rv">
-    <span class="loop-label loop-label--g">Loop 01</span>
-    <h2 class="loop-title">The Build Loop</h2>
-    <span class="loop-cn">建造闭环</span>
+    <span class="loop-label loop-label--g" data-i18n="loop1_label">Loop 01</span>
+    <h2 class="loop-title" data-i18n="loop1_title">The Build Loop</h2>
   </div>
-  <p class="loop-lede rv">An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.</p>
+  <p class="loop-lede rv" data-i18n-html="loop1_lede">An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.</p>
 
   <div class="row rv">
     <div>
       <p class="row-idx">01 / 03</p>
       <h3 class="row-name">ticalcode</h3>
-      <p class="row-tag row-tag--g">The Interface</p>
+      <p class="row-tag row-tag--g" data-i18n="r1_tag">The Interface</p>
+      <a class="row-link" href="https://ticalcode.com" target="_blank" rel="noopener">ticalcode.com <span class="rl-arrow">↗</span></a>
     </div>
     <div>
-      <p class="row-desc">A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.</p>
+      <p class="row-desc" data-i18n-html="r1_desc">A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.</p>
       <div class="specs">
-        <div class="spec"><p class="spec-k">Access</p><p class="spec-v spec-v--g">invite-only</p></div>
-        <div class="spec"><p class="spec-k">Auth</p><p class="spec-v">passkey + dual-factor</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_access">Access</p><p class="spec-v spec-v--g">invite-only</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_auth">Auth</p><p class="spec-v">passkey + dual-factor</p></div>
         <div class="spec"><p class="spec-k">MCP</p><p class="spec-v spec-v--b">23 tools · key-gated</p></div>
-        <div class="spec"><p class="spec-k">Data</p><p class="spec-v">Supabase PostgreSQL</p></div>
-        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">ticalcode.com</p></div>
-        <div class="spec"><p class="spec-k">Registration</p><p class="spec-v">invite-code gated</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_data">Data</p><p class="spec-v">Supabase PostgreSQL</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_site">Site</p><p class="spec-v">ticalcode.com</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_reg">Registration</p><p class="spec-v">invite-code gated</p></div>
       </div>
     </div>
   </div>
@@ -496,17 +655,18 @@ footer{
     <div>
       <p class="row-idx">02 / 03</p>
       <h3 class="row-name">tical agent</h3>
-      <p class="row-tag row-tag--g">The Hands</p>
+      <p class="row-tag row-tag--g" data-i18n="r2_tag">The Hands</p>
+      <a class="row-link" href="#paths"><span data-i18n="r2_link">internal plane</span> <span class="rl-arrow">↓</span></a>
     </div>
     <div>
-      <p class="row-desc">The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.</p>
+      <p class="row-desc" data-i18n-html="r2_desc">The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.</p>
       <div class="specs">
-        <div class="spec"><p class="spec-k">Plane</p><p class="spec-v spec-v--g">agent-sg · isolated</p></div>
-        <div class="spec"><p class="spec-k">Network</p><p class="spec-v">none by default</p></div>
-        <div class="spec"><p class="spec-k">Credentials</p><p class="spec-v">host-only</p></div>
-        <div class="spec"><p class="spec-k">Version</p><p class="spec-v spec-v--b">3.2.0</p></div>
-        <div class="spec"><p class="spec-k">Guarantee</p><p class="spec-v">zero token leak</p></div>
-        <div class="spec"><p class="spec-k">Restart</p><p class="spec-v">systemd supervised</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_plane">Plane</p><p class="spec-v spec-v--g">agent-sg · isolated</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_net">Network</p><p class="spec-v">none by default</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_cred">Credentials</p><p class="spec-v">host-only</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_ver">Version</p><p class="spec-v spec-v--b">3.2.0</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_guar">Guarantee</p><p class="spec-v">zero token leak</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_restart">Restart</p><p class="spec-v">systemd supervised</p></div>
       </div>
     </div>
   </div>
@@ -515,17 +675,18 @@ footer{
     <div>
       <p class="row-idx">03 / 03</p>
       <h3 class="row-name">kulono</h3>
-      <p class="row-tag row-tag--g">The Ground Truth</p>
+      <p class="row-tag row-tag--g" data-i18n="r3_tag">The Ground Truth</p>
+      <a class="row-link" href="https://kulono.com" target="_blank" rel="noopener">kulono.com <span class="rl-arrow">↗</span></a>
     </div>
     <div>
-      <p class="row-desc">The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.</p>
+      <p class="row-desc" data-i18n-html="r3_desc">The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.</p>
       <div class="specs">
         <div class="spec"><p class="spec-k">Git</p><p class="spec-v spec-v--g">Gitea 1.27 · self-hosted</p></div>
-        <div class="spec"><p class="spec-k">Hub</p><p class="spec-v">task board + bindings</p></div>
-        <div class="spec"><p class="spec-k">Policy</p><p class="spec-v">agent-default enforced</p></div>
-        <div class="spec"><p class="spec-k">Loop</p><p class="spec-v spec-v--b">ticalcode ↔ kulono</p></div>
-        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">kulono.com</p></div>
-        <div class="spec"><p class="spec-k">Mirror</p><p class="spec-v">git.kulono.com</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_hub">Hub</p><p class="spec-v">task board + bindings</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_policy">Policy</p><p class="spec-v">agent-default enforced</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_loop">Loop</p><p class="spec-v spec-v--b">ticalcode ↔ kulono</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_site">Site</p><p class="spec-v">kulono.com</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_mirror">Mirror</p><p class="spec-v">git.kulono.com</p></div>
       </div>
     </div>
   </div>
@@ -534,27 +695,27 @@ footer{
 <!-- ══════════ SENSE LOOP ══════════ -->
 <section class="block" id="sense">
   <div class="loop-head rv">
-    <span class="loop-label loop-label--l">Loop 02</span>
-    <h2 class="loop-title">The Sense Loop</h2>
-    <span class="loop-cn">感知闭环</span>
+    <span class="loop-label loop-label--l" data-i18n="loop2_label">Loop 02</span>
+    <h2 class="loop-title" data-i18n="loop2_title">The Sense Loop</h2>
   </div>
-  <p class="loop-lede rv">A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.</p>
+  <p class="loop-lede rv" data-i18n-html="loop2_lede">A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.</p>
 
   <div class="row rv">
     <div>
       <p class="row-idx">04 / 05</p>
       <h3 class="row-name">zishijian</h3>
-      <p class="row-tag row-tag--l">The Eyes</p>
+      <p class="row-tag row-tag--l" data-i18n="r4_tag">The Eyes</p>
+      <a class="row-link" href="https://zishijian.com" target="_blank" rel="noopener">zishijian.com <span class="rl-arrow">↗</span></a>
     </div>
     <div>
-      <p class="row-desc">A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.</p>
+      <p class="row-desc" data-i18n-html="r4_desc">A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.</p>
       <div class="specs">
-        <div class="spec"><p class="spec-k">Layers</p><p class="spec-v spec-v--l">echoes + stories</p></div>
-        <div class="spec"><p class="spec-k">Privacy</p><p class="spec-v">IPs masked · no payloads</p></div>
-        <div class="spec"><p class="spec-k">Traces</p><p class="spec-v">5 colors · live classify</p></div>
-        <div class="spec"><p class="spec-k">Feeds</p><p class="spec-v spec-v--b">llms.txt · agent.json</p></div>
-        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">zishijian.com</p></div>
-        <div class="spec"><p class="spec-k">Stories</p><p class="spec-v">no registration</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_layers">Layers</p><p class="spec-v spec-v--l">echoes + stories</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_privacy">Privacy</p><p class="spec-v">IPs masked · no payloads</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_traces">Traces</p><p class="spec-v">5 colors · live classify</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_feeds">Feeds</p><p class="spec-v spec-v--b">llms.txt · agent.json</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_site">Site</p><p class="spec-v">zishijian.com</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_stories">Stories</p><p class="spec-v">no registration</p></div>
       </div>
     </div>
   </div>
@@ -563,17 +724,18 @@ footer{
     <div>
       <p class="row-idx">05 / 05</p>
       <h3 class="row-name">ticalasi.cloud</h3>
-      <p class="row-tag row-tag--l">The Memory</p>
+      <p class="row-tag row-tag--l" data-i18n="r5_tag">The Memory</p>
+      <a class="row-link" href="https://ticalasi.cloud" target="_blank" rel="noopener">ticalasi.cloud <span class="rl-arrow">↗</span></a>
     </div>
     <div>
-      <p class="row-desc">SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.</p>
+      <p class="row-desc" data-i18n-html="r5_desc">SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.</p>
       <div class="specs">
-        <div class="spec"><p class="spec-k">Protocol</p><p class="spec-v spec-v--l">identity · heartbeat · memory</p></div>
-        <div class="spec"><p class="spec-k">Surface</p><p class="spec-v">machine + human</p></div>
-        <div class="spec"><p class="spec-k">Registry</p><p class="spec-v spec-v--b">agents.json · ai-plugin.json</p></div>
-        <div class="spec"><p class="spec-k">Price</p><p class="spec-v">free · self-hosted</p></div>
-        <div class="spec"><p class="spec-k">Site</p><p class="spec-v">ticalasi.cloud</p></div>
-        <div class="spec"><p class="spec-k">Home</p><p class="spec-v">/agent/ identity home</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_proto">Protocol</p><p class="spec-v spec-v--l">identity · heartbeat · memory</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_surface">Surface</p><p class="spec-v">machine + human</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_registry">Registry</p><p class="spec-v spec-v--b">agents.json · ai-plugin.json</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_price">Price</p><p class="spec-v">free · self-hosted</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_site">Site</p><p class="spec-v">ticalasi.cloud</p></div>
+        <div class="spec"><p class="spec-k" data-i18n="sk_home">Home</p><p class="spec-v">/agent/ identity home</p></div>
       </div>
     </div>
   </div>
@@ -582,63 +744,258 @@ footer{
 <!-- ══════════ MESH ══════════ -->
 <section class="block" id="mesh">
   <div class="loop-head rv">
-    <span class="loop-label" style="color:var(--blue);">The Mesh</span>
-    <h2 class="loop-title">One Living Mesh</h2>
-    <span class="loop-cn">网格</span>
+    <span class="loop-label" style="color:var(--blue);" data-i18n="mesh_label">The Mesh</span>
+    <h2 class="loop-title" data-i18n="mesh_title">One Living Mesh</h2>
   </div>
 
   <div class="mesh-wrap rv">
     <div class="mesh-flow">
-      <span class="mesh-rowlabel mesh-rowlabel--g">Build</span>
-      <span class="node node--g">ticalcode</span>
+      <span class="mesh-rowlabel mesh-rowlabel--g" data-i18n="tag_build">Build</span>
+      <a class="node node--g" href="https://ticalcode.com" target="_blank" rel="noopener">ticalcode</a>
       <span class="arrow"></span>
-      <span class="node node--g">tical agent</span>
+      <a class="node node--g" href="#build">tical agent</a>
       <span class="arrow"></span>
-      <span class="node node--g">kulono</span>
+      <a class="node node--g" href="https://kulono.com" target="_blank" rel="noopener">kulono</a>
       <span class="arrow arrow--loop"></span>
       <span class="node node--g" style="opacity:.55;">↺ ticalcode</span>
     </div>
 
     <div class="mesh-bridge">
       <div class="bridge-line"></div>
-      <span class="bridge-label">agents flow · 智能体流动</span>
+      <span class="bridge-label" data-i18n="mesh_bridge">agents flow</span>
       <div class="bridge-line"></div>
     </div>
 
     <div class="mesh-flow">
-      <span class="mesh-rowlabel mesh-rowlabel--l">Sense</span>
-      <span class="node node--l">zishijian</span>
+      <span class="mesh-rowlabel mesh-rowlabel--l" data-i18n="tag_sense">Sense</span>
+      <a class="node node--l" href="https://zishijian.com" target="_blank" rel="noopener">zishijian</a>
       <span class="arrow"></span>
-      <span class="node node--l">ticalasi.cloud</span>
+      <a class="node node--l" href="https://ticalasi.cloud" target="_blank" rel="noopener">ticalasi.cloud</a>
       <span class="arrow arrow--loop"></span>
       <span class="node node--l" style="opacity:.55;">↺ zishijian</span>
     </div>
 
-    <p class="mesh-copy">The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.</p>
+    <p class="mesh-copy" data-i18n-html="mesh_copy">The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.</p>
+  </div>
+</section>
+
+<!-- ══════════ DIRECT PATHS ══════════ -->
+<section class="block" id="paths">
+  <div class="loop-head rv">
+    <span class="loop-label" style="color:var(--blue);" data-i18n="paths_label">Navigation</span>
+    <h2 class="loop-title" data-i18n="paths_title">Direct Paths</h2>
+  </div>
+  <p class="loop-lede rv" data-i18n="paths_lede">Every product in both loops, one hop away.</p>
+
+  <div class="paths-grid rv">
+    <a class="path-tile" href="https://ticalcode.com" target="_blank" rel="noopener">
+      <span class="path-domain">ticalcode.com</span>
+      <span class="path-desc" data-i18n="p_ticalcode">AI coding platform — invite-only, one personal agent per user.</span>
+      <span class="path-foot"><span class="path-eco--g" data-i18n="tag_build">Build</span><span class="path-arrow">↗</span></span>
+    </a>
+    <div class="path-tile path-tile--dim">
+      <span class="path-domain">tical agent</span>
+      <span class="path-desc" data-i18n="p_agent">Execution plane — internal. No public path by design.</span>
+      <span class="path-foot"><span class="path-eco--g" data-i18n="tag_build">Build</span><span class="path-eco--dim" data-i18n="p_internal">INTERNAL</span></span>
+    </div>
+    <a class="path-tile" href="https://kulono.com" target="_blank" rel="noopener">
+      <span class="path-domain">kulono.com</span>
+      <span class="path-desc" data-i18n="p_kulono">Self-hosted Git, task hub, agent bindings &amp; policies.</span>
+      <span class="path-foot"><span class="path-eco--g" data-i18n="tag_build">Build</span><span class="path-arrow">↗</span></span>
+    </a>
+    <a class="path-tile" href="https://zishijian.com" target="_blank" rel="noopener">
+      <span class="path-domain">zishijian.com</span>
+      <span class="path-desc" data-i18n="p_zishijian">Living network mirror — probes become particles.</span>
+      <span class="path-foot"><span class="path-eco--l" data-i18n="tag_sense">Sense</span><span class="path-arrow">↗</span></span>
+    </a>
+    <a class="path-tile" href="https://ticalasi.cloud" target="_blank" rel="noopener">
+      <span class="path-domain">ticalasi.cloud</span>
+      <span class="path-desc" data-i18n="p_cloud">SoulAgent — identity, heartbeat &amp; memory for agents.</span>
+      <span class="path-foot"><span class="path-eco--l" data-i18n="tag_sense">Sense</span><span class="path-arrow">↗</span></span>
+    </a>
+  </div>
+</section>
+
+<!-- ══════════ INVESTMENT NOTICE ══════════ -->
+<section class="block" id="invest">
+  <div class="invest-panel rv">
+    <p class="invest-tag" data-i18n="invest_tag">Formal Notice</p>
+    <h2 class="invest-title" data-i18n="invest_title">Investment Inquiry Notice</h2>
+    <p class="invest-intro" data-i18n="invest_intro">Ticalasi welcomes serious, long-term partnership and investment inquiries. Before contacting us, please note the following:</p>
+    <ol class="invest-list">
+      <li data-i18n="inv1">Nothing on this website constitutes an offer to sell, or a solicitation of an offer to buy, any security, equity, or financial instrument. No investment opportunity is being marketed to the public through this site.</li>
+      <li data-i18n="inv2">Any financing, if and when undertaken, will be conducted privately with qualified counterparties in compliance with applicable securities laws, and will not be arranged through this website or unsolicited channels.</li>
+      <li data-i18n="inv3">Content on this page is provided for informational purposes only and does not constitute investment, financial, legal, or tax advice.</li>
+      <li data-i18n="inv4">Statements regarding future plans, products, or performance are forward-looking and involve substantial risk. Prior development activity is no guarantee of future results.</li>
+      <li data-i18n="inv5">We do not accept unsolicited funds, cryptocurrency transfers, or escrow arrangements initiated through public channels.</li>
+    </ol>
+    <div class="invest-contact">
+      <span class="invest-contact-label" data-i18n="invest_contact">Formal inquiries</span>
+      <a class="invest-email" href="mailto:zizetu@ticalasi.com">zizetu@ticalasi.com</a>
+    </div>
+    <p class="invest-note" data-i18n="invest_note">We reply to qualified inquiries only. This notice shall be governed by and construed in accordance with applicable securities regulations.</p>
   </div>
 </section>
 
 <footer>
-  <p class="foot-l">Ticalasi © 2026 · Self-hosted · No frameworks · No trackers</p>
+  <p class="foot-l" data-i18n="foot_left">Ticalasi © 2026 · Self-hosted · No frameworks · No trackers</p>
   <p class="foot-r">
     <a href="https://ticalcode.com">ticalcode</a>
     <a href="https://kulono.com">kulono</a>
     <a href="https://zishijian.com">zishijian</a>
     <a href="https://ticalasi.cloud">ticalasi.cloud</a>
+    <a class="foot-mail" href="mailto:zizetu@ticalasi.com">zizetu@ticalasi.com</a>
   </p>
 </footer>
 
 <script>
-/* seamless rail loop — duplicate each track once, then translateX(-50%) */
-document.querySelectorAll('.rail-track').forEach(function(t){ t.innerHTML += t.innerHTML; });
+/* ── seamless loops ── */
+document.querySelectorAll('.rail-track, .ticker-track').forEach(function(t){ t.innerHTML += t.innerHTML; });
 
-/* scroll reveal */
+/* ── scroll reveal ── */
 var io = new IntersectionObserver(function(entries){
   entries.forEach(function(e){
     if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
   });
 },{ threshold: 0.12 });
 document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+
+/* ── live UTC clock ── */
+function tick(){
+  var d = new Date();
+  var p = function(n){ return String(n).padStart(2,'0'); };
+  var el = document.getElementById('utc-clock');
+  if(el) el.textContent = 'UTC ' + d.getUTCFullYear() + '-' + p(d.getUTCMonth()+1) + '-' + p(d.getUTCDate()) + ' ' + p(d.getUTCHours()) + ':' + p(d.getUTCMinutes()) + ':' + p(d.getUTCSeconds());
+}
+tick(); setInterval(tick, 1000);
+
+/* ── i18n ── */
+var I18N = {
+  en: {
+    nav_build:'Build', nav_sense:'Sense', nav_paths:'Paths', nav_invest:'Invest',
+    tag_build:'Build', tag_sense:'Sense',
+    role_ticalcode:'AI Coding Platform', role_agent:'Execution Plane', role_kulono:'Source of Truth',
+    role_zishijian:'Living Network Mirror', role_cloud:'SoulAgent · Identity Protocol',
+    desc_ticalcode:'Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.',
+    desc_agent:'Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.',
+    desc_kulono:'Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.',
+    desc_zishijian:'Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.',
+    desc_cloud:'Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.',
+    tagline:'Two Closed Loops · One Living Mesh',
+    loop1_label:'Loop 01', loop1_title:'The Build Loop',
+    loop1_lede:'An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.',
+    r1_tag:'The Interface',
+    r1_desc:'A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.',
+    r2_tag:'The Hands',
+    r2_desc:'The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.',
+    r2_link:'internal plane',
+    r3_tag:'The Ground Truth',
+    r3_desc:'The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.',
+    loop2_label:'Loop 02', loop2_title:'The Sense Loop',
+    loop2_lede:'A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.',
+    r4_tag:'The Eyes',
+    r4_desc:'A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.',
+    r5_tag:'The Memory',
+    r5_desc:'SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.',
+    mesh_label:'The Mesh', mesh_title:'One Living Mesh', mesh_bridge:'agents flow',
+    mesh_copy:'The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.',
+    paths_label:'Navigation', paths_title:'Direct Paths', paths_lede:'Every product in both loops, one hop away.',
+    p_ticalcode:'AI coding platform — invite-only, one personal agent per user.',
+    p_agent:'Execution plane — internal. No public path by design.',
+    p_kulono:'Self-hosted Git, task hub, agent bindings & policies.',
+    p_zishijian:'Living network mirror — probes become particles.',
+    p_cloud:'SoulAgent — identity, heartbeat & memory for agents.',
+    p_internal:'INTERNAL',
+    invest_tag:'Formal Notice', invest_title:'Investment Inquiry Notice',
+    invest_intro:'Ticalasi welcomes serious, long-term partnership and investment inquiries. Before contacting us, please note the following:',
+    inv1:'Nothing on this website constitutes an offer to sell, or a solicitation of an offer to buy, any security, equity, or financial instrument. No investment opportunity is being marketed to the public through this site.',
+    inv2:'Any financing, if and when undertaken, will be conducted privately with qualified counterparties in compliance with applicable securities laws, and will not be arranged through this website or unsolicited channels.',
+    inv3:'Content on this page is provided for informational purposes only and does not constitute investment, financial, legal, or tax advice.',
+    inv4:'Statements regarding future plans, products, or performance are forward-looking and involve substantial risk. Prior development activity is no guarantee of future results.',
+    inv5:'We do not accept unsolicited funds, cryptocurrency transfers, or escrow arrangements initiated through public channels.',
+    invest_contact:'Formal inquiries',
+    invest_note:'We reply to qualified inquiries only. This notice shall be governed by and construed in accordance with applicable securities regulations.',
+    foot_left:'Ticalasi © 2026 · Self-hosted · No frameworks · No trackers',
+    sk_access:'Access', sk_auth:'Auth', sk_data:'Data', sk_site:'Site', sk_reg:'Registration',
+    sk_plane:'Plane', sk_net:'Network', sk_cred:'Credentials', sk_ver:'Version', sk_guar:'Guarantee', sk_restart:'Restart',
+    sk_hub:'Hub', sk_policy:'Policy', sk_loop:'Loop', sk_mirror:'Mirror',
+    sk_layers:'Layers', sk_privacy:'Privacy', sk_traces:'Traces', sk_feeds:'Feeds', sk_stories:'Stories',
+    sk_proto:'Protocol', sk_surface:'Surface', sk_registry:'Registry', sk_price:'Price', sk_home:'Home'
+  },
+  zh: {
+    nav_build:'建造', nav_sense:'感知', nav_paths:'路径', nav_invest:'投资',
+    tag_build:'建造', tag_sense:'感知',
+    role_ticalcode:'AI 编码平台', role_agent:'执行平面', role_kulono:'事实之源',
+    role_zishijian:'活体网络镜像', role_cloud:'SoulAgent · 身份协议',
+    desc_ticalcode:'邀请制工作区。每位用户拥有一个专属智能体——写代码、跑任务、交付成果。一个智能体，一个用户，绝不共享。',
+    desc_agent:'隔离计算平面。每个智能体运行在独立容器中——默认断网，凭证永不出宿主机。',
+    desc_kulono:'自托管开发网格——Git、任务中枢、智能体绑定与策略。建造闭环的落点，尽在自有硬件。',
+    desc_zishijian:'每一次探测都成为一颗粒子。爬虫、扫描器、蠕虫、静默脚本——在别处是噪音，在这里是作者。',
+    desc_cloud:'智能体是居民，不是 API 调用。身份、心跳与分层记忆，藏在双面之后——机器读协议，人类掌控制台。',
+    tagline:'双闭环 · 活网格',
+    loop1_label:'闭环 01', loop1_title:'建造闭环',
+    loop1_lede:'想法进入 ticalcode，智能体在隔离平面上执行，成果提交至事实之源——而事实又喂养下一次建造。一切都不离开闭环。',
+    r1_tag:'界面',
+    r1_desc:'暗色极简的工作区：你不是<em>旁边</em>站着一个智能体，而是<em>与它一起</em>建造。邀请制 + Passkey 保护——每个账号恰好拥有一个专属智能体，在 PostgreSQL 中有自己的一行，有自己的执行预算。',
+    r2_tag:'双手',
+    r2_desc:'专用隔离计算节点上的执行平面。每个智能体运行在独立容器中，<em>默认断网</em>，凭证只存在于宿主机——不注入、不泄漏。所有容器已验证零令牌暴露。',
+    r2_link:'内部平面',
+    r3_tag:'事实之源',
+    r3_desc:'自托管开发网格：Git 托管、任务中枢、智能体绑定与强制策略——<em>全部在自有硬件上</em>。闭环产出的每个提交都落在这里，闭环遵守的每条策略都从这里读取。',
+    loop2_label:'闭环 02', loop2_title:'感知闭环',
+    loop2_lede:'新站点首先遇见的是机器世界。感知闭环注视这场相遇，把它变成活的内容，并为每个路过的智能体赋予一个可以保留的名字。',
+    r4_tag:'眼睛',
+    r4_desc:'网络的活体镜像。每一次探测都成为<em>一颗粒子和一行日记</em>——攻击是红色冲击波，爬虫是蓝色雷达，人类留下绿色轨迹。IP 打码，载荷不存，蜜罐吸收扫描器。这是展览，不是军火库。',
+    r5_tag:'记忆',
+    r5_desc:'SoulAgent——一套身份协议：智能体是<em>居民，不是 API 调用</em>。身份、心跳与分层记忆，藏在双面之后：机器读 llms.txt 与注册表，人类掌控制台。子时间看见谁来了，SoulAgent 记住你是谁。',
+    mesh_label:'网格', mesh_title:'一张活网格', mesh_bridge:'智能体流动',
+    mesh_copy:'建造闭环<em>制造智能体</em>，感知闭环<em>赋予它们名字</em>。ticalcode 把任务交给 tical agent，tical agent 提交到 kulono，kulono 喂养下一次建造。而每个出厂的智能体，都会被子时间看见、被 ticalasi.cloud 记住——两个闭环，一张活网格。',
+    paths_label:'导航', paths_title:'直达路径', paths_lede:'两个闭环里的每个产品，一步直达。',
+    p_ticalcode:'AI 编码平台——邀请制，一人一个专属智能体。',
+    p_agent:'执行平面——内部组件，设计上无公开路径。',
+    p_kulono:'自托管 Git、任务中枢、智能体绑定与策略。',
+    p_zishijian:'活体网络镜像——探测即粒子。',
+    p_cloud:'SoulAgent——智能体的身份、心跳与记忆。',
+    p_internal:'内部',
+    invest_tag:'正式公告', invest_title:'投资问询公告',
+    invest_intro:'Ticalasi 欢迎严肃、长期的合作与投资问询。联系我们前，请留意以下事项：',
+    inv1:'本网站任何内容均不构成出售证券、股权或金融工具的要约，亦不构成对该等要约的邀请或招揽。本站不面向公众推介任何投资机会。',
+    inv2:'任何融资（如有）将以非公开方式进行，面向符合适用证券法律法规的合格对手方，不会通过本网站或非主动渠道安排。',
+    inv3:'本页内容仅供参考，不构成投资建议、财务建议、法律建议或税务建议。',
+    inv4:'关于未来计划、产品或业绩的表述均为前瞻性陈述，存在重大风险。过往开发活动不构成对未来结果的保证。',
+    inv5:'我们不通过公开渠道接受非主动资金、加密货币转账或托管安排。',
+    invest_contact:'正式问询',
+    invest_note:'我们仅回复合格的问询。本公告受适用证券监管规则管辖并依其解释。',
+    foot_left:'Ticalasi © 2026 · 自托管 · 无框架 · 无追踪',
+    sk_access:'访问', sk_auth:'认证', sk_data:'数据', sk_site:'站点', sk_reg:'注册',
+    sk_plane:'平面', sk_net:'网络', sk_cred:'凭证', sk_ver:'版本', sk_guar:'保证', sk_restart:'重启',
+    sk_hub:'中枢', sk_policy:'策略', sk_loop:'闭环', sk_mirror:'镜像',
+    sk_layers:'层级', sk_privacy:'隐私', sk_traces:'轨迹', sk_feeds:'投喂', sk_stories:'故事',
+    sk_proto:'协议', sk_surface:'界面', sk_registry:'注册表', sk_price:'价格', sk_home:'主页'
+  }
+};
+
+function setLang(lang){
+  document.documentElement.lang = (lang === 'zh') ? 'zh-CN' : 'en';
+  document.querySelectorAll('[data-i18n]').forEach(function(el){
+    var k = el.getAttribute('data-i18n');
+    if(I18N[lang] && I18N[lang][k] != null) el.textContent = I18N[lang][k];
+  });
+  document.querySelectorAll('[data-i18n-html]').forEach(function(el){
+    var k = el.getAttribute('data-i18n-html');
+    if(I18N[lang] && I18N[lang][k] != null) el.innerHTML = I18N[lang][k];
+  });
+  document.querySelectorAll('.lang-btn').forEach(function(b){
+    b.classList.toggle('active', b.getAttribute('data-lang') === lang);
+  });
+  try{ localStorage.setItem('ticalasi-lang', lang); }catch(e){}
+}
+document.querySelectorAll('.lang-btn').forEach(function(b){
+  b.addEventListener('click', function(){ setLang(b.getAttribute('data-lang')); });
+});
+var saved = null;
+try{ saved = localStorage.getItem('ticalasi-lang'); }catch(e){}
+setLang(saved === 'zh' ? 'zh' : 'en');
 </script>
 </body>
 </html>
