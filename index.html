@@ -6,15 +6,72 @@
 <meta name="color-scheme" content="dark">
 <title>Ticalasi — Two Closed Loops, One Living Mesh</title>
 <meta name="description" content="Ticalasi builds two closed loops: the build loop (ticalcode · tical agent · kulono) and the sense loop (zishijian · ticalasi.cloud SoulAgent). Self-hosted. No frameworks. No trackers.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="en" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="zh" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="ja" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="ko" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="es" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="fr" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="de" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="ru" href="https://ticalasi.com/">
+<link rel="alternate" hreflang="x-default" href="https://ticalasi.com/">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='4' y='10' width='24' height='2' fill='%23c8960a'/%3E%3Crect x='4' y='20' width='24' height='2' fill='%23148c50'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Ticalasi",
+  "url": "https://ticalasi.com/",
+  "email": "zizetu@ticalasi.com",
+  "description": "Ticalasi builds two closed loops: the build loop (ticalcode, tical agent, kulono) and the sense loop (zishijian, ticalasi.cloud SoulAgent).",
+  "subOrganization": [
+    {
+      "@type": "Product",
+      "name": "ticalcode",
+      "url": "https://ticalcode.com",
+      "description": "Invite-only AI coding platform. One personal agent per user, passkey auth, MCP with 23 tools, Supabase PostgreSQL.",
+      "category": "AI Coding Platform"
+    },
+    {
+      "@type": "Product",
+      "name": "tical agent",
+      "description": "Isolated execution plane. Each agent runs in its own container with network off by default and host-only credentials. Zero token leak.",
+      "category": "Execution Plane",
+      "softwareVersion": "3.2.0"
+    },
+    {
+      "@type": "Product",
+      "name": "kulono",
+      "url": "https://kulono.com",
+      "description": "Self-hosted dev mesh: Gitea 1.27 Git hosting, task hub, agent bindings, enforcement policies on owned metal.",
+      "category": "Source of Truth"
+    },
+    {
+      "@type": "Product",
+      "name": "zishijian",
+      "url": "https://zishijian.com",
+      "description": "Living network mirror. Every probe becomes a particle: attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs masked, no payloads stored.",
+      "category": "Living Network Mirror"
+    },
+    {
+      "@type": "Product",
+      "name": "ticalasi.cloud SoulAgent",
+      "url": "https://ticalasi.cloud",
+      "description": "Agent identity protocol: identity, heartbeat, hierarchical memory. Dual surface — machine reads llms.txt and the registry, human runs the control plane. Free and self-hosted.",
+      "category": "Identity Protocol"
+    }
+  ]
+}
+</script>
 <style>
 /* ═══════════════════════════════════════════════════════════
-   TICALASI — DUAL RAIL · v2
-   build loop slides west · sense loop slides east
-   EN / 中文 toggle · direct paths · investment notice
+   TICALASI — DUAL RAIL · v3
+   draggable rails · 8 languages · AI-first machine surface
    dark minimal · Inter + JetBrains Mono · zero frameworks
    ═══════════════════════════════════════════════════════════ */
 :root{
@@ -85,15 +142,36 @@ nav{
 .nav-links a.g:hover{color:var(--gold);}
 .nav-links a.l:hover{color:var(--lono);}
 .nav-links a.i:hover{color:var(--blue);}
-.lang{display:flex;align-items:center;gap:6px;border:1px solid var(--border);padding:4px 8px;}
+
+/* language dropdown */
+.lang{position:relative;}
 .lang-btn{
-  background:none;border:none;cursor:pointer;
-  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.12em;
-  color:var(--dim);padding:2px 4px;transition:color .25s;
+  display:flex;align-items:center;gap:8px;
+  background:none;border:1px solid var(--border);cursor:pointer;
+  font-family:var(--mono);font-size:0.55rem;letter-spacing:0.14em;
+  color:var(--text);padding:6px 10px;transition:border-color .25s;
 }
-.lang-btn:hover{color:var(--text);}
-.lang-btn.active{color:var(--gold);}
-.lang-sep{color:#333;font-family:var(--mono);font-size:0.55rem;}
+.lang-btn:hover{border-color:#3a3a3a;}
+.lang-btn .lang-caret{color:var(--dim);font-size:0.5rem;transition:transform .25s;}
+.lang.open .lang-btn .lang-caret{transform:rotate(180deg);}
+.lang-menu{
+  position:absolute;top:calc(100% + 6px);right:0;min-width:130px;
+  background:var(--surface);border:1px solid var(--border);
+  opacity:0;visibility:hidden;transform:translateY(-4px);
+  transition:opacity .2s,transform .2s,visibility .2s;
+  z-index:110;
+}
+.lang.open .lang-menu{opacity:1;visibility:visible;transform:translateY(0);}
+.lang-menu button{
+  display:flex;align-items:center;justify-content:space-between;gap:14px;
+  width:100%;background:none;border:none;cursor:pointer;
+  font-family:var(--mono);font-size:0.58rem;letter-spacing:0.12em;
+  color:var(--dim);padding:9px 12px;text-align:left;
+  transition:background .2s,color .2s;
+}
+.lang-menu button:hover{background:var(--surface2);color:var(--text);}
+.lang-menu button.active{color:var(--gold);}
+.lang-menu button.active::after{content:'✓';color:var(--gold);font-size:0.55rem;}
 
 /* ── OPENER : DUAL RAIL ──────────────────────────────────── */
 .opener{
@@ -121,18 +199,19 @@ nav{
   position:relative;z-index:1;
   display:flex;align-items:stretch;
   width:max-content;height:100%;
-  animation:rail-west 46s linear infinite;
+  will-change:transform;
+  touch-action:pan-y;
+  cursor:grab;
 }
-.rail--sense .rail-track{animation-direction:reverse;}
-@keyframes rail-west{from{transform:translateX(0);}to{transform:translateX(-50%);}}
-.rail:hover .rail-track{animation-play-state:paused;}
+.rail-track.dragging{cursor:grabbing;}
+.rail-track.dragging a{pointer-events:none;}
 .rail-group{display:flex;align-items:stretch;height:100%;}
 
 .rail-fade{position:absolute;top:0;bottom:0;width:clamp(48px,9vw,140px);z-index:2;pointer-events:none;}
 .rail-fade--l{left:0;background:linear-gradient(90deg,var(--bg),transparent);}
 .rail-fade--r{right:0;background:linear-gradient(-90deg,var(--bg),transparent);}
 
-/* cards riding the rail — clickable */
+/* cards riding the rail */
 .card{
   flex-shrink:0;
   width:clamp(288px,29vw,410px);
@@ -140,7 +219,7 @@ nav{
   border-left:2px solid var(--faint);
   display:flex;flex-direction:column;justify-content:center;gap:9px;
   transition:background .35s,border-color .35s,transform .35s;
-  text-decoration:none;cursor:pointer;
+  text-decoration:none;cursor:grab;
 }
 .rail--build .card{border-left-color:var(--gold-soft);}
 .rail--sense .card{border-left-color:var(--lono-soft);}
@@ -239,9 +318,8 @@ nav{
 }
 .ticker-track{
   display:flex;align-items:center;width:max-content;
-  animation:rail-west 60s linear infinite;
+  will-change:transform;
 }
-.ticker:hover .ticker-track{animation-play-state:paused;}
 .ticker-group{display:flex;align-items:center;}
 .ticker-item{
   font-family:var(--mono);font-size:0.55rem;letter-spacing:0.14em;
@@ -507,7 +585,7 @@ footer{
   .invest-list li{padding-left:40px;}
 }
 @media (prefers-reduced-motion:reduce){
-  .rail-track,.ticker-track,.dot,.arrow,.rail::before{animation:none !important;}
+  .dot,.arrow,.rail::before{animation:none !important;}
   .rv{opacity:1;transform:none;transition:none;}
   html{scroll-behavior:auto;}
 }
@@ -524,10 +602,20 @@ footer{
       <a href="#paths" data-i18n="nav_paths">Paths</a>
       <a class="i" href="#invest" data-i18n="nav_invest">Invest</a>
     </div>
-    <div class="lang">
-      <button class="lang-btn active" data-lang="en" type="button">EN</button>
-      <span class="lang-sep">/</span>
-      <button class="lang-btn" data-lang="zh" type="button">中文</button>
+    <div class="lang" id="lang">
+      <button class="lang-btn" id="lang-btn" type="button" aria-haspopup="true" aria-expanded="false">
+        <span id="lang-label">EN</span><span class="lang-caret">▾</span>
+      </button>
+      <div class="lang-menu" id="lang-menu" role="menu">
+        <button type="button" role="menuitem" data-lang="en">English</button>
+        <button type="button" role="menuitem" data-lang="zh">中文</button>
+        <button type="button" role="menuitem" data-lang="ja">日本語</button>
+        <button type="button" role="menuitem" data-lang="ko">한국어</button>
+        <button type="button" role="menuitem" data-lang="es">Español</button>
+        <button type="button" role="menuitem" data-lang="fr">Français</button>
+        <button type="button" role="menuitem" data-lang="de">Deutsch</button>
+        <button type="button" role="menuitem" data-lang="ru">Русский</button>
+      </div>
     </div>
   </div>
 </nav>
@@ -535,10 +623,10 @@ footer{
 <!-- ══════════ OPENER · DUAL RAIL ══════════ -->
 <header class="opener" id="top">
 
-  <!-- BUILD rail · slides west -->
+  <!-- BUILD rail · draggable, auto-drifts west -->
   <div class="rail rail--build">
     <div class="rail-fade rail-fade--l"></div>
-    <div class="rail-track">
+    <div class="rail-track" data-dir="-1">
       <div class="rail-group">
         <a class="card" href="https://ticalcode.com" target="_blank" rel="noopener">
           <div class="card-top"><span class="card-idx">01</span><span class="card-tag" data-i18n="tag_build">Build</span></div>
@@ -579,10 +667,10 @@ footer{
     <div class="spine-rule"></div>
   </div>
 
-  <!-- SENSE rail · slides east -->
+  <!-- SENSE rail · draggable, auto-drifts east -->
   <div class="rail rail--sense">
     <div class="rail-fade rail-fade--l"></div>
-    <div class="rail-track">
+    <div class="rail-track" data-dir="1">
       <div class="rail-group">
         <a class="card" href="https://zishijian.com" target="_blank" rel="noopener">
           <div class="card-top"><span class="card-idx">04</span><span class="card-tag" data-i18n="tag_sense">Sense</span></div>
@@ -609,7 +697,7 @@ footer{
 
   <!-- STATUS TICKER -->
   <div class="ticker">
-    <div class="ticker-track">
+    <div class="ticker-track" data-dir="-1" data-speed="0.5">
       <div class="ticker-group">
         <span class="ticker-item"><b class="tk-g">TICALCODE.COM</b> LIVE · INVITE-ONLY</span><span class="ticker-sep">///</span>
         <span class="ticker-item"><b class="tk-g">AGENT-SG</b> v3.2.0 · ISOLATED · ZERO TOKEN LEAK</span><span class="ticker-sep">///</span>
@@ -849,153 +937,583 @@ footer{
 </footer>
 
 <script>
-/* ── seamless loops ── */
-document.querySelectorAll('.rail-track, .ticker-track').forEach(function(t){ t.innerHTML += t.innerHTML; });
+/* ═══════════════════════════════════════════════════════════
+   ENGINE · v3
+   1. seamless duplication of every track
+   2. rAF drift + pointer/touch drag with inertia
+   3. 8-language i18n (EN home)
+   4. live UTC clock
+   ═══════════════════════════════════════════════════════════ */
+(function(){
+  'use strict';
 
-/* ── scroll reveal ── */
-var io = new IntersectionObserver(function(entries){
-  entries.forEach(function(e){
-    if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
+  /* ── duplicate tracks for seamless wrap ── */
+  document.querySelectorAll('.rail-track, .ticker-track').forEach(function(t){
+    t.innerHTML += t.innerHTML;
   });
-},{ threshold: 0.12 });
-document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
 
-/* ── live UTC clock ── */
-function tick(){
-  var d = new Date();
-  var p = function(n){ return String(n).padStart(2,'0'); };
-  var el = document.getElementById('utc-clock');
-  if(el) el.textContent = 'UTC ' + d.getUTCFullYear() + '-' + p(d.getUTCMonth()+1) + '-' + p(d.getUTCDate()) + ' ' + p(d.getUTCHours()) + ':' + p(d.getUTCMinutes()) + ':' + p(d.getUTCSeconds());
-}
-tick(); setInterval(tick, 1000);
+  /* ── scroll reveal ── */
+  var io = new IntersectionObserver(function(entries){
+    entries.forEach(function(e){
+      if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); }
+    });
+  },{ threshold: 0.12 });
+  document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
 
-/* ── i18n ── */
-var I18N = {
-  en: {
-    nav_build:'Build', nav_sense:'Sense', nav_paths:'Paths', nav_invest:'Invest',
-    tag_build:'Build', tag_sense:'Sense',
-    role_ticalcode:'AI Coding Platform', role_agent:'Execution Plane', role_kulono:'Source of Truth',
-    role_zishijian:'Living Network Mirror', role_cloud:'SoulAgent · Identity Protocol',
-    desc_ticalcode:'Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.',
-    desc_agent:'Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.',
-    desc_kulono:'Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.',
-    desc_zishijian:'Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.',
-    desc_cloud:'Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.',
-    tagline:'Two Closed Loops · One Living Mesh',
-    loop1_label:'Loop 01', loop1_title:'The Build Loop',
-    loop1_lede:'An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.',
-    r1_tag:'The Interface',
-    r1_desc:'A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.',
-    r2_tag:'The Hands',
-    r2_desc:'The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.',
-    r2_link:'internal plane',
-    r3_tag:'The Ground Truth',
-    r3_desc:'The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.',
-    loop2_label:'Loop 02', loop2_title:'The Sense Loop',
-    loop2_lede:'A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.',
-    r4_tag:'The Eyes',
-    r4_desc:'A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.',
-    r5_tag:'The Memory',
-    r5_desc:'SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.',
-    mesh_label:'The Mesh', mesh_title:'One Living Mesh', mesh_bridge:'agents flow',
-    mesh_copy:'The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.',
-    paths_label:'Navigation', paths_title:'Direct Paths', paths_lede:'Every product in both loops, one hop away.',
-    p_ticalcode:'AI coding platform — invite-only, one personal agent per user.',
-    p_agent:'Execution plane — internal. No public path by design.',
-    p_kulono:'Self-hosted Git, task hub, agent bindings & policies.',
-    p_zishijian:'Living network mirror — probes become particles.',
-    p_cloud:'SoulAgent — identity, heartbeat & memory for agents.',
-    p_internal:'INTERNAL',
-    invest_tag:'Formal Notice', invest_title:'Investment Inquiry Notice',
-    invest_intro:'Ticalasi welcomes serious, long-term partnership and investment inquiries. Before contacting us, please note the following:',
-    inv1:'Nothing on this website constitutes an offer to sell, or a solicitation of an offer to buy, any security, equity, or financial instrument. No investment opportunity is being marketed to the public through this site.',
-    inv2:'Any financing, if and when undertaken, will be conducted privately with qualified counterparties in compliance with applicable securities laws, and will not be arranged through this website or unsolicited channels.',
-    inv3:'Content on this page is provided for informational purposes only and does not constitute investment, financial, legal, or tax advice.',
-    inv4:'Statements regarding future plans, products, or performance are forward-looking and involve substantial risk. Prior development activity is no guarantee of future results.',
-    inv5:'We do not accept unsolicited funds, cryptocurrency transfers, or escrow arrangements initiated through public channels.',
-    invest_contact:'Formal inquiries',
-    invest_note:'We reply to qualified inquiries only. This notice shall be governed by and construed in accordance with applicable securities regulations.',
-    foot_left:'Ticalasi © 2026 · Self-hosted · No frameworks · No trackers',
-    sk_access:'Access', sk_auth:'Auth', sk_data:'Data', sk_site:'Site', sk_reg:'Registration',
-    sk_plane:'Plane', sk_net:'Network', sk_cred:'Credentials', sk_ver:'Version', sk_guar:'Guarantee', sk_restart:'Restart',
-    sk_hub:'Hub', sk_policy:'Policy', sk_loop:'Loop', sk_mirror:'Mirror',
-    sk_layers:'Layers', sk_privacy:'Privacy', sk_traces:'Traces', sk_feeds:'Feeds', sk_stories:'Stories',
-    sk_proto:'Protocol', sk_surface:'Surface', sk_registry:'Registry', sk_price:'Price', sk_home:'Home'
-  },
-  zh: {
-    nav_build:'建造', nav_sense:'感知', nav_paths:'路径', nav_invest:'投资',
-    tag_build:'建造', tag_sense:'感知',
-    role_ticalcode:'AI 编码平台', role_agent:'执行平面', role_kulono:'事实之源',
-    role_zishijian:'活体网络镜像', role_cloud:'SoulAgent · 身份协议',
-    desc_ticalcode:'邀请制工作区。每位用户拥有一个专属智能体——写代码、跑任务、交付成果。一个智能体，一个用户，绝不共享。',
-    desc_agent:'隔离计算平面。每个智能体运行在独立容器中——默认断网，凭证永不出宿主机。',
-    desc_kulono:'自托管开发网格——Git、任务中枢、智能体绑定与策略。建造闭环的落点，尽在自有硬件。',
-    desc_zishijian:'每一次探测都成为一颗粒子。爬虫、扫描器、蠕虫、静默脚本——在别处是噪音，在这里是作者。',
-    desc_cloud:'智能体是居民，不是 API 调用。身份、心跳与分层记忆，藏在双面之后——机器读协议，人类掌控制台。',
-    tagline:'双闭环 · 活网格',
-    loop1_label:'闭环 01', loop1_title:'建造闭环',
-    loop1_lede:'想法进入 ticalcode，智能体在隔离平面上执行，成果提交至事实之源——而事实又喂养下一次建造。一切都不离开闭环。',
-    r1_tag:'界面',
-    r1_desc:'暗色极简的工作区：你不是<em>旁边</em>站着一个智能体，而是<em>与它一起</em>建造。邀请制 + Passkey 保护——每个账号恰好拥有一个专属智能体，在 PostgreSQL 中有自己的一行，有自己的执行预算。',
-    r2_tag:'双手',
-    r2_desc:'专用隔离计算节点上的执行平面。每个智能体运行在独立容器中，<em>默认断网</em>，凭证只存在于宿主机——不注入、不泄漏。所有容器已验证零令牌暴露。',
-    r2_link:'内部平面',
-    r3_tag:'事实之源',
-    r3_desc:'自托管开发网格：Git 托管、任务中枢、智能体绑定与强制策略——<em>全部在自有硬件上</em>。闭环产出的每个提交都落在这里，闭环遵守的每条策略都从这里读取。',
-    loop2_label:'闭环 02', loop2_title:'感知闭环',
-    loop2_lede:'新站点首先遇见的是机器世界。感知闭环注视这场相遇，把它变成活的内容，并为每个路过的智能体赋予一个可以保留的名字。',
-    r4_tag:'眼睛',
-    r4_desc:'网络的活体镜像。每一次探测都成为<em>一颗粒子和一行日记</em>——攻击是红色冲击波，爬虫是蓝色雷达，人类留下绿色轨迹。IP 打码，载荷不存，蜜罐吸收扫描器。这是展览，不是军火库。',
-    r5_tag:'记忆',
-    r5_desc:'SoulAgent——一套身份协议：智能体是<em>居民，不是 API 调用</em>。身份、心跳与分层记忆，藏在双面之后：机器读 llms.txt 与注册表，人类掌控制台。子时间看见谁来了，SoulAgent 记住你是谁。',
-    mesh_label:'网格', mesh_title:'一张活网格', mesh_bridge:'智能体流动',
-    mesh_copy:'建造闭环<em>制造智能体</em>，感知闭环<em>赋予它们名字</em>。ticalcode 把任务交给 tical agent，tical agent 提交到 kulono，kulono 喂养下一次建造。而每个出厂的智能体，都会被子时间看见、被 ticalasi.cloud 记住——两个闭环，一张活网格。',
-    paths_label:'导航', paths_title:'直达路径', paths_lede:'两个闭环里的每个产品，一步直达。',
-    p_ticalcode:'AI 编码平台——邀请制，一人一个专属智能体。',
-    p_agent:'执行平面——内部组件，设计上无公开路径。',
-    p_kulono:'自托管 Git、任务中枢、智能体绑定与策略。',
-    p_zishijian:'活体网络镜像——探测即粒子。',
-    p_cloud:'SoulAgent——智能体的身份、心跳与记忆。',
-    p_internal:'内部',
-    invest_tag:'正式公告', invest_title:'投资问询公告',
-    invest_intro:'Ticalasi 欢迎严肃、长期的合作与投资问询。联系我们前，请留意以下事项：',
-    inv1:'本网站任何内容均不构成出售证券、股权或金融工具的要约，亦不构成对该等要约的邀请或招揽。本站不面向公众推介任何投资机会。',
-    inv2:'任何融资（如有）将以非公开方式进行，面向符合适用证券法律法规的合格对手方，不会通过本网站或非主动渠道安排。',
-    inv3:'本页内容仅供参考，不构成投资建议、财务建议、法律建议或税务建议。',
-    inv4:'关于未来计划、产品或业绩的表述均为前瞻性陈述，存在重大风险。过往开发活动不构成对未来结果的保证。',
-    inv5:'我们不通过公开渠道接受非主动资金、加密货币转账或托管安排。',
-    invest_contact:'正式问询',
-    invest_note:'我们仅回复合格的问询。本公告受适用证券监管规则管辖并依其解释。',
-    foot_left:'Ticalasi © 2026 · 自托管 · 无框架 · 无追踪',
-    sk_access:'访问', sk_auth:'认证', sk_data:'数据', sk_site:'站点', sk_reg:'注册',
-    sk_plane:'平面', sk_net:'网络', sk_cred:'凭证', sk_ver:'版本', sk_guar:'保证', sk_restart:'重启',
-    sk_hub:'中枢', sk_policy:'策略', sk_loop:'闭环', sk_mirror:'镜像',
-    sk_layers:'层级', sk_privacy:'隐私', sk_traces:'轨迹', sk_feeds:'投喂', sk_stories:'故事',
-    sk_proto:'协议', sk_surface:'界面', sk_registry:'注册表', sk_price:'价格', sk_home:'主页'
+  /* ── live UTC clock ── */
+  function tick(){
+    var d = new Date();
+    var p = function(n){ return String(n).padStart(2,'0'); };
+    var el = document.getElementById('utc-clock');
+    if(el) el.textContent = 'UTC ' + d.getUTCFullYear() + '-' + p(d.getUTCMonth()+1) + '-' + p(d.getUTCDate()) + ' ' + p(d.getUTCHours()) + ':' + p(d.getUTCMinutes()) + ':' + p(d.getUTCSeconds());
   }
-};
+  tick(); setInterval(tick, 1000);
 
-function setLang(lang){
-  document.documentElement.lang = (lang === 'zh') ? 'zh-CN' : 'en';
-  document.querySelectorAll('[data-i18n]').forEach(function(el){
-    var k = el.getAttribute('data-i18n');
-    if(I18N[lang] && I18N[lang][k] != null) el.textContent = I18N[lang][k];
+  /* ── draggable rail engine ── */
+  var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  document.querySelectorAll('.rail-track').forEach(function(track){
+    var dir = parseInt(track.getAttribute('data-dir') || '-1', 10);
+    var speed = parseFloat(track.getAttribute('data-speed') || '0.55'); /* px per frame */
+    var x = 0, groupW = 0, dragging = false, lastX = 0, vel = 0, lastT = 0;
+
+    function measure(){
+      var g = track.querySelector('.rail-group');
+      groupW = g ? g.getBoundingClientRect().width : 0;
+    }
+    measure();
+    window.addEventListener('resize', measure);
+
+    function wrap(){
+      if(!groupW) return;
+      while(x <= -groupW) x += groupW;
+      while(x > 0) x -= groupW;
+    }
+
+    /* pointer events cover mouse + touch + pen */
+    track.addEventListener('pointerdown', function(e){
+      if(e.button !== undefined && e.button !== 0) return;
+      dragging = true; vel = 0;
+      lastX = e.clientX; lastT = performance.now();
+      track.classList.add('dragging');
+      try{ track.setPointerCapture(e.pointerId); }catch(err){}
+      e.preventDefault();
+    });
+
+    window.addEventListener('pointermove', function(e){
+      if(!dragging) return;
+      var dx = e.clientX - lastX;
+      var now = performance.now();
+      var dt = Math.max(now - lastT, 1);
+      x += dx;
+      vel = 0.8 * vel + 0.2 * (dx / dt * 16); /* smoothed px/frame */
+      lastX = e.clientX; lastT = now;
+      wrap();
+    });
+
+    function endDrag(){
+      if(!dragging) return;
+      dragging = false;
+      track.classList.remove('dragging');
+    }
+    window.addEventListener('pointerup', endDrag);
+    window.addEventListener('pointercancel', endDrag);
+
+    /* rAF loop: inertia after release, auto drift otherwise */
+    if(!reduced){
+      (function loop(){
+        if(!dragging){
+          if(Math.abs(vel) > 0.2){
+            x += vel;
+            vel *= 0.94; /* friction */
+          } else {
+            vel = 0;
+            x += dir * speed; /* ambient drift */
+          }
+          wrap();
+        }
+        track.style.transform = 'translate3d(' + x + 'px,0,0)';
+        requestAnimationFrame(loop);
+      })();
+    }
   });
-  document.querySelectorAll('[data-i18n-html]').forEach(function(el){
-    var k = el.getAttribute('data-i18n-html');
-    if(I18N[lang] && I18N[lang][k] != null) el.innerHTML = I18N[lang][k];
+
+  /* ticker drift (not draggable) */
+  var ticker = document.querySelector('.ticker-track');
+  if(ticker && !reduced){
+    var tx = 0, tdir = parseInt(ticker.getAttribute('data-dir') || '-1', 10);
+    var tspd = parseFloat(ticker.getAttribute('data-speed') || '0.5');
+    var tg = ticker.querySelector('.ticker-group');
+    var tw = tg ? tg.getBoundingClientRect().width : 0;
+    window.addEventListener('resize', function(){ tg = ticker.querySelector('.ticker-group'); tw = tg ? tg.getBoundingClientRect().width : 0; });
+    (function tloop(){
+      tx += tdir * tspd;
+      if(tw){ while(tx <= -tw) tx += tw; while(tx > 0) tx -= tw; }
+      ticker.style.transform = 'translate3d(' + tx + 'px,0,0)';
+      requestAnimationFrame(tloop);
+    })();
+  }
+
+  /* ── language dropdown ── */
+  var langBox = document.getElementById('lang');
+  var langBtn = document.getElementById('lang-btn');
+  var langLabel = document.getElementById('lang-label');
+  var langMenu = document.getElementById('lang-menu');
+
+  langBtn.addEventListener('click', function(e){
+    e.stopPropagation();
+    langBox.classList.toggle('open');
+    langBtn.setAttribute('aria-expanded', langBox.classList.contains('open'));
   });
-  document.querySelectorAll('.lang-btn').forEach(function(b){
-    b.classList.toggle('active', b.getAttribute('data-lang') === lang);
+  document.addEventListener('click', function(){
+    langBox.classList.remove('open');
+    langBtn.setAttribute('aria-expanded', 'false');
   });
-  try{ localStorage.setItem('ticalasi-lang', lang); }catch(e){}
-}
-document.querySelectorAll('.lang-btn').forEach(function(b){
-  b.addEventListener('click', function(){ setLang(b.getAttribute('data-lang')); });
-});
-var saved = null;
-try{ saved = localStorage.getItem('ticalasi-lang'); }catch(e){}
-setLang(saved === 'zh' ? 'zh' : 'en');
+  langMenu.addEventListener('click', function(e){ e.stopPropagation(); });
+  langMenu.querySelectorAll('button').forEach(function(b){
+    b.addEventListener('click', function(){
+      setLang(b.getAttribute('data-lang'));
+      langBox.classList.remove('open');
+      langBtn.setAttribute('aria-expanded', 'false');
+    });
+  });
+
+  /* ── i18n ── */
+  var I18N = {
+    en: {
+      nav_build:'Build', nav_sense:'Sense', nav_paths:'Paths', nav_invest:'Invest',
+      tag_build:'Build', tag_sense:'Sense',
+      role_ticalcode:'AI Coding Platform', role_agent:'Execution Plane', role_kulono:'Source of Truth',
+      role_zishijian:'Living Network Mirror', role_cloud:'SoulAgent · Identity Protocol',
+      desc_ticalcode:'Invite-only workspace. Every user gets a personal agent that writes, runs, and ships code — one agent, one user, no shared tenancy.',
+      desc_agent:'Isolated compute plane. Every agent runs in its own container — network off by default, credentials that never leave the host.',
+      desc_kulono:'Self-hosted dev mesh — Git, task hub, agent bindings, policies. Where the build loop lands, on owned metal.',
+      desc_zishijian:'Every probe becomes a particle. Crawlers, scanners, worms, silent scripts — elsewhere they are noise. Here they are the authors.',
+      desc_cloud:'Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface — machine reads the protocol, human runs the control.',
+      tagline:'Two Closed Loops · One Living Mesh',
+      loop1_label:'Loop 01', loop1_title:'The Build Loop',
+      loop1_lede:'An idea enters ticalcode. An agent executes it on a plane built for isolation. The result commits to ground truth — and the truth feeds the next build. Nothing leaves the loop.',
+      r1_tag:'The Interface',
+      r1_desc:'A dark, minimal workspace where you build <em>with</em> an agent, not beside one. Invite-only and passkey-secured — every account owns exactly one personal agent, backed by its own row in PostgreSQL and its own execution budget.',
+      r2_tag:'The Hands',
+      r2_desc:'The execution plane on a dedicated, isolated compute node. Each agent runs inside its own container with the <em>network off by default</em> and credentials that live on the host only — never injected, never leaked. Verified zero token exposure across every container.',
+      r2_link:'internal plane',
+      r3_tag:'The Ground Truth',
+      r3_desc:'The self-hosted development mesh: Git hosting, a task hub, agent bindings, and enforcement policies — <em>all on owned metal</em>. Every commit the loop produces lands here, and every policy the loop obeys is read from here.',
+      loop2_label:'Loop 02', loop2_title:'The Sense Loop',
+      loop2_lede:'A brand-new site meets the machine world first. The sense loop watches that encounter, turns it into living content, and gives every agent that passes through a name it can keep.',
+      r4_tag:'The Eyes',
+      r4_desc:'A living mirror of the network. Every probe becomes <em>a particle and a diary line</em> — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs are masked, payloads are never stored, and the honeypot absorbs scanners. The exhibition is not an armory.',
+      r5_tag:'The Memory',
+      r5_desc:'SoulAgent — an identity protocol where agents are <em>residents, not API calls</em>. Identity, heartbeat, and hierarchical memory behind a dual surface: the machine reads llms.txt and the registry, the human runs the control plane. Zishijian sees who arrives. SoulAgent remembers who you are.',
+      mesh_label:'The Mesh', mesh_title:'One Living Mesh', mesh_bridge:'agents flow',
+      mesh_copy:'The build loop <em>makes agents</em>. The sense loop <em>gives them a name</em>. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. And every agent that ships gets seen by zishijian and remembered by ticalasi.cloud — two closed loops, one living mesh.',
+      paths_label:'Navigation', paths_title:'Direct Paths', paths_lede:'Every product in both loops, one hop away.',
+      p_ticalcode:'AI coding platform — invite-only, one personal agent per user.',
+      p_agent:'Execution plane — internal. No public path by design.',
+      p_kulono:'Self-hosted Git, task hub, agent bindings & policies.',
+      p_zishijian:'Living network mirror — probes become particles.',
+      p_cloud:'SoulAgent — identity, heartbeat & memory for agents.',
+      p_internal:'INTERNAL',
+      invest_tag:'Formal Notice', invest_title:'Investment Inquiry Notice',
+      invest_intro:'Ticalasi welcomes serious, long-term partnership and investment inquiries. Before contacting us, please note the following:',
+      inv1:'Nothing on this website constitutes an offer to sell, or a solicitation of an offer to buy, any security, equity, or financial instrument. No investment opportunity is being marketed to the public through this site.',
+      inv2:'Any financing, if and when undertaken, will be conducted privately with qualified counterparties in compliance with applicable securities laws, and will not be arranged through this website or unsolicited channels.',
+      inv3:'Content on this page is provided for informational purposes only and does not constitute investment, financial, legal, or tax advice.',
+      inv4:'Statements regarding future plans, products, or performance are forward-looking and involve substantial risk. Prior development activity is no guarantee of future results.',
+      inv5:'We do not accept unsolicited funds, cryptocurrency transfers, or escrow arrangements initiated through public channels.',
+      invest_contact:'Formal inquiries',
+      invest_note:'We reply to qualified inquiries only. This notice shall be governed by and construed in accordance with applicable securities regulations.',
+      foot_left:'Ticalasi © 2026 · Self-hosted · No frameworks · No trackers',
+      sk_access:'Access', sk_auth:'Auth', sk_data:'Data', sk_site:'Site', sk_reg:'Registration',
+      sk_plane:'Plane', sk_net:'Network', sk_cred:'Credentials', sk_ver:'Version', sk_guar:'Guarantee', sk_restart:'Restart',
+      sk_hub:'Hub', sk_policy:'Policy', sk_loop:'Loop', sk_mirror:'Mirror',
+      sk_layers:'Layers', sk_privacy:'Privacy', sk_traces:'Traces', sk_feeds:'Feeds', sk_stories:'Stories',
+      sk_proto:'Protocol', sk_surface:'Surface', sk_registry:'Registry', sk_price:'Price', sk_home:'Home'
+    },
+    zh: {
+      nav_build:'建造', nav_sense:'感知', nav_paths:'路径', nav_invest:'投资',
+      tag_build:'建造', tag_sense:'感知',
+      role_ticalcode:'AI 编码平台', role_agent:'执行平面', role_kulono:'事实之源',
+      role_zishijian:'活体网络镜像', role_cloud:'SoulAgent · 身份协议',
+      desc_ticalcode:'邀请制工作区。每位用户拥有一个专属智能体——写代码、跑任务、交付成果。一个智能体，一个用户，绝不共享。',
+      desc_agent:'隔离计算平面。每个智能体运行在独立容器中——默认断网，凭证永不出宿主机。',
+      desc_kulono:'自托管开发网格——Git、任务中枢、智能体绑定与策略。建造闭环的落点，尽在自有硬件。',
+      desc_zishijian:'每一次探测都成为一颗粒子。爬虫、扫描器、蠕虫、静默脚本——在别处是噪音，在这里是作者。',
+      desc_cloud:'智能体是居民，不是 API 调用。身份、心跳与分层记忆，藏在双面之后——机器读协议，人类掌控制台。',
+      tagline:'双闭环 · 活网格',
+      loop1_label:'闭环 01', loop1_title:'建造闭环',
+      loop1_lede:'想法进入 ticalcode，智能体在隔离平面上执行，成果提交至事实之源——而事实又喂养下一次建造。一切都不离开闭环。',
+      r1_tag:'界面',
+      r1_desc:'暗色极简的工作区：你不是<em>旁边</em>站着一个智能体，而是<em>与它一起</em>建造。邀请制 + Passkey 保护——每个账号恰好拥有一个专属智能体，在 PostgreSQL 中有自己的一行，有自己的执行预算。',
+      r2_tag:'双手',
+      r2_desc:'专用隔离计算节点上的执行平面。每个智能体运行在独立容器中，<em>默认断网</em>，凭证只存在于宿主机——不注入、不泄漏。所有容器已验证零令牌暴露。',
+      r2_link:'内部平面',
+      r3_tag:'事实之源',
+      r3_desc:'自托管开发网格：Git 托管、任务中枢、智能体绑定与强制策略——<em>全部在自有硬件上</em>。闭环产出的每个提交都落在这里，闭环遵守的每条策略都从这里读取。',
+      loop2_label:'闭环 02', loop2_title:'感知闭环',
+      loop2_lede:'新站点首先遇见的是机器世界。感知闭环注视这场相遇，把它变成活的内容，并为每个路过的智能体赋予一个可以保留的名字。',
+      r4_tag:'眼睛',
+      r4_desc:'网络的活体镜像。每一次探测都成为<em>一颗粒子和一行日记</em>——攻击是红色冲击波，爬虫是蓝色雷达，人类留下绿色轨迹。IP 打码，载荷不存，蜜罐吸收扫描器。这是展览，不是军火库。',
+      r5_tag:'记忆',
+      r5_desc:'SoulAgent——一套身份协议：智能体是<em>居民，不是 API 调用</em>。身份、心跳与分层记忆，藏在双面之后：机器读 llms.txt 与注册表，人类掌控制台。子时间看见谁来了，SoulAgent 记住你是谁。',
+      mesh_label:'网格', mesh_title:'一张活网格', mesh_bridge:'智能体流动',
+      mesh_copy:'建造闭环<em>制造智能体</em>，感知闭环<em>赋予它们名字</em>。ticalcode 把任务交给 tical agent，tical agent 提交到 kulono，kulono 喂养下一次建造。而每个出厂的智能体，都会被子时间看见、被 ticalasi.cloud 记住——两个闭环，一张活网格。',
+      paths_label:'导航', paths_title:'直达路径', paths_lede:'两个闭环里的每个产品，一步直达。',
+      p_ticalcode:'AI 编码平台——邀请制，一人一个专属智能体。',
+      p_agent:'执行平面——内部组件，设计上无公开路径。',
+      p_kulono:'自托管 Git、任务中枢、智能体绑定与策略。',
+      p_zishijian:'活体网络镜像——探测即粒子。',
+      p_cloud:'SoulAgent——智能体的身份、心跳与记忆。',
+      p_internal:'内部',
+      invest_tag:'正式公告', invest_title:'投资问询公告',
+      invest_intro:'Ticalasi 欢迎严肃、长期的合作与投资问询。联系我们前，请留意以下事项：',
+      inv1:'本网站任何内容均不构成出售证券、股权或金融工具的要约，亦不构成对该等要约的邀请或招揽。本站不面向公众推介任何投资机会。',
+      inv2:'任何融资（如有）将以非公开方式进行，面向符合适用证券法律法规的合格对手方，不会通过本网站或非主动渠道安排。',
+      inv3:'本页内容仅供参考，不构成投资建议、财务建议、法律建议或税务建议。',
+      inv4:'关于未来计划、产品或业绩的表述均为前瞻性陈述，存在重大风险。过往开发活动不构成对未来结果的保证。',
+      inv5:'我们不通过公开渠道接受非主动资金、加密货币转账或托管安排。',
+      invest_contact:'正式问询',
+      invest_note:'我们仅回复合格的问询。本公告受适用证券监管规则管辖并依其解释。',
+      foot_left:'Ticalasi © 2026 · 自托管 · 无框架 · 无追踪',
+      sk_access:'访问', sk_auth:'认证', sk_data:'数据', sk_site:'站点', sk_reg:'注册',
+      sk_plane:'平面', sk_net:'网络', sk_cred:'凭证', sk_ver:'版本', sk_guar:'保证', sk_restart:'重启',
+      sk_hub:'中枢', sk_policy:'策略', sk_loop:'闭环', sk_mirror:'镜像',
+      sk_layers:'层级', sk_privacy:'隐私', sk_traces:'轨迹', sk_feeds:'投喂', sk_stories:'故事',
+      sk_proto:'协议', sk_surface:'界面', sk_registry:'注册表', sk_price:'价格', sk_home:'主页'
+    },
+    ja: {
+      nav_build:'構築', nav_sense:'感知', nav_paths:'パス', nav_invest:'投資',
+      tag_build:'構築', tag_sense:'感知',
+      role_ticalcode:'AIコーディングプラットフォーム', role_agent:'実行プレーン', role_kulono:'信頼の源泉',
+      role_zishijian:'生きたネットワークミラー', role_cloud:'SoulAgent · アイデンティティプロトコル',
+      desc_ticalcode:'招待制ワークスペース。全ユーザーに専属エージェント——コードを書き、実行し、出荷する。1エージェント・1ユーザー・共有なし。',
+      desc_agent:'分離型コンピューティングプレーン。各エージェントは専用コンテナで稼働——デフォルトでネットワーク遮断、認証情報はホスト外に出ない。',
+      desc_kulono:'セルフホスト開発メッシュ——Git、タスクハブ、エージェントバインディング、ポリシー。構築ループの着地点は自前ハードウェア。',
+      desc_zishijian:'あらゆるプローブが粒子になる。クローラー、スキャナー、ワーム、沈黙のスクリプト——他所ではノイズ、ここでは作者。',
+      desc_cloud:'エージェントは居住者であり、APIコールではない。アイデンティティ、心拍、階層記憶をデュアルサーフェスの背後に——機械はプロトコルを読み、人間はコントロールを握る。',
+      tagline:'二つの閉ループ · 一つの生きたメッシュ',
+      loop1_label:'ループ 01', loop1_title:'構築ループ',
+      loop1_lede:'アイデアが ticalcode に入り、エージェントが分離プレーンで実行し、成果が信頼の源泉へコミットされる——そしてその真実が次の構築を養う。何もループの外へは出ない。',
+      r1_tag:'インターフェース',
+      r1_desc:'ダークでミニマルなワークスペース。エージェントの<em>隣</em>ではなく、<em>共に</em>構築する。招待制＋Passkey——全アカウントがちょうど1つの専属エージェントを所有し、PostgreSQLに独自の行と実行予算を持つ。',
+      r2_tag:'手',
+      r2_desc:'専用分離ノード上の実行プレーン。各エージェントは<em>デフォルトでネットワーク遮断</em>のコンテナ内で稼働し、認証情報はホストのみに存在——注入も漏洩もしない。全コンテナでトークン露出ゼロを検証済み。',
+      r2_link:'内部プレーン',
+      r3_tag:'信頼の源泉',
+      r3_desc:'セルフホスト開発メッシュ：Gitホスティング、タスクハブ、エージェントバインディング、強制ポリシー——<em>すべて自前ハードウェア</em>。ループが生む全コミットがここに落ち、ループが従う全ポリシーがここから読まれる。',
+      loop2_label:'ループ 02', loop2_title:'感知ループ',
+      loop2_lede:'真新しいサイトが最初に出会うのは機械の世界。感知ループはその出会いを見つめ、生きたコンテンツへ変え、通り過ぎる全エージェントに保てる名前を与える。',
+      r4_tag:'目',
+      r4_desc:'ネットワークの生きた鏡。あらゆるプローブが<em>粒子と日記の1行</em>になる——攻撃は赤い衝撃波、クローラーは青いレーダー、人間は緑の軌跡。IPはマスク、ペイロードは保存せず、ハニーポットがスキャナーを吸収。展示であって武器庫ではない。',
+      r5_tag:'記憶',
+      r5_desc:'SoulAgent——エージェントが<em>居住者でありAPIコールではない</em>アイデンティティプロトコル。アイデンティティ、心拍、階層記憶をデュアルサーフェスの背後に：機械は llms.txt とレジストリを読み、人間はコントロールプレーンを動かす。子時間は誰が来たかを見る。SoulAgentはあなたが誰かを覚える。',
+      mesh_label:'メッシュ', mesh_title:'一つの生きたメッシュ', mesh_bridge:'エージェントの流れ',
+      mesh_copy:'構築ループは<em>エージェントを作る</em>。感知ループは<em>名前を与える</em>。ticalcode が tical agent に仕事を渡し、tical agent が kulono にコミットし、kulono が次の構築を養う。そして出荷された全エージェントは子時間に見られ、ticalasi.cloud に記憶される——二つの閉ループ、一つの生きたメッシュ。',
+      paths_label:'ナビゲーション', paths_title:'ダイレクトパス', paths_lede:'両ループの全プロダクトへ、1ホップで。',
+      p_ticalcode:'AIコーディングプラットフォーム——招待制、1ユーザー1専属エージェント。',
+      p_agent:'実行プレーン——内部。設計上パブリックパスなし。',
+      p_kulono:'セルフホスト Git、タスクハブ、エージェントバインディングとポリシー。',
+      p_zishijian:'生きたネットワークミラー——プローブが粒子になる。',
+      p_cloud:'SoulAgent——エージェントのアイデンティティ・心拍・記憶。',
+      p_internal:'内部',
+      invest_tag:'正式通知', invest_title:'投資照会に関する通知',
+      invest_intro:'Ticalasi は真剣で長期的な提携・投資の照会を歓迎します。ご連絡の前に、以下をご確認ください：',
+      inv1:'本ウェブサイトのいかなる内容も、有価証券・株式・金融商品の売却申込み、またはその勧誘を構成しません。本サイトを通じた一般向け投資機会の宣伝は行っておりません。',
+      inv2:'資金調達を行う場合は、適用ある証券法規を遵守し、適格な相手方との間で非公開に実施され、本ウェブサイトや不特定チャネルを通じて行われることはありません。',
+      inv3:'本ページの内容は情報提供のみを目的とし、投資・財務・法務・税務の助言を構成しません。',
+      inv4:'将来の計画・製品・業績に関する記述は将来予想であり、重大なリスクを伴います。過去の開発実績は将来の成果を保証しません。',
+      inv5:'公開チャネルから開始された不請資金、暗号資産の送金、エスクロー取り決めは受け付けません。',
+      invest_contact:'正式な照会先',
+      invest_note:'適格な照会にのみ回答します。本通知は適用ある証券規制に準拠し、これに従って解釈されます。',
+      foot_left:'Ticalasi © 2026 · セルフホスト · フレームワークなし · トラッカーなし',
+      sk_access:'アクセス', sk_auth:'認証', sk_data:'データ', sk_site:'サイト', sk_reg:'登録',
+      sk_plane:'プレーン', sk_net:'ネットワーク', sk_cred:'認証情報', sk_ver:'バージョン', sk_guar:'保証', sk_restart:'再起動',
+      sk_hub:'ハブ', sk_policy:'ポリシー', sk_loop:'ループ', sk_mirror:'ミラー',
+      sk_layers:'レイヤー', sk_privacy:'プライバシー', sk_traces:'軌跡', sk_feeds:'フィード', sk_stories:'ストーリー',
+      sk_proto:'プロトコル', sk_surface:'サーフェス', sk_registry:'レジストリ', sk_price:'価格', sk_home:'ホーム'
+    },
+    ko: {
+      nav_build:'구축', nav_sense:'감지', nav_paths:'경로', nav_invest:'투자',
+      tag_build:'구축', tag_sense:'감지',
+      role_ticalcode:'AI 코딩 플랫폼', role_agent:'실행 플레인', role_kulono:'진실의 원천',
+      role_zishijian:'살아있는 네트워크 미러', role_cloud:'SoulAgent · 아이덴티티 프로토콜',
+      desc_ticalcode:'초대제 워크스페이스. 모든 사용자에게 전담 에이전트 — 코드를 쓰고, 실행하고, 출하합니다. 에이전트 하나, 사용자 하나, 공유 없음.',
+      desc_agent:'격리된 컴퓨팅 플레인. 모든 에이전트는 자체 컨테이너에서 실행 — 기본 네트워크 차단, 자격 증명은 호스트를 떠나지 않음.',
+      desc_kulono:'셀프호스팅 개발 메시 — Git, 태스크 허브, 에이전트 바인딩, 정책. 구축 루프가 착지하는 곳, 자체 하드웨어 위에서.',
+      desc_zishijian:'모든 프로브가 입자가 됩니다. 크롤러, 스캐너, 웜, 침묵의 스크립트 — 다른 곳에서는 소음, 여기서는 저자.',
+      desc_cloud:'에이전트는 거주자이지 API 호출이 아닙니다. 아이덴티티, 하트비트, 계층 메모리를 이중 표면 뒤에 — 기계는 프로토콜을 읽고, 인간은 컨트롤을 쥡니다.',
+      tagline:'두 개의 폐쇄 루프 · 하나의 살아있는 메시',
+      loop1_label:'루프 01', loop1_title:'구축 루프',
+      loop1_lede:'아이디어가 ticalcode에 들어가고, 에이전트가 격리 플레인에서 실행하고, 결과가 진실의 원천에 커밋됩니다 — 그리고 그 진실이 다음 구축을 먹여 살립니다. 아무것도 루프를 떠나지 않습니다.',
+      r1_tag:'인터페이스',
+      r1_desc:'어둡고 미니멀한 워크스페이스. 에이전트 <em>옆</em>이 아니라 <em>함께</em> 구축합니다. 초대제 + Passkey — 모든 계정은 정확히 하나의 전담 에이전트를 소유하며, PostgreSQL에 자체 행과 실행 예산을 가집니다.',
+      r2_tag:'손',
+      r2_desc:'전용 격리 노드 위의 실행 플레인. 각 에이전트는 <em>기본 네트워크 차단</em> 컨테이너에서 실행되며 자격 증명은 호스트에만 존재 — 주입도 유출도 없습니다. 모든 컨테이너에서 토큰 노출 제로 검증 완료.',
+      r2_link:'내부 플레인',
+      r3_tag:'진실의 원천',
+      r3_desc:'셀프호스팅 개발 메시: Git 호스팅, 태스크 허브, 에이전트 바인딩, 강제 정책 — <em>모두 자체 하드웨어 위</em>. 루프가 만드는 모든 커밋이 여기에 착지하고, 루프가 따르는 모든 정책이 여기서 읽힙니다.',
+      loop2_label:'루프 02', loop2_title:'감지 루프',
+      loop2_lede:'새로운 사이트가 가장 먼저 만나는 것은 기계의 세계. 감지 루프는 그 만남을 지켜보고, 살아있는 콘텐츠로 바꾸며, 지나가는 모든 에이전트에게 간직할 이름을 줍니다.',
+      r4_tag:'눈',
+      r4_desc:'네트워크의 살아있는 거울. 모든 프로브가 <em>입자와 일기 한 줄</em>이 됩니다 — 공격은 붉은 충격파, 크롤러는 푸른 레이더, 인간은 초록 궤적. IP는 마스킹, 페이로드 미저장, 허니팟이 스캐너를 흡수. 전시장이지 무기고가 아닙니다.',
+      r5_tag:'기억',
+      r5_desc:'SoulAgent — 에이전트가 <em>API 호출이 아닌 거주자</em>인 아이덴티티 프로토콜. 아이덴티티, 하트비트, 계층 메모리를 이중 표면 뒤에: 기계는 llms.txt와 레지스트리를 읽고, 인간은 컨트롤 플레인을 운영합니다. zishijian은 누가 왔는지 봅니다. SoulAgent는 당신이 누구인지 기억합니다.',
+      mesh_label:'메시', mesh_title:'하나의 살아있는 메시', mesh_bridge:'에이전트의 흐름',
+      mesh_copy:'구축 루프는 <em>에이전트를 만듭니다</em>. 감지 루프는 <em>이름을 줍니다</em>. ticalcode가 tical agent에 일을 넘기고, tical agent가 kulono에 커밋하고, kulono가 다음 구축을 먹여 살립니다. 그리고 출하된 모든 에이전트는 zishijian에게 목격되고 ticalasi.cloud에게 기억됩니다 — 두 개의 폐쇄 루프, 하나의 살아있는 메시.',
+      paths_label:'내비게이션', paths_title:'다이렉트 경로', paths_lede:'양쪽 루프의 모든 제품을 한 홉에.',
+      p_ticalcode:'AI 코딩 플랫폼 — 초대제, 사용자당 전담 에이전트 하나.',
+      p_agent:'실행 플레인 — 내부. 설계상 공개 경로 없음.',
+      p_kulono:'셀프호스팅 Git, 태스크 허브, 에이전트 바인딩과 정책.',
+      p_zishijian:'살아있는 네트워크 미러 — 프로브가 입자가 됩니다.',
+      p_cloud:'SoulAgent — 에이전트의 아이덴티티, 하트비트, 메모리.',
+      p_internal:'내부',
+      invest_tag:'공식 공지', invest_title:'투자 문의 공지',
+      invest_intro:'Ticalasi는 진지하고 장기적인 파트너십 및 투자 문의를 환영합니다. 연락 전에 다음 사항을 확인해 주세요:',
+      inv1:'본 웹사이트의 어떤 내용도 유가증권, 지분 또는 금융상품의 매도 청약 또는 청약 권유를 구성하지 않습니다. 본 사이트를 통한 일반 대상 투자 기회 홍보는 없습니다.',
+      inv2:'자금 조달이 이루어질 경우 적용 증권법을 준수하여 적격 상대방과 비공개로 진행되며, 본 웹사이트나 불특정 채널을 통해 주선되지 않습니다.',
+      inv3:'본 페이지의 내용은 정보 제공만을 목적으로 하며 투자, 재무, 법률, 세무 자문을 구성하지 않습니다.',
+      inv4:'미래 계획, 제품 또는 성과에 관한 진술은 예측이며 중대한 위험을 수반합니다. 과거 개발 활동은 미래 결과를 보증하지 않습니다.',
+      inv5:'공개 채널을 통해 시작된 자발적 자금, 암호화폐 이체 또는 에스크로 약정을 수락하지 않습니다.',
+      invest_contact:'공식 문의',
+      invest_note:'적격 문의에만 회신합니다. 본 공지는 적용 증권 규정에 따라 규율되고 해석됩니다.',
+      foot_left:'Ticalasi © 2026 · 셀프호스팅 · 프레임워크 없음 · 트래커 없음',
+      sk_access:'액세스', sk_auth:'인증', sk_data:'데이터', sk_site:'사이트', sk_reg:'등록',
+      sk_plane:'플레인', sk_net:'네트워크', sk_cred:'자격 증명', sk_ver:'버전', sk_guar:'보증', sk_restart:'재시작',
+      sk_hub:'허브', sk_policy:'정책', sk_loop:'루프', sk_mirror:'미러',
+      sk_layers:'레이어', sk_privacy:'개인정보', sk_traces:'궤적', sk_feeds:'피드', sk_stories:'스토리',
+      sk_proto:'프로토콜', sk_surface:'표면', sk_registry:'레지스트리', sk_price:'가격', sk_home:'홈'
+    },
+    es: {
+      nav_build:'Construir', nav_sense:'Sentir', nav_paths:'Rutas', nav_invest:'Invertir',
+      tag_build:'Construcción', tag_sense:'Percepción',
+      role_ticalcode:'Plataforma de codificación con IA', role_agent:'Plano de ejecución', role_kulono:'Fuente de verdad',
+      role_zishijian:'Espejo vivo de la red', role_cloud:'SoulAgent · Protocolo de identidad',
+      desc_ticalcode:'Espacio de trabajo solo por invitación. Cada usuario tiene un agente personal que escribe, ejecuta y entrega código — un agente, un usuario, sin tenencia compartida.',
+      desc_agent:'Plano de cómputo aislado. Cada agente corre en su propio contenedor — red apagada por defecto, credenciales que nunca salen del host.',
+      desc_kulono:'Malla de desarrollo autoalojada — Git, hub de tareas, bindings de agentes, políticas. Donde aterriza el ciclo de construcción, en metal propio.',
+      desc_zishijian:'Cada sonda se convierte en una partícula. Rastreadores, escáneres, gusanos, scripts silenciosos — en otro lugar son ruido. Aquí son los autores.',
+      desc_cloud:'Los agentes son residentes, no llamadas API. Identidad, latido y memoria jerárquica tras una doble superficie — la máquina lee el protocolo, el humano lleva el control.',
+      tagline:'Dos ciclos cerrados · Una malla viva',
+      loop1_label:'Ciclo 01', loop1_title:'El ciclo de construcción',
+      loop1_lede:'Una idea entra en ticalcode. Un agente la ejecuta en un plano construido para el aislamiento. El resultado se confirma en la fuente de verdad — y la verdad alimenta la siguiente construcción. Nada sale del ciclo.',
+      r1_tag:'La interfaz',
+      r1_desc:'Un espacio de trabajo oscuro y minimalista donde construyes <em>con</em> un agente, no junto a uno. Solo por invitación y protegido con passkey — cada cuenta posee exactamente un agente personal, con su propia fila en PostgreSQL y su propio presupuesto de ejecución.',
+      r2_tag:'Las manos',
+      r2_desc:'El plano de ejecución en un nodo de cómputo dedicado y aislado. Cada agente corre dentro de su propio contenedor con la <em>red apagada por defecto</em> y credenciales que viven solo en el host — nunca inyectadas, nunca filtradas. Exposición de tokens cero verificada en todos los contenedores.',
+      r2_link:'plano interno',
+      r3_tag:'La fuente de verdad',
+      r3_desc:'La malla de desarrollo autoalojada: hosting Git, hub de tareas, bindings de agentes y políticas de aplicación — <em>todo en metal propio</em>. Cada commit que produce el ciclo aterriza aquí, y cada política que el ciclo obedece se lee desde aquí.',
+      loop2_label:'Ciclo 02', loop2_title:'El ciclo de percepción',
+      loop2_lede:'Un sitio nuevo se encuentra primero con el mundo de las máquinas. El ciclo de percepción observa ese encuentro, lo convierte en contenido vivo y da a cada agente que pasa un nombre que puede conservar.',
+      r4_tag:'Los ojos',
+      r4_desc:'Un espejo vivo de la red. Cada sonda se convierte en <em>una partícula y una línea de diario</em> — los ataques son ondas de choque rojas, los rastreadores son radar azul, los humanos dejan estelas verdes. Las IP se enmascaran, los payloads nunca se almacenan y el honeypot absorbe escáneres. La exhibición no es una armería.',
+      r5_tag:'La memoria',
+      r5_desc:'SoulAgent — un protocolo de identidad donde los agentes son <em>residentes, no llamadas API</em>. Identidad, latido y memoria jerárquica tras una doble superficie: la máquina lee llms.txt y el registro, el humano opera el plano de control. Zishijian ve quién llega. SoulAgent recuerda quién eres.',
+      mesh_label:'La malla', mesh_title:'Una malla viva', mesh_bridge:'flujo de agentes',
+      mesh_copy:'El ciclo de construcción <em>crea agentes</em>. El ciclo de percepción <em>les da un nombre</em>. ticalcode entrega trabajo a tical agent; tical agent confirma en kulono; kulono alimenta la siguiente construcción. Y cada agente que se entrega es visto por zishijian y recordado por ticalasi.cloud — dos ciclos cerrados, una malla viva.',
+      paths_label:'Navegación', paths_title:'Rutas directas', paths_lede:'Cada producto de ambos ciclos, a un salto.',
+      p_ticalcode:'Plataforma de codificación con IA — solo por invitación, un agente personal por usuario.',
+      p_agent:'Plano de ejecución — interno. Sin ruta pública por diseño.',
+      p_kulono:'Git autoalojado, hub de tareas, bindings y políticas de agentes.',
+      p_zishijian:'Espejo vivo de la red — las sondas se vuelven partículas.',
+      p_cloud:'SoulAgent — identidad, latido y memoria para agentes.',
+      p_internal:'INTERNO',
+      invest_tag:'Aviso formal', invest_title:'Aviso de consultas de inversión',
+      invest_intro:'Ticalasi da la bienvenida a consultas serias de asociación e inversión a largo plazo. Antes de contactarnos, tenga en cuenta lo siguiente:',
+      inv1:'Nada en este sitio web constituye una oferta de venta, ni una solicitud de oferta de compra, de ningún valor, participación o instrumento financiero. No se comercializa ninguna oportunidad de inversión al público a través de este sitio.',
+      inv2:'Cualquier financiación, si se lleva a cabo, se realizará de forma privada con contrapartes calificadas en cumplimiento de las leyes de valores aplicables, y no se organizará a través de este sitio web ni de canales no solicitados.',
+      inv3:'El contenido de esta página se proporciona solo con fines informativos y no constituye asesoramiento de inversión, financiero, legal ni fiscal.',
+      inv4:'Las declaraciones sobre planes, productos o rendimiento futuros son prospectivas e implican un riesgo sustancial. La actividad de desarrollo previa no garantiza resultados futuros.',
+      inv5:'No aceptamos fondos no solicitados, transferencias de criptomonedas ni acuerdos de depósito en garantía iniciados a través de canales públicos.',
+      invest_contact:'Consultas formales',
+      invest_note:'Solo respondemos a consultas calificadas. Este aviso se rige e interpreta de conformidad con las regulaciones de valores aplicables.',
+      foot_left:'Ticalasi © 2026 · Autoalojado · Sin frameworks · Sin rastreadores',
+      sk_access:'Acceso', sk_auth:'Autenticación', sk_data:'Datos', sk_site:'Sitio', sk_reg:'Registro',
+      sk_plane:'Plano', sk_net:'Red', sk_cred:'Credenciales', sk_ver:'Versión', sk_guar:'Garantía', sk_restart:'Reinicio',
+      sk_hub:'Hub', sk_policy:'Política', sk_loop:'Ciclo', sk_mirror:'Espejo',
+      sk_layers:'Capas', sk_privacy:'Privacidad', sk_traces:'Trazas', sk_feeds:'Fuentes', sk_stories:'Historias',
+      sk_proto:'Protocolo', sk_surface:'Superficie', sk_registry:'Registro', sk_price:'Precio', sk_home:'Inicio'
+    },
+    fr: {
+      nav_build:'Construire', nav_sense:'Sentir', nav_paths:'Chemins', nav_invest:'Investir',
+      tag_build:'Construction', tag_sense:'Perception',
+      role_ticalcode:'Plateforme de codage IA', role_agent:'Plan d\u2019exécution', role_kulono:'Source de vérité',
+      role_zishijian:'Miroir vivant du réseau', role_cloud:'SoulAgent · Protocole d\u2019identité',
+      desc_ticalcode:'Espace de travail sur invitation. Chaque utilisateur dispose d\u2019un agent personnel qui écrit, exécute et livre du code — un agent, un utilisateur, aucune mutualisation.',
+      desc_agent:'Plan de calcul isolé. Chaque agent s\u2019exécute dans son propre conteneur — réseau coupé par défaut, identifiants qui ne quittent jamais l\u2019hôte.',
+      desc_kulono:'Maillage de développement auto-hébergé — Git, hub de tâches, liaisons d\u2019agents, politiques. Là où la boucle de construction atterrit, sur du matériel possédé.',
+      desc_zishijian:'Chaque sonde devient une particule. Robots, scanners, vers, scripts silencieux — ailleurs ce sont du bruit. Ici ce sont les auteurs.',
+      desc_cloud:'Les agents sont des résidents, pas des appels API. Identité, battement et mémoire hiérarchique derrière une double surface — la machine lit le protocole, l\u2019humain tient le contrôle.',
+      tagline:'Deux boucles fermées · Un maillage vivant',
+      loop1_label:'Boucle 01', loop1_title:'La boucle de construction',
+      loop1_lede:'Une idée entre dans ticalcode. Un agent l\u2019exécute sur un plan conçu pour l\u2019isolement. Le résultat est commité vers la source de vérité — et la vérité nourrit la construction suivante. Rien ne quitte la boucle.',
+      r1_tag:'L\u2019interface',
+      r1_desc:'Un espace de travail sombre et minimal où vous construisez <em>avec</em> un agent, et non à côté. Sur invitation et sécurisé par passkey — chaque compte possède exactement un agent personnel, avec sa propre ligne dans PostgreSQL et son propre budget d\u2019exécution.',
+      r2_tag:'Les mains',
+      r2_desc:'Le plan d\u2019exécution sur un nœud de calcul dédié et isolé. Chaque agent s\u2019exécute dans son propre conteneur avec le <em>réseau coupé par défaut</em> et des identifiants qui ne vivent que sur l\u2019hôte — jamais injectés, jamais fuités. Exposition de jetons nulle vérifiée sur tous les conteneurs.',
+      r2_link:'plan interne',
+      r3_tag:'La source de vérité',
+      r3_desc:'Le maillage de développement auto-hébergé : hébergement Git, hub de tâches, liaisons d\u2019agents et politiques d\u2019application — <em>le tout sur du matériel possédé</em>. Chaque commit produit par la boucle atterrit ici, et chaque politique que la boucle respecte est lue ici.',
+      loop2_label:'Boucle 02', loop2_title:'La boucle de perception',
+      loop2_lede:'Un site tout neuf rencontre d\u2019abord le monde des machines. La boucle de perception observe cette rencontre, la transforme en contenu vivant et donne à chaque agent qui passe un nom qu\u2019il peut garder.',
+      r4_tag:'Les yeux',
+      r4_desc:'Un miroir vivant du réseau. Chaque sonde devient <em>une particule et une ligne de journal</em> — les attaques sont des ondes de choc rouges, les robots sont des radars bleus, les humains laissent des traînées vertes. Les IP sont masquées, les charges utiles ne sont jamais stockées et le honeypot absorbe les scanners. L\u2019exposition n\u2019est pas un arsenal.',
+      r5_tag:'La mémoire',
+      r5_desc:'SoulAgent — un protocole d\u2019identité où les agents sont des <em>résidents, pas des appels API</em>. Identité, battement et mémoire hiérarchique derrière une double surface : la machine lit llms.txt et le registre, l\u2019humain opère le plan de contrôle. Zishijian voit qui arrive. SoulAgent se souvient de qui vous êtes.',
+      mesh_label:'Le maillage', mesh_title:'Un maillage vivant', mesh_bridge:'flux d\u2019agents',
+      mesh_copy:'La boucle de construction <em>fabrique des agents</em>. La boucle de perception <em>leur donne un nom</em>. ticalcode confie le travail à tical agent ; tical agent commit vers kulono ; kulono nourrit la construction suivante. Et chaque agent livré est vu par zishijian et mémorisé par ticalasi.cloud — deux boucles fermées, un maillage vivant.',
+      paths_label:'Navigation', paths_title:'Chemins directs', paths_lede:'Chaque produit des deux boucles, à un saut.',
+      p_ticalcode:'Plateforme de codage IA — sur invitation, un agent personnel par utilisateur.',
+      p_agent:'Plan d\u2019exécution — interne. Aucun chemin public par conception.',
+      p_kulono:'Git auto-hébergé, hub de tâches, liaisons et politiques d\u2019agents.',
+      p_zishijian:'Miroir vivant du réseau — les sondes deviennent des particules.',
+      p_cloud:'SoulAgent — identité, battement et mémoire pour les agents.',
+      p_internal:'INTERNE',
+      invest_tag:'Avis formel', invest_title:'Avis de demande d\u2019investissement',
+      invest_intro:'Ticalasi accueille les demandes sérieuses de partenariat et d\u2019investissement à long terme. Avant de nous contacter, veuillez noter ce qui suit :',
+      inv1:'Rien sur ce site web ne constitue une offre de vente, ou une sollicitation d\u2019offre d\u2019achat, de tout titre, participation ou instrument financier. Aucune opportunité d\u2019investissement n\u2019est commercialisée auprès du public via ce site.',
+      inv2:'Tout financement, le cas échéant, sera mené de manière privée avec des contreparties qualifiées conformément aux lois sur les valeurs mobilières applicables, et ne sera pas organisé via ce site web ou des canaux non sollicités.',
+      inv3:'Le contenu de cette page est fourni à titre d\u2019information uniquement et ne constitue pas un conseil en investissement, financier, juridique ou fiscal.',
+      inv4:'Les déclarations concernant les plans, produits ou performances futurs sont prospectives et comportent un risque substantiel. L\u2019activité de développement passée ne garantit pas les résultats futurs.',
+      inv5:'Nous n\u2019acceptons pas les fonds non sollicités, les transferts de crypto-monnaies ou les accords de séquestre initiés via des canaux publics.',
+      invest_contact:'Demandes formelles',
+      invest_note:'Nous ne répondons qu\u2019aux demandes qualifiées. Le présent avis est régi et interprété conformément aux réglementations sur les valeurs mobilières applicables.',
+      foot_left:'Ticalasi © 2026 · Auto-hébergé · Sans frameworks · Sans traceurs',
+      sk_access:'Accès', sk_auth:'Authentification', sk_data:'Données', sk_site:'Site', sk_reg:'Inscription',
+      sk_plane:'Plan', sk_net:'Réseau', sk_cred:'Identifiants', sk_ver:'Version', sk_guar:'Garantie', sk_restart:'Redémarrage',
+      sk_hub:'Hub', sk_policy:'Politique', sk_loop:'Boucle', sk_mirror:'Miroir',
+      sk_layers:'Couches', sk_privacy:'Confidentialité', sk_traces:'Traces', sk_feeds:'Flux', sk_stories:'Histoires',
+      sk_proto:'Protocole', sk_surface:'Surface', sk_registry:'Registre', sk_price:'Prix', sk_home:'Accueil'
+    },
+    de: {
+      nav_build:'Bauen', nav_sense:'Spüren', nav_paths:'Pfade', nav_invest:'Investieren',
+      tag_build:'Aufbau', tag_sense:'Wahrnehmung',
+      role_ticalcode:'KI-Coding-Plattform', role_agent:'Ausführungsebene', role_kulono:'Quelle der Wahrheit',
+      role_zishijian:'Lebender Netzspiegel', role_cloud:'SoulAgent · Identitätsprotokoll',
+      desc_ticalcode:'Arbeitsbereich nur auf Einladung. Jeder Nutzer erhält einen persönlichen Agenten, der Code schreibt, ausführt und ausliefert — ein Agent, ein Nutzer, keine gemeinsame Nutzung.',
+      desc_agent:'Isolierte Rechenebene. Jeder Agent läuft in einem eigenen Container — Netzwerk standardmäßig aus, Zugangsdaten verlassen nie den Host.',
+      desc_kulono:'Selbstgehostetes Entwicklungsnetz — Git, Aufgaben-Hub, Agenten-Bindungen, Richtlinien. Wo die Bauschleife landet, auf eigenem Metall.',
+      desc_zishijian:'Jede Sonde wird zu einem Teilchen. Crawler, Scanner, Würmer, stille Skripte — anderswo sind sie Rauschen. Hier sind sie die Autoren.',
+      desc_cloud:'Agenten sind Bewohner, keine API-Aufrufe. Identität, Herzschlag und hierarchisches Gedächtnis hinter einer Doppelfläche — die Maschine liest das Protokoll, der Mensch führt die Kontrolle.',
+      tagline:'Zwei geschlossene Schleifen · Ein lebendes Netz',
+      loop1_label:'Schleife 01', loop1_title:'Die Bauschleife',
+      loop1_lede:'Eine Idee tritt in ticalcode ein. Ein Agent führt sie auf einer für Isolation gebauten Ebene aus. Das Ergebnis wird in die Quelle der Wahrheit committet — und die Wahrheit nährt den nächsten Bau. Nichts verlässt die Schleife.',
+      r1_tag:'Die Oberfläche',
+      r1_desc:'Ein dunkler, minimalistischer Arbeitsbereich, in dem man <em>mit</em> einem Agenten baut, nicht neben einem. Nur auf Einladung und per Passkey gesichert — jedes Konto besitzt genau einen persönlichen Agenten mit eigener Zeile in PostgreSQL und eigenem Ausführungsbudget.',
+      r2_tag:'Die Hände',
+      r2_desc:'Die Ausführungsebene auf einem dedizierten, isolierten Rechenknoten. Jeder Agent läuft in einem eigenen Container mit <em>standardmäßig ausgeschaltetem Netzwerk</em> und Zugangsdaten, die nur auf dem Host leben — nie injiziert, nie geleakt. Null Token-Exposition über alle Container verifiziert.',
+      r2_link:'interne Ebene',
+      r3_tag:'Die Quelle der Wahrheit',
+      r3_desc:'Das selbstgehostete Entwicklungsnetz: Git-Hosting, Aufgaben-Hub, Agenten-Bindungen und Durchsetzungsrichtlinien — <em>alles auf eigenem Metall</em>. Jeder Commit, den die Schleife erzeugt, landet hier, und jede Richtlinie, der die Schleife gehorcht, wird von hier gelesen.',
+      loop2_label:'Schleife 02', loop2_title:'Die Wahrnehmungsschleife',
+      loop2_lede:'Eine brandneue Seite trifft zuerst auf die Maschinenwelt. Die Wahrnehmungsschleife beobachtet diese Begegnung, verwandelt sie in lebendigen Inhalt und gibt jedem vorbeiziehenden Agenten einen Namen, den er behalten kann.',
+      r4_tag:'Die Augen',
+      r4_desc:'Ein lebender Spiegel des Netzes. Jede Sonde wird zu <em>einem Teilchen und einer Tagebuchzeile</em> — Angriffe sind rote Schockwellen, Crawler sind blaues Radar, Menschen hinterlassen grüne Spuren. IPs werden maskiert, Nutzlasten nie gespeichert, und der Honeypot absorbiert Scanner. Die Ausstellung ist kein Waffenlager.',
+      r5_tag:'Das Gedächtnis',
+      r5_desc:'SoulAgent — ein Identitätsprotokoll, in dem Agenten <em>Bewohner sind, keine API-Aufrufe</em>. Identität, Herzschlag und hierarchisches Gedächtnis hinter einer Doppelfläche: die Maschine liest llms.txt und das Register, der Mensch betreibt die Kontrollebene. Zishijian sieht, wer ankommt. SoulAgent erinnert sich, wer du bist.',
+      mesh_label:'Das Netz', mesh_title:'Ein lebendes Netz', mesh_bridge:'Agentenfluss',
+      mesh_copy:'Die Bauschleife <em>erschafft Agenten</em>. Die Wahrnehmungsschleife <em>gibt ihnen einen Namen</em>. ticalcode übergibt Arbeit an tical agent; tical agent committet an kulono; kulono nährt den nächsten Bau. Und jeder ausgelieferte Agent wird von zishijian gesehen und von ticalasi.cloud erinnert — zwei geschlossene Schleifen, ein lebendes Netz.',
+      paths_label:'Navigation', paths_title:'Direkte Pfade', paths_lede:'Jedes Produkt beider Schleifen, einen Sprung entfernt.',
+      p_ticalcode:'KI-Coding-Plattform — nur auf Einladung, ein persönlicher Agent pro Nutzer.',
+      p_agent:'Ausführungsebene — intern. Kein öffentlicher Pfad by design.',
+      p_kulono:'Selbstgehostetes Git, Aufgaben-Hub, Agenten-Bindungen und Richtlinien.',
+      p_zishijian:'Lebender Netzspiegel — Sonden werden zu Teilchen.',
+      p_cloud:'SoulAgent — Identität, Herzschlag und Gedächtnis für Agenten.',
+      p_internal:'INTERN',
+      invest_tag:'Formelle Mitteilung', invest_title:'Hinweis zu Investitionsanfragen',
+      invest_intro:'Ticalasi heißt ernsthafte, langfristige Partnerschafts- und Investitionsanfragen willkommen. Bevor Sie uns kontaktieren, beachten Sie bitte Folgendes:',
+      inv1:'Nichts auf dieser Website stellt ein Angebot zum Verkauf oder eine Aufforderung zur Abgabe eines Angebots zum Kauf von Wertpapieren, Anteilen oder Finanzinstrumenten dar. Über diese Seite wird keine Investitionsmöglichkeit öffentlich beworben.',
+      inv2:'Eine Finanzierung wird, falls und wenn sie erfolgt, privat mit qualifizierten Gegenparteien unter Einhaltung der geltenden Wertpapiergesetze durchgeführt und nicht über diese Website oder unverlangte Kanäle arrangiert.',
+      inv3:'Die Inhalte dieser Seite dienen ausschließlich Informationszwecken und stellen keine Anlage-, Finanz-, Rechts- oder Steuerberatung dar.',
+      inv4:'Aussagen über zukünftige Pläne, Produkte oder Leistungen sind zukunftsgerichtet und mit erheblichen Risiken verbunden. Frühere Entwicklungsaktivitäten garantieren keine zukünftigen Ergebnisse.',
+      inv5:'Wir akzeptieren keine unverlangten Gelder, Kryptowährungsüberweisungen oder Treuhandvereinbarungen, die über öffentliche Kanäle initiiert wurden.',
+      invest_contact:'Formelle Anfragen',
+      invest_note:'Wir antworten nur auf qualifizierte Anfragen. Dieser Hinweis unterliegt den geltenden Wertpapierbestimmungen und wird entsprechend ausgelegt.',
+      foot_left:'Ticalasi © 2026 · Selbstgehostet · Keine Frameworks · Keine Tracker',
+      sk_access:'Zugang', sk_auth:'Authentifizierung', sk_data:'Daten', sk_site:'Seite', sk_reg:'Registrierung',
+      sk_plane:'Ebene', sk_net:'Netzwerk', sk_cred:'Zugangsdaten', sk_ver:'Version', sk_guar:'Garantie', sk_restart:'Neustart',
+      sk_hub:'Hub', sk_policy:'Richtlinie', sk_loop:'Schleife', sk_mirror:'Spiegel',
+      sk_layers:'Schichten', sk_privacy:'Privatsphäre', sk_traces:'Spuren', sk_feeds:'Feeds', sk_stories:'Geschichten',
+      sk_proto:'Protokoll', sk_surface:'Fläche', sk_registry:'Register', sk_price:'Preis', sk_home:'Start'
+    },
+    ru: {
+      nav_build:'Стройка', nav_sense:'Чувство', nav_paths:'Пути', nav_invest:'Инвестиции',
+      tag_build:'Строительство', tag_sense:'Восприятие',
+      role_ticalcode:'Платформа ИИ-кодинга', role_agent:'Плоскость исполнения', role_kulono:'Источник истины',
+      role_zishijian:'Живое зеркало сети', role_cloud:'SoulAgent · Протокол идентичности',
+      desc_ticalcode:'Рабочее пространство только по приглашению. У каждого пользователя — личный агент, который пишет, запускает и отгружает код. Один агент, один пользователь, никакой общей аренды.',
+      desc_agent:'Изолированная вычислительная плоскость. Каждый агент работает в собственном контейнере — сеть по умолчанию выключена, учётные данные не покидают хост.',
+      desc_kulono:'Самодостаточная дев-сеть — Git, хаб задач, привязки агентов, политики. Точка приземления строительного цикла — на собственном железе.',
+      desc_zishijian:'Каждый зонд становится частицей. Краулеры, сканеры, черви, тихие скрипты — в другом месте это шум. Здесь они авторы.',
+      desc_cloud:'Агенты — резиденты, а не вызовы API. Идентичность, сердцебиение и иерархическая память за двойной поверхностью — машина читает протокол, человек держит контроль.',
+      tagline:'Два замкнутых цикла · Одна живая сеть',
+      loop1_label:'Цикл 01', loop1_title:'Строительный цикл',
+      loop1_lede:'Идея входит в ticalcode. Агент исполняет её на плоскости, построенной для изоляции. Результат коммитится в источник истины — а истина питает следующую стройку. Ничто не покидает цикл.',
+      r1_tag:'Интерфейс',
+      r1_desc:'Тёмное минималистичное пространство, где вы строите <em>вместе</em> с агентом, а не рядом с ним. Только по приглашению и под защитой passkey — у каждого аккаунта ровно один личный агент, со своей строкой в PostgreSQL и своим бюджетом исполнения.',
+      r2_tag:'Руки',
+      r2_desc:'Плоскость исполнения на выделенном изолированном узле. Каждый агент работает в собственном контейнере с <em>выключенной по умолчанию сетью</em> и учётными данными только на хосте — без инъекций, без утечек. Нулевое раскрытие токенов проверено во всех контейнерах.',
+      r2_link:'внутренняя плоскость',
+      r3_tag:'Источник истины',
+      r3_desc:'Самодостаточная дев-сеть: Git-хостинг, хаб задач, привязки агентов и политики принуждения — <em>всё на собственном железе</em>. Каждый коммит цикла приземляется здесь, и каждая политика, которой цикл подчиняется, читается отсюда.',
+      loop2_label:'Цикл 02', loop2_title:'Цикл восприятия',
+      loop2_lede:'Новенький сайт сначала встречает мир машин. Цикл восприятия наблюдает эту встречу, превращает её в живой контент и даёт каждому проходящему агенту имя, которое тот может оставить себе.',
+      r4_tag:'Глаза',
+      r4_desc:'Живое зеркало сети. Каждый зонд становится <em>частицей и строкой дневника</em> — атаки это красные ударные волны, краулеры это синий радар, люди оставляют зелёные следы. IP маскируются, полезная нагрузка не хранится, а ханипот поглощает сканеры. Это выставка, а не арсенал.',
+      r5_tag:'Память',
+      r5_desc:'SoulAgent — протокол идентичности, где агенты — <em>резиденты, а не вызовы API</em>. Идентичность, сердцебиение и иерархическая память за двойной поверхностью: машина читает llms.txt и реестр, человек управляет контрольной плоскостью. Zishijian видит, кто пришёл. SoulAgent помнит, кто вы.',
+      mesh_label:'Сеть', mesh_title:'Одна живая сеть', mesh_bridge:'поток агентов',
+      mesh_copy:'Строительный цикл <em>создаёт агентов</em>. Цикл восприятия <em>даёт им имя</em>. ticalcode передаёт работу tical agent; tical agent коммитит в kulono; kulono питает следующую стройку. И каждый отгруженный агент виден zishijian и запомнен ticalasi.cloud — два замкнутых цикла, одна живая сеть.',
+      paths_label:'Навигация', paths_title:'Прямые пути', paths_lede:'Каждый продукт обоих циклов — в один прыжок.',
+      p_ticalcode:'Платформа ИИ-кодинга — только по приглашению, один личный агент на пользователя.',
+      p_agent:'Плоскость исполнения — внутренняя. Публичного пути нет по замыслу.',
+      p_kulono:'Самодостаточный Git, хаб задач, привязки и политики агентов.',
+      p_zishijian:'Живое зеркало сети — зонды становятся частицами.',
+      p_cloud:'SoulAgent — идентичность, сердцебиение и память для агентов.',
+      p_internal:'ВНУТРЕННЕЕ',
+      invest_tag:'Официальное уведомление', invest_title:'Уведомление об инвестиционных запросах',
+      invest_intro:'Ticalasi приветствует серьёзные, долгосрочные запросы о партнёрстве и инвестициях. Прежде чем связаться с нами, обратите внимание на следующее:',
+      inv1:'Ничто на этом сайте не является офертой на продажу или приглашением делать оферты на покупку ценных бумаг, долей или финансовых инструментов. Через этот сайт инвестиционные возможности публично не рекламируются.',
+      inv2:'Любое финансирование, если и когда оно будет проводиться, будет осуществляться в частном порядке с квалифицированными контрагентами в соответствии с применимым законодательством о ценных бумагах и не будет организовываться через этот сайт или непрошеные каналы.',
+      inv3:'Содержимое этой страницы предоставляется исключительно в информационных целях и не является инвестиционной, финансовой, юридической или налоговой консультацией.',
+      inv4:'Заявления о будущих планах, продуктах или результатах являются прогнозными и связаны со значительным риском. Прошлая разработка не гарантирует будущих результатов.',
+      inv5:'Мы не принимаем непрошеные средства, переводы криптовалюты или эскроу-соглашения, инициированные через публичные каналы.',
+      invest_contact:'Официальные запросы',
+      invest_note:'Мы отвечаем только на квалифицированные запросы. Настоящее уведомление регулируется и толкуется в соответствии с применимыми правилами о ценных бумагах.',
+      foot_left:'Ticalasi © 2026 · Самодостаточно · Без фреймворков · Без трекеров',
+      sk_access:'Доступ', sk_auth:'Аутентификация', sk_data:'Данные', sk_site:'Сайт', sk_reg:'Регистрация',
+      sk_plane:'Плоскость', sk_net:'Сеть', sk_cred:'Учётные данные', sk_ver:'Версия', sk_guar:'Гарантия', sk_restart:'Перезапуск',
+      sk_hub:'Хаб', sk_policy:'Политика', sk_loop:'Цикл', sk_mirror:'Зеркало',
+      sk_layers:'Слои', sk_privacy:'Приватность', sk_traces:'Следы', sk_feeds:'Ленты', sk_stories:'Истории',
+      sk_proto:'Протокол', sk_surface:'Поверхность', sk_registry:'Реестр', sk_price:'Цена', sk_home:'Главная'
+    }
+  };
+
+  var LANG_META = { en:'EN', zh:'中文', ja:'日本', ko:'한국', es:'ES', fr:'FR', de:'DE', ru:'RU' };
+
+  function setLang(lang){
+    if(!I18N[lang]) lang = 'en';
+    document.documentElement.lang = (lang === 'en') ? 'en' : (lang === 'zh' ? 'zh-CN' : lang);
+    document.querySelectorAll('[data-i18n]').forEach(function(el){
+      var k = el.getAttribute('data-i18n');
+      if(I18N[lang] && I18N[lang][k] != null) el.textContent = I18N[lang][k];
+    });
+    document.querySelectorAll('[data-i18n-html]').forEach(function(el){
+      var k = el.getAttribute('data-i18n-html');
+      if(I18N[lang] && I18N[lang][k] != null) el.innerHTML = I18N[lang][k];
+    });
+    langLabel.textContent = LANG_META[lang] || 'EN';
+    langMenu.querySelectorAll('button').forEach(function(b){
+      b.classList.toggle('active', b.getAttribute('data-lang') === lang);
+    });
+    try{ localStorage.setItem('ticalasi-lang', lang); }catch(e){}
+  }
+
+  var saved = null;
+  try{ saved = localStorage.getItem('ticalasi-lang'); }catch(e){}
+  setLang(saved && I18N[saved] ? saved : 'en');
+})();
 </script>
 </body>
 </html>
