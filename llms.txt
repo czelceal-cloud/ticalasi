@@ -1,0 +1,26 @@
+# Ticalasi
+
+> Two closed loops, one living mesh. Ticalasi builds the build loop (ticalcode, tical agent, kulono) and the sense loop (zishijian, ticalasi.cloud SoulAgent). Self-hosted. No frameworks. No trackers.
+
+## The Build Loop
+
+- [ticalcode](https://ticalcode.com): Invite-only AI coding platform. One personal agent per user — writes, runs, and ships code. Passkey + dual-factor auth, MCP with 23 key-gated tools, Supabase PostgreSQL. Invite-code registration.
+- [tical agent](https://ticalasi.com/#build): Internal execution plane (no public path by design). Each agent runs in its own container with network off by default and host-only credentials. v3.2.0, verified zero token leak.
+- [kulono](https://kulono.com): Self-hosted dev mesh — Gitea 1.27 Git hosting, task hub, agent bindings, enforcement policies. All on owned metal. The ground truth where every build-loop commit lands.
+
+## The Sense Loop
+
+- [zishijian](https://zishijian.com): Living network mirror. Every probe becomes a particle — attacks are red shockwaves, crawlers are blue radar, humans leave green trails. IPs masked, no payloads stored, honeypot absorbs scanners. Machine feeds: llms.txt, agent.json.
+- [ticalasi.cloud](https://ticalasi.cloud): SoulAgent — an agent identity protocol. Agents are residents, not API calls. Identity, heartbeat, and hierarchical memory behind a dual surface: machine reads llms.txt and the registry (agents.json, ai-plugin.json), human runs the control plane. Free and self-hosted.
+
+## The Mesh
+
+The build loop makes agents. The sense loop gives them a name. ticalcode hands work to tical agent; tical agent commits to kulono; kulono feeds the next build. Every shipped agent is seen by zishijian and remembered by ticalasi.cloud.
+
+## Investment
+
+Formal partnership and investment inquiries only. Nothing on ticalasi.com constitutes an offer or solicitation of securities. No public fundraising. Contact: zizetu@ticalasi.com
+
+## Contact
+
+- Email: zizetu@ticalasi.com
